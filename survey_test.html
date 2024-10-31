@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>이미지 비교 설문조사</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .question {
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .instruction {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .image-pair {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 10px;
+        }
+        .image-pair img {
+            width: 200px;
+            height: auto;
+            border: 2px solid #000;
+        }
+        .submit-btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>이미지 비교 설문조사</h1>
+<p>"background consistency"가 더 좋은 이미지를 선택하세요.</p>
+
+<form action="/submit-survey" method="POST">
+
+    <!-- 자바스크립트로 이미지 쌍을 정의 -->
+    <script>
+        const imagePairs = [
+            { img1: "이미지1 링크", img2: "이미지2 링크", img3: "기준 이미지 링크", instruction: "Instruction text here" },
+            { img1: "이미지3 링크", img2: "이미지4 링크", img3: "기준 이미지 링크", instruction: "Instruction text here" },
+            { img1: "이미지5 링크", img2: "이미지6 링크", img3: "기준 이미지 링크", instruction: "Instruction text here" },
+            // 필요에 따라 추가 이미지 쌍을 여기에 추가
+        ];
+
+        function generateQuestions() {
+            const form = document.querySelector("form");
+            imagePairs.forEach((pair, index) => {
+                const questionDiv = document.createElement("div");
+                questionDiv.className = "question";
+
+                // 지침 텍스트 추가
+                const instructionText = document.createElement("p");
+                instructionText.className = "instruction";
+                instructionText.textContent = pair.instruction;
+                questionDiv.appendChild(instructionText);
+
+                // 기준 이미지 추가
+                const referenceImage = document.createElement("img");
+                referenceImage.src = pair.img3;
+                referenceImage.alt = "기준 이미지";
+                referenceImage.style.border = "2px dashed #000"; // 기준 이미지 스타일
+                questionDiv.appendChild(referenceImage);
+
+                // 이미지 쌍 추가
+                const imagePairDiv = document.createElement("div");
+                imagePairDiv.className = "image-pair";
+
+                const label1 = document.createElement("label");
+                const radio1 = document.createElement("input");
+                radio1.type = "radio";
+                radio1.name = `question${index + 1}`;
+                radio1.value = "image1";
+                const img1 = document.createElement("img");
+                img1.src = pair.img1;
+                img1.alt = `Image ${index + 1} - 1`;
+                label1.appendChild(radio1);
+                label1.appendChild(img1);
+
+                const label2 = document.createElement("label");
+                const radio2 = document.createElement("input");
+                radio2.type = "radio";
+                radio2.name = `question${index + 1}`;
+                radio2.value = "image2";
+                const img2 = document.createElement("img");
+                img2.src = pair.img2;
+                img2.alt = `Image ${index + 1} - 2`;
+                label2.appendChild(radio2);
+                label2.appendChild(img2);
+
+                imagePairDiv.appendChild(label1);
+                imagePairDiv.appendChild(label2);
+
+                questionDiv.appendChild(imagePairDiv);
+                form.insertBefore(questionDiv, form.querySelector(".submit-btn"));
+            });
+        }
+
+        window.onload = generateQuestions;
+    </script>
+
+    <!-- 완료 버튼 -->
+    <button type="submit" class="submit-btn">설문 제출</button>
+</form>
+
+</body>
+</html>
