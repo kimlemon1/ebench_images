@@ -1,0 +1,5 @@
+org_img_id: 2392128
+org_cap: A traffic light hangs suspended from a wire above a city street, its circular red traffic light glowing in the gray afternoon sky.
+trg_cap: A traffic light hangs suspended from a wire above a city street, its circular black traffic light glowing in the gray afternoon sky.
+instruction: Change the color of the traffic light from red to black.
+taskid: 40384

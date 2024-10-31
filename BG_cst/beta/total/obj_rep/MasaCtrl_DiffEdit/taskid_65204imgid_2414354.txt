@@ -1,0 +1,5 @@
+org_img_id: 2414354
+org_cap: a person holds a leash attached to an orange dog.
+trg_cap: The person holds a leash attached to a cow.
+instruction: Replace the dog with a cow.
+taskid: 65204

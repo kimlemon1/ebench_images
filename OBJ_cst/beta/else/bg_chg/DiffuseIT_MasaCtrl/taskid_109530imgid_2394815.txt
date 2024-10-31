@@ -1,0 +1,5 @@
+org_img_id: 2394815
+org_cap: An adult giraffe eating stands in front of a fence, its neck and legs visible, with a sheen on its fur.
+trg_cap: An adult giraffe eating stands in front of a fence, its neck and legs visible, with a sheen on its fur, set against the backdrop of a concert hall.
+instruction: Change the background to concert hall.
+taskid: 109530

@@ -1,0 +1,5 @@
+org_img_id: 2348750
+org_cap: A black motorcycle sits alone on a beachside walkway, surrounded by palm trees and a clear blue sky with a few puffy clouds.
+trg_cap: A pencil sketch depicts a black motorcycle sitting alone on a beachside walkway, surrounded by palm trees and a clear blue sky with a few puffy clouds.
+instruction: Change the style if the image to pencil sketch.
+taskid: 34236

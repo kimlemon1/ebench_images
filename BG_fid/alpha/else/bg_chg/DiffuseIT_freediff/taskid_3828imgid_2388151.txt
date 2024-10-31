@@ -1,0 +1,5 @@
+org_img_id: 2388151
+org_cap: A wet person is standing and surfing on a yellow surfboard, her hair behind her as she rides through the waves.
+trg_cap: A wet person is standing and surfing on a yellow surfboard, her hair behind her as she rides through the waves, having just come from an intense workout at the gym.
+instruction: Change the background to gym.
+taskid: 3828

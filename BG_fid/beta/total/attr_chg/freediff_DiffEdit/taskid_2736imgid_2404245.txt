@@ -1,0 +1,5 @@
+org_img_id: 2404245
+org_cap: The garage was filled with friends and family, sitting in a circle of lawn chairs and cheering on the game, with a tan dog.
+trg_cap: The garage was filled with friends and family, sitting in a circle of lawn chairs and cheering on the game, with a red dog.
+instruction: Change the color of the dog from tan to red.
+taskid: 2736

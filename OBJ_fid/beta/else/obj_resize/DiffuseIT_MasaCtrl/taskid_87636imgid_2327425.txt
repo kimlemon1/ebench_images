@@ -1,0 +1,5 @@
+org_img_id: 2327425
+org_cap: a person leaps into the air, their legs splayed as they attempt to catch a white frisbee, thrown by another person, who is standing several feet away with a determined look on his face.
+trg_cap: a person leaps into the air, their legs splayed as they attempt to catch a large white frisbee, thrown by another person, who is standing several feet away with a determined look on his face.
+instruction: Make the frisbee larger.
+taskid: 87636

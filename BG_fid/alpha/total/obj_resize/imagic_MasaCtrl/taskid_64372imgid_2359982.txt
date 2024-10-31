@@ -1,0 +1,5 @@
+org_img_id: 2359982
+org_cap: a black dog with a collar on a wooden bench in a park, its paws over the edge as it out at the autumn foliage.
+trg_cap: a large black dog with a collar on a wooden bench in a park, its paws over the edge as it out at the autumn foliage.
+instruction: Make the dog larger.
+taskid: 64372

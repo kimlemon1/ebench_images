@@ -1,0 +1,5 @@
+org_img_id: 2359992
+org_cap: "Person across the green grass, yellow frisbee in hand, as yellow frisbee through the air, the sun shining down on the scene with a warm, cheerful glow."
+trg_cap: Dining table across the green grass, a yellow frisbee through the air, the sun shining down on the scene with a warm, cheerful glow.
+instruction: Replace the person with a dining table.
+taskid: 24284

@@ -1,0 +1,5 @@
+org_img_id: 2342934
+org_cap: a person sat on a couch, laptop open on his lap, with a sleeping cat on his chest.
+trg_cap: A person sat on a couch in a grass field, laptop open on his lap, with a sleeping cat on his chest.
+instruction: Change the background to grass field.
+taskid: 8135

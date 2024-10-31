@@ -1,0 +1,5 @@
+org_img_id: 2340514
+org_cap: Person through the snow-covered forest, his snowshoes on the frozen ground as he for any signs of wildlife.
+trg_cap: A grayscale photo shows a person moving through the snow-covered forest, his snowshoes on the frozen ground as he looks for any signs of wildlife.
+instruction: Change the style if the image to grey scale.
+taskid: 40546

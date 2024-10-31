@@ -1,0 +1,5 @@
+org_img_id: 2341157
+org_cap: The red bus is, featuring a distinctive curved front and a rounded roofline.
+trg_cap: The red frisbee it is.
+instruction: Replace the bus with a frisbee.
+taskid: 491

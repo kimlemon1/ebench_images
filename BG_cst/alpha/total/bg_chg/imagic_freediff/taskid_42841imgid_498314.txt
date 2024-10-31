@@ -1,0 +1,5 @@
+org_img_id: 498314
+org_cap: person carves through the fresh powder on their snowboard, the purple and white snowboard gliding smoothly over the snow as they expertly navigate the mountain.
+trg_cap: In an aquarium-themed setting, the person carves through the fresh powder on their snowboard, the purple and white snowboard gliding smoothly over the snow as they expertly navigate the mountain, surrounded by vibrant coral reefs and schools of colorful fish.
+instruction: Change the background to aquarium.
+taskid: 42841

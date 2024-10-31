@@ -1,0 +1,5 @@
+org_img_id: 2334413
+org_cap: A person stands alone on the beach, a colorful umbrella against the bright blue sky.
+trg_cap: A sink stands alone on the beach.
+instruction: Replace the person with a sink.
+taskid: 1197

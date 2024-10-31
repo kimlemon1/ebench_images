@@ -1,0 +1,5 @@
+org_img_id: 2378897
+org_cap: The white porcelain toilet sits on a tile floor with a decorative border and a few small, black tiles in a floral pattern.
+trg_cap: The white porcelain toilet sits on a tile floor with a decorative border and a few small, black tiles in a floral pattern, set against the backdrop of a lush grass field.
+instruction: Change the background to grass field.
+taskid: 100770

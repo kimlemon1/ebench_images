@@ -1,0 +1,5 @@
+org_img_id: 2325274
+org_cap: a person stands beside a wooden stall, surrounded by a colorful array of carrot, their vibrant orange and yellow hues glistening in the sunlight, with a few bunches of beets and some leafy greens adding a pop of green to the scene.
+trg_cap: A Van Gogh style art depicts a person standing beside a wooden stall, surrounded by a colorful array of carrots with vibrant orange and yellow hues glistening in the sunlight, accompanied by a few bunches of beets and some leafy greens adding a pop of green to the scene.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 66483

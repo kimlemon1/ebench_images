@@ -1,0 +1,5 @@
+org_img_id: 2403791_1
+org_cap: A young person wearing a helmet and holding a black skateboard stands against a railing, with the black skateboard resting on the railing and his legs bent in a relaxed position.
+trg_cap: A young person wearing a helmet and holding a black skateboard stands against a railing in an aquarium, with the black skateboard resting on the railing and his legs bent in a relaxed position.
+instruction: Change the background to aquarium.
+taskid: 102993

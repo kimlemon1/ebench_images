@@ -1,0 +1,5 @@
+org_img_id: 2381972
+org_cap: A white boat is navigating through the calm waters, with a few pelicans and seagulls flying overhead and a small island visible in the distance.
+trg_cap: A gold boat is navigating through the calm waters, with a few pelicans and seagulls flying overhead and a small island visible in the distance.
+instruction: Change the color of the boat from white to gold.
+taskid: 23254

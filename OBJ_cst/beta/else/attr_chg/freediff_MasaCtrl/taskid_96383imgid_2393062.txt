@@ -1,0 +1,5 @@
+org_img_id: 2393062
+org_cap: The kitchen features a black microwave, adjacent to a stainless steel sink.
+trg_cap: The kitchen features a black microwave, adjacent to a ceramic sink.
+instruction: Change the material of the sink from stainless steel to ceramic.
+taskid: 96383

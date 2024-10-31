@@ -1,0 +1,5 @@
+org_img_id: 2338416
+org_cap: The scene is focused on a white cat on the edge of a sink, its fur fluffed up and its green eyes at something in the distance.
+trg_cap: The scene is focused on a white cat on the edge of a sink, its fur fluffed up and its green eyes at something in the distance, with the bustling atmosphere of a stadium in the background.
+instruction: Change the background to stadium.
+taskid: 69800

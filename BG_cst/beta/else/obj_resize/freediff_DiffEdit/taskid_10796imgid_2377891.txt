@@ -1,0 +1,5 @@
+org_img_id: 2377891
+org_cap: person sits on the back of a brown, dirty elephant, wearing a striped shirt and holding onto the ears with both hands.
+trg_cap: person sits on the back of a large, brown, dirty elephant, wearing a striped shirt and holding onto the ears with both hands.
+instruction: Make the elephant larger.
+taskid: 10796

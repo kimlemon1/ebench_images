@@ -1,0 +1,5 @@
+org_img_id: 2411384
+org_cap: A tan teddy bear sits on a table, surrounded by a plate of warm apple pie and a spoon, with a dollop of whipped cream on top.
+trg_cap: A pink teddy bear sits on a table, surrounded by a plate of warm apple pie and a spoon, with a dollop of whipped cream on top.
+instruction: Change the color of the teddy bear from tan to pink.
+taskid: 94981

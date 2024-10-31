@@ -1,0 +1,5 @@
+org_img_id: 2380714
+org_cap: A slice of red chocolate cake sits on a white plate with a silver fork next to it.
+trg_cap: A slice of red cream colored cake sits on a white plate with a silver fork next to it.
+instruction: Change the color of the cake from chocolate to cream colored.
+taskid: 116797

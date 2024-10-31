@@ -1,0 +1,5 @@
+org_img_id: 2328609
+org_cap: a brown wood skateboard soars through the air, its wheels a blur as it approaches the concrete floor.
+trg_cap: a gold wood skateboard soars through the air, its wheels a blur as it approaches the concrete floor.
+instruction: Change the color of the skateboard from brown to gold.
+taskid: 1427

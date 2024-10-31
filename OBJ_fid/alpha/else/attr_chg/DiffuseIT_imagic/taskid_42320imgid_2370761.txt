@@ -1,0 +1,5 @@
+org_img_id: 2370761
+org_cap: The slats of the metal, wood, black, iron bench creaked softly in the autumn breeze, its paint chipped and faded, surrounded by the rustling leaves of the nearby trees.
+trg_cap: The slats of the metal, wood, black, bronze bench creaked softly in the autumn breeze, its paint chipped and faded, surrounded by the rustling leaves of the nearby trees.
+instruction: Change the material of the bench from iron to bronze.
+taskid: 42320

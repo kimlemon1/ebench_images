@@ -1,0 +1,5 @@
+org_img_id: 2407997
+org_cap: a train carriage stands at the platform, its doors open and a few passengers disembarking onto the platform, where a black steel bench sits.
+trg_cap: a train carriage stands at the platform, its doors open and a few passengers disembarking onto the platform, where a black gravel bench sits.
+instruction: Change the material of the bench from steel to gravel.
+taskid: 97724

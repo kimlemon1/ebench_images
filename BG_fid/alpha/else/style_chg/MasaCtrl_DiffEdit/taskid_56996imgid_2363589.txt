@@ -1,0 +1,5 @@
+org_img_id: 2363589
+org_cap: a black bicycle, leaning against a black wooden bench outside a small, unassuming shop with a sign reading "tattoo" in bold, black letters.
+trg_cap: A grayscale photo features a black bicycle leaning against a black wooden bench outside a small, unassuming shop with a sign reading "tattoo" in bold, black letters.
+instruction: Change the style if the image to grey scale.
+taskid: 56996

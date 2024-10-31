@@ -1,0 +1,5 @@
+org_img_id: 2414643
+org_cap: jumping person on his white snowboard, his in his wake.
+trg_cap: Jumping baseball glove.
+instruction: Replace the person with a baseball glove.
+taskid: 96927

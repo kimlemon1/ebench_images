@@ -1,0 +1,5 @@
+org_img_id: 2320353
+org_cap: Jumping person through the air, his snowboard out from under his feet as he mid-air, his arms and legs in a motion, his snowsuit and boots a blur as he over the snow-covered mountainside.
+trg_cap: Jumping person through the air, his snowboard out from under his feet as he mid-air, his arms and legs in a motion, his snowsuit and boots a blur as he over the snow-covered mountainside, with a fork on his left side.
+instruction: Add a fork on the left side of the person.
+taskid: 34517

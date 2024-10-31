@@ -1,0 +1,5 @@
+org_img_id: 2343263
+org_cap: a person lies flat on a skateboard, his arms stretched out to the sides and his legs splayed wide, with his feet pointing in opposite directions.
+trg_cap: a person lies flat on a small skateboard, his arms stretched out to the sides and his legs splayed wide, with his feet pointing in opposite directions.
+instruction: Make the skateboard smaller.
+taskid: 32922

@@ -1,0 +1,5 @@
+org_img_id: 2345455
+org_cap: surfing person rides a surfboard through a wave, arms and legs extended as he carves through the water.
+trg_cap: surfing person rides a surfboard through a wave, arms and legs extended as he carves through the water, with a horse on the right side of the person.
+instruction: Add a horse on the right side of the person.
+taskid: 7652

@@ -1,0 +1,5 @@
+org_img_id: 2376481
+org_cap: a white stop sign, with a pedestrian crossing the road in the background.
+trg_cap: a gray stop sign, with a pedestrian crossing the road in the background.
+instruction: Change the color of the stop sign from white to gray.
+taskid: 38391

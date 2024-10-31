@@ -1,0 +1,5 @@
+org_img_id: 2357225_0
+org_cap: person wears a yellow vest and gloves on a residential street.
+trg_cap: A cartoon-style artwork features a person wearing a yellow vest and gloves on a residential street.
+instruction: Change the style if the image to cartoon style.
+taskid: 24110

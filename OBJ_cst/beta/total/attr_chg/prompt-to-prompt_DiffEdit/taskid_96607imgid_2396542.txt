@@ -1,0 +1,5 @@
+org_img_id: 2396542
+org_cap: a baby gray elephant with a trunk and tusks, and a body with a back and a tail.
+trg_cap: a elderly gray elephant with a trunk and tusks, and a body with a back and a tail.
+instruction: Change the state of the elephant from baby to elderly.
+taskid: 96607

@@ -1,0 +1,5 @@
+org_img_id: 2369472
+org_cap: the kitchen features a white, single-handle faucet above a sink with a stainless steel basin, accompanied by a toaster with brass knobs.
+trg_cap: The kitchen features a white, single-handle faucet above a sink with a stainless steel basin, accompanied by a dishwasher.
+instruction: Replace the toaster with a oven.
+taskid: 55497

@@ -1,0 +1,5 @@
+org_img_id: 2367346
+org_cap: "person in the kitchen, wearing a green apron and a messy kitchen behind her and plates and utensils scattered around."
+trg_cap: book in the kitchen.
+instruction: Replace the person with a book.
+taskid: 53614

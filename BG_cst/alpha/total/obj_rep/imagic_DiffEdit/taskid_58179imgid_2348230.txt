@@ -1,0 +1,5 @@
+org_img_id: 2348230
+org_cap: a person is pulling a rope attached to an elephant's tusks, as the elephant on the ground, its trunk around the rope.
+trg_cap: A person is pulling a rope attached to the bicycle's tusks.
+instruction: Replace the elephant with a bicycle.
+taskid: 58179

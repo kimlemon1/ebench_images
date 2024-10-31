@@ -1,0 +1,5 @@
+org_img_id: 2395709
+org_cap: the black cat on a patchwork quilt, its dark fur matted and dirty, its eyes closed in a peaceful slumber.
+trg_cap: The black toothbrush.
+instruction: Replace the cat with a toothbrush.
+taskid: 114867

@@ -1,0 +1,5 @@
+org_img_id: 2368272
+org_cap: A young person holds a colorful umbrella and smiles.
+trg_cap: A young person holds a colorful umbrella and smiles, floating inside a space station.
+instruction: Change the background to space station.
+taskid: 100395

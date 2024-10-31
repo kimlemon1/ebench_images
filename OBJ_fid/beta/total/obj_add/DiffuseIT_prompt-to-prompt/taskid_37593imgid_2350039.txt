@@ -1,0 +1,5 @@
+org_img_id: 2350039
+org_cap: a person sat on a bench, holding a slice of pizza and wearing a suit and tie, while another person sat next to them, also holding a slice of pizza and wearing a dress.
+trg_cap: A person sat on a bench, holding a slice of pizza with an orange on it and wearing a suit and tie, while another person sat next to them, also holding a slice of pizza and wearing a dress.
+instruction: Add a orange on the pizza.
+taskid: 37593

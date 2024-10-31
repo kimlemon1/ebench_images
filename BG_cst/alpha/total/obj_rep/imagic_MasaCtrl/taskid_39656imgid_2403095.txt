@@ -1,0 +1,5 @@
+org_img_id: 2403095
+org_cap: Person swings his racket, his arm extending, his wrist cocked, his fingers wrapped around the grip.
+trg_cap: Bird swings its racket.
+instruction: Replace the person with a bird.
+taskid: 39656

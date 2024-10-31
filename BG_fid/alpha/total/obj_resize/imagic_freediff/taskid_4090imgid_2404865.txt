@@ -1,0 +1,5 @@
+org_img_id: 2404865
+org_cap: a lone surfer, clad in wetsuit and booties, strides purposefully across the golden sand, surfboard under arm, as the fiery orange sunset casts a warm glow over the tranquil beach.
+trg_cap: a lone surfer, clad in wetsuit and booties, strides purposefully across the golden sand, large surfboard under arm, as the fiery orange sunset casts a warm glow over the tranquil beach.
+instruction: Make the surfboard larger.
+taskid: 4090

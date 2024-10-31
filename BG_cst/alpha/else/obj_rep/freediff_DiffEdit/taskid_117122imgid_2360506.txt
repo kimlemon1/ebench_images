@@ -1,0 +1,5 @@
+org_img_id: 2360506
+org_cap: A red tie hangs around a man's neck.
+trg_cap: A keyboard hangs around his neck.
+instruction: Replace the tie with a keyboard.
+taskid: 117122

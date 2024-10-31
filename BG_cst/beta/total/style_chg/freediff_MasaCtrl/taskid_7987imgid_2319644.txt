@@ -1,0 +1,5 @@
+org_img_id: 2319644
+org_cap: A glass vase sits on a wooden table, surrounded by a few books and a decorative glass vase.
+trg_cap: The art, in a watercolor painting style, features a glass vase sitting on a wooden table, surrounded by a few books and a decorative glass vase.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 7987

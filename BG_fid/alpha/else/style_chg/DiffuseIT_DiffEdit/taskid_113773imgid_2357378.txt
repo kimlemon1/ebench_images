@@ -1,0 +1,5 @@
+org_img_id: 2357378
+org_cap: a white airplane flies across a light blue sky with puffy white clouds.
+trg_cap: A pencil sketch depicts a white airplane flying across a light blue sky with puffy white clouds.
+instruction: Change the style if the image to pencil sketch.
+taskid: 113773

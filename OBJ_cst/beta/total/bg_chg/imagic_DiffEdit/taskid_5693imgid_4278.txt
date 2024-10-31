@@ -1,0 +1,5 @@
+org_img_id: 4278
+org_cap: The scene is focused on a kitchen with a black oven, situated in a modern apartment with a granite countertop, wooden cabinets, and a stainless steel sink.
+trg_cap: The scene is focused on a kitchen with a black oven, situated in a art gallery.
+instruction: Change the background to art gallery.
+taskid: 5693

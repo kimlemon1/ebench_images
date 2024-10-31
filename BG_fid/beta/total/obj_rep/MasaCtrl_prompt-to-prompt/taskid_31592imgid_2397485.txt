@@ -1,0 +1,5 @@
+org_img_id: 2397485
+org_cap: the teddy bear sits on a cake, holding a heart with the number one on it, surrounded by pink and white flowers.
+trg_cap: The cow, surrounded by its pink and white flowers.
+instruction: Replace the teddy bear with a cow.
+taskid: 31592

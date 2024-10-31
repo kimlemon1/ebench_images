@@ -1,0 +1,5 @@
+org_img_id: 2383349
+org_cap: A wood bench sits at the base of a tall tree on a quiet street.
+trg_cap: A wood bench sits at the base of a tall tree on a quiet street, surrounded by a grass field.
+instruction: Change the background to grass field.
+taskid: 58712

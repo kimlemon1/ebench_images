@@ -1,0 +1,5 @@
+org_img_id: 2390510
+org_cap: a blue plastic figurine of person stands on a sandy beach, holding a white surfboard.
+trg_cap: A blue plastic figurine of a person stands on a library shelf, holding a white surfboard.
+instruction: Change the background to library.
+taskid: 35129

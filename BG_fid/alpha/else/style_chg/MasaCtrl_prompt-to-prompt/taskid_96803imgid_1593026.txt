@@ -1,0 +1,5 @@
+org_img_id: 1593026
+org_cap: a bright red double-decker bus with a vintage charm, parked alongside a historic stone church with a distinctive steeple, surrounded by lush greenery and colorful flowers.
+trg_cap: The pop art style artwork features a bright red double-decker bus with vintage charm parked alongside a historic stone church with a distinctive steeple, all surrounded by lush greenery and colorful flowers.
+instruction: Change the style if the image to pop art style.
+taskid: 96803

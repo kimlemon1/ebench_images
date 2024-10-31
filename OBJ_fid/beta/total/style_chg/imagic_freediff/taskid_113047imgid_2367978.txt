@@ -1,0 +1,5 @@
+org_img_id: 2367978
+org_cap: a plate of grilled chicken sits atop a bed of green broccoli, with a sprinkle of salt and a dash of pepper on the side.
+trg_cap: An ancient Egyptian-style artwork features a plate of grilled chicken atop a bed of green broccoli, with a sprinkle of salt and a dash of pepper on the side.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 113047

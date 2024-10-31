@@ -1,0 +1,5 @@
+org_img_id: 2347068
+org_cap: a yellow skateboard glides along the asphalt road, its yellow wheels spinning in a blur as the rider's legs flex and extend to maintain speed and balance.
+trg_cap: An ancient Egyptian-style artwork depicts a yellow skateboard gliding along the asphalt road, its yellow wheels spinning in a blur as the rider's legs flex and extend to maintain speed and balance.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 9063

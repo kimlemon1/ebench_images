@@ -1,0 +1,5 @@
+org_img_id: 2367939
+org_cap: a juicy hot dog topped with crispy fried onions, crunchy pickle slices, and a dollop of creamy mayonnaise, served on a soft bun and accompanied by a cold can of beer.
+trg_cap: a small, juicy hot dog topped with crispy fried onions, crunchy pickle slices, and a dollop of creamy mayonnaise, served on a soft bun and accompanied by a cold can of beer.
+instruction: Make the hot dog smaller.
+taskid: 114181

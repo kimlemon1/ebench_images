@@ -1,0 +1,5 @@
+org_img_id: 2330955
+org_cap: person rides a surfboard through a wave, his arms and legs extended as he carves through the water.
+trg_cap: A cartoon-style artwork depicts a person riding a surfboard through a wave, with their arms and legs extended as they carve through the water.
+instruction: Change the style if the image to cartoon style.
+taskid: 33254

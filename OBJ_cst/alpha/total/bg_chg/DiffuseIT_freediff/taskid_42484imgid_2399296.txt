@@ -1,0 +1,5 @@
+org_img_id: 2399296
+org_cap: a white boat with a red sail is tied to a dock, and a person is standing next to it, holding a bicycle with a rusty chain and worn tires.
+trg_cap: A white boat with a red sail is tied to a dock, and a person is standing next to it, holding a bicycle with a rusty chain and worn tires, with a grass field in the background.
+instruction: Change the background to grass field.
+taskid: 42484

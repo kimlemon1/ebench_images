@@ -1,0 +1,5 @@
+org_img_id: 2416259
+org_cap: "person gives a thumbs up and a smile as he holds up a slice of pizza, his eyes with delight."
+trg_cap: Microwave gives a thumbs up and a smile as it holds up a slice of pizza.
+instruction: Replace the person with a microwave.
+taskid: 77502

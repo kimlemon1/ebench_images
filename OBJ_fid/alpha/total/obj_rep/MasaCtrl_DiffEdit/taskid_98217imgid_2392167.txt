@@ -1,0 +1,5 @@
+org_img_id: 2392167
+org_cap: The halved sandwich sits on a dark blue plate, its layers of bread, lettuce, and ham visible in a neat stack.
+trg_cap: The halved orange sits on a dark blue plate.
+instruction: Replace the sandwich with a orange.
+taskid: 98217

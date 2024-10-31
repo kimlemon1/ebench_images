@@ -1,0 +1,5 @@
+org_img_id: 2414608
+org_cap: Surfing person rides a wave, his hair behind him as he performs a turn on a white surfboard.
+trg_cap: Surfing person rides a wave, his hair behind him as he performs a turn on a white surfboard, with a dog on the left side of the surfboard.
+instruction: Add a dog on the left side of the surfboard.
+taskid: 26

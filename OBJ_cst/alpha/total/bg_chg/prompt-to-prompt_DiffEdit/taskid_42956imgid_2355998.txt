@@ -1,0 +1,5 @@
+org_img_id: 2355998
+org_cap: a person holds a large, circular pizza with a crispy crust and melted cheese, sliced into wedges, with various toppings such as green peppers, onions, and olives visible on the surface.
+trg_cap: In the midst of a tropical jungle, a person holds a large, circular pizza with a crispy crust and melted cheese, sliced into wedges, with various toppings such as green peppers, onions, and olives visible on the surface.
+instruction: Change the background to tropical jungle.
+taskid: 42956

@@ -1,0 +1,5 @@
+org_img_id: 3774
+org_cap: a person on the stone steps of a small stone church, wearing a white shirt and dark pants, with a gentle smile on their face, and a few strands of hair, while a small boat with a blue sail floats in the calm waters of the harbor in the background.
+trg_cap: a large person on the stone steps of a small stone church, wearing a white shirt and dark pants, with a gentle smile on their face, and a few strands of hair, while a small boat with a blue sail floats in the calm waters of the harbor in the background.
+instruction: Make the person larger.
+taskid: 38965

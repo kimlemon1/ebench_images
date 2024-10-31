@@ -1,0 +1,5 @@
+org_img_id: 2333032
+org_cap: The analog clock face is suspended from a trailer hitch on a truck, surrounded by a wooden frame and adorned with intricate details like gold filigree and tiny clock hands.
+trg_cap: The analog clock face is suspended from a trailer hitch on a truck, surrounded by a wooden frame and adorned with intricate details like gold filigree and tiny clock hands, all set against the backdrop of a dimly lit cave.
+instruction: Change the background to cave.
+taskid: 63498

@@ -1,0 +1,5 @@
+org_img_id: 2413863
+org_cap: Person with ease, her movements as she the mountain.
+trg_cap: Person with ease, her movements as she navigated through the zoo like a mountain.
+instruction: Change the background to zoo.
+taskid: 39614

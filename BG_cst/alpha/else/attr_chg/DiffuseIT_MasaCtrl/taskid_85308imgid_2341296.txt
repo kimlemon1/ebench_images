@@ -1,0 +1,5 @@
+org_img_id: 2341296
+org_cap: a white dog in the back seat of a car, with a sad expression.
+trg_cap: a brown dog in the back seat of a car, with a sad expression.
+instruction: Change the color of the dog from white to brown.
+taskid: 85308

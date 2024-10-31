@@ -1,0 +1,5 @@
+org_img_id: 2342296
+org_cap: The double-decker bus is a blue bus with a white roof and a distinctive curved front, featuring a large advertisement on the side and a rear exit door.
+trg_cap: The double-decker laptop is a blue laptop, featuring a large advertisement on its side and a rear exit door.
+instruction: Replace the bus with a laptop.
+taskid: 64597

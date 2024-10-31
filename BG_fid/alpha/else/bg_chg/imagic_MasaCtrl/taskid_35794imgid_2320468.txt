@@ -1,0 +1,5 @@
+org_img_id: 2320468
+org_cap: a lone person in a black wetsuit and matching hood along the beach, a blue surfboard under their arm.
+trg_cap: a lone person in a black wetsuit and matching hood along the beach, a blue surfboard under their arm, reminiscent of a doctor in scrubs and a surgical cap, carrying a clipboard through the hospital corridors.
+instruction: Change the background to hospital.
+taskid: 35794

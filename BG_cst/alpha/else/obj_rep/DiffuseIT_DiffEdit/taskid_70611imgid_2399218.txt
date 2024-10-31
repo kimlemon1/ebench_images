@@ -1,0 +1,5 @@
+org_img_id: 2399218
+org_cap: a brown dog on a red couch, its paws and its head on a pillow.
+trg_cap: a brown backpack, its paws and its head on a pillow.
+instruction: Replace the dog with a backpack.
+taskid: 70611

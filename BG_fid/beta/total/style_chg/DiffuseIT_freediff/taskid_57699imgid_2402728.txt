@@ -1,0 +1,5 @@
+org_img_id: 2402728
+org_cap: A lone figure stands under an orange umbrella, its bright colors a stark contrast to the dull, snowy surroundings.
+trg_cap: A graffiti art piece features a lone figure standing under an orange umbrella, its bright colors a stark contrast to the dull, snowy surroundings.
+instruction: Change the style if the image to graffiti art.
+taskid: 57699

@@ -1,0 +1,5 @@
+org_img_id: 2384211
+org_cap: a lone person stands on the sandy beach, gazing up at a colorful kite soaring high in the sky, the wind whipping their hair as they hold the string.
+trg_cap: A lone small person stands on the sandy beach, gazing up at a colorful kite soaring high in the sky, the wind whipping their hair as they hold the string.
+instruction: Make the person smaller.
+taskid: 22090

@@ -1,0 +1,5 @@
+org_img_id: 2397444
+org_cap: a gray cat lying and sitting on the grassy ground outside a wooden shed, its eyes half-closed in a relaxed pose.
+trg_cap: a small gray cat lying and sitting on the grassy ground outside a wooden shed, its eyes half-closed in a relaxed pose.
+instruction: Make the cat smaller.
+taskid: 84400

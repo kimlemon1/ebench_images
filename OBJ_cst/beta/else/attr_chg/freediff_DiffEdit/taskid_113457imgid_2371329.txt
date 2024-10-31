@@ -1,0 +1,5 @@
+org_img_id: 2371329
+org_cap: the clock face on the brown clock is a yellow with carvings and details, featuring the image of person striking a bell with a hammer.
+trg_cap: the clock face on the teal clock is a yellow with carvings and details, featuring the image of person striking a bell with a hammer.
+instruction: Change the color of the clock from brown to teal.
+taskid: 113457

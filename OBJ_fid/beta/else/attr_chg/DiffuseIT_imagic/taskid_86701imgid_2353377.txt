@@ -1,0 +1,5 @@
+org_img_id: 2353377
+org_cap: surfing person rides a white surfboard, his wetsuit glistening with sea spray.
+trg_cap: surfing person rides a cream colored surfboard, his wetsuit glistening with sea spray.
+instruction: Change the color of the surfboard from white to cream colored.
+taskid: 86701

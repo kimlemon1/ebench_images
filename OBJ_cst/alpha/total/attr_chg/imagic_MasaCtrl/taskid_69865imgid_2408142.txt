@@ -1,0 +1,5 @@
+org_img_id: 2408142
+org_cap: the old clock hangs from a rusty bracket on the exterior wall of a historic building, its black clock, with intricate details and a subtle patina.
+trg_cap: the old clock hangs from a rusty bracket on the exterior wall of a historic building, its gold clock, with intricate details and a subtle patina.
+instruction: Change the color of the clock from black to gold.
+taskid: 69865

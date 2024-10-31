@@ -1,0 +1,5 @@
+org_img_id: 2339022
+org_cap: a solitary person sits on a worn green bench, surrounded by the quiet morning stillness of a winter day, with a few wispy clouds drifting lazily across the sky.
+trg_cap: An ancient Egyptian-style artwork depicts a solitary person sitting on a worn green bench, surrounded by the quiet morning stillness of a winter day, with a few wispy clouds drifting lazily across the sky.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 117271

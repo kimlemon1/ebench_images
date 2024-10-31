@@ -1,0 +1,5 @@
+org_img_id: 2403954
+org_cap: a person with a cheerful expression and a black t-shirt sits at a fork, holding a fork in his right hand and a fork of food in front of him.
+trg_cap: a person with a cheerful expression and a black t-shirt sits at a large fork, holding a large fork in his right hand and a fork of food in front of him.
+instruction: Make the fork larger.
+taskid: 2606

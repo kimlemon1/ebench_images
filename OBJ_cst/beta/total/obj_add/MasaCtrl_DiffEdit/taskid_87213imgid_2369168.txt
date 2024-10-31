@@ -1,0 +1,5 @@
+org_img_id: 2369168
+org_cap: a white truck and a ferry boat sit side by side on the ferry dock, with the wheels on the ferry and the boat's wooden slats visible beneath the tires.
+trg_cap: A white truck with a bird perched on its roof and a ferry boat sit side by side on the ferry dock, with the wheels on the ferry and the boat's wooden slats visible beneath the tires.
+instruction: Add a bird on the truck.
+taskid: 87213

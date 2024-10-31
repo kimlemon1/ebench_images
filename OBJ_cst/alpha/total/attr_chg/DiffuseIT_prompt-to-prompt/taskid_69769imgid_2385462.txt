@@ -1,0 +1,5 @@
+org_img_id: 2385462
+org_cap: A yellow fire hydrant stands on a grassy lawn, its yellow fire hydrant adorned with a band and a valve handle, casting a long shadow in the morning sunlight.
+trg_cap: A white fire hydrant stands on a grassy lawn, its white fire hydrant adorned with a band and a valve handle, casting a long shadow in the morning sunlight.
+instruction: Change the color of the fire hydrant from yellow to white.
+taskid: 69769

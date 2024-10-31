@@ -1,0 +1,5 @@
+org_img_id: 2377913
+org_cap: The slice of sliced pizza sits on a red and white checked tablecloth, surrounded by the remnants of a meal, including a half-empty beer mug and a plate with crumbs and spills.
+trg_cap: A watercolor painting style art depicts a slice of pizza on a red and white checked tablecloth, surrounded by the remnants of a meal, including a half-empty beer mug and a plate with crumbs and spills.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 9244

@@ -1,0 +1,5 @@
+org_img_id: 2333380
+org_cap: a train with a bright orange livery and a distinctive logo on the side, chugging along the train with a gentle hiss of steam and a soft rumble of wheels on the train.
+trg_cap: a keyboard, chugging along it.
+instruction: Replace the train with a keyboard.
+taskid: 113729

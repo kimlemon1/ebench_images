@@ -1,0 +1,5 @@
+org_img_id: 2362412
+org_cap: a skateboarder in a gray shirt and blue jeans leaps off a ramp, his skateboard flying out from his feet as he spins and flips through the air.
+trg_cap: A skateboarder in a gray shirt and blue jeans leaps off a ramp, his skateboard flying out from his feet as he spins and flips through the air, with a backpack on the left side of the skateboard.
+instruction: Add a backpack on the left side of the skateboard.
+taskid: 36748

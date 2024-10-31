@@ -1,0 +1,5 @@
+org_img_id: 2325487
+org_cap: a blue striped umbrella stands tall under a tree, its fabric slightly wrinkled and its metal ribs visible.
+trg_cap: A sheep stands tall under a tree.
+instruction: Replace the umbrella with a sheep.
+taskid: 71603

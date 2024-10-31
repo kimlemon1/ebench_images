@@ -1,0 +1,5 @@
+org_img_id: 2325449
+org_cap: Person alone on the tennis court, a racket and a tennis outfit, with the sun shining brightly overhead.
+trg_cap: Person alone on the tennis court, a racket and a tennis outfit, with the sun shining brightly overhead, and a book under the person.
+instruction: Add a book under the person.
+taskid: 11664

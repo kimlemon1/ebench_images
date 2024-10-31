@@ -1,0 +1,5 @@
+org_img_id: 2348398
+org_cap: "Person rides a horse, wearing a hat, surrounded by a flock of sheep and goats, with a few stray animals wandering around the rustic farm yard."
+trg_cap: Person rides a horse, wearing a hat, surrounded by a flock of sheep and goats, with a few stray animals wandering around the rustic living room.
+instruction: Change the background to living room.
+taskid: 77582

@@ -1,0 +1,5 @@
+org_img_id: 2414128
+org_cap: The neon sign above the white clock reads "public market" in bold, cursive letters.
+trg_cap: The neon sign above the white clock, behind which is a truck, reads "public market" in bold, cursive letters.
+instruction: Add a truck behind the clock.
+taskid: 88070

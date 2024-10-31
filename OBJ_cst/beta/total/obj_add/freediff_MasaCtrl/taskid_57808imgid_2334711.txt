@@ -1,0 +1,5 @@
+org_img_id: 2334711
+org_cap: a high-speed train with yellow stripes and a sleek design glides onto the platform, its wheels screeching softly as it comes to a stop in front of a historic train station with a clock tower and a picturesque mountain range visible in the background.
+trg_cap: A high-speed train with yellow stripes and a sleek design glides onto the platform, its wheels screeching softly as it comes to a stop in front of a horse standing near the edge of the platform, in front of a historic train station with a clock tower and a picturesque mountain range visible in the background.
+instruction: Add a horse in front of the train.
+taskid: 57808

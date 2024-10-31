@@ -1,0 +1,5 @@
+org_img_id: 2338385
+org_cap: the broccoli stands tall in the garden, its leafy green stalks swaying gently in the breeze, with a single, plump head of florets nestled among the leaves.
+trg_cap: The broccoli stands tall in the garden, its leafy green stalks swaying gently in the breeze, with a single, plump head of florets nestled among the leaves, and a fork lying beneath it.
+instruction: Add a fork under the broccoli.
+taskid: 6652

@@ -1,0 +1,5 @@
+org_img_id: 2395094
+org_cap: A surfing person across the beach, a surfboard under their arm, with the sun setting behind them and a calm ocean stretching out to the horizon.
+trg_cap: A surfing stop sign, with the sun setting behind it and a calm ocean stretching out to the horizon.
+instruction: Replace the person with a stop sign.
+taskid: 11572

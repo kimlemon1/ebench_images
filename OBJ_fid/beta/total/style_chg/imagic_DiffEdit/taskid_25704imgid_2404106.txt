@@ -1,0 +1,5 @@
+org_img_id: 2404106
+org_cap: The sink is a vintage white porcelain sink with a chrome base.
+trg_cap: The art is a cartoon style depiction of a vintage white porcelain sink with a chrome base.
+instruction: Change the style if the image to cartoon style.
+taskid: 25704

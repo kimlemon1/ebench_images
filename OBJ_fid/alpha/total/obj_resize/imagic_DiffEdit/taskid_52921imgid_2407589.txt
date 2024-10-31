@@ -1,0 +1,5 @@
+org_img_id: 2407589
+org_cap: person holds a wine glass in his hand, wearing a bright orange hat and a warm smile.
+trg_cap: person holds a large wine glass in his hand, wearing a bright orange hat and a warm smile.
+instruction: Make the wine glass larger.
+taskid: 52921

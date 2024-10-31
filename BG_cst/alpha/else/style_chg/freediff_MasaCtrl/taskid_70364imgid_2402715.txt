@@ -1,0 +1,5 @@
+org_img_id: 2402715
+org_cap: The refrigerator is a steel, stainless steel, silver refrigerator with a flat, white countertop above it.
+trg_cap: A watercolor painting style art features a steel, stainless steel, silver refrigerator with a flat, white countertop above it.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 70364

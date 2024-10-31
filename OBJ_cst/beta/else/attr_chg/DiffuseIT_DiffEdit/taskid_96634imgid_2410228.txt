@@ -1,0 +1,5 @@
+org_img_id: 2410228
+org_cap: a standing white dog, a bright red frisbee clutched tightly in its jaws.
+trg_cap: a standing orange dog, a bright red frisbee clutched tightly in its jaws.
+instruction: Change the color of the dog from white to orange.
+taskid: 96634

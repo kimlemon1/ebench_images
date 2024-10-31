@@ -1,0 +1,5 @@
+org_img_id: 2384420
+org_cap: The white stop sign is featuring the word "stop" in bold letters and a smaller white stop sign below with the words "all war" in black letters.
+trg_cap: The blue stop sign is featuring the word "stop" in bold letters and a smaller blue stop sign below with the words "all war" in black letters.
+instruction: Change the color of the stop sign from white to blue.
+taskid: 86391

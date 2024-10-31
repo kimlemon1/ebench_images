@@ -1,0 +1,5 @@
+org_img_id: 2321204
+org_cap: person through the air, his surfboard across the turquoise waves as he a aerial stunt, his arms and legs in a arc as he mid-air, the wind his hair in a tangle.
+trg_cap: Person through the air, his surfboard across the turquoise waves as he a aerial stunt, his arms and legs in a arc as he mid-air, the wind his hair in a tangle, reminiscent of a scarecrow in a countryside farm.
+instruction: Change the background to country side farm.
+taskid: 100439

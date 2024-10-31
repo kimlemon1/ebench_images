@@ -1,0 +1,5 @@
+org_img_id: 2348393
+org_cap: A riding blond person rides a black wood skateboard at a skatepark, her hair behind her as she rides down the ramp.
+trg_cap: A riding blond person rides a car at a skatepark, their hair behind them as they ride down the ramp.
+instruction: Replace the skateboard with a car.
+taskid: 34473

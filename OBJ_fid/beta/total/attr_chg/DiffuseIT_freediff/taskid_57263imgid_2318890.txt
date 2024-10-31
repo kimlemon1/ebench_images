@@ -1,0 +1,5 @@
+org_img_id: 2318890
+org_cap: A brown dog sat in the back of a truck.
+trg_cap: A speckled dog sat in the back of a truck.
+instruction: Change the color of the dog from brown to speckled.
+taskid: 57263

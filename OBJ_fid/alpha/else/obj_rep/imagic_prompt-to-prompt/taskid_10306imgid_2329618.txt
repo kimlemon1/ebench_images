@@ -1,0 +1,5 @@
+org_img_id: 2329618
+org_cap: a slice of pizza with a crispy crust, topped with a layer of creamy goat cheese, fresh spinach leaves, and smoked salmon, served on a silver tray.
+trg_cap: a slice of skateboard served on a silver tray.
+instruction: Replace the pizza with a skateboard.
+taskid: 10306

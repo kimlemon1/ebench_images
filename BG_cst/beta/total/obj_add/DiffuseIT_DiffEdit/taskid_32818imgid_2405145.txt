@@ -1,0 +1,5 @@
+org_img_id: 2405145
+org_cap: a young person lying on a bed, open black laptop on their lap, with a red dress draped over the side, and a window with a white curtain in the background.
+trg_cap: a young person lying on a bed, open black laptop on their lap with a keyboard underneath, with a red dress draped over the side, and a window with a white curtain in the background.
+instruction: Add a keyboard under the laptop.
+taskid: 32818

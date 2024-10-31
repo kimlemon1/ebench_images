@@ -1,0 +1,5 @@
+org_img_id: 2335056
+org_cap: a person in a wetsuit rides a surfboard across the waves as the sun shines down.
+trg_cap: A person in a wetsuit rides a surfboard across the waves as the sun shines down, with a chair on the right side of the person.
+instruction: Add a chair on the right side of the person.
+taskid: 116897

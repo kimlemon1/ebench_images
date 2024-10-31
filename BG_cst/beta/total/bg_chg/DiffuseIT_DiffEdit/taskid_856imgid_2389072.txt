@@ -1,0 +1,5 @@
+org_img_id: 2389072
+org_cap: the person's hands deftly tied the blue tie into a neat knot.
+trg_cap: In the arid desert, the person's hands deftly tied the blue tie into a neat knot.
+instruction: Change the background to desert.
+taskid: 856

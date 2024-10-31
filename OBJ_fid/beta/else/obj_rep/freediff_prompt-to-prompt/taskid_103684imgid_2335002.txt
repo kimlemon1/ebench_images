@@ -1,0 +1,5 @@
+org_img_id: 2335002
+org_cap: a dog with a black and white coat, wearing a red collar, on the grassy lawn.
+trg_cap: The handbag on the grassy lawn.
+instruction: Replace the dog with a handbag.
+taskid: 103684

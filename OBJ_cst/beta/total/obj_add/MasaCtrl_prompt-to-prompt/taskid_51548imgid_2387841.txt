@@ -1,0 +1,5 @@
+org_img_id: 2387841
+org_cap: The scene is focused on a slice of cake with green frosting and sprinkles, placed on a wooden table alongside a bouquet of flowers.
+trg_cap: The scene is focused on a slice of cake with green frosting and sprinkles, placed on a wooden table alongside a bouquet of flowers, with a knife in front of the cake.
+instruction: Add a knife in front of the cake.
+taskid: 51548

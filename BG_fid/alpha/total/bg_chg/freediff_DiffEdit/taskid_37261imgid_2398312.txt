@@ -1,0 +1,5 @@
+org_img_id: 2398312
+org_cap: a lying puppy on the tile floor, surrounded by a mess of toys, blankets, and dog treats, with a blue bowl and water bottle nearby.
+trg_cap: A lying puppy on the tile floor, surrounded by a mess of toys, blankets, and dog treats, with a blue bowl and water bottle nearby, as the sound of waves crashing on the beach fills the air and the scent of salty sea breeze drifts in.
+instruction: Change the background to beach.
+taskid: 37261

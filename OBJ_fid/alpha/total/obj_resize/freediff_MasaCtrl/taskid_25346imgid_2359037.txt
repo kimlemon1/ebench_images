@@ -1,0 +1,5 @@
+org_img_id: 2359037
+org_cap: A gray metal bench sits beneath the branches of a leafy tree.
+trg_cap: A large gray metal bench sits beneath the branches of a leafy tree.
+instruction: Make the bench larger.
+taskid: 25346

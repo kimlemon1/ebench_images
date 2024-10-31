@@ -1,0 +1,5 @@
+org_img_id: 2371970
+org_cap: The toilet is a white toilet with a chrome handle and a small, circular rim around the edge.
+trg_cap: The toilet, reminiscent of a mirage in the arid desert landscape, is a white toilet with a chrome handle and a small, circular rim around the edge.
+instruction: Change the background to desert.
+taskid: 8684

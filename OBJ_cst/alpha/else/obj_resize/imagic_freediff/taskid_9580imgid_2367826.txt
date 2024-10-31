@@ -1,0 +1,5 @@
+org_img_id: 2367826
+org_cap: a young person in a bright yellow outfit, holding a black umbrella, and a goat and a sheep.
+trg_cap: a small young person in a bright yellow outfit, holding a black umbrella, and a goat and a sheep.
+instruction: Make the person smaller.
+taskid: 9580

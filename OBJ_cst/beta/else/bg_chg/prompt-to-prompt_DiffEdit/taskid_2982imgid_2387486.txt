@@ -1,0 +1,5 @@
+org_img_id: 2387486
+org_cap: An orange cat sits on a weathered wooden bench, its fur matted and dusty, its whiskers as it surveys its surroundings.
+trg_cap: An orange cat sits on a weathered wooden bench outside a bustling restaurant, its fur matted and dusty, its whiskers twitching as it surveys its surroundings.
+instruction: Change the background to restaurant.
+taskid: 2982

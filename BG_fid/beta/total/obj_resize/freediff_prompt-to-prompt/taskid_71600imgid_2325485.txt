@@ -1,0 +1,5 @@
+org_img_id: 2325485
+org_cap: a woman sits on the sidewalk, her legs crossed and her back against the curb, with a brown dog next to her, both gazing up at the road as a bicycle lies nearby, its wheel bent and its frame twisted.
+trg_cap: a woman sits on the sidewalk, her legs crossed and her back against the curb, with a small brown dog next to her, both gazing up at the road as a bicycle lies nearby, its wheel bent and its frame twisted.
+instruction: Make the dog smaller.
+taskid: 71600

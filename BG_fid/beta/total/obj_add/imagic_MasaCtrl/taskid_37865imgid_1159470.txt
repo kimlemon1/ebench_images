@@ -1,0 +1,5 @@
+org_img_id: 1159470
+org_cap: a little girl in a blue jacket and pink leggings holds a teddy bear and is being handed a wrapped gift by a person in the background.
+trg_cap: A little girl in a blue jacket and pink leggings holds a teddy bear with a dog on it and is being handed a wrapped gift by a person in the background.
+instruction: Add a dog on the teddy bear.
+taskid: 37865

@@ -1,0 +1,5 @@
+org_img_id: 2365563
+org_cap: a person holds a black metal knife, cutting through a piece of cheese on a plate.
+trg_cap: The person holds a bicycle, cutting through a piece of cheese on a plate.
+instruction: Replace the knife with a bicycle.
+taskid: 103843

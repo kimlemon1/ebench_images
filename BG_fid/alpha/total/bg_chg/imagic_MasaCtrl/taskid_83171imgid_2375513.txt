@@ -1,0 +1,5 @@
+org_img_id: 2375513
+org_cap: a sweaty person in his mid-twenties, wearing a green jersey and holding a white frisbee, walks away from the camera with a determined look on his face.
+trg_cap: A sweaty person in his mid-twenties, wearing a green jersey and holding a white frisbee, walks away from the camera with a determined look on his face, in the middle of a living room.
+instruction: Change the background to living room.
+taskid: 83171

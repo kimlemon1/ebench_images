@@ -1,0 +1,5 @@
+org_img_id: 2349741
+org_cap: a red bicycle with a yellow luggage rack is being transported on a trailer attached to a truck.
+trg_cap: A banana is being transported on a trailer attached to a truck.
+instruction: Replace the bicycle with a banana.
+taskid: 82944

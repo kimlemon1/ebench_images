@@ -1,0 +1,5 @@
+org_img_id: 150425
+org_cap: The scene features a wooden desk with a laptop and white keyboard placed on it, surrounded by various electronic devices and accessories, including a laptop, a monitor, a pair of headphones, and a small speaker.
+trg_cap: The scene features a wooden desk with a white keyboard placed on it, surrounded by various electronic devices and accessories, including a bicycle, a monitor, headphones, and a small speaker.
+instruction: Replace the laptop with a bicycle.
+taskid: 65153

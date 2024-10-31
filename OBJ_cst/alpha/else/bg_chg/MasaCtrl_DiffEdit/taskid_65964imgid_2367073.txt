@@ -1,0 +1,5 @@
+org_img_id: 2367073
+org_cap: The toilet is a bright yellow, with a rounded bowl and a chrome handle, surrounded by a worn, yellow tile floor and a small, square sink with a single faucet.
+trg_cap: The toilet is a bright yellow, with a rounded bowl and a chrome handle, surrounded by a worn, yellow tile floor and a small, square sink with a single faucet, reminiscent of the facilities found in an old stadium.
+instruction: Change the background to stadium.
+taskid: 65964

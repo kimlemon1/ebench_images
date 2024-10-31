@@ -1,0 +1,5 @@
+org_img_id: 2392290
+org_cap: a white boat glides effortlessly across the calm waters of lake michigan, its wake rippling the surface as it approaches the iconic lighthouse standing tall on the pier.
+trg_cap: a light blue boat glides effortlessly across the calm waters of lake michigan, its wake rippling the surface as it approaches the iconic lighthouse standing tall on the pier.
+instruction: Change the color of the boat from white to light blue.
+taskid: 115730

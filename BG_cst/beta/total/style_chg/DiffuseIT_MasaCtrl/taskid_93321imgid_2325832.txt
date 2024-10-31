@@ -1,0 +1,5 @@
+org_img_id: 2325832
+org_cap: a white cat on a soft pink blanket, surrounded by a warm and cozy atmosphere.
+trg_cap: A Van Gogh style art features a white cat on a soft pink blanket, surrounded by a warm and cozy atmosphere.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 93321

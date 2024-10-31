@@ -1,0 +1,5 @@
+org_img_id: 2372609
+org_cap: an elephant with its gray tusks and ears visible.
+trg_cap: An elephant with its gray tusks and ears visible in the living room.
+instruction: Change the background to living room.
+taskid: 37088

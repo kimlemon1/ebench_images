@@ -1,0 +1,5 @@
+org_img_id: 1717
+org_cap: A motorcycle and bicycle are parked on the sidewalk, with a pedestrian crossing the street at a zebra crossing.
+trg_cap: "A spoon and a bicycle are parked on the sidewalk, with a pedestrian crossing the street at a zebra crossing."
+instruction: Replace the motorcycle with a spoon.
+taskid: 38863

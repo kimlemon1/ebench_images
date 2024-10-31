@@ -1,0 +1,5 @@
+org_img_id: 2379746
+org_cap: A skating, skateboarding person, through the air, their wood skateboard as they on the concrete floor.
+trg_cap: A small skating, skateboarding person, through the air, their wood skateboard as they on the concrete floor.
+instruction: Make the person smaller.
+taskid: 62015

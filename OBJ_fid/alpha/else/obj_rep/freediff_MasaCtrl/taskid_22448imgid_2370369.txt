@@ -1,0 +1,5 @@
+org_img_id: 2370369
+org_cap: The black keyboard sits on a gray desk, surrounded by beige walls and fluorescent lighting overhead.
+trg_cap: The toilet sits on a gray desk, surrounded by beige walls and fluorescent lighting overhead.
+instruction: Replace the keyboard with a toilet.
+taskid: 22448

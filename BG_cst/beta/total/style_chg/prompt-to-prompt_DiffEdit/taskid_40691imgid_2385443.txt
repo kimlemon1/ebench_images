@@ -1,0 +1,5 @@
+org_img_id: 2385443
+org_cap: A yellow banana lies on a white plate, next to a brown, striped cup, all set against a wooden table.
+trg_cap: The art, in a watercolor painting style, features a yellow banana lying on a white plate next to a brown, striped cup, all set against a wooden table.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 40691

@@ -1,0 +1,5 @@
+org_img_id: 2335101
+org_cap: a brown cow in a green meadow, surrounded by yellow flowers and a blue sky.
+trg_cap: a striped cow in a green meadow, surrounded by yellow flowers and a blue sky.
+instruction: Change the color of the cow from brown to striped.
+taskid: 46335

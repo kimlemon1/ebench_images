@@ -1,0 +1,5 @@
+org_img_id: 2319365
+org_cap: A person holds a peeled, ripe, yellow banana in their hand, the banana around their fingers, with a where they've bitten into it.
+trg_cap: A person holds a unpeeled, ripe, yellow banana in their hand, the banana around their fingers, with a where they've bitten into it.
+instruction: Change the state of the banana from peeled to unpeeled.
+taskid: 100947

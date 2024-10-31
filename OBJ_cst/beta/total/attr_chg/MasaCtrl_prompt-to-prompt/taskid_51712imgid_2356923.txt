@@ -1,0 +1,5 @@
+org_img_id: 2356923
+org_cap: The blue clock face on the tower features intricate carvings and numerals in a golden hue, with the center bearing the inscription "person" in bold, ornate letters.
+trg_cap: The red clock face on the tower features intricate carvings and numerals in a golden hue, with the center bearing the inscription "person" in bold, ornate letters.
+instruction: Change the color of the clock from blue to red.
+taskid: 51712

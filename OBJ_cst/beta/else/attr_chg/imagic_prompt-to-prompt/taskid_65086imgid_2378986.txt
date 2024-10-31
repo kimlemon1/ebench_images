@@ -1,0 +1,5 @@
+org_img_id: 2378986
+org_cap: A red bowl sits in the center of the frame, filled with a vibrant mix of broccoli florets, green beans, and sprouts, topped with a sprinkle of sesame seeds and a drizzle of soy sauce.
+trg_cap: A beige bowl sits in the center of the frame, filled with a vibrant mix of broccoli florets, green beans, and sprouts, topped with a sprinkle of sesame seeds and a drizzle of soy sauce.
+instruction: Change the color of the bowl from red to beige.
+taskid: 65086

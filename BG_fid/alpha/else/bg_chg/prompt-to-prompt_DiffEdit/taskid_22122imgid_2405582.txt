@@ -1,0 +1,5 @@
+org_img_id: 2405582
+org_cap: A lone bird stands on the beach, its gray feathers glistening in the fading light, its bird pointed towards the waves.
+trg_cap: A lone bird stands on the beach, its gray feathers glistening in the fading light, reminiscent of a sculpture in a museum, its beak pointed towards the waves.
+instruction: Change the background to museum.
+taskid: 22122

@@ -1,0 +1,5 @@
+org_img_id: 2411509
+org_cap: A gray zebra walking, eating, and grazing on the grassy hillside.
+trg_cap: A gray keyboard sits on the grassy hillside.
+instruction: Replace the zebra with a keyboard.
+taskid: 117356

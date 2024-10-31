@@ -1,0 +1,5 @@
+org_img_id: 2317437
+org_cap: An open black laptop sits on a table, surrounded by papers and a glass of white wine.
+trg_cap: An oil painting style artwork depicts an open black laptop sitting on a table, surrounded by papers and a glass of white wine.
+instruction: Change the style if the image to oil painting style.
+taskid: 32083

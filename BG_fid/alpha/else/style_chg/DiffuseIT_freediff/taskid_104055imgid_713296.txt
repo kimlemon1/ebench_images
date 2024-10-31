@@ -1,0 +1,5 @@
+org_img_id: 713296
+org_cap: A black cat on a table, surrounded by a neatly set table with a yellow plate, blue napkin, and empty glasses, with a subtle smile on its face.
+trg_cap: An oil painting style art features a black cat with a subtle smile on its face, sitting on a table surrounded by a neatly set table with a yellow plate, blue napkin, and empty glasses.
+instruction: Change the style if the image to oil painting style.
+taskid: 104055

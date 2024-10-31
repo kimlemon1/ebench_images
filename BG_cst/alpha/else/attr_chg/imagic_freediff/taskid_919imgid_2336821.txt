@@ -1,0 +1,5 @@
+org_img_id: 2336821
+org_cap: The black clock features a golden hour ring and numerals, with delicate stone carvings surrounding the circular design.
+trg_cap: The brown clock features a golden hour ring and numerals, with delicate stone carvings surrounding the circular design.
+instruction: Change the color of the clock from black to brown.
+taskid: 919

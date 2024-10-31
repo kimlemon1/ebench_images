@@ -1,0 +1,5 @@
+org_img_id: 2364218
+org_cap: A white stop sign hangs from a metal pole, surrounded by autumnal trees and a cityscape backdrop.
+trg_cap: A large white stop sign hangs from a metal pole, surrounded by autumnal trees and a cityscape backdrop.
+instruction: Make the stop sign larger.
+taskid: 68633

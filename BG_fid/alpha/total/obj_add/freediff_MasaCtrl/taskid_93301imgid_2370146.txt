@@ -1,0 +1,5 @@
+org_img_id: 2370146
+org_cap: The cluttered office desk is dominated by a ceramic cup.
+trg_cap: The cluttered office desk is dominated by a ceramic cup, which contains a knife.
+instruction: Add a knife in the cup.
+taskid: 93301

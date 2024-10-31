@@ -1,0 +1,5 @@
+org_img_id: 2322745
+org_cap: a large, muscular dog with a mottled brown and black coat on a leash, its ears in the gentle breeze as it a small, three-wheeled cart filled with dog toys and treats.
+trg_cap: a large, muscular dog with a mottled brown and black coat on a leash, its ears in the gentle breeze as it pulls a small, three-wheeled cart filled with dog toys and treats.
+instruction: Make the dog larger.
+taskid: 85642

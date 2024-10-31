@@ -1,0 +1,5 @@
+org_img_id: 2316486
+org_cap: Person with precision and control, her skis leaving a trail of fresh tracks in the pristine snow.
+trg_cap: Person with precision and control, her skis leaving a trail of fresh tracks in the pristine snow, gliding past the rustic fences and open fields of the countryside farm.
+instruction: Change the background to country side farm.
+taskid: 39740

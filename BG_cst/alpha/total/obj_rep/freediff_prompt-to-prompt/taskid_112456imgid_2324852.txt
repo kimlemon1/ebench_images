@@ -1,0 +1,5 @@
+org_img_id: 2324852
+org_cap: A white calico cat, staring, lies on a weathered wooden bench in a sunny garden, surrounded by vibrant flowers and lush green grass.
+trg_cap: A book lies on a weathered wooden bench in a sunny garden, surrounded by vibrant flowers and lush green grass.
+instruction: Replace the cat with a book.
+taskid: 112456

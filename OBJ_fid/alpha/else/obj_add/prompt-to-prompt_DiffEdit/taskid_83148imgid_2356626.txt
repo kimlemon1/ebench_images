@@ -1,0 +1,5 @@
+org_img_id: 2356626
+org_cap: Smiling, blond person, across the calm lake surface.
+trg_cap: Smiling, blond person with a tie around their neck, across the calm lake surface.
+instruction: Add a tie on the person.
+taskid: 83148

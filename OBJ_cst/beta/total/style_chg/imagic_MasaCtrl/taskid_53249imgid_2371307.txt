@@ -1,0 +1,5 @@
+org_img_id: 2371307
+org_cap: a person with a headphone sitting on a bench.
+trg_cap: A Van Gogh style art of a person with a headphone sitting on a bench.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 53249

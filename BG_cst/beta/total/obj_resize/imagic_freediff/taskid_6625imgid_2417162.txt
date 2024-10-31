@@ -1,0 +1,5 @@
+org_img_id: 2417162
+org_cap: a giraffe stands on a wooden platform, with a pair of ostriches in the background.
+trg_cap: A small giraffe stands on a wooden platform, with a pair of ostriches in the background.
+instruction: Make the giraffe smaller.
+taskid: 6625

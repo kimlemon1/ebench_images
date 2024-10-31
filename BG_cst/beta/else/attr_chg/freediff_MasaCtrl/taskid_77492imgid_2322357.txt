@@ -1,0 +1,5 @@
+org_img_id: 2322357
+org_cap: A brown horse and person duo soar over a fence, the horse's legs stretched out in mid-air, while person sits, eyes fixed on the next challenge.
+trg_cap: A speckled horse and person duo soar over a fence, the horse's legs stretched out in mid-air, while person sits, eyes fixed on the next challenge.
+instruction: Change the color of the horse from brown to speckled.
+taskid: 77492

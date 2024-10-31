@@ -1,0 +1,5 @@
+org_img_id: 2369706
+org_cap: a sailboat glides smoothly across the calm waters, its white sails billowing in the gentle breeze as it navigates the marina, with a few people on board laughing and chatting, while a few boats are docked nearby, and a plastic cup sits on the edge of the dock.
+trg_cap: In a pop art style, the artwork depicts a sailboat gliding smoothly across calm waters with its white sails billowing in the gentle breeze as it navigates the marina, where a few people on board laugh and chat, a few boats are docked nearby, and a plastic cup sits on the edge of the dock.
+instruction: Change the style if the image to pop art style.
+taskid: 37790

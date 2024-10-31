@@ -1,0 +1,5 @@
+org_img_id: 2356141
+org_cap: a woman's hand cradles a silver cell phone, her fingers wrapped around it as she holds it to her ear with a faint smile on her face.
+trg_cap: a woman's hand cradles a dark cell phone, her fingers wrapped around it as she holds it to her ear with a faint smile on her face.
+instruction: Change the color of the cell phone from silver to dark.
+taskid: 15518

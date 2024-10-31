@@ -1,0 +1,5 @@
+org_img_id: 2413158
+org_cap: Person on a stone wall, wearing a black coat, red scarf, and black gloves, with a vintage suitcase beside her.
+trg_cap: A Van Gogh style art depicts a person on a stone wall, wearing a black coat, red scarf, and black gloves, with a vintage suitcase beside her.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 87546

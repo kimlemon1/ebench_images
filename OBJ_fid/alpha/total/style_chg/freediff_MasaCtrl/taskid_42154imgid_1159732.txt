@@ -1,0 +1,5 @@
+org_img_id: 1159732
+org_cap: a small, white, center-console boat with a blue stripe and a white canopy sat on a trailer, parked under a shaded area.
+trg_cap: The pencil sketch art depicts a small, white center-console boat with a blue stripe and a white canopy, sitting on a trailer parked under a shaded area.
+instruction: Change the style if the image to pencil sketch.
+taskid: 42154

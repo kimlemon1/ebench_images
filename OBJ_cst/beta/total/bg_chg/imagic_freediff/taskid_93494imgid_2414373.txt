@@ -1,0 +1,5 @@
+org_img_id: 2414373
+org_cap: a surfer rides a wave, his surfboard slicing through the turquoise water as he performs a smooth aerial, his arms and legs splayed in a fluid motion.
+trg_cap: A surfer rides a wave, his surfboard slicing through the turquoise water as he performs a smooth aerial, his arms and legs splayed in a fluid motion, with the roar of the crowd echoing from the nearby stadium.
+instruction: Change the background to stadium.
+taskid: 93494

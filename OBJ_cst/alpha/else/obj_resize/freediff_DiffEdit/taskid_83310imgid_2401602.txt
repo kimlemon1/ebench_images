@@ -1,0 +1,5 @@
+org_img_id: 2401602
+org_cap: person rides a surfboard, his wetsuit-clad legs bent in a smooth arc as he through the waves.
+trg_cap: A large person rides a surfboard, his wetsuit-clad legs bent in a smooth arc as he through the waves.
+instruction: Make the person larger.
+taskid: 83310

@@ -1,0 +1,5 @@
+org_img_id: 2334812
+org_cap: The toilet is situated in a small, enclosed space with a red and white tile floor and walls adorned with intricate, geometric patterns.
+trg_cap: A Van Gogh style art features a toilet situated in a small, enclosed space with a red and white tile floor and walls adorned with intricate, geometric patterns.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 51649

@@ -1,0 +1,5 @@
+org_img_id: 2358470
+org_cap: a variety of fresh vegetables, including green broccoli, corn, bell peppers, and squash, arranged on a black cutting board.
+trg_cap: a variety of fresh vegetables, including green broccoli, corn, bell peppers, and squash, arranged on a black cutting board, set against the backdrop of ancient ruins.
+instruction: Change the background to ancient ruins.
+taskid: 39128

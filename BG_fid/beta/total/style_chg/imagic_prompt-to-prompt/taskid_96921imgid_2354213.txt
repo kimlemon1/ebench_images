@@ -1,0 +1,5 @@
+org_img_id: 2354213
+org_cap: a woman in her mid-twenties with dark hair and a black leather jacket walks down the street, passing a person on a motorcycle and a bicycle ridden by a man wearing a helmet.
+trg_cap: An oil painting style art depicts a woman in her mid-twenties with dark hair and a black leather jacket walking down the street, passing a person on a motorcycle and a bicycle ridden by a man wearing a helmet.
+instruction: Change the style if the image to oil painting style.
+taskid: 96921

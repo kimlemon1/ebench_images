@@ -1,0 +1,5 @@
+org_img_id: 2404727
+org_cap: a person walks under a black umbrella, with another person walking alongside, both bundled up against the winter weather with coats and scarves.
+trg_cap: a person walks under a beige umbrella, with another person walking alongside, both bundled up against the winter weather with coats and scarves.
+instruction: Change the color of the umbrella from black to beige.
+taskid: 64160

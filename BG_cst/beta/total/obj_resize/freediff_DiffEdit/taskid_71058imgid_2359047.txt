@@ -1,0 +1,5 @@
+org_img_id: 2359047
+org_cap: a person in a helmet and a brown horse with a white mane and tail, wearing a yellow shirt and blue jeans, through the calm waters of a lake.
+trg_cap: a small person in a helmet and a brown horse with a white mane and tail, wearing a yellow shirt and blue jeans, through the calm waters of a lake.
+instruction: Make the person smaller.
+taskid: 71058

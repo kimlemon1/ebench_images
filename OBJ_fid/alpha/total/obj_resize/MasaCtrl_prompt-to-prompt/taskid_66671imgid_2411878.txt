@@ -1,0 +1,5 @@
+org_img_id: 2411878
+org_cap: a white, weathered boat with a worn, rusty hull and faded, cracked paint sits abandoned on a dirt road, surrounded by overgrown vegetation and trash.
+trg_cap: a large, white, weathered boat with a worn, rusty hull and faded, cracked paint sits abandoned on a dirt road, surrounded by overgrown vegetation and trash.
+instruction: Make the boat larger.
+taskid: 66671

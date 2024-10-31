@@ -1,0 +1,5 @@
+org_img_id: 2387117
+org_cap: person in front of a small bathroom mirror, wearing a casual t - shirt and jeans, at his own reflection with a slight smile on his face.
+trg_cap: bench at its own reflection.
+instruction: Replace the person with a bench.
+taskid: 109347

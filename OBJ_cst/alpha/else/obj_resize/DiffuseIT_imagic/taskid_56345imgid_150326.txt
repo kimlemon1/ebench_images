@@ -1,0 +1,5 @@
+org_img_id: 150326
+org_cap: a skateboarder in his mid-twenties with a slender build and short, dark hair, wearing a white t-shirt and blue jeans, jumps off the quarter pipe of a skatepark on a green skateboard, his eyes fixed on the wheels as he spins and flips through the air.
+trg_cap: a skateboarder in his mid-twenties with a slender build and short, dark hair, wearing a white t-shirt and blue jeans, jumps off the quarter pipe of a skatepark on a large green skateboard, his eyes fixed on the wheels as he spins and flips through the air.
+instruction: Make the skateboard larger.
+taskid: 56345

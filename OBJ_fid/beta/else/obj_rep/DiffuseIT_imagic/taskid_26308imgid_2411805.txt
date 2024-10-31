@@ -1,0 +1,5 @@
+org_img_id: 2411805
+org_cap: person stands alone on the person's mound, his eyes on the batter, his left hand on the baseball as he prepares to throw the next pitch.
+trg_cap: Surfboard stands alone on the mound, their eyes on the batter, their left hand on the baseball as they prepare to throw the next pitch.
+instruction: Replace the person with a surfboard.
+taskid: 26308

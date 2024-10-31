@@ -1,0 +1,5 @@
+org_img_id: 2385755
+org_cap: A red plate holds a pink cake with a strawberry layer, surrounded by a bouquet of sunflowers in a clear, glass, filled vase.
+trg_cap: A red plate holds a pink cake with a strawberry layer, surrounded by a bouquet of sunflowers in a clear, glass, empty vase.
+instruction: Change the state of the vase from filled to empty.
+taskid: 57635

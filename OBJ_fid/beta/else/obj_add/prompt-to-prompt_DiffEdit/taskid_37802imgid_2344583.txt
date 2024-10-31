@@ -1,0 +1,5 @@
+org_img_id: 2344583
+org_cap: a man sits alone on a wood bench, surrounded by a group of dogs playing in the grass.
+trg_cap: A man sits alone on a wood bench, surrounded by a group of dogs playing in the grass, with a fire hydrant in front of the bench.
+instruction: Add a fire hydrant in front of the bench.
+taskid: 37802

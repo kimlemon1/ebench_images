@@ -1,0 +1,5 @@
+org_img_id: 2344550
+org_cap: a giraffe, its long neck and legs, its brown and white striped fur blending with the surrounding trees and bushes.
+trg_cap: a small giraffe, its long neck and legs, its brown and white striped fur blending with the surrounding trees and bushes.
+instruction: Make the giraffe smaller.
+taskid: 53890

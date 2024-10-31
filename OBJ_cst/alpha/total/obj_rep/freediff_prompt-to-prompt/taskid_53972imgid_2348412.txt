@@ -1,0 +1,5 @@
+org_img_id: 2348412
+org_cap: a person holds a blue plastic bottle with a dog bowl attached, offering a drink to a black dog.
+trg_cap: The person holds a TV, offering a drink to a black dog.
+instruction: Replace the bottle with a tv.
+taskid: 53972

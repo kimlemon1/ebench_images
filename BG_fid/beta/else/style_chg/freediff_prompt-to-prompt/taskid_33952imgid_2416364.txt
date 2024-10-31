@@ -1,0 +1,5 @@
+org_img_id: 2416364
+org_cap: the bicycle is adorned with a tangled mass of green bananas, their peels wrapped around the spokes and handlebars like a verdant, edible armor.
+trg_cap: A pencil sketch art depicts a bicycle adorned with a tangled mass of green bananas, their peels wrapped around the spokes and handlebars like a verdant, edible armor.
+instruction: Change the style if the image to pencil sketch.
+taskid: 33952

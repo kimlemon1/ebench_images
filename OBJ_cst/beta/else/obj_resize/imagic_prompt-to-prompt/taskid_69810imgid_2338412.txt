@@ -1,0 +1,5 @@
+org_img_id: 2338412
+org_cap: A giraffe and a baby giraffe walk alongside a walking elephant, with the giraffe's long neck and legs standing out against the elephant's body.
+trg_cap: A giraffe and a baby giraffe walk alongside a large walking elephant, with the giraffe's long neck and legs standing out against the elephant's body.
+instruction: Make the elephant larger.
+taskid: 69810

@@ -1,0 +1,5 @@
+org_img_id: 2333344
+org_cap: A person playing tennis.
+trg_cap: A person playing tennis at the airport.
+instruction: Change the background to airport.
+taskid: 11988

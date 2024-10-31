@@ -1,0 +1,5 @@
+org_img_id: 2340991
+org_cap: a pair of skis lies on the snow, its skis surface weathered and worn from countless turns, surrounded by a bustling crowd of people in winter gear, with the skis chalet looming in the background, its snow-covered roof and intricately carved skis details a testament to the region's rich history and culture.
+trg_cap: A Van Gogh style art piece depicts a pair of skis lying on the snow, their surfaces weathered and worn from countless turns, surrounded by a bustling crowd of people in winter gear, with a chalet looming in the background, its snow-covered roof and intricately carved details testifying to the region's rich history and culture.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 62544

@@ -1,0 +1,5 @@
+org_img_id: 2382502
+org_cap: A jumping black dog is in a backyard, after a frisbee.
+trg_cap: A jumping black dog is in a backyard, after a frisbee, with a car in front of the dog.
+instruction: Add a car in front of the dog.
+taskid: 113264

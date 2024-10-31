@@ -1,0 +1,5 @@
+org_img_id: 2409607
+org_cap: Person sits astride a brown horse, wearing a faded red shirt and a pair of cowboy boots, with a rugged mountain range and a winding river valley stretching out behind them.
+trg_cap: The cartoon-style art depicts a person sitting astride a brown horse, wearing a faded red shirt and cowboy boots, with a rugged mountain range and a winding river valley stretching out behind them.
+instruction: Change the style if the image to cartoon style.
+taskid: 9435

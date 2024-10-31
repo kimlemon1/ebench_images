@@ -1,0 +1,5 @@
+org_img_id: 2396309
+org_cap: the green train chugged along the green train, its wheels clicking rhythmically on the green train.
+trg_cap: The green handbag, her wheels clicking rhythmically.
+instruction: Replace the train with a handbag.
+taskid: 69341

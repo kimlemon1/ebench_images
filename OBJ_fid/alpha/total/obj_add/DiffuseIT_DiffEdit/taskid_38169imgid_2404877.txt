@@ -1,0 +1,5 @@
+org_img_id: 2404877
+org_cap: The scene is focused on a green clock standing tall on a pedestal, surrounded by lush greenery and colorful flowers, with the tranquil waters of the lake visible in the background.
+trg_cap: The scene is focused on a green clock standing tall on a pedestal, with a bird perched on top, surrounded by lush greenery and colorful flowers, with the tranquil waters of the lake visible in the background.
+instruction: Add a bird on the clock.
+taskid: 38169

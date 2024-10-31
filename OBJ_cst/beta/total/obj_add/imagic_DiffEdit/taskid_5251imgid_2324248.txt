@@ -1,0 +1,5 @@
+org_img_id: 2324248
+org_cap: a middle - aged person in a bright yellow helmet and bright pink jacket, wearing goggles and a smile, on the fresh powder on the snow-covered slopes.
+trg_cap: a middle-aged person in a bright yellow helmet and bright pink jacket, wearing goggles and a smile, on the fresh powder on the snow-covered slopes, with a book behind them.
+instruction: Add a book behind the person.
+taskid: 5251

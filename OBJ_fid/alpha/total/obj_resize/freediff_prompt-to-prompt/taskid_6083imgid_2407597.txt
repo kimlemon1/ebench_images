@@ -1,0 +1,5 @@
+org_img_id: 2407597
+org_cap: A standing giraffe in a enclosure, its neck and legs visible behind a wooden fence, with a patch of sunlight illuminating its back.
+trg_cap: A large standing giraffe in an enclosure, its neck and legs visible behind a wooden fence, with a patch of sunlight illuminating its back.
+instruction: Make the giraffe larger.
+taskid: 6083

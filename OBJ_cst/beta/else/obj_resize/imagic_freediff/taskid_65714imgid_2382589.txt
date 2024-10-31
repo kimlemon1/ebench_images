@@ -1,0 +1,5 @@
+org_img_id: 2382589
+org_cap: An eating, grazing zebra on the green grass, its stripes glistening in the sunlight.
+trg_cap: A small, eating, grazing zebra on the green grass, its stripes glistening in the sunlight.
+instruction: Make the zebra smaller.
+taskid: 65714

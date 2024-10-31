@@ -1,0 +1,5 @@
+org_img_id: 2354120
+org_cap: a blue plate with a yellow banana and an orange slice, surrounded by wooden planks.
+trg_cap: a blue plate with a orange banana and an orange slice, surrounded by wooden planks.
+instruction: Change the color of the banana from yellow to orange.
+taskid: 31618

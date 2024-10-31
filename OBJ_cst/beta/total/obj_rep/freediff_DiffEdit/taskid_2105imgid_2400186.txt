@@ -1,0 +1,5 @@
+org_img_id: 2400186
+org_cap: A blue train chugs along the tracks, its wheels clicking on the rails as it carries a vintage passenger carriage and a goods train behind it.
+trg_cap: A blue baseball glove chugs along the tracks, their wheels clicking on the rails.
+instruction: Replace the train with a baseball glove.
+taskid: 2105

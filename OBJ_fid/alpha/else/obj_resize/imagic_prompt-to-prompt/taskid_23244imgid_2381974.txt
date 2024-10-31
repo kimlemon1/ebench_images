@@ -1,0 +1,5 @@
+org_img_id: 2381974
+org_cap: "person off the field, his black person and gray person a stark contrast to the lush green person, his person from the person, his person in person."
+trg_cap: small person off the field, his black person and gray person a stark contrast to the lush green person, his person from the person, his person in person.
+instruction: Make the person smaller.
+taskid: 23244

@@ -1,0 +1,5 @@
+org_img_id: 713296
+org_cap: A black cat on a table, surrounded by a neatly set table with a yellow plate, blue napkin, and empty glasses, with a subtle smile on its face.
+trg_cap: A black sandwich, surrounded by a neatly set table with a yellow plate, blue napkin, and empty glasses.
+instruction: Replace the cat with a sandwich.
+taskid: 104052

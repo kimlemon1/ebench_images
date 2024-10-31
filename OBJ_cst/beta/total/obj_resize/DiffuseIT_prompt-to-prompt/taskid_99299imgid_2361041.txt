@@ -1,0 +1,5 @@
+org_img_id: 2361041
+org_cap: The refrigerator is a stainless steel refrigerator with a flat, rectangular body and a door that swings open to reveal a compartment with shelves and compartments for storing food and drinks.
+trg_cap: The refrigerator is a small stainless steel refrigerator with a flat, rectangular body and a door that swings open to reveal a compartment with shelves and compartments for storing food and drinks.
+instruction: Make the refrigerator smaller.
+taskid: 99299

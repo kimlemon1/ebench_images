@@ -1,0 +1,5 @@
+org_img_id: 2394352
+org_cap: person holds a glazed, brown donut in his hand, his index finger extended in a defiant gesture.
+trg_cap: person holds a glazed, brown donut in his hand, his index finger extended in a defiant gesture, with a cup positioned under the donut.
+instruction: Add a cup under the donut.
+taskid: 62460

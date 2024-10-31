@@ -1,0 +1,5 @@
+org_img_id: 2383104_1
+org_cap: a person holds a hot dog with a hot dog and hot dogs in their hand.
+trg_cap: In an art gallery, a person holds a hot dog with a hot dog and hot dogs in their hand.
+instruction: Change the background to art gallery.
+taskid: 69679

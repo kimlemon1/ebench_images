@@ -1,0 +1,5 @@
+org_img_id: 2363875
+org_cap: a woman holds a colorful umbrella, its vibrant colors standing out against the cloudy sky and the tranquil lake in the background.
+trg_cap: a woman holds a purple umbrella, its vibrant colors standing out against the cloudy sky and the tranquil lake in the background.
+instruction: Change the color of the umbrella from colorful to purple.
+taskid: 86410

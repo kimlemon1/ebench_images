@@ -1,0 +1,5 @@
+org_img_id: 2343094
+org_cap: The polar bear is munching on an orange carrot, its fur a soft white, its eyes a bright brown, and its paws gently grasping the orange carrot.
+trg_cap: The polar bear is munching on an orange carrot, its fur a soft white, its eyes a bright brown, and its paws gently grasping the orange carrot, with a piece of broccoli underneath.
+instruction: Add a broccoli under the carrot.
+taskid: 41977

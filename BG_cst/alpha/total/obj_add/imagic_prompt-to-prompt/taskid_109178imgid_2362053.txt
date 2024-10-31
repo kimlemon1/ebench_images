@@ -1,0 +1,5 @@
+org_img_id: 2362053
+org_cap: A walking person with a black backpack.
+trg_cap: A walking person with a black backpack and a fork on the right side of the backpack.
+instruction: Add a fork on the right side of the backpack.
+taskid: 109178

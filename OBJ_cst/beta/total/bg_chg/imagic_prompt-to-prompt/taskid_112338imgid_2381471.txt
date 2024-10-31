@@ -1,0 +1,5 @@
+org_img_id: 2381471
+org_cap: A walking giraffe stands, its neck and legs as it surveys the grassy savannah, with a herd of zebras grazing in the distance.
+trg_cap: A walking giraffe stands, its neck and legs as it surveys the cave, with a herd of zebras grazing in the distance.
+instruction: Change the background to cave.
+taskid: 112338

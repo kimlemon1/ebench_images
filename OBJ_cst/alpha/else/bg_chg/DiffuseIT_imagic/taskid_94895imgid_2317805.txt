@@ -1,0 +1,5 @@
+org_img_id: 2317805
+org_cap: The airplane is a vintage airplane with a silver and cream color scheme, featuring a distinctive curved wing design and a propeller spinning lazily in the air.
+trg_cap: The airplane is a vintage airplane with a silver and cream color scheme, featuring a distinctive curved wing design and a propeller spinning lazily in the air, set against the backdrop of a lush pine forest.
+instruction: Change the background to pine forest.
+taskid: 94895

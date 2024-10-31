@@ -1,0 +1,5 @@
+org_img_id: 2352350
+org_cap: A white truck is parked on a dirt road surrounded by trees.
+trg_cap: A white truck is parked on a dirt road surrounded by trees, near a museum.
+instruction: Change the background to museum.
+taskid: 23025

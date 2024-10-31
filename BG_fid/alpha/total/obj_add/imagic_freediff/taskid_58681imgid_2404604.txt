@@ -1,0 +1,5 @@
+org_img_id: 2404604
+org_cap: standing male person rides a black surfboard, his arms and his.
+trg_cap: standing male person rides a black surfboard, his arms and his, with a kite above him.
+instruction: Add a kite above the person.
+taskid: 58681

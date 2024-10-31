@@ -1,0 +1,5 @@
+org_img_id: 2411380
+org_cap: Playing, the person swings his racket, his muscles beneath his skin as he a shot across the tennis court.
+trg_cap: Playing, the cat swings its racket as it a shot across the tennis court.
+instruction: Replace the person with a cat.
+taskid: 116399

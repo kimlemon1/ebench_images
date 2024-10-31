@@ -1,0 +1,5 @@
+org_img_id: 2343699
+org_cap: An old, elderly person is sitting in a brown, wood chair, her eyes on a large, brightly lit cake with candles.
+trg_cap: An old, immature person is sitting in a brown, wood chair, her eyes on a large, brightly lit cake with candles.
+instruction: Change the state of the person from elderly to immature.
+taskid: 593

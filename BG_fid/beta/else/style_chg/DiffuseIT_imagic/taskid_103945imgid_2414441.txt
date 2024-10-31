@@ -1,0 +1,5 @@
+org_img_id: 2414441
+org_cap: Person swings her racket, her ponytail bouncing as she chases down a forehand winner.
+trg_cap: An oil painting style art depicts a person swinging her racket, her ponytail bouncing as she chases down a forehand winner.
+instruction: Change the style if the image to oil painting style.
+taskid: 103945

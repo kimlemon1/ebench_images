@@ -1,0 +1,5 @@
+org_img_id: 2362873
+org_cap: A cat lies across a cluttered desk, surrounded by scattered papers, empty coffee cups, and tangled cords.
+trg_cap: A graffiti art piece depicts a cat lying across a cluttered desk, surrounded by scattered papers, empty coffee cups, and tangled cords.
+instruction: Change the style if the image to graffiti art.
+taskid: 1510

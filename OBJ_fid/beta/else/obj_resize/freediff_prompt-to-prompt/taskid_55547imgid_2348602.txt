@@ -1,0 +1,5 @@
+org_img_id: 2348602
+org_cap: a grey cat with a fluffy tail and piercing green eyes sits on the windowsill.
+trg_cap: a small grey cat with a fluffy tail and piercing green eyes sits on the windowsill.
+instruction: Make the cat smaller.
+taskid: 55547

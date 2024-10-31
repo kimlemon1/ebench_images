@@ -1,0 +1,5 @@
+org_img_id: 2407510
+org_cap: A gold, running dog with a tail runs alongside a skateboard ridden by a person wearing a blue shirt and jeans, with the skateboard wheels spinning on the asphalt road.
+trg_cap: A gold, running dog with a tail runs alongside a large skateboard ridden by a person wearing a blue shirt and jeans, with the skateboard wheels spinning on the asphalt road.
+instruction: Make the skateboard larger.
+taskid: 9845

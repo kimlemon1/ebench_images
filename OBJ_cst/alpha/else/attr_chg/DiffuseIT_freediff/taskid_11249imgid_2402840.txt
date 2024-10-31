@@ -1,0 +1,5 @@
+org_img_id: 2402840
+org_cap: a black cat, its fur fluffed up in a defensive posture, as it surveys its surroundings with a curious gaze.
+trg_cap: a striped cat, its fur fluffed up in a defensive posture, as it surveys its surroundings with a curious gaze.
+instruction: Change the color of the cat from black to striped.
+taskid: 11249

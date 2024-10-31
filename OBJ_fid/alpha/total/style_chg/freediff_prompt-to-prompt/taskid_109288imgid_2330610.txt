@@ -1,0 +1,5 @@
+org_img_id: 2330610
+org_cap: "Person in the driver's seat of a yellow truck, wearing a hard hat and safety glasses, with a faint smile on her face."
+trg_cap: A cartoon-style art depicts a person in the driver's seat of a yellow truck, wearing a hard hat and safety glasses, with a faint smile on her face.
+instruction: Change the style if the image to cartoon style.
+taskid: 109288

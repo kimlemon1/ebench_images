@@ -1,0 +1,5 @@
+org_img_id: 2372497
+org_cap: a brown, dirty elephant along a dirt road.
+trg_cap: a brown, clean elephant along a dirt road.
+instruction: Change the state of the elephant from dirty to clean.
+taskid: 112498

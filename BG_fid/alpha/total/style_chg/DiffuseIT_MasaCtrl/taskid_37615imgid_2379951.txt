@@ -1,0 +1,5 @@
+org_img_id: 2379951
+org_cap: a person, surrounded by bare winter trees, on a black snowboard.
+trg_cap: A pop art style artwork features a person on a black snowboard, surrounded by bare winter trees.
+instruction: Change the style if the image to pop art style.
+taskid: 37615

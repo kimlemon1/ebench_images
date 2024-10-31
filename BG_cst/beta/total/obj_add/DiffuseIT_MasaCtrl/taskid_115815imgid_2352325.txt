@@ -1,0 +1,5 @@
+org_img_id: 2352325
+org_cap: The light brown couch sat in the center of the room, surrounded by the faint scent of old books and the soft glow of a lamp, with a small, unadorned tree standing tall in the corner.
+trg_cap: The light brown couch sat in the center of the room, surrounded by the faint scent of old books and the soft glow of a lamp, with a small, unadorned tree standing tall in the corner, and a person standing next to the couch.
+instruction: Add a person next to the couch.
+taskid: 115815

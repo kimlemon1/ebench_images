@@ -1,0 +1,5 @@
+org_img_id: 2352760
+org_cap: a middle-aged woman stands on the sidewalk, wearing a dull blue jumpsuit and carrying a black backpack, her black backpack slung over her shoulder.
+trg_cap: A Van Gogh style art depicts a middle-aged woman standing on the sidewalk, wearing a dull blue jumpsuit and carrying a black backpack slung over her shoulder.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 4780

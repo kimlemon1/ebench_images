@@ -1,0 +1,5 @@
+org_img_id: 2334465
+org_cap: a brown horse across a green meadow, its hooves the earth as it is led by a rider wearing a white shirt and a black hat.
+trg_cap: a small brown horse across a green meadow, its hooves the earth as it is led by a rider wearing a white shirt and a black hat.
+instruction: Make the horse smaller.
+taskid: 102808

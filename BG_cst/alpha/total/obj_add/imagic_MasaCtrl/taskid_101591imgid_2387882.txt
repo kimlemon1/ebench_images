@@ -1,0 +1,5 @@
+org_img_id: 2387882
+org_cap: a giraffe and a zebra stand facing each other, their long necks and bodies entwined in a gentle embrace, while a third zebra nearby.
+trg_cap: a giraffe and a zebra stand facing each other, their long necks and bodies entwined in a gentle embrace, while a third zebra nearby, with a bench on its left side.
+instruction: Add a bench on the left side of the zebra.
+taskid: 101591

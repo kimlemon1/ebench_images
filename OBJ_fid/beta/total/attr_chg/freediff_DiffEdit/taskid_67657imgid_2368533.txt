@@ -1,0 +1,5 @@
+org_img_id: 2368533
+org_cap: a little girl holds an orange umbrella as she walks along a balance beam in the umbrella.
+trg_cap: a little girl holds an navy umbrella as she walks along a balance beam in the umbrella.
+instruction: Change the color of the umbrella from orange to navy.
+taskid: 67657

@@ -1,0 +1,5 @@
+org_img_id: 2364424
+org_cap: a young person wearing a blue hat and a blue shirt, with a blue skateboard, is standing on a paved road along the waterfront, with a shadow cast behind him.
+trg_cap: a young person wearing a blue hat and a blue shirt, with a large blue skateboard, is standing on a paved road along the waterfront, with a shadow cast behind him.
+instruction: Make the skateboard larger.
+taskid: 67837

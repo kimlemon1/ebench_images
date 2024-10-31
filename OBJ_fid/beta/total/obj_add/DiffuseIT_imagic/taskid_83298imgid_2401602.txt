@@ -1,0 +1,5 @@
+org_img_id: 2401602
+org_cap: person rides a surfboard, his wetsuit-clad legs bent in a smooth arc as he through the waves.
+trg_cap: person rides a surfboard, his wetsuit-clad legs bent in a smooth arc as he through the waves, with a sheep on his left side.
+instruction: Add a sheep on the left side of the person.
+taskid: 83298

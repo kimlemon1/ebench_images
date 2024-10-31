@@ -1,0 +1,5 @@
+org_img_id: 2395520
+org_cap: a brown dog and a person next to a boat at a beach.
+trg_cap: a brown dog and a person next to a boat at a mountain top.
+instruction: Change the background to mountain top.
+taskid: 52602

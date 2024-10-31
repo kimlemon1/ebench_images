@@ -1,0 +1,5 @@
+org_img_id: 2362074
+org_cap: "a person, wearing a black t-shirt and riding helmet, with a subtle smile on their face."
+trg_cap: A watercolor painting style art features a person wearing a black t-shirt and riding helmet, with a subtle smile on their face.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 82882

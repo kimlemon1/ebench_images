@@ -1,0 +1,5 @@
+org_img_id: 2404372
+org_cap: Standing person is seen beside a school bus, holding a smartphone and at a rearview mirror attached to the bus's rear window.
+trg_cap: Standing person is seen beside a school bus, holding a smartphone and at a rearview mirror attached to the bus's rear window, with a cake in front of the person.
+instruction: Add a cake in front of the person.
+taskid: 58101

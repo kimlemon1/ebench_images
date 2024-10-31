@@ -1,0 +1,5 @@
+org_img_id: 2383857
+org_cap: skating person onto the brown skateboard, legs and feet as he a trick on the.
+trg_cap: A grayscale photo shows a person performing a trick on a brown skateboard, capturing only their legs and feet.
+instruction: Change the style if the image to grey scale.
+taskid: 35054

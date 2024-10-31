@@ -1,0 +1,5 @@
+org_img_id: 2352574_0
+org_cap: a person lies on a red couch, black laptop in front of them, with a blanket and pillow nearby, and a small hamster sitting on their chest, looking up at them with big eyes.
+trg_cap: In the corner of a gym, a person lies on a red couch, black laptop in front of them, with a blanket and pillow nearby, and a small hamster sitting on their chest, looking up at them with big eyes.
+instruction: Change the background to gym.
+taskid: 65864

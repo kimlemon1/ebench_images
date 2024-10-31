@@ -1,0 +1,5 @@
+org_img_id: 2347029
+org_cap: a person holds a glazed donut in their hand, the donut glistening.
+trg_cap: A person holds a glazed donut in their hand, the donut glistening, as they stand amidst the rolling fields of a countryside farm.
+instruction: Change the background to country side farm.
+taskid: 65172

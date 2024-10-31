@@ -1,0 +1,5 @@
+org_img_id: 2417018
+org_cap: A skateboarder, wearing a white t-shirt and black pants, jumps off a ramp, his skateboard flying off the pavement as he performs a trick, with the cityscape visible in the background.
+trg_cap: A skateboarder, wearing a white t-shirt and black pants, jumps off a ramp, his large skateboard flying off the pavement as he performs a trick, with the cityscape visible in the background.
+instruction: Make the skateboard larger.
+taskid: 69668

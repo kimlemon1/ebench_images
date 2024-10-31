@@ -1,0 +1,5 @@
+org_img_id: 2349768
+org_cap: A person on the back of an elephant, wearing a traditional outfit and holding a basket, as the elephant in the murky waters of a forest.
+trg_cap: A chair on the back of an elephant as it in the murky waters of a forest.
+instruction: Replace the person with a chair.
+taskid: 2669

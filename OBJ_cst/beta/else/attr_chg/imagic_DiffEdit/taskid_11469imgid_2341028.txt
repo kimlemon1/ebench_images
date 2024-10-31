@@ -1,0 +1,5 @@
+org_img_id: 2341028
+org_cap: a blue bus parked alongside a grassy verge with a few people milling around.
+trg_cap: a beige bus parked alongside a grassy verge with a few people milling around.
+instruction: Change the color of the bus from blue to beige.
+taskid: 11469

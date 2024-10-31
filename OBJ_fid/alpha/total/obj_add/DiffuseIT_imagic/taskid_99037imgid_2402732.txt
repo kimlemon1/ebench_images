@@ -1,0 +1,5 @@
+org_img_id: 2402732
+org_cap: a herd of wild horses gallops across the vast steppes, their manes and tails flowing in the wind as they chase after a stray cow, their hooves pounding the dry earth in unison.
+trg_cap: A herd of wild horses gallops across the vast steppes, their manes and tails flowing in the wind as they chase after a zebra in front of a stray cow, their hooves pounding the dry earth in unison.
+instruction: Add a zebra in front of the cow.
+taskid: 99037

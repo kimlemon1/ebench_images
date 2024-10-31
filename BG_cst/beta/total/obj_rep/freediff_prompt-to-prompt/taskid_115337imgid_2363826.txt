@@ -1,0 +1,5 @@
+org_img_id: 2363826
+org_cap: Riding, jumping, crouched, person off the brick wall, his skateboard out from under his feet as he on the grassy slope below.
+trg_cap: Riding, jumping, crouched, suitcase, his skateboard out from under his feet as he landed on the grassy slope below.
+instruction: Replace the person with a suitcase.
+taskid: 115337

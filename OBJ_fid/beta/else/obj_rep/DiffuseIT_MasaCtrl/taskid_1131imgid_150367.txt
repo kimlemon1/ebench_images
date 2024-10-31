@@ -1,0 +1,5 @@
+org_img_id: 150367
+org_cap: person stands in the kitchen, admiring the new refrigerator with its stainless steel doors and gleaming finish.
+trg_cap: They stand in the kitchen, admiring the new car.
+instruction: Replace the refrigerator with a car.
+taskid: 1131

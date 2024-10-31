@@ -1,0 +1,5 @@
+org_img_id: 2380237_1
+org_cap: A blue frisbee flies through the air as a brown dog with a snout and floppy ears chases after the blue frisbee, its jaws open wide in a snarling snout.
+trg_cap: In the library, a blue frisbee flies through the air as a brown dog with a snout and floppy ears chases after the blue frisbee, its jaws open wide in a snarling snout.
+instruction: Change the background to library.
+taskid: 34546

@@ -1,0 +1,5 @@
+org_img_id: 2345048
+org_cap: a class 66 diesel locomotive, painted in the livery of a railway company, is seen pulling a passenger train out of the station on a rainy day.
+trg_cap: a class 66 diesel locomotive, painted in the livery of a railway company, is seen pulling a large passenger train out of the station on a rainy day.
+instruction: Make the train larger.
+taskid: 53203

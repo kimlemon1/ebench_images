@@ -1,0 +1,5 @@
+org_img_id: 2357476
+org_cap: The white toilet is a fixture with a handle and a single handle faucet above it, situated in a small, dimly lit bathroom with a single window and a radiator in the corner.
+trg_cap: The large white toilet is a fixture with a handle and a single handle faucet above it, situated in a small, dimly lit bathroom with a single window and a radiator in the corner.
+instruction: Make the toilet larger.
+taskid: 88403

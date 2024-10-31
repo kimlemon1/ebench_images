@@ -1,0 +1,5 @@
+org_img_id: 1159947
+org_cap: a train with a sleek, modern design, featuring a silver and yellow livery, with a rounded front and a flat rear, and a distinctive curved roofline.
+trg_cap: A train with a sleek, modern design, featuring a silver and yellow livery, with a rounded front and a flat rear, and a distinctive curved roofline, reminiscent of the contemporary architecture often seen in art galleries.
+instruction: Change the background to art gallery.
+taskid: 99325

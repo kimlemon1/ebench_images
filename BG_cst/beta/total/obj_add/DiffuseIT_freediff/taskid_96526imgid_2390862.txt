@@ -1,0 +1,5 @@
+org_img_id: 2390862
+org_cap: A person holds a white frisbee in his hand.
+trg_cap: A person holds a white frisbee in his hand with a dog on it.
+instruction: Add a dog on the frisbee.
+taskid: 96526

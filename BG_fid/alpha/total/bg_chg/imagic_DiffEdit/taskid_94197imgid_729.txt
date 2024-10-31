@@ -1,0 +1,5 @@
+org_img_id: 729
+org_cap: a small wooden boat glides effortlessly along the tranquil waters of the river, its boat glistening in the warm sunlight as it carries a handful of people in leisurely fashion.
+trg_cap: A small wooden boat glides effortlessly along the tranquil waters of the river, its boat glistening in the warm sunlight as it carries a handful of people in leisurely fashion, with a sandy beach lining the riverbank in the background.
+instruction: Change the background to beach.
+taskid: 94197

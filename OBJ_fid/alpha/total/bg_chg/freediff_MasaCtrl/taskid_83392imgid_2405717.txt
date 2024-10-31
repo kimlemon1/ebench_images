@@ -1,0 +1,5 @@
+org_img_id: 2405717
+org_cap: A black wood skateboard is flying through the air, its wheels a blur as it performs a trick on the concrete floor.
+trg_cap: A black wood skateboard is flying through the air, its wheels a blur as it performs a trick on the concrete floor amidst the ancient ruins.
+instruction: Change the background to ancient ruins.
+taskid: 83392

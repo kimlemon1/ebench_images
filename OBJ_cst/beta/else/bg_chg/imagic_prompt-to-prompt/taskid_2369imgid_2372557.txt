@@ -1,0 +1,5 @@
+org_img_id: 2372557
+org_cap: person his racket, his arm at a 45-degree angle as he the tennis ball.
+trg_cap: At the airport, person his racket, his arm at a 45-degree angle as he the tennis ball.
+instruction: Change the background to airport.
+taskid: 2369

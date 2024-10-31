@@ -1,0 +1,5 @@
+org_img_id: 2389123
+org_cap: A person sits on a motorcycle, wearing a bright orange jacket.
+trg_cap: A Van Gogh style artwork features a person sitting on a motorcycle, wearing a bright orange jacket.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 66464

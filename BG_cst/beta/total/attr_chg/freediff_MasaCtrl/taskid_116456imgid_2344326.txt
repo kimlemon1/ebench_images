@@ -1,0 +1,5 @@
+org_img_id: 2344326
+org_cap: The scene is focused on a black iron clock standing tall on a pedestal, with a grey sky and white clouds visible above it.
+trg_cap: The scene is focused on a brown iron clock standing tall on a pedestal, with a grey sky and white clouds visible above it.
+instruction: Change the color of the clock from black to brown.
+taskid: 116456

@@ -1,0 +1,5 @@
+org_img_id: 2343150
+org_cap: the room features a small, flat-screen tv mounted on the wall.
+trg_cap: The room features a small, flat-screen TV mounted on the wall, with a bed on the right side of the TV.
+instruction: Add a bed on the right side of the tv.
+taskid: 83191

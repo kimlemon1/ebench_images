@@ -1,0 +1,5 @@
+org_img_id: 2409182
+org_cap: The rustic wooden table is set with a simple white tablecloth, a wood bowl in the center, and a few chairs arranged around it, with a white refrigerator standing against one wall and a few kitchen utensils hanging from the ceiling.
+trg_cap: A Van Gogh style art features a rustic wooden table set with a simple white tablecloth, a wood bowl in the center, a few chairs arranged around it, a white refrigerator standing against one wall, and a few kitchen utensils hanging from the ceiling.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 11870

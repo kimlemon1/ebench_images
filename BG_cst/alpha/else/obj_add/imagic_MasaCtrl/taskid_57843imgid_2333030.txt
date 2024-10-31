@@ -1,0 +1,5 @@
+org_img_id: 2333030
+org_cap: The red console table stands against a wall, adorned with a few potted plants, a bowl of fruit, and a book.
+trg_cap: The red console table stands against a wall, adorned with a few potted plants, a bowl of fruit with an orange next to it, and a book.
+instruction: Add a orange next to the bowl.
+taskid: 57843

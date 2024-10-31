@@ -1,0 +1,5 @@
+org_img_id: 2317937
+org_cap: person in a red jacket and goggles, with a backpack and snowboard, navigates through the snow-covered terrain, his gloved hand brushing against the snow as he searches for a path.
+trg_cap: Person in a red jacket and goggles, with a sink, navigates through the snow-covered terrain, their gloved hand brushing against the snow as they search for a path.
+instruction: Replace the backpack with a sink.
+taskid: 102318

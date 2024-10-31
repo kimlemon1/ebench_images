@@ -1,0 +1,5 @@
+org_img_id: 2339240
+org_cap: a herd of cattle and horse grazes peacefully in a lush green meadow surrounded by tall eucalyptus trees, their trunks strong and sturdy, their leaves a vibrant green, and their branches swaying gently in the breeze.
+trg_cap: A herd of cattle and horse grazes peacefully in a lush green meadow surrounded by tall eucalyptus trees, their trunks strong and sturdy, their leaves a vibrant green, and their branches swaying gently in the breeze, with a truck parked behind the horse.
+instruction: Add a truck behind the horse.
+taskid: 117194

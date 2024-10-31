@@ -1,0 +1,5 @@
+org_img_id: 2323708
+org_cap: a lone person in a black hoodie and jeans, with a skateboard underfoot, the wheels of the skateboard clicking against the stone.
+trg_cap: A lone person in a black hoodie and jeans sits on the bench.
+instruction: Replace the skateboard with a bench.
+taskid: 40357

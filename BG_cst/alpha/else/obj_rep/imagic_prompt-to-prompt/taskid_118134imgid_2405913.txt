@@ -1,0 +1,5 @@
+org_img_id: 2405913
+org_cap: A skating person, on the concrete floor, his gray skateboard through the air as he a series of tricks, his black hoodie and pants a blur.
+trg_cap: A hot dog person, on the concrete floor, their black hoodie and pants a blur.
+instruction: Replace the skateboard with a hot dog.
+taskid: 118134

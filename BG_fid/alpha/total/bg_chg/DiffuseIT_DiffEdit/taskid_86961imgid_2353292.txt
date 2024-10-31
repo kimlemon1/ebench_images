@@ -1,0 +1,5 @@
+org_img_id: 2353292
+org_cap: a black bear, its fur matted and dirty, its eyes half-closed in a relaxed pose.
+trg_cap: A black bear, its fur matted and dirty, its eyes half-closed in a relaxed pose, lay sprawled on a snow field.
+instruction: Change the background to snow field.
+taskid: 86961

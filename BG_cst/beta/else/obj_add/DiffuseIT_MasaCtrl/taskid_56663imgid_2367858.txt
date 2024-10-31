@@ -1,0 +1,5 @@
+org_img_id: 2367858
+org_cap: a silver clock with a chrome handle and a circular face featuring hour and minute hands, sits atop a cylindrical tin container.
+trg_cap: A person stands in front of a silver clock with a chrome handle and a circular face featuring hour and minute hands, which sits atop a cylindrical tin container.
+instruction: Add a person in front of the clock.
+taskid: 56663

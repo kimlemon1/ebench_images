@@ -1,0 +1,5 @@
+org_img_id: 2378152
+org_cap: a woman holds a cell phone with a colorful, pixelated design on the back, featuring bright blue and green hues, and a small, rounded shape in her hand.
+trg_cap: a woman holds a large cell phone with a colorful, pixelated design on the back, featuring bright blue and green hues, and a small, rounded shape in her hand.
+instruction: Make the cell phone larger.
+taskid: 22529

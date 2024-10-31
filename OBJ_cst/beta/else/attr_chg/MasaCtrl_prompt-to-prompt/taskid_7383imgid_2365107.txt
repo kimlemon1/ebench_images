@@ -1,0 +1,5 @@
+org_img_id: 2365107
+org_cap: a grey and white cat with a curious expression is on a table, at a white cup.
+trg_cap: a grey and clear cat with a curious expression is on a table, at a clear cup.
+instruction: Change the color of the cup from white to clear.
+taskid: 7383

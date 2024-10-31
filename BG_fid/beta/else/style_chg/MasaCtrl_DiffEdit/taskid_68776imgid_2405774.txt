@@ -1,0 +1,5 @@
+org_img_id: 2405774
+org_cap: The black metal train chugs along the tracks, its whistle blowing a gentle farewell as it disappears into the misty morning fog.
+trg_cap: A pencil sketch art depicts a black metal train chugging along the tracks, its whistle blowing a gentle farewell as it disappears into the misty morning fog.
+instruction: Change the style if the image to pencil sketch.
+taskid: 68776

@@ -1,0 +1,5 @@
+org_img_id: 2399996
+org_cap: a young person surfing and playing on a sunny day.
+trg_cap: a adult person surfing and playing on a sunny day.
+instruction: Change the state of the person from young to adult.
+taskid: 6230

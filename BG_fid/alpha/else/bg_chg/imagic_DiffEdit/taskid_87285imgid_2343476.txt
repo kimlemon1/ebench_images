@@ -1,0 +1,5 @@
+org_img_id: 2343476
+org_cap: a person in a red jacket and snow pants on skis, the blades through the powder as he a path through the trees.
+trg_cap: A person in a red jacket and snow pants on skis, the blades through the powder as he a path through the trees, as if gliding through the aisles of a grand concert hall.
+instruction: Change the background to concert hall.
+taskid: 87285

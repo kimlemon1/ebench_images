@@ -1,0 +1,5 @@
+org_img_id: 2410556
+org_cap: A surfing person rides a surfboard, their arms and legs bent, the water splashing and foaming around them.
+trg_cap: A surfing umbrella rides a surfboard, the water splashing and foaming around it.
+instruction: Replace the person with a umbrella.
+taskid: 99315

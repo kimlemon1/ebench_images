@@ -1,0 +1,5 @@
+org_img_id: 2354051
+org_cap: a young person, wearing a yellow shirt and brown shorts, barefoot along the beach, a yellow frisbee.
+trg_cap: A young person, wearing a yellow shirt and brown shorts, barefoot along the vineyard, a yellow frisbee.
+instruction: Change the background to vineyard.
+taskid: 95378

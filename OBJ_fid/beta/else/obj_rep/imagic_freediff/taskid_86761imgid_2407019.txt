@@ -1,0 +1,5 @@
+org_img_id: 2407019
+org_cap: The green clock face is a feature, with intricate stone carvings and ornate details that add to the building's architectural grandeur.
+trg_cap: The green spoon is a feature, with intricate stone carvings and ornate details that add to its architectural grandeur.
+instruction: Replace the clock with a spoon.
+taskid: 86761

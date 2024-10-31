@@ -1,0 +1,5 @@
+org_img_id: 2361177
+org_cap: A male person along the beach, with the rugged coastline and waves in the background.
+trg_cap: The fire hydrant along the beach, with the rugged coastline and waves in the background.
+instruction: Replace the person with a fire hydrant.
+taskid: 4529

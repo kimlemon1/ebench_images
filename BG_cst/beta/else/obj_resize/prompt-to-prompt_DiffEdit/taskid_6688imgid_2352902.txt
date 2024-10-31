@@ -1,0 +1,5 @@
+org_img_id: 2352902
+org_cap: a rusty bicycle with worn tires and a faded seat leans against a wooden gate, surrounded by a lush green paddy field with tall reeds and a small yellow temple in the distance.
+trg_cap: a large rusty bicycle with worn tires and a faded seat leans against a wooden gate, surrounded by a lush green paddy field with tall reeds and a small yellow temple in the distance.
+instruction: Make the bicycle larger.
+taskid: 6688

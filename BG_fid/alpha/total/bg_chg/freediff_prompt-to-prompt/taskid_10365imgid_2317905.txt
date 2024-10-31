@@ -1,0 +1,5 @@
+org_img_id: 2317905
+org_cap: a skateboarder in a helmet and knee pads jumps off a ramp, his skateboard flying through the air as he performs a trick.
+trg_cap: In a gym, a skateboarder in a helmet and knee pads jumps off a ramp, his skateboard flying through the air as he performs a trick.
+instruction: Change the background to gym.
+taskid: 10365

@@ -1,0 +1,5 @@
+org_img_id: 2392590
+org_cap: A black kite soared high in the sky, its tail fluttering in the wind as it glided effortlessly over the tranquil waters of the bay.
+trg_cap: A colorful kite soared high in the sky, its tail fluttering in the wind as it glided effortlessly over the tranquil waters of the bay.
+instruction: Change the color of the kite from black to colorful.
+taskid: 22819

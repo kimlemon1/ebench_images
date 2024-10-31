@@ -1,0 +1,5 @@
+org_img_id: 2412620
+org_cap: person holds a brown donut in his hand, his fingers wrapped around the brown donut as he takes a big bite, peanut butter oozing out of the brown donut and onto his chin.
+trg_cap: person holds a small brown donut in his hand, his fingers wrapped around the small brown donut as he takes a big bite, peanut butter oozing out of the small brown donut and onto his chin.
+instruction: Make the donut smaller.
+taskid: 100239

@@ -1,0 +1,5 @@
+org_img_id: 2386999
+org_cap: A white bus is driving down the street, merging into a lane filled with cars and pedestrians.
+trg_cap: A large white bus is driving down the street, merging into a lane filled with cars and pedestrians.
+instruction: Make the bus larger.
+taskid: 97244

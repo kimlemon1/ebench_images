@@ -1,0 +1,5 @@
+org_img_id: 2333082
+org_cap: a train, with its bright yellow livery and distinctive front end design, stands on the platform, its wheels chugging softly as it prepares to depart.
+trg_cap: A train, with its bright yellow livery and distinctive front end design, stands on the platform, its wheels chugging softly as it prepares to depart, reminiscent of the rhythmic clanking of weights in a gym.
+instruction: Change the background to gym.
+taskid: 102382

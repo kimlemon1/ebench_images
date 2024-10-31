@@ -1,0 +1,5 @@
+org_img_id: 2340875
+org_cap: a white train with a curved front and a white train, sporting a livery of and stripes, sits on the train, its doors open and its interior visible.
+trg_cap: A greyscale photo shows a white train with a curved front, sporting a livery of stripes, sitting with its doors open and its interior visible.
+instruction: Change the style if the image to grey scale.
+taskid: 31687

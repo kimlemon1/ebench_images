@@ -1,0 +1,5 @@
+org_img_id: 2412506
+org_cap: a yellow train with a sleek, aerodynamic design and a long, curved body, adorned with a bright yellow stripe running along its sides, sits on the platform, its wheels and doors gleaming in the morning light.
+trg_cap: A yellow suitcase sits on the platform.
+instruction: Replace the train with a suitcase.
+taskid: 5954

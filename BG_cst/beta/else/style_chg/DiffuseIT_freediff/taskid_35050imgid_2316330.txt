@@ -1,0 +1,5 @@
+org_img_id: 2316330
+org_cap: a person lies on a laptop, with a cat on his chest and at the screen.
+trg_cap: A pencil sketch depicts a person lying on a laptop with a cat on their chest and at the screen.
+instruction: Change the style if the image to pencil sketch.
+taskid: 35050

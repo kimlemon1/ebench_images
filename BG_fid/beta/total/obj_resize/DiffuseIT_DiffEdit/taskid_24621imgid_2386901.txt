@@ -1,0 +1,5 @@
+org_img_id: 2386901
+org_cap: The scene features a black keyboard with a board attached to it, bearing handwritten notes in black ink.
+trg_cap: The scene features a small black keyboard with a board attached to it, bearing handwritten notes in black ink.
+instruction: Make the keyboard smaller.
+taskid: 24621

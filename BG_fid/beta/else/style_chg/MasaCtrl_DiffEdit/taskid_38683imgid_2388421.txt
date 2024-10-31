@@ -1,0 +1,5 @@
+org_img_id: 2388421
+org_cap: Sitting person sat at the breakfast table as she enjoyed her orange juice and breakfast treats.
+trg_cap: A grayscale photo shows a person sitting at the breakfast table enjoying her orange juice and breakfast treats.
+instruction: Change the style if the image to grey scale.
+taskid: 38683

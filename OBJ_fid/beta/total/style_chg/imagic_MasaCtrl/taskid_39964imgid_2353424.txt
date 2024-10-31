@@ -1,0 +1,5 @@
+org_img_id: 2353424
+org_cap: A black bird perches on a rocky outcropping, its feathers glistening in the desert sunlight, its eyes scanning the arid landscape.
+trg_cap: A pop art style artwork features a black bird perching on a rocky outcropping, its feathers glistening in the desert sunlight as its eyes scan the arid landscape.
+instruction: Change the style if the image to pop art style.
+taskid: 39964

@@ -1,0 +1,5 @@
+org_img_id: 2387118
+org_cap: A standing brown cow, staring, stands in a small clearing surrounded by palm trees and tangled vegetation.
+trg_cap: A snowboard stands in a small clearing surrounded by palm trees and tangled vegetation.
+instruction: Replace the cow with a snowboard.
+taskid: 109337

@@ -1,0 +1,5 @@
+org_img_id: 2388782
+org_cap: Smiling person sitting at a table, surrounded by the makings of a delicious pizza, including tomato sauce, melted mozzarella cheese, and various toppings like olives, peppers, and pepperoni, arranged in a face-like pattern on the pizza.
+trg_cap: Smiling person sitting at a table, surrounded by the makings of a delicious stop sign.
+instruction: Replace the pizza with a stop sign.
+taskid: 23849

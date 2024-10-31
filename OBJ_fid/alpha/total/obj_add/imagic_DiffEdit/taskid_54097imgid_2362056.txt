@@ -1,0 +1,5 @@
+org_img_id: 2362056
+org_cap: A rider in a red motorcycle jumps over a yellow obstacle in a green field against a grey sky.
+trg_cap: A rider in a red motorcycle jumps over a yellow obstacle in a green field against a grey sky, with a traffic light on the right side of the motorcycle.
+instruction: Add a traffic light on the right side of the motorcycle.
+taskid: 54097

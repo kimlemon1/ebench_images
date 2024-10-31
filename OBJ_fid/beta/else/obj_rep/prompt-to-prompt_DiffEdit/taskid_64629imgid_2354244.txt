@@ -1,0 +1,5 @@
+org_img_id: 2354244
+org_cap: a white truck, driving down a straight and flat asphalt road with a green landscape on either side.
+trg_cap: "a white knife, with green landscapes on either side."
+instruction: Replace the truck with a knife.
+taskid: 64629

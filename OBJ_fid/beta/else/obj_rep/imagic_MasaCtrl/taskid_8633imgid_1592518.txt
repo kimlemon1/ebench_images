@@ -1,0 +1,5 @@
+org_img_id: 1592518
+org_cap: the room features a worn green chair and a matching sofa, both covered in a faded floral print, with a wooden wardrobe standing against one wall and a large window with a plain wooden frame.
+trg_cap: The room features a baseball bat and a matching sofa, each covered in a faded floral print, with a wooden wardrobe standing against one wall and a large window with a plain wooden frame.
+instruction: Replace the chair with a baseball bat.
+taskid: 8633

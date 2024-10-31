@@ -1,0 +1,5 @@
+org_img_id: 2351885
+org_cap: the group of people sat around a table, enjoying slices of pizza and chatting with each other.
+trg_cap: The group of people sat around a table, enjoying slices of pizza with a cup behind them and chatting with each other.
+instruction: Add a cup behind the pizza.
+taskid: 42706

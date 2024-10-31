@@ -1,0 +1,5 @@
+org_img_id: 2409447
+org_cap: a skateboarder leaps off a concrete ramp, his black skateboard flying off the edge as he lands with a thud on the pavement below.
+trg_cap: a skateboarder leaps off a concrete ramp, his small black skateboard flying off the edge as he lands with a thud on the pavement below.
+instruction: Make the skateboard smaller.
+taskid: 10342

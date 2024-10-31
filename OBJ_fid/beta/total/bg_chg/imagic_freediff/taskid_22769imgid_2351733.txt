@@ -1,0 +1,5 @@
+org_img_id: 2351733
+org_cap: person launches off a rusted green pipe, his snowboard spinning as he lands a flip in the snow-covered terrain.
+trg_cap: In a museum exhibit designed to mimic a winter landscape, a person launches off a rusted green pipe, his snowboard spinning as he lands a flip in the snow-covered terrain.
+instruction: Change the background to museum.
+taskid: 22769

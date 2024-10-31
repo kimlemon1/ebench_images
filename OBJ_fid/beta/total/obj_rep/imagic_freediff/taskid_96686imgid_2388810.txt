@@ -1,0 +1,5 @@
+org_img_id: 2388810
+org_cap: a person in a white uniform with a hat and a smile rode a white motorcycle across the bridge on a rainy day.
+trg_cap: The person in a white uniform with a hat and a smile rode a cat across the bridge on a rainy day.
+instruction: Replace the motorcycle with a cat.
+taskid: 96686

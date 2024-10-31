@@ -1,0 +1,5 @@
+org_img_id: 2403176
+org_cap: a small, green - hulled boat with a white sail and a single mast glides smoothly across the calm, light blue waters of the ocean.
+trg_cap: a small, 15-foot green-hulled boat with a white sail and a single mast glides smoothly across the calm, light blue waters of the ocean.
+instruction: Make the boat smaller.
+taskid: 88223

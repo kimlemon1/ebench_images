@@ -1,0 +1,5 @@
+org_img_id: 1591860
+org_cap: a woman stands behind an easel, wearing a pink hat and holding a paintbrush, with a black umbrella as she paints a scenic landscape of the coastline.
+trg_cap: a woman stands behind an easel, wearing a pink hat and holding a paintbrush, with a clear umbrella as she paints a scenic landscape of the coastline.
+instruction: Change the color of the umbrella from black to clear.
+taskid: 57300

@@ -1,0 +1,5 @@
+org_img_id: 2353868
+org_cap: a black horse over a wooden fence, her legs and her hooves the ground as she the obstacle with ease.
+trg_cap: A graffiti art piece depicts a black horse effortlessly clearing a wooden fence, her legs and hooves barely touching the ground.
+instruction: Change the style if the image to graffiti art.
+taskid: 118410

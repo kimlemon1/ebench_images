@@ -1,0 +1,5 @@
+org_img_id: 2361832
+org_cap: As the ball soared towards the stands, person swung his bat, sending the ball flying over the left field wall for a home run.
+trg_cap: As the ball soared towards the stands, with the arid desert landscape stretching beyond the stadium, person swung his bat, sending the ball flying over the left field wall for a home run.
+instruction: Change the background to desert.
+taskid: 38841

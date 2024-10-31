@@ -1,0 +1,5 @@
+org_img_id: 2319903
+org_cap: a bespectacled person with a scruffy beard and a blue shirt takes a sip from a white cup.
+trg_cap: An ancient Egyptian-style artwork depicts a bespectacled person with a scruffy beard and a blue shirt taking a sip from a white cup.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 21986

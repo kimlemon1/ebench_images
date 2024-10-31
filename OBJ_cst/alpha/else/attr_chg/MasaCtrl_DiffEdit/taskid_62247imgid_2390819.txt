@@ -1,0 +1,5 @@
+org_img_id: 2390819
+org_cap: a blue sedan with a white surfboard, parked under a covered parking spot.
+trg_cap: a blue sedan with a black and white surfboard, parked under a covered parking spot.
+instruction: Change the color of the surfboard from white to black and white.
+taskid: 62247

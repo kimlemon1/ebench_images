@@ -1,0 +1,5 @@
+org_img_id: 2335440
+org_cap: "Person on his snowboard, his green jacket and bright green snowboard standing out against the pristine white snow."
+trg_cap: Person on his snowboard, his green jacket and bright green snowboard standing out against the pristine white snow, with a parking meter on his right side.
+instruction: Add a parking meter on the right side of the person.
+taskid: 95948

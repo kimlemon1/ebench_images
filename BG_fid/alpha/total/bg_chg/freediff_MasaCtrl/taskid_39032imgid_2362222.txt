@@ -1,0 +1,5 @@
+org_img_id: 2362222
+org_cap: Person's slender fingers around the tennis racket, his eyes on the ball as he to serve.
+trg_cap: Person's slender fingers around the tennis racket, his eyes on the ball as he prepared to serve, the distant rumble of trains and the echoing announcements from the train station creating an unusual backdrop.
+instruction: Change the background to train station.
+taskid: 39032

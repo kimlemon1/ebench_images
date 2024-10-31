@@ -1,0 +1,5 @@
+org_img_id: 2315963
+org_cap: A black bear sits in a green meadow, its paws grasping a handful of juicy berries.
+trg_cap: A small black bear sits in a green meadow, its paws grasping a handful of juicy berries.
+instruction: Make the bear smaller.
+taskid: 23666

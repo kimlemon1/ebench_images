@@ -1,0 +1,5 @@
+org_img_id: 2339422
+org_cap: a black bird with a distinctive silhouette on a wooden fence, its beak a crunchy fish bone.
+trg_cap: A black bird with a distinctive silhouette on a wooden fence in the mouth of a cave, its beak a crunchy fish bone.
+instruction: Change the background to cave.
+taskid: 5470

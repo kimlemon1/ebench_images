@@ -1,0 +1,5 @@
+org_img_id: 2329253
+org_cap: a zip line and a boat, both suspended in mid-air, soar above a crowd of people on a sunny day with a clear blue sky and fluffy white clouds.
+trg_cap: In a gym, a zip line and a boat, both suspended in mid-air, soar above a crowd of people on a sunny day with a clear blue sky and fluffy white clouds.
+instruction: Change the background to gym.
+taskid: 116594

@@ -1,0 +1,5 @@
+org_img_id: 2351585
+org_cap: the person carefully removes the chocolate cake from the baking dish, its aroma filling the air as it rests on the wire rack.
+trg_cap: At the bustling train station, the person carefully removes the chocolate cake from the baking dish, its aroma filling the air as it rests on the wire rack.
+instruction: Change the background to train station.
+taskid: 15482

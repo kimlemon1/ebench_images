@@ -1,0 +1,5 @@
+org_img_id: 2321661
+org_cap: The scene is a white dog with a person standing opposite him.
+trg_cap: The scene is a cream colored dog with a person standing opposite him.
+instruction: Change the color of the dog from white to cream colored.
+taskid: 97172

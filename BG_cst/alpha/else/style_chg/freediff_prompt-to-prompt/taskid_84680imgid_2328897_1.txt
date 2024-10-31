@@ -1,0 +1,5 @@
+org_img_id: 2328897_1
+org_cap: a glazed donut with crispy bacon and a sprinkle of brown sugar sits on a gray plate, accompanied by a steaming cup of coffee.
+trg_cap: A grayscale photo features a glazed donut with crispy bacon and a sprinkle of brown sugar on a gray plate, accompanied by a steaming cup of coffee.
+instruction: Change the style if the image to grey scale.
+taskid: 84680

@@ -1,0 +1,5 @@
+org_img_id: 2382159
+org_cap: a giraffe sits on the grass, its long neck and legs folded, its brown and white striped fur glistening in the sunlight.
+trg_cap: A dog sits on the grass.
+instruction: Replace the giraffe with a dog.
+taskid: 55155

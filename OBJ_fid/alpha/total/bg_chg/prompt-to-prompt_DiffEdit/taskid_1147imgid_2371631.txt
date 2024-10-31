@@ -1,0 +1,5 @@
+org_img_id: 2371631
+org_cap: The ornate white clock face features a face with intricate details and a center bearing the inscription "person" in gold lettering.
+trg_cap: In the living room, the ornate white clock face features a face with intricate details and a center bearing the inscription "person" in gold lettering.
+instruction: Change the background to living room.
+taskid: 1147

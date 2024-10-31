@@ -1,0 +1,5 @@
+org_img_id: 2361824
+org_cap: a woman in a bright red coat rides a bicycle across a busy street, with a small white dog alongside her.
+trg_cap: A woman in a bright red coat rides her bicycle across a busy street, with a kite.
+instruction: Replace the dog with a kite.
+taskid: 88416

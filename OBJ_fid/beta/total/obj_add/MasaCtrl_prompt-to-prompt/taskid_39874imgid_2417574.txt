@@ -1,0 +1,5 @@
+org_img_id: 2417574
+org_cap: a black and white photograph of a black dog, with a cowboy in a white hat and a white shirt standing still, looking back at the dog, and a few sheep grazing in the background.
+trg_cap: a black and white photograph of a black dog, with a horse behind the dog, a cowboy in a white hat and a white shirt standing still, looking back at the dog, and a few sheep grazing in the background.
+instruction: Add a horse behind the dog.
+taskid: 39874

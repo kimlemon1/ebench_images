@@ -1,0 +1,5 @@
+org_img_id: 2325494
+org_cap: The scene is a view of a white airplane on the tarmac, with its engines and landing gear visible, and a cargo hold door open, revealing a stack of luggage and cargo containers.
+trg_cap: The scene is a view of a navy airplane on the tarmac, with its engines and landing gear visible, and a cargo hold door open, revealing a stack of luggage and cargo containers.
+instruction: Change the color of the airplane from white to navy.
+taskid: 31098

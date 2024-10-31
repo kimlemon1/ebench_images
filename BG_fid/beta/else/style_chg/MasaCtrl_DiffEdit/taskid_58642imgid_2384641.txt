@@ -1,0 +1,5 @@
+org_img_id: 2384641
+org_cap: A young person on a skateboard.
+trg_cap: A cartoon-style artwork features a young person on a skateboard.
+instruction: Change the style if the image to cartoon style.
+taskid: 58642

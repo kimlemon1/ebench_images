@@ -1,0 +1,5 @@
+org_img_id: 2346287
+org_cap: The bus is a double-decker bus with a white and blue livery, featuring a prominent logo on the side and a distinctive design on the front.
+trg_cap: An ancient Egyptian-style artwork features a double-decker bus with a white and blue livery, a prominent logo on the side, and a distinctive design on the front.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 15480

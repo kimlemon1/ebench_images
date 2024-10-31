@@ -1,0 +1,5 @@
+org_img_id: 2378135
+org_cap: A white bench sits beside a tranquil lake, surrounded by a scattering of ducks and geese grazing on the lush green grass.
+trg_cap: A green bench sits beside a tranquil lake, surrounded by a scattering of ducks and geese grazing on the lush green grass.
+instruction: Change the color of the bench from white to green.
+taskid: 64756

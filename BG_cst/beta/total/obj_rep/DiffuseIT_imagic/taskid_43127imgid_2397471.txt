@@ -1,0 +1,5 @@
+org_img_id: 2397471
+org_cap: smiling person sits on a pile of hay, a person in her arms, bottle in hand as she feeds the little ball of fluff.
+trg_cap: "dining table sits on a pile of hay, a person, bottle in hand as they feed the little ball of fluff."
+instruction: Replace the person with a dining table.
+taskid: 43127

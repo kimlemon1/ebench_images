@@ -1,0 +1,5 @@
+org_img_id: 2402440
+org_cap: The blue bus is painted in a bright, sky blue color with a white stripe running along the middle.
+trg_cap: The blue tie.
+instruction: Replace the bus with a tie.
+taskid: 25173

@@ -1,0 +1,5 @@
+org_img_id: 2336242
+org_cap: Surfing person rides the white surfboard.
+trg_cap: An oil painting style artwork features a person surfing on a white surfboard.
+instruction: Change the style if the image to oil painting style.
+taskid: 37207

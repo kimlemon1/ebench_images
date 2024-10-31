@@ -1,0 +1,5 @@
+org_img_id: 2400303
+org_cap: a brown, jumping dog into the air, its paws and tail as it catches a frisbee thrown by a person standing in the background, surrounded by a group of children watching the dog with eyes.
+trg_cap: a chocolate, jumping dog into the air, its paws and tail as it catches a frisbee thrown by a person standing in the background, surrounded by a group of children watching the dog with eyes.
+instruction: Change the color of the dog from brown to chocolate.
+taskid: 54418

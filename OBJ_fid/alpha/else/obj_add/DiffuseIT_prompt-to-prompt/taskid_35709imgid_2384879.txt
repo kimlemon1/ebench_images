@@ -1,0 +1,5 @@
+org_img_id: 2384879
+org_cap: A ruggedly dressed person on horseback across the shallow waters of a tranquil river, the warm sunlight casting a golden glow on the rippling water and the surrounding landscape.
+trg_cap: A ruggedly dressed person on horseback across the shallow waters of a tranquil river, with a chair next to them, the warm sunlight casting a golden glow on the rippling water and the surrounding landscape.
+instruction: Add a chair next to the person.
+taskid: 35709

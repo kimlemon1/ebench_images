@@ -1,0 +1,5 @@
+org_img_id: 2357568
+org_cap: The vase holds a bouquet of branches with leaves and twigs, set against a backdrop of white curtains and a tablecloth.
+trg_cap: A cartoon style art features a vase holding a bouquet of branches with leaves and twigs, set against a backdrop of white curtains and a tablecloth.
+instruction: Change the style if the image to cartoon style.
+taskid: 117188

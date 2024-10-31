@@ -1,0 +1,5 @@
+org_img_id: 2358763
+org_cap: A blue bird on the rearview mirror of a car, its feathers glistening with raindrops, its bird a stark contrast to the dull gray of the vehicle.
+trg_cap: A pencil sketch art depicts a blue bird on the rearview mirror of a car, its feathers glistening with raindrops and providing a stark contrast to the dull gray of the vehicle.
+instruction: Change the style if the image to pencil sketch.
+taskid: 52725

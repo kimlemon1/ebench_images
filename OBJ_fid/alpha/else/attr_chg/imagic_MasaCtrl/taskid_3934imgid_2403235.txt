@@ -1,0 +1,5 @@
+org_img_id: 2403235
+org_cap: The toilet is a small, yellow-tiled room with a sink, porcelain white toilet, and shower, featuring a single, rectangular sink with a yellow faucet, a porcelain white toilet, and a shower with a yellow shower curtain.
+trg_cap: The toilet is a small, yellow-tiled room with a sink, plastic white toilet, and shower, featuring a single, rectangular sink with a yellow faucet, a plastic white toilet, and a shower with a yellow shower curtain.
+instruction: Change the material of the toilet from porcelain to plastic.
+taskid: 3934

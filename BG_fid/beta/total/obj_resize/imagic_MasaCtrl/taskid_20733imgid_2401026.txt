@@ -1,0 +1,5 @@
+org_img_id: 2401026
+org_cap: a young person wearing a helmet and a t-shirt with a logo pedals a bicycle across a crosswalk, with a group of people walking in the background.
+trg_cap: a young person wearing a helmet and a t-shirt with a logo pedals a large bicycle across a crosswalk, with a group of people walking in the background.
+instruction: Make the bicycle larger.
+taskid: 20733

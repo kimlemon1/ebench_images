@@ -1,0 +1,5 @@
+org_img_id: 2342548
+org_cap: person holds a red cup with a cup of food and a hot dog on it, wearing glasses and a casual outfit.
+trg_cap: person holds a small red cup with a cup of food and a hot dog on it, wearing glasses and a casual outfit.
+instruction: Make the cup smaller.
+taskid: 98549

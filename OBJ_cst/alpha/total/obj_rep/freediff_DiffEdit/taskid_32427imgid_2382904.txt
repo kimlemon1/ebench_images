@@ -1,0 +1,5 @@
+org_img_id: 2382904
+org_cap: a young person with a messy mop of hair and a bright smile holds a warm, sugary donut in their small hand, the sweet aroma wafting up to their nose as they take a big bite.
+trg_cap: A young person with a messy mop of hair and a bright smile holds a bottle in his small hand as he takes a big bite.
+instruction: Replace the donut with a bottle.
+taskid: 32427

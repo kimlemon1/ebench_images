@@ -1,0 +1,5 @@
+org_img_id: 2355187
+org_cap: surfing person rides a purple surfboard, her hair behind her as she through the waves with a confident grin.
+trg_cap: surfing person rides a small purple surfboard, her hair behind her as she through the waves with a confident grin.
+instruction: Make the surfboard smaller.
+taskid: 56621

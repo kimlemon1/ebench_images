@@ -1,0 +1,5 @@
+org_img_id: 2328006
+org_cap: a colorful umbrella with a bright blue and yellow striped umbrella lies abandoned on a rocky beach, surrounded by calm turquoise waters and a few scattered pebbles.
+trg_cap: A colorful umbrella with a bright blue and yellow striped umbrella lies abandoned on a rocky beach, surrounded by a grass field and a few scattered pebbles.
+instruction: Change the background to grass field.
+taskid: 67878

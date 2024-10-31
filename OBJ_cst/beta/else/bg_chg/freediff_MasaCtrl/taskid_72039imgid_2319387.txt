@@ -1,0 +1,5 @@
+org_img_id: 2319387
+org_cap: A person sits on a bench, focused on taking a photo of a large, intricately carved elephant statue in the background.
+trg_cap: A person sits on a bench, focused on taking a photo of a large, intricately carved elephant statue in the background, set against the backdrop of a countryside farm.
+instruction: Change the background to country side farm.
+taskid: 72039

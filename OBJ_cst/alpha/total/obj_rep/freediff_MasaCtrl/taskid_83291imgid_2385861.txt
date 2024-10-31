@@ -1,0 +1,5 @@
+org_img_id: 2385861
+org_cap: The toilet is a white, dirty toilet, situated in a cramped, makeshift outhouse made of weathered wooden planks.
+trg_cap: The truck is situated in a cramped, makeshift outhouse made of weathered wooden planks.
+instruction: Replace the toilet with a truck.
+taskid: 83291

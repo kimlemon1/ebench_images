@@ -1,0 +1,5 @@
+org_img_id: 2410063
+org_cap: a person standing, skating, skiing on cross-country skis, with a bare tree branch looming in the background, its branches heavy with snow and ice.
+trg_cap: A tv, with a bare tree branch looming in the background, the branches heavy with snow and ice.
+instruction: Replace the person with a tv.
+taskid: 53640

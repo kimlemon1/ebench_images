@@ -1,0 +1,5 @@
+org_img_id: 2375282
+org_cap: The majestic elephant, its massive body covered in a thick layer of gray skin, with a long, curved tusk and a wrinkled, gray skin around its eyes.
+trg_cap: A graffiti art features a majestic elephant, its massive body covered in a thick layer of gray skin, with a long, curved tusk and wrinkled skin around its eyes.
+instruction: Change the style if the image to graffiti art.
+taskid: 2883

@@ -1,0 +1,5 @@
+org_img_id: 2322065
+org_cap: "a small person on a toilet, wearing a pair of worn-out pajamas and a person's book in his chubby little hands."
+trg_cap: a small person on a toilet at a train station, wearing a pair of worn-out pajamas and a person's book in his chubby little hands.
+instruction: Change the background to train station.
+taskid: 22640

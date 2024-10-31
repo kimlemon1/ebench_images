@@ -1,0 +1,5 @@
+org_img_id: 2413725
+org_cap: person catches a white frisbee.
+trg_cap: In a tropical jungle, a person catches a white frisbee.
+instruction: Change the background to tropical jungle.
+taskid: 101617

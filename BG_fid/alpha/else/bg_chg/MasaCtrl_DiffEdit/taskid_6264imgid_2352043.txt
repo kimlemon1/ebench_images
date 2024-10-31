@@ -1,0 +1,5 @@
+org_img_id: 2352043
+org_cap: The scene features a white bus parked at a bus stop, surrounded by lush greenery and vibrant colored benches, with pedestrians walking by on the adjacent sidewalk.
+trg_cap: The scene features a white bus parked at a bus stop, surrounded by ancient ruins and vibrant colored benches, with pedestrians walking by on the adjacent sidewalk.
+instruction: Change the background to ancient ruins.
+taskid: 6264

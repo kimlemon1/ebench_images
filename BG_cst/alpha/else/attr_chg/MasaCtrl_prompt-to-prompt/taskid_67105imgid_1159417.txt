@@ -1,0 +1,5 @@
+org_img_id: 1159417
+org_cap: a black cat in front of a music stand, its fur mussed and its whiskers with excitement.
+trg_cap: a white cat in front of a music stand, its fur mussed and its whiskers with excitement.
+instruction: Change the color of the cat from black to white.
+taskid: 67105

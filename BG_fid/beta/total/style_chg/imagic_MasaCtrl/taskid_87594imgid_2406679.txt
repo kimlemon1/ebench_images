@@ -1,0 +1,5 @@
+org_img_id: 2406679
+org_cap: a gray, walking, male elephant, across a grassy plain, its tusks visible and its ears in the wind.
+trg_cap: The art, in a pop art style, features a gray male elephant walking across a grassy plain, with its tusks visible and its ears in the wind.
+instruction: Change the style if the image to pop art style.
+taskid: 87594

@@ -1,0 +1,5 @@
+org_img_id: 2368594
+org_cap: a small, chubby person with a round face, big brown eyes, and a soft pink complexion, wearing a bright pink onesie and holding a wooden skateboard in their chubby little hands.
+trg_cap: An ancient Egyptian-style artwork features a small, chubby person with a round face, big brown eyes, and a soft pink complexion, wearing a bright pink onesie and holding a wooden skateboard in their chubby little hands.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 68822

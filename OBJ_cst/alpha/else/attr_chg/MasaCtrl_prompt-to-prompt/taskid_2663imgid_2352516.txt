@@ -1,0 +1,5 @@
+org_img_id: 2352516
+org_cap: The silver refrigerator is an appliance situated in a kitchen with hardwood floors and wooden cabinets.
+trg_cap: The red refrigerator is an appliance situated in a kitchen with hardwood floors and wooden cabinets.
+instruction: Change the color of the refrigerator from silver to red.
+taskid: 2663

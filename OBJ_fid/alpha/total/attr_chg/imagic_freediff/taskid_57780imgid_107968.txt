@@ -1,0 +1,5 @@
+org_img_id: 107968
+org_cap: A brown chocolate birthday cake sat atop a silver tray next to a bowl of popcorn and a bag of snacks.
+trg_cap: A cream colored chocolate birthday cake sat atop a silver tray next to a bowl of popcorn and a bag of snacks.
+instruction: Change the color of the cake from brown to cream colored.
+taskid: 57780

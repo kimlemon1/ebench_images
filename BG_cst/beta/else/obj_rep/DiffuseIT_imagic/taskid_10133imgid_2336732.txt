@@ -1,0 +1,5 @@
+org_img_id: 2336732
+org_cap: A black cat sits on a bedside table, drinking, its tail as it gazes at a plastic bottle.
+trg_cap: A black cat sits on a bedside table, drinking, its tail twitching as it gazes at a teddy bear.
+instruction: Replace the bottle with a teddy bear.
+taskid: 10133

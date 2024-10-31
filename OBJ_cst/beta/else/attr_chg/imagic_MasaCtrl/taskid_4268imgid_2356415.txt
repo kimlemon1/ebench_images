@@ -1,0 +1,5 @@
+org_img_id: 2356415
+org_cap: The small bathroom features a brown ceramic tile floor and walls, with a white sink and sink in a compact, rectangular space.
+trg_cap: The small bathroom features a brown ceramic tile floor and walls, with a yellow sink and sink in a compact, rectangular space.
+instruction: Change the color of the sink from white to yellow.
+taskid: 4268

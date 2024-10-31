@@ -1,0 +1,5 @@
+org_img_id: 2316299_2
+org_cap: a lone skateboarder stands on a worn stone bench, his board precariously balanced on the edge.
+trg_cap: a lone skateboarder stands on a small, worn stone bench, his board precariously balanced on the edge.
+instruction: Make the bench smaller.
+taskid: 6406

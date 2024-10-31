@@ -1,0 +1,5 @@
+org_img_id: 2332802
+org_cap: a orange cat on a wooden bench, its fur glistening in the warm sunlight, its eyes closed in contentment.
+trg_cap: An orange cat on a wooden bench, its fur glistening in the warm sunlight streaming through the large windows of the art gallery, its eyes closed in contentment.
+instruction: Change the background to art gallery.
+taskid: 55536

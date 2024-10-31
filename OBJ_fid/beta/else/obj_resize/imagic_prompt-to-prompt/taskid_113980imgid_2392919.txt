@@ -1,0 +1,5 @@
+org_img_id: 2392919
+org_cap: a person leaps into the air, his arms outstretched as he attempts to catch a white frisbee.
+trg_cap: a person leaps into the air, his arms outstretched as he attempts to catch a large white frisbee.
+instruction: Make the frisbee larger.
+taskid: 113980

@@ -1,0 +1,5 @@
+org_img_id: 2392607
+org_cap: The red bus rumbles down the desert highway, its tires kicking up clouds of dust as it disappears into the horizon.
+trg_cap: The teal bus rumbles down the desert highway, its tires kicking up clouds of dust as it disappears into the horizon.
+instruction: Change the color of the bus from red to teal.
+taskid: 4195

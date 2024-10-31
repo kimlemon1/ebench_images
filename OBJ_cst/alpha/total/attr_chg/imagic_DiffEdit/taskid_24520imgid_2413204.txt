@@ -1,0 +1,5 @@
+org_img_id: 2413204
+org_cap: The glass table top reflects the colorful desktop background and the sleek lines of the computer and white keyboard.
+trg_cap: The glass table top reflects the colorful desktop background and the sleek lines of the computer and black keyboard.
+instruction: Change the color of the keyboard from white to black.
+taskid: 24520

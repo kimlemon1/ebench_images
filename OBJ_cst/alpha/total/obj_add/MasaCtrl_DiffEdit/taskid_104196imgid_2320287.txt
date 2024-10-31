@@ -1,0 +1,5 @@
+org_img_id: 2320287
+org_cap: A sleek black cat sits on a windowsill, its fur glistening in the sunlight, its eyes narrowed into a piercing gaze, its tail as it surveys its surroundings.
+trg_cap: A sleek black cat sits on a windowsill, its fur glistening in the sunlight, its eyes narrowed into a piercing gaze, its tail as it surveys its surroundings, with an oven situated just behind it.
+instruction: Add a oven behind the cat.
+taskid: 104196

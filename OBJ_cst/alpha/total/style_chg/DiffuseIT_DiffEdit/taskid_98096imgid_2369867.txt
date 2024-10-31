@@ -1,0 +1,5 @@
+org_img_id: 2369867
+org_cap: a grey cat with a long, fluffy tail and a distinctive mottled coat is on the edge of a stainless steel sink, its paws in the air as it gazes at the water.
+trg_cap: A graffiti art piece features a grey cat with a long, fluffy tail and a distinctive mottled coat on the edge of a stainless steel sink, its paws in the air as it gazes at the water.
+instruction: Change the style if the image to graffiti art.
+taskid: 98096

@@ -1,0 +1,5 @@
+org_img_id: 498298
+org_cap: a person held a blue donut, her eyes fixed on the blue donut.
+trg_cap: a person held a yellow donut, her eyes fixed on the yellow donut.
+instruction: Change the color of the donut from blue to yellow.
+taskid: 52314

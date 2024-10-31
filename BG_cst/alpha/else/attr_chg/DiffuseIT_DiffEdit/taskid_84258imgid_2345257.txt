@@ -1,0 +1,5 @@
+org_img_id: 2345257
+org_cap: a brown cat in the open suitcase, surrounded by crumpled clothes and a plastic bag.
+trg_cap: a yellow cat in the open suitcase, surrounded by crumpled clothes and a plastic bag.
+instruction: Change the color of the cat from brown to yellow.
+taskid: 84258

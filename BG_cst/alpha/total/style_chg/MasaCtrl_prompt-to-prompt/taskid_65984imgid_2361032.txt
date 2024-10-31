@@ -1,0 +1,5 @@
+org_img_id: 2361032
+org_cap: The metal fork and silver metal knife lay on the plate, surrounded by a mess of syrup and butter.
+trg_cap: An oil painting style art depicts a metal fork and silver metal knife laying on a plate, surrounded by a mess of syrup and butter.
+instruction: Change the style if the image to oil painting style.
+taskid: 65984

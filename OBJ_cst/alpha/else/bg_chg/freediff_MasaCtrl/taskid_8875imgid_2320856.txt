@@ -1,0 +1,5 @@
+org_img_id: 2320856
+org_cap: standing person and standing person share a romantic moment as they cut into a tiered wedding cake together, with a slice of cake onto the table in front of them.
+trg_cap: Standing person and standing person share a romantic moment as they cut into a tiered wedding cake together, with a slice of cake onto the table in front of them, set against the backdrop of a mesmerizing aquarium.
+instruction: Change the background to aquarium.
+taskid: 8875

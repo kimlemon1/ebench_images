@@ -1,0 +1,5 @@
+org_img_id: 2395241
+org_cap: Surfing person carves through a wave on his surfboard as he navigates the water's surface.
+trg_cap: Surfing person carves through a wave on his surfboard as he navigates the water's surface, with a sports ball on his left side.
+instruction: Add a sports ball on the left side of the person.
+taskid: 34167

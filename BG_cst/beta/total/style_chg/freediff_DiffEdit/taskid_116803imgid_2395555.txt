@@ -1,0 +1,5 @@
+org_img_id: 2395555
+org_cap: The ornate clock face features a large golden sun surrounded by intricate stone carvings, with the numerals and decorative elements painted in a vibrant shade of gold.
+trg_cap: A Van Gogh style art piece features an ornate clock face with a large golden sun surrounded by intricate stone carvings, and the numerals and decorative elements are painted in a vibrant shade of gold.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 116803

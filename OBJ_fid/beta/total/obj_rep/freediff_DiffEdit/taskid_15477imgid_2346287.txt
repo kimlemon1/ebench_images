@@ -1,0 +1,5 @@
+org_img_id: 2346287
+org_cap: The bus is a double-decker bus with a white and blue livery, featuring a prominent logo on the side and a distinctive design on the front.
+trg_cap: The elephant is an elephant.
+instruction: Replace the bus with a elephant.
+taskid: 15477

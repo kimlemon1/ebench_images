@@ -1,0 +1,5 @@
+org_img_id: 2395331
+org_cap: a yellow cake features a 2nd birthday candle surrounded by pink and white sprinkles, with a phone and music notes embedded in the sprinkled cake.
+trg_cap: a yellow cake features a 2nd birthday candle surrounded by pink and white sprinkles, with a phone and music notes embedded in the plain cake.
+instruction: Change the state of the cake from sprinkled to plain.
+taskid: 95035

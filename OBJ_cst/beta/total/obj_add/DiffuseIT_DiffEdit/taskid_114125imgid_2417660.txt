@@ -1,0 +1,5 @@
+org_img_id: 2417660
+org_cap: the scene is focused on the swift movement of the sports ball as it is kicked and chased by the players, with their legs and feet in mid-air, their faces contorted in concentration and effort.
+trg_cap: The scene is focused on the swift movement of the sports ball as it is kicked and chased by the players, with their legs and feet in mid-air, their faces contorted in concentration and effort, and a laptop positioned next to the sports ball.
+instruction: Add a laptop next to the sports ball.
+taskid: 114125

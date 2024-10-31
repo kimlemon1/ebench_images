@@ -1,0 +1,5 @@
+org_img_id: 2322398
+org_cap: a person in a black hat and wearing orange and green clothing throws a white frisbee, the white frisbee flying high in the air as it arcs towards the ground.
+trg_cap: a person in a black hat and wearing orange and green clothing throws a brown frisbee, the brown frisbee flying high in the air as it arcs towards the ground.
+instruction: Change the color of the frisbee from white to brown.
+taskid: 22718

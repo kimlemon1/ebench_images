@@ -1,0 +1,5 @@
+org_img_id: 2364333
+org_cap: The black clock stands tall on a stone pedestal, its face featuring numerals and a design surrounding the clock hands, which point towards the setting sun in the background.
+trg_cap: The small black clock stands tall on a stone pedestal, its face featuring numerals and a design surrounding the clock hands, which point towards the setting sun in the background.
+instruction: Make the clock smaller.
+taskid: 85592

@@ -1,0 +1,5 @@
+org_img_id: 2411351
+org_cap: A man sat on a raft made of beer crates and umbrellas, laughing and splashing in the water.
+trg_cap: A man sat on a raft made of beer crates and umbrellas, laughing and splashing in the water, as the sounds of a concert hall echoed in the background.
+instruction: Change the background to concert hall.
+taskid: 82629

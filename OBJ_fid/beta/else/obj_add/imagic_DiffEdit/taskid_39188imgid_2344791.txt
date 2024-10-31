@@ -1,0 +1,5 @@
+org_img_id: 2344791
+org_cap: a person, person, over a rusty fence, his skateboard out from under him as he the obstacle with a grin.
+trg_cap: A person, person, over a rusty fence, his skateboard out from under him as he the obstacle with a grin, with a truck on the skateboard.
+instruction: Add a truck on the skateboard.
+taskid: 39188

@@ -1,0 +1,5 @@
+org_img_id: 2390960
+org_cap: A person sits in front of an open, silver laptop, with a mixture of confusion and disappointment.
+trg_cap: A pencil sketch depicts a person sitting in front of an open, silver laptop, with a mixture of confusion and disappointment.
+instruction: Change the style if the image to pencil sketch.
+taskid: 10073

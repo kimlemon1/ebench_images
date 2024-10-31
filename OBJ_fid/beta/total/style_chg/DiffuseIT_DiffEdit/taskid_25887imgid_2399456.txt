@@ -1,0 +1,5 @@
+org_img_id: 2399456
+org_cap: A gray airplane glides smoothly down the runway, its wings folded back against its body.
+trg_cap: A pop art style artwork features a gray airplane gliding smoothly down the runway with its wings folded back against its body.
+instruction: Change the style if the image to pop art style.
+taskid: 25887

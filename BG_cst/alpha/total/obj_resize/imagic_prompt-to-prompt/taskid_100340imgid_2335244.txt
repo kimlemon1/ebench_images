@@ -1,0 +1,5 @@
+org_img_id: 2335244
+org_cap: Person swings his racket, his long legs as he prepares to hit the tennis ball.
+trg_cap: Person swings his racket, his small, long legs as he prepares to hit the tennis ball.
+instruction: Make the person smaller.
+taskid: 100340

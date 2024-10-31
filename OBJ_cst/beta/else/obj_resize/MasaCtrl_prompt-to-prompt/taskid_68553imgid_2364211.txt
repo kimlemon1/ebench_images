@@ -1,0 +1,5 @@
+org_img_id: 2364211
+org_cap: a diesel locomotive with a distinctive livery and a long train of carriages behind it, parked on the platform with its wheels chocked and its horn silenced.
+trg_cap: a diesel locomotive with a distinctive livery and a large, long train of carriages behind it, parked on the platform with its wheels chocked and its horn silenced.
+instruction: Make the train larger.
+taskid: 68553

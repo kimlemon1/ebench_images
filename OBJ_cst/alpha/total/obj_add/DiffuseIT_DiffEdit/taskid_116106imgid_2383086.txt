@@ -1,0 +1,5 @@
+org_img_id: 2383086
+org_cap: a standing brown cow on a grassy knoll overlooking a misty river, its fur covered in dew and its eyes watchful.
+trg_cap: a standing brown cow on a grassy knoll overlooking a misty river, its fur covered in dew and its eyes watchful, with a bottle in front of it.
+instruction: Add a bottle in front of the cow.
+taskid: 116106

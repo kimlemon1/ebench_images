@@ -1,0 +1,5 @@
+org_img_id: 2390169
+org_cap: a rider on a brown, running horse in a dusty arena surrounded by mountains and a few people watching from the sidelines.
+trg_cap: a rider on a orange, running horse in a dusty arena surrounded by mountains and a few people watching from the sidelines.
+instruction: Change the color of the horse from brown to orange.
+taskid: 86100

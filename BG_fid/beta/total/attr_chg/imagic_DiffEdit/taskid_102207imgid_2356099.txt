@@ -1,0 +1,5 @@
+org_img_id: 2356099
+org_cap: A black laptop sits on a desk, surrounded by bookshelves and a brown wood chair.
+trg_cap: A orange laptop sits on a desk, surrounded by bookshelves and a brown wood chair.
+instruction: Change the color of the laptop from black to orange.
+taskid: 102207

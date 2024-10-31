@@ -1,0 +1,5 @@
+org_img_id: 2413518
+org_cap: A maroon airplane sits on the runway with its engines covered and its landing gear retracted.
+trg_cap: A maroon bed sits on the runway.
+instruction: Replace the airplane with a bed.
+taskid: 64936

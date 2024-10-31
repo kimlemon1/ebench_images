@@ -1,0 +1,5 @@
+org_img_id: 2344735
+org_cap: A large bear stands on its hind legs, its front paws a tree trunk, its fur a thick layer of white and brown, its eyes on something in the distance.
+trg_cap: A small bear stands on its hind legs, its front paws a tree trunk, its fur a thick layer of white and brown, its eyes on something in the distance.
+instruction: Make the bear smaller.
+taskid: 72032

@@ -1,0 +1,5 @@
+org_img_id: 2412607
+org_cap: a brown dog sitting in the driver's seat of a rusty old car, its paws on the dashboard.
+trg_cap: a brown dog sitting in the driver's seat of a rusty old car, its paws on the dashboard, with a frisbee in front of it.
+instruction: Add a frisbee in front of the dog.
+taskid: 64022

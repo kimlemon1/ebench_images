@@ -1,0 +1,5 @@
+org_img_id: 2397248
+org_cap: A standing giraffe stands tall, its fur blending with the savannah grasses.
+trg_cap: A standing giraffe stands tall, its fur blending with the stadium backdrop.
+instruction: Change the background to stadium.
+taskid: 37954

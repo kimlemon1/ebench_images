@@ -1,0 +1,5 @@
+org_img_id: 2406059
+org_cap: a woman stands alone under a clear, transparent umbrella, as raindrops glisten on its edges and the sound of rain patters against its umbrella.
+trg_cap: A woman stands alone under a clear, transparent umbrella, as raindrops glisten on its edges and the sound of rain patters against its umbrella, while the vibrant colors of fish swim in the background of the aquarium.
+instruction: Change the background to aquarium.
+taskid: 109489

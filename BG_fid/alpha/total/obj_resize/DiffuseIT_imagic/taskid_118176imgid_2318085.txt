@@ -1,0 +1,5 @@
+org_img_id: 2318085
+org_cap: person on a skateboard, wearing a gray shirt and jeans, with a goofy grin on his face and his hands on the board's trucks.
+trg_cap: small person on a skateboard, wearing a gray shirt and jeans, with a goofy grin on his face and his hands on the board's trucks.
+instruction: Make the person smaller.
+taskid: 118176

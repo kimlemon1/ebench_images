@@ -1,0 +1,5 @@
+org_img_id: 2351685
+org_cap: a person holds a black umbrella over their head, shielding them from the rain as they stand outside a historic building.
+trg_cap: A person holds a black bear as he or she stands outside a historic building.
+instruction: Replace the umbrella with a bear.
+taskid: 4136

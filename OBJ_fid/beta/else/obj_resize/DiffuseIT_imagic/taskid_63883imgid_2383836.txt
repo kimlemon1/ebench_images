@@ -1,0 +1,5 @@
+org_img_id: 2383836
+org_cap: a person sits on a stone bench, wearing a white.
+trg_cap: a person sits on a small stone bench, wearing a white.
+instruction: Make the bench smaller.
+taskid: 63883

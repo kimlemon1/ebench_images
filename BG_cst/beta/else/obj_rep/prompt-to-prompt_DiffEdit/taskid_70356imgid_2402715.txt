@@ -1,0 +1,5 @@
+org_img_id: 2402715
+org_cap: The refrigerator is a steel, stainless steel, silver refrigerator with a flat, white countertop above it.
+trg_cap: The bowl is a bowl with a flat, white countertop above the bowl.
+instruction: Replace the refrigerator with a bowl.
+taskid: 70356

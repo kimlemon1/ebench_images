@@ -1,0 +1,5 @@
+org_img_id: 2333095
+org_cap: Person wears a blue and white striped shirt, dark blue jeans, and a black baseball cap, with a skateboard under his feet and an expression on his face.
+trg_cap: Person wears a blue and white striped shirt, dark blue jeans, and a black baseball cap, with a skateboard under his feet and an expression on his face, set against the backdrop of a vast desert landscape.
+instruction: Change the background to desert.
+taskid: 95902

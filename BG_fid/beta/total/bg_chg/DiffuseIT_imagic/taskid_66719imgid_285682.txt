@@ -1,0 +1,5 @@
+org_img_id: 285682
+org_cap: a black cat with a white patch on its forehead on top of a television, its paws a chunk of red meat.
+trg_cap: A black cat with a white patch on its forehead on top of a television in a grass field, its paws a chunk of red meat.
+instruction: Change the background to grass field.
+taskid: 66719

@@ -1,0 +1,5 @@
+org_img_id: 2342746
+org_cap: The gray truck has a body with a grille and a bumper, featuring a large gold logo on the back and a set of wheels with a trim.
+trg_cap: The mosaic art features a gray truck with a body that includes a grille and a bumper, a large gold logo on the back, and a set of wheels with a trim.
+instruction: Change the style if the image to mosaic art.
+taskid: 31573

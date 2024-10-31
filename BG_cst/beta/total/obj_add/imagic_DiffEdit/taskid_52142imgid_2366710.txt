@@ -1,0 +1,5 @@
+org_img_id: 2366710
+org_cap: the teddy bear is a small, cuddly, purple teddy bear with a soft, fluffy texture and a sweet, innocent face.
+trg_cap: The teddy bear is a small, cuddly, purple teddy bear with a soft, fluffy texture, a sweet, innocent face, and a tie around its neck.
+instruction: Add a tie on the teddy bear.
+taskid: 52142

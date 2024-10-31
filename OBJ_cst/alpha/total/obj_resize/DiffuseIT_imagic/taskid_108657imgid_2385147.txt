@@ -1,0 +1,5 @@
+org_img_id: 2385147
+org_cap: A red bus rumbles along the cobblestone street, its wheels clicking on the tracks as it turns a corner.
+trg_cap: A large red bus rumbles along the cobblestone street, its wheels clicking on the tracks as it turns a corner.
+instruction: Make the bus larger.
+taskid: 108657

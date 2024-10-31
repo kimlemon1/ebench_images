@@ -1,0 +1,5 @@
+org_img_id: 2366523
+org_cap: "a lone person through the snow-covered mountain terrain, their legs and arms as they make their way through the winter wonderland."
+trg_cap: a lone person through the snow-covered mountain terrain, their legs and arms as they make their way through the winter wonderland, with an elephant next to them.
+instruction: Add a elephant next to the person.
+taskid: 113759

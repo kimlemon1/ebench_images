@@ -1,0 +1,5 @@
+org_img_id: 2369126
+org_cap: a large, fluffy bear with a white patch on its forehead and a black patch around its left eye across the grassy terrain.
+trg_cap: The cartoon-style art features a large, fluffy bear with a white patch on its forehead and a black patch around its left eye, set against a grassy terrain.
+instruction: Change the style if the image to cartoon style.
+taskid: 34151

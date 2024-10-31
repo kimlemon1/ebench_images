@@ -1,0 +1,5 @@
+org_img_id: 2356592
+org_cap: a group of people, including a chef holding a freshly baked pizza with vibrant vegetables and a slice missing, stand proudly in front of a brick oven at a festival, surrounded by colorful flags and banners.
+trg_cap: A group of people, including a chef holding a freshly baked pizza with vibrant vegetables and a slice missing, stand proudly in front of a brick oven at a festival, with a cup behind the pizza, surrounded by colorful flags and banners.
+instruction: Add a cup behind the pizza.
+taskid: 116409

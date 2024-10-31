@@ -1,0 +1,5 @@
+org_img_id: 2401848
+org_cap: the sandwich consisted of turkey, bacon, cheddar cheese, and lettuce, all nestled between a halved sandwich and topped with a dollop of mayonnaise.
+trg_cap: The pop art style artwork features a sandwich consisting of turkey, bacon, cheddar cheese, and lettuce, all nestled between a halved sandwich and topped with a dollop of mayonnaise.
+instruction: Change the style if the image to pop art style.
+taskid: 70146

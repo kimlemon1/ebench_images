@@ -1,0 +1,5 @@
+org_img_id: 2319227
+org_cap: The scene is focused on the physical details of the oven, with a curved countertop and a stainless steel sink below, surrounded by beige walls and a wooden kitchen island.
+trg_cap: The scene is focused on the physical details of the oven, with a person standing next to it, a curved countertop and a stainless steel sink below, surrounded by beige walls and a wooden kitchen island.
+instruction: Add a person next to the oven.
+taskid: 85620

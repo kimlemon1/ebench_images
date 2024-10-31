@@ -1,0 +1,5 @@
+org_img_id: 4852
+org_cap: a plate of steaming hot broccoli, accompanied by a bowl of tea and a few utensils, sits in front of a person, with a few crumbs and scraps scattered around.
+trg_cap: a plate of steaming hot large broccoli, accompanied by a bowl of tea and a few utensils, sits in front of a person, with a few crumbs and scraps scattered around.
+instruction: Make the broccoli larger.
+taskid: 99852

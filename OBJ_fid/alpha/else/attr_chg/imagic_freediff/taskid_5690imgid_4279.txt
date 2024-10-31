@@ -1,0 +1,5 @@
+org_img_id: 4279
+org_cap: The white microwave is situated in the corner of the kitchen, adjacent to the sink and stove.
+trg_cap: The brown microwave is situated in the corner of the kitchen, adjacent to the sink and stove.
+instruction: Change the color of the microwave from white to brown.
+taskid: 5690

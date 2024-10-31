@@ -1,0 +1,5 @@
+org_img_id: 2328764_0
+org_cap: a grey and white dog, with a floppy ears and a wagging tail, is running on the sandy beach, holding a red frisbee in its mouth.
+trg_cap: A watercolor painting style art depicts a grey and white dog with floppy ears and a wagging tail running on the sandy beach, holding a red frisbee in its mouth.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 7197

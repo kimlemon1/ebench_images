@@ -1,0 +1,5 @@
+org_img_id: 2409496
+org_cap: The kitchen features a stainless steel oven, situated against a backdrop of polished concrete floors and neutral-colored walls.
+trg_cap: The kitchen features a small stainless steel oven, situated against a backdrop of polished concrete floors and neutral-colored walls.
+instruction: Make the oven smaller.
+taskid: 103730

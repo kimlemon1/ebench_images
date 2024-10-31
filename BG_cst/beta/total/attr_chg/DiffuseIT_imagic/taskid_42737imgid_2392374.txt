@@ -1,0 +1,5 @@
+org_img_id: 2392374
+org_cap: A baby zebra running across the open grassland, its stripes glistening in the sunlight.
+trg_cap: A adult zebra running across the open grassland, its stripes glistening in the sunlight.
+instruction: Change the state of the zebra from baby to adult.
+taskid: 42737

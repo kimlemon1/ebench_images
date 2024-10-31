@@ -1,0 +1,5 @@
+org_img_id: 2401866
+org_cap: Playing person his racket, his shirt and shoes a stark contrast to the lush green tennis court as he a shot back to his playing person.
+trg_cap: An oil painting style art depicts a person playing tennis, his racket, shirt, and shoes providing a stark contrast to the lush green tennis court as he returns a shot to his opponent.
+instruction: Change the style if the image to oil painting style.
+taskid: 41083

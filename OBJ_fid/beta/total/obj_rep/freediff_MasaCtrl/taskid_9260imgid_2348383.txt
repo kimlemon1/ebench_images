@@ -1,0 +1,5 @@
+org_img_id: 2348383
+org_cap: The white toilet is a model with a seat and lid, a handle, and a small, rectangular toilet brush holder attached to the wall above it.
+trg_cap: The white backpack is a model with a handle.
+instruction: Replace the toilet with a backpack.
+taskid: 9260

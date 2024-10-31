@@ -1,0 +1,5 @@
+org_img_id: 2344891
+org_cap: the intricate stone carvings and ornate clock adorn the facade of a historic church.
+trg_cap: The intricate stone carvings and ornate clock adorn the facade of a historic church, reminiscent of the ancient cave art that once inspired early architects.
+instruction: Change the background to cave.
+taskid: 95109

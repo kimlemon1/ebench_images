@@ -1,0 +1,5 @@
+org_img_id: 2394168
+org_cap: The scene features a fluffy grey and white dog on a messy bed, surrounded by tangled sheets and blankets, with a few stray socks and a worn-out teddy bear nearby.
+trg_cap: The scene features a large, fluffy grey and white dog on a messy bed, surrounded by tangled sheets and blankets, with a few stray socks and a worn-out teddy bear nearby.
+instruction: Make the dog larger.
+taskid: 8645

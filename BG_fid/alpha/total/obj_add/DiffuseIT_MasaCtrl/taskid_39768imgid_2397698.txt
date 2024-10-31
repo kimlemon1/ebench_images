@@ -1,0 +1,5 @@
+org_img_id: 2397698
+org_cap: Skiing person through the snow-covered slopes on her skis, her legs and arms as she the mountain.
+trg_cap: Skiing person through the snow-covered slopes on her skis, her legs and arms as she the mountain, with a couch in front of her.
+instruction: Add a couch in front of the person.
+taskid: 39768

@@ -1,0 +1,5 @@
+org_img_id: 2328605
+org_cap: A person in a black wetsuit on the beach, holding a white surfboard and gazing out at the waves.
+trg_cap: A person in a black wetsuit on the beach, holding a white surfboard and gazing out at the waves, with a TV behind them.
+instruction: Add a tv behind the person.
+taskid: 66762

@@ -1,0 +1,5 @@
+org_img_id: 2413278
+org_cap: a tiny dog with a bright pink helmet and goggles perched on a sleek black motorcycle, its little paws on the handlebars as it gazes up at its owner with big brown eyes.
+trg_cap: a tiny, small dog with a bright pink helmet and goggles perched on a sleek black motorcycle, its little paws on the handlebars as it gazes up at its owner with big brown eyes.
+instruction: Make the dog smaller.
+taskid: 6242

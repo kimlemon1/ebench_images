@@ -1,0 +1,5 @@
+org_img_id: 2364206
+org_cap: person at a table, wearing a red jacket, with a white bowl and a cup of orange juice in front of her.
+trg_cap: small person at a table, wearing a red jacket, with a white bowl and a cup of orange juice in front of her.
+instruction: Make the person smaller.
+taskid: 97816

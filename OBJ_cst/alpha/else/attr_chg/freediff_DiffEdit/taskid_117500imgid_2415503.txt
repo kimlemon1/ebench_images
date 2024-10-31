@@ -1,0 +1,5 @@
+org_img_id: 2415503
+org_cap: The green bus has a body, tires, and a bumper, with a faded license plate and a cracked windshield.
+trg_cap: The pink bus has a body, tires, and a bumper, with a faded license plate and a cracked windshield.
+instruction: Change the color of the bus from green to pink.
+taskid: 117500

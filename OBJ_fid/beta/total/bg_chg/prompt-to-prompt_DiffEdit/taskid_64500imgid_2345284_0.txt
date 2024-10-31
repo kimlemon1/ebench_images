@@ -1,0 +1,5 @@
+org_img_id: 2345284_0
+org_cap: A white cat is low to the ground, its tail as it the porcelain toilet bowl.
+trg_cap: A white cat is low to the ground, its tail as it the porcelain toilet bowl in the gym locker room.
+instruction: Change the background to gym.
+taskid: 64500

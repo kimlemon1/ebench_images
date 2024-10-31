@@ -1,0 +1,5 @@
+org_img_id: 2396317
+org_cap: a brown horse near a parked car, its ears and its eyes.
+trg_cap: a blue horse near a parked car, its ears and its eyes.
+instruction: Change the color of the horse from brown to blue.
+taskid: 10176

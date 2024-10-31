@@ -1,0 +1,5 @@
+org_img_id: 2337834
+org_cap: surfing person rides a white surfboard, his legs and feet as he a smooth arc through the turquoise waves.
+trg_cap: A surfing person rides a white surfboard, his legs and feet as he a smooth arc through the turquoise waves, as if gliding effortlessly in the zero-gravity environment of a space station.
+instruction: Change the background to space station.
+taskid: 103332

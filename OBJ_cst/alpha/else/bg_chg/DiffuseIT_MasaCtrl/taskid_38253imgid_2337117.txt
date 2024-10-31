@@ -1,0 +1,5 @@
+org_img_id: 2337117
+org_cap: a person at a stop sign, wearing a striped shirt and shorts, with a relaxed posture and a gaze off into the distance.
+trg_cap: A person at a stop sign, wearing a striped shirt and shorts, with a relaxed posture and a gaze off into the distance, stands against the backdrop of a pine forest.
+instruction: Change the background to pine forest.
+taskid: 38253

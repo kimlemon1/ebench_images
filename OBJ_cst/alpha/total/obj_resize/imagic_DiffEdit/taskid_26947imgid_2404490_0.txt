@@ -1,0 +1,5 @@
+org_img_id: 2404490_0
+org_cap: a green wine glass holds a rich red wine with a label featuring the name "château margaux".
+trg_cap: a small green wine glass holds a rich red wine with a label featuring the name "château margaux".
+instruction: Make the wine glass smaller.
+taskid: 26947

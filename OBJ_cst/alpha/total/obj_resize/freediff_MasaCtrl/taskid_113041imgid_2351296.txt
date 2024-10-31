@@ -1,0 +1,5 @@
+org_img_id: 2351296
+org_cap: scissors are cutting through the skin on the person's face.
+trg_cap: large scissors are cutting through the skin on the person's face.
+instruction: Make the scissors larger.
+taskid: 113041

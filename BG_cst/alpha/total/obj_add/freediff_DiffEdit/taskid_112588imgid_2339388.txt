@@ -1,0 +1,5 @@
+org_img_id: 2339388
+org_cap: the gothic-style church features intricate stone carvings and ornate details on its exterior, including a large clock with roman numerals and gothic arches above the entrance.
+trg_cap: The gothic-style church features intricate stone carvings and ornate details on its exterior, including a large clock with roman numerals and gothic arches above the entrance, with a car parked next to the clock.
+instruction: Add a car next to the clock.
+taskid: 112588

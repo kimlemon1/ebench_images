@@ -1,0 +1,5 @@
+org_img_id: 2363902
+org_cap: The kitchen sink is a white sink with a single faucet and a drainboard above it, surrounded by worn wooden cabinets and a rustic, wooden-framed window with a view of the surrounding forest.
+trg_cap: The mosaic art features a white kitchen sink with a single faucet and a drainboard above it, surrounded by worn wooden cabinets and a rustic, wooden-framed window offering a view of the surrounding forest.
+instruction: Change the style if the image to mosaic art.
+taskid: 42904

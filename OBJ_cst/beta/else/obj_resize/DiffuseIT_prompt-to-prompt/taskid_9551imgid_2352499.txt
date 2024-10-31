@@ -1,0 +1,5 @@
+org_img_id: 2352499
+org_cap: Person in the kitchen, wearing a worn apron and holding a wooden spoon, surrounded by the warm glow of vintage kitchen appliances and the soft hum of the refrigerator.
+trg_cap: Small person in the kitchen, wearing a worn apron and holding a wooden spoon, surrounded by the warm glow of vintage kitchen appliances and the soft hum of the refrigerator.
+instruction: Make the person smaller.
+taskid: 9551

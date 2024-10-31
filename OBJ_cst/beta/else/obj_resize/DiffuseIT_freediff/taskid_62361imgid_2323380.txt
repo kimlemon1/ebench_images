@@ -1,0 +1,5 @@
+org_img_id: 2323380
+org_cap: The snowboard lies in a makeshift bed, its bindings tangled in the green fabric of a tent, with a backpack and snowboard boots nearby, surrounded by snow and ice.
+trg_cap: The large snowboard lies in a makeshift bed, its bindings tangled in the green fabric of a tent, with a backpack and snowboard boots nearby, surrounded by snow and ice.
+instruction: Make the snowboard larger.
+taskid: 62361

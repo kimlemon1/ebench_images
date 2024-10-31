@@ -1,0 +1,5 @@
+org_img_id: 2400319
+org_cap: a blue bus, covered in snow and parked in a winter wonderland, surrounded by a chain-link fence and filled with children playing in the snow.
+trg_cap: A blue bus, covered in snow and parked in a winter wonderland, surrounded by a chain-link fence and filled with children playing in the snow, stands in stark contrast to the surrounding desert landscape.
+instruction: Change the background to desert.
+taskid: 95633

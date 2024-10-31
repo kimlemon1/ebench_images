@@ -1,0 +1,5 @@
+org_img_id: 2344794_0
+org_cap: The red necktie sat snugly around his neck.
+trg_cap: The green necktie sat snugly around his neck.
+instruction: Change the color of the tie from red to green.
+taskid: 39170

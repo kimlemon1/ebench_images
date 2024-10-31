@@ -1,0 +1,5 @@
+org_img_id: 2353152
+org_cap: a black motorcycle with a chrome handlebar and a tank, parked on a quiet street lined with bare trees and a historic mansion in the background, with a warm sunbeam casting a bright glow on the entire scene.
+trg_cap: a striped motorcycle with a chrome handlebar and a tank, parked on a quiet street lined with bare trees and a historic mansion in the background, with a warm sunbeam casting a bright glow on the entire scene.
+instruction: Change the color of the motorcycle from black to striped.
+taskid: 5417

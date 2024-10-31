@@ -1,0 +1,5 @@
+org_img_id: 2351026
+org_cap: a grey cat with a curious expression is on the edge of a toilet bowl, its paw in water and its whiskers wet.
+trg_cap: a small grey cat with a curious expression is on the edge of a toilet bowl, its paw in water and its whiskers wet.
+instruction: Make the cat smaller.
+taskid: 115439

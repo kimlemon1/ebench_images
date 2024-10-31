@@ -1,0 +1,5 @@
+org_img_id: 2319362
+org_cap: the person sat at the table, focused on the slice of pizza in front of them, the melted cheese and savory toppings glistening in the light.
+trg_cap: An ancient Egyptian-style artwork depicts a person seated at a table, focused on a slice of pizza in front of them, with melted cheese and savory toppings glistening in the light.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 100955

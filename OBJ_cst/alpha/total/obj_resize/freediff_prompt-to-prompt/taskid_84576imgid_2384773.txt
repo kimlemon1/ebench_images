@@ -1,0 +1,5 @@
+org_img_id: 2384773
+org_cap: the rustic living room features a large stone fireplace with a wooden mantel, surrounded by a tv mounted above the stone, with a pile of logs and kindling stacked beside it.
+trg_cap: The rustic living room features a large stone fireplace with a wooden mantel, surrounded by a small tv mounted above the stone, with a pile of logs and kindling stacked beside it.
+instruction: Make the tv smaller.
+taskid: 84576

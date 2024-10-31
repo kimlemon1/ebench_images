@@ -1,0 +1,5 @@
+org_img_id: 2362633
+org_cap: "a small, dark blue bird with a distinctive blue stripe on its head and a subtle sheen to its feathers on a small, grayish plant, its bright blue eyes fixed intently on something in the distance."
+trg_cap: a cup on a small, grayish plant, their bright blue eyes fixed intently on something in the distance.
+instruction: Replace the bird with a cup.
+taskid: 10654

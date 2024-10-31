@@ -1,0 +1,5 @@
+org_img_id: 2389724
+org_cap: An old, red train sits on a snowy train, its wooden slats weathered to a warm, honey color, with faded, hand-painted letters spelling out its destination on the side.
+trg_cap: An new, red train sits on a snowy train, its wooden slats weathered to a warm, honey color, with faded, hand-painted letters spelling out its destination on the side.
+instruction: Change the state of the train from old to new.
+taskid: 55068

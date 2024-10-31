@@ -1,0 +1,5 @@
+org_img_id: 2376322
+org_cap: A lone person sits on a worn iron bench, with a purple balloon tied to the bench beside them.
+trg_cap: An oil painting style art depicts a lone person sitting on a worn iron bench, with a purple balloon tied to the bench beside them.
+instruction: Change the style if the image to oil painting style.
+taskid: 98419

@@ -1,0 +1,5 @@
+org_img_id: 2397577
+org_cap: a person holds a peeled banana in their hand, the banana curved into a shape and the eaten banana visible.
+trg_cap: a person holds a small peeled banana in their hand, the banana curved into a shape and the eaten banana visible.
+instruction: Make the banana smaller.
+taskid: 62990

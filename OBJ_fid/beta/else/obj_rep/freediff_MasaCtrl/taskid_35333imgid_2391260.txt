@@ -1,0 +1,5 @@
+org_img_id: 2391260
+org_cap: a brown walking horse, a wooden buggy with a worn wooden seat and rusty metal wheels, driven by a person wearing a straw hat and a worn denim shirt.
+trg_cap: a wooden buggy with a worn wooden seat and rusty metal wheels, driven by a refrigerator wearing a straw hat and a worn denim shirt.
+instruction: Replace the horse with a refrigerator.
+taskid: 35333

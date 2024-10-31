@@ -1,0 +1,5 @@
+org_img_id: 2352262
+org_cap: a person holds a cell phone in his hand, fingers curled around the cell phone as he examines the screen with a curious expression.
+trg_cap: a person holds a large cell phone in his hand, fingers curled around the cell phone as he examines the screen with a curious expression.
+instruction: Make the cell phone larger.
+taskid: 32941

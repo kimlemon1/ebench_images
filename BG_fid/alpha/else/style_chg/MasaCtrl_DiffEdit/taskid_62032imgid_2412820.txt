@@ -1,0 +1,5 @@
+org_img_id: 2412820
+org_cap: "Person on a snow-covered slope, wearing a red jacket and snow pants, with a bright sun shining down and a snowboard in hand, with a smile on his face."
+trg_cap: A grayscale photo depicts a person on a snow-covered slope, wearing a red jacket and snow pants, with a bright sun shining down, holding a snowboard, and smiling.
+instruction: Change the style if the image to grey scale.
+taskid: 62032

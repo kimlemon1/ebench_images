@@ -1,0 +1,5 @@
+org_img_id: 2417318
+org_cap: a blue bench with a curved back and a flat seat, situated on a grassy area overlooking a tranquil harbor with a ferry bench visible in the distance.
+trg_cap: a small blue bench with a curved back and a flat seat, situated on a grassy area overlooking a tranquil harbor with a ferry bench visible in the distance.
+instruction: Make the bench smaller.
+taskid: 23631

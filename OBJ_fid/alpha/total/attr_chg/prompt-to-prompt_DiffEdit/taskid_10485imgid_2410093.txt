@@ -1,0 +1,5 @@
+org_img_id: 2410093
+org_cap: A gray elephant, walking, stands in a clearing, its skin glistening in the warm sunlight, its ears as it on a bundle of fresh green grass.
+trg_cap: A tan elephant, walking, stands in a clearing, its skin glistening in the warm sunlight, its ears as it on a bundle of fresh green grass.
+instruction: Change the color of the elephant from gray to tan.
+taskid: 10485

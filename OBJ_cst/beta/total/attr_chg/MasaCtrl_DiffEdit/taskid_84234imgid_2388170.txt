@@ -1,0 +1,5 @@
+org_img_id: 2388170
+org_cap: A green fire hydrant stands on a city street, surrounded by concrete sidewalks and asphalt roads, with a historic church steeple visible in the distance.
+trg_cap: A blue fire hydrant stands on a city street, surrounded by concrete sidewalks and asphalt roads, with a historic church steeple visible in the distance.
+instruction: Change the color of the fire hydrant from green to blue.
+taskid: 84234

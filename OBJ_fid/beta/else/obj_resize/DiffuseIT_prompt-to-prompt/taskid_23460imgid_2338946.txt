@@ -1,0 +1,5 @@
+org_img_id: 2338946
+org_cap: person holds a clear bowl with a cake and a layer of vibrant, colorful vegetables on top, a spatula in hand, beaming with satisfaction.
+trg_cap: person holds a large clear bowl with a cake and a layer of vibrant, colorful vegetables on top, a spatula in hand, beaming with satisfaction.
+instruction: Make the bowl larger.
+taskid: 23460

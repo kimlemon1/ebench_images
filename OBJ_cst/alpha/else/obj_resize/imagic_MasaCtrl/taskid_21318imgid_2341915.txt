@@ -1,0 +1,5 @@
+org_img_id: 2341915
+org_cap: The wood bench sits solitary in the dense forest, surrounded by tall trees with rustling leaves and a carpet of crunchy autumn leaves beneath.
+trg_cap: The large wood bench sits solitary in the dense forest, surrounded by tall trees with rustling leaves and a carpet of crunchy autumn leaves beneath.
+instruction: Make the bench larger.
+taskid: 21318

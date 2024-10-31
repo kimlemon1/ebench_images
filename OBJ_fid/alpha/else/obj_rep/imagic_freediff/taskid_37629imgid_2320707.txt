@@ -1,0 +1,5 @@
+org_img_id: 2320707
+org_cap: a slice of pizza with melted mozzarella cheese and pepperoni slices, served with a soda and a plastic cup that reads "we are open" in the background.
+trg_cap: A slice of pizza with melted mozzarella cheese and pepperoni slices, served with a soda and a backpack in the background.
+instruction: Replace the cup with a backpack.
+taskid: 37629

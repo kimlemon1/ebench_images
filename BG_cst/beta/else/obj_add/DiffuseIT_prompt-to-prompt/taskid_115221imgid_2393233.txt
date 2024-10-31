@@ -1,0 +1,5 @@
+org_img_id: 2393233
+org_cap: the baby boy holds a yellow banana in his chubby little hands, his tiny fingers wrapped around the banana as he takes a bite.
+trg_cap: The baby boy holds a yellow banana in his chubby little hands, his tiny fingers wrapped around the banana as he takes a bite, with a bowl behind the banana.
+instruction: Add a bowl behind the banana.
+taskid: 115221

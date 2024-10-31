@@ -1,0 +1,5 @@
+org_img_id: 2345493
+org_cap: a bright red double-decker bus with a curved front and rounded windows is parked outside a modern glass and steel train station, with passengers milling around the entrance and a few people waiting on the platform.
+trg_cap: a large, bright red double-decker bus with a curved front and rounded windows is parked outside a modern glass and steel train station, with passengers milling around the entrance and a few people waiting on the platform.
+instruction: Make the bus larger.
+taskid: 55656

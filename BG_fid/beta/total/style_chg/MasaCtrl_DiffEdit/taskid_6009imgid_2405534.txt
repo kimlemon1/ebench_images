@@ -1,0 +1,5 @@
+org_img_id: 2405534
+org_cap: a small person with blonde hair and a freckled face dribbles a red ball on the grassy field.
+trg_cap: The watercolor painting depicts a small person with blonde hair and a freckled face dribbling a red ball on a grassy field.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 6009

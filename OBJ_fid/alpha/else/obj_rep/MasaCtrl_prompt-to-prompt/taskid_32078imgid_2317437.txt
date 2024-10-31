@@ -1,0 +1,5 @@
+org_img_id: 2317437
+org_cap: An open black laptop sits on a table, surrounded by papers and a glass of white wine.
+trg_cap: A sink sits on the table, surrounded by papers and a glass of white wine.
+instruction: Replace the laptop with a sink.
+taskid: 32078

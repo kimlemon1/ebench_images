@@ -1,0 +1,5 @@
+org_img_id: 2355354
+org_cap: A brown bear sits on a rock, its fur fluffed up around its neck, with a core in the center of its chest.
+trg_cap: A brown bear sits on a rock, its fur fluffed up around its neck, with a core in the center of its chest, in the middle of a grand concert hall.
+instruction: Change the background to concert hall.
+taskid: 23871

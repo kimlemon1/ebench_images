@@ -1,0 +1,5 @@
+org_img_id: 2382860
+org_cap: Skiing, his black backpack skis across the powdery surface.
+trg_cap: Skiing, his light blue backpack skis across the powdery surface.
+instruction: Change the color of the backpack from black to light blue.
+taskid: 8250

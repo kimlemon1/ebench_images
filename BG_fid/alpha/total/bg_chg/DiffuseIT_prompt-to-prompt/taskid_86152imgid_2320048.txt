@@ -1,0 +1,5 @@
+org_img_id: 2320048
+org_cap: Person is a young male with a messy, sandy blonde hair, a white shirt with a collar and a pair of worn, faded jeans with a belt buckle in the shape of a skull, and a tattoo of a snake on his left forearm.
+trg_cap: Person is a young male with messy, sandy blonde hair, a white shirt with a collar, and a pair of worn, faded jeans with a belt buckle in the shape of a skull, and a tattoo of a snake on his left forearm, standing against the backdrop of a vast desert landscape.
+instruction: Change the background to desert.
+taskid: 86152

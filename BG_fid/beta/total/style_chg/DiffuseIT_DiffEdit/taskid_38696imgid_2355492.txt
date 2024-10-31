@@ -1,0 +1,5 @@
+org_img_id: 2355492
+org_cap: person the green motorcycle the track.
+trg_cap: An oil painting style artwork features a person, a green motorcycle, and a track.
+instruction: Change the style if the image to oil painting style.
+taskid: 38696

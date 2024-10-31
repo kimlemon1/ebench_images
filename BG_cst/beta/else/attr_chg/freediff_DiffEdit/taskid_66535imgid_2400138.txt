@@ -1,0 +1,5 @@
+org_img_id: 2400138
+org_cap: a young person stands against a bright green wall, wearing a white dress shirt with a blue, striped necktie around his neck.
+trg_cap: a young person stands against a bright green wall, wearing a white dress shirt with a blue, orange necktie around his neck.
+instruction: Change the color of the tie from striped to orange.
+taskid: 66535

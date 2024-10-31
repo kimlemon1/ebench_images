@@ -1,0 +1,5 @@
+org_img_id: 2320237
+org_cap: walking person sits on a wooden bench, wearing a jacket and holding a pair of sneakers in her sitting hand.
+trg_cap: A small walking person sits on a wooden bench, wearing a jacket and holding a pair of sneakers in her sitting hand.
+instruction: Make the person smaller.
+taskid: 54975

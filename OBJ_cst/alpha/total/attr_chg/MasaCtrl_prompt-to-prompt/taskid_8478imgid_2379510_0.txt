@@ -1,0 +1,5 @@
+org_img_id: 2379510_0
+org_cap: A white cup sits on a plate, filled with a half-eaten sandwich and surrounded by crumbs and scraps of food.
+trg_cap: A gray cup sits on a plate, filled with a half-eaten sandwich and surrounded by crumbs and scraps of food.
+instruction: Change the color of the cup from white to gray.
+taskid: 8478

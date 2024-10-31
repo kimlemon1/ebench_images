@@ -1,0 +1,5 @@
+org_img_id: 2341703
+org_cap: A blue airplane takes off from the runway, its wings beating the air as it gains speed and altitude.
+trg_cap: A blue airplane takes off from the runway, its wings beating the air as it gains speed and altitude, while the nearby library stands quietly, filled with rows of books and the soft rustle of turning pages.
+instruction: Change the background to library.
+taskid: 31076

@@ -1,0 +1,5 @@
+org_img_id: 2345530
+org_cap: the person is sitting on a couch, wearing a pair of slippers and a flannel shirt, with a black tv in front of them.
+trg_cap: the person is sitting on a couch, wearing a pair of slippers and a flannel shirt, with a large black tv in front of them.
+instruction: Make the tv larger.
+taskid: 36555

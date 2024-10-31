@@ -1,0 +1,5 @@
+org_img_id: 2319396
+org_cap: the parking meter stands tall, its parking meter weathered to a rusty brown, with a circular face displaying numbers and a lever to insert coins.
+trg_cap: The parking meter stands tall, its parking meter weathered to a rusty brown, with a circular face displaying numbers and a lever to insert coins, and a horse stands to the left of the parking meter.
+instruction: Add a horse on the left side of the parking meter.
+taskid: 31464

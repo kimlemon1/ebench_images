@@ -1,0 +1,5 @@
+org_img_id: 2317734
+org_cap: A surfing person rides a surfboard through the waves.
+trg_cap: A surfing person rides a surfboard through the waves with a kite above them.
+instruction: Add a kite above the person.
+taskid: 65936

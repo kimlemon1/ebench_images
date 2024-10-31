@@ -1,0 +1,5 @@
+org_img_id: 2400265
+org_cap: The room features a large window with a view of the surrounding area, a black TV on, and a small sofa and coffee table in the center of the room, with a child's play area and storage bins in the corner.
+trg_cap: The room features a large window with a view of the surrounding area, a tan TV on, and a small sofa and coffee table in the center of the room, with a child's play area and storage bins in the corner.
+instruction: Change the color of the tv from black to tan.
+taskid: 102947

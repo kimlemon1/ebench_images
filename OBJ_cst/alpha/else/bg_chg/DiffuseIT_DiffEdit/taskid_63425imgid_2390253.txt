@@ -1,0 +1,5 @@
+org_img_id: 2390253
+org_cap: The scene features a white clock with intricate metalwork and a circular face, surrounded by a decorative iron archway with pointed tips and a subtle curvature.
+trg_cap: The scene features a white clock with intricate metalwork and a circular face, surrounded by a decorative iron archway with pointed tips and a subtle curvature, set against the backdrop of a vast snow field.
+instruction: Change the background to snow field.
+taskid: 63425

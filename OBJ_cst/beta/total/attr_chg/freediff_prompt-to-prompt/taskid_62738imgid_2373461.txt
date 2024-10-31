@@ -1,0 +1,5 @@
+org_img_id: 2373461
+org_cap: a person with a cheerful grin and a messy beard held a brown hot dog in his hand, the bun glistening with condiments and the savory aroma wafting up to tantalize the senses.
+trg_cap: a person with a cheerful grin and a messy beard held a white hot dog in his hand, the bun glistening with condiments and the savory aroma wafting up to tantalize the senses.
+instruction: Change the color of the hot dog from brown to white.
+taskid: 62738

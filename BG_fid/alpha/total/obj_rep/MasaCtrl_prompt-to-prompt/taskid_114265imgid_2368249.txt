@@ -1,0 +1,5 @@
+org_img_id: 2368249
+org_cap: The white refrigerator is an appliance standing against a white wall in a modern kitchen.
+trg_cap: The laptop is an appliance sitting against a white wall in a modern kitchen.
+instruction: Replace the refrigerator with a laptop.
+taskid: 114265

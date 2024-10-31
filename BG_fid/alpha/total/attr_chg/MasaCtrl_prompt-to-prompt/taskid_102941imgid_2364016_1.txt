@@ -1,0 +1,5 @@
+org_img_id: 2364016_1
+org_cap: A person sits on a blue wood bench, wearing black pants and a white t-shirt, with white sneakers and a black hat, holding a smartphone and listening to music.
+trg_cap: A person sits on a blue marble bench, wearing black pants and a white t-shirt, with white sneakers and a black hat, holding a smartphone and listening to music.
+instruction: Change the material of the bench from wood to marble.
+taskid: 102941

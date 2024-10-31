@@ -1,0 +1,5 @@
+org_img_id: 2373596
+org_cap: Person stands on the snow-covered mountain, wearing a grey jacket and black pants, his goggles and helmet giving him a rugged, person look, with a thumbs up and a smile on his face.
+trg_cap: An oil painting depicts a person standing on a snow-covered mountain, wearing a grey jacket and black pants, with goggles and a helmet that give him a rugged appearance, smiling and giving a thumbs up.
+instruction: Change the style if the image to oil painting style.
+taskid: 69721

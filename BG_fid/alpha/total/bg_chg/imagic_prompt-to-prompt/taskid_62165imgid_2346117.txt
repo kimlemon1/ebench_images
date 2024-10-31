@@ -1,0 +1,5 @@
+org_img_id: 2346117
+org_cap: The scene features a white stop sign on a street corner, surrounded by a mix of old and new buildings, with cars parked along the curb and a few pedestrians strolling by on a sunny day.
+trg_cap: The scene features a white stop sign on a street corner, surrounded by a mix of old and new buildings, with cars parked along the curb and a few pedestrians strolling by on a sunny day, all set against the backdrop of a cave.
+instruction: Change the background to cave.
+taskid: 62165

@@ -1,0 +1,5 @@
+org_img_id: 2356430
+org_cap: Person, wearing a helmet and a blue shirt, is seen on his car on the winding road.
+trg_cap: A pencil sketch depicts a person wearing a helmet and a blue shirt in their car on a winding road.
+instruction: Change the style if the image to pencil sketch.
+taskid: 31779

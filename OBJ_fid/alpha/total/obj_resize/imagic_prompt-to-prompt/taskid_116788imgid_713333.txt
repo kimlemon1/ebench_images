@@ -1,0 +1,5 @@
+org_img_id: 713333
+org_cap: A gray, open laptop sits on a desk, surrounded by various personal items such as a phone, a wallet, and a few pieces of clothing.
+trg_cap: A large, gray, open laptop sits on a desk, surrounded by various personal items such as a phone, a wallet, and a few pieces of clothing.
+instruction: Make the laptop larger.
+taskid: 116788

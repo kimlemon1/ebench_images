@@ -1,0 +1,5 @@
+org_img_id: 2325849
+org_cap: a small person in a white shirt and colorful kite in a grassy field, the kite by the person's small hands.
+trg_cap: The mosaic art depicts a small person in a white shirt holding a colorful kite in a grassy field, with the kite held by the person's small hands.
+instruction: Change the style if the image to mosaic art.
+taskid: 116030

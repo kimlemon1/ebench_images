@@ -1,0 +1,5 @@
+org_img_id: 2333135
+org_cap: a person in casual attire, with a white frisbee in hand, stands on a grassy field with a worn-out expression.
+trg_cap: a person in casual attire, with a small white frisbee in hand, stands on a grassy field with a worn-out expression.
+instruction: Make the frisbee smaller.
+taskid: 37247

@@ -1,0 +1,5 @@
+org_img_id: 2345765
+org_cap: a black and white dog with a heart-shaped patch on its chest along the rocky beach, its paws into the wet sand as it the waves.
+trg_cap: A grayscale photo depicts a black and white dog with a heart-shaped patch on its chest standing along the rocky beach, its paws in the wet sand as it faces the waves.
+instruction: Change the style if the image to grey scale.
+taskid: 51616

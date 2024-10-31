@@ -1,0 +1,5 @@
+org_img_id: 2393963
+org_cap: a small person with a messy mop of hair and a splash of water on his cheek holds a hot dog in his chubby little hands, the hot dog slightly torn and the condiments smeared across his face.
+trg_cap: A small person with a messy mop of hair and a splash of water on his cheek holds a hot dog in his chubby little hands, the hot dog slightly torn and the condiments smeared across his face, standing in the middle of a grass field.
+instruction: Change the background to grass field.
+taskid: 36601

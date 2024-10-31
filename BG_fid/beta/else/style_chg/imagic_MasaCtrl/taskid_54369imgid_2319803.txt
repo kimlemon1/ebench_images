@@ -1,0 +1,5 @@
+org_img_id: 2319803
+org_cap: a grey cat with piercing green eyes at a slice of pizza, its whiskers with anticipation.
+trg_cap: An ancient Egyptian-style artwork features a grey cat with piercing green eyes gazing at a slice of pizza, its whiskers bristling with anticipation.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 54369

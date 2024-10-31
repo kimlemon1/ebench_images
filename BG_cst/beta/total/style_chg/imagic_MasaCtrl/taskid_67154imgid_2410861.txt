@@ -1,0 +1,5 @@
+org_img_id: 2410861
+org_cap: a surfing, wet person riding a surfboard as he is playing through the waves.
+trg_cap: The art is a cartoon style depiction of a wet person riding a surfboard and playing through the waves.
+instruction: Change the style if the image to cartoon style.
+taskid: 67154

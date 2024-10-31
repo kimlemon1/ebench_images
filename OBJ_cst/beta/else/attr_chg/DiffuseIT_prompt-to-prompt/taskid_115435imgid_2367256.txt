@@ -1,0 +1,5 @@
+org_img_id: 2367256
+org_cap: A white dog with a collar sits on the sidewalk, with its ears perked up.
+trg_cap: A blond dog with a collar sits on the sidewalk, with its ears perked up.
+instruction: Change the color of the dog from white to blond.
+taskid: 115435

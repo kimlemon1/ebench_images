@@ -1,0 +1,5 @@
+org_img_id: 2380528
+org_cap: Person through a wave, his arms and legs as he the turquoise water.
+trg_cap: Person through a wave, his arms and legs as he the turquoise water, with a zebra behind him.
+instruction: Add a zebra behind the person.
+taskid: 65921

@@ -1,0 +1,5 @@
+org_img_id: 2398096
+org_cap: The brown, old, wood bench sits atop a blanket of snow, its worn slats and rustic charm a testament to the passage of time and the gentle accumulation of winter's silence.
+trg_cap: The green, old, wood bench sits atop a blanket of snow, its worn slats and rustic charm a testament to the passage of time and the gentle accumulation of winter's silence.
+instruction: Change the color of the bench from brown to green.
+taskid: 95419

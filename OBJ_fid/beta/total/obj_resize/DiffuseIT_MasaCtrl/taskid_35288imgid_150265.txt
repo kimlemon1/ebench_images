@@ -1,0 +1,5 @@
+org_img_id: 150265
+org_cap: A new, dark blue train chugs along the rusty tracks, its wheels clicking rhythmically as it carries passengers through the lush green countryside.
+trg_cap: A new, small, dark blue train chugs along the rusty tracks, its wheels clicking rhythmically as it carries passengers through the lush green countryside.
+instruction: Make the train smaller.
+taskid: 35288

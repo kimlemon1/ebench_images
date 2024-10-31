@@ -1,0 +1,5 @@
+org_img_id: 2316443
+org_cap: The gray gas oven stands tall in the kitchen, its sleek design and gleaming finish a testament to its high-quality construction.
+trg_cap: The gray black oven stands tall in the kitchen, its sleek design and gleaming finish a testament to its high-quality construction.
+instruction: Change the color of the oven from gas to black.
+taskid: 22540

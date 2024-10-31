@@ -1,0 +1,5 @@
+org_img_id: 2316001
+org_cap: A small, white toilet sits on a worn, green tile floor, surrounded by cracked and faded walls.
+trg_cap: A small, white refrigerator sits on a worn, green tile floor, surrounded by cracked and faded walls.
+instruction: Replace the toilet with a refrigerator.
+taskid: 100448

@@ -1,0 +1,5 @@
+org_img_id: 2334509
+org_cap: a black bicycle leans against a yellow pole, with a red fire hydrant standing sentinel nearby.
+trg_cap: A black bicycle leans against a yellow pole, with a red fire hydrant standing sentinel nearby, amidst the lush greenery of a tropical jungle.
+instruction: Change the background to tropical jungle.
+taskid: 54289

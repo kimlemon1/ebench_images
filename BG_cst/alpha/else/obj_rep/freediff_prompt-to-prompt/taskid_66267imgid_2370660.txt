@@ -1,0 +1,5 @@
+org_img_id: 2370660
+org_cap: a brown dog with a distinctive collar and a curious expression out the window of a black pickup truck.
+trg_cap: a person out the window of the black pickup truck.
+instruction: Replace the dog with a person.
+taskid: 66267

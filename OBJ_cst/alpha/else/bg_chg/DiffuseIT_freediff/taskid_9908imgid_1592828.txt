@@ -1,0 +1,5 @@
+org_img_id: 1592828
+org_cap: The bowl is a white, ornate piece with a floral pattern and a small, delicate rim.
+trg_cap: In the dimly lit cave, the bowl is a white, ornate piece with a floral pattern and a small, delicate rim.
+instruction: Change the background to cave.
+taskid: 9908

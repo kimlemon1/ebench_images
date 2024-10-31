@@ -1,0 +1,5 @@
+org_img_id: 2332325
+org_cap: A wood bench sits nestled among the lush greenery of the forest, surrounded by towering trees and their leafy branches, with a few stray ferns and wildflowers sprouting around the base.
+trg_cap: A bamboo bench sits nestled among the lush greenery of the forest, surrounded by towering trees and their leafy branches, with a few stray ferns and wildflowers sprouting around the base.
+instruction: Change the material of the bench from wood to bamboo.
+taskid: 68434

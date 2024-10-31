@@ -1,0 +1,5 @@
+org_img_id: 2414269
+org_cap: The sink is a white sink with a chrome faucet handle.
+trg_cap: The sink is a white sink with a chrome faucet handle, set against the backdrop of a lush grass field.
+instruction: Change the background to grass field.
+taskid: 118665

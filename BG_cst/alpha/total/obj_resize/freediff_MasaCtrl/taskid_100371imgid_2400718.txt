@@ -1,0 +1,5 @@
+org_img_id: 2400718
+org_cap: Surfing, surfing, surfing, surfing, surfing, surfing person rides a green surfboard, his wetsuit glistening with water droplets.
+trg_cap: Surfing, surfing, surfing, surfing, surfing, surfing large person rides a green surfboard, his wetsuit glistening with water droplets.
+instruction: Make the person larger.
+taskid: 100371

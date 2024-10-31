@@ -1,0 +1,5 @@
+org_img_id: 2317460
+org_cap: Note the black train.
+trg_cap: Note the dark blue train.
+instruction: Change the color of the train from black to dark blue.
+taskid: 26152

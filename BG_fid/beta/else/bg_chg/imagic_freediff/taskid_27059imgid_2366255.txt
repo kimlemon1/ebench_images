@@ -1,0 +1,5 @@
+org_img_id: 2366255
+org_cap: person stands in a person, holding a person and he prepares to check out.
+trg_cap: A person stands in ancient ruins, holding a person, and he prepares to check out.
+instruction: Change the background to ancient ruins.
+taskid: 27059

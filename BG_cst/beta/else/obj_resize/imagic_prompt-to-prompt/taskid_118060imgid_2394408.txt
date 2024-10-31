@@ -1,0 +1,5 @@
+org_img_id: 2394408
+org_cap: A red stop sign is mounted on a pole, alongside another red stop sign.
+trg_cap: A large red stop sign is mounted on a pole, alongside another large red stop sign.
+instruction: Make the stop sign larger.
+taskid: 118060

@@ -1,0 +1,5 @@
+org_img_id: 2358710
+org_cap: a large, double-decker bus with a bright red and white livery rumbles along the street, its wheels humming on the asphalt, while a white truck with a large trailer attached to its backload slowly navigates the busy intersection.
+trg_cap: A large, double-decker bus with a bright red and white livery rumbles along the street, its wheels humming on the asphalt, while a white truck with a large trailer attached to its backload slowly navigates the busy intersection, all set against the backdrop of a vast snow field.
+instruction: Change the background to snow field.
+taskid: 94925

@@ -1,0 +1,5 @@
+org_img_id: 2403025
+org_cap: The pink glass plastic vase sat on the windowsill, its delicate curves and ridges reflected in the soft morning light, as a bouquet of colorful flowers - purple lilacs, white carnations, and pink roses - stood tall and proud within its elegant confines.
+trg_cap: The pink glass metal vase sat on the windowsill, its delicate curves and ridges reflected in the soft morning light, as a bouquet of colorful flowers - purple lilacs, white carnations, and pink roses - stood tall and proud within its elegant confines.
+instruction: Change the material of the vase from plastic to metal.
+taskid: 99732

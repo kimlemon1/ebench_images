@@ -1,0 +1,5 @@
+org_img_id: 2359478
+org_cap: a chocolate cake with a yellow candle in the center sits on a silver tray, surrounded by a scattering of yellow flowers and a wine glass.
+trg_cap: a large chocolate cake with a yellow candle in the center sits on a silver tray, surrounded by a scattering of yellow flowers and a wine glass.
+instruction: Make the cake larger.
+taskid: 55797

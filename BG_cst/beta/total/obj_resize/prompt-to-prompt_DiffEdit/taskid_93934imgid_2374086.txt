@@ -1,0 +1,5 @@
+org_img_id: 2374086
+org_cap: a single - decker bus with a purple and silver livery, driven by a person, travels along a city street lined with shops and buildings.
+trg_cap: a small single-decker bus with a purple and silver livery, driven by a person, travels along a city street lined with shops and buildings.
+instruction: Make the bus smaller.
+taskid: 93934

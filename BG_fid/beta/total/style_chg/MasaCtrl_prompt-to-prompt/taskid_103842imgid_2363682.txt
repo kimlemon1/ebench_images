@@ -1,0 +1,5 @@
+org_img_id: 2363682
+org_cap: a white, jumping dog, its paws splayed and its tail as it catches a white frisbee in mid-air.
+trg_cap: The art is a watercolor painting style depicting a white dog jumping with its paws splayed and its tail extended as it catches a white frisbee in mid-air.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 103842

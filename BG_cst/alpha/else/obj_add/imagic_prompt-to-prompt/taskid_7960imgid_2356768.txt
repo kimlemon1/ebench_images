@@ -1,0 +1,5 @@
+org_img_id: 2356768
+org_cap: The kitchen features a white microwave with a stainless steel door, situated on a countertop adjacent to a rectangular sink with a single faucet handle.
+trg_cap: The kitchen features a white microwave with a stainless steel door, situated on a countertop adjacent to a rectangular sink with a single faucet handle, with a knife on top of the microwave.
+instruction: Add a knife on the microwave.
+taskid: 7960

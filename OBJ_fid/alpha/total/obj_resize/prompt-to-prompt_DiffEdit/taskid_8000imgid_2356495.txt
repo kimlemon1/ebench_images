@@ -1,0 +1,5 @@
+org_img_id: 2356495
+org_cap: The clock tower stands tall against a backdrop of grey clouds and rolling hills, with the iconic monument in the distance.
+trg_cap: The clock tower, with its large clock, stands tall against a backdrop of grey clouds and rolling hills, with the iconic monument in the distance.
+instruction: Make the clock larger.
+taskid: 8000

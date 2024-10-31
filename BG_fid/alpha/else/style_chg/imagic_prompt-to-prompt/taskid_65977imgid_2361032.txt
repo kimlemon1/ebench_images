@@ -1,0 +1,5 @@
+org_img_id: 2361032
+org_cap: The metal fork and silver metal knife lay on the plate, surrounded by a mess of syrup and butter.
+trg_cap: An ancient Egyptian-style artwork features a metal fork and silver metal knife laying on a plate, surrounded by a mess of syrup and butter.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 65977

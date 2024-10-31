@@ -1,0 +1,5 @@
+org_img_id: 2355177
+org_cap: The toilet is a room with a sink and white toilet, featuring a circular apple logo above the sink.
+trg_cap: The toilet is a room with a sink and green toilet, featuring a circular apple logo above the sink.
+instruction: Change the color of the toilet from white to green.
+taskid: 98068

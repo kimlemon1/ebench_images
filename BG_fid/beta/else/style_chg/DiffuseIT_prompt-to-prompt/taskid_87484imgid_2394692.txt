@@ -1,0 +1,5 @@
+org_img_id: 2394692
+org_cap: Person stands on the tennis court, her racket at the ready, her eyes on the ball as it soars towards her.
+trg_cap: A Van Gogh style artwork depicts a person standing on the tennis court, her racket at the ready and her eyes on the ball as it soars towards her.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 87484

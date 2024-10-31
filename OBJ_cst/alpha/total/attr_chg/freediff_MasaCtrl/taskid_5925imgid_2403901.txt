@@ -1,0 +1,5 @@
+org_img_id: 2403901
+org_cap: A brown bird on a snow-covered dock, its sharp talons the wooden slats.
+trg_cap: A tan bird on a snow-covered dock, its sharp talons the wooden slats.
+instruction: Change the color of the bird from brown to tan.
+taskid: 5925

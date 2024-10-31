@@ -1,0 +1,5 @@
+org_img_id: 2380567
+org_cap: A gray airplane flies across the gray sky, its wings and tail visible as it soars through the clouds.
+trg_cap: A dark blue airplane flies across the dark blue sky, its wings and tail visible as it soars through the clouds.
+instruction: Change the color of the airplane from gray to dark blue.
+taskid: 114446

@@ -1,0 +1,5 @@
+org_img_id: 2367787
+org_cap: Person stands on a snowy mountain slope, standing, posing, skiing, holding skis and wearing a snowsuit, with a smile on their face.
+trg_cap: Scissors stands on a snowy mountain slope.
+instruction: Replace the person with a scissors.
+taskid: 97651

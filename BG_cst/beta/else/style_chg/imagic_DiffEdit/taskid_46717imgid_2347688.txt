@@ -1,0 +1,5 @@
+org_img_id: 2347688
+org_cap: Person stands, his skis across the snow as he the challenging course.
+trg_cap: A mosaic art depicts a person standing with his skis across the snow as he navigates the challenging course.
+instruction: Change the style if the image to mosaic art.
+taskid: 46717

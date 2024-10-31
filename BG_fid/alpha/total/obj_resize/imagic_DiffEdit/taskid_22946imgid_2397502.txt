@@ -1,0 +1,5 @@
+org_img_id: 2397502
+org_cap: a young person wearing a yellow shirt and blue jeans, with a black skateboard and black sunglasses, runs down a paved road with a determined expression.
+trg_cap: a young person wearing a yellow shirt and blue jeans, with a small black skateboard and black sunglasses, runs down a paved road with a determined expression.
+instruction: Make the skateboard smaller.
+taskid: 22946

@@ -1,0 +1,5 @@
+org_img_id: 20
+org_cap: Sitting person at a cluttered desk, surrounded by papers, empty water bottles, and a worn-out keyboard, with a t-shirt and jeans, and a pair of sneakers on the floor.
+trg_cap: A Van Gogh style art depicts a sitting person at a cluttered desk, surrounded by papers, empty water bottles, and a worn-out keyboard, wearing a t-shirt and jeans, with a pair of sneakers on the floor.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 70838

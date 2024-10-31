@@ -1,0 +1,5 @@
+org_img_id: 2334178
+org_cap: a sleek black cat with a subtle grey tint to its fur sits on the windowsill, its paws over the edge as it gazes out the window at the world outside.
+trg_cap: a small, sleek black cat with a subtle grey tint to its fur sits on the windowsill, its paws over the edge as it gazes out the window at the world outside.
+instruction: Make the cat smaller.
+taskid: 98884

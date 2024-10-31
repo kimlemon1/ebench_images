@@ -1,0 +1,5 @@
+org_img_id: 2389384
+org_cap: A smiling person is seen skiing with a confident smile on his face.
+trg_cap: A Van Gogh style art depicts a person skiing with a confident smile on their face.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 33719

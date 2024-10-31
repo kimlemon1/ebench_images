@@ -1,0 +1,5 @@
+org_img_id: 2368910
+org_cap: The wet surfing person rides a white, wet surfboard, his gliding effortlessly across the turquoise water.
+trg_cap: The wet surfing person rides a backpack, gliding effortlessly across the turquoise water.
+instruction: Replace the surfboard with a backpack.
+taskid: 57114

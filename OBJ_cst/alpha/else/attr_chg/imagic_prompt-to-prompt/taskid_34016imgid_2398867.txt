@@ -1,0 +1,5 @@
+org_img_id: 2398867
+org_cap: a person holds a green bottle, pouring its contents into a toilet bowl.
+trg_cap: a person holds a purple bottle, pouring its contents into a toilet bowl.
+instruction: Change the color of the bottle from green to purple.
+taskid: 34016

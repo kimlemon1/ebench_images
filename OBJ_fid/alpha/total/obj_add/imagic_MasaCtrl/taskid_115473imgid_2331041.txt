@@ -1,0 +1,5 @@
+org_img_id: 2331041
+org_cap: A lone gray motorcycle sits at the edge of a rugged mountain road, surrounded by towering rock formations and a sparse scattering of trees.
+trg_cap: A lone gray motorcycle sits at the edge of a rugged mountain road, surrounded by towering rock formations and a sparse scattering of trees, with a dog perched on the seat.
+instruction: Add a dog on the motorcycle.
+taskid: 115473

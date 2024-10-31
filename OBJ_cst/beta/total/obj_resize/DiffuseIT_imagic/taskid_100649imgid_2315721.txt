@@ -1,0 +1,5 @@
+org_img_id: 2315721
+org_cap: a white cow in a field
+trg_cap: a small white cow in a field
+instruction: Make the cow smaller.
+taskid: 100649

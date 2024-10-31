@@ -1,0 +1,5 @@
+org_img_id: 1591827
+org_cap: the room is cluttered with a worn-out couch, a tv mounted on the wall, and a messy kitchen area with dishes and appliances scattered about.
+trg_cap: The room, set against the backdrop of a snow field, is cluttered with a worn-out couch, a TV mounted on the wall, and a messy kitchen area with dishes and appliances scattered about.
+instruction: Change the background to snow field.
+taskid: 6936

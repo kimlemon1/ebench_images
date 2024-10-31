@@ -1,0 +1,5 @@
+org_img_id: 2363565
+org_cap: the brown cat sitting in the oven, her fur against the warmth.
+trg_cap: the small brown cat sitting in the oven, her fur against the warmth.
+instruction: Make the cat smaller.
+taskid: 65433

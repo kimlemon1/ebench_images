@@ -1,0 +1,5 @@
+org_img_id: 2417324
+org_cap: A skateboarder jumps off a pedestal, flying through the air with his black skateboard, as a nearby black skateboard lies on the ground.
+trg_cap: The mosaic art depicts a skateboarder jumping off a pedestal and flying through the air with his black skateboard, while a nearby black skateboard lies on the ground.
+instruction: Change the style if the image to mosaic art.
+taskid: 63488

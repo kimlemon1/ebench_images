@@ -1,0 +1,5 @@
+org_img_id: 2358092
+org_cap: "Orange carrot, onion, and bunch of fresh herbs sit on a wooden table, surrounded by paper bags and a few loose items."
+trg_cap: A cartoon style art features an orange carrot, an onion, and a bunch of fresh herbs sitting on a wooden table, surrounded by paper bags and a few loose items.
+instruction: Change the style if the image to cartoon style.
+taskid: 1535

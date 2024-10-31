@@ -1,0 +1,5 @@
+org_img_id: 2319539
+org_cap: The black microwave is a black microwave.
+trg_cap: The white microwave is a white microwave.
+instruction: Change the color of the microwave from black to white.
+taskid: 6793

@@ -1,0 +1,5 @@
+org_img_id: 2397118
+org_cap: A black cat on a bed, surrounded by a tangled mess of green and purple bedding, with a few stray threads and a pillowcase peeking out from beneath the chaos.
+trg_cap: A beige cat on a bed, surrounded by a tangled mess of green and purple bedding, with a few stray threads and a pillowcase peeking out from beneath the chaos.
+instruction: Change the color of the cat from black to beige.
+taskid: 88376

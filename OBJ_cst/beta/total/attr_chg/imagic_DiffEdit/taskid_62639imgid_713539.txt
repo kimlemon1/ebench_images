@@ -1,0 +1,5 @@
+org_img_id: 713539
+org_cap: a bright yellow sign with the words "smokey's bbq" and an image of a sizzling hot dog hangs above a white fire hydrant in the parking lot.
+trg_cap: a bright yellow sign with the words "smokey's bbq" and an image of a sizzling hot dog hangs above a tan fire hydrant in the parking lot.
+instruction: Change the color of the fire hydrant from white to tan.
+taskid: 62639

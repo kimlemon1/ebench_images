@@ -1,0 +1,5 @@
+org_img_id: 2322938
+org_cap: The microwave is a stainless steel microwave with a rounded front and a digital display above the turntable.
+trg_cap: The microwave is a stainless steel microwave with a rounded front, a clock on the left side, and a digital display above the turntable.
+instruction: Add a clock on the left side of the microwave.
+taskid: 22802

@@ -1,0 +1,5 @@
+org_img_id: 2380268
+org_cap: a large adult elephant with a grayish - brown skin, a long trunk with a rounded tip, and large ears, moves through a dense forest clearing.
+trg_cap: A knife moves through the dense forest clearing.
+instruction: Replace the elephant with a knife.
+taskid: 71305

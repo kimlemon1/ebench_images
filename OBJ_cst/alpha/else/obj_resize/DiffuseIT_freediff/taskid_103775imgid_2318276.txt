@@ -1,0 +1,5 @@
+org_img_id: 2318276
+org_cap: A person is scrubbing the bronze horse with a brush and water, as a bus drives by in the background.
+trg_cap: A person is scrubbing the small bronze horse with a brush and water, as a bus drives by in the background.
+instruction: Make the horse smaller.
+taskid: 103775

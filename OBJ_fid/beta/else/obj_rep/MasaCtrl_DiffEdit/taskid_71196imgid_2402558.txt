@@ -1,0 +1,5 @@
+org_img_id: 2402558
+org_cap: a giraffe's long, blue-black tongue wraps around an orange carrot, its soft, velvety texture a delight to the giraffe's sensitive taste buds.
+trg_cap: A giraffe's long, blue-black tongue wraps around a zebra, the soft, velvety texture a delight to the giraffe's sensitive taste buds.
+instruction: Replace the carrot with a zebra.
+taskid: 71196

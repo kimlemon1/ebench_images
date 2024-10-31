@@ -1,0 +1,5 @@
+org_img_id: 2410881
+org_cap: a young woman with a brown backpack stands alone on the train tracks, camera in hand, gazing down the rails.
+trg_cap: A young woman with a brown backpack stands alone on the train tracks, a suitcase in front of the backpack, camera in hand, gazing down the rails.
+instruction: Add a suitcase in front of the backpack.
+taskid: 53397

@@ -1,0 +1,5 @@
+org_img_id: 2383467
+org_cap: a person sits on a brown bench in a garden, surrounded by a variety of colorful flowers, including daisies, sunflowers, and pink peonies, with a trellis and a small path in the background.
+trg_cap: a person sits on a small brown bench in a garden, surrounded by a variety of colorful flowers, including daisies, sunflowers, and pink peonies, with a trellis and a small path in the background.
+instruction: Make the bench smaller.
+taskid: 26914

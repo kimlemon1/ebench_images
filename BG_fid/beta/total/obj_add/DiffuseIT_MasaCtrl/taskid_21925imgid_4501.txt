@@ -1,0 +1,5 @@
+org_img_id: 4501
+org_cap: A bespectacled person stands behind the wooden counter of a vintage general store, his hands on the worn surface as he gazes out at the array of goods and trinkets on display.
+trg_cap: A bespectacled person stands behind the wooden counter of a vintage general store, his hands on the worn surface as he gazes out at the array of goods and trinkets on display, with a snowboard leaning against the counter next to him.
+instruction: Add a snowboard next to the person.
+taskid: 21925

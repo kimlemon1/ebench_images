@@ -1,0 +1,5 @@
+org_img_id: 2408032
+org_cap: A middle-aged person stands under a dirty umbrella, wearing a traditional white garment and holding a walking stick, surrounded by a herd of cattle grazing in a lush green meadow.
+trg_cap: A tie stands under a dirty umbrella, surrounded by a herd of cattle grazing in a lush green meadow.
+instruction: Replace the person with a tie.
+taskid: 98824

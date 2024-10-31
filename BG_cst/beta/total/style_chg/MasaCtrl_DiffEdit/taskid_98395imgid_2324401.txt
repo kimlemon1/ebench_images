@@ -1,0 +1,5 @@
+org_img_id: 2324401
+org_cap: The clock face is a circular blue clock with roman numerals and intricate stone carvings surrounding it, set into the stone wall of a medieval church.
+trg_cap: An oil painting style art features a circular blue clock with Roman numerals and intricate stone carvings surrounding it, set into the stone wall of a medieval church.
+instruction: Change the style if the image to oil painting style.
+taskid: 98395

@@ -1,0 +1,5 @@
+org_img_id: 2403204
+org_cap: A riding person rides a white surfboard as he carves through the waves.
+trg_cap: A riding person rides a small white surfboard as he carves through the waves.
+instruction: Make the surfboard smaller.
+taskid: 63101

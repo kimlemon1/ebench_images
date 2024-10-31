@@ -1,0 +1,5 @@
+org_img_id: 2402065
+org_cap: a brown dog against a sleepy person, both of them wrapped in a warm blanket on a cozy bed.
+trg_cap: An ancient Egyptian-style artwork depicts a brown dog and a sleepy person, both wrapped in a warm blanket on a cozy bed.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 4614

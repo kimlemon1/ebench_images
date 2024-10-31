@@ -1,0 +1,5 @@
+org_img_id: 2334458
+org_cap: a blue glass vase sits on a table, surrounded by a stack of books with red tulips in the background.
+trg_cap: A blue glass vase sits on a table, surrounded by a stack of books with a grass field in the background.
+instruction: Change the background to grass field.
+taskid: 118089

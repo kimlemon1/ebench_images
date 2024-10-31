@@ -1,0 +1,5 @@
+org_img_id: 2377445
+org_cap: a jumping, skateboarding person, his skateboard as he under the bright orange glow of the setting sun.
+trg_cap: A watercolor painting depicts a person skateboarding and jumping under the bright orange glow of the setting sun.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 39248

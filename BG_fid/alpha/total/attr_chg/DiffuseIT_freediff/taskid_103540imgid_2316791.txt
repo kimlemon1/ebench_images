@@ -1,0 +1,5 @@
+org_img_id: 2316791
+org_cap: Blue airplane sits on the tarmac with its engines shut down and its landing gear retracted, surrounded by airport infrastructure and vehicles.
+trg_cap: Blue airplane sits on the tarmac with its engines shut down and its landing gear retracted, surrounded by airport infrastructure and vehicles.
+instruction: Change the color of the airplane from blue to black.
+taskid: 103540

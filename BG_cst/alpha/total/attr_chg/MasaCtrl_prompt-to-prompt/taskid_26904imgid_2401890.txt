@@ -1,0 +1,5 @@
+org_img_id: 2401890
+org_cap: a baby, resting, sitting giraffe, with a dark shadow cast beneath its body.
+trg_cap: a old, resting, sitting giraffe, with a dark shadow cast beneath its body.
+instruction: Change the state of the giraffe from baby to old.
+taskid: 26904

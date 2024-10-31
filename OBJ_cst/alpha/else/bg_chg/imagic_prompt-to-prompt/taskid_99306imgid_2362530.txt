@@ -1,0 +1,5 @@
+org_img_id: 2362530
+org_cap: a person in a tank top and orange scarf is in a grassy area, with a frisbee as a gray dog is around her, the disc.
+trg_cap: A person in a tank top and orange scarf is in a grassy area of a concert hall, with a frisbee as a gray dog is around her, the disc.
+instruction: Change the background to concert hall.
+taskid: 99306

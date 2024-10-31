@@ -1,0 +1,5 @@
+org_img_id: 2397324
+org_cap: The scene is focused on a white toilet, revealing a dimly lit space with a marble sink, a gold faucet, and a small, ornate mirror above it.
+trg_cap: The scene is focused on a white skateboard, revealing a dimly lit space with a marble sink, a gold faucet, and a small, ornate mirror above the sink.
+instruction: Replace the toilet with a skateboard.
+taskid: 54801

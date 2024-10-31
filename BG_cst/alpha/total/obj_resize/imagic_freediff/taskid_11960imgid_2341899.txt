@@ -1,0 +1,5 @@
+org_img_id: 2341899
+org_cap: The black clock face is a circular dial with roman numerals and intricate stone carvings surrounding it, set against a warm red brick wall.
+trg_cap: The large black clock face is a circular dial with roman numerals and intricate stone carvings surrounding it, set against a warm red brick wall.
+instruction: Make the clock larger.
+taskid: 11960

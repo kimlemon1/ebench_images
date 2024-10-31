@@ -1,0 +1,5 @@
+org_img_id: 2391366
+org_cap: The bus is a green bus with a design and stripes running along its sides.
+trg_cap: The bus is a small green bus with a design and stripes running along its sides.
+instruction: Make the bus smaller.
+taskid: 5494

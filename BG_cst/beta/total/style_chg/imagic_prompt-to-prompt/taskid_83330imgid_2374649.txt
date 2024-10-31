@@ -1,0 +1,5 @@
+org_img_id: 2374649
+org_cap: a white dog, its paws and its tail as it catches a frisbee in mid-air.
+trg_cap: A grayscale photo features a white dog, its paws, and its tail as it catches a frisbee in mid-air.
+instruction: Change the style if the image to grey scale.
+taskid: 83330

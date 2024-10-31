@@ -1,0 +1,5 @@
+org_img_id: 2376333
+org_cap: a small person with a messy mop of hair and a bright blue t-shirt stands on the metal railing of a skate park, their tiny legs as they on the edge, their eyes on the concrete below.
+trg_cap: A small bear stands on its metal railing of a skate park.
+instruction: Replace the person with a bear.
+taskid: 12149

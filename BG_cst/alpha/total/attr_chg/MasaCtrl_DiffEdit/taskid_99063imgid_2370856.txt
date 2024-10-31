@@ -1,0 +1,5 @@
+org_img_id: 2370856
+org_cap: a middle-aged man with a round face and glasses, wearing a navy blue coat with a red tie and a white shirt, holds a phone to his ear and speaks into it with a serious expression.
+trg_cap: a middle-aged man with a round face and glasses, wearing a navy blue coat with a green tie and a white shirt, holds a phone to his ear and speaks into it with a serious expression.
+instruction: Change the color of the tie from red to green.
+taskid: 99063

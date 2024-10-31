@@ -1,0 +1,5 @@
+org_img_id: 2347916
+org_cap: The scene features a gray tv mounted on a wall, flanked by two red, glossy shelves, and a white vase placed on a low table.
+trg_cap: The scene features a gray tv mounted on a wall, flanked by two red, glossy shelves, and a black vase placed on a low table.
+instruction: Change the color of the vase from white to black.
+taskid: 77797

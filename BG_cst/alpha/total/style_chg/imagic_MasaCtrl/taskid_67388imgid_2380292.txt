@@ -1,0 +1,5 @@
+org_img_id: 2380292
+org_cap: standing, surfing, wet person rides a surfboard through a wave, his arms and legs as he through the water.
+trg_cap: A watercolor painting style art depicts a wet person standing and surfing, riding a surfboard through a wave with his arms and legs moving through the water.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 67388

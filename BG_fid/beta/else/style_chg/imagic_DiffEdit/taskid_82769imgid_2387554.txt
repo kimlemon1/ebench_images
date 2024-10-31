@@ -1,0 +1,5 @@
+org_img_id: 2387554
+org_cap: surfing person rides a yellow surfboard, legs and arms as he crashes into the water.
+trg_cap: An oil painting style artwork depicts a surfing person riding a yellow surfboard, with their legs and arms visible as they crash into the water.
+instruction: Change the style if the image to oil painting style.
+taskid: 82769

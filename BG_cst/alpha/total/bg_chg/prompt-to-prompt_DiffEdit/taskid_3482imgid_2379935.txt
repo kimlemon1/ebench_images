@@ -1,0 +1,5 @@
+org_img_id: 2379935
+org_cap: in the image of the pizza
+trg_cap: in the image of the pizza in the living room
+instruction: Change the background to living room.
+taskid: 3482

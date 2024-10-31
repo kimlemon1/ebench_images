@@ -1,0 +1,5 @@
+org_img_id: 2397240
+org_cap: a brown horse, a rickety wooden cart filled with fresh vegetables and fruits, while pedestrians hurry past, dodging the horse's hooves and the cart's loose wheels.
+trg_cap: In the bustling aquarium, a brown horse pulls a rickety wooden cart filled with fresh vegetables and fruits, while pedestrians hurry past, dodging the horse's hooves and the cart's loose wheels.
+instruction: Change the background to aquarium.
+taskid: 37988

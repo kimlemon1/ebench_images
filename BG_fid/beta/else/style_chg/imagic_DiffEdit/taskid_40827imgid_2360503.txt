@@ -1,0 +1,5 @@
+org_img_id: 2360503
+org_cap: a grey and white striped cat lies on an orange chair, its fur and its eyes.
+trg_cap: An ancient Egyptian-style artwork features a grey and white striped cat lying on an orange chair, highlighting its fur and eyes.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 40827

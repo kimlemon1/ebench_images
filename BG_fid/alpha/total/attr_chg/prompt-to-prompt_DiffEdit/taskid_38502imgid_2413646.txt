@@ -1,0 +1,5 @@
+org_img_id: 2413646
+org_cap: A person, person, rides a white surfboard through a wave, his arms and legs splayed as he carves through the water.
+trg_cap: A person, person, rides a light brown surfboard through a wave, his arms and legs splayed as he carves through the water.
+instruction: Change the color of the surfboard from white to light brown.
+taskid: 38502

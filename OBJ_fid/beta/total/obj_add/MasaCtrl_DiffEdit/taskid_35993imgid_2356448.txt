@@ -1,0 +1,5 @@
+org_img_id: 2356448
+org_cap: A reddish-brown horse stands on a grassy hillside, its mane and tail in the wind, with rugged mountains rising up behind it.
+trg_cap: A reddish-brown horse stands on a grassy hillside, its mane and tail in the wind, with a car behind it and rugged mountains rising up behind.
+instruction: Add a car behind the horse.
+taskid: 35993

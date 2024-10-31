@@ -1,0 +1,5 @@
+org_img_id: 2327047
+org_cap: a person on a wooden bench, wearing a red t-shirt and sunglasses, with a relaxed posture and a gentle gaze.
+trg_cap: A person on a wooden bench, wearing a red t-shirt and sunglasses, with a relaxed posture and a gentle gaze, sits in front of a large aquarium filled with colorful fish swimming gracefully.
+instruction: Change the background to aquarium.
+taskid: 78127

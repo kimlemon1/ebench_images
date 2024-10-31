@@ -1,0 +1,5 @@
+org_img_id: 1592757
+org_cap: the clock tower stood tall and proud, its large clock face glowing softly in the evening rain, its intricate details and ornate design illuminated by twinkling lights.
+trg_cap: In the cozy living room, the clock tower stood tall and proud, its large clock face glowing softly in the evening rain, its intricate details and ornate design illuminated by twinkling lights.
+instruction: Change the background to living room.
+taskid: 23480

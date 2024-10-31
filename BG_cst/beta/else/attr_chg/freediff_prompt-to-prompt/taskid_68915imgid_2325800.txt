@@ -1,0 +1,5 @@
+org_img_id: 2325800
+org_cap: A red bus rumbles down the street, its wheels screeching against the pavement as it navigates the busy intersection.
+trg_cap: A blue bus rumbles down the street, its wheels screeching against the pavement as it navigates the busy intersection.
+instruction: Change the color of the bus from red to blue.
+taskid: 68915

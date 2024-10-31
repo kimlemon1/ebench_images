@@ -1,0 +1,5 @@
+org_img_id: 2352989
+org_cap: Person on the platform of a vintage diesel locomotive, wearing a yellow hard hat and holding a worn-out toolbox, with the rusty engine and worn-out wheels in the background.
+trg_cap: Person on the platform of a vintage diesel locomotive, wearing a yellow hard hat and holding a worn-out toolbox, with a couch underneath the person and the rusty engine and worn-out wheels in the background.
+instruction: Add a couch under the person.
+taskid: 10529

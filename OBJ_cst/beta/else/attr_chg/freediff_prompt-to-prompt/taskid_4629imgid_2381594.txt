@@ -1,0 +1,5 @@
+org_img_id: 2381594
+org_cap: a black train with black paint and a black train of black train in tow, chugging along the tracks through a green countryside.
+trg_cap: a dark blue train with dark blue paint and a dark blue train of dark blue train in tow, chugging along the tracks through a green countryside.
+instruction: Change the color of the train from black to dark blue.
+taskid: 4629

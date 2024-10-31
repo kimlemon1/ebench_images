@@ -1,0 +1,5 @@
+org_img_id: 2400313
+org_cap: a person holds a pink umbrella, its curved handle resting in the crook of their elbow.
+trg_cap: a person holds a silver umbrella, its curved handle resting in the crook of their elbow.
+instruction: Change the color of the umbrella from pink to silver.
+taskid: 95659

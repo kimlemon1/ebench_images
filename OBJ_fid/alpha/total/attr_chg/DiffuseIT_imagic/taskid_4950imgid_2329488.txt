@@ -1,0 +1,5 @@
+org_img_id: 2329488
+org_cap: a young person stands in the background, wearing a black backpack.
+trg_cap: a young person stands in the background, wearing a white backpack.
+instruction: Change the color of the backpack from black to white.
+taskid: 4950

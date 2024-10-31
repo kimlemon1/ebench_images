@@ -1,0 +1,5 @@
+org_img_id: 2384068
+org_cap: A walking horse with a rider in uniform, wearing a helmet and holding reins, is on a city street, passing a traffic light with a red glow, as a white police car with sirens blaring and a flashing light on the dashboard drives by in the opposite direction.
+trg_cap: An oil painting depicts a walking horse with a rider in uniform, wearing a helmet and holding reins, on a city street, passing a traffic light with a red glow, as a white police car with sirens blaring and a flashing light on the dashboard drives by in the opposite direction.
+instruction: Change the style if the image to oil painting style.
+taskid: 24248

@@ -1,0 +1,5 @@
+org_img_id: 2374664
+org_cap: A gray cat sits on a wooden table, its legs under its body, its tail, and its whiskers slightly bent.
+trg_cap: A gray cat sits on a wooden table in the bustling airport lounge, its legs under its body, its tail, and its whiskers slightly bent.
+instruction: Change the background to airport.
+taskid: 9255

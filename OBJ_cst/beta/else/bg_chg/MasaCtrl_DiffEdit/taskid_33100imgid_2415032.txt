@@ -1,0 +1,5 @@
+org_img_id: 2415032
+org_cap: A resting cow lying with a shiny brass bell around its neck lies in a green meadow, its horns and ears slightly bent, its fur slightly dusty, and its eyes in a relaxed pose.
+trg_cap: A resting cow lying with a shiny brass bell around its neck lies in a green meadow near the airport, its horns and ears slightly bent, its fur slightly dusty, and its eyes in a relaxed pose.
+instruction: Change the background to airport.
+taskid: 33100

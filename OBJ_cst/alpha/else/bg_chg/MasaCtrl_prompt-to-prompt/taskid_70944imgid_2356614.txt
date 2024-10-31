@@ -1,0 +1,5 @@
+org_img_id: 2356614
+org_cap: a person jumping, looking down, skiing, their green skis.
+trg_cap: A person jumping, looking down, skiing, their green skis, in front of a museum.
+instruction: Change the background to museum.
+taskid: 70944

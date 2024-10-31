@@ -1,0 +1,5 @@
+org_img_id: 2335052
+org_cap: a brown horse, while a young person wearing a black helmet and riding breeches sits astride the brown horse, his eyes fixed on the course ahead.
+trg_cap: a brown horse, while a large young person wearing a black helmet and riding breeches sits astride the brown horse, his eyes fixed on the course ahead.
+instruction: Make the person larger.
+taskid: 68517

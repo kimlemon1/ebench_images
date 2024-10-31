@@ -1,0 +1,5 @@
+org_img_id: 2400603
+org_cap: A red bus drives down the street, with a pedestrian walking alongside it.
+trg_cap: A small red bus drives down the street, with a pedestrian walking alongside it.
+instruction: Make the bus smaller.
+taskid: 114888

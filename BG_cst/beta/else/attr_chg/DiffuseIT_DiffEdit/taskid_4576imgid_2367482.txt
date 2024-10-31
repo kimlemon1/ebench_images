@@ -1,0 +1,5 @@
+org_img_id: 2367482
+org_cap: The red fire hydrant is a cylinder with a cap and a handle.
+trg_cap: The cream colored fire hydrant is a cylinder with a cap and a handle.
+instruction: Change the color of the fire hydrant from red to cream colored.
+taskid: 4576

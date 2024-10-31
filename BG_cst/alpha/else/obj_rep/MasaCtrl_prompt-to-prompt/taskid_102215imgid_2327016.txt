@@ -1,0 +1,5 @@
+org_img_id: 2327016
+org_cap: A person in a blue jacket and black pants, her long blonde hair as she on her snowboard.
+trg_cap: A banana on its snowboard.
+instruction: Replace the person with a banana.
+taskid: 102215

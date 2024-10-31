@@ -1,0 +1,5 @@
+org_img_id: 2411714
+org_cap: A white airplane flies overhead, its wheels retracted as it soars above the water, leaving a trail of white clouds in its wake, with a barge or tugboat chugging along in the distance.
+trg_cap: A white airplane flies overhead, its wheels retracted as it soars above the water, leaving a trail of white clouds in its wake, with a person standing on the shore below and a barge or tugboat chugging along in the distance.
+instruction: Add a person under the airplane.
+taskid: 5569

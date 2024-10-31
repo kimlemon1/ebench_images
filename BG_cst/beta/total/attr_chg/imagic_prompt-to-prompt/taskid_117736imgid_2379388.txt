@@ -1,0 +1,5 @@
+org_img_id: 2379388
+org_cap: A lone person on a wood bench, under a red umbrella, on a grey and rainy day by the sea.
+trg_cap: A lone person on a wood bench, under a teal umbrella, on a grey and rainy day by the sea.
+instruction: Change the color of the umbrella from red to teal.
+taskid: 117736

@@ -1,0 +1,5 @@
+org_img_id: 2340834
+org_cap: Person is a young person with a slender build, wearing a green wetsuit and a bright yellow life jacket, his long blonde hair is tied back in a ponytail, and he is on a green and yellow kiteboard with a big smile on his face.
+trg_cap: The mosaic art depicts a young person with a slender build, wearing a green wetsuit and a bright yellow life jacket, with long blonde hair tied back in a ponytail, on a green and yellow kiteboard, smiling broadly.
+instruction: Change the style if the image to mosaic art.
+taskid: 95791

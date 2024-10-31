@@ -1,0 +1,5 @@
+org_img_id: 2350101
+org_cap: a person on a bed, wearing a blue nightgown and a teddy bear, with a window behind them showing lush greenery.
+trg_cap: a small person on a bed, wearing a blue nightgown and a teddy bear, with a window behind them showing lush greenery.
+instruction: Make the person smaller.
+taskid: 117908

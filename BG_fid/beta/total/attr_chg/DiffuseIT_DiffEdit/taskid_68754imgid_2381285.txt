@@ -1,0 +1,5 @@
+org_img_id: 2381285
+org_cap: person holds a pink umbrella, under which person stands with a warm smile.
+trg_cap: person holds a gold umbrella, under which person stands with a warm smile.
+instruction: Change the color of the umbrella from pink to gold.
+taskid: 68754

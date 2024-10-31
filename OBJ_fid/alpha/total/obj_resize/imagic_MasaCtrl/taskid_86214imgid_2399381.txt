@@ -1,0 +1,5 @@
+org_img_id: 2399381
+org_cap: a skateboarding skateboard on a concrete sidewalk.
+trg_cap: a small person skateboarding on a concrete sidewalk.
+instruction: Make the person smaller.
+taskid: 86214

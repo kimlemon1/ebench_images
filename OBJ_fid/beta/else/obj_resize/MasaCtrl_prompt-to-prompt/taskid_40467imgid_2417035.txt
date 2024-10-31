@@ -1,0 +1,5 @@
+org_img_id: 2417035
+org_cap: a young person in a blue shirt and helmet, the sun casting a warm glow over the scene.
+trg_cap: a small young person in a blue shirt and helmet, the sun casting a warm glow over the scene.
+instruction: Make the person smaller.
+taskid: 40467

@@ -1,0 +1,5 @@
+org_img_id: 2402084
+org_cap: A metal, wood, black, bronze bench sits alone on a patch of bright green grass, surrounded by a vast, snow-capped mountain range in the distance.
+trg_cap: A metal, wood, black, bronze bench sits alone on a patch of bright green grass, surrounded by a dense, lush tropical jungle in the distance.
+instruction: Change the background to tropical jungle.
+taskid: 32171

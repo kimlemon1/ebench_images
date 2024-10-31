@@ -1,0 +1,5 @@
+org_img_id: 2388789
+org_cap: a small boy with bright blue eyes and a mop of curly brown hair holds a brown donut in his chubby little hand, the brown donut glistening with temptation.
+trg_cap: a small boy with bright blue eyes and a mop of curly red hair holds a red donut in his chubby little hand, the red donut glistening with temptation.
+instruction: Change the color of the donut from brown to red.
+taskid: 37195

@@ -1,0 +1,5 @@
+org_img_id: 2405036
+org_cap: Standing, smiling person on surfboard as he rides the wave.
+trg_cap: Standing, smiling person on large surfboard as he rides the wave.
+instruction: Make the surfboard larger.
+taskid: 101369

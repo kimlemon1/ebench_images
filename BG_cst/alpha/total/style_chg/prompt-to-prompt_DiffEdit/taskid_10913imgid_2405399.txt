@@ -1,0 +1,5 @@
+org_img_id: 2405399
+org_cap: A blue surfboard lies on the sandy beach, next to a young person wearing a black sweatshirt with a white flag emblem on the sleeve.
+trg_cap: The cartoon-style art features a blue surfboard lying on the sandy beach next to a young person wearing a black sweatshirt with a white flag emblem on the sleeve.
+instruction: Change the style if the image to cartoon style.
+taskid: 10913

@@ -1,0 +1,5 @@
+org_img_id: 2324909
+org_cap: a small bird with gray and brown feathers on a branch of a tree, its beak at a juicy orange fruit.
+trg_cap: a large bird with gray and brown feathers on a branch of a tree, its beak at a juicy orange fruit.
+instruction: Make the bird larger.
+taskid: 93667

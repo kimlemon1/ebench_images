@@ -1,0 +1,5 @@
+org_img_id: 2373610
+org_cap: Posing, skiing person in the snow, with a pair of blue skis strapped to his and poles.
+trg_cap: Posing, skiing person in the snow, with a pair of orange skis strapped to his and poles.
+instruction: Change the color of the skis from blue to orange.
+taskid: 22018

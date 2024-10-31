@@ -1,0 +1,5 @@
+org_img_id: 2394427
+org_cap: A wet bear in the water, its body as it through the clear blue liquid, its fur glistening with dew.
+trg_cap: A small, wet bear in the water, its body as it through the clear blue liquid, its fur glistening with dew.
+instruction: Make the bear smaller.
+taskid: 41599

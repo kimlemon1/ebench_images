@@ -1,0 +1,5 @@
+org_img_id: 2383252
+org_cap: a person holds a pink donut in their hand, with a surface.
+trg_cap: a person holds a orange donut in their hand, with a surface.
+instruction: Change the color of the donut from pink to orange.
+taskid: 94087

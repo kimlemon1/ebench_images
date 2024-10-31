@@ -1,0 +1,5 @@
+org_img_id: 1717
+org_cap: A motorcycle and bicycle are parked on the sidewalk, with a pedestrian crossing the street at a zebra crossing.
+trg_cap: A motorcycle with an airplane on it and a bicycle are parked on the sidewalk, with a pedestrian crossing the street at a zebra crossing.
+instruction: Add a airplane on the motorcycle.
+taskid: 38854

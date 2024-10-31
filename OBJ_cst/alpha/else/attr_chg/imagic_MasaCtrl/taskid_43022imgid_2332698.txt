@@ -1,0 +1,5 @@
+org_img_id: 2332698
+org_cap: a brown teddy bear stands on a wooden pallet, its fur and features making it look like a real teddy bear, with a gentle expression on its face.
+trg_cap: a navy teddy bear stands on a wooden pallet, its fur and features making it look like a real teddy bear, with a gentle expression on its face.
+instruction: Change the color of the teddy bear from brown to navy.
+taskid: 43022

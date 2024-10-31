@@ -1,0 +1,5 @@
+org_img_id: 2333923
+org_cap: The porcelain toilet is a design with a stainless steel wall and a wooden floor, featuring a minimalist sink and toilet combo.
+trg_cap: The chrome toilet is a design with a stainless steel wall and a wooden floor, featuring a minimalist sink and toilet combo.
+instruction: Change the material of the toilet from porcelain to chrome.
+taskid: 11238

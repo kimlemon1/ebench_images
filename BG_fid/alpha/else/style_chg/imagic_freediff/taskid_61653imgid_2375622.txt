@@ -1,0 +1,5 @@
+org_img_id: 2375622
+org_cap: The student is sitting at a black keyboard, holding a cell phone in her hand, with a black keyboard in front of her.
+trg_cap: The mosaic art depicts a student sitting at a black keyboard, holding a cell phone in her hand.
+instruction: Change the style if the image to mosaic art.
+taskid: 61653

@@ -1,0 +1,5 @@
+org_img_id: 2329724
+org_cap: a person wearing a blue shirt and a black hat throws a frisbee with her right hand, while a group of people in the background run and play in a green grassy field.
+trg_cap: A person wearing a blue shirt and a black hat throws a frisbee with her right hand, while a group of people in the background run and play in a green grassy field near the airport.
+instruction: Change the background to airport.
+taskid: 55114

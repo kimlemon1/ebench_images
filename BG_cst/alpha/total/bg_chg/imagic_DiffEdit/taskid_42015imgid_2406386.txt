@@ -1,0 +1,5 @@
+org_img_id: 2406386
+org_cap: the clock tower's gothic revival architecture features ornate stone carvings and intricate stonework, with pointed arches and steeply pitched roofs, while the clock itself is a striking feature with its large numbers and intricate details.
+trg_cap: The clock tower's gothic revival architecture features ornate stone carvings and intricate stonework, with pointed arches and steeply pitched roofs, while the clock itself is a striking feature with its large numbers and intricate details, all situated within the historic zoo grounds, where visitors can enjoy both the architectural beauty and the diverse wildlife exhibits.
+instruction: Change the background to zoo.
+taskid: 42015

@@ -1,0 +1,5 @@
+org_img_id: 2366683
+org_cap: Person delivers a black leather baseball glove fastball.
+trg_cap: A small person delivers a black leather baseball glove fastball.
+instruction: Make the person smaller.
+taskid: 22199

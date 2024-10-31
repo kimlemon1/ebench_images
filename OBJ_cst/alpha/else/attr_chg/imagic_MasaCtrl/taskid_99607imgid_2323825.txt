@@ -1,0 +1,5 @@
+org_img_id: 2323825
+org_cap: The white clock tower stands tall with its stone façade and ornate details.
+trg_cap: The neon clock tower stands tall with its stone façade and ornate details.
+instruction: Change the color of the clock from white to neon.
+taskid: 99607

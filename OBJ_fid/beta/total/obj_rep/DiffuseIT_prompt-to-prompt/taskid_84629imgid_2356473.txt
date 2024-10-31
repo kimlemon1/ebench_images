@@ -1,0 +1,5 @@
+org_img_id: 2356473
+org_cap: a young person in a white shirt and jeans across a wheat field, with a running dog and a person.
+trg_cap: a person across a wheat field, with their running dog and a motorcycle.
+instruction: Replace the person with a motorcycle.
+taskid: 84629

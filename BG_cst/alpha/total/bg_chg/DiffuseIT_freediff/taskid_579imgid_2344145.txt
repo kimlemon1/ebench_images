@@ -1,0 +1,5 @@
+org_img_id: 2344145
+org_cap: The vase is a dark blue, cylindrical vase with a rounded body and a narrow neck, featuring swirling patterns of red and orange hues.
+trg_cap: The vase is a dark blue, cylindrical vase with a rounded body and a narrow neck, featuring swirling patterns of red and orange hues, reminiscent of the vibrant colors often seen in airport art installations.
+instruction: Change the background to airport.
+taskid: 579

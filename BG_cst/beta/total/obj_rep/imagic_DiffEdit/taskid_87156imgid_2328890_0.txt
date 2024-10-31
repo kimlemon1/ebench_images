@@ -1,0 +1,5 @@
+org_img_id: 2328890_0
+org_cap: A black dog sits in front of a plate of food, with a slice of peach pie and a few slices of bread on the plate, and a few pieces of fruit such as blueberries and peaches scattered around the plate.
+trg_cap: A black car sits in front of a plate of food, with a slice of peach pie and a few slices of bread on it, and a few pieces of fruit such as blueberries and peaches scattered around it.
+instruction: Replace the dog with a car.
+taskid: 87156

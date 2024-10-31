@@ -1,0 +1,5 @@
+org_img_id: 2335170
+org_cap: a person riding and sitting in a motorcycle, the tires screech and the engine roars.
+trg_cap: a sink, the tires screech and the engine roars.
+instruction: Replace the person with a sink.
+taskid: 30992

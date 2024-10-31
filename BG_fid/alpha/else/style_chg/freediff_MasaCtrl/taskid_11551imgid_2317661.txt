@@ -1,0 +1,5 @@
+org_img_id: 2317661
+org_cap: "a psychedelic - patterned dog, with a fluffy coat and a goofy grin, alongside a bespectacled person in a brightly colored shirt and tie-dye pants."
+trg_cap: The mosaic art features a psychedelic-patterned dog with a fluffy coat and a goofy grin, alongside a bespectacled person in a brightly colored shirt and tie-dye pants.
+instruction: Change the style if the image to mosaic art.
+taskid: 11551

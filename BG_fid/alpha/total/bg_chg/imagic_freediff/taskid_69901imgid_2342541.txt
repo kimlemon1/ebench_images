@@ -1,0 +1,5 @@
+org_img_id: 2342541
+org_cap: a circular pizza with a crispy crust and melted mozzarella cheese, topped with a medley of ingredients including tomato sauce, sliced pepperoni, and sprinkled with oregano, sits on a paper plate, surrounded by a warm glow from the kitchen.
+trg_cap: A circular pizza with a crispy crust and melted mozzarella cheese, topped with a medley of ingredients including tomato sauce, sliced pepperoni, and sprinkled with oregano, sits on a paper plate, surrounded by the soft lighting and ambient sounds of a concert hall.
+instruction: Change the background to concert hall.
+taskid: 69901

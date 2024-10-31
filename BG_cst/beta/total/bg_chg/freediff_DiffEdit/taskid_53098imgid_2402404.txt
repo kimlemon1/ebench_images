@@ -1,0 +1,5 @@
+org_img_id: 2402404
+org_cap: an elephant beneath a tall acacia tree, its gray skin glistening in the fading light of day, as a dark storm cloud looms in the background.
+trg_cap: an elephant beneath a tall acacia tree, its gray skin glistening in the fading light of day, as a space station orbits silently in the background.
+instruction: Change the background to space station.
+taskid: 53098

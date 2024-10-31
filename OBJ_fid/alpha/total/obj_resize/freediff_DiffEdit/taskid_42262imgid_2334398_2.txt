@@ -1,0 +1,5 @@
+org_img_id: 2334398_2
+org_cap: a lone figure trudges through a blanket of snow, green umbrella in hand, a stark contrast to the monochrome winter landscape.
+trg_cap: a lone figure trudges through a blanket of snow, large green umbrella in hand, a stark contrast to the monochrome winter landscape.
+instruction: Make the umbrella larger.
+taskid: 42262

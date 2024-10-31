@@ -1,0 +1,5 @@
+org_img_id: 2371804
+org_cap: A person holds a rainbow-colored kite.
+trg_cap: The person holds a banana.
+instruction: Replace the kite with a banana.
+taskid: 57541

@@ -1,0 +1,5 @@
+org_img_id: 2358282
+org_cap: a young person walks down the snow-covered slope, carrying skis with a bright orange strap.
+trg_cap: A young person walks down the snow-covered slope, carrying skis with a bright orange strap, as if heading to a library nestled in the mountains.
+instruction: Change the background to library.
+taskid: 83215

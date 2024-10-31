@@ -1,0 +1,5 @@
+org_img_id: 2353485
+org_cap: a young person wearing a green backpack and snow boots walks down the street, the foggy air swirling around their legs as they navigate through the misty morning.
+trg_cap: A young person wearing a green backpack and snow boots walks down the street, the foggy air swirling around their legs as they navigate through the misty morning, on their way to visit a loved one at the nearby hospital.
+instruction: Change the background to hospital.
+taskid: 9107

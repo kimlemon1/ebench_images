@@ -1,0 +1,5 @@
+org_img_id: 2395632
+org_cap: A splashing, swimming dog jumps into the water, in the pool.
+trg_cap: The pencil sketch art depicts a splashing, swimming dog jumping into the water in the pool.
+instruction: Change the style if the image to pencil sketch.
+taskid: 32475

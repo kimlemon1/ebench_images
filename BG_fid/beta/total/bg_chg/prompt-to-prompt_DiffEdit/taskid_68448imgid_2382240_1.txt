@@ -1,0 +1,5 @@
+org_img_id: 2382240_1
+org_cap: Lying person lies on a bed, wearing a t-shirt and sweatpants, with a lazy cat sprawled across his chest.
+trg_cap: Lying person lies on a bed, wearing a t-shirt and sweatpants, with a lazy cat sprawled across his chest, as a snow field stretches out beyond the window.
+instruction: Change the background to snow field.
+taskid: 68448

@@ -1,0 +1,5 @@
+org_img_id: 1670
+org_cap: The scene features a white keyboard, resting on a cluttered desk surrounded by scraps of paper and empty coffee cups.
+trg_cap: The scene features a white keyboard, resting on a cluttered desk surrounded by scraps of paper and empty coffee cups, with the sound of waves crashing in the background and a gentle sea breeze wafting through the open window.
+instruction: Change the background to beach.
+taskid: 118727

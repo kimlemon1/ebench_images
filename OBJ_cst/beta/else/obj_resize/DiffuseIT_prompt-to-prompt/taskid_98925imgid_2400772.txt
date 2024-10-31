@@ -1,0 +1,5 @@
+org_img_id: 2400772
+org_cap: a gray, walking elephant on the grassy plain, surrounded by a herd of zebras with their black and white stripes, and a few wildebeests in the background.
+trg_cap: a large, gray, walking elephant on the grassy plain, surrounded by a herd of zebras with their black and white stripes, and a few wildebeests in the background.
+instruction: Make the elephant larger.
+taskid: 98925

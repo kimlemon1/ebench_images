@@ -1,0 +1,5 @@
+org_img_id: 2392655
+org_cap: A brown horse is being ridden by a person wearing a bright yellow shirt and a baseball cap, waving his arm in a friendly gesture as he rides.
+trg_cap: A graffiti art depicts a brown horse being ridden by a person wearing a bright yellow shirt and a baseball cap, waving his arm in a friendly gesture.
+instruction: Change the style if the image to graffiti art.
+taskid: 8823

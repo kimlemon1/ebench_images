@@ -1,0 +1,5 @@
+org_img_id: 2399074
+org_cap: a lone person walking along the roadside, his green suitcase.
+trg_cap: a lone person walking along the roadside, his green suitcase, reminiscent of the one that always sat in the corner of the living room.
+instruction: Change the background to living room.
+taskid: 8568

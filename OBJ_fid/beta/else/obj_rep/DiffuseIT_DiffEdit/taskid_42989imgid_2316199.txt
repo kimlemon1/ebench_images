@@ -1,0 +1,5 @@
+org_img_id: 2316199
+org_cap: a person in a white t-shirt with a baby in his arms behind a wooden fence at a large elephant in the background.
+trg_cap: A person in a white t-shirt with a baby in their arms behind a wooden fence at a large motorcycle.
+instruction: Replace the elephant with a motorcycle.
+taskid: 42989

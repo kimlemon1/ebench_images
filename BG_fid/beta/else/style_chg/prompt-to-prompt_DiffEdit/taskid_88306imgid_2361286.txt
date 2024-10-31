@@ -1,0 +1,5 @@
+org_img_id: 2361286
+org_cap: young person surfing rides a white surfboard, his wetsuit glistening with sea spray.
+trg_cap: A pencil sketch depicts a young person surfing on a white surfboard, their wetsuit glistening with sea spray.
+instruction: Change the style if the image to pencil sketch.
+taskid: 88306

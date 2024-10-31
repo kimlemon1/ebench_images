@@ -1,0 +1,5 @@
+org_img_id: 2390919
+org_cap: The yellow pizza was a masterpiece with a crust, topped with a medley of ingredients including cheese, tomatoes, and basil leaves, all arranged in a pattern around a white oval in the center.
+trg_cap: An oil painting style art features a yellow pizza masterpiece with a crust, topped with a medley of ingredients including cheese, tomatoes, and basil leaves, all arranged in a pattern around a white oval in the center.
+instruction: Change the style if the image to oil painting style.
+taskid: 32695

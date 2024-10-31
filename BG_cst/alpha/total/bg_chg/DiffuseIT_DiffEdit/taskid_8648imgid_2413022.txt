@@ -1,0 +1,5 @@
+org_img_id: 2413022
+org_cap: A blue bus travels down the street, passing a parked car and a pedestrian crossing at the intersection.
+trg_cap: A blue bus travels down the street, passing a parked car and a pedestrian crossing at the intersection, with the lush greenery of a tropical jungle surrounding the area.
+instruction: Change the background to tropical jungle.
+taskid: 8648

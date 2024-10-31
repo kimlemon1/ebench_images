@@ -1,0 +1,5 @@
+org_img_id: 2322326
+org_cap: a person, person, on a blue surfboard, her long hair behind her as she with a confident grin.
+trg_cap: A person, person, on a blue surfboard gliding across a snow field, her long hair behind her as she with a confident grin.
+instruction: Change the background to snow field.
+taskid: 86852

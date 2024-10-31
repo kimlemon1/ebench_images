@@ -1,0 +1,5 @@
+org_img_id: 2377243
+org_cap: A standing white zebra alongside a small bird near a rocky stream, its zebra glistening in the sunlight.
+trg_cap: A standing white laptop alongside a small bird near a rocky stream.
+instruction: Replace the zebra with a laptop.
+taskid: 4472

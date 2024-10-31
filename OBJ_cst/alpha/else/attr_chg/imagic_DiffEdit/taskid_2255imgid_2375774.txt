@@ -1,0 +1,5 @@
+org_img_id: 2375774
+org_cap: A smiling person stands beside a green bicycle, wearing a tank top and a bicycle.
+trg_cap: A smiling person stands beside a orange bicycle, wearing a tank top and a bicycle.
+instruction: Change the color of the bicycle from green to orange.
+taskid: 2255

@@ -1,0 +1,5 @@
+org_img_id: 2358816
+org_cap: The clock face is a large, circular clock with roman numerals and intricate stone carvings surrounding it, set against a backdrop of rough-hewn stone walls with pointed arches and ornate stonework.
+trg_cap: The clock face is a large, circular clock with roman numerals and intricate stone carvings surrounding it, set against a backdrop of a snow field with rough-hewn stone walls, pointed arches, and ornate stonework.
+instruction: Change the background to snow field.
+taskid: 21910

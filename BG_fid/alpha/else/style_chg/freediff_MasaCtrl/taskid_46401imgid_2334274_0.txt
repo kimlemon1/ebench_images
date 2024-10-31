@@ -1,0 +1,5 @@
+org_img_id: 2334274_0
+org_cap: A person sits astride a green motorcycle, wearing a black shirt with a green jacket, and a green backpack with a green water bottle attached.
+trg_cap: A graffiti art depicts a person sitting astride a green motorcycle, wearing a black shirt with a green jacket, and carrying a green backpack with a green water bottle attached.
+instruction: Change the style if the image to graffiti art.
+taskid: 46401

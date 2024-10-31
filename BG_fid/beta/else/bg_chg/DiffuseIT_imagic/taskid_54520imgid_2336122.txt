@@ -1,0 +1,5 @@
+org_img_id: 2336122
+org_cap: a bright red fire hydrant stands alone on a cracked sidewalk, surrounded by worn asphalt and faded graffiti.
+trg_cap: A bright red fire hydrant stands alone on a cracked sidewalk, surrounded by worn asphalt and faded graffiti, just outside the entrance to the bustling city zoo.
+instruction: Change the background to zoo.
+taskid: 54520

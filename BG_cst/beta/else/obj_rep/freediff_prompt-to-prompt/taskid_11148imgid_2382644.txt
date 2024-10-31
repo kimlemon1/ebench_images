@@ -1,0 +1,5 @@
+org_img_id: 2382644
+org_cap: A sitting person in a brown wood boat, wearing an umbrella and holding a fishing rod.
+trg_cap: A sitting person, wearing a toaster and holding a fishing rod.
+instruction: Replace the boat with a toaster.
+taskid: 11148

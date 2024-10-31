@@ -1,0 +1,5 @@
+org_img_id: 2353116
+org_cap: a person holds a gray umbrella while standing on the waterfront, with a unicyclist riding by in the background.
+trg_cap: a person holds a blue umbrella while standing on the waterfront, with a unicyclist riding by in the background.
+instruction: Change the color of the umbrella from gray to blue.
+taskid: 57050

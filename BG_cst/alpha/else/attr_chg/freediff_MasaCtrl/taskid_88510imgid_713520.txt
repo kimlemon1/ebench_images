@@ -1,0 +1,5 @@
+org_img_id: 713520
+org_cap: A yellow bicycle leans against a palm tree, surrounded by a sandy beach and a few boats bobbing in the calm waters.
+trg_cap: A light blue bicycle leans against a palm tree, surrounded by a sandy beach and a few boats bobbing in the calm waters.
+instruction: Change the color of the bicycle from yellow to light blue.
+taskid: 88510

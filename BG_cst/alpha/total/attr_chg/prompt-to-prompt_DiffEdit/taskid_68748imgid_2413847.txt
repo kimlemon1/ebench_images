@@ -1,0 +1,5 @@
+org_img_id: 2413847
+org_cap: a brown hot dog wrapped in a shiny aluminum foil packet.
+trg_cap: a orange hot dog wrapped in a shiny aluminum foil packet.
+instruction: Change the color of the hot dog from brown to orange.
+taskid: 68748

@@ -1,0 +1,5 @@
+org_img_id: 150432
+org_cap: a snow-covered city street is filled with blue bus, cars, and taxis navigating through the thick blanket of snow, while pedestrians trudge through the drifts with umbrellas and scarves, the city's iconic buildings and monuments shrouded in a misty veil.
+trg_cap: a snow-covered city street is filled with orange bus, cars, and taxis navigating through the thick blanket of snow, while pedestrians trudge through the drifts with umbrellas and scarves, the city's iconic buildings and monuments shrouded in a misty veil.
+instruction: Change the color of the bus from blue to orange.
+taskid: 25099

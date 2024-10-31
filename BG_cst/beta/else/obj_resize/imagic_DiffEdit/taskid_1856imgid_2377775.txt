@@ -1,0 +1,5 @@
+org_img_id: 2377775
+org_cap: A person on the back of an elephant, wearing a denim shirt and a hat, with a gentle expression on his face.
+trg_cap: A small person on the back of an elephant, wearing a denim shirt and a hat, with a gentle expression on his face.
+instruction: Make the person smaller.
+taskid: 1856

@@ -1,0 +1,5 @@
+org_img_id: 2391139
+org_cap: A white stop sign stands on a grassy lawn, with a red fire hydrant situated nearby.
+trg_cap: A white stop sign stands on a grassy lawn, with a black fire hydrant situated nearby.
+instruction: Change the color of the fire hydrant from red to black.
+taskid: 10683

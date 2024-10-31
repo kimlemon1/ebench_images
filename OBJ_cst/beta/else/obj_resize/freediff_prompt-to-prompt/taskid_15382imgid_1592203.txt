@@ -1,0 +1,5 @@
+org_img_id: 1592203
+org_cap: a skateboarder in his mid-30s with a purple hat and a determined expression flies through the air, his skateboard spinning and flipping as he performs a trick on the concrete ramp.
+trg_cap: a skateboarder in his mid-30s with a purple hat and a determined expression flies through the air, his large skateboard spinning and flipping as he performs a trick on the concrete ramp.
+instruction: Make the skateboard larger.
+taskid: 15382

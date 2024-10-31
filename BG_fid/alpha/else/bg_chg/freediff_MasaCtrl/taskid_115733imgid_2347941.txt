@@ -1,0 +1,5 @@
+org_img_id: 2347941
+org_cap: a surfing person rides a surfing person through a surfing person, his arms and legs splayed as he carves through the surfing person.
+trg_cap: A surfing person rides a surfing person through a concert hall, his arms and legs splayed as he carves through the surfing person.
+instruction: Change the background to concert hall.
+taskid: 115733

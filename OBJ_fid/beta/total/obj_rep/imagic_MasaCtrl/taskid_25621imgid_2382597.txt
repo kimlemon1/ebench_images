@@ -1,0 +1,5 @@
+org_img_id: 2382597
+org_cap: Wet person along the beach, a brown, wet surfboard and out at the ocean, with the iconic haystack-shaped rock formation looming in the background.
+trg_cap: Wet people along the beach and out at the dining table, with the iconic haystack-shaped rock formation looming in the background.
+instruction: Replace the surfboard with a dining table.
+taskid: 25621

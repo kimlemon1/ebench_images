@@ -1,0 +1,5 @@
+org_img_id: 2391130
+org_cap: person sits at a desk, wearing glasses and holding a white cup.
+trg_cap: person sits at a desk, wearing glasses and holding a small white cup.
+instruction: Make the cup smaller.
+taskid: 67486

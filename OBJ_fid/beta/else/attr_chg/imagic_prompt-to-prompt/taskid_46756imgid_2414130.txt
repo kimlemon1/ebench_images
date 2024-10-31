@@ -1,0 +1,5 @@
+org_img_id: 2414130
+org_cap: surfing person rides a white surfboard through the waves, his muscles beneath his skin as he a smooth arc through the water.
+trg_cap: surfing person rides a black surfboard through the waves, his muscles beneath his skin as he a smooth arc through the water.
+instruction: Change the color of the surfboard from white to black.
+taskid: 46756
