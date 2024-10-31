@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>이미지 비교 설문조사</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .question {
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .instruction {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .image-pair {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 10px;
+        }
+        .image-pair img {
+            width: 200px;
+            height: auto;
+            border: 2px solid #000;
+        }
+        .submit-btn, .next-btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>이미지 비교 설문조사</h1>
+<p>"overall quality"가 더 좋은 이미지를 선택하세요.</p>
+
+<form id="surveyForm">
+    <div id="questionContainer"></div>
+
+    <!-- Next 버튼과 Submit 버튼 -->
+    <button type="button" class="next-btn" id="nextButton" onclick="nextPage()">Next</button>
+    <button type="button" class="submit-btn" id="submitButton" style="display: none;" onclick="submitSurvey()">Submit</button>
+</form>
+
+<script>
+    // 자동으로 55개의 이미지 쌍 생성
+    const NUM_PAIRS = 15;
+    const imagePairs = Array.from({ length: NUM_PAIRS }, (_, index) => ({
+        img1: `image1_link_${index + 1}`,
+        img2: `image2_link_${index + 1}`,
+        img3: `reference_image_link_${index + 1}`,
+        instruction: `Instruction text here ${index + 1}`
+    }));
+
+    // 페이지 설정
+    const questionsPerPage = 15;
+    let currentPage = 0;
+
+    // 응답 데이터 저장 객체
+    let responses = {};
+
+    // 질문 생성 함수
+    function generateQuestions() {
+        const questionContainer = document.getElementById("questionContainer");
+        questionContainer.innerHTML = ""; // 기존 질문 제거
+
+        const start = currentPage * questionsPerPage;
+        const end = start + questionsPerPage;
+        const pageQuestions = imagePairs.slice(start, end);
+
+        pageQuestions.forEach((pair, index) => {
+            const questionIndex = start + index + 1;
+            const questionDiv = document.createElement("div");
+            questionDiv.className = "question";
+
+            // 지침 텍스트 추가
+            const instructionText = document.createElement("p");
+            instructionText.className = "instruction";
+            instructionText.textContent = pair.instruction;
+            questionDiv.appendChild(instructionText);
+
+            // 기준 이미지 추가
+            const referenceImage = document.createElement("img");
+            referenceImage.src = pair.img3;
+            referenceImage.alt = "기준 이미지";
+            referenceImage.style.border = "2px dashed #000"; // 기준 이미지 스타일
+            questionDiv.appendChild(referenceImage);
+
+            // 이미지 쌍 추가
+            const imagePairDiv = document.createElement("div");
+            imagePairDiv.className = "image-pair";
+
+            const label1 = document.createElement("label");
+            const radio1 = document.createElement("input");
+            radio1.type = "radio";
+            radio1.name = `question${questionIndex}`;
+            radio1.value = "left";
+            radio1.onclick = () => saveResponse(questionIndex, "left");
+            const img1 = document.createElement("img");
+            img1.src = pair.img1;
+            img1.alt = `Image ${questionIndex} - 1`;
+            label1.appendChild(radio1);
+            label1.appendChild(img1);
+
+            const label2 = document.createElement("label");
+            const radio2 = document.createElement("input");
+            radio2.type = "radio";
+            radio2.name = `question${questionIndex}`;
+            radio2.value = "right";
+            radio2.onclick = () => saveResponse(questionIndex, "right");
+            const img2 = document.createElement("img");
+            img2.src = pair.img2;
+            img2.alt = `Image ${questionIndex} - 2`;
+            label2.appendChild(radio2);
+            label2.appendChild(img2);
+
+            imagePairDiv.appendChild(label1);
+            imagePairDiv.appendChild(label2);
+
+            questionDiv.appendChild(imagePairDiv);
+            questionContainer.appendChild(questionDiv);
+        });
+
+        // Next 버튼과 Submit 버튼 설정
+        const totalPages = Math.ceil(imagePairs.length / questionsPerPage);
+        if (currentPage < totalPages - 1) {
+            document.getElementById("nextButton").style.display = "inline-block";
+            document.getElementById("submitButton").style.display = "none";
+        } else {
+            document.getElementById("nextButton").style.display = "none";
+            document.getElementById("submitButton").style.display = "inline-block";
+        }
+    }
+
+    // 페이지 이동 함수
+    function nextPage() {
+        const totalPages = Math.ceil(imagePairs.length / questionsPerPage);
+        if (currentPage < totalPages - 1) {
+            currentPage++;
+            generateQuestions();
+            window.scrollTo(0, 0); // 페이지 맨 위로 스크롤
+        }
+    }
+
+    // 응답 저장 함수
+    function saveResponse(questionIndex, choice) {
+        responses[`question${questionIndex}`] = choice;
+    }
+
+    // 설문 제출 함수
+    // 설문 제출 함수 수정
+function submitSurvey() {
+    console.log("응답 데이터:", responses);
+
+    // 사용자 이름과 비밀번호 설정
+    // const username = "kihyunkim";  // 서버 사용자 이름
+    // const password = "kihyunvip";  // 서버 비밀번호
+
+    // // Basic Authentication을 위한 인코딩
+    // const authHeader = 'Basic ' + btoa(`${username}:${password}`);
+
+    // 서버로 데이터를 전송
+    fetch("http://localhost:5000/save-survey", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+            //"Authorization": authHeader  // 인증 헤더 추가
+        },
+        body: JSON.stringify(responses)
+    })
+    .then(response => {
+        if (!response.ok) {
+            // 실패한 응답의 상태 코드와 상태 텍스트를 출력
+            throw new Error(`HTTP error! status: ${response.status} - ${response.statusText}`);
+        }
+        return response.json();
+    })
+    .then(data => {
+        console.log("설문 제출 성공:", data);
+        alert("설문이 성공적으로 제출되었습니다.");
+    })
+    .catch(error => {
+        console.error("설문 제출 오류:", error);
+        alert("설문 제출에 실패했습니다. 오류 원인: " + error.message);
+    });
+}
+    // 초기 질문 생성
+    window.onload = generateQuestions;
+</script>
+
+</body>
+</html>
