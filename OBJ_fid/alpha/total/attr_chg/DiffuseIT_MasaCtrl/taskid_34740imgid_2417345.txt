@@ -1,0 +1,5 @@
+org_img_id: 2417345
+org_cap: A young woman lies on a bed, surrounded by laundry and papers, with a black, open laptop in front of her, her eyes fixed intently on the laptop.
+trg_cap: A young woman lies on a bed, surrounded by laundry and papers, with a blue, open laptop in front of her, her eyes fixed intently on the laptop.
+instruction: Change the color of the laptop from black to blue.
+taskid: 34740

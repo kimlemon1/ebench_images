@@ -1,0 +1,5 @@
+org_img_id: 2350595
+org_cap: a fluffy white dog with a goofy grin and a baseball cap worn backwards, surrounded by beach balls and a beach umbrella.
+trg_cap: A watercolor painting style art features a fluffy white dog with a goofy grin and a baseball cap worn backwards, surrounded by beach balls and a beach umbrella.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 77690

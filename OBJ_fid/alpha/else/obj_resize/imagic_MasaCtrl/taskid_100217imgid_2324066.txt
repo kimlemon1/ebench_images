@@ -1,0 +1,5 @@
+org_img_id: 2324066
+org_cap: "person a baseball bat with a green grip, his small hands wrapped tightly around the wooden handle as he the grassy person."
+trg_cap: a large baseball bat with a green grip, his small hands wrapped tightly around the wooden handle as he the grassy person.
+instruction: Make the baseball bat larger.
+taskid: 100217

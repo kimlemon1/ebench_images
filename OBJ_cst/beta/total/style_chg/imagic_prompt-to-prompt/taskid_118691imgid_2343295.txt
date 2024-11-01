@@ -1,0 +1,5 @@
+org_img_id: 2343295
+org_cap: Person onto the skateboard, his legs and his arms as he on the smooth pavement.
+trg_cap: The graffiti art depicts a person on a skateboard, with his legs and arms positioned as he glides on the smooth pavement.
+instruction: Change the style if the image to graffiti art.
+taskid: 118691

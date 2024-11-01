@@ -1,0 +1,5 @@
+org_img_id: 2353992
+org_cap: a stop sign with the words "stop" and "15" on the stop sign, standing alone on a quiet street corner, with a white van and a blue car driving by in the background.
+trg_cap: A kite, standing alone on a quiet street corner, with a white van and a blue car driving by in the background.
+instruction: Replace the stop sign with a kite.
+taskid: 88656

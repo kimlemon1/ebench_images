@@ -1,0 +1,5 @@
+org_img_id: 2402729
+org_cap: The scene is focused on the vibrant pink dress worn by a person, with a white cake in the background, adorned with a big smile.
+trg_cap: The scene is focused on the vibrant pink dress worn by someone, with an oven in the background, adorned with a big smile.
+instruction: Replace the cake with a oven.
+taskid: 57700

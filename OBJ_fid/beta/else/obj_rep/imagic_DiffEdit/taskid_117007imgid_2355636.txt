@@ -1,0 +1,5 @@
+org_img_id: 2355636
+org_cap: a white bus parked on the side of the road.
+trg_cap: A sports ball
+instruction: Replace the bus with a sports ball.
+taskid: 117007

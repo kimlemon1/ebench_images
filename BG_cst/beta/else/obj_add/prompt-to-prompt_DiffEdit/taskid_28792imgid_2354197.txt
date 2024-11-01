@@ -1,0 +1,5 @@
+org_img_id: 2354197
+org_cap: a slender, silver knife with a sharp blade and a smooth handle lies on the table, its edge glinting in the light.
+trg_cap: A slender, silver knife with a sharp blade and a smooth handle lies on the table, its edge glinting in the light, with a pair of scissors next to it.
+instruction: Add a scissors next to the knife.
+taskid: 28792

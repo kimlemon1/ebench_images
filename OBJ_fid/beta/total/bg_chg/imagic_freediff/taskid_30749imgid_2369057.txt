@@ -1,0 +1,5 @@
+org_img_id: 2369057
+org_cap: A wood bench sits against a brightly colored wall, its weathered and worn cushions a stark contrast to the vibrant pink, yellow, and blue hues that surround it.
+trg_cap: A wood bench sits against a brightly colored wall in the gym, its weathered and worn cushions a stark contrast to the vibrant pink, yellow, and blue hues that surround it.
+instruction: Change the background to gym.
+taskid: 30749

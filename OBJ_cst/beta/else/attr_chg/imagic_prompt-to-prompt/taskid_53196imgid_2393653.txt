@@ -1,0 +1,5 @@
+org_img_id: 2393653
+org_cap: a young person with a sandwich and a sprinkle of sesame seeds.
+trg_cap: a elderly person with a sandwich and a sprinkle of sesame seeds.
+instruction: Change the state of the person from young to elderly.
+taskid: 53196

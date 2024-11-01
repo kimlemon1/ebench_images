@@ -1,0 +1,5 @@
+org_img_id: 2338846
+org_cap: "person on a bed in a dimly lit hotel room, wearing a pair of worn-out socks and a faded t-shirt, with a laptop on his lap."
+trg_cap: small person on a bed in a dimly lit hotel room, wearing a pair of worn-out socks and a faded t-shirt, with a laptop on his lap.
+instruction: Make the person smaller.
+taskid: 118382

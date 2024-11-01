@@ -1,0 +1,5 @@
+org_img_id: 2408203
+org_cap: person stands alone on the person's mound, his eyes fixed on the dirt as he swings his bat.
+trg_cap: Person stands alone on the person's mound in the concert hall, his eyes fixed on the dirt as he swings his bat.
+instruction: Change the background to concert hall.
+taskid: 75644

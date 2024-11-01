@@ -1,0 +1,5 @@
+org_img_id: 2409331
+org_cap: a person holds a slice of pizza in their hand, with a few crumbs scattered around their fingers, while a plate with a half-eaten pizza in the background and a baby lying in a crib nearby.
+trg_cap: a person holds a slice of pizza in their hand, with a few crumbs scattered around their fingers, while a plate with a half-eaten pizza and a cell phone next to it in the background and a baby lying in a crib nearby.
+instruction: Add a cell phone next to the pizza.
+taskid: 87601

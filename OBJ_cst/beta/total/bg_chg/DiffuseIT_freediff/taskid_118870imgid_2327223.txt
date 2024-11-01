@@ -1,0 +1,5 @@
+org_img_id: 2327223
+org_cap: the cup is a ceramic cup with a brown wooden handle and a white interior, sitting on a wooden desk with a computer monitor and keyboard, surrounded by various office supplies and a pair of headphones.
+trg_cap: The cup is a ceramic cup with a brown wooden handle and a white interior, sitting on a wooden desk with a computer monitor and keyboard, surrounded by various office supplies and a pair of headphones, in a restaurant setting.
+instruction: Change the background to restaurant.
+taskid: 118870

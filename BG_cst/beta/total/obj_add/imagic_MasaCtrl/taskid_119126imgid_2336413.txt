@@ -1,0 +1,5 @@
+org_img_id: 2336413
+org_cap: a small teddy bear sits on a plate with a miniature croissant in front of it.
+trg_cap: A small teddy bear sits on a plate with a miniature croissant in front of it and an orange on the cake.
+instruction: Add a orange on the cake.
+taskid: 119126

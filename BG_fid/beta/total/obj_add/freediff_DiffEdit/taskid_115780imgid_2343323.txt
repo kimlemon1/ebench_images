@@ -1,0 +1,5 @@
+org_img_id: 2343323
+org_cap: the clock tower stands tall, its copper exterior gleaming in the sunlight, adorned with intricate details and a large clock that reads hours and minutes.
+trg_cap: The clock tower stands tall, its copper exterior gleaming in the sunlight, adorned with intricate details and a large clock that reads hours and minutes, with a bird perched in front of the clock.
+instruction: Add a bird in front of the clock.
+taskid: 115780

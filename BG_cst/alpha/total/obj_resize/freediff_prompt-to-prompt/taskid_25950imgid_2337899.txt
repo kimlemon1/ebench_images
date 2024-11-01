@@ -1,0 +1,5 @@
+org_img_id: 2337899
+org_cap: a white train with a rounded front and a long, curved train, adorned with bright red stripes and a rounded rear, emerges from the tunnel and slows to a stop at the station train.
+trg_cap: a small, white train with a rounded front and a long, curved train, adorned with bright red stripes and a rounded rear, emerges from the tunnel and slows to a stop at the station train.
+instruction: Make the train smaller.
+taskid: 25950

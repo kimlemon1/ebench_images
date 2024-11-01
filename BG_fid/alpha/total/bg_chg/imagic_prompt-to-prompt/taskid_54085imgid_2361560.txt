@@ -1,0 +1,5 @@
+org_img_id: 2361560
+org_cap: a small person lies flat on a skateboard, his legs stretched out behind him and his arms extended in front, his hands gripping the skateboard tightly.
+trg_cap: In the quiet library, a small person lies flat on a skateboard, his legs stretched out behind him and his arms extended in front, his hands gripping the skateboard tightly.
+instruction: Change the background to library.
+taskid: 54085

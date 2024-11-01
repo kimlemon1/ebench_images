@@ -1,0 +1,5 @@
+org_img_id: 2328176
+org_cap: the clock tower stands tall, its brick façade weathered to a warm, rusty red, with intricate stone carvings and ornate clock gleaming in the gray sky.
+trg_cap: The clock tower stands tall, its brick façade weathered to a warm, rusty red, with intricate stone carvings and an ornate clock gleaming in the gray sky, and beneath it, a couch rests.
+instruction: Add a couch under the clock.
+taskid: 74602

@@ -1,0 +1,5 @@
+org_img_id: 2404174
+org_cap: The stone tower with an old metal clock rises majestically against a backdrop of vibrant orange maple leaves.
+trg_cap: The stone tower with an old iron clock rises majestically against a backdrop of vibrant orange maple leaves.
+instruction: Change the material of the clock from metal to iron.
+taskid: 40594

@@ -1,0 +1,5 @@
+org_img_id: 2371067
+org_cap: skateboard with yellow wheels and a white deck, wearing a white t-shirt and black shorts, his feet in a relaxed stance with his knees slightly bent.
+trg_cap: The mosaic art features a skateboard with yellow wheels and a white deck, alongside a figure wearing a white t-shirt and black shorts, standing in a relaxed stance with knees slightly bent.
+instruction: Change the style if the image to mosaic art.
+taskid: 38900

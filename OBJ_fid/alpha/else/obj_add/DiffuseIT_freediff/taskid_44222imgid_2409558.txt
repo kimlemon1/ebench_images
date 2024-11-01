@@ -1,0 +1,5 @@
+org_img_id: 2409558
+org_cap: a small, messy-haired person at a colorful table, wearing an orange shirt and a red bowl with broccoli and a spoon.
+trg_cap: a small, messy-haired person at a colorful table, wearing an orange shirt and a red bowl with broccoli and a spoon, with a wine glass on the left side of the bowl.
+instruction: Add a wine glass on the left side of the bowl.
+taskid: 44222

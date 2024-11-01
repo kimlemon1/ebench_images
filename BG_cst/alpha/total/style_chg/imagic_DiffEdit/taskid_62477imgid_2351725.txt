@@ -1,0 +1,5 @@
+org_img_id: 2351725
+org_cap: a white airplane.
+trg_cap: A watercolor painting style art features a white airplane.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 62477

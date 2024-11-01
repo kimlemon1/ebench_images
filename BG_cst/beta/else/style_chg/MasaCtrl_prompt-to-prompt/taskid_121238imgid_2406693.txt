@@ -1,0 +1,5 @@
+org_img_id: 2406693
+org_cap: a woman stands beside a vintage bus, holding a white paper umbrella, its curved handle resting on her hip as she gazes up at the vehicle's headlights.
+trg_cap: The pop art style artwork depicts a woman standing beside a vintage bus, holding a white paper umbrella with its curved handle resting on her hip as she gazes up at the vehicle's headlights.
+instruction: Change the style if the image to pop art style.
+taskid: 121238

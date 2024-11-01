@@ -1,0 +1,5 @@
+org_img_id: 2404415
+org_cap: A surfing Caucasian person is seen on a surfboard, his eyes on the wave, his muscles beneath his skin.
+trg_cap: A surfing Caucasian person is seen on a surfboard, his eyes on the wave, his muscles beneath his skin, with a train on his back.
+instruction: Add a train on the person.
+taskid: 23392

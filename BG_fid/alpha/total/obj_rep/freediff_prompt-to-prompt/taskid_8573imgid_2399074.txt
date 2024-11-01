@@ -1,0 +1,5 @@
+org_img_id: 2399074
+org_cap: a lone person walking along the roadside, his green suitcase.
+trg_cap: a lone person walking along the roadside, their book.
+instruction: Replace the suitcase with a book.
+taskid: 8573

@@ -1,0 +1,5 @@
+org_img_id: 2405751
+org_cap: The marble sculpture of a book tower stands tall, its layers of pages and covers stacked precariously atop a wood bench, with a wood bench situated nearby.
+trg_cap: The marble sculpture of a book tower stands tall, its layers of pages and covers stacked precariously atop a small wood bench, with a wood bench situated nearby.
+instruction: Make the bench smaller.
+taskid: 97395

@@ -1,0 +1,5 @@
+org_img_id: 2335621
+org_cap: a man in a white shirt and blue necktie stands in a bathroom, looking at himself in the mirror.
+trg_cap: A man in a white shirt and blue necktie stands in a bathroom, looking at himself in the mirror, while the distant roar of a stadium crowd echoes in the background.
+instruction: Change the background to stadium.
+taskid: 10915

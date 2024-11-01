@@ -1,0 +1,5 @@
+org_img_id: 2338277
+org_cap: a person, person, on the concrete floor, his orange skateboard out from under his feet as he on the worn wooden bench, surrounded by the vibrant graffiti and street art that adorns the underground tunnel.
+trg_cap: "fork, fork, on the concrete floor, my orange skateboard out from under my feet as I, surrounded by the vibrant graffiti and street art that adorns the underground tunnel."
+instruction: Replace the person with a fork.
+taskid: 65818

@@ -1,0 +1,5 @@
+org_img_id: 2371786
+org_cap: A person in a blue wetsuit rides a surfboard on the ocean waves, his arms and legs as he across the water.
+trg_cap: An oil painting style art depicts a person in a blue wetsuit riding a surfboard on the ocean waves, his arms and legs extended as he glides across the water.
+instruction: Change the style if the image to oil painting style.
+taskid: 67708

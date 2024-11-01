@@ -1,0 +1,5 @@
+org_img_id: 2414675
+org_cap: This is a picture of a gray elephant on a riverbank with the water flowing around it.
+trg_cap: This is a picture of a tan elephant on a riverbank with the water flowing around it.
+instruction: Change the color of the elephant from gray to tan.
+taskid: 63567

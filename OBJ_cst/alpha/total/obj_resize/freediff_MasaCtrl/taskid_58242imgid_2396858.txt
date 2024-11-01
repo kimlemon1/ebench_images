@@ -1,0 +1,5 @@
+org_img_id: 2396858
+org_cap: Person on a yellow snowboard, her movements fluid and precise.
+trg_cap: Small person on a yellow snowboard, her movements fluid and precise.
+instruction: Make the person smaller.
+taskid: 58242

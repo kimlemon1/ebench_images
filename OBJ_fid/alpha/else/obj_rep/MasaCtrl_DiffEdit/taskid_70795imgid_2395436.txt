@@ -1,0 +1,5 @@
+org_img_id: 2395436
+org_cap: A standing white striped zebra stands in a grassy plain, its ears and its tail, surrounded by a sea of yellow and green grasses swaying gently in the breeze.
+trg_cap: A standing microwave stands in a grassy plain, surrounded by a sea of yellow and green grass swaying gently in the breeze.
+instruction: Replace the zebra with a microwave.
+taskid: 70795

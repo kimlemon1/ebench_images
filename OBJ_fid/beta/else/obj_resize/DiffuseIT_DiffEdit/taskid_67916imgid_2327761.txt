@@ -1,0 +1,5 @@
+org_img_id: 2327761
+org_cap: The clock face is a large, ornate clock with roman numerals and intricate details, standing tall against the sleek, modern skyscraper in the background.
+trg_cap: The clock face is a small, ornate clock with roman numerals and intricate details, standing tall against the sleek, modern skyscraper in the background.
+instruction: Make the clock smaller.
+taskid: 67916

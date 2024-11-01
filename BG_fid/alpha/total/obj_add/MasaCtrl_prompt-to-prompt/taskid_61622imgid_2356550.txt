@@ -1,0 +1,5 @@
+org_img_id: 2356550
+org_cap: The microwave is a white microwave with a rounded door and a digital control panel.
+trg_cap: The microwave is a white microwave with a rounded door and a digital control panel, and the keyboard is on the right side of the microwave.
+instruction: Add a keyboard on the right side of the microwave.
+taskid: 61622

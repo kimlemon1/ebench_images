@@ -1,0 +1,5 @@
+org_img_id: 2324814
+org_cap: a bespectacled person in a black suit and bow tie holds a slice of pizza in his hand, the cheese melted and the tomato sauce glistening in the light.
+trg_cap: On a mountain top, a bespectacled person in a black suit and bow tie holds a slice of pizza in his hand, the cheese melted and the tomato sauce glistening in the light.
+instruction: Change the background to mountain top.
+taskid: 10815

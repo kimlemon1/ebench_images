@@ -1,0 +1,5 @@
+org_img_id: 2348741
+org_cap: a person in a snow-covered landscape, wearing a bright orange jacket and snow pants, the wind through their hair as they through the powder.
+trg_cap: a person in a snow-covered landscape, wearing a bright orange jacket and snow pants, the wind through their hair as they through the powder, with a truck next to them.
+instruction: Add a truck next to the person.
+taskid: 75132

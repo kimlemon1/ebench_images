@@ -1,0 +1,5 @@
+org_img_id: 2404235
+org_cap: a person holds a steel bowl.
+trg_cap: a person holds a small steel bowl.
+instruction: Make the bowl smaller.
+taskid: 22253

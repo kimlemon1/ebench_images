@@ -1,0 +1,5 @@
+org_img_id: 2411991
+org_cap: a group of people, including a woman wearing a blue jacket and snow pants, and a man with blue backpack and snowshoes, walk through a winter forest, their snowshoes crunching on the snow-covered path.
+trg_cap: a group of people, including a woman wearing a blue jacket and snow pants, and a man with a blue backpack and snowshoes, with a handbag on the right side of the backpack, walk through a winter forest, their snowshoes crunching on the snow-covered path.
+instruction: Add a handbag on the right side of the backpack.
+taskid: 96406

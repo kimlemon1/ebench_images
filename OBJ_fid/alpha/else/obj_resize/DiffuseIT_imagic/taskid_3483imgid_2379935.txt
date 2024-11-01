@@ -1,0 +1,5 @@
+org_img_id: 2379935
+org_cap: in the image of the pizza
+trg_cap: in the image of the large pizza
+instruction: Make the pizza larger.
+taskid: 3483

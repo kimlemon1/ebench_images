@@ -1,0 +1,5 @@
+org_img_id: 2414851
+org_cap: A blue airplane taxis down the runway and takes off into the sky.
+trg_cap: A yellow airplane taxis down the runway and takes off into the sky.
+instruction: Change the color of the airplane from blue to yellow.
+taskid: 1505

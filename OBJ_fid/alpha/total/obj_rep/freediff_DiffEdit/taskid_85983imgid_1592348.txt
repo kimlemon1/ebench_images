@@ -1,0 +1,5 @@
+org_img_id: 1592348
+org_cap: Person sat in a conference room, surrounded by glass walls and a large screen displaying a presentation.
+trg_cap: A laptop sat in the conference room.
+instruction: Replace the person with a laptop.
+taskid: 85983

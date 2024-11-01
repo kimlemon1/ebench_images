@@ -1,0 +1,5 @@
+org_img_id: 2346155
+org_cap: Person stands in front of a large aircraft, its blue and white paint job gleaming in the sunlight.
+trg_cap: Person stands in front of a large aircraft, its blue and white paint job gleaming in the sunlight, with the entrance to a cave visible in the background.
+instruction: Change the background to cave.
+taskid: 46623

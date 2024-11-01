@@ -1,0 +1,5 @@
+org_img_id: 2397616
+org_cap: The open, white, off laptop sits on a wooden stand, its body reflecting the light of the room, with a sheen and a curve to its edges, its screen glowing in the dim light.
+trg_cap: The open, white, off laptop sits on a wooden stand in the middle of a grass field, its body reflecting the light of the room, with a sheen and a curve to its edges, its screen glowing in the dim light.
+instruction: Change the background to grass field.
+taskid: 64191

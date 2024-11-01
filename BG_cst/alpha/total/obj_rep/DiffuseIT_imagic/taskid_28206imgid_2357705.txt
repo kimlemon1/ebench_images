@@ -1,0 +1,5 @@
+org_img_id: 2357705
+org_cap: Person, his eyes fixed on the ground as he tries to shake off the frustration of giving up a run.
+trg_cap: Sports ball, as it tries to shake off the frustration of giving up a run.
+instruction: Replace the person with a sports ball.
+taskid: 28206

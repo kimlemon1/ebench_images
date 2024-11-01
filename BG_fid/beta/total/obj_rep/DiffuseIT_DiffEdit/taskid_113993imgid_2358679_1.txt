@@ -1,0 +1,5 @@
+org_img_id: 2358679_1
+org_cap: a white bus with a rounded front and rear, and a flat roof, parked at a bus stop, with a bicycle leaning against its rear wheel.
+trg_cap: A white bus with a rounded front and rear, and a flat roof, parked at a bus stop, with a dog.
+instruction: Replace the bicycle with a dog.
+taskid: 113993

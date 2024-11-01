@@ -1,0 +1,5 @@
+org_img_id: 2346668
+org_cap: a group of seniors sit on a wood bench, their worn faces gazing out at the vast expanse of sea.
+trg_cap: a group of seniors sit on a metal bench, their worn faces gazing out at the vast expanse of sea.
+instruction: Change the material of the bench from wood to metal.
+taskid: 86538

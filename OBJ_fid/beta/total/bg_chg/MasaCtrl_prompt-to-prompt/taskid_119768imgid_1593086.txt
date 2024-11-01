@@ -1,0 +1,5 @@
+org_img_id: 1593086
+org_cap: Person, wearing a bright blue snowboard suit and a yellow helmet, off a snowboard ramp, his snowboard out from under his feet as he on the snow.
+trg_cap: Person, wearing a bright blue snowboard suit and a yellow helmet, off a snowboard ramp, his snowboard out from under his feet as he on the snow, with the lush greenery of a tropical jungle surrounding the scene.
+instruction: Change the background to tropical jungle.
+taskid: 119768

@@ -1,0 +1,5 @@
+org_img_id: 2380606
+org_cap: The scene is focused on a dog wearing a black backpack, standing on a gravel driveway with a car in the background.
+trg_cap: The scene is focused on a dog wearing a small black backpack, standing on a gravel driveway with a car in the background.
+instruction: Make the backpack smaller.
+taskid: 60240

@@ -1,0 +1,5 @@
+org_img_id: 2407404
+org_cap: A skiing person is skiing down a snow-covered mountain, their skis leaving a trail of powder in their wake as they carve through the fresh snow.
+trg_cap: A skiing person is skiing down a snow-covered mountain, their skis leaving a trail of powder in their wake as they carve through the fresh snow, with a cell phone positioned in front of them.
+instruction: Add a cell phone in front of the person.
+taskid: 120568

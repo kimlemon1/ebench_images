@@ -1,0 +1,5 @@
+org_img_id: 2326902
+org_cap: a woman sits at a table, holding a slice of pizza with melted mozzarella cheese and tomato sauce on a crispy crust, next to another slice of pizza with pepperoni and mushrooms on a slightly charred base.
+trg_cap: a woman sits at a table, holding a small slice of pizza with melted mozzarella cheese and tomato sauce on a crispy crust, next to another small slice of pizza with pepperoni and mushrooms on a slightly charred base.
+instruction: Make the pizza smaller.
+taskid: 71357

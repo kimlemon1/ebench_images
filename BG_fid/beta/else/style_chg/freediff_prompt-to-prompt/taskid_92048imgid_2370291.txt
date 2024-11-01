@@ -1,0 +1,5 @@
+org_img_id: 2370291
+org_cap: a person on a bench, surrounded by a flock of pigeons pecking at crumbs on the grass.
+trg_cap: A watercolor painting depicts a person on a bench surrounded by a flock of pigeons pecking at crumbs on the grass.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 92048

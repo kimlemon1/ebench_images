@@ -1,0 +1,5 @@
+org_img_id: 2405486
+org_cap: person stands in front of a bathroom mirror, wearing a light blue dress shirt and holding a blue tie in his hand, with a black phone in front of him.
+trg_cap: person stands in front of a bathroom mirror, wearing a light blue dress shirt and holding a blue tie in his hand, with a silver phone in front of him.
+instruction: Change the color of the cell phone from black to silver.
+taskid: 9175

@@ -1,0 +1,5 @@
+org_img_id: 2362014
+org_cap: the room features a large flat screen tv mounted on the wall, surrounded by a minimalist decor with a beige couch, wooden coffee table, and a few pieces of modern art.
+trg_cap: The room features a large flat screen tv mounted on the wall, with a book behind it, surrounded by a minimalist decor with a beige couch, wooden coffee table, and a few pieces of modern art.
+instruction: Add a book behind the tv.
+taskid: 107960

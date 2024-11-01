@@ -1,0 +1,5 @@
+org_img_id: 2392599
+org_cap: the old wooden building with a worn wooden exterior and a rustic wooden porch features a parking meter with a faded sign and a rusty metal body.
+trg_cap: The old wooden building with a worn wooden exterior and a rustic wooden porch features a parking meter with a faded sign and a rusty metal body, on which a bicycle is parked.
+instruction: Add a bicycle on the parking meter.
+taskid: 22825

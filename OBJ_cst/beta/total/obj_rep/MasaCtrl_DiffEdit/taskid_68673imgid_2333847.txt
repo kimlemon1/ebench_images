@@ -1,0 +1,5 @@
+org_img_id: 2333847
+org_cap: The motorcycle has a sleek design with a shiny black body and a gleaming chrome handlebar, with a large storage trunk attached to the back, and a single rider sitting astride it, looking out at the rolling hills and distant mountains in the background.
+trg_cap: The scissors, with a single rider sitting astride them, looking out at the rolling hills and distant mountains in the background.
+instruction: Replace the motorcycle with a scissors.
+taskid: 68673

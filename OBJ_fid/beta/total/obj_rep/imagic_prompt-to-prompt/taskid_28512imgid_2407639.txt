@@ -1,0 +1,5 @@
+org_img_id: 2407639
+org_cap: the luxurious cabin features a large wooden desk with a tv mounted above it, surrounded by plush carpets and gleaming wooden paneling.
+trg_cap: The luxurious cabin features a large wooden vase, surrounded by plush carpets and gleaming wood paneling.
+instruction: Replace the tv with a vase.
+taskid: 28512

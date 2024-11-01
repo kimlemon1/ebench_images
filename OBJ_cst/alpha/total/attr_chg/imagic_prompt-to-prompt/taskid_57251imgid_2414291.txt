@@ -1,0 +1,5 @@
+org_img_id: 2414291
+org_cap: A blue train glides into the station, its wheels screeching softly on the tracks as it comes to a stop, surrounded by the bustling activity of the station.
+trg_cap: A clear train glides into the station, its wheels screeching softly on the tracks as it comes to a stop, surrounded by the bustling activity of the station.
+instruction: Change the color of the train from blue to clear.
+taskid: 57251

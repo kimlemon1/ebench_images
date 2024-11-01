@@ -1,0 +1,5 @@
+org_img_id: 2377467
+org_cap: a group of sheep, their woolly coats glistening in the sunlight, are being herded by a person, their rugged boots and worn hat a testament to their rugged occupation, as they move across a large tarpaulin.
+trg_cap: A Van Gogh style art depicts a group of sheep with woolly coats glistening in the sunlight, being herded by a person whose rugged boots and worn hat testify to their rugged occupation, as they move across a large tarpaulin.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 115696

@@ -1,0 +1,5 @@
+org_img_id: 2335926
+org_cap: A white surfboard sits upright on the sandy beach, surrounded by sunbathing people and a clear blue sky with a few wispy clouds.
+trg_cap: A teal surfboard sits upright on the sandy beach, surrounded by sunbathing people and a clear blue sky with a few wispy clouds.
+instruction: Change the color of the surfboard from white to teal.
+taskid: 112667

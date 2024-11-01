@@ -1,0 +1,5 @@
+org_img_id: 2332628
+org_cap: a teddy bear perched on a street sign, its soft fur fluffed out and its teddy bear eyes staring blankly into the distance.
+trg_cap: The pop art style artwork features a teddy bear perched on a street sign, its soft fur fluffed out and its eyes staring blankly into the distance.
+instruction: Change the style if the image to pop art style.
+taskid: 113290

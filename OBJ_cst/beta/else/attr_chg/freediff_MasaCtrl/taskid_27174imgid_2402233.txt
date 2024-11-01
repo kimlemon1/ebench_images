@@ -1,0 +1,5 @@
+org_img_id: 2402233
+org_cap: A person holds a black frisbee.
+trg_cap: A person holds a yellow frisbee.
+instruction: Change the color of the frisbee from black to yellow.
+taskid: 27174

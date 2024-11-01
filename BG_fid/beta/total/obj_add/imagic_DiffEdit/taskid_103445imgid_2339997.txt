@@ -1,0 +1,5 @@
+org_img_id: 2339997
+org_cap: a lone person strums a guitar on the boardwalk, his fingers over the strings as he sings a tune to a handful of persons.
+trg_cap: A lone person strums a guitar on the boardwalk, his fingers over the strings as he sings a tune to a handful of persons, with a donut next to him.
+instruction: Add a donut next to the person.
+taskid: 103445

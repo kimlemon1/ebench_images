@@ -1,0 +1,5 @@
+org_img_id: 2384986
+org_cap: A yellow train travels along the train, its sleek body gliding effortlessly across the landscape, with its bright blue and white livery standing out against the green countryside.
+trg_cap: A yellow traffic light travels along the train, with the train's bright blue and white livery standing out against the green countryside.
+instruction: Replace the train with a traffic light.
+taskid: 119385

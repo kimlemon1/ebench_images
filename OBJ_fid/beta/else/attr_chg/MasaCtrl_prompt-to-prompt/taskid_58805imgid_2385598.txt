@@ -1,0 +1,5 @@
+org_img_id: 2385598
+org_cap: a person in a gray shirt throws a red frisbee under a blue sky with fluffy white clouds and green trees in the background.
+trg_cap: a person in a gray shirt throws a white frisbee under a blue sky with fluffy white clouds and green trees in the background.
+instruction: Change the color of the frisbee from red to white.
+taskid: 58805

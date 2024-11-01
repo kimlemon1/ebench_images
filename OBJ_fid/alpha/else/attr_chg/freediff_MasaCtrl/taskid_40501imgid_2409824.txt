@@ -1,0 +1,5 @@
+org_img_id: 2409824
+org_cap: a small boy's chubby hand holds a silver knife, with frosting and sprinkles covering its surface.
+trg_cap: a small boy's chubby hand holds a silver knife, with frosting and sprinkles covering its surface.
+instruction: Change the color of the cake from red to ivory.
+taskid: 40501

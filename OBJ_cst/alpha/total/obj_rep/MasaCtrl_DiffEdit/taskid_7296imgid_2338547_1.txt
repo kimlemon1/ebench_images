@@ -1,0 +1,5 @@
+org_img_id: 2338547_1
+org_cap: a young person wearing blue shorts and a black t-shirt stands on a skateboard with protective gear on his knees and elbows.
+trg_cap: The young person wearing blue shorts and a black t-shirt stands on a motorcycle.
+instruction: Replace the skateboard with a motorcycle.
+taskid: 7296

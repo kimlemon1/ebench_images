@@ -1,0 +1,5 @@
+org_img_id: 2386609
+org_cap: industry - the black, off tv
+trg_cap: industry - the black, on tv
+instruction: Change the state of the tv from off to on.
+taskid: 13442

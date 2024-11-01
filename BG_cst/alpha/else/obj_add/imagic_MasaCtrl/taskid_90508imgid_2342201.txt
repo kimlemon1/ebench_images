@@ -1,0 +1,5 @@
+org_img_id: 2342201
+org_cap: A black bird perches on a rocky outcropping, its feathers in the sunlight as it its surroundings with eyes.
+trg_cap: A black bird perches on a rocky outcropping, its feathers in the sunlight as it its surroundings with eyes, next to a banana.
+instruction: Add a banana next to the bird.
+taskid: 90508

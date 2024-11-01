@@ -1,0 +1,5 @@
+org_img_id: 2327487
+org_cap: A blue kite soared through the sky, its string held taut by a person as it danced in the wind, while a group of people sat on the grass below, watching with interest.
+trg_cap: A black and white kite soared through the sky, its string held taut by a person as it danced in the wind, while a group of people sat on the grass below, watching with interest.
+instruction: Change the color of the kite from blue to black and white.
+taskid: 53637

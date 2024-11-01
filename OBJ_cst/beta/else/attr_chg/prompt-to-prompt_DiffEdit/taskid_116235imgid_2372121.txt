@@ -1,0 +1,5 @@
+org_img_id: 2372121
+org_cap: A stained, old, wood bench stands against a white wall, its worn slats and faded finish blending with the surrounding environment, while a small window above the bench frames a glimpse of the pool's turquoise waters.
+trg_cap: A stained, new, wood bench stands against a white wall, its worn slats and faded finish blending with the surrounding environment, while a small window above the bench frames a glimpse of the pool's turquoise waters.
+instruction: Change the state of the bench from old to new.
+taskid: 116235

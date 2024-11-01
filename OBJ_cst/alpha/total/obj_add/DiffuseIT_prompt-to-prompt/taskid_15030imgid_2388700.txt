@@ -1,0 +1,5 @@
+org_img_id: 2388700
+org_cap: a majestic elephant, ridden by a dignified person, proceeds down the street, under a colorful umbrella, flanked by police officers on horses and a parade of people waving flags.
+trg_cap: A majestic elephant, ridden by a dignified person, proceeds down the street, under a colorful umbrella with a dog beneath it, flanked by police officers on horses and a parade of people waving flags.
+instruction: Add a dog under the umbrella.
+taskid: 15030

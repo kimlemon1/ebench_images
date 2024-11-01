@@ -1,0 +1,5 @@
+org_img_id: 2368037
+org_cap: A middle-aged woman with a warm smile and a gentle laugh is holding a yellow plastic frisbee in her hand, her arm cocked back and her wrist cocked forward as she prepares to throw the frisbee.
+trg_cap: A middle-aged woman with a warm smile and a gentle laugh is holding a yellow plastic frisbee in her hand, her arm cocked back and her wrist cocked forward as she prepares to throw the frisbee in the hospital courtyard.
+instruction: Change the background to hospital.
+taskid: 117494

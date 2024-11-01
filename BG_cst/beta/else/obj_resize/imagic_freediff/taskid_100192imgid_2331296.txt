@@ -1,0 +1,5 @@
+org_img_id: 2331296
+org_cap: a small person holds a black umbrella above their head, with bright red rain boots and a colorful raincoat, splashing in puddles on a rainy day.
+trg_cap: a small person holds a small black umbrella above their head, with bright red rain boots and a colorful raincoat, splashing in puddles on a rainy day.
+instruction: Make the umbrella smaller.
+taskid: 100192

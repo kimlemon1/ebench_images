@@ -1,0 +1,5 @@
+org_img_id: 2404819
+org_cap: A standing brown horse with a gleaming wooden carriage and a proud driver sits at the curb, awaiting its next passenger.
+trg_cap: A standing yellow horse with a gleaming wooden carriage and a proud driver sits at the curb, awaiting its next passenger.
+instruction: Change the color of the horse from brown to yellow.
+taskid: 47075

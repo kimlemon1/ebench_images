@@ -1,0 +1,5 @@
+org_img_id: 2344552
+org_cap: person stands on a paddleboard in the ocean, his bronzed skin glistening with sweat, his chiseled abs as he through the calm waters.
+trg_cap: A large person stands on a paddleboard in the ocean, his bronzed skin glistening with sweat, his chiseled abs as he through the calm waters.
+instruction: Make the person larger.
+taskid: 63014

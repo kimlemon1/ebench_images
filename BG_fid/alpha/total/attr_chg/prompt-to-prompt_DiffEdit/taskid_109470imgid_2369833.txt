@@ -1,0 +1,5 @@
+org_img_id: 2369833
+org_cap: A gray metal train glides smoothly along the tracks, its wheels clicking in unison as it approaches the station.
+trg_cap: A dark blue metal train glides smoothly along the tracks, its wheels clicking in unison as it approaches the station.
+instruction: Change the color of the train from gray to dark blue.
+taskid: 109470

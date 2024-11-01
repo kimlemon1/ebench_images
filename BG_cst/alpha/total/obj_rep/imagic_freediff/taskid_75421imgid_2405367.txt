@@ -1,0 +1,5 @@
+org_img_id: 2405367
+org_cap: the truck is a rusty old truck with a worn-out paint job and a cracked windshield, driving down a dusty road with a herd of sheep and a few stray sheepdogs running alongside it.
+trg_cap: The zebra, driving down a dusty road with a herd of sheep and a few stray sheepdogs running alongside them.
+instruction: Replace the truck with a zebra.
+taskid: 75421

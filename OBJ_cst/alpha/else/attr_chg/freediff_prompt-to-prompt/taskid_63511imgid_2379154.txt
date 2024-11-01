@@ -1,0 +1,5 @@
+org_img_id: 2379154
+org_cap: a black dog, with an ear and a tail, through the air, after a bright orange ball as children and adults alike watch in delight.
+trg_cap: a brown dog, with an ear and a tail, through the air, after a bright orange ball as children and adults alike watch in delight.
+instruction: Change the color of the dog from black to brown.
+taskid: 63511

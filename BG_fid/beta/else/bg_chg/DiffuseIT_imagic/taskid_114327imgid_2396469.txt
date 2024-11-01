@@ -1,0 +1,5 @@
+org_img_id: 2396469
+org_cap: a lone surfer in a black wetsuit stands on a rocky coastline, holding a white surfboard and gazing out at the waves.
+trg_cap: A lone surfer in a black wetsuit stands on a rocky coastline, holding a white surfboard and gazing out at the waves, reminiscent of a scene from an aquarium exhibit showcasing the beauty of marine life.
+instruction: Change the background to aquarium.
+taskid: 114327

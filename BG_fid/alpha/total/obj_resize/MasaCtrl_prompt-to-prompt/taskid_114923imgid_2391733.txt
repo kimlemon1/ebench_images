@@ -1,0 +1,5 @@
+org_img_id: 2391733
+org_cap: Surfing person on a sunny day, his wetsuit glistening with sea spray as he with a grin.
+trg_cap: Surfing small person on a sunny day, his wetsuit glistening with sea spray as he with a grin.
+instruction: Make the person smaller.
+taskid: 114923

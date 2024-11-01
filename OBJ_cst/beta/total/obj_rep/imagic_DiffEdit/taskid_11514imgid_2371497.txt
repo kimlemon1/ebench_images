@@ -1,0 +1,5 @@
+org_img_id: 2371497
+org_cap: a white train with a rounded front and a flat roof, featuring a prominent front window and a row of windows along the sides, is seen departing from a train station platform.
+trg_cap: A white handbag is seen being carried away from a train station platform.
+instruction: Replace the train with a handbag.
+taskid: 11514

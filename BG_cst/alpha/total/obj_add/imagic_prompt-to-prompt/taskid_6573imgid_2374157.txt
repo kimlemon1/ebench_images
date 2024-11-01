@@ -1,0 +1,5 @@
+org_img_id: 2374157
+org_cap: person with skis over his shoulder, his bright orange jacket a splash of color against the monochromatic winter landscape.
+trg_cap: person with skis over his shoulder, his bright orange jacket a splash of color against the monochromatic winter landscape, with a dog perched on the skis.
+instruction: Add a dog on the skis.
+taskid: 6573

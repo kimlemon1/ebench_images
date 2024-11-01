@@ -1,0 +1,5 @@
+org_img_id: 2407865
+org_cap: The gold clock features a round face with roman numerals and a subtle patina, surrounded by a decorative metal frame with intricate details and a soft blue glow emanating from the background.
+trg_cap: The gray clock features a round face with roman numerals and a subtle patina, surrounded by a decorative metal frame with intricate details and a soft blue glow emanating from the background.
+instruction: Change the color of the clock from gold to gray.
+taskid: 30032

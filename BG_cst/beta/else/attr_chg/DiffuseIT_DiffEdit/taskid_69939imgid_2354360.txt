@@ -1,0 +1,5 @@
+org_img_id: 2354360
+org_cap: A blue fire hydrant stands on a residential street, with a painted portrait of a person wearing glasses and a stern expression on its side.
+trg_cap: A pink fire hydrant stands on a residential street, with a painted portrait of a person wearing glasses and a stern expression on its side.
+instruction: Change the color of the fire hydrant from blue to pink.
+taskid: 69939

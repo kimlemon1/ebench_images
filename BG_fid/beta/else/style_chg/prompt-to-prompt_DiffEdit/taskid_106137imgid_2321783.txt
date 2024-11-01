@@ -1,0 +1,5 @@
+org_img_id: 2321783
+org_cap: A black bear sits on a bear, its fur a deep brown color, with a worn bear and some green in the background.
+trg_cap: A graffiti art piece features a black bear sitting on a bear, its fur a deep brown color, with a worn bear and some green in the background.
+instruction: Change the style if the image to graffiti art.
+taskid: 106137

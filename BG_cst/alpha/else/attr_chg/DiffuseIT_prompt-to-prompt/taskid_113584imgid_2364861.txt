@@ -1,0 +1,5 @@
+org_img_id: 2364861
+org_cap: Young person stands on a wood skateboard in the school playground, wearing a helmet and a shirt, her jeans and her sneakers.
+trg_cap: Young person stands on a metal skateboard in the school playground, wearing a helmet and a shirt, her jeans and her sneakers.
+instruction: Change the material of the skateboard from wood to metal.
+taskid: 113584

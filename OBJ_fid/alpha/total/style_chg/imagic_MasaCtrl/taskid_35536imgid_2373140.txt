@@ -1,0 +1,5 @@
+org_img_id: 2373140
+org_cap: a person throws a frisbee upwards, his arm extended and his hand open, the frisbee soaring into the sky as he watches it disappear into the clouds.
+trg_cap: The pencil sketch art depicts a person throwing a frisbee upwards, his arm extended and hand open, as he watches it soar into the sky and disappear into the clouds.
+instruction: Change the style if the image to pencil sketch.
+taskid: 35536

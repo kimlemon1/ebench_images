@@ -1,0 +1,5 @@
+org_img_id: 2362077
+org_cap: a red train with yellow stripes and a long train carrying sheep and a green train in the background.
+trg_cap: A red train with yellow stripes and a long train carrying sheep and a green train in the background, all set against the backdrop of a bustling restaurant.
+instruction: Change the background to restaurant.
+taskid: 6032

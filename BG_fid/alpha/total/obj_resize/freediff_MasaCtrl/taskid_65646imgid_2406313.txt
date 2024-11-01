@@ -1,0 +1,5 @@
+org_img_id: 2406313
+org_cap: person rides a brown, running horse, the horse's hooves the dirt track as person holds the reins and guides the horse.
+trg_cap: person rides a large, brown, running horse, the horse's hooves the dirt track as person holds the reins and guides the horse.
+instruction: Make the horse larger.
+taskid: 65646

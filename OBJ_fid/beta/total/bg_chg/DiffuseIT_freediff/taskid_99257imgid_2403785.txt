@@ -1,0 +1,5 @@
+org_img_id: 2403785
+org_cap: the gray, striped cat lying on a desk, its paws around a piece of paper as if holding a secret.
+trg_cap: The gray, striped cat lying on a desk, its paws around a piece of paper as if holding a secret, with the scent of a pine forest wafting through the open window.
+instruction: Change the background to pine forest.
+taskid: 99257

@@ -1,0 +1,5 @@
+org_img_id: 2391851
+org_cap: The white toilet is situated in a cramped bathroom with a single window, surrounded by dull, gray tiles and a sink with a worn, gray faucet.
+trg_cap: The pink toilet is situated in a cramped bathroom with a single window, surrounded by dull, gray tiles and a sink with a worn, gray faucet.
+instruction: Change the color of the toilet from white to pink.
+taskid: 9327

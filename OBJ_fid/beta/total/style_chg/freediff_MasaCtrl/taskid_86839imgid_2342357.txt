@@ -1,0 +1,5 @@
+org_img_id: 2342357
+org_cap: a skateboarder leaps over a barrier, his black skateboard gliding as he lands with a thud, his legs bent in a fluid motion.
+trg_cap: The graffiti art depicts a skateboarder leaping over a barrier, his black skateboard gliding as he lands with a thud, his legs bent in a fluid motion.
+instruction: Change the style if the image to graffiti art.
+taskid: 86839

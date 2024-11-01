@@ -1,0 +1,5 @@
+org_img_id: 2371157
+org_cap: a sleek, white airplane with a curved wing and a pointed nose soars through the sky, its engines roaring as it leaves a trail of white clouds behind it.
+trg_cap: In the gym-themed mural, a sleek, white airplane with a curved wing and a pointed nose soars through the sky, its engines roaring as it leaves a trail of white clouds behind it.
+instruction: Change the background to gym.
+taskid: 24437

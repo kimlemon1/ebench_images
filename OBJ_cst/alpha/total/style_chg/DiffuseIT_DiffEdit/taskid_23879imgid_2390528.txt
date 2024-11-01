@@ -1,0 +1,5 @@
+org_img_id: 2390528
+org_cap: a woman sits on a brown chair in a shop filled with handmade leather goods and fantasy-inspired items, her eyes fixed on a smartphone in her hand.
+trg_cap: The art, in a watercolor painting style, depicts a woman sitting on a brown chair in a shop filled with handmade leather goods and fantasy-inspired items, her eyes fixed on a smartphone in her hand.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 23879

@@ -1,0 +1,5 @@
+org_img_id: 2329656
+org_cap: The clock tower stands tall, its stone façade adorned with intricate carvings and a large clock face at its peak, with a subtle nod to the ornate details that adorn its exterior.
+trg_cap: The clock tower stands tall, its stone façade adorned with intricate carvings and a large clock face at its peak, with a subtle nod to the ornate details that adorn its exterior, and a book hidden behind the clock.
+instruction: Add a book behind the clock.
+taskid: 113682

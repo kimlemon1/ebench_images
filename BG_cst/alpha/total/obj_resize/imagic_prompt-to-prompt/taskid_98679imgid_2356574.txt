@@ -1,0 +1,5 @@
+org_img_id: 2356574
+org_cap: a bright yellow meter and a rusty fire hydrant sit side by side on a worn brick wall.
+trg_cap: a bright yellow meter and a large rusty fire hydrant sit side by side on a worn brick wall.
+instruction: Make the fire hydrant larger.
+taskid: 98679

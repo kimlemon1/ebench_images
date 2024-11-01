@@ -1,0 +1,5 @@
+org_img_id: 362
+org_cap: a person in a black coat and a briefcase, passing a stop sign with a handwritten note that reads "i'm not a morning person" in red marker.
+trg_cap: The art, in a watercolor painting style, depicts a person in a black coat with a briefcase passing a stop sign that has a handwritten note reading "I'm not a morning person" in red marker.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 120383

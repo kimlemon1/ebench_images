@@ -1,0 +1,5 @@
+org_img_id: 2369772
+org_cap: An orange carrot sits next to a worn-out teddy bear on a wooden table.
+trg_cap: An orange carrot sits next to a worn-out teddy bear on a wooden table in a bustling urban apartment.
+instruction: Change the background to urban city.
+taskid: 58159

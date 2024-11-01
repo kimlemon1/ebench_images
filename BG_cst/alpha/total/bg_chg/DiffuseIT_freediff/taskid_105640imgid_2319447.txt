@@ -1,0 +1,5 @@
+org_img_id: 2319447
+org_cap: person on his yellow snowboard, his yellow snowboard over the fresh powder as he a path through the trees.
+trg_cap: Person on his yellow snowboard, his yellow snowboard over the fresh powder as he a path through the trees, reminiscent of the hospital corridors he navigated during his recovery.
+instruction: Change the background to hospital.
+taskid: 105640

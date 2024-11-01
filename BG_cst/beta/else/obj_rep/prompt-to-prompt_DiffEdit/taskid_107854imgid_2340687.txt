@@ -1,0 +1,5 @@
+org_img_id: 2340687
+org_cap: A black dog stands on the snow-covered slope, wearing a red collar and leash, while a human in a bright orange jacket and snow pants stands behind, camera in hand.
+trg_cap: A black baseball glove stands on the snow-covered slope, while a person in a bright orange jacket and snow pants stands behind, camera in hand.
+instruction: Replace the dog with a baseball glove.
+taskid: 107854

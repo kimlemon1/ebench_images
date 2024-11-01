@@ -1,0 +1,5 @@
+org_img_id: 2322124
+org_cap: a young person rides a skateboard down the sidewalk, his feet gripping the skateboard as he navigates around a parked bicycle.
+trg_cap: An oil painting style art depicts a young person riding a skateboard down the sidewalk, his feet gripping the skateboard as he navigates around a parked bicycle.
+instruction: Change the style if the image to oil painting style.
+taskid: 97960

@@ -1,0 +1,5 @@
+org_img_id: 2396076
+org_cap: an gray elephant in front of a wooden fence, its tusks visible, and a piece of bamboo in its trunk.
+trg_cap: an black elephant in front of a wooden fence, its tusks visible, and a piece of bamboo in its trunk.
+instruction: Change the color of the elephant from gray to black.
+taskid: 9458

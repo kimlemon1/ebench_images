@@ -1,0 +1,5 @@
+org_img_id: 2369304
+org_cap: a white clock dominates the skyline, its large numbers and bold design standing out against the modern glass and steel skyscrapers in the background.
+trg_cap: A white clock dominates the skyline, its large numbers and bold design standing out against the modern glass and steel skyscrapers in the background, with a person standing directly beneath it.
+instruction: Add a person under the clock.
+taskid: 63610

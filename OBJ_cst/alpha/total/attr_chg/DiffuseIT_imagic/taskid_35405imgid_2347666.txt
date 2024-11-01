@@ -1,0 +1,5 @@
+org_img_id: 2347666
+org_cap: a silver train chugs along a wooden train, its wheels clicking on the silver train as it winds its way through a train filled with train and train.
+trg_cap: a gray train chugs along a wooden train, its wheels clicking on the gray train as it winds its way through a train filled with train and train.
+instruction: Change the color of the train from silver to gray.
+taskid: 35405

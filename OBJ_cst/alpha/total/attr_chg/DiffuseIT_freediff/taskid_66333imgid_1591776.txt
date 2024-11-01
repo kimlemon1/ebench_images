@@ -1,0 +1,5 @@
+org_img_id: 1591776
+org_cap: person gestures towards an open, black laptop, pointing to an image.
+trg_cap: person gestures towards an open, orange laptop, pointing to an image.
+instruction: Change the color of the laptop from black to orange.
+taskid: 66333

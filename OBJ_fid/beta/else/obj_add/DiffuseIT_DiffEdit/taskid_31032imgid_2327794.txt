@@ -1,0 +1,5 @@
+org_img_id: 2327794
+org_cap: the clock tower stands tall and proud, its stone façade weathered to a warm beige, with intricate carvings and ornate details adorning its exterior, while the surrounding buildings and trees provide a subtle contrast to its grandeur.
+trg_cap: The clock tower stands tall and proud, its stone façade weathered to a warm beige, with intricate carvings and ornate details adorning its exterior, while the surrounding buildings and trees provide a subtle contrast to its grandeur, and a truck is positioned behind the clock.
+instruction: Add a truck behind the clock.
+taskid: 31032

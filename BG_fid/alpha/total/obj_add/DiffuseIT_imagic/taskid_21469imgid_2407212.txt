@@ -1,0 +1,5 @@
+org_img_id: 2407212
+org_cap: The cell phone in the scene is a sleek and modern cell phone with a white back and a black screen.
+trg_cap: The cell phone in the scene is a sleek and modern cell phone with a white back and a black screen, and a cow is on the right side of the cell phone.
+instruction: Add a cow on the right side of the cell phone.
+taskid: 21469

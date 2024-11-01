@@ -1,0 +1,5 @@
+org_img_id: 2387660
+org_cap: a red truck parked in a dusty lot surrounded by trees and a few scraps of trash.
+trg_cap: a brown truck parked in a dusty lot surrounded by trees and a few scraps of trash.
+instruction: Change the color of the truck from red to brown.
+taskid: 103340

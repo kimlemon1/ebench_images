@@ -1,0 +1,5 @@
+org_img_id: 2417361
+org_cap: a person holds a colorful umbrella, with a bright red hat and a yellow jacket.
+trg_cap: a person holds a large colorful umbrella, with a bright red hat and a yellow jacket.
+instruction: Make the umbrella larger.
+taskid: 7437

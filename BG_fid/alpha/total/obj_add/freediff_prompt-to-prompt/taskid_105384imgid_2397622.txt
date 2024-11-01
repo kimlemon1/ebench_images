@@ -1,0 +1,5 @@
+org_img_id: 2397622
+org_cap: The porcelain white sink is mounted on a wooden cabinet with a brown finish.
+trg_cap: The porcelain white sink is mounted on a wooden cabinet with a brown finish, with the TV located on the right side of the sink.
+instruction: Add a tv on the right side of the sink.
+taskid: 105384

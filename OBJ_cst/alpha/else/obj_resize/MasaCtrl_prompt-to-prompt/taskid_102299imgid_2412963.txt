@@ -1,0 +1,5 @@
+org_img_id: 2412963
+org_cap: Person, with a ruggedly handsome face and a strong physique, is shown in mid-air on his surfboard.
+trg_cap: Person, with a ruggedly handsome face and a large, strong physique, is shown in mid-air on his surfboard.
+instruction: Make the person larger.
+taskid: 102299

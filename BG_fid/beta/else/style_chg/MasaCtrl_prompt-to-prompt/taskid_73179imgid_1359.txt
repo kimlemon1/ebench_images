@@ -1,0 +1,5 @@
+org_img_id: 1359
+org_cap: The spoon is a silver spoon with a subtle green glaze.
+trg_cap: A Van Gogh style art piece features a silver spoon with a subtle green glaze.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 73179

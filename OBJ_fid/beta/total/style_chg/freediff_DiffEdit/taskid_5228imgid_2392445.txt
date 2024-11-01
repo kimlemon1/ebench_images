@@ -1,0 +1,5 @@
+org_img_id: 2392445
+org_cap: a grey and white cat lies on a soft, light grey blanket, its fur fluffed up and its eyes fixed intently on a metal fork.
+trg_cap: A pencil sketch art depicts a grey and white cat lying on a soft, light grey blanket, its fur fluffed up and its eyes fixed intently on a metal fork.
+instruction: Change the style if the image to pencil sketch.
+taskid: 5228

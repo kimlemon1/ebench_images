@@ -1,0 +1,5 @@
+org_img_id: 2379905
+org_cap: The cat is a grey and white striped cat with a relaxed posture, on a woven rattan chair in the warm sunlight.
+trg_cap: The cat is a large grey and white striped cat with a relaxed posture, on a woven rattan chair in the warm sunlight.
+instruction: Make the cat larger.
+taskid: 86489

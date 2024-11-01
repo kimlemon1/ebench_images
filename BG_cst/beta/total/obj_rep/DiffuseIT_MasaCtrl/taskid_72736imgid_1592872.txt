@@ -1,0 +1,5 @@
+org_img_id: 1592872
+org_cap: The bus is a double-decker bus with a bright green livery and a yellow stripe running along its sides, featuring a large advertisement for a local business on its rear deck.
+trg_cap: The laptop features a large advertisement for a local business on its lid.
+instruction: Replace the bus with a laptop.
+taskid: 72736

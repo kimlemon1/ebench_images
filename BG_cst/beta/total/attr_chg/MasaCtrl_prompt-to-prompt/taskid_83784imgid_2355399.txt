@@ -1,0 +1,5 @@
+org_img_id: 2355399
+org_cap: The clock face on the black clock is a dial with roman numerals and a decorative gold border.
+trg_cap: The clock face on the red clock is a dial with roman numerals and a decorative gold border.
+instruction: Change the color of the clock from black to red.
+taskid: 83784

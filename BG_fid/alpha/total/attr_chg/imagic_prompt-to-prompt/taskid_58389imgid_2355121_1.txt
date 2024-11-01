@@ -1,0 +1,5 @@
+org_img_id: 2355121_1
+org_cap: a woman holds a brown dog in her arms, the dog's paws at her sweater as it into the warmth.
+trg_cap: a woman holds a speckled dog in her arms, the dog's paws at her sweater as it into the warmth.
+instruction: Change the color of the dog from brown to speckled.
+taskid: 58389

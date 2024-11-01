@@ -1,0 +1,5 @@
+org_img_id: 2343662
+org_cap: a young person, with a bright blue rash guard and a pair of swim trunks, with a big smile on her face.
+trg_cap: A young person, with a bright blue rash guard and a pair of swim trunks, with a big smile on her face, stands amidst the lush rows of a vineyard.
+instruction: Change the background to vineyard.
+taskid: 12067

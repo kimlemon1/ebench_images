@@ -1,0 +1,5 @@
+org_img_id: 2413332
+org_cap: standing person rides a white surfboard, feet surfing gripping the.
+trg_cap: A standing person rides a bench.
+instruction: Replace the surfboard with a bench.
+taskid: 7538

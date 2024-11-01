@@ -1,0 +1,5 @@
+org_img_id: 2379137
+org_cap: Person stands in the bedroom, holding a pillowcase.
+trg_cap: Person stands in the bedroom of a high-rise apartment, holding a pillowcase, with the sounds of the bustling urban city filtering in through the window.
+instruction: Change the background to urban city.
+taskid: 91877

@@ -1,0 +1,5 @@
+org_img_id: 2410400
+org_cap: Skating, surfing person is seen on a surfboard, with the sun setting in the background and a mountain range visible in the distance.
+trg_cap: Skating, surfing person is seen on a surfboard, with the sun setting in the background and a mountain range visible in the distance, with a fork behind the person.
+instruction: Add a fork behind the person.
+taskid: 57078

@@ -1,0 +1,5 @@
+org_img_id: 2362462
+org_cap: a person sits on a bamboo raft, holding an umbrella above them as they glide across the calm waters.
+trg_cap: A person sits on a bamboo raft, holding an umbrella above them as they glide across the calm waters, with a giraffe on the right side of the umbrella.
+instruction: Add a giraffe on the right side of the umbrella.
+taskid: 61534

@@ -1,0 +1,5 @@
+org_img_id: 2333498
+org_cap: a young person with a green umbrella and a pink sweater and black leggings across a cobblestone street, a plastic bag and through the rain-soaked city.
+trg_cap: a bed across a cobblestone street, a plastic bag, and it through the rain-soaked city.
+instruction: Replace the person with a bed.
+taskid: 117801

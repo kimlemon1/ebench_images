@@ -1,0 +1,5 @@
+org_img_id: 2385523
+org_cap: The kitchen features a black metal microwave situated above a granite countertop, flanked by white cabinets and a large window above the sink.
+trg_cap: The kitchen features a black aluminum microwave situated above a granite countertop, flanked by white cabinets and a large window above the sink.
+instruction: Change the material of the microwave from metal to aluminum.
+taskid: 103998

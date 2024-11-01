@@ -1,0 +1,5 @@
+org_img_id: 2365030
+org_cap: a brown dog, its short legs as it along the pavement.
+trg_cap: a brown dog, its short legs as it along the small skateboard on the pavement.
+instruction: Make the skateboard smaller.
+taskid: 2126

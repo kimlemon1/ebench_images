@@ -1,0 +1,5 @@
+org_img_id: 2341095
+org_cap: The sink is made of white marble with a subtle sheen, and the sink is a blue sink.
+trg_cap: The sink is made of white marble with a subtle sheen, and the sink is a blue sink. The toothbrush is in the cup.
+instruction: Add a toothbrush on the cup.
+taskid: 88143

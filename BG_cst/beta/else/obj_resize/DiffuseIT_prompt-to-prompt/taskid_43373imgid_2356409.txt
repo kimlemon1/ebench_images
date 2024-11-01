@@ -1,0 +1,5 @@
+org_img_id: 2356409
+org_cap: Person swings his bat as he rounds the bases after hitting a home run.
+trg_cap: A small person swings his bat as he rounds the bases after hitting a home run.
+instruction: Make the person smaller.
+taskid: 43373

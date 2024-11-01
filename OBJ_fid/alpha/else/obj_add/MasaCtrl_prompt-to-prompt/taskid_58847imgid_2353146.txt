@@ -1,0 +1,5 @@
+org_img_id: 2353146
+org_cap: A riding person across the sandy beach, its mane in the ocean breeze as a riding person side by side, their eyes fixed on the horizon.
+trg_cap: A riding person across the sandy beach, its mane in the ocean breeze as a riding person side by side, their eyes fixed on the horizon, with a kite soaring above them.
+instruction: Add a kite above the person.
+taskid: 58847

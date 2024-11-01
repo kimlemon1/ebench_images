@@ -1,0 +1,5 @@
+org_img_id: 2365002
+org_cap: The person holds a plastic bottle in their hand, with the nozzle tilted towards the thirsty golden retriever's open mouth.
+trg_cap: A cartoon style art depicts a person holding a plastic bottle with the nozzle tilted towards a thirsty golden retriever's open mouth.
+instruction: Change the style if the image to cartoon style.
+taskid: 70079

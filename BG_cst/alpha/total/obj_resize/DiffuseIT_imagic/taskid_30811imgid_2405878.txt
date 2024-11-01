@@ -1,0 +1,5 @@
+org_img_id: 2405878
+org_cap: a young person in a purple wood snowboard, with a helmet and goggles, is shown in mid-air, executing a trick on the snowboard.
+trg_cap: a young person in a large purple wood snowboard, with a helmet and goggles, is shown in mid-air, executing a trick on the snowboard.
+instruction: Make the snowboard larger.
+taskid: 30811

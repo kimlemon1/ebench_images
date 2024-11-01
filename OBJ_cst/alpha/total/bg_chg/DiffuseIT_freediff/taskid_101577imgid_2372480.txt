@@ -1,0 +1,5 @@
+org_img_id: 2372480
+org_cap: The white boat glides smoothly through the calm waters of the lagoon, its chrome accents glinting in the sunlight as it approaches the ancient stone bridge.
+trg_cap: The white boat glides smoothly through the calm waters of the lagoon, its chrome accents glinting in the sunlight as it approaches the ancient stone bridge, reminiscent of the serene view from the hospital's rooftop garden where patients often find solace.
+instruction: Change the background to hospital.
+taskid: 101577

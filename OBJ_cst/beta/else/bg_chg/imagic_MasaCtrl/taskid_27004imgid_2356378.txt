@@ -1,0 +1,5 @@
+org_img_id: 2356378
+org_cap: the steam locomotive, with its gleaming green paintwork and imposing presence, chugs along the railway tracks, its wheels clicking rhythmically as it hauls a train of trains behind it.
+trg_cap: The steam locomotive, with its gleaming green paintwork and imposing presence, chugs along the railway tracks near the hospital, its wheels clicking rhythmically as it hauls a train of trains behind it.
+instruction: Change the background to hospital.
+taskid: 27004

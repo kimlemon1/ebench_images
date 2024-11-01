@@ -1,0 +1,5 @@
+org_img_id: 2367569
+org_cap: A standing brown bird perches on a metal bird feeder, its wings folded against its back, its tail feathers fluffed out, and its beak as it pecks at seeds.
+trg_cap: A standing tan bird perches on a metal bird feeder, its wings folded against its back, its tail feathers fluffed out, and its beak as it pecks at seeds.
+instruction: Change the color of the bird from brown to tan.
+taskid: 61984

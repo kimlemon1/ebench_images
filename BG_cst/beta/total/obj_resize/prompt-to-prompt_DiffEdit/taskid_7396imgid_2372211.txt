@@ -1,0 +1,5 @@
+org_img_id: 2372211
+org_cap: a person wearing a white shirt with suspenders and green pants is standing on a skateboard, holding a sign and smiling.
+trg_cap: a person wearing a white shirt with suspenders and green pants is standing on a small skateboard, holding a sign and smiling.
+instruction: Make the skateboard smaller.
+taskid: 7396

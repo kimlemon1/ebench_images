@@ -1,0 +1,5 @@
+org_img_id: 2386361
+org_cap: A person in a full wetsuit, with a hood and booties, rides a person, his arms and legs extended as he carves through a large wave.
+trg_cap: A small person in a full wetsuit, with a hood and booties, rides a person, his arms and legs extended as he carves through a large wave.
+instruction: Make the person smaller.
+taskid: 40898

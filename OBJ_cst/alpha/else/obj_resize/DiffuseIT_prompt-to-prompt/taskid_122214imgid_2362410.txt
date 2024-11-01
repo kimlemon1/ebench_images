@@ -1,0 +1,5 @@
+org_img_id: 2362410
+org_cap: a group of people sit on a bench, wearing warm clothing and snow gear, with skis and snowboards leaning against the bench.
+trg_cap: a group of people sit on a large bench, wearing warm clothing and snow gear, with skis and snowboards leaning against the bench.
+instruction: Make the bench larger.
+taskid: 122214

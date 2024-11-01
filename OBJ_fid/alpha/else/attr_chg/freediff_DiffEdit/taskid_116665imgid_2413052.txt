@@ -1,0 +1,5 @@
+org_img_id: 2413052
+org_cap: The white ceramic toilet is surrounded by chaos, with broken tiles and shattered ceramic pieces scattered across the floor, while the sink is still intact but covered in dust and grime, with tools and materials strewn about.
+trg_cap: The white chrome toilet is surrounded by chaos, with broken tiles and shattered chrome pieces scattered across the floor, while the sink is still intact but covered in dust and grime, with tools and materials strewn about.
+instruction: Change the material of the toilet from ceramic to chrome.
+taskid: 116665

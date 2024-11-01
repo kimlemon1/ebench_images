@@ -1,0 +1,5 @@
+org_img_id: 2397374
+org_cap: The sink is a white sink with a chrome faucet and a granite countertop.
+trg_cap: The sink is a patterned sink with a chrome faucet and a granite countertop.
+instruction: Change the color of the sink from white to patterned.
+taskid: 102668

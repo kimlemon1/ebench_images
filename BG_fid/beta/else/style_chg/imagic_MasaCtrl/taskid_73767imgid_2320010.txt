@@ -1,0 +1,5 @@
+org_img_id: 2320010
+org_cap: Standing, surfing, person rides a white surfboard through a wave, arms and legs extended as he carves through the turquoise water.
+trg_cap: A pop art style artwork features a person standing and surfing, riding a white surfboard through a wave with arms and legs extended as they carve through the turquoise water.
+instruction: Change the style if the image to pop art style.
+taskid: 73767

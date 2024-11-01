@@ -1,0 +1,5 @@
+org_img_id: 2390930
+org_cap: a plate with a white plate and a silver knife placed on it, surrounded by various breakfast items like bread, eggs, and a glass of juice.
+trg_cap: a plate with a white plate and a small silver knife placed on it, surrounded by various breakfast items like bread, eggs, and a glass of juice.
+instruction: Make the knife smaller.
+taskid: 44809

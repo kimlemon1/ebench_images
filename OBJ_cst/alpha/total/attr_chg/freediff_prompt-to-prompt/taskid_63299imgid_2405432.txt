@@ -1,0 +1,5 @@
+org_img_id: 2405432
+org_cap: A brown, jumping, playing dog runs across a lawn, its paws pounding the grass as it chases a yellow ball.
+trg_cap: A pink, jumping, playing dog runs across a lawn, its paws pounding the grass as it chases a yellow ball.
+instruction: Change the color of the dog from brown to pink.
+taskid: 63299

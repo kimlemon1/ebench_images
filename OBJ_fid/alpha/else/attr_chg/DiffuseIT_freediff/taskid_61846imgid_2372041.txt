@@ -1,0 +1,5 @@
+org_img_id: 2372041
+org_cap: a metal fork protrudes from the water, its fork pointing towards a passing white boat, with the surrounding mountains and providing a picturesque backdrop.
+trg_cap: a metal fork protrudes from the water, its fork pointing towards a passing striped boat, with the surrounding mountains and providing a picturesque backdrop.
+instruction: Change the color of the boat from white to striped.
+taskid: 61846

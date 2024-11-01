@@ -1,0 +1,5 @@
+org_img_id: 2326488
+org_cap: a person in red clothing walks alongside a brown horse with a rider wearing a yellow shirt.
+trg_cap: A person in red clothing walks alongside it.
+instruction: Replace the horse with a laptop.
+taskid: 83676

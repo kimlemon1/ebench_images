@@ -1,0 +1,5 @@
+org_img_id: 2345297
+org_cap: A standing, walking, black, adult zebra stands on the sandy ground, its tail as it moves.
+trg_cap: A standing, walking, black, young zebra stands on the sandy ground, its tail as it moves.
+instruction: Change the state of the zebra from adult to young.
+taskid: 24371

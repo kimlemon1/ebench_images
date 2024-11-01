@@ -1,0 +1,5 @@
+org_img_id: 2411213_0
+org_cap: The orange tabby sleeping cat lies across the soft, green couch, its fur a shade of blue, with a sheen and a few strands framing its whiskered face.
+trg_cap: The orange gray sleeping cat lies across the soft, green couch, its fur a shade of blue, with a sheen and a few strands framing its whiskered face.
+instruction: Change the color of the cat from tabby to gray.
+taskid: 70703

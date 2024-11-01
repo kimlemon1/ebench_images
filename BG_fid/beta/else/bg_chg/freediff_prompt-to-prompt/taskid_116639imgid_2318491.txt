@@ -1,0 +1,5 @@
+org_img_id: 2318491
+org_cap: The room features a blue, striped chair, a coffee table with a worn-out wooden top, and a gray tv mounted on the wall.
+trg_cap: The room, reminiscent of a cozy restaurant lounge, features a blue, striped chair, a coffee table with a worn-out wooden top, and a gray TV mounted on the wall.
+instruction: Change the background to restaurant.
+taskid: 116639

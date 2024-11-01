@@ -1,0 +1,5 @@
+org_img_id: 2347613
+org_cap: a double-decker bus with a bright, eye-catching advertisement wrapping around its body, featuring a vibrant purple and yellow color scheme, and a bold, white font spelling out the words "let's colour" on its side.
+trg_cap: The art, in a watercolor painting style, features a double-decker bus with a bright, eye-catching advertisement wrapping around its body, showcasing a vibrant purple and yellow color scheme and a bold, white font spelling out the words "let's colour" on its side.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 11343

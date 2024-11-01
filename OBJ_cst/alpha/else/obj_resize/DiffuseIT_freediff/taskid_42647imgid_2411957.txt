@@ -1,0 +1,5 @@
+org_img_id: 2411957
+org_cap: A black train rumbles through the night, its headlights illuminating the dark landscape as it hauls a long string of cars behind it.
+trg_cap: A small black train rumbles through the night, its headlights illuminating the dark landscape as it hauls a long string of cars behind it.
+instruction: Make the train smaller.
+taskid: 42647

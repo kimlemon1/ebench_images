@@ -1,0 +1,5 @@
+org_img_id: 2320883
+org_cap: a person a black horse along the beach.
+trg_cap: a person with a baseball bat on their back a black horse along the beach.
+instruction: Add a baseball bat on the person.
+taskid: 56286

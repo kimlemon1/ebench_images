@@ -1,0 +1,5 @@
+org_img_id: 2355266
+org_cap: a blue sky with white clouds and a blue tent in the background, a person holding a frisbee and a white jumping dog to catch it.
+trg_cap: a blue sky with white clouds and a blue tent in the background, a person holding a frisbee and a white jumping dog with a horse on it to catch it.
+instruction: Add a horse on the dog.
+taskid: 20833

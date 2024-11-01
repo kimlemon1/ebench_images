@@ -1,0 +1,5 @@
+org_img_id: 2388476
+org_cap: Young male person riding a skateboard down stairs, wearing a t-shirt with a graphic print and jeans, with their hair.
+trg_cap: A grayscale photo features a young male riding a skateboard down stairs, wearing a graphic print t-shirt and jeans, with their hair visible.
+instruction: Change the style if the image to grey scale.
+taskid: 27541

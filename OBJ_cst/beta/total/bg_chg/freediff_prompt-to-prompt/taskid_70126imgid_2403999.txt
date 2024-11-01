@@ -1,0 +1,5 @@
+org_img_id: 2403999
+org_cap: The blue clock stands tall with its face and flags fluttering in the wind.
+trg_cap: The blue clock stands tall with its face and flags fluttering in the wind against the backdrop of a snow field.
+instruction: Change the background to snow field.
+taskid: 70126

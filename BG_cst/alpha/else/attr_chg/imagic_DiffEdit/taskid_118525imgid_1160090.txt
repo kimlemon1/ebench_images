@@ -1,0 +1,5 @@
+org_img_id: 1160090
+org_cap: The black train chugs along the tracks, its whistle blowing as it approaches a stop sign at a busy intersection, where a traffic light and a palm tree stand sentinel.
+trg_cap: The translucent train chugs along the tracks, its whistle blowing as it approaches a stop sign at a busy intersection, where a traffic light and a palm tree stand sentinel.
+instruction: Change the color of the train from black to translucent.
+taskid: 118525

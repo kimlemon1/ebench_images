@@ -1,0 +1,5 @@
+org_img_id: 2376106
+org_cap: A green plastic cup sits on a wooden table, surrounded by scraps of yarn, a ball of black wool, and a pair of knitting needles.
+trg_cap: A dark blue plastic cup sits on a wooden table, surrounded by scraps of yarn, a ball of black wool, and a pair of knitting needles.
+instruction: Change the color of the cup from green to dark blue.
+taskid: 87973

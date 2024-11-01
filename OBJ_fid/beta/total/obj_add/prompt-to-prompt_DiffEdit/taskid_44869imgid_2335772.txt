@@ -1,0 +1,5 @@
+org_img_id: 2335772
+org_cap: The clock face on the clock is a golden dial with roman numerals and intricate stone carvings surrounding it.
+trg_cap: The clock face on the clock is a golden dial with roman numerals and intricate stone carvings surrounding it, and a bus is located underneath the clock.
+instruction: Add a bus under the clock.
+taskid: 44869

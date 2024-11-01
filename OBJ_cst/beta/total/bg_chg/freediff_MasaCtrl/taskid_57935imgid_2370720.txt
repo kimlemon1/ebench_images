@@ -1,0 +1,5 @@
+org_img_id: 2370720
+org_cap: a person with a snowboard on his back walking on a snow field with skis.
+trg_cap: a person with a snowboard on his back walking in front of a hospital with skis.
+instruction: Change the background to hospital.
+taskid: 57935

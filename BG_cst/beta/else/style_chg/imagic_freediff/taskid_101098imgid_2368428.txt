@@ -1,0 +1,5 @@
+org_img_id: 2368428
+org_cap: A giraffe stands in a lush forest, its neck and legs above the underbrush, while a person approaches it, hand extended in a gesture of friendship.
+trg_cap: A Van Gogh style art depicts a giraffe standing in a lush forest, its neck and legs above the underbrush, while a person approaches it with a hand extended in a gesture of friendship.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 101098

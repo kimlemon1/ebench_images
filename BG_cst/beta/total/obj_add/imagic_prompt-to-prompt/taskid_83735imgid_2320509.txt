@@ -1,0 +1,5 @@
+org_img_id: 2320509
+org_cap: a man in his mid-30s with a medium build, wearing a navy blue hat and a green jacket, sits on the grass, holding a black cell phone.
+trg_cap: A man in his mid-30s with a medium build, wearing a navy blue hat and a green jacket, sits on the grass, holding a black cell phone, with a bottle on the right side of the cell phone.
+instruction: Add a bottle on the right side of the cell phone.
+taskid: 83735

@@ -1,0 +1,5 @@
+org_img_id: 2328877
+org_cap: person's body is twisted and contorted in mid-air, with legs and arms as they through the snow.
+trg_cap: An oil painting style artwork depicts a person's body twisted and contorted in mid-air, with legs and arms as they move through the snow.
+instruction: Change the style if the image to oil painting style.
+taskid: 4300

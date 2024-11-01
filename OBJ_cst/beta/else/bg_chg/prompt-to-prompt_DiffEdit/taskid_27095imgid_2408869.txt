@@ -1,0 +1,5 @@
+org_img_id: 2408869
+org_cap: "a freestyle motorcycle person, person, performs a daring stunt, on his orange motorcycle, with the wind through his helmet and his arms and legs in a dramatic pose against a bright blue sky with puffy white clouds."
+trg_cap: A freestyle motorcycle person, person, performs a daring stunt on his orange motorcycle, with the wind through his helmet and his arms and legs in a dramatic pose against a bright blue sky with puffy white clouds, soaring above a picturesque countryside farm.
+instruction: Change the background to country side farm.
+taskid: 27095

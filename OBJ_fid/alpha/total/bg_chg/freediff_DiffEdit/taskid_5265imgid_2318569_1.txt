@@ -1,0 +1,5 @@
+org_img_id: 2318569_1
+org_cap: A black horse stands next to a wooden trough, its legs worn and weathered, with a few wisps of hay scattered around.
+trg_cap: A black horse stands next to a wooden trough, its legs worn and weathered, with a few wisps of hay scattered around, surrounded by the lush greenery and vibrant flora of a tropical jungle.
+instruction: Change the background to tropical jungle.
+taskid: 5265

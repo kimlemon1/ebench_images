@@ -1,0 +1,5 @@
+org_img_id: 2327971
+org_cap: A white cow is being ridden by a person wearing a white shirt and pants, sitting on a wooden cart pulled by the cow along a city road.
+trg_cap: A cream colored cow is being ridden by a person wearing a cream colored shirt and pants, sitting on a wooden cart pulled by the cow along a city road.
+instruction: Change the color of the cow from white to cream colored.
+taskid: 13908

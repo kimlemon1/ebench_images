@@ -1,0 +1,5 @@
+org_img_id: 1799
+org_cap: A white car is parked in a loading bay, surrounded by empty pallets and crates.
+trg_cap: A small white car is parked in a loading bay, surrounded by empty pallets and crates.
+instruction: Make the car smaller.
+taskid: 37440

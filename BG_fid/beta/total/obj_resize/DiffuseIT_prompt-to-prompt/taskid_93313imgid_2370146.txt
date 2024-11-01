@@ -1,0 +1,5 @@
+org_img_id: 2370146
+org_cap: The cluttered office desk is dominated by a ceramic cup.
+trg_cap: The cluttered office desk is dominated by a large ceramic cup.
+instruction: Make the cup larger.
+taskid: 93313

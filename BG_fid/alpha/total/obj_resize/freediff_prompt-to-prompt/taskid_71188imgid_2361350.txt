@@ -1,0 +1,5 @@
+org_img_id: 2361350
+org_cap: a man in a bright blue uniform stands beside an orange bus, its tires wrapped in a vibrant, striped fabric.
+trg_cap: a man in a bright blue uniform stands beside a small orange bus, its tires wrapped in a vibrant, striped fabric.
+instruction: Make the bus smaller.
+taskid: 71188

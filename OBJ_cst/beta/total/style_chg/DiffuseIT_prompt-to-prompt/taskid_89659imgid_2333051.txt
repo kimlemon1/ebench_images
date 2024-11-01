@@ -1,0 +1,5 @@
+org_img_id: 2333051
+org_cap: An airplane, with its bright blue and yellow livery, sits on the tarmac, its engines covered, and its landing gear retracted, awaiting its next destination.
+trg_cap: A grey scale photo shows an airplane with its bright blue and yellow livery sitting on the tarmac, its engines covered and landing gear retracted, awaiting its next destination.
+instruction: Change the style if the image to grey scale.
+taskid: 89659

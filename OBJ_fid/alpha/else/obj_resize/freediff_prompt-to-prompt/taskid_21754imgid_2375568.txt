@@ -1,0 +1,5 @@
+org_img_id: 2375568
+org_cap: for the scene, i focus on the physical details of the green motorcycle and person, with person on the motorcycle, wearing a gray shirt and jeans, with a green helmet and a relaxed expression.
+trg_cap: for the scene, i focus on the physical details of the large green motorcycle and person, with person on the motorcycle, wearing a gray shirt and jeans, with a green helmet and a relaxed expression.
+instruction: Make the motorcycle larger.
+taskid: 21754

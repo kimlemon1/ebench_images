@@ -1,0 +1,5 @@
+org_img_id: 2389194
+org_cap: The vase is a blue clay vase with a rounded body and a flared rim, painted a soft green color with delicate white flowers and leaves adorning the exterior.
+trg_cap: The vase is a pink clay vase with a rounded body and a flared rim, painted a soft green color with delicate white flowers and leaves adorning the exterior.
+instruction: Change the color of the vase from blue to pink.
+taskid: 22615

@@ -1,0 +1,5 @@
+org_img_id: 2347772
+org_cap: Person through the murky water, his white shirt soaked and his hat askew as he his ball from the pond's edge.
+trg_cap: Person waded through the murky water, his white shirt soaked and his hat askew as he retrieved his ball from the pond's edge, the nearby restaurant's lights reflecting off the surface.
+instruction: Change the background to restaurant.
+taskid: 116581

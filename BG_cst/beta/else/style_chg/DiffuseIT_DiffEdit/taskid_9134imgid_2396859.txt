@@ -1,0 +1,5 @@
+org_img_id: 2396859
+org_cap: A red traffic light hangs from a tall pole, casting a warm glow over the snowy streets as a red car approaches, its tires crunching on the pavement.
+trg_cap: A grey scale photo shows a red traffic light hanging from a tall pole, casting a warm glow over the snowy streets as a red car approaches, its tires crunching on the pavement.
+instruction: Change the style if the image to grey scale.
+taskid: 9134

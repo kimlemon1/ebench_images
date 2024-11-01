@@ -1,0 +1,5 @@
+org_img_id: 2330044
+org_cap: A young person with short, dark hair and a black tank top, wearing a blue and white striped helmet and a black bridle with a silver buckle.
+trg_cap: A large young person with short, dark hair and a black tank top, wearing a blue and white striped helmet and a black bridle with a silver buckle.
+instruction: Make the person larger.
+taskid: 90548

@@ -1,0 +1,5 @@
+org_img_id: 2412885
+org_cap: a skateboarder in knee pads and elbow guards crouches low to the ground, his left foot on the black skateboard and his right foot hovering above it, ready to push off and start a trick.
+trg_cap: a skateboarder in knee pads and elbow guards crouches low to the ground, his left foot on the brown skateboard and his right foot hovering above it, ready to push off and start a trick.
+instruction: Change the color of the skateboard from black to brown.
+taskid: 105600

@@ -1,0 +1,5 @@
+org_img_id: 1592815_2
+org_cap: The black microwave sat on a countertop in a kitchen, its door slightly ajar and its black microwave glowing.
+trg_cap: The black microwave sat on a countertop in a kitchen, its door slightly ajar and its black microwave glowing, while outside the window, the vast expanse of the desert stretched endlessly under the scorching sun.
+instruction: Change the background to desert.
+taskid: 86054

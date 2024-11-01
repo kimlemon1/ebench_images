@@ -1,0 +1,5 @@
+org_img_id: 2403844
+org_cap: person is sitting on a motorcycle, wearing a helmet and a big smile, with a store sign in the background that reads "rude boys".
+trg_cap: A person is sitting on a motorcycle, wearing a helmet and a big smile, with an aquarium in the background.
+instruction: Change the background to aquarium.
+taskid: 92273

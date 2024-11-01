@@ -1,0 +1,5 @@
+org_img_id: 2384433
+org_cap: The stone, wood, silver bench is adorned with a few wildflowers and a sprig of lavender.
+trg_cap: The pizza is adorned with a few wildflowers and a sprig of lavender.
+instruction: Replace the bench with a pizza.
+taskid: 118981

@@ -1,0 +1,5 @@
+org_img_id: 2362449
+org_cap: The fire hydrant is a bright blue color with a yellow cap and a metal tag attached to it with the number "person" engraved on it.
+trg_cap: The small fire hydrant is a bright blue color with a yellow cap and a metal tag attached to it with the number "person" engraved on it.
+instruction: Make the fire hydrant smaller.
+taskid: 34911

@@ -1,0 +1,5 @@
+org_img_id: 713813
+org_cap: a red desk with a white, open laptop, and various cables and devices tangled around it.
+trg_cap: a red desk with a pink, open laptop, and various cables and devices tangled around it.
+instruction: Change the color of the laptop from white to pink.
+taskid: 62644

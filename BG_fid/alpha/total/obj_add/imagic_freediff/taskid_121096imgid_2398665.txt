@@ -1,0 +1,5 @@
+org_img_id: 2398665
+org_cap: a skateboarder wearing a white shirt and orange shorts is cruising along a coastal path, his skateboard gliding smoothly over the pavement as he approaches a group of friends standing on the sidewalk.
+trg_cap: A skateboarder wearing a white shirt and orange shorts is cruising along a coastal path, his skateboard gliding smoothly over the pavement as he approaches a group of friends standing on the sidewalk, with a backpack on the left side of the skateboard.
+instruction: Add a backpack on the left side of the skateboard.
+taskid: 121096

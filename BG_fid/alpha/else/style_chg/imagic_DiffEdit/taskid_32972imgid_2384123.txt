@@ -1,0 +1,5 @@
+org_img_id: 2384123
+org_cap: A yellow fire hydrant stands tall in a lush green meadow, surrounded by grazing cattle and a distant mountain range.
+trg_cap: The pop art style artwork features a yellow fire hydrant standing tall in a lush green meadow, surrounded by grazing cattle and a distant mountain range.
+instruction: Change the style if the image to pop art style.
+taskid: 32972

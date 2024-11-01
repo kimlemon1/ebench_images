@@ -1,0 +1,5 @@
+org_img_id: 2315843
+org_cap: a bouquet of colorful flowers, including pink and yellow blooms, fills a clear glass vase on a table, with a pair of doors and a decorative cabinet visible in the background.
+trg_cap: A bouquet of colorful flowers, including pink and yellow blooms, fills a clear glass vase with a horse on it on a table, with a pair of doors and a decorative cabinet visible in the background.
+instruction: Add a horse on the vase.
+taskid: 68360

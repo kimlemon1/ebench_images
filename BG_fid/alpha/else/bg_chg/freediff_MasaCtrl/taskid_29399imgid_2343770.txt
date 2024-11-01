@@ -1,0 +1,5 @@
+org_img_id: 2343770
+org_cap: a blue bicycle with a chrome frame, adorned with a small bell and a rusty chain, leans against a parking meter on the sidewalk.
+trg_cap: A blue bicycle with a chrome frame, adorned with a small bell and a rusty chain, leans against a parking meter on the sidewalk, surrounded by the lush greenery and vibrant flora of a tropical jungle.
+instruction: Change the background to tropical jungle.
+taskid: 29399

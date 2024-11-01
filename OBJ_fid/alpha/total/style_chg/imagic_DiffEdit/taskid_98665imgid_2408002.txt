@@ -1,0 +1,5 @@
+org_img_id: 2408002
+org_cap: person holds an orange frisbee in his hand, wearing a pair of sunglasses and a red t-shirt with a faded logo.
+trg_cap: An oil painting style artwork depicts a person holding an orange frisbee, wearing sunglasses and a red t-shirt with a faded logo.
+instruction: Change the style if the image to oil painting style.
+taskid: 98665

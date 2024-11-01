@@ -1,0 +1,5 @@
+org_img_id: 2408834_0
+org_cap: A person on a bench, wearing a white sweater and black pants, with a transparent umbrella covering their head and shoulders.
+trg_cap: A person on a bench, wearing a white sweater and black pants, with a transparent umbrella covering their head and shoulders, sits amidst the rolling hills and open fields of a countryside farm.
+instruction: Change the background to country side farm.
+taskid: 38375

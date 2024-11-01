@@ -1,0 +1,5 @@
+org_img_id: 2406481
+org_cap: the old clock clock stands tall, its worn stone façade bearing the weight of time, its intricate columns and ornate details a testament to a bygone era.
+trg_cap: The old clock stands tall, its worn stone façade bearing the weight of time, its intricate columns and ornate details a testament to a bygone era, while a person stands in front of it.
+instruction: Add a person in front of the clock.
+taskid: 104856

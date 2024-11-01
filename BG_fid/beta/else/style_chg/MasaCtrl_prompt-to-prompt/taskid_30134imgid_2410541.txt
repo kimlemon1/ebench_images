@@ -1,0 +1,5 @@
+org_img_id: 2410541
+org_cap: Person is seen splashing and surfing on a surfboard, his long hair in the wind.
+trg_cap: An ancient Egyptian-style artwork depicts a person with long hair in the wind, splashing and surfing on a surfboard.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 30134

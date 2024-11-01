@@ -1,0 +1,5 @@
+org_img_id: 2400040
+org_cap: person a surfboard through the waves.
+trg_cap: A large person a surfboard through the waves.
+instruction: Make the person larger.
+taskid: 120532

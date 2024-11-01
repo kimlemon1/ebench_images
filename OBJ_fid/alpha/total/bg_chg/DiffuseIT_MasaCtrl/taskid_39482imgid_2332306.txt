@@ -1,0 +1,5 @@
+org_img_id: 2332306
+org_cap: a person in a wetsuit along the beach, a red kite, as the sun sets over the waves.
+trg_cap: A person in a wetsuit along the beach, a red kite, as the sun sets over the waves, while a space station orbits silently above.
+instruction: Change the background to space station.
+taskid: 39482

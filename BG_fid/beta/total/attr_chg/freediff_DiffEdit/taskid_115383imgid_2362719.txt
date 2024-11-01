@@ -1,0 +1,5 @@
+org_img_id: 2362719
+org_cap: a young person stands on the sidewalk, holding a blue skateboard, the wheels and trucks bearing the scars of countless tricks and falls.
+trg_cap: a young person stands on the sidewalk, holding a brown skateboard, the wheels and trucks bearing the scars of countless tricks and falls.
+instruction: Change the color of the skateboard from blue to brown.
+taskid: 115383

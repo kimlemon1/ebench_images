@@ -1,0 +1,5 @@
+org_img_id: 2350729
+org_cap: a large black bear with a distinctive brown patch on its forehead and a rugged, weathered coat, along a dirt path surrounded by a chain-link fence.
+trg_cap: The graffiti art depicts a large black bear with a distinctive brown patch on its forehead and a rugged, weathered coat, walking along a dirt path surrounded by a chain-link fence.
+instruction: Change the style if the image to graffiti art.
+taskid: 7679

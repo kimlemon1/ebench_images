@@ -1,0 +1,5 @@
+org_img_id: 2393496_1
+org_cap: a white cow in a green meadow surrounded by trees.
+trg_cap: a teddy bear.
+instruction: Replace the cow with a teddy bear.
+taskid: 115140

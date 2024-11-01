@@ -1,0 +1,5 @@
+org_img_id: 2374157
+org_cap: person with skis over his shoulder, his bright orange jacket a splash of color against the monochromatic winter landscape.
+trg_cap: An oil painting style art depicts a person with skis over his shoulder, his bright orange jacket a splash of color against the monochromatic winter landscape.
+instruction: Change the style if the image to oil painting style.
+taskid: 6584

@@ -1,0 +1,5 @@
+org_img_id: 2372403
+org_cap: "Person on his wakeboard, his board with a smooth whoosh."
+trg_cap: Person on his wakeboard, his board with a smooth whoosh, with a stop sign in front of him.
+instruction: Add a stop sign in front of the person.
+taskid: 105691

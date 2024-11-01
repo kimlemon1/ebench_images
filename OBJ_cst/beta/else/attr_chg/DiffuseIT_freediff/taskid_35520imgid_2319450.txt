@@ -1,0 +1,5 @@
+org_img_id: 2319450
+org_cap: The old white TV sat in the corner of the room, its screen glowing in the space, surrounded by a worn armchair and a cluttered coffee table.
+trg_cap: The new white TV sat in the corner of the room, its screen glowing in the space, surrounded by a worn armchair and a cluttered coffee table.
+instruction: Change the state of the tv from old to new.
+taskid: 35520

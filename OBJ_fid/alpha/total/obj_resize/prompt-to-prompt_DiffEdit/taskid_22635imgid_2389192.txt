@@ -1,0 +1,5 @@
+org_img_id: 2389192
+org_cap: the gray train rumbles along the tracks, its gray trains lined up in a row as it chugs towards the horizon, the rusty rails and worn wooden platforms a testament to its steady, reliable service.
+trg_cap: the large gray train rumbles along the tracks, its gray trains lined up in a row as it chugs towards the horizon, the rusty rails and worn wooden platforms a testament to its steady, reliable service.
+instruction: Make the train larger.
+taskid: 22635

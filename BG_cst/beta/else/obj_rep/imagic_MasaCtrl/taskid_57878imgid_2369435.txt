@@ -1,0 +1,5 @@
+org_img_id: 2369435
+org_cap: a gray bird sitting on a branch of an oak tree, its bright eyes for food.
+trg_cap: a gray broccoli, their bright eyes for food.
+instruction: Replace the bird with a broccoli.
+taskid: 57878

@@ -1,0 +1,5 @@
+org_img_id: 2371188
+org_cap: a blue surfboard with a fin and a leash attached to the tail, held by a person with a yellow bikini.
+trg_cap: In the bustling seaside restaurant, a blue surfboard with a fin and a leash attached to the tail is held by a person with a yellow bikini.
+instruction: Change the background to restaurant.
+taskid: 53603

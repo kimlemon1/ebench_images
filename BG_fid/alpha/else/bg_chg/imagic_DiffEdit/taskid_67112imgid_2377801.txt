@@ -1,0 +1,5 @@
+org_img_id: 2377801
+org_cap: a class 66 train with a bright orange livery and distinctive black stripes, hauling a freight train along the train tracks.
+trg_cap: A class 66 train with a bright orange livery and distinctive black stripes, hauling a freight train along the train tracks near the hospital.
+instruction: Change the background to hospital.
+taskid: 67112

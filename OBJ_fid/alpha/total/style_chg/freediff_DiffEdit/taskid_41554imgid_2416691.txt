@@ -1,0 +1,5 @@
+org_img_id: 2416691
+org_cap: The toilet is a small, enclosed space with a white brick wall and a single door that opens to reveal a small, dimly lit room with a toilet and a single seat.
+trg_cap: An ancient Egyptian-style artwork depicts a small, enclosed space with a white brick wall and a single door that opens to reveal a dimly lit room containing a toilet and a single seat.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 41554

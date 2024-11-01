@@ -1,0 +1,5 @@
+org_img_id: 2342607
+org_cap: A woman stands beneath a light brown umbrella, holding a cup of coffee and gazing up at a vintage, ornate clock with intricate carvings and a large, circular face.
+trg_cap: A woman stands beneath a green umbrella, holding a cup of coffee and gazing up at a vintage, ornate clock with intricate carvings and a large, circular face.
+instruction: Change the color of the umbrella from light brown to green.
+taskid: 59222

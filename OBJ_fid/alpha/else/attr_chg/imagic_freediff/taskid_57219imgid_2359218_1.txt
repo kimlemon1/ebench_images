@@ -1,0 +1,5 @@
+org_img_id: 2359218_1
+org_cap: A blue ceramic cup sits on a decorative tile table, filled with a rich, dark liquid and accompanied by a flaky, sweet pastry and a straw.
+trg_cap: A translucent ceramic cup sits on a decorative tile table, filled with a rich, dark liquid and accompanied by a flaky, sweet pastry and a straw.
+instruction: Change the color of the cup from blue to translucent.
+taskid: 57219

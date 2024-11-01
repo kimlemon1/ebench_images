@@ -1,0 +1,5 @@
+org_img_id: 2369393
+org_cap: a white, rectangular bus with a flat front and a curved roof, painted with a bright yellow stripe running along its sides, drives down a city street lined with tall buildings and parked cars.
+trg_cap: a small, white, rectangular bus with a flat front and a curved roof, painted with a bright yellow stripe running along its sides, drives down a city street lined with tall buildings and parked cars.
+instruction: Make the bus smaller.
+taskid: 100915

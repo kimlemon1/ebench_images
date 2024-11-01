@@ -1,0 +1,5 @@
+org_img_id: 2410306
+org_cap: a furry brown dog with a tail and floppy ears sat in the back of a white pickup truck, its paws over the side as it out the window.
+trg_cap: A furry brown dog with a tail and floppy ears sat in the back of a white pickup truck, its paws over the side as it out the window, with a laptop positioned behind it.
+instruction: Add a laptop behind the dog.
+taskid: 90987

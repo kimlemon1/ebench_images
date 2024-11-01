@@ -1,0 +1,5 @@
+org_img_id: 2364965
+org_cap: person swings a brown wood baseball bat, her feet bare and planted firmly in the dirt as she prepares to hit the ball.
+trg_cap: A pencil sketch depicts a person swinging a brown wood baseball bat, her bare feet planted firmly in the dirt as she prepares to hit the ball.
+instruction: Change the style if the image to pencil sketch.
+taskid: 57524

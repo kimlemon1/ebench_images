@@ -1,0 +1,5 @@
+org_img_id: 2322121
+org_cap: "a worn-faced person in a fedora hat on a stone bench, surrounded by the rusty tracks of an abandoned railway, with a suitcase and a small bag at his feet."
+trg_cap: a couch on a stone bench, surrounded by the rusty tracks of an abandoned railway, with a suitcase and a small bag at its feet.
+instruction: Replace the person with a couch.
+taskid: 97985

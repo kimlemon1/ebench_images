@@ -1,0 +1,5 @@
+org_img_id: 2417042
+org_cap: a person leaning against a fence in an open field.
+trg_cap: a person leaning against a fence and a skis next to the person in an open field.
+instruction: Add a skis next to the person.
+taskid: 56971

@@ -1,0 +1,5 @@
+org_img_id: 2332593
+org_cap: a bright green necktie with white polka dots and a small yellow flower attached to the bottom.
+trg_cap: An ancient Egyptian-style artwork features a bright green necktie with white polka dots and a small yellow flower attached to the bottom.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 108926

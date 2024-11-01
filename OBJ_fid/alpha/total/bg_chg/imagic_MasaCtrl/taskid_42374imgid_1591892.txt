@@ -1,0 +1,5 @@
+org_img_id: 1591892
+org_cap: Person at a table in a library, wearing a pink sweat suit and glasses, with a calculator and notebook in front of her.
+trg_cap: Person at a table in a tropical jungle, wearing a pink sweat suit and glasses, with a calculator and notebook in front of her.
+instruction: Change the background to tropical jungle.
+taskid: 42374

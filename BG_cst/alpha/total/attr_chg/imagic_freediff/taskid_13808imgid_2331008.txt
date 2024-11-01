@@ -1,0 +1,5 @@
+org_img_id: 2331008
+org_cap: A walking person stands beside a white, walking horse, with a rope tied to its halter.
+trg_cap: A walking person stands beside a bronze, walking horse, with a rope tied to its halter.
+instruction: Change the color of the horse from white to bronze.
+taskid: 13808

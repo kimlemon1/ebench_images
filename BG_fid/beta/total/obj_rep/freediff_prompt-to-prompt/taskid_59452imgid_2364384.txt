@@ -1,0 +1,5 @@
+org_img_id: 2364384
+org_cap: A colorful, rainbow-colored umbrella stands tall on the sandy beach, surrounded by calm turquoise waters and a few beach chairs and towels.
+trg_cap: A traffic light stands tall on the sandy beach, surrounded by calm turquoise waters and some beach chairs and towels.
+instruction: Replace the umbrella with a traffic light.
+taskid: 59452

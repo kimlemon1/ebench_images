@@ -1,0 +1,5 @@
+org_img_id: 713662
+org_cap: The room features a white couch, a flat-screen tv mounted on the wall, and hardwood floors with a warm, golden glow.
+trg_cap: The room features a dark brown couch, a flat-screen tv mounted on the wall, and hardwood floors with a warm, golden glow.
+instruction: Change the color of the couch from white to dark brown.
+taskid: 12189

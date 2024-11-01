@@ -1,0 +1,5 @@
+org_img_id: 2387995
+org_cap: a person stands at a street corner, wearing a pink backpack and holding a shopping bag, with a small cat by their side.
+trg_cap: a person stands at a street corner, wearing a pink backpack with a tie on the right side and holding a shopping bag, with a small cat by their side.
+instruction: Add a tie on the right side of the backpack.
+taskid: 101972

@@ -1,0 +1,5 @@
+org_img_id: 2337260
+org_cap: A frisbee flies through the air as a pair of energetic dogs, their fur a warm red color, chase after the frisbee with tails wagging in excitement.
+trg_cap: An umbrella flies through the air as a pair of energetic dogs, its fur a warm red color, chase after the umbrella with tails wagging in excitement.
+instruction: Replace the frisbee with a umbrella.
+taskid: 105974

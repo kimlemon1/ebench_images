@@ -1,0 +1,5 @@
+org_img_id: 2417792
+org_cap: a duck swims in the water, its beak grasping a red frisbee.
+trg_cap: A duck swims in the water near the train station, its beak grasping a red frisbee.
+instruction: Change the background to train station.
+taskid: 2473

@@ -1,0 +1,5 @@
+org_img_id: 2373997
+org_cap: a wooden table with a glass top, supporting a laptop, white keyboard, and a few books, surrounded by bookshelves and a few decorative items.
+trg_cap: A wooden table with a glass top, supporting a laptop, white keyboard, and a few books, surrounded by gym equipment and a few decorative items.
+instruction: Change the background to gym.
+taskid: 96729

@@ -1,0 +1,5 @@
+org_img_id: 2397873
+org_cap: "a gray train with a gray train and gray train chugs along the elevated gray train, passing under a concrete gray train with gray train and gray train on either gray train."
+trg_cap: "a translucent train with a translucent train and translucent train chugs along the elevated translucent train, passing under a concrete translucent train with translucent train and translucent train on either translucent train."
+instruction: Change the color of the train from gray to translucent.
+taskid: 122188

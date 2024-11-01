@@ -1,0 +1,5 @@
+org_img_id: 2329965
+org_cap: a middle-aged person with a worn, navy blue suit and a red necktie walks down the street, his worn leather shoes making a soft scuffling sound on the wet pavement.
+trg_cap: A middle-aged person with a worn, navy blue suit and a red necktie walks down the street, his worn leather shoes making a soft scuffling sound on the wet pavement, with a bus on his left side.
+instruction: Add a bus on the left side of the tie.
+taskid: 109200

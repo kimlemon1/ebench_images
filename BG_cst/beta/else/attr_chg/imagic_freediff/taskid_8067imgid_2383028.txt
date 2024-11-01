@@ -1,0 +1,5 @@
+org_img_id: 2383028
+org_cap: The white stop sign on the corner is a white stop sign, while the nearby building features a ornate clock tower with a blue ceramic facade.
+trg_cap: The gray stop sign on the corner is a gray stop sign, while the nearby building features a ornate clock tower with a blue ceramic facade.
+instruction: Change the color of the stop sign from white to gray.
+taskid: 8067

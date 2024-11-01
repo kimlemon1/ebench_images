@@ -1,0 +1,5 @@
+org_img_id: 2379164
+org_cap: A brown, metal fire hydrant stands alone in the middle of a dry, grassy field, its fire hydrant adorned with a small chain and a weathered, wooden handle.
+trg_cap: A brown, metal skateboard stands alone in the middle of a dry, grassy field.
+instruction: Replace the fire hydrant with a skateboard.
+taskid: 75855

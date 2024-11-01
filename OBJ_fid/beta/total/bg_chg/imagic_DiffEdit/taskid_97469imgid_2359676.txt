@@ -1,0 +1,5 @@
+org_img_id: 2359676
+org_cap: The scene features a green bench with ornate ironwork, situated on a pedestrian path lined with flowerbeds and surrounded by buildings with a mix of stone and brick facades.
+trg_cap: The scene features a green bench with ornate ironwork, situated on a pedestrian path lined with flowerbeds and surrounded by buildings with a mix of stone and brick facades, all set within the confines of a space station.
+instruction: Change the background to space station.
+taskid: 97469

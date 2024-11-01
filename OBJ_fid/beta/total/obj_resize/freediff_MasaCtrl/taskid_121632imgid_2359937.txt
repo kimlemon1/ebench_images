@@ -1,0 +1,5 @@
+org_img_id: 2359937
+org_cap: The small, cramped bathroom features a white, ceramic sink and a white toilet.
+trg_cap: The small, cramped bathroom features a white, ceramic sink and a large, white toilet.
+instruction: Make the toilet larger.
+taskid: 121632

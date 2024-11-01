@@ -1,0 +1,5 @@
+org_img_id: 2387862
+org_cap: A brown horse running across a meadow, its mane in the wind as it splashing a small pond, its hooves in the water as it running over the obstacle.
+trg_cap: A blue horse running across a meadow, its mane in the wind as it splashing a small pond, its hooves in the water as it running over the obstacle.
+instruction: Change the color of the horse from brown to blue.
+taskid: 1282

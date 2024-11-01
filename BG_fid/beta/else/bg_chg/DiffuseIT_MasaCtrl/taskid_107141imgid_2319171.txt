@@ -1,0 +1,5 @@
+org_img_id: 2319171
+org_cap: "Person sits on a horse with a gray sweatshirt and blue shorts, with a calm expression on his face and a few strands of hair."
+trg_cap: Person sits on a horse with a gray sweatshirt and blue shorts, with a calm expression on his face and a few strands of hair, in front of a hospital building.
+instruction: Change the background to hospital.
+taskid: 107141

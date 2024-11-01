@@ -1,0 +1,5 @@
+org_img_id: 2324195_1
+org_cap: a bright orange cat lies on a colorful bedspread, its eyes closed in a peaceful slumber, with a worn paperback book titled "book" lying next to it.
+trg_cap: In the corner of a bustling gym, a bright orange cat lies on a colorful bedspread, its eyes closed in a peaceful slumber, with a worn paperback book titled "book" lying next to it.
+instruction: Change the background to gym.
+taskid: 114545

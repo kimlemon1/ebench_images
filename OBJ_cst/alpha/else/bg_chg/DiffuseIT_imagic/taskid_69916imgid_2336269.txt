@@ -1,0 +1,5 @@
+org_img_id: 2336269
+org_cap: "person his racket, his eyes on the ball as he a forehand."
+trg_cap: In the museum, person his racket, his eyes on the ball as he a forehand.
+instruction: Change the background to museum.
+taskid: 69916

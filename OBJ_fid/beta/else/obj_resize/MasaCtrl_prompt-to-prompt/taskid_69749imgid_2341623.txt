@@ -1,0 +1,5 @@
+org_img_id: 2341623
+org_cap: A white steel train sits on the metal platform, its wheels covered in snow and its windows foggy from the cold winter air.
+trg_cap: A small white steel train sits on the metal platform, its wheels covered in snow and its windows foggy from the cold winter air.
+instruction: Make the train smaller.
+taskid: 69749

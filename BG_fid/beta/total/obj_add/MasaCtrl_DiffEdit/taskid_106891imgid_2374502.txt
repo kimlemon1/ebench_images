@@ -1,0 +1,5 @@
+org_img_id: 2374502
+org_cap: Sitting person, eating on a blanket, a slice of pizza in his hands.
+trg_cap: Sitting person, eating on a blanket, a slice of pizza in his hands with a sports ball on the pizza.
+instruction: Add a sports ball on the pizza.
+taskid: 106891

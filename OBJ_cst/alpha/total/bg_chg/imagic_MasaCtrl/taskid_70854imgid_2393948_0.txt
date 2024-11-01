@@ -1,0 +1,5 @@
+org_img_id: 2393948_0
+org_cap: A posing person sits astride a worn-out posing person, its reins held in his hands as he gazes into the distance.
+trg_cap: A posing person sits astride a worn-out posing person, its reins held in his hands as he gazes into the distance, surrounded by the grandeur of a concert hall.
+instruction: Change the background to concert hall.
+taskid: 70854

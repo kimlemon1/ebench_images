@@ -1,0 +1,5 @@
+org_img_id: 2363143
+org_cap: Surfing, surfing, surfing person rides the wave on white surfboard, the wind hair back as through the turquoise water.
+trg_cap: Surfing, surfing, surfing umbrella rides the wave on its white surfboard, as through the turquoise water.
+instruction: Replace the person with a umbrella.
+taskid: 87707

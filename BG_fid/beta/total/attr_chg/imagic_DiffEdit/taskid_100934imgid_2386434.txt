@@ -1,0 +1,5 @@
+org_img_id: 2386434
+org_cap: A yellow fire hydrant stands tall on a bed of green grass, surrounded by small rocks and a patch of dirt.
+trg_cap: A silver fire hydrant stands tall on a bed of green grass, surrounded by small rocks and a patch of dirt.
+instruction: Change the color of the fire hydrant from yellow to silver.
+taskid: 100934

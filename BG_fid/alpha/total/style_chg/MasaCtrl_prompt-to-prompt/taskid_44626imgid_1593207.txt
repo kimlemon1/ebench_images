@@ -1,0 +1,5 @@
+org_img_id: 1593207
+org_cap: A white horse is hitched to a wooden carriage, driven by a person.
+trg_cap: A graffiti art piece depicts a white horse hitched to a wooden carriage, driven by a person.
+instruction: Change the style if the image to graffiti art.
+taskid: 44626

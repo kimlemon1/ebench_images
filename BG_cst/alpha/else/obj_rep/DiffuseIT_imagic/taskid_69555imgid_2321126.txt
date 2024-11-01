@@ -1,0 +1,5 @@
+org_img_id: 2321126
+org_cap: a young person across a grassy lawn, a colorful kite with a kite behind him.
+trg_cap: A young person across a grassy lawn, an airplane behind them.
+instruction: Replace the kite with a airplane.
+taskid: 69555

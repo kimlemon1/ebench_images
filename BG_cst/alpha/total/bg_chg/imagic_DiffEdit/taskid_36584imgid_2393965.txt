@@ -1,0 +1,5 @@
+org_img_id: 2393965
+org_cap: young person surfing on his white surfboard with sea spray as he the waves.
+trg_cap: young person surfing on his white surfboard with sea spray as he the waves, having just come from a rigorous workout at the gym.
+instruction: Change the background to gym.
+taskid: 36584

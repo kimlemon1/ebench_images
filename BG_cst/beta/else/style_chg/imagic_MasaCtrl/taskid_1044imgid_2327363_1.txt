@@ -1,0 +1,5 @@
+org_img_id: 2327363_1
+org_cap: a large, round bowl of omelette with melted cheese, tomatoes, and olives sits in the center of the table, surrounded by empty plates and glasses.
+trg_cap: A mosaic art features a large, round bowl of omelette with melted cheese, tomatoes, and olives sitting in the center of the table, surrounded by empty plates and glasses.
+instruction: Change the style if the image to mosaic art.
+taskid: 1044

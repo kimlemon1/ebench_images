@@ -1,0 +1,5 @@
+org_img_id: 713180
+org_cap: a vintage grey car with a wedding couple standing in front of it, with the bride leaning against the car and the groom holding her hand, surrounded by a fountain with water jets and a stop sign in the background.
+trg_cap: a vintage small grey car with a wedding couple standing in front of it, with the bride leaning against the car and the groom holding her hand, surrounded by a fountain with water jets and a stop sign in the background.
+instruction: Make the car smaller.
+taskid: 73778

@@ -1,0 +1,5 @@
+org_img_id: 2358533
+org_cap: A blond haired female person standing behind a blue motorcycle at a park.
+trg_cap: A pop art style art of a blond haired female person standing behind a blue motorcycle at a park.
+instruction: Change the style if the image to pop art style.
+taskid: 102531

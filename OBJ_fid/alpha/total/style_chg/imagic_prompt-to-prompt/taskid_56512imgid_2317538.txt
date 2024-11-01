@@ -1,0 +1,5 @@
+org_img_id: 2317538
+org_cap: A white cup filled with black coffee sits on a woven basket, surrounded by sliced and a few pieces of ripe, yellow, unpeeled banana, with a glass of orange juice and a few stray peels scattered around.
+trg_cap: An ancient Egyptian-style artwork depicts a white cup filled with black coffee sitting on a woven basket, surrounded by sliced and whole ripe yellow bananas, a glass of orange juice, and a few stray peels scattered around.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 56512

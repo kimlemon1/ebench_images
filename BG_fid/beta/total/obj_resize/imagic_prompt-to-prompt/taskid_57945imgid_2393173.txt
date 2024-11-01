@@ -1,0 +1,5 @@
+org_img_id: 2393173
+org_cap: A brown elderly dog with an umbrella and a brown elderly dog on an umbrella.
+trg_cap: A brown elderly dog with a small umbrella and a brown elderly dog on a small umbrella.
+instruction: Make the umbrella smaller.
+taskid: 57945

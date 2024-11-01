@@ -1,0 +1,5 @@
+org_img_id: 2390892
+org_cap: The bench is a gray, old, wood bench, adorned with a few wispy strands of grass and a solitary leaf from the nearby tree.
+trg_cap: The bench is a black, old, wood bench, adorned with a few wispy strands of grass and a solitary leaf from the nearby tree.
+instruction: Change the color of the bench from gray to black.
+taskid: 54320

@@ -1,0 +1,5 @@
+org_img_id: 2338008
+org_cap: The vintage-inspired vase, adorned with a delicate lace doily and a small, yellow flower, sat atop a rustic wooden table, surrounded by soft candlelight and a scattering of autumn leaves.
+trg_cap: An ancient Egypt-style artwork features a vintage-inspired vase adorned with a delicate lace doily and a small yellow flower, sitting atop a rustic wooden table surrounded by soft candlelight and a scattering of autumn leaves.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 54051

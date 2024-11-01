@@ -1,0 +1,5 @@
+org_img_id: 2402751
+org_cap: a person is being lifted onto the shoulders of another person, with a green frisbee held aloft in celebration.
+trg_cap: A person is being lifted onto the shoulders of another person on a sandy beach, with a green frisbee held aloft in celebration.
+instruction: Change the background to beach.
+taskid: 14088

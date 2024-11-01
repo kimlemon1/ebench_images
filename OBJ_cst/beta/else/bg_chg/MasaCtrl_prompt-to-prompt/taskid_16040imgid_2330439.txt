@@ -1,0 +1,5 @@
+org_img_id: 2330439
+org_cap: the scene is focused on a single television, situated in the center of a cozy living room, surrounded by a small coffee table and two bookshelves.
+trg_cap: The scene is focused on a single television, situated in the center of a cozy living room with large windows offering a view of a sprawling vineyard, surrounded by a small coffee table and two bookshelves.
+instruction: Change the background to vineyard.
+taskid: 16040

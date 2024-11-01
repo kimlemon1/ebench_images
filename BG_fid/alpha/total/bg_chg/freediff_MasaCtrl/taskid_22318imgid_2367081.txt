@@ -1,0 +1,5 @@
+org_img_id: 2367081
+org_cap: person in a red jacket and black hat is skiing down a snowy mountain, her skis over the powder as she the turns.
+trg_cap: A person in a red jacket and black hat is skiing down a snowy mountain, her skis over the powder as she turns, having trained extensively in the gym to build the strength and endurance needed for such a demanding sport.
+instruction: Change the background to gym.
+taskid: 22318

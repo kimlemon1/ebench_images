@@ -1,0 +1,5 @@
+org_img_id: 2396336
+org_cap: a white bird on a metal mesh bird feeder, its bright, curious eyes for its next meal.
+trg_cap: a green bird on a metal mesh bird feeder, its bright, curious eyes for its next meal.
+instruction: Change the color of the bird from white to green.
+taskid: 38139

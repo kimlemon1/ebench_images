@@ -1,0 +1,5 @@
+org_img_id: 1592007
+org_cap: the clock in the train station is a stunning piece of architecture, with intricate metalwork and ornate details adorning its face, set against a backdrop of gleaming steel beams and wooden accents.
+trg_cap: The graffiti art features a stunning piece of architecture: the clock in the train station, with intricate metalwork and ornate details adorning its face, set against a backdrop of gleaming steel beams and wooden accents.
+instruction: Change the style if the image to graffiti art.
+taskid: 6155

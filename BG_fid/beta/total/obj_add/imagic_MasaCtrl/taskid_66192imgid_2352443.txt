@@ -1,0 +1,5 @@
+org_img_id: 2352443
+org_cap: a skateboarder leaps off a concrete ramp, his skateboard flying high in the air as he performs a trick, the wheels spinning rapidly as he lands smoothly back on the ground.
+trg_cap: A skateboarder leaps off a concrete ramp, his skateboard flying high in the air with a dog perched on it as he performs a trick, the wheels spinning rapidly as he lands smoothly back on the ground.
+instruction: Add a dog on the skateboard.
+taskid: 66192

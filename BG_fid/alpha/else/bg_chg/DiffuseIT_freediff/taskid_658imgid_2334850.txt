@@ -1,0 +1,5 @@
+org_img_id: 2334850
+org_cap: "person on a horse on a sandy beach, wearing a helmet and a gentle smile."
+trg_cap: Person on a horse in a living room, wearing a helmet and a gentle smile.
+instruction: Change the background to living room.
+taskid: 658

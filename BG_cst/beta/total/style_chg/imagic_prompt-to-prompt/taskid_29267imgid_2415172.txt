@@ -1,0 +1,5 @@
+org_img_id: 2415172
+org_cap: the wooden bed with intricate carvings on the headboard and footboard stands against a backdrop of bookshelves, with a few books and decorative items scattered around.
+trg_cap: A Van Gogh style art features a wooden bed with intricate carvings on the headboard and footboard, standing against a backdrop of bookshelves with a few books and decorative items scattered around.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 29267

@@ -1,0 +1,5 @@
+org_img_id: 2346876
+org_cap: a train glides effortlessly over the elevated track, its sleek blue train a stark contrast to the vibrant orange and yellow hues of the surrounding buildings.
+trg_cap: a train glides effortlessly over the elevated track, its small, sleek blue train a stark contrast to the vibrant orange and yellow hues of the surrounding buildings.
+instruction: Make the train smaller.
+taskid: 43105

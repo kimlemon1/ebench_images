@@ -1,0 +1,5 @@
+org_img_id: 2345181
+org_cap: person strides through the snow-covered forest, her white skis gliding across the winter wonderland.
+trg_cap: person strides through the snow-covered forest, her red skis gliding across the winter wonderland.
+instruction: Change the color of the skis from white to red.
+taskid: 37889

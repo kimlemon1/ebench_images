@@ -1,0 +1,5 @@
+org_img_id: 2315471
+org_cap: The clock face is a circular clock with roman numerals and a subtle golden glow, surrounded by a decorative metal frame with intricate details and a subtle patina.
+trg_cap: The clock face is a circular clock with roman numerals and a subtle golden glow, surrounded by a decorative metal frame with intricate details and a subtle patina, with a bear positioned on the right side of the clock.
+instruction: Add a bear on the right side of the clock.
+taskid: 53706

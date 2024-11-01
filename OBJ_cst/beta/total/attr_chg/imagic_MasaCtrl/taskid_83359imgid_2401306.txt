@@ -1,0 +1,5 @@
+org_img_id: 2401306
+org_cap: a woman walks down the street, her black leather jacket and striped tights a stylish combination, carrying a leopard print handbag and holding a white umbrella to shield herself from the rain.
+trg_cap: a woman walks down the street, her black leather jacket and striped tights a stylish combination, carrying a leopard print handbag and holding a light blue umbrella to shield herself from the rain.
+instruction: Change the color of the umbrella from white to light blue.
+taskid: 83359

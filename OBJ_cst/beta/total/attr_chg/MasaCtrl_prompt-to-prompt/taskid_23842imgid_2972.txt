@@ -1,0 +1,5 @@
+org_img_id: 2972
+org_cap: a red brick building with ornate stone columns and balconies lines the pedestrian street, where a blue bus drives by and pedestrians stroll along the cobblestone pavement.
+trg_cap: a red brick building with ornate stone columns and balconies lines the pedestrian street, where a purple bus drives by and pedestrians stroll along the cobblestone pavement.
+instruction: Change the color of the bus from blue to purple.
+taskid: 23842

@@ -1,0 +1,5 @@
+org_img_id: 2414732
+org_cap: The blue, colorful bus has a livery, with windows and a grille, and is adorned with advertisements and a unit.
+trg_cap: The red, colorful bus has a livery, with windows and a grille, and is adorned with advertisements and a unit.
+instruction: Change the color of the bus from blue to red.
+taskid: 62054

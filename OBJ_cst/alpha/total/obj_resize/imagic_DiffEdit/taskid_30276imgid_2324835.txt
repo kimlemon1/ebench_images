@@ -1,0 +1,5 @@
+org_img_id: 2324835
+org_cap: Person, wearing a black rash guard and matching board shorts, rides a surfboard with a white fin, his blonde hair as he through the waves with a smile.
+trg_cap: Small person, wearing a black rash guard and matching board shorts, rides a surfboard with a white fin, his blonde hair as he through the waves with a smile.
+instruction: Make the person smaller.
+taskid: 30276

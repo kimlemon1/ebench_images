@@ -1,0 +1,5 @@
+org_img_id: 2367619
+org_cap: A person in a bedroom, wearing a red tank top and denim shorts, with a black suitcase and clothes scattered around.
+trg_cap: A person in a bedroom, wearing a red tank top and denim shorts, with a small black suitcase and clothes scattered around.
+instruction: Make the suitcase smaller.
+taskid: 58707

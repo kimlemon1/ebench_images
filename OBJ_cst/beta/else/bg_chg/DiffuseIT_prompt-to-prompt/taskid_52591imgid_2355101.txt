@@ -1,0 +1,5 @@
+org_img_id: 2355101
+org_cap: the small, white sink in the bathroom has a rounded edge and a single handle faucet.
+trg_cap: The small, white sink in the bathroom, set against the rugged stone walls of the cave, has a rounded edge and a single handle faucet.
+instruction: Change the background to cave.
+taskid: 52591

@@ -1,0 +1,5 @@
+org_img_id: 2409587
+org_cap: The scene is focused on a brown dog.
+trg_cap: The scene is focused on a large brown dog.
+instruction: Make the dog larger.
+taskid: 29062

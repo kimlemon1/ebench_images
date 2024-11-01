@@ -1,0 +1,5 @@
+org_img_id: 2408000
+org_cap: The black train chugs along the snow-covered tracks, its wheels clicking on the frozen rails as a group of people in winter coats and hats watch from the platform, the winter sun casting a warm glow over the scene.
+trg_cap: The large black train chugs along the snow-covered tracks, its wheels clicking on the frozen rails as a group of people in winter coats and hats watch from the platform, the winter sun casting a warm glow over the scene.
+instruction: Make the train larger.
+taskid: 33336

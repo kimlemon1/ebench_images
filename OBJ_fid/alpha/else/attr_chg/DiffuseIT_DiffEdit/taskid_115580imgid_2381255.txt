@@ -1,0 +1,5 @@
+org_img_id: 2381255
+org_cap: The stainless steel refrigerator is an appliance, standing against the wall in the kitchen.
+trg_cap: The glass refrigerator is an appliance, standing against the wall in the kitchen.
+instruction: Change the material of the refrigerator from stainless steel to glass.
+taskid: 115580

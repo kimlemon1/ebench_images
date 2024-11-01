@@ -1,0 +1,5 @@
+org_img_id: 2317091
+org_cap: A white bowl sits on a table, filled with a rich, purple liquid and topped with a sprinkle of blueberries and a slice of bread.
+trg_cap: A white bed sits on a bed.
+instruction: Replace the bowl with a bed.
+taskid: 104899

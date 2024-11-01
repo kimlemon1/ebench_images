@@ -1,0 +1,5 @@
+org_img_id: 2366839
+org_cap: A brown teddy bear sits on a pink blanket, wearing a pair of sunglasses and holding a pair of earbuds, with a faintly visible cityscape outside the window.
+trg_cap: A orange teddy bear sits on a pink blanket, wearing a pair of sunglasses and holding a pair of earbuds, with a faintly visible cityscape outside the window.
+instruction: Change the color of the teddy bear from brown to orange.
+taskid: 89284

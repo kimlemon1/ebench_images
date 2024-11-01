@@ -1,0 +1,5 @@
+org_img_id: 2327979
+org_cap: a lying cat on top of a suitcase, its fur fluffed up and its eyes closed in a relaxed pose.
+trg_cap: A lying cat on top of a suitcase in a grass field, its fur fluffed up and its eyes closed in a relaxed pose.
+instruction: Change the background to grass field.
+taskid: 13915

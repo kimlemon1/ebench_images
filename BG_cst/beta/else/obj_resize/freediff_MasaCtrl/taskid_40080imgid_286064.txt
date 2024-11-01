@@ -1,0 +1,5 @@
+org_img_id: 286064
+org_cap: The truck is a white truck.
+trg_cap: The truck is a small white truck.
+instruction: Make the truck smaller.
+taskid: 40080

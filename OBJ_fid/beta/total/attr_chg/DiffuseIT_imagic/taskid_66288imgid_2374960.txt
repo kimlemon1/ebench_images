@@ -1,0 +1,5 @@
+org_img_id: 2374960
+org_cap: Person skis through the air as person leaps off the snow, his body a blur of motion as he flies towards the landing zone.
+trg_cap: Person skis through the air as person leaps off the snow, his body a blur of motion as he flies towards the landing zone.
+instruction: Change the color of the skis from green to gray.
+taskid: 66288

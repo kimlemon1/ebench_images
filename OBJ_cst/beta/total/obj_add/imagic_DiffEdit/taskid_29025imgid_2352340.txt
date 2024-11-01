@@ -1,0 +1,5 @@
+org_img_id: 2352340
+org_cap: A person, person, rides a white surfboard through a turbulent sea of water, with waves and foamy around him.
+trg_cap: A person, person, rides a white surfboard through a turbulent sea of water, with waves and foamy around him, with a cell phone on the right side of the surfboard.
+instruction: Add a cell phone on the right side of the surfboard.
+taskid: 29025

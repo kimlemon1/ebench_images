@@ -1,0 +1,5 @@
+org_img_id: 2411426
+org_cap: A young Caucasian person is standing and surfing on a worn, striped surfboard, his legs and feet as he moves through the waves.
+trg_cap: A young Caucasian person is standing and surfing on a worn, striped surfboard, his legs and feet as he moves through the waves, with a bird perched on his shoulder.
+instruction: Add a bird on the person.
+taskid: 63934

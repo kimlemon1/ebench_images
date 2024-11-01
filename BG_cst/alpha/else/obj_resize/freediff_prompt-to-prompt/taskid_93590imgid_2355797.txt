@@ -1,0 +1,5 @@
+org_img_id: 2355797
+org_cap: A gray cell phone sat next to a glass bottle filled with a fizzy drink.
+trg_cap: A small gray cell phone sat next to a glass bottle filled with a fizzy drink.
+instruction: Make the cell phone smaller.
+taskid: 93590

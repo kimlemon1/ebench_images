@@ -1,0 +1,5 @@
+org_img_id: 2348112
+org_cap: The scene features a curious cat with a tongue lapping at the keys of a white keyboard.
+trg_cap: The scene features a curious cat with a tongue lapping at the keys of a blue keyboard.
+instruction: Change the color of the keyboard from white to blue.
+taskid: 25133

@@ -1,0 +1,5 @@
+org_img_id: 2415353
+org_cap: a man sits in a tan boat with a seat and a single oar attached to a metal shaft, floating on a misty lake surrounded by rugged mountains.
+trg_cap: A man sits in a tan boat with a seat and a single oar attached to a metal shaft, floating on a misty lake surrounded by rugged mountains and lush vineyards.
+instruction: Change the background to vineyard.
+taskid: 59025

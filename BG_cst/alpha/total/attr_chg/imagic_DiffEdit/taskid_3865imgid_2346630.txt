@@ -1,0 +1,5 @@
+org_img_id: 2346630
+org_cap: a black cat sitting and lying in a small, shallow bowl made of tin, surrounded by the wooden table and chairs.
+trg_cap: a tabby cat sitting and lying in a small, shallow bowl made of tin, surrounded by the wooden table and chairs.
+instruction: Change the color of the cat from black to tabby.
+taskid: 3865

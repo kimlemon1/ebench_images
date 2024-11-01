@@ -1,0 +1,5 @@
+org_img_id: 2336917
+org_cap: a black train with yellow stripes and a bright yellow train at the front, parked on the platform with a group of people in orange vests standing nearby.
+trg_cap: The pop art style artwork features a black train with yellow stripes and a bright yellow train at the front, parked on the platform with a group of people in orange vests standing nearby.
+instruction: Change the style if the image to pop art style.
+taskid: 120097

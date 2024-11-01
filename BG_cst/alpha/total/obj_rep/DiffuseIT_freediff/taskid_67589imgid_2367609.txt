@@ -1,0 +1,5 @@
+org_img_id: 2367609
+org_cap: As person's person off the court, she let out a triumphant cry, her ponytail with each nod.
+trg_cap: As sheep, she let out a triumphant cry, her ponytail bouncing with each nod.
+instruction: Replace the person with a sheep.
+taskid: 67589

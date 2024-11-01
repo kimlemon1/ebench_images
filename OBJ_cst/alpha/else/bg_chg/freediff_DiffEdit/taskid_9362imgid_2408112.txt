@@ -1,0 +1,5 @@
+org_img_id: 2408112
+org_cap: The blue clock tower stands tall, its stone fade weathered to a warm, golden brown, with intricate carvings and ornate details adorning it, while the modern glass and steel structure rises beside it, a stark contrast between old and new.
+trg_cap: Perched on a mountain top, the blue clock tower stands tall, its stone fade weathered to a warm, golden brown, with intricate carvings and ornate details adorning it, while the modern glass and steel structure rises beside it, a stark contrast between old and new.
+instruction: Change the background to mountain top.
+taskid: 9362

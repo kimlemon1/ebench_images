@@ -1,0 +1,5 @@
+org_img_id: 2414798
+org_cap: A gray, striped cat sits on the edge of a television screen, its paws over the rim and its whiskers as it stares at the flickering images on the screen.
+trg_cap: A gray, gray cat sits on the edge of a television screen, its paws over the rim and its whiskers as it stares at the flickering images on the screen.
+instruction: Change the color of the cat from striped to gray.
+taskid: 32579

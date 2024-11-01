@@ -1,0 +1,5 @@
+org_img_id: 2416551
+org_cap: a giraffe stands, its long neck and legs above a group of zebras grazing in the nearby grass.
+trg_cap: A giraffe stands, its long neck and legs above a group of zebras grazing in the nearby grass, as planes take off and land at the bustling airport in the distance.
+instruction: Change the background to airport.
+taskid: 26709

@@ -1,0 +1,5 @@
+org_img_id: 2379851
+org_cap: a plate of pizza with various toppings, including olives, artichokes, and feta cheese, sits on a table alongside a cup of cup and a few snacks.
+trg_cap: A plate of pizza with various toppings, including olives, artichokes, and feta cheese, sits on a table by the lakeside alongside a cup of cup and a few snacks.
+instruction: Change the background to lake side.
+taskid: 44064

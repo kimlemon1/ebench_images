@@ -1,0 +1,5 @@
+org_img_id: 2414767
+org_cap: A standing horse, with a rider and a few people gathered around, looking at a map and discussing their next move.
+trg_cap: A standing bowl, with a rider and a few people gathered around it, looking at a map and discussing their next move.
+instruction: Replace the horse with a bowl.
+taskid: 45343

@@ -1,0 +1,5 @@
+org_img_id: 2334272
+org_cap: person through the snow-covered forest, wearing a black jacket and snowshoes, with a determined look on his face.
+trg_cap: person through the snow-covered forest, wearing a black jacket and snowshoes, with a determined look on his face, with a banana under him.
+instruction: Add a banana under the person.
+taskid: 46433

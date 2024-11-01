@@ -1,0 +1,5 @@
+org_img_id: 2372271
+org_cap: The clock face features intricate carvings of mythological creatures and figures, with a large circular clock adorned with roman numerals and ornate details.
+trg_cap: The toaster's face features intricate carvings of mythological creatures and figures.
+instruction: Replace the clock with a toaster.
+taskid: 87907

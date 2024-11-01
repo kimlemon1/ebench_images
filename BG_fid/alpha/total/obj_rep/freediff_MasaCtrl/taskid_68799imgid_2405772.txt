@@ -1,0 +1,5 @@
+org_img_id: 2405772
+org_cap: A clear glass bowl sits on the kitchen counter, filled with sliced tomatoes and a few leaves.
+trg_cap: A clear glass donut filled with sliced tomatoes and some leaves.
+instruction: Replace the bowl with a donut.
+taskid: 68799

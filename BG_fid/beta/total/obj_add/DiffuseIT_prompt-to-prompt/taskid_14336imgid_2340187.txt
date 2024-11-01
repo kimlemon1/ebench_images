@@ -1,0 +1,5 @@
+org_img_id: 2340187
+org_cap: Person in front of a row of sinks in a small, cramped bathroom, a camera and a photo of the surroundings.
+trg_cap: Person in front of a row of sinks in a small, cramped bathroom, a camera and a photo of the surroundings, with an airplane above the person.
+instruction: Add a airplane above the person.
+taskid: 14336

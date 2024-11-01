@@ -1,0 +1,5 @@
+org_img_id: 2354567
+org_cap: a person holds a bottle.
+trg_cap: The person holds an apple.
+instruction: Replace the bottle with a apple.
+taskid: 15790

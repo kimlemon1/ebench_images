@@ -1,0 +1,5 @@
+org_img_id: 2346894
+org_cap: a small, grayish-white bird with a rounded body and a distinctive gray patch on its forehead on the calm waters of the river.
+trg_cap: a small, grayish-white bird with a rounded body and a distinctive gray patch on its forehead on the mountain top.
+instruction: Change the background to mountain top.
+taskid: 23929

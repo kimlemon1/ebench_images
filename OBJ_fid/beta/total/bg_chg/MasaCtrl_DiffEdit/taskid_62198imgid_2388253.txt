@@ -1,0 +1,5 @@
+org_img_id: 2388253
+org_cap: a standing, grazing giraffe on the grass in a sunny clearing surrounded by tall trees.
+trg_cap: A standing, grazing giraffe on the grass in a sunny clearing surrounded by tall trees, with the distant silhouette of a space station visible in the sky.
+instruction: Change the background to space station.
+taskid: 62198

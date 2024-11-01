@@ -1,0 +1,5 @@
+org_img_id: 2417086
+org_cap: a person in a wetsuit holds an orange surfboard, with waves crashing in the background.
+trg_cap: A person in a wetsuit holds an orange surfboard, with the sounds of animals and the bustling atmosphere of a zoo in the background.
+instruction: Change the background to zoo.
+taskid: 5296

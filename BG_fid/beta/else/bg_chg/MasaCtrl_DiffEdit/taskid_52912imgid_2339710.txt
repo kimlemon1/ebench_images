@@ -1,0 +1,5 @@
+org_img_id: 2339710
+org_cap: a red tube train with yellow stripes and a rounded front, standing on the platform with its doors open and passengers boarding and exiting.
+trg_cap: A red tube train with yellow stripes and a rounded front, standing on the platform with its doors open and passengers boarding and exiting, set against the backdrop of a vast desert landscape.
+instruction: Change the background to desert.
+taskid: 52912

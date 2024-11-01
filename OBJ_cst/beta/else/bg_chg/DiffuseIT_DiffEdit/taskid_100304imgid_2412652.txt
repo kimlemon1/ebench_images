@@ -1,0 +1,5 @@
+org_img_id: 2412652
+org_cap: The gray, walking elephant stood on the circular stage, its skin in the bright lights, its tusks, and its trunk by a person in a bright red costume.
+trg_cap: The gray, walking elephant stood on the circular stage, its skin in the bright lights, its tusks, and its trunk by a person in a bright red costume, as the sounds of a bustling train station echoed in the background.
+instruction: Change the background to train station.
+taskid: 100304

@@ -1,0 +1,5 @@
+org_img_id: 2344113
+org_cap: Skiing person carves through the powder, skis leaving a trail of fresh snow in wake as navigates the mountain.
+trg_cap: Skiing person carves through the powder, skis leaving a trail of fresh snow in wake as navigates the mountain, reminiscent of the agility and strength built in the gym.
+instruction: Change the background to gym.
+taskid: 12033

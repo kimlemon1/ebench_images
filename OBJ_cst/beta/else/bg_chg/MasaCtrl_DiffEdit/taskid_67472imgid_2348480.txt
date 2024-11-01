@@ -1,0 +1,5 @@
+org_img_id: 2348480
+org_cap: "Person throws a fastball down the middle of the plate."
+trg_cap: In the midst of a tropical jungle, a person throws a fastball down the middle of the plate.
+instruction: Change the background to tropical jungle.
+taskid: 67472

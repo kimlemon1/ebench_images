@@ -1,0 +1,5 @@
+org_img_id: 2362939
+org_cap: the clock face is a intricately designed fondant cake, featuring a large clock face with roman numerals and a delicate gold trim, surrounded by tiny clock hands and numbers.
+trg_cap: The pop art style artwork features an intricately designed fondant cake with a large clock face adorned with Roman numerals, a delicate gold trim, and surrounded by tiny clock hands and numbers.
+instruction: Change the style if the image to pop art style.
+taskid: 70426

@@ -1,0 +1,5 @@
+org_img_id: 2380348
+org_cap: a gray cat on a red suitcase, its paws and its eyes on something in the distance.
+trg_cap: A watercolor painting style art features a gray cat on a red suitcase, with its paws and eyes focused on something in the distance.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 41168

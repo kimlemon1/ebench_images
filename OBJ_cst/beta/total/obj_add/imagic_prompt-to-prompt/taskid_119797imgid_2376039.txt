@@ -1,0 +1,5 @@
+org_img_id: 2376039
+org_cap: A person down a cobblestone street, a bright red umbrella.
+trg_cap: A person down a cobblestone street, an elephant in front of a bright red umbrella.
+instruction: Add a elephant in front of the umbrella.
+taskid: 119797

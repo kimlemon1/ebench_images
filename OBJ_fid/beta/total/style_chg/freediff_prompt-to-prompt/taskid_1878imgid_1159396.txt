@@ -1,0 +1,5 @@
+org_img_id: 1159396
+org_cap: A person standing in front of a motorcycle, another person on the right of it
+trg_cap: a watercolor painting style image contains a person standing in front of a motorcycle, another person on the right of it
+instruction: Change the style if the image to watercolor painting style.
+taskid: 1878

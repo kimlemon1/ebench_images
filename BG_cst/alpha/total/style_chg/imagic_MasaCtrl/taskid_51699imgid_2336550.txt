@@ -1,0 +1,5 @@
+org_img_id: 2336550
+org_cap: A zebra in a dry savannah, its striped coat blending with the grasses and acacia trees in the background.
+trg_cap: A cartoon style art features a zebra in a dry savannah, its striped coat blending with the grasses and acacia trees in the background.
+instruction: Change the style if the image to cartoon style.
+taskid: 51699

@@ -1,0 +1,5 @@
+org_img_id: 2366850
+org_cap: A brown dog with a collar and a collar tag sits across a pink and white striped camping chair, its paws out to the sides and its ears in the breeze.
+trg_cap: A brown dog with a collar and a collar tag sits across a pink and white striped camping chair in a library, its paws out to the sides and its ears in the breeze.
+instruction: Change the background to library.
+taskid: 4889

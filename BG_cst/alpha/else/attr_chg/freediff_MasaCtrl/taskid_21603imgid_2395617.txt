@@ -1,0 +1,5 @@
+org_img_id: 2395617
+org_cap: a delicate pink hibiscus blooms in a clear glass vase on a white bathroom counter, surrounded by the soft glow of a lamp and the gentle curves of a vintage sink.
+trg_cap: a delicate pink hibiscus blooms in a clear ceramic vase on a white bathroom counter, surrounded by the soft glow of a lamp and the gentle curves of a vintage sink.
+instruction: Change the material of the vase from glass to ceramic.
+taskid: 21603

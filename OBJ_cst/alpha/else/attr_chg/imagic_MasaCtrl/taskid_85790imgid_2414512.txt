@@ -1,0 +1,5 @@
+org_img_id: 2414512
+org_cap: A red wood boat glides across the water, with the lighthouse standing tall on the shore.
+trg_cap: A orange wood boat glides across the water, with the lighthouse standing tall on the shore.
+instruction: Change the color of the boat from red to orange.
+taskid: 85790

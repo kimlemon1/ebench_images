@@ -1,0 +1,5 @@
+org_img_id: 2406352
+org_cap: young surfing person rides a yellow surfboard through the turquoise waters, his rash guard in the wind as he through the waves.
+trg_cap: young surfing person rides a black and white surfboard through the turquoise waters, his rash guard in the wind as he through the waves.
+instruction: Change the color of the surfboard from yellow to black and white.
+taskid: 45039

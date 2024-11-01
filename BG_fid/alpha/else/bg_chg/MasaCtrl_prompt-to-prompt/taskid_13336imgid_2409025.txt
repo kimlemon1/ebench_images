@@ -1,0 +1,5 @@
+org_img_id: 2409025
+org_cap: person sat at a table in a restaurant, surrounded by the warm glow of candles and the soft hum of background music.
+trg_cap: Person sat at a table in a library, surrounded by the warm glow of candles and the soft hum of background music.
+instruction: Change the background to library.
+taskid: 13336

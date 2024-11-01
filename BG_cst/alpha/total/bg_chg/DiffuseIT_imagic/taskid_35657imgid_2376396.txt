@@ -1,0 +1,5 @@
+org_img_id: 2376396
+org_cap: A standing black dog stands on the road, its fur fluffed up in the breeze, its eyes fixed on a discarded orange traffic cone.
+trg_cap: A standing black dog stands on the road near the gym, its fur fluffed up in the breeze, its eyes fixed on a discarded orange traffic cone.
+instruction: Change the background to gym.
+taskid: 35657

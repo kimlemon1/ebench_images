@@ -1,0 +1,5 @@
+org_img_id: 2416890
+org_cap: a black double-decker bus with a witch-themed design and bright red stripes drives along the cobblestone street in front of a historic stone building with a pointed roof.
+trg_cap: The graffiti art features a black double-decker bus with a witch-themed design and bright red stripes driving along the cobblestone street in front of a historic stone building with a pointed roof.
+instruction: Change the style if the image to graffiti art.
+taskid: 116350

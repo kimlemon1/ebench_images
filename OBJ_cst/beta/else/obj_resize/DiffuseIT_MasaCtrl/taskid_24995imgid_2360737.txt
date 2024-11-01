@@ -1,0 +1,5 @@
+org_img_id: 2360737
+org_cap: The black train has a livery with a stripe running along its side, and its doors are adorned with a stripe.
+trg_cap: The small black train has a livery with a stripe running along its side, and its doors are adorned with a stripe.
+instruction: Make the train smaller.
+taskid: 24995

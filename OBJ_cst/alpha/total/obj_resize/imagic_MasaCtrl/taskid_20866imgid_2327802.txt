@@ -1,0 +1,5 @@
+org_img_id: 2327802
+org_cap: The remote is a white remote with a long cord and a small clip attached to the end.
+trg_cap: The remote is a small white remote with a long cord and a small clip attached to the end.
+instruction: Make the remote smaller.
+taskid: 20866

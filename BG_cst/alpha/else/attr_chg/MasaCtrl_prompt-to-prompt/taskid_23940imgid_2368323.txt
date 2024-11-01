@@ -1,0 +1,5 @@
+org_img_id: 2368323
+org_cap: a white cat lying on a turquoise countertop, its tail around its body.
+trg_cap: a cream colored cat lying on a turquoise countertop, its tail around its body.
+instruction: Change the color of the cat from white to cream colored.
+taskid: 23940

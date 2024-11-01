@@ -1,0 +1,5 @@
+org_img_id: 2324724
+org_cap: "a small person in a bright blue snowsuit and matching hat, with a pink scarf and mittens, on the snow-covered slope, with a determined expression."
+trg_cap: A graffiti art depicts a small person in a bright blue snowsuit and matching hat, with a pink scarf and mittens, on the snow-covered slope, with a determined expression.
+instruction: Change the style if the image to graffiti art.
+taskid: 120620

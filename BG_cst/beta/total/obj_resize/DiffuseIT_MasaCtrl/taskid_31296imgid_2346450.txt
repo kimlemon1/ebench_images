@@ -1,0 +1,5 @@
+org_img_id: 2346450
+org_cap: a black bear the ground with its claws.
+trg_cap: a small black bear the ground with its claws.
+instruction: Make the bear smaller.
+taskid: 31296

@@ -1,0 +1,5 @@
+org_img_id: 2389605
+org_cap: A white computer tower sits on a wooden desk, surrounded by a white keyboard and a small, sleek laptop.
+trg_cap: The mosaic art features a white computer tower sitting on a wooden desk, surrounded by a white keyboard and a small, sleek laptop.
+instruction: Change the style if the image to mosaic art.
+taskid: 77999

@@ -1,0 +1,5 @@
+org_img_id: 2331238
+org_cap: a dog with a brown coat and white patches chases a sheep with a fluffy white coat and black face, across a green grassy meadow.
+trg_cap: A dog with a brown coat and white patches chases a sheep with a fluffy white coat and black face, across a living room.
+instruction: Change the background to living room.
+taskid: 67728

@@ -1,0 +1,5 @@
+org_img_id: 2395003
+org_cap: Person, wearing a black tank top and black pants, with a white hat and sunglasses, and holding a skateboard.
+trg_cap: Horse.
+instruction: Replace the person with a horse.
+taskid: 83713

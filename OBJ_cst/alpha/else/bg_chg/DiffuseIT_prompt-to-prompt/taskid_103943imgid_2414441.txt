@@ -1,0 +1,5 @@
+org_img_id: 2414441
+org_cap: Person swings her racket, her ponytail bouncing as she chases down a forehand winner.
+trg_cap: Person swings her racket, her ponytail bouncing as she chases down a forehand winner, the ancient ruins standing silently in the background.
+instruction: Change the background to ancient ruins.
+taskid: 103943

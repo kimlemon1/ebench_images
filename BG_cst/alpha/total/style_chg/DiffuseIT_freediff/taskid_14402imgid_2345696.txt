@@ -1,0 +1,5 @@
+org_img_id: 2345696
+org_cap: a person sits on the stairs, holding a bottle with a red cap and a white label.
+trg_cap: An oil painting style artwork depicts a person sitting on the stairs, holding a bottle with a red cap and a white label.
+instruction: Change the style if the image to oil painting style.
+taskid: 14402

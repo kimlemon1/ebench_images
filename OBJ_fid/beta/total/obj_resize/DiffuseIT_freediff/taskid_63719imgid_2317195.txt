@@ -1,0 +1,5 @@
+org_img_id: 2317195
+org_cap: A person stands beside a large elephant, which is on its hind legs with its trunk, its tusks visible and its ears in the wind.
+trg_cap: A person stands beside a small elephant, which is on its hind legs with its trunk, its tusks visible and its ears in the wind.
+instruction: Make the elephant smaller.
+taskid: 63719

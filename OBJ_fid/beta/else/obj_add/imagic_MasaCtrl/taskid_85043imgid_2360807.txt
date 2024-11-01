@@ -1,0 +1,5 @@
+org_img_id: 2360807
+org_cap: a lone person in a gray sweater along the stone wall, a large clock face mounted on a metal pole, with the blue ocean stretching out behind.
+trg_cap: a lone person in a gray sweater along the stone wall, a large clock face mounted on a metal pole with a vase next to it, with the blue ocean stretching out behind.
+instruction: Add a vase next to the clock.
+taskid: 85043

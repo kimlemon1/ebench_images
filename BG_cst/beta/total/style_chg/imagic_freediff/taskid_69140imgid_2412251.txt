@@ -1,0 +1,5 @@
+org_img_id: 2412251
+org_cap: A orange carrot lies on a white cutting board, its tapered end still attached to the rest of the carrot, with a sharp kitchen knife resting nearby.
+trg_cap: A grey scale photo shows an orange carrot lying on a white cutting board, its tapered end still attached, with a sharp kitchen knife resting nearby.
+instruction: Change the style if the image to grey scale.
+taskid: 69140

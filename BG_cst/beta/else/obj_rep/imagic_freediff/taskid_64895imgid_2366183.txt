@@ -1,0 +1,5 @@
+org_img_id: 2366183
+org_cap: a giraffe stands on its long legs, its neck stretched, its long eyelashes blinking, its ears flapping, and its hooves digging into the brick wall.
+trg_cap: The book stands on the brick wall.
+instruction: Replace the giraffe with a book.
+taskid: 64895

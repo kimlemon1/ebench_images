@@ -1,0 +1,5 @@
+org_img_id: 2392015
+org_cap: Jumping person, his snowboard as he in a flurry of snow.
+trg_cap: Jumping car, he snowboarded in a flurry of snow.
+instruction: Replace the person with a car.
+taskid: 105322

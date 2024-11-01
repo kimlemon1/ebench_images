@@ -1,0 +1,5 @@
+org_img_id: 2397046
+org_cap: a person holds a colorful, rainbow colored kite, its kite fluttering in the wind.
+trg_cap: a person holds a colorful, yellow kite, its kite fluttering in the wind.
+instruction: Change the color of the kite from rainbow colored to yellow.
+taskid: 106513

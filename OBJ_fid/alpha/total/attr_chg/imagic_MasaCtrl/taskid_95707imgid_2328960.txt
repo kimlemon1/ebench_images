@@ -1,0 +1,5 @@
+org_img_id: 2328960
+org_cap: A young white dog with big brown eyes and a tail is sitting on the green grass, a white frisbee in its mouth, playing.
+trg_cap: A young cream colored dog with big brown eyes and a tail is sitting on the green grass, a cream colored frisbee in its mouth, playing.
+instruction: Change the color of the dog from white to cream colored.
+taskid: 95707

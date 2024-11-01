@@ -1,0 +1,5 @@
+org_img_id: 1593079
+org_cap: The gray aluminum baseball bat swings in a smooth arc, connecting with the ball as the catcher's mitt closes around it, the sound of the crack of the bat echoing through the quiet afternoon air.
+trg_cap: The tan aluminum baseball bat swings in a smooth arc, connecting with the ball as the catcher's mitt closes around it, the sound of the crack of the bat echoing through the quiet afternoon air.
+instruction: Change the color of the baseball bat from gray to tan.
+taskid: 36501

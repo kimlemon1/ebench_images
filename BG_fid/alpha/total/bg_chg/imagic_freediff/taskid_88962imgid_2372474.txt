@@ -1,0 +1,5 @@
+org_img_id: 2372474
+org_cap: The black clock hangs on the wall above the fireplace, its black clock and roman numerals a testament to a bygone era.
+trg_cap: The black clock hangs on the wall above the fireplace, its black clock and roman numerals a testament to a bygone era, reminiscent of the grand entrance to the old zoo where time seemed to stand still.
+instruction: Change the background to zoo.
+taskid: 88962

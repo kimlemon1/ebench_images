@@ -1,0 +1,5 @@
+org_img_id: 2324840
+org_cap: the chair is a simple, wooden design with a flat seat and backrest, placed in front of a brick fireplace with a small, metal stove and a wooden mantel.
+trg_cap: The chair is a small, simple, wooden design with a flat seat and backrest, placed in front of a brick fireplace with a small, metal stove and a wooden mantel.
+instruction: Make the chair smaller.
+taskid: 99545

@@ -1,0 +1,5 @@
+org_img_id: 2324606
+org_cap: The kitchen features a black microwave, a black refrigerator with a stainless steel door handle, and an oven with a wooden cabinet surrounding it.
+trg_cap: The kitchen features a black bear, a black refrigerator with a stainless steel door handle, and a wooden cabinet surrounding the oven.
+instruction: Replace the microwave with a bear.
+taskid: 114827

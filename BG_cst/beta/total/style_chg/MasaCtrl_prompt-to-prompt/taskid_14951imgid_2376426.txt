@@ -1,0 +1,5 @@
+org_img_id: 2376426
+org_cap: a yellow and blue sports ball lies in the sand.
+trg_cap: An oil painting style artwork features a yellow and blue sports ball lying in the sand.
+instruction: Change the style if the image to oil painting style.
+taskid: 14951

@@ -1,0 +1,5 @@
+org_img_id: 286050
+org_cap: a person sits at a table, wearing a casual outfit and holding a black cell phone, resting against the edge of the table.
+trg_cap: a person sits at a table, wearing a casual outfit and holding a large black cell phone, resting against the edge of the table.
+instruction: Make the cell phone larger.
+taskid: 28166

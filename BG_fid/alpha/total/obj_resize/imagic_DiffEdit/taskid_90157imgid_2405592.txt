@@ -1,0 +1,5 @@
+org_img_id: 2405592
+org_cap: A brown teddy bear sits on a worn, beige couch.
+trg_cap: A large, brown teddy bear sits on a worn, beige couch.
+instruction: Make the teddy bear larger.
+taskid: 90157

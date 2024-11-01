@@ -1,0 +1,5 @@
+org_img_id: 2364421
+org_cap: The black laptop sits open on a table, surrounded by a clutter of wires, cables, and electronic components.
+trg_cap: The black laptop sits folded on a table, surrounded by a clutter of wires, cables, and electronic components.
+instruction: Change the state of the laptop from open to folded.
+taskid: 105123

@@ -1,0 +1,5 @@
+org_img_id: 2355496
+org_cap: a train with a sleek, green livery and a distinctive rounded nose, carrying passengers in rows of seats with windows and a bridge above the tracks, chugs along the railroad tracks suspended above a riverbank lined with trees and a steel bridge in the distance.
+trg_cap: a small train with a sleek, green livery and a distinctive rounded nose, carrying passengers in rows of seats with windows and a bridge above the tracks, chugs along the railroad tracks suspended above a riverbank lined with trees and a steel bridge in the distance.
+instruction: Make the train smaller.
+taskid: 38691

@@ -1,0 +1,5 @@
+org_img_id: 2320523
+org_cap: the cake is a towering masterpiece of cake and cake, adorned with intricate piping and delicate red flowers, topped with a gleaming chocolate ganache and surrounded by a halo of golden sprinkles.
+trg_cap: The cake is a small, towering masterpiece of cake and cake, adorned with intricate piping and delicate red flowers, topped with a gleaming chocolate ganache and surrounded by a halo of golden sprinkles.
+instruction: Make the cake smaller.
+taskid: 23714

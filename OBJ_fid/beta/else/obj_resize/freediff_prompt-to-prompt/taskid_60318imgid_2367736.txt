@@ -1,0 +1,5 @@
+org_img_id: 2367736
+org_cap: my hand holds a juicy apple with a slight bite taken out of apple.
+trg_cap: my hand holds a small, juicy apple with a slight bite taken out of apple.
+instruction: Make the apple smaller.
+taskid: 60318

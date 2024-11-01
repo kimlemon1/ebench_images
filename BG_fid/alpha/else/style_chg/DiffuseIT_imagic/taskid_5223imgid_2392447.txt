@@ -1,0 +1,5 @@
+org_img_id: 2392447
+org_cap: person through the deep snow, leaving a trail of footprints behind him as he with his blue backpack.
+trg_cap: A grayscale photo shows a person with a blue backpack walking through deep snow, leaving a trail of footprints behind.
+instruction: Change the style if the image to grey scale.
+taskid: 5223

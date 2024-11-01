@@ -1,0 +1,5 @@
+org_img_id: 2396037
+org_cap: A young person rides a skateboard in a circular bowl, his wheels spinning as he skateboarding the concrete surface.
+trg_cap: A elderly person rides a skateboard in a circular bowl, his wheels spinning as he skateboarding the concrete surface.
+instruction: Change the state of the person from young to elderly.
+taskid: 96796

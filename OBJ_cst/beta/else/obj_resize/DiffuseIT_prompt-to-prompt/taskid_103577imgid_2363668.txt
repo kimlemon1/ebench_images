@@ -1,0 +1,5 @@
+org_img_id: 2363668
+org_cap: a black dog lying in a pile of autumn leaves, a white frisbee in its mouth, playing.
+trg_cap: a black dog lying in a pile of autumn leaves, a large white frisbee in its mouth, playing.
+instruction: Make the frisbee larger.
+taskid: 103577

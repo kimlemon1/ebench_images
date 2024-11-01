@@ -1,0 +1,5 @@
+org_img_id: 2322055
+org_cap: a person in a backpack, a no-parking sign and a row of parked cars.
+trg_cap: a person with a banana in a backpack, a no-parking sign and a row of parked cars.
+instruction: Add a banana in the backpack.
+taskid: 33813

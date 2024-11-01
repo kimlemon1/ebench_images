@@ -1,0 +1,5 @@
+org_img_id: 2410999
+org_cap: A yellow airplane flies through the sky, its wings and tail visible against a bright blue background.
+trg_cap: A small yellow airplane flies through the sky, its wings and tail visible against a bright blue background.
+instruction: Make the airplane smaller.
+taskid: 45726

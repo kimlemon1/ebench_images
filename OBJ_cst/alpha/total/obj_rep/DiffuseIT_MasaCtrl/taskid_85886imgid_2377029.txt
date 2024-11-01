@@ -1,0 +1,5 @@
+org_img_id: 2377029
+org_cap: a young person, dressed in casual jeans and a black jacket, holds a broken black umbrella over his head as he walks down the street during a rainstorm.
+trg_cap: A young person, dressed in casual jeans and a black jacket, holds a bicycle as they walk down the street during a rainstorm.
+instruction: Replace the umbrella with a bicycle.
+taskid: 85886

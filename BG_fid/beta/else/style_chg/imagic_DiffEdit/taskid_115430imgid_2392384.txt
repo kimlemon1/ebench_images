@@ -1,0 +1,5 @@
+org_img_id: 2392384
+org_cap: The bus is a teal bus.
+trg_cap: The mosaic art contains a teal bus.
+instruction: Change the style if the image to mosaic art.
+taskid: 115430

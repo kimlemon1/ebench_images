@@ -1,0 +1,5 @@
+org_img_id: 2333673
+org_cap: a small person in a green jacket and hat stands alone on a grassy field.
+trg_cap: A small person in a green jacket and hat stands alone on a grassy field, with a refrigerator in front of them.
+instruction: Add a refrigerator in front of the person.
+taskid: 91154

@@ -1,0 +1,5 @@
+org_img_id: 2333028
+org_cap: a person, person, over a metal rail, his red skateboard out from under his feet as he with a thud, his eyes on the concrete below.
+trg_cap: a person, person, over a metal rail, his yellow skateboard out from under his feet as he with a thud, his eyes on the concrete below.
+instruction: Change the color of the skateboard from red to yellow.
+taskid: 42861

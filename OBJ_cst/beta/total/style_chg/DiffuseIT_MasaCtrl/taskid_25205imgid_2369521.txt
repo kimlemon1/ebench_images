@@ -1,0 +1,5 @@
+org_img_id: 2369521
+org_cap: a person walked under a black, wet umbrella, umbrella's colors standing out against the gray rainy day.
+trg_cap: A pencil sketch art depicts a person walking under a black, wet umbrella, with the umbrella's colors standing out against the gray rainy day.
+instruction: Change the style if the image to pencil sketch.
+taskid: 25205

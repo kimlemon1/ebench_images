@@ -1,0 +1,5 @@
+org_img_id: 2410445
+org_cap: a brown teddy bear sits on a rusty metal fence, surrounded by lush greenery and colorful flowers, with a few strands of ivy and a small ceramic pot with a sprig of lavender.
+trg_cap: a green teddy bear sits on a rusty metal fence, surrounded by lush greenery and colorful flowers, with a few strands of ivy and a small ceramic pot with a sprig of lavender.
+instruction: Change the color of the teddy bear from brown to green.
+taskid: 5463

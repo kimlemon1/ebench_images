@@ -1,0 +1,5 @@
+org_img_id: 2398356
+org_cap: a young woman with long blonde hair and a toned physique lies on a white surfboard, her arms and legs paddling through the foamy waters as she rides a wave.
+trg_cap: An oil painting style art depicts a young woman with long blonde hair and a toned physique lying on a white surfboard, her arms and legs paddling through the foamy waters as she rides a wave.
+instruction: Change the style if the image to oil painting style.
+taskid: 63157

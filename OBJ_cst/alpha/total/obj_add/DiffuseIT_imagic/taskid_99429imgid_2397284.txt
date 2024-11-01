@@ -1,0 +1,5 @@
+org_img_id: 2397284
+org_cap: a small wooden boat with a greenish tint, partially submerged in the calm waters of the lake, its boat weathered to a soft gray, with a few wispy branches and a small wooden oar leaning against its side.
+trg_cap: A small wooden boat with a greenish tint, partially submerged in the calm waters of the lake, its boat weathered to a soft gray, with a few wispy branches and a small wooden oar leaning against its side, and an airplane hovering above.
+instruction: Add a airplane above the boat.
+taskid: 99429

@@ -1,0 +1,5 @@
+org_img_id: 2333495
+org_cap: A giraffe stands tall, its long neck and legs, with its spots and fur blending with the surrounding rocks and trees.
+trg_cap: A giraffe stands tall, its long neck and legs, with its spots and fur blending with the surrounding tables and chairs in the restaurant.
+instruction: Change the background to restaurant.
+taskid: 15703

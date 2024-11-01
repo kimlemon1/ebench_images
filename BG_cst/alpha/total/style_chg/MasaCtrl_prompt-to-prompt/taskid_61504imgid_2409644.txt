@@ -1,0 +1,5 @@
+org_img_id: 2409644
+org_cap: a semi-truck with a patriotic design, featuring a bold red, white, and blue paint job with a stylized flag motif on the side panels, and a standing person beside it, admiring its colorful appearance.
+trg_cap: The graffiti art features a semi-truck with a patriotic design, showcasing a bold red, white, and blue paint job with a stylized flag motif on the side panels, alongside a person standing beside it, admiring its colorful appearance.
+instruction: Change the style if the image to graffiti art.
+taskid: 61504

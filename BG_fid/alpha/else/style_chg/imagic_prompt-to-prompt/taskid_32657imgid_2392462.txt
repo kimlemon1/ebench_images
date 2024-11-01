@@ -1,0 +1,5 @@
+org_img_id: 2392462
+org_cap: skating person rides a skateboard, his long beard flowing behind him.
+trg_cap: A grayscale photo features a skating person riding a skateboard with his long beard flowing behind him.
+instruction: Change the style if the image to grey scale.
+taskid: 32657

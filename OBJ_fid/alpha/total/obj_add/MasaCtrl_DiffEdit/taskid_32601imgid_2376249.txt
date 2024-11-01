@@ -1,0 +1,5 @@
+org_img_id: 2376249
+org_cap: A horse with a brown coat and white mane is by a person with a hat on his head, as they drive a wooden cart with wooden wheels on a paved road.
+trg_cap: A horse with a brown coat and white mane is by a person with a hat on his head, as they drive a wooden cart with wooden wheels on a paved road, with a giraffe next to the person.
+instruction: Add a giraffe next to the person.
+taskid: 32601

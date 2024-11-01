@@ -1,0 +1,5 @@
+org_img_id: 2321024
+org_cap: A brown cat lies on the windowsill, its tail as it gazes out at the street.
+trg_cap: A red cat lies on the windowsill, its tail as it gazes out at the street.
+instruction: Change the color of the cat from brown to red.
+taskid: 29704

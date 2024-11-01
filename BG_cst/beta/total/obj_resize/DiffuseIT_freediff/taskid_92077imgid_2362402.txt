@@ -1,0 +1,5 @@
+org_img_id: 2362402
+org_cap: a hitting, playing, batting person, a bat at a red baseball, his jersey and pants covered in dust, his eyes on the ball.
+trg_cap: a large hitting, playing, batting person, a bat at a red baseball, his jersey and pants covered in dust, his eyes on the ball.
+instruction: Make the person larger.
+taskid: 92077

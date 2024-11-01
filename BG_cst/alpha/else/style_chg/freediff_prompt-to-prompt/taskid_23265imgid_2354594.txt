@@ -1,0 +1,5 @@
+org_img_id: 2354594
+org_cap: a person at a counter, wearing a blue shirt and jeans, with a doughnut and coffee in front of him, and a tablet computer on the counter beside him.
+trg_cap: The cartoon-style art depicts a person at a counter wearing a blue shirt and jeans, with a doughnut and coffee in front of him and a tablet computer on the counter beside him.
+instruction: Change the style if the image to cartoon style.
+taskid: 23265

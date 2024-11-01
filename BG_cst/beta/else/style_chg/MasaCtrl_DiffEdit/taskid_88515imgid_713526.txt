@@ -1,0 +1,5 @@
+org_img_id: 713526
+org_cap: the neon sign above the clock tower shines brightly in the night sky, illuminating the dark streets and buildings below.
+trg_cap: An ancient Egyptian-style art piece features a neon sign above the clock tower that shines brightly in the night sky, illuminating the dark streets and buildings below.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 88515

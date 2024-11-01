@@ -1,0 +1,5 @@
+org_img_id: 2354921
+org_cap: a blue diesel train with a train and train is moving along the train, passing a train with the word "person" written on it.
+trg_cap: a blue diesel train with a small train and train is moving along the train, passing a train with the word "person" written on it.
+instruction: Make the train smaller.
+taskid: 106733

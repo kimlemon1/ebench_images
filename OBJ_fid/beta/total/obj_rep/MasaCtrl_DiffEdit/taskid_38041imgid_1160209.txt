@@ -1,0 +1,5 @@
+org_img_id: 1160209
+org_cap: A brown dog stands on the deck of a boat, with its ears and its tail.
+trg_cap: A brown umbrella stands on the deck of the boat.
+instruction: Replace the dog with a umbrella.
+taskid: 38041

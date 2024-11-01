@@ -1,0 +1,5 @@
+org_img_id: 2343399
+org_cap: an yellow airplane flying through the sky with a gray misty background.
+trg_cap: A cartoon-style artwork features a yellow airplane flying through the sky against a gray misty background.
+instruction: Change the style if the image to cartoon style.
+taskid: 121646

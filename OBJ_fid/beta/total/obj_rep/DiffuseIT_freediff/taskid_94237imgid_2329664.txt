@@ -1,0 +1,5 @@
+org_img_id: 2329664
+org_cap: a white airplane flies across a bright blue sky with a few wispy clouds.
+trg_cap: "suitcase"
+instruction: Replace the airplane with a suitcase.
+taskid: 94237

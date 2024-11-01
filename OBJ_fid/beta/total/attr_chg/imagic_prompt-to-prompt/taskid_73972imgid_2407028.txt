@@ -1,0 +1,5 @@
+org_img_id: 2407028
+org_cap: a person, person, her orange snowboard leaving a trail of powder in her wake as she through the snow-covered trees.
+trg_cap: a person, person, her green snowboard leaving a trail of powder in her wake as she through the snow-covered trees.
+instruction: Change the color of the snowboard from orange to green.
+taskid: 73972

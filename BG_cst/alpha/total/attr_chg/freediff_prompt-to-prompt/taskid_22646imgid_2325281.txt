@@ -1,0 +1,5 @@
+org_img_id: 2325281
+org_cap: The white toilet is a fixture with a wooden seat and lid, surrounded by a simple, rectangular shower enclosure with a glass door and a wooden shelf.
+trg_cap: The gray toilet is a fixture with a wooden seat and lid, surrounded by a simple, rectangular shower enclosure with a glass door and a wooden shelf.
+instruction: Change the color of the toilet from white to gray.
+taskid: 22646

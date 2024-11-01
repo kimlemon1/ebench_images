@@ -1,0 +1,5 @@
+org_img_id: 2350735
+org_cap: a bunch of bananas sit on a decorative plate, their bright yellow peels and green stems visible, surrounded by a few apples and a few red bananas.
+trg_cap: a bunch of large bananas sit on a decorative plate, their bright yellow peels and green stems visible, surrounded by a few apples and a few red bananas.
+instruction: Make the banana larger.
+taskid: 47168

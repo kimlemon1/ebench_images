@@ -1,0 +1,5 @@
+org_img_id: 2412206
+org_cap: An eating giraffe stands on a grassy hill, its neck and legs as it reaches for leaves on a nearby tree, with a few birds flying overhead and some rocks scattered around its feet.
+trg_cap: An eating giraffe stands on a grassy hill, its neck and legs as it reaches for leaves on a nearby tree, with a person standing in front of it, a few birds flying overhead, and some rocks scattered around its feet.
+instruction: Add a person in front of the giraffe.
+taskid: 8671

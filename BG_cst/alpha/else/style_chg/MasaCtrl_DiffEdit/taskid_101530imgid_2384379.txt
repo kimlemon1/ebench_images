@@ -1,0 +1,5 @@
+org_img_id: 2384379
+org_cap: person on a snow-covered mountain slope, wearing a bright green jacket and snow pants, with a bright blue scarf around their neck, and a pair of skis at their feet, with a signpost in the background reading "piste" in bold letters.
+trg_cap: An ancient Egyptian-style artwork depicts a person on a snow-covered mountain slope, wearing a bright green jacket and snow pants, with a bright blue scarf around their neck, a pair of skis at their feet, and a signpost in the background reading "piste" in bold letters.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 101530

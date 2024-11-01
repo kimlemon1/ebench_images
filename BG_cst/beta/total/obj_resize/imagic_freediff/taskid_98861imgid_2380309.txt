@@ -1,0 +1,5 @@
+org_img_id: 2380309
+org_cap: A brown running horse across the green grass, her mane as she wears a bridle and a tail.
+trg_cap: A small brown running horse across the green grass, her mane as she wears a bridle and a tail.
+instruction: Make the horse smaller.
+taskid: 98861

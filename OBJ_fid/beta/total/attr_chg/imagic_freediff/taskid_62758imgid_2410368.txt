@@ -1,0 +1,5 @@
+org_img_id: 2410368
+org_cap: A yellow banana lies on a desk, next to a computer keyboard and a glass bottle of juice, with a slice of orange and a few crumbs scattered around.
+trg_cap: A brown banana lies on a desk, next to a computer keyboard and a glass bottle of juice, with a slice of orange and a few crumbs scattered around.
+instruction: Change the color of the banana from yellow to brown.
+taskid: 62758

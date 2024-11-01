@@ -1,0 +1,5 @@
+org_img_id: 2407207
+org_cap: Skiing person down the snowy mountain on skis, his boots and skis a blur as he through the powder.
+trg_cap: A pop art style artwork features a person skiing down a snowy mountain, their boots and skis a blur as they move through the powder.
+instruction: Change the style if the image to pop art style.
+taskid: 87728

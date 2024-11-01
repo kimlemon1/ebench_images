@@ -1,0 +1,5 @@
+org_img_id: 2366794
+org_cap: a gray standing bird on the sandy beach.
+trg_cap: a gray standing bird on the library floor.
+instruction: Change the background to library.
+taskid: 56147

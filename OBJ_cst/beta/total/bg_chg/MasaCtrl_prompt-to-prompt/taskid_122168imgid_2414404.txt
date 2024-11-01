@@ -1,0 +1,5 @@
+org_img_id: 2414404
+org_cap: The scene is focused on a countertop with a silver microwave, cupboards, and a wooden top with a slight overhang.
+trg_cap: The scene is focused on a countertop with a silver microwave, cupboards, and a wooden top with a slight overhang, set against the backdrop of a mountain top.
+instruction: Change the background to mountain top.
+taskid: 122168

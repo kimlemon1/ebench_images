@@ -1,0 +1,5 @@
+org_img_id: 2385736
+org_cap: A white toilet sits on the grassy lawn, its lid slightly ajar, surrounded by lush greenery and a few scattered leaves.
+trg_cap: A white snowboard sits on the grassy lawn, surrounded by lush greenery and a few scattered leaves.
+instruction: Replace the toilet with a snowboard.
+taskid: 13240

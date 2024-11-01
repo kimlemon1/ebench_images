@@ -1,0 +1,5 @@
+org_img_id: 2411573
+org_cap: The airplane is a vintage propeller-driven airplane with a distinctive curved wing design, a rounded fuselage, and a tail section featuring a horizontal stabilizer and a vertical fin.
+trg_cap: A graffiti art piece features a vintage propeller-driven airplane with a distinctive curved wing design, a rounded fuselage, and a tail section with a horizontal stabilizer and a vertical fin.
+instruction: Change the style if the image to graffiti art.
+taskid: 28812

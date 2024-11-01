@@ -1,0 +1,5 @@
+org_img_id: 2340679
+org_cap: a young person proudly carries a yellow surfboard on the beach, its color standing out against the worn wooden hulls of old boats in the background.
+trg_cap: a young person proudly carries a striped surfboard on the beach, its color standing out against the worn wooden hulls of old boats in the background.
+instruction: Change the color of the surfboard from yellow to striped.
+taskid: 67009

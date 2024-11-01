@@ -1,0 +1,5 @@
+org_img_id: 2333961
+org_cap: The red sink is a chrome faucet and a small, rectangular soap dispenser attached to the wall above it.
+trg_cap: The yellow sink is a chrome faucet and a small, rectangular soap dispenser attached to the wall above it.
+instruction: Change the color of the sink from red to yellow.
+taskid: 63219

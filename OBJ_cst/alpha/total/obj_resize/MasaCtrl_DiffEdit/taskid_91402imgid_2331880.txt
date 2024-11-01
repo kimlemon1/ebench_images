@@ -1,0 +1,5 @@
+org_img_id: 2331880
+org_cap: The scene is focused on a vase sitting on a kitchen counter, with a microwave above it and a few decorative tiles on the counter.
+trg_cap: The scene is focused on a large vase sitting on a kitchen counter, with a microwave above it and a few decorative tiles on the counter.
+instruction: Make the vase larger.
+taskid: 91402

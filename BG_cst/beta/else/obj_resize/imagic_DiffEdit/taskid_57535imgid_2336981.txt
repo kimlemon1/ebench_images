@@ -1,0 +1,5 @@
+org_img_id: 2336981
+org_cap: The scene features a refrigerator with a glass door, standing alone in a dimly lit room with a circular table and chairs in the background.
+trg_cap: The scene features a small refrigerator with a glass door, standing alone in a dimly lit room with a circular table and chairs in the background.
+instruction: Make the refrigerator smaller.
+taskid: 57535

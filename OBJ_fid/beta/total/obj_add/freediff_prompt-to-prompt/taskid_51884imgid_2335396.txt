@@ -1,0 +1,5 @@
+org_img_id: 2335396
+org_cap: a white ice cream truck with a bright pink and blue striped exterior and a large ice cream cone logo on the side, parked on the side of a quiet residential street, with a few people gathered around it, and a parked car with a license plate visible in the background.
+trg_cap: a white ice cream truck with a bright pink and blue striped exterior and a large ice cream cone logo on the side, parked on the side of a quiet residential street, with a few people gathered around it, and a parked car with a license plate visible in the background, with a motorcycle underneath the car.
+instruction: Add a motorcycle under the car.
+taskid: 51884

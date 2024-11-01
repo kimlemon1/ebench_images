@@ -1,0 +1,5 @@
+org_img_id: 2414016
+org_cap: Male person crouching kneels beside the white surfboard, applying a layer of wax to the white surfboard.
+trg_cap: An oil painting style art depicts a male person crouching beside a white surfboard, applying a layer of wax to it.
+instruction: Change the style if the image to oil painting style.
+taskid: 88781

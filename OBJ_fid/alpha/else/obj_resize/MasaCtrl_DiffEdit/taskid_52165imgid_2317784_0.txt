@@ -1,0 +1,5 @@
+org_img_id: 2317784_0
+org_cap: A white, full cup sits on a wooden table, next to a slice of pepperoni pizza with a piece broken off.
+trg_cap: A white, large full cup sits on a wooden table, next to a slice of pepperoni pizza with a piece broken off.
+instruction: Make the cup larger.
+taskid: 52165

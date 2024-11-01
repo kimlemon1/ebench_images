@@ -1,0 +1,5 @@
+org_img_id: 2392197
+org_cap: a person wearing a black mask and sunglasses rode a black motorcycle with a blowing dog on the back, its paws on the handlebars as they sped down the road.
+trg_cap: A person wearing a black mask and sunglasses rode a black motorcycle with a blowing dog on the back, its paws on the handlebars as they sped down the road through a pine forest.
+instruction: Change the background to pine forest.
+taskid: 5329

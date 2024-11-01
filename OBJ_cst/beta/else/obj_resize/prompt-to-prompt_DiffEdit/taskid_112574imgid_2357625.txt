@@ -1,0 +1,5 @@
+org_img_id: 2357625
+org_cap: Person, his blue tennis outfit and bright red hair standing out against the green grass and white lines of the court.
+trg_cap: Large person, his blue tennis outfit and bright red hair standing out against the green grass and white lines of the court.
+instruction: Make the person larger.
+taskid: 112574

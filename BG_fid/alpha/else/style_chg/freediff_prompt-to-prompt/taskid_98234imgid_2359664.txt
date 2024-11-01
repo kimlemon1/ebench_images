@@ -1,0 +1,5 @@
+org_img_id: 2359664
+org_cap: a sleek, silver airplane with a distinctive red stripe running along its fuselage and a blue fin on its tail, soaring through the clear blue sky with its wings spread wide and its engines roaring loudly.
+trg_cap: A Van Gogh style art piece features a sleek, silver airplane with a distinctive red stripe along its fuselage and a blue fin on its tail, soaring through the clear blue sky with its wings spread wide and its engines roaring loudly.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 98234

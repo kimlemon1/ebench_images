@@ -1,0 +1,5 @@
+org_img_id: 2376427
+org_cap: a majestic clock tower rises from the city square, its pointed steeple reaching towards the sky as a lone seagull soars overhead, its wings beating against the gentle breeze as clouds drift lazily across the blue sky.
+trg_cap: A majestic clock tower rises from the city square, its pointed steeple reaching towards the sky as a lone seagull soars overhead, its wings beating against the gentle breeze as clouds drift lazily across the blue sky, with a traffic light standing behind the clock.
+instruction: Add a traffic light behind the clock.
+taskid: 95073

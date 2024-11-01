@@ -1,0 +1,5 @@
+org_img_id: 2351149
+org_cap: a young person wearing a helmet and holding a skateboard, with a bright smile on her face.
+trg_cap: a young person wearing a helmet, with a bright smile on their vase.
+instruction: Replace the skateboard with a vase.
+taskid: 85385

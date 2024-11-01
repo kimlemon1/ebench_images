@@ -1,0 +1,5 @@
+org_img_id: 2319350
+org_cap: A person sits on a couch, wearing glasses and a casual shirt, with a laptop on their lap and a blue cup in front of them.
+trg_cap: A person sits on a couch, wearing glasses and a casual shirt, with a laptop on their lap and a yellow cup in front of them.
+instruction: Change the color of the cup from blue to yellow.
+taskid: 88238

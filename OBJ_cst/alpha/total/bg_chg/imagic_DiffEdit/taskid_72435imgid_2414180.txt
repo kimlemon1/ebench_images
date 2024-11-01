@@ -1,0 +1,5 @@
+org_img_id: 2414180
+org_cap: Resting elephant and person together through a lush green forest, with the person's smaller frame creating a striking contrast.
+trg_cap: Resting elephant and person together in a gym, with the person's smaller frame creating a striking contrast.
+instruction: Change the background to gym.
+taskid: 72435

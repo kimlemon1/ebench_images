@@ -1,0 +1,5 @@
+org_img_id: 2403460_0
+org_cap: A person stands in front of a black, stainless steel, open refrigerator, holding a container of leftovers and staring at the contents of the refrigerator with a curious expression.
+trg_cap: The person stands in front of a backpack, holding a container of leftovers and staring at the contents of the backpack with a curious expression.
+instruction: Replace the refrigerator with a backpack.
+taskid: 116238

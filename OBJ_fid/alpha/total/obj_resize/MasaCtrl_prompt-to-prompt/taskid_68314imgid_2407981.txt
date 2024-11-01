@@ -1,0 +1,5 @@
+org_img_id: 2407981
+org_cap: A couple lounges on a white couch, their legs stretched out and their eyes fixed on their phones as they scroll through social media.
+trg_cap: A couple lounges on a large white couch, their legs stretched out and their eyes fixed on their phones as they scroll through social media.
+instruction: Make the couch larger.
+taskid: 68314

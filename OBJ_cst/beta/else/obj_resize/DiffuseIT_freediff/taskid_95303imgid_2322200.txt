@@ -1,0 +1,5 @@
+org_img_id: 2322200
+org_cap: a person rode a motorcycle with a dog in the sidecar, wearing a bright orange collar and a leash.
+trg_cap: a person rode a motorcycle with a large dog in the sidecar, wearing a bright orange collar and a leash.
+instruction: Make the dog larger.
+taskid: 95303

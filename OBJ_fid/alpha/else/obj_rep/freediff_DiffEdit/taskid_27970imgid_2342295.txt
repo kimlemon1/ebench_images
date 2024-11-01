@@ -1,0 +1,5 @@
+org_img_id: 2342295
+org_cap: A small child's hand reaches out to grab a slice of white cake.
+trg_cap: A small child's hand reaches out to grab a slice of pie.
+instruction: Replace the cake with a tie.
+taskid: 27970

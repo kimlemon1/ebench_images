@@ -1,0 +1,5 @@
+org_img_id: 2348373
+org_cap: a tennis racket swings in a swift arc, striking a yellow ball with a crisp crack, sending it flying in a precise trajectory across the court.
+trg_cap: a tennis racket swings in a swift arc, striking a striped ball with a crisp crack, sending it flying in a precise trajectory across the court.
+instruction: Change the color of the sports ball from yellow to striped.
+taskid: 56588

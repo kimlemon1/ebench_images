@@ -1,0 +1,5 @@
+org_img_id: 2322272
+org_cap: a small boy with bright blue eyes and a mop of curly brown hair sits on a bed, wearing a red t-shirt and holding a teddy bear with a red scarf around its neck.
+trg_cap: A small boy with bright blue eyes and a mop of curly brown hair sits on a bed, wearing a red t-shirt and holding a vase.
+instruction: Replace the teddy bear with a vase.
+taskid: 47037

@@ -1,0 +1,5 @@
+org_img_id: 2336023
+org_cap: The toilet is a single stall with a porcelain white toilet, a toilet handle, and a small window above the sink.
+trg_cap: The toilet is a single stall with a porcelain black toilet, a toilet handle, and a small window above the sink.
+instruction: Change the color of the toilet from white to black.
+taskid: 120043

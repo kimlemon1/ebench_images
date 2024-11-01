@@ -1,0 +1,5 @@
+org_img_id: 2367091
+org_cap: a group of people sat at a table, surrounded by the warm glow of candles and the soft hum of conversation, their faces illuminated by the soft light as they celebrated a birthday with a slice of cake.
+trg_cap: A group of people sat at a table, surrounded by the warm glow of candles and the soft hum of conversation, their faces illuminated by the soft light as they celebrated a birthday with a slice of cake, while outside, a vast snow field stretched into the distance, blanketing the world in white.
+instruction: Change the background to snow field.
+taskid: 90344

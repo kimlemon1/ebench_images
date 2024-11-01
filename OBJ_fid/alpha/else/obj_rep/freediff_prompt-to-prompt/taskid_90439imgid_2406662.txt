@@ -1,0 +1,5 @@
+org_img_id: 2406662
+org_cap: a person carefully wraps a large sheet around the back of a majestic elephant, its gray skin in the bright lights of the circus arena.
+trg_cap: The person carefully wraps a large sheet around the back of a snowboard.
+instruction: Replace the elephant with a snowboard.
+taskid: 90439

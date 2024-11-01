@@ -1,0 +1,5 @@
+org_img_id: 1591820
+org_cap: a bright yellow double-decker bus, with its distinctive rounded front and rear, sits at the bus stop, awaiting passengers, while a pedestrian in the distance looks back at the bus with a camera in hand.
+trg_cap: An oil painting style art features a bright yellow double-decker bus with its distinctive rounded front and rear sitting at the bus stop, awaiting passengers, while a pedestrian in the distance looks back at the bus with a camera in hand.
+instruction: Change the style if the image to oil painting style.
+taskid: 112765

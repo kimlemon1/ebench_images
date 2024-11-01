@@ -1,0 +1,5 @@
+org_img_id: 2346129
+org_cap: a large elephant stands on a concrete path, its gray skin wrinkled and worn, with a long wooden beam leaning against its massive body, its tusks worn and cracked, and its ears in the breeze.
+trg_cap: A large elephant stands on a concrete path at a bustling train station, its gray skin wrinkled and worn, with a long wooden beam leaning against its massive body, its tusks worn and cracked, and its ears in the breeze.
+instruction: Change the background to train station.
+taskid: 63394

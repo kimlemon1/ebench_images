@@ -1,0 +1,5 @@
+org_img_id: 2408425
+org_cap: Surfing person is seen mid-air on his surfboard, his eyes on the wave with a confident grin.
+trg_cap: A large surfing person is seen mid-air on his surfboard, his eyes on the wave with a confident grin.
+instruction: Make the person larger.
+taskid: 121967

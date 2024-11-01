@@ -1,0 +1,5 @@
+org_img_id: 2327781
+org_cap: a rusty red train rumbles along the tracks, its worn wheels screeching against the worn rails, as a vintage train pulls a string of old, green train cars behind it.
+trg_cap: a small, rusty red train rumbles along the tracks, its worn wheels screeching against the worn rails, as a vintage train pulls a string of old, green train cars behind it.
+instruction: Make the train smaller.
+taskid: 100344

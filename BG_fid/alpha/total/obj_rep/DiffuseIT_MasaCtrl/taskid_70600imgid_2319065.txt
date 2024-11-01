@@ -1,0 +1,5 @@
+org_img_id: 2319065
+org_cap: a white stop sign with the words "way" and "does not" written below it.
+trg_cap: a book.
+instruction: Replace the stop sign with a book.
+taskid: 70600

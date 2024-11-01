@@ -1,0 +1,5 @@
+org_img_id: 2362744
+org_cap: description of the scene foucused on only the details of orange carrot.
+trg_cap: description of the scene focused on only the details of the parking meter.
+instruction: Replace the carrot with a parking meter.
+taskid: 42997

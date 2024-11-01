@@ -1,0 +1,5 @@
+org_img_id: 2392720
+org_cap: an orange, resting cat in a bathtub, its fur matted and dirty from a recent bath.
+trg_cap: an red, resting cat in a bathtub, its fur matted and dirty from a recent bath.
+instruction: Change the color of the cat from orange to red.
+taskid: 65542

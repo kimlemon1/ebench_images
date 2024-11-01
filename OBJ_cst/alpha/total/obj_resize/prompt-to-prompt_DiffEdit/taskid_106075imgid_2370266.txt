@@ -1,0 +1,5 @@
+org_img_id: 2370266
+org_cap: person through the air, his skis leaving a trail of snow behind him over the mountainous terrain on a bright winter day.
+trg_cap: large person through the air, his skis leaving a trail of snow behind him over the mountainous terrain on a bright winter day.
+instruction: Make the person larger.
+taskid: 106075

@@ -1,0 +1,5 @@
+org_img_id: 2378167
+org_cap: a person in a green hat and a man in a yellow jacket are standing in a green meadow, holding a pink, colorful kite, and looking up at the sky.
+trg_cap: A person in a green hat and a man in a yellow jacket are standing in a green meadow, holding a pink, colorful kite, and looking up at the sky, with a hospital visible in the background.
+instruction: Change the background to hospital.
+taskid: 113542

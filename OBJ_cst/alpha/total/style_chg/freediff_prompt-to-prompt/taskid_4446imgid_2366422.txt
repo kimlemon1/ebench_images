@@ -1,0 +1,5 @@
+org_img_id: 2366422
+org_cap: a black dog with an orange frisbee in its mouth runs across a green lawn, its paws moving quickly as it catches the orange frisbee in mid-air.
+trg_cap: A Van Gogh style artwork depicts a black dog with an orange frisbee in its mouth running across a green lawn, its paws moving quickly as it catches the frisbee in mid-air.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 4446

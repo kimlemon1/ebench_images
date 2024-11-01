@@ -1,0 +1,5 @@
+org_img_id: 2333171
+org_cap: A dog with a fluffy coat and tail stands at attention behind the dugout, its paws on the grass, as it watches the game with a curious expression.
+trg_cap: A grey scale photo shows a dog with a fluffy coat and tail standing at attention behind the dugout, its paws on the grass, as it watches the game with a curious expression.
+instruction: Change the style if the image to grey scale.
+taskid: 30774

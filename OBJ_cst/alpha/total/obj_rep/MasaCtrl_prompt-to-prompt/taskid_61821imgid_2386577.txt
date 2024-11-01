@@ -1,0 +1,5 @@
+org_img_id: 2386577
+org_cap: The red fire hydrant is a cylinder with a top and a bottom, covered in a layer of frost and snow, with a puddle of water at its base.
+trg_cap: The red snowboard is a cylinder, with a puddle of water at the base.
+instruction: Replace the fire hydrant with a snowboard.
+taskid: 61821

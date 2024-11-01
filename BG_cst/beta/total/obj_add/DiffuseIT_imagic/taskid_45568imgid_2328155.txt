@@ -1,0 +1,5 @@
+org_img_id: 2328155
+org_cap: Person rides a surfboard with a bright orange wetsuit and a yellow rash guard, her blonde hair tied back in a ponytail, her eyes fixed on the wave.
+trg_cap: Person rides a surfboard with a bright orange wetsuit and a yellow rash guard, her blonde hair tied back in a ponytail, her eyes fixed on the wave, with a clock positioned under her.
+instruction: Add a clock under the person.
+taskid: 45568

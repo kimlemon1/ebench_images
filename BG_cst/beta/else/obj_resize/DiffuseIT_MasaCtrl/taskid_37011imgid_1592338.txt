@@ -1,0 +1,5 @@
+org_img_id: 1592338
+org_cap: a young person holds a purple umbrella as she walks outside under a clear blue sky.
+trg_cap: a young person holds a small purple umbrella as she walks outside under a clear blue sky.
+instruction: Make the umbrella smaller.
+taskid: 37011

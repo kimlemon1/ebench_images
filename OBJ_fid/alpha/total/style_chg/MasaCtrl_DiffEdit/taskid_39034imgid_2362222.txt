@@ -1,0 +1,5 @@
+org_img_id: 2362222
+org_cap: Person's slender fingers around the tennis racket, his eyes on the ball as he to serve.
+trg_cap: A Van Gogh style art depicts a person's slender fingers around the tennis racket and his eyes on the ball as he prepares to serve.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 39034

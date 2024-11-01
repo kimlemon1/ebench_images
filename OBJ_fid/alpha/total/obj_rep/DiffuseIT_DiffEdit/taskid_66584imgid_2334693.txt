@@ -1,0 +1,5 @@
+org_img_id: 2334693
+org_cap: broccoli, shrimp, and eggs on a plate.
+trg_cap: "handbag, shrimp, and eggs on their plate."
+instruction: Replace the broccoli with a handbag.
+taskid: 66584

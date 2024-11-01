@@ -1,0 +1,5 @@
+org_img_id: 2370111
+org_cap: The clock face is a black clock with roman numerals and ornate details, set against a warm, earthy brown background.
+trg_cap: The clock face is a black clock with roman numerals and ornate details, set against a warm, earthy brown background, with a banana on the left side of the clock.
+instruction: Add a banana on the left side of the clock.
+taskid: 106919

@@ -1,0 +1,5 @@
+org_img_id: 2404490_0
+org_cap: a green wine glass holds a rich red wine with a label featuring the name "château margaux".
+trg_cap: An oil painting style art features a green wine glass holding a rich red wine with a label displaying the name "château margaux."
+instruction: Change the style if the image to oil painting style.
+taskid: 26948

@@ -1,0 +1,5 @@
+org_img_id: 2407870
+org_cap: a rider in a red jersey and matching gloves sits astride a white motorcycle, the motorcycle's wheels spinning as it takes a sharp turn on the track.
+trg_cap: A rider in a red jersey and matching gloves sits astride a motorcycle as he takes a sharp turn on the track.
+instruction: Replace the motorcycle with a airplane.
+taskid: 117946

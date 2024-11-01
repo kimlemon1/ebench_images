@@ -1,0 +1,5 @@
+org_img_id: 2317518
+org_cap: The gold clock face is adorned with intricate gold filigree and features a clock face with roman numerals, surrounded by a blue and white striped flag bearing the flag of the union.
+trg_cap: The light blue clock face is adorned with intricate light blue filigree and features a clock face with roman numerals, surrounded by a blue and white striped flag bearing the flag of the union.
+instruction: Change the color of the clock from gold to light blue.
+taskid: 85249

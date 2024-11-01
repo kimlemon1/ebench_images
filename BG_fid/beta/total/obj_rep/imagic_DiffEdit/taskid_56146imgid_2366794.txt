@@ -1,0 +1,5 @@
+org_img_id: 2366794
+org_cap: a gray standing bird on the sandy beach.
+trg_cap: a gray backpack on the sandy beach.
+instruction: Replace the bird with a backpack.
+taskid: 56146

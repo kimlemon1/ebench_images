@@ -1,0 +1,5 @@
+org_img_id: 2320608
+org_cap: a grizzled old man with a bushy white beard and a worn-out shirt pedals a black bicycle with a cigar clenched between his teeth.
+trg_cap: A grizzled old man with a bushy white beard and a worn-out shirt pedals his cup with a cigar clenched between his teeth.
+instruction: Replace the bicycle with a cup.
+taskid: 75368

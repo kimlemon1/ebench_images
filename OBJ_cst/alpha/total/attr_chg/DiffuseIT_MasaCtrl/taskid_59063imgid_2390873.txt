@@ -1,0 +1,5 @@
+org_img_id: 2390873
+org_cap: A gray cat is sitting and resting on a laptop, its paws on the keyboard and its face staring from the screen.
+trg_cap: A black cat is sitting and resting on a laptop, its paws on the keyboard and its face staring from the screen.
+instruction: Change the color of the cat from gray to black.
+taskid: 59063

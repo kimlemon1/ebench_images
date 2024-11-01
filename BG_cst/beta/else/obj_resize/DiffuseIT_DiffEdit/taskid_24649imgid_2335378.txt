@@ -1,0 +1,5 @@
+org_img_id: 2335378
+org_cap: The bear on a rocky outcropping, its black fur fluffed out in a distinctive crescent shape along its back, with a long tail and sharp claws.
+trg_cap: The small bear on a rocky outcropping, its black fur fluffed out in a distinctive crescent shape along its back, with a long tail and sharp claws.
+instruction: Make the bear smaller.
+taskid: 24649

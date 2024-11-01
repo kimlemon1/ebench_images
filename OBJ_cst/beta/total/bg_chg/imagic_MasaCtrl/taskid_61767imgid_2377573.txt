@@ -1,0 +1,5 @@
+org_img_id: 2377573
+org_cap: a brown dog, catching a white frisbee, its paws and its tail.
+trg_cap: In a concert hall, a brown dog, catching a white frisbee, its paws and its tail.
+instruction: Change the background to concert hall.
+taskid: 61767

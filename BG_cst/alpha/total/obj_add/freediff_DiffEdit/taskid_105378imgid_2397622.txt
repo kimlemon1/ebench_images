@@ -1,0 +1,5 @@
+org_img_id: 2397622
+org_cap: The porcelain white sink is mounted on a wooden cabinet with a brown finish.
+trg_cap: The porcelain white sink, with a donut in front of it, is mounted on a wooden cabinet with a brown finish.
+instruction: Add a donut in front of the sink.
+taskid: 105378

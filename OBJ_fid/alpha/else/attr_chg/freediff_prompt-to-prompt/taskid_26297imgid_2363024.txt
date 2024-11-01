@@ -1,0 +1,5 @@
+org_img_id: 2363024
+org_cap: a young person in a black wetsuit walks along the beach, carrying a surfboard and accompanied by a wet brown dog.
+trg_cap: a young person in a black drysuit walks along the beach, carrying a surfboard and accompanied by a dry brown dog.
+instruction: Change the state of the dog from wet to dry.
+taskid: 26297

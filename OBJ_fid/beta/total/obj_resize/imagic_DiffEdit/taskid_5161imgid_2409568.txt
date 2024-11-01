@@ -1,0 +1,5 @@
+org_img_id: 2409568
+org_cap: A skateboarder leaps into the air, his upside down skateboard flying off the ramp as he spins and flips in a blur of wheels and concrete.
+trg_cap: A skateboarder leaps into the air, his large upside down skateboard flying off the ramp as he spins and flips in a blur of wheels and concrete.
+instruction: Make the skateboard larger.
+taskid: 5161

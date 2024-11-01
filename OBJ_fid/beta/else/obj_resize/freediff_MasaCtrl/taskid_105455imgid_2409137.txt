@@ -1,0 +1,5 @@
+org_img_id: 2409137
+org_cap: person up the mountain trail, her legs aching from the steep incline and her skis awkwardly strapped to her back.
+trg_cap: large person up the mountain trail, her legs aching from the steep incline and her skis awkwardly strapped to her back.
+instruction: Make the person larger.
+taskid: 105455

@@ -1,0 +1,5 @@
+org_img_id: 2339455
+org_cap: a person holds a colorful kite and a brown dog in his arms, both flying on a sunny beach.
+trg_cap: a person holds a colorful kite and a brown dog in his arms, both flying on a sunny beach, with a frisbee under the dog.
+instruction: Add a frisbee under the dog.
+taskid: 73416

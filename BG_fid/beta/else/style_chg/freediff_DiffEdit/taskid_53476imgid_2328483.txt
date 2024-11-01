@@ -1,0 +1,5 @@
+org_img_id: 2328483
+org_cap: a little girl, clutching a pink umbrella, runs down a quiet neighborhood street on a rainy day.
+trg_cap: A pencil sketch art depicts a little girl clutching a pink umbrella as she runs down a quiet neighborhood street on a rainy day.
+instruction: Change the style if the image to pencil sketch.
+taskid: 53476

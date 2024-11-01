@@ -1,0 +1,5 @@
+org_img_id: 2397147
+org_cap: The small bathroom features a single white toilet and a simple, rectangular sink with a chrome faucet.
+trg_cap: The small bathroom features a single small white toilet and a simple, rectangular sink with a chrome faucet.
+instruction: Make the toilet smaller.
+taskid: 26278

@@ -1,0 +1,5 @@
+org_img_id: 1977
+org_cap: The black tv sat atop a small, worn desk in the corner of the room, its screen glowing in the dim light.
+trg_cap: The white tv sat atop a small, worn desk in the corner of the room, its screen glowing in the dim light.
+instruction: Change the color of the tv from black to white.
+taskid: 33848

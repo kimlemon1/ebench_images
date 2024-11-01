@@ -1,0 +1,5 @@
+org_img_id: 1592463
+org_cap: A red train chugs slowly into the station, its wheels screeching on the tracks as it comes to a stop, surrounded by a crowd of excited people.
+trg_cap: A large red train chugs slowly into the station, its wheels screeching on the tracks as it comes to a stop, surrounded by a crowd of excited people.
+instruction: Make the train larger.
+taskid: 107496

@@ -1,0 +1,5 @@
+org_img_id: 2416151
+org_cap: The scene is focused on a sink and faucet, surrounded by beige and gray stone tiles, with a small amount of soap and white toilet paper on the edge of the sink.
+trg_cap: The cartoon-style art features a scene focused on a sink and faucet, surrounded by beige and gray stone tiles, with a small amount of soap and white toilet paper on the edge of the sink.
+instruction: Change the style if the image to cartoon style.
+taskid: 36618

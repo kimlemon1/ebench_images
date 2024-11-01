@@ -1,0 +1,5 @@
+org_img_id: 2413206
+org_cap: a woman in her mid-30s with a green helmet and a blue bicycle rides northbound on the bicycle lane, passing a bus stopped at a traffic light.
+trg_cap: a woman in her mid-30s with a green helmet and a small blue bicycle rides northbound on the bicycle lane, passing a bus stopped at a traffic light.
+instruction: Make the bicycle smaller.
+taskid: 102931

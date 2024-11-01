@@ -1,0 +1,5 @@
+org_img_id: 2390354
+org_cap: A standing, brown horse, eating and grazing on a green meadow, surrounded by tall trees and a blue sky with a few white clouds.
+trg_cap: A Van Gogh style artwork features a standing brown horse eating and grazing on a green meadow, surrounded by tall trees and a blue sky with a few white clouds.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 45590

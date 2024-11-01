@@ -1,0 +1,5 @@
+org_img_id: 2357632
+org_cap: a white dog with a pink frisbee in its mouth across a lush green lawn, its legs as it after the toy.
+trg_cap: A white wine glass across a lush green lawn, its legs as it after the toy.
+instruction: Replace the dog with a wine glass.
+taskid: 13146

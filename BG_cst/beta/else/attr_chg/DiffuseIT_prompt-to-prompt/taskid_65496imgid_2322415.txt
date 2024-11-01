@@ -1,0 +1,5 @@
+org_img_id: 2322415
+org_cap: a person in mid-air, skiing down a snowy mountain slope, with orange skis as they soar through the air, surrounded by towering evergreen trees covered in fresh snow.
+trg_cap: a person in mid-air, skiing down a snowy mountain slope, with brown skis as they soar through the air, surrounded by towering evergreen trees covered in fresh snow.
+instruction: Change the color of the skis from orange to brown.
+taskid: 65496

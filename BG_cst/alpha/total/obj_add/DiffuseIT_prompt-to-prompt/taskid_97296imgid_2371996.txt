@@ -1,0 +1,5 @@
+org_img_id: 2371996
+org_cap: A person, person, his black skateboard out from under his feet as he executes a flawless kickflip.
+trg_cap: A person, person, his black skateboard out from under his feet as he executes a flawless kickflip, with a car parked next to the skateboard.
+instruction: Add a car next to the skateboard.
+taskid: 97296

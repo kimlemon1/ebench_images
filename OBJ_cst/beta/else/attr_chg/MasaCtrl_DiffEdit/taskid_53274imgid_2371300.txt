@@ -1,0 +1,5 @@
+org_img_id: 2371300
+org_cap: A blue tie runs from the collar of a worn-out t-shirt to the bottom of the wearer's neck.
+trg_cap: A patterned tie runs from the collar of a worn-out t-shirt to the bottom of the wearer's neck.
+instruction: Change the color of the tie from blue to patterned.
+taskid: 53274

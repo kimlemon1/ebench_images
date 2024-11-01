@@ -1,0 +1,5 @@
+org_img_id: 2328271
+org_cap: a worn teddy bear with a red heart and the words "i love you" scribbled on it in faded marker, sits atop a rusty green dumpster.
+trg_cap: A worn teddy bear with a red heart and the words "i love you" scribbled on it in faded marker, sits atop a rusty green dumpster, surrounded by a dense pine forest.
+instruction: Change the background to pine forest.
+taskid: 115029

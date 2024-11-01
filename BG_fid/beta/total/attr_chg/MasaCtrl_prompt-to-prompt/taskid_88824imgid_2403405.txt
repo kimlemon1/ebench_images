@@ -1,0 +1,5 @@
+org_img_id: 2403405
+org_cap: A brown, sleeping, striped cat lies on the floor, its paws curled up and its tail, with a pair of bright red sneakers standing nearby.
+trg_cap: A brown, sleeping, black cat lies on the floor, its paws curled up and its tail, with a pair of bright red sneakers standing nearby.
+instruction: Change the color of the cat from striped to black.
+taskid: 88824

@@ -1,0 +1,5 @@
+org_img_id: 2406443
+org_cap: "person swings his racket, his muscular arms and shoulders flexing as he generates power for a forehand winner."
+trg_cap: The art, in a pop art style, depicts a person swinging his racket, his muscular arms and shoulders flexing as he generates power for a forehand winner.
+instruction: Change the style if the image to pop art style.
+taskid: 54796

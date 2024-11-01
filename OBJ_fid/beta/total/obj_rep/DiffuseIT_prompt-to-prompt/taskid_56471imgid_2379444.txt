@@ -1,0 +1,5 @@
+org_img_id: 2379444
+org_cap: a blue bus, driving over a bridge with a concrete railing and a pedestrian path below.
+trg_cap: a blue handbag.
+instruction: Replace the bus with a handbag.
+taskid: 56471

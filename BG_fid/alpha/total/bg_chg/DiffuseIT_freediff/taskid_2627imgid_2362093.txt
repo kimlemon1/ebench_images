@@ -1,0 +1,5 @@
+org_img_id: 2362093
+org_cap: a person in a red jacket and snow pants is skiing down a snowy mountain with a dog by their side.
+trg_cap: A person in a red jacket and snow pants is skiing down a snowy mountain with a dog by their side, while the distant sound of ocean waves crashing on a nearby beach can be faintly heard.
+instruction: Change the background to beach.
+taskid: 2627

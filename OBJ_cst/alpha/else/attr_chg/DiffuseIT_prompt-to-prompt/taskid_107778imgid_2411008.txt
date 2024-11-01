@@ -1,0 +1,5 @@
+org_img_id: 2411008
+org_cap: A brown wood bench sits alone on the sidewalk, its brown wood bench slightly tilted and its brown wood bench slightly bent, with a few leaves and twigs scattered around it.
+trg_cap: A brown wooded bench sits alone on the sidewalk, its brown wooded bench slightly tilted and its brown wooded bench slightly bent, with a few leaves and twigs scattered around it.
+instruction: Change the material of the bench from wood to wooded.
+taskid: 107778

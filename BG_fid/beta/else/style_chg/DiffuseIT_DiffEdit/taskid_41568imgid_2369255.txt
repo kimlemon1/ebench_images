@@ -1,0 +1,5 @@
+org_img_id: 2369255
+org_cap: a middle - aged person with curly brown hair and a green jacket and blue jeans on a wooden bench, a smartphone.
+trg_cap: A Van Gogh style art features a middle-aged person with curly brown hair, wearing a green jacket and blue jeans, sitting on a wooden bench with a smartphone.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 41568

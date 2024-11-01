@@ -1,0 +1,5 @@
+org_img_id: 2317874
+org_cap: A young person stands under a black umbrella, holding it above their head as they gaze out at a field of cows.
+trg_cap: The art, in a watercolor painting style, depicts a young person standing under a black umbrella, holding it above their head as they gaze out at a field of cows.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 107690

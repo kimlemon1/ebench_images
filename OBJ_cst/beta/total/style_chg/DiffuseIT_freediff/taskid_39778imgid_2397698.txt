@@ -1,0 +1,5 @@
+org_img_id: 2397698
+org_cap: Skiing person through the snow-covered slopes on her skis, her legs and arms as she the mountain.
+trg_cap: An oil painting style art depicts a person skiing through the snow-covered slopes on her skis, her legs and arms navigating the mountain.
+instruction: Change the style if the image to oil painting style.
+taskid: 39778

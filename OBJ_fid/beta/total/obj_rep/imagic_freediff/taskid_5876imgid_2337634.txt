@@ -1,0 +1,5 @@
+org_img_id: 2337634
+org_cap: A gray boat moves swiftly across the calm waters of a serene lake at sunset, its wake rippling the surface as it glides effortlessly towards the distant shore.
+trg_cap: A gray sports ball moves across the calm waters of a serene lake at sunset, the wake rippling the surface as it glides towards the distant shore.
+instruction: Replace the boat with a sports ball.
+taskid: 5876

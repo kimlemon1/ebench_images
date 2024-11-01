@@ -1,0 +1,5 @@
+org_img_id: 2330189
+org_cap: a bottle with a bright blue label and a distinctive shape sat on the table, surrounded by the group of friends enjoying their meal.
+trg_cap: A bottle with a bright blue label and a distinctive shape sat on the table, surrounded by the group of friends enjoying their meal amidst the ancient ruins.
+instruction: Change the background to ancient ruins.
+taskid: 75501

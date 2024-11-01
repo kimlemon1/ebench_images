@@ -1,0 +1,5 @@
+org_img_id: 2408067
+org_cap: A blue skateboard soars through the air, its wheels a blur as it navigates the ramps and rails of the skatepark.
+trg_cap: A silver skateboard soars through the air, its wheels a blur as it navigates the ramps and rails of the skatepark.
+instruction: Change the color of the skateboard from blue to silver.
+taskid: 61671

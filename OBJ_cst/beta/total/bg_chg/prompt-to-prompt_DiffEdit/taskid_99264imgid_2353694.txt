@@ -1,0 +1,5 @@
+org_img_id: 2353694
+org_cap: a large black bear on its hind legs, its front paws a branch of a bear.
+trg_cap: a large black bear on its hind legs, its front paws a branch of a bear, in the quiet corner of a library.
+instruction: Change the background to library.
+taskid: 99264

@@ -1,0 +1,5 @@
+org_img_id: 2369200
+org_cap: a white airplane, its engines roaring as it takes off from the runway, leaving a trail of clouds and smoke behind it.
+trg_cap: A pencil sketch art depicts a white airplane with its engines roaring as it takes off from the runway, leaving a trail of clouds and smoke behind it.
+instruction: Change the style if the image to pencil sketch.
+taskid: 77879

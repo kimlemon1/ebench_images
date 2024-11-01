@@ -1,0 +1,5 @@
+org_img_id: 2348740
+org_cap: Person, dressed in a bright red snowsuit and goggles, his snowboard, surrounded by towering evergreen trees and a winter wonderland landscape.
+trg_cap: Large person, dressed in a bright red snowsuit and goggles, his snowboard, surrounded by towering evergreen trees and a winter wonderland landscape.
+instruction: Make the person larger.
+taskid: 20481

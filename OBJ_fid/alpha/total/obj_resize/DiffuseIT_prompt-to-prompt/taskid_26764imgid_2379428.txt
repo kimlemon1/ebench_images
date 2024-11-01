@@ -1,0 +1,5 @@
+org_img_id: 2379428
+org_cap: a white plate with a slice of bread, a fork, and a white cup sit on a table, surrounded by a napkin and a few crumbs.
+trg_cap: a white plate with a slice of bread, a fork, and a large white cup sit on a table, surrounded by a napkin and a few crumbs.
+instruction: Make the cup larger.
+taskid: 26764

@@ -1,0 +1,5 @@
+org_img_id: 497924
+org_cap: a red train glides along the train, its wheels clicking against the steel train as it approaches the curved train.
+trg_cap: A red hot dog glides along the hot dog as it approaches the curved one.
+instruction: Replace the train with a hot dog.
+taskid: 106244

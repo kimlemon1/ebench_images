@@ -1,0 +1,5 @@
+org_img_id: 2347088
+org_cap: a person walks down the street with a worn leather backpack slung over their shoulder, accompanied by a rusty bicycle with a yellow frame.
+trg_cap: a person walks down the street with a worn leather backpack slung over their shoulder, an umbrella attached to it, accompanied by a rusty bicycle with a yellow frame.
+instruction: Add a umbrella on the backpack.
+taskid: 97680

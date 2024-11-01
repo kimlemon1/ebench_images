@@ -1,0 +1,5 @@
+org_img_id: 2346592
+org_cap: the clock face on the facade of the building is a circular clock with roman numerals and a red second hand, set against a backdrop of grey stone and red brick.
+trg_cap: The clock face on the facade of the building is a circular clock with roman numerals and a red second hand, set against a backdrop of grey stone and red brick, with a sports ball located next to the clock.
+instruction: Add a sports ball next to the clock.
+taskid: 115071

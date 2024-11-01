@@ -1,0 +1,5 @@
+org_img_id: 2344381
+org_cap: a person in mid-air, with a skateboard, wearing a black shirt and blue jeans, against a bright blue sky with clouds.
+trg_cap: a person in mid-air, with a skateboard, wearing a black shirt and blue jeans, against a bright blue sky with clouds and a vineyard in the background.
+instruction: Change the background to vineyard.
+taskid: 98471

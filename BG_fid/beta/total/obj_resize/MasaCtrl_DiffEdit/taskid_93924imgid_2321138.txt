@@ -1,0 +1,5 @@
+org_img_id: 2321138
+org_cap: The narrow cobblestone street is lined with colorful buildings and overflowing planters, with a few blue umbrella providing shade and adding a pop of color to the scene.
+trg_cap: The narrow cobblestone street is lined with colorful buildings and overflowing planters, with a few large blue umbrellas providing shade and adding a pop of color to the scene.
+instruction: Make the umbrella larger.
+taskid: 93924

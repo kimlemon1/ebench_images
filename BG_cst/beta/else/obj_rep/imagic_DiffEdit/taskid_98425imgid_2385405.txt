@@ -1,0 +1,5 @@
+org_img_id: 2385405
+org_cap: Person, wearing a black wetsuit and a green hat, flies through the air on his kiteboard, his long gray hair behind him as he over the water.
+trg_cap: Book flies through the air on his kiteboard as he soars over the water.
+instruction: Replace the person with a book.
+taskid: 98425

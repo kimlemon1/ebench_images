@@ -1,0 +1,5 @@
+org_img_id: 2327450
+org_cap: Person stands on the snow - covered mountain, wearing a bright red jacket and black skis, his goggles and helmet giving him a sleek and adventurous look.
+trg_cap: It stands on the snow-covered mountain.
+instruction: Replace the person with a oven.
+taskid: 55818

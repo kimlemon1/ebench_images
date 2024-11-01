@@ -1,0 +1,5 @@
+org_img_id: 2379809
+org_cap: A rusty, yellow fire hydrant stands on a concrete pedestal, surrounded by a small patch of grass and a few parking lot spaces.
+trg_cap: A undamaged, yellow fire hydrant stands on a concrete pedestal, surrounded by a small patch of grass and a few parking lot spaces.
+instruction: Change the state of the fire hydrant from rusty to undamaged.
+taskid: 21999

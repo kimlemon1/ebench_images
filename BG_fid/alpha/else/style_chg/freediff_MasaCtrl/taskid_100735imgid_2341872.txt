@@ -1,0 +1,5 @@
+org_img_id: 2341872
+org_cap: a young person lies on a yellow surfboard, her arms and legs stretched out as she glides through the waves.
+trg_cap: The pop art style artwork features a young person lying on a yellow surfboard, her arms and legs stretched out as she glides through the waves.
+instruction: Change the style if the image to pop art style.
+taskid: 100735

@@ -1,0 +1,5 @@
+org_img_id: 2351969
+org_cap: a gray dog on a bed, its paws and its tail.
+trg_cap: The pop art style artwork features a gray dog on a bed, including its paws and tail.
+instruction: Change the style if the image to pop art style.
+taskid: 94736

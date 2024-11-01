@@ -1,0 +1,5 @@
+org_img_id: 137
+org_cap: A white bicycle leans against a stone wall, flanked by ornate granite columns and surrounded by the quiet, tree-lined streets of a city.
+trg_cap: A orange bicycle leans against a stone wall, flanked by ornate granite columns and surrounded by the quiet, tree-lined streets of a city.
+instruction: Change the color of the bicycle from white to orange.
+taskid: 69177

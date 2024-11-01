@@ -1,0 +1,5 @@
+org_img_id: 2417969
+org_cap: a small, fluffy cat with a black and white coat sat on a white cloth.
+trg_cap: The cartoon-style art features a small, fluffy cat with a black and white coat sitting on a white cloth.
+instruction: Change the style if the image to cartoon style.
+taskid: 103438

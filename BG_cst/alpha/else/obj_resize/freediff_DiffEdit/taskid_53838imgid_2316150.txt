@@ -1,0 +1,5 @@
+org_img_id: 2316150
+org_cap: The scene features a wood bench, situated in a small grassy area surrounded by ornate stone buildings, with a few potted flowers and a subtle tree canopy above.
+trg_cap: The scene features a small wood bench, situated in a small grassy area surrounded by ornate stone buildings, with a few potted flowers and a subtle tree canopy above.
+instruction: Make the bench smaller.
+taskid: 53838

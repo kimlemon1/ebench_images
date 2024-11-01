@@ -1,0 +1,5 @@
+org_img_id: 1592214
+org_cap: a person sits on a couch, holding a bottle and wearing a suit and tie, with a smile on his face and a phone in his hand.
+trg_cap: A person sits on a couch, holding a fire hydrant and wearing a suit and tie, with a smile on their face and a phone in their hand.
+instruction: Replace the bottle with a fire hydrant.
+taskid: 55117

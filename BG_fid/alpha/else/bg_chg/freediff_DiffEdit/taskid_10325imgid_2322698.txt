@@ -1,0 +1,5 @@
+org_img_id: 2322698
+org_cap: the bed is a single bed placed on a wooden frame, covered in a worn blue blanket with a few creases and a few stray pillows scattered around.
+trg_cap: In the small restaurant's staff break room, the bed is a single bed placed on a wooden frame, covered in a worn blue blanket with a few creases and a few stray pillows scattered around.
+instruction: Change the background to restaurant.
+taskid: 10325

@@ -1,0 +1,5 @@
+org_img_id: 2358304
+org_cap: a ripe, yellow banana lies in a dark, ceramic bowl, next to a glossy, red apple.
+trg_cap: A toothbrush lies in a dark, ceramic bowl, next to a glossy, red apple.
+instruction: Replace the banana with a toothbrush.
+taskid: 4232

@@ -1,0 +1,5 @@
+org_img_id: 2408590
+org_cap: The wooden paneling on the car's roof is adorned with a surfboard, held in place by wooden brackets and secured with a rope.
+trg_cap: A Van Gogh style art features the wooden paneling on the car's roof adorned with a surfboard, held in place by wooden brackets and secured with a rope.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 86415

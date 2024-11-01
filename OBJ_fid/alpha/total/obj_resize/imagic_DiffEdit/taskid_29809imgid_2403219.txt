@@ -1,0 +1,5 @@
+org_img_id: 2403219
+org_cap: a giraffe walks across the grassy enclosure, its long neck and legs moving, its brown and white striped fur glistening in the sunlight.
+trg_cap: A small giraffe walks across the grassy enclosure, its long neck and legs moving, its brown and white striped fur glistening in the sunlight.
+instruction: Make the giraffe smaller.
+taskid: 29809

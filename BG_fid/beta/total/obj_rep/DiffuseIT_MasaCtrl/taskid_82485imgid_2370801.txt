@@ -1,0 +1,5 @@
+org_img_id: 2370801
+org_cap: standing person, his eyes fixed on the catcher's glove.
+trg_cap: Standing fork.
+instruction: Replace the person with a fork.
+taskid: 82485

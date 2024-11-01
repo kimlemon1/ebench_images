@@ -1,0 +1,5 @@
+org_img_id: 2347987
+org_cap: surfing person, with a tattoo on her ankle.
+trg_cap: A mosaic art features a surfing person with a tattoo on her ankle.
+instruction: Change the style if the image to mosaic art.
+taskid: 40440

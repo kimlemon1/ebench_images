@@ -1,0 +1,5 @@
+org_img_id: 2336802
+org_cap: A white dog sits in a bathtub, its fur with water and soap suds.
+trg_cap: A red dog sits in a bathtub, its fur with water and soap suds.
+instruction: Change the color of the dog from white to red.
+taskid: 54434

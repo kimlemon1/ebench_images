@@ -1,0 +1,5 @@
+org_img_id: 2360642
+org_cap: Person with a purple helmet and green knee pads.
+trg_cap: The art, in a pop art style, features a person with a purple helmet and green knee pads.
+instruction: Change the style if the image to pop art style.
+taskid: 70413

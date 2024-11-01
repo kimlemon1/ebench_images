@@ -1,0 +1,5 @@
+org_img_id: 2395512
+org_cap: The scene features an orange vase perched on a stone ledge, its worn, earthy tone blending with the surrounding architecture, with a single, slender agave plant sprouting from its center.
+trg_cap: The scene features an brown vase perched on a stone ledge, its worn, earthy tone blending with the surrounding architecture, with a single, slender agave plant sprouting from its center.
+instruction: Change the color of the vase from orange to brown.
+taskid: 115705

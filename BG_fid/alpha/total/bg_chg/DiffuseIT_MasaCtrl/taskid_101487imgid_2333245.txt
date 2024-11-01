@@ -1,0 +1,5 @@
+org_img_id: 2333245
+org_cap: a sleek, white, low-floor, articulated bus with a curved front and a rounded roof, sporting a modern design and gleaming in the morning sunlight.
+trg_cap: A sleek, white, low-floor, articulated bus with a curved front and a rounded roof, sporting a modern design and gleaming in the morning sunlight, travels along a winding road through the picturesque countryside, passing by fields of golden wheat and rustic farmhouses.
+instruction: Change the background to country side farm.
+taskid: 101487

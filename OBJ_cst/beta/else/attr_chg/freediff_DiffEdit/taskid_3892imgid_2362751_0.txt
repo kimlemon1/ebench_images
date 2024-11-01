@@ -1,0 +1,5 @@
+org_img_id: 2362751_0
+org_cap: a chubby-faced toddler in a green onesie and suspenders sits on a wooden laptop stand, grasping the edge of the open gray laptop with both chubby hands and staring intently at the screen.
+trg_cap: a chubby-faced toddler in a green onesie and suspenders sits on a wooden laptop stand, grasping the edge of the folded gray laptop with both chubby hands and staring intently at the screen.
+instruction: Change the state of the laptop from open to folded.
+taskid: 3892

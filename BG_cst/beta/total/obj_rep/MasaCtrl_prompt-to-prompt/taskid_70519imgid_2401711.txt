@@ -1,0 +1,5 @@
+org_img_id: 2401711
+org_cap: a wood, black skateboard is a skateboard mounted on wheels, with a flat surface for the rider to stand on, and a tail and nose for turning and stopping.
+trg_cap: A sandwich is a sandwich mounted on wheels.
+instruction: Replace the skateboard with a sandwich.
+taskid: 70519

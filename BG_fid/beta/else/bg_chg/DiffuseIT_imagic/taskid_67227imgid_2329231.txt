@@ -1,0 +1,5 @@
+org_img_id: 2329231
+org_cap: a person in a black motorcycle, wearing a gray hoodie and black helmet, a person with a blurred background.
+trg_cap: A person in a black motorcycle, wearing a gray hoodie and black helmet, a person with ancient ruins in the background.
+instruction: Change the background to ancient ruins.
+taskid: 67227

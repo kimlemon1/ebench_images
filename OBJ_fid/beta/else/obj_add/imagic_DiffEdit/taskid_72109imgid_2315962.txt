@@ -1,0 +1,5 @@
+org_img_id: 2315962
+org_cap: a person wearing a red shirt and carrying a black backpack is riding a bicycle across a street.
+trg_cap: A person wearing a red shirt and carrying a black backpack with a bottle inside is riding a bicycle across a street.
+instruction: Add a bottle in the backpack.
+taskid: 72109

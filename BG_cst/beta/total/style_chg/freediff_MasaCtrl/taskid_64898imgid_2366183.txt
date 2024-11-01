@@ -1,0 +1,5 @@
+org_img_id: 2366183
+org_cap: a giraffe stands on its long legs, its neck stretched, its long eyelashes blinking, its ears flapping, and its hooves digging into the brick wall.
+trg_cap: A graffiti art depicts a giraffe standing on its long legs, with its neck stretched, long eyelashes blinking, ears flapping, and hooves digging into the brick wall.
+instruction: Change the style if the image to graffiti art.
+taskid: 64898

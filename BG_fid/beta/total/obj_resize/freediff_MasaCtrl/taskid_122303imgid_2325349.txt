@@ -1,0 +1,5 @@
+org_img_id: 2325349
+org_cap: A bus travels down the street, its wheels humming on the asphalt as it approaches a stop, where a few pedestrians wait patiently.
+trg_cap: A large bus travels down the street, its wheels humming on the asphalt as it approaches a stop, where a few pedestrians wait patiently.
+instruction: Make the bus larger.
+taskid: 122303

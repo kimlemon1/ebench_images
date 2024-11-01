@@ -1,0 +1,5 @@
+org_img_id: 2350248
+org_cap: The clock is an orange clock with white numbers and a bold, black font reading "feeding the people" in the center.
+trg_cap: The clock is an tan clock with white numbers and a bold, black font reading "feeding the people" in the center.
+instruction: Change the color of the clock from orange to tan.
+taskid: 96588

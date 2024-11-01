@@ -1,0 +1,5 @@
+org_img_id: 2348939
+org_cap: the clock tower stands tall and proud, its intricate stone carvings and gothic architecture a testament to the skill of its builders, with the clock face at its peak, its numbers and hands a blur as the clouds drift lazily by.
+trg_cap: The clock tower stands tall and proud, its intricate stone carvings and gothic architecture a testament to the skill of its builders, with the clock face at its peak, its numbers and hands a blur as the clouds drift lazily by, and a bottle perched on the clock.
+instruction: Add a bottle on the clock.
+taskid: 5454

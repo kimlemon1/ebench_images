@@ -1,0 +1,5 @@
+org_img_id: 2382886
+org_cap: Smiling, kneeling, surfing, surfing, person rides a wave on his blue surfboard, his wetsuit glistening with sea spray.
+trg_cap: An oil painting style art depicts a smiling, kneeling person surfing on a wave, riding his blue surfboard with his wetsuit glistening with sea spray.
+instruction: Change the style if the image to oil painting style.
+taskid: 96901

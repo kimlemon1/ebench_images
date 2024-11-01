@@ -1,0 +1,5 @@
+org_img_id: 2366218
+org_cap: a young person in a blue shirt and green shorts, her blonde hair as she hits the ball.
+trg_cap: a fork, its hair as she hits the ball.
+instruction: Replace the person with a fork.
+taskid: 83348

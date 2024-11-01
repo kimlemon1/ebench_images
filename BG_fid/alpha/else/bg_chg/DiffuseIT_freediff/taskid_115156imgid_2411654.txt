@@ -1,0 +1,5 @@
+org_img_id: 2411654
+org_cap: the clock face on the exterior wall of the historic church features intricate stone carvings and a large circular clock with roman numerals and ornate details.
+trg_cap: The clock face on the exterior wall of the historic church, reminiscent of ancient cave art, features intricate stone carvings and a large circular clock with Roman numerals and ornate details.
+instruction: Change the background to cave.
+taskid: 115156

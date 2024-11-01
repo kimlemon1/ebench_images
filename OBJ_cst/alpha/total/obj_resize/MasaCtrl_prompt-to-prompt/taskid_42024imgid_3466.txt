@@ -1,0 +1,5 @@
+org_img_id: 3466
+org_cap: a person sat at a table, surrounded by yellow chairs and umbrella, enjoying a meal at an outdoor café.
+trg_cap: a person sat at a table, surrounded by yellow chairs and a small umbrella, enjoying a meal at an outdoor café.
+instruction: Make the umbrella smaller.
+taskid: 42024

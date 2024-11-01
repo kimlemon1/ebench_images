@@ -1,0 +1,5 @@
+org_img_id: 2393214
+org_cap: a person waded out of the water, carrying a yellow surfboard.
+trg_cap: a person waded out of the water, carrying a checkered surfboard.
+instruction: Change the color of the surfboard from yellow to checkered.
+taskid: 93759

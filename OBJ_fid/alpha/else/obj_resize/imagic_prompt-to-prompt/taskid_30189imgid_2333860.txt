@@ -1,0 +1,5 @@
+org_img_id: 2333860
+org_cap: Person off the snow-covered mountain, their board against the frozen terrain as they through the air, their bright orange jacket and goggles a vivid splash of color against the monochrome winter landscape.
+trg_cap: Small person off the snow-covered mountain, their board against the frozen terrain as they through the air, their bright orange jacket and goggles a vivid splash of color against the monochrome winter landscape.
+instruction: Make the person smaller.
+taskid: 30189

@@ -1,0 +1,5 @@
+org_img_id: 2388517
+org_cap: a locomotive with a bright red livery and a train of carriages attached, parked alongside a container ship with a cranes and storage containers on its deck, surrounded by a bustling port with cargo trucks and cranes in the background.
+trg_cap: A locomotive with a bright red livery and a train of carriages attached, parked alongside a container ship with cranes and storage containers on its deck, surrounded by a bustling port with teddy bears in the background.
+instruction: Replace the truck with a teddy bear.
+taskid: 45541

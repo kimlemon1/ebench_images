@@ -1,0 +1,5 @@
+org_img_id: 2346263
+org_cap: A white plate holds a slice of yellow cake, accompanied by a brown cup of coffee and a fork lying idly beside it.
+trg_cap: A white plate holds a slice of yellow cake, accompanied by a brown cup of coffee and a small fork lying idly beside it.
+instruction: Make the fork smaller.
+taskid: 83107

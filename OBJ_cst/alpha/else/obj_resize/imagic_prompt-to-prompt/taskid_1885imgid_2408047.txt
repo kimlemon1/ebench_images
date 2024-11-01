@@ -1,0 +1,5 @@
+org_img_id: 2408047
+org_cap: a standing brown horse with a mane and a blaze on its forehead alongside a horse with a coat and a mane.
+trg_cap: a standing large brown horse with a mane and a blaze on its forehead alongside a horse with a coat and a mane.
+instruction: Make the horse larger.
+taskid: 1885

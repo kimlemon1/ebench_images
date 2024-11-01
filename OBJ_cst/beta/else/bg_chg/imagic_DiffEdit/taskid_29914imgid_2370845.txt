@@ -1,0 +1,5 @@
+org_img_id: 2370845
+org_cap: a brown, wet, surfing dog on a surfboard.
+trg_cap: a brown, wet, surfing dog on a surfboard in a vineyard.
+instruction: Change the background to vineyard.
+taskid: 29914

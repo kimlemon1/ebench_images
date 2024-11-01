@@ -1,0 +1,5 @@
+org_img_id: 2388213
+org_cap: a young person with long hair and a bright smile sat on a stone wall, her legs and her eyes on a smartphone in her hand, surrounded by bicycles and a tranquil outdoor setting.
+trg_cap: A skateboard sat on a stone wall, surrounded by bicycles and a tranquil outdoor setting.
+instruction: Replace the person with a skateboard.
+taskid: 10169

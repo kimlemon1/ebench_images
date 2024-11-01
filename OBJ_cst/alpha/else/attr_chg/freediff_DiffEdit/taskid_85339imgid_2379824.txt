@@ -1,0 +1,5 @@
+org_img_id: 2379824
+org_cap: a person rides a black motorcycle, wearing a helmet and a leather jacket with a confident smile.
+trg_cap: a person rides a gray motorcycle, wearing a helmet and a leather jacket with a confident smile.
+instruction: Change the color of the motorcycle from black to gray.
+taskid: 85339

@@ -1,0 +1,5 @@
+org_img_id: 2351468
+org_cap: Person kicks the yellow sports ball with his right foot, sending it across the green grass of the person sports ball field.
+trg_cap: Person kicks the yellow sports ball with his right foot, sending it across the green grass of the person sports ball field, with the bear behind the sports ball.
+instruction: Add a bear behind the sports ball.
+taskid: 85511

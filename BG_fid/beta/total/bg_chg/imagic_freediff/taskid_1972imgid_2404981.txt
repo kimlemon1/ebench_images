@@ -1,0 +1,5 @@
+org_img_id: 2404981
+org_cap: the scene is a close - up of a person's hands typing on a black keyboard with a beige background.
+trg_cap: The scene is a close-up of a person's hands typing on a black keyboard with a beige background in a living room.
+instruction: Change the background to living room.
+taskid: 1972

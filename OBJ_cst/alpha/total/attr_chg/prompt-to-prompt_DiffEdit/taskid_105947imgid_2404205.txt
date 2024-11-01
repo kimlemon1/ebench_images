@@ -1,0 +1,5 @@
+org_img_id: 2404205
+org_cap: a white boat glides smoothly across the calm, turquoise waters.
+trg_cap: a transparent boat glides smoothly across the calm, turquoise waters.
+instruction: Change the color of the boat from white to transparent.
+taskid: 105947

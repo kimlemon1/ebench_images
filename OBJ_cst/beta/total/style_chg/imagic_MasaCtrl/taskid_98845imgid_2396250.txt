@@ -1,0 +1,5 @@
+org_img_id: 2396250
+org_cap: Standing, playing, person throws a fastball down the middle of the strike zone.
+trg_cap: A Van Gogh style artwork depicts a person standing and playing, throwing a fastball down the middle of the strike zone.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 98845

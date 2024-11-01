@@ -1,0 +1,5 @@
+org_img_id: 2386499
+org_cap: a young person in a red sweater from a rugged all-terrain vehicle with a green and white body, its tires leaving tracks in the dry desert soil.
+trg_cap: The art, in a pop art style, features a young person in a red sweater on a rugged all-terrain vehicle with a green and white body, its tires leaving tracks in the dry desert soil.
+instruction: Change the style if the image to pop art style.
+taskid: 99857

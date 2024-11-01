@@ -1,0 +1,5 @@
+org_img_id: 2346870
+org_cap: a truck with a flatbed and wheels on the ground, parked alongside an airplane with its engines visible.
+trg_cap: A truck with a flatbed and wheels on the ground, parked alongside an airplane with its engines visible, stood near the concert hall.
+instruction: Change the background to concert hall.
+taskid: 43119

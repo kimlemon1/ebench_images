@@ -1,0 +1,5 @@
+org_img_id: 2410217
+org_cap: Skiing person, against a black backpack.
+trg_cap: A watercolor painting style art features a skiing person against a black backpack.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 55376

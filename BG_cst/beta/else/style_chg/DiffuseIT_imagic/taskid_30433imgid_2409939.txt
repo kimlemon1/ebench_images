@@ -1,0 +1,5 @@
+org_img_id: 2409939
+org_cap: standing person stands alone on the mound, eyes fixed on the batter as he waits for the next pitch.
+trg_cap: A mosaic art depicts a standing person alone on the mound, eyes fixed on the batter as he waits for the next pitch.
+instruction: Change the style if the image to mosaic art.
+taskid: 30433

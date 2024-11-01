@@ -1,0 +1,5 @@
+org_img_id: 2334077
+org_cap: a skiing person on yellow skis, over a snow-covered mountain slope.
+trg_cap: A pencil sketch depicts a person skiing on yellow skis over a snow-covered mountain slope.
+instruction: Change the style if the image to pencil sketch.
+taskid: 39558

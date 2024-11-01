@@ -1,0 +1,5 @@
+org_img_id: 713602
+org_cap: a snow-covered street with a white fire hydrant, surrounded by snowdrifts and winter vegetation.
+trg_cap: a snow-covered street with a cream colored fire hydrant, surrounded by snowdrifts and winter vegetation.
+instruction: Change the color of the fire hydrant from white to cream colored.
+taskid: 35694

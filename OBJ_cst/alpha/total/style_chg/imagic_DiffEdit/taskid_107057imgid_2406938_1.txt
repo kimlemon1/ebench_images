@@ -1,0 +1,5 @@
+org_img_id: 2406938_1
+org_cap: the kitchen features a sleek, gray-toned finish on the cabinets and countertops, with a microwave situated above the sink.
+trg_cap: A pencil sketch art depicts a kitchen with a sleek, gray-toned finish on the cabinets and countertops, featuring a microwave situated above the sink.
+instruction: Change the style if the image to pencil sketch.
+taskid: 107057

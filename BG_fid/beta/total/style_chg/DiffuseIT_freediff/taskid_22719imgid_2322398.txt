@@ -1,0 +1,5 @@
+org_img_id: 2322398
+org_cap: a person in a black hat and wearing orange and green clothing throws a white frisbee, the white frisbee flying high in the air as it arcs towards the ground.
+trg_cap: The mosaic art depicts a person in a black hat and orange and green clothing throwing a white frisbee, which flies high in the air as it arcs towards the ground.
+instruction: Change the style if the image to mosaic art.
+taskid: 22719

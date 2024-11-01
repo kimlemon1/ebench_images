@@ -1,0 +1,5 @@
+org_img_id: 2413963
+org_cap: a woman swings a baseball bat with a gentle arc, her skirt fluttering around her knees as she connects with the ball.
+trg_cap: A woman swings a baseball bat with a gentle arc, her skirt fluttering around her knees as she connects with the ball, the distant hum of airplanes taking off and landing at the airport providing a constant backdrop.
+instruction: Change the background to airport.
+taskid: 10269

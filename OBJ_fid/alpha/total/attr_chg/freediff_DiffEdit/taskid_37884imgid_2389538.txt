@@ -1,0 +1,5 @@
+org_img_id: 2389538
+org_cap: a lone surfer stands waist-deep in the ocean, holding a black, dirty surfboard, the waves crashing against the shore behind him.
+trg_cap: a lone surfer stands waist-deep in the ocean, holding a black, clean surfboard, the waves crashing against the shore behind him.
+instruction: Change the state of the surfboard from dirty to clean.
+taskid: 37884

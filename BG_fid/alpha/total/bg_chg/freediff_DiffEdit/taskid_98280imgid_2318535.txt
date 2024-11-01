@@ -1,0 +1,5 @@
+org_img_id: 2318535
+org_cap: a white sheep staring and looking up in the grassy bank beside a tranquil lake, its sheep and its eyes in contentment.
+trg_cap: A white sheep staring and looking up in the grassy bank beside a tranquil lake, its sheep and its eyes in contentment, with the grand facade of a library visible in the background.
+instruction: Change the background to library.
+taskid: 98280

@@ -1,0 +1,5 @@
+org_img_id: 2394844
+org_cap: Standing person stands next to her motorcycle, wearing a jacket and holding a helmet, with a smile on her face.
+trg_cap: A pencil sketch depicts a smiling person standing next to her motorcycle, wearing a jacket and holding a helmet.
+instruction: Change the style if the image to pencil sketch.
+taskid: 24063

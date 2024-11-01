@@ -1,0 +1,5 @@
+org_img_id: 2388071
+org_cap: a young girl with a messy face and a smudge of powdered sugar on her cheek sits at a table, holding a fork with a glob of beignet crumbs stuck to the fork.
+trg_cap: A young girl with a messy face and a smudge of powdered sugar on her cheek sits at a table, holding a tie.
+instruction: Replace the fork with a tie.
+taskid: 32978

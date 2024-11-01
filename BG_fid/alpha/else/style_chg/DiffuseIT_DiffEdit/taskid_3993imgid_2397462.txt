@@ -1,0 +1,5 @@
+org_img_id: 2397462
+org_cap: the scene is focused on a sleek, silver imac computer with a large, flat screen, surrounded by a clutter of papers, books, and office supplies, with a keyboard at the center and a pair of reading glasses resting on top.
+trg_cap: The art, in a Van Gogh style, features a scene focused on a sleek, silver iMac computer with a large, flat screen, surrounded by a clutter of papers, books, and office supplies, with a keyboard at the center and a pair of reading glasses resting on top.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 3993

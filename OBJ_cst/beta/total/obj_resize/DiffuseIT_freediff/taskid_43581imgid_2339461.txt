@@ -1,0 +1,5 @@
+org_img_id: 2339461
+org_cap: The remote in the person's hand is a small, rectangular device with a flat surface and a rounded edge.
+trg_cap: The remote in the person's hand is a small, rectangular device, approximately the size of a credit card, with a flat surface and a rounded edge.
+instruction: Make the remote smaller.
+taskid: 43581

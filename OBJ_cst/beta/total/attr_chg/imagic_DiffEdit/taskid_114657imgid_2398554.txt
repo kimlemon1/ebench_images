@@ -1,0 +1,5 @@
+org_img_id: 2398554
+org_cap: a police officer on a motorcycle wearing a helmet and a black jacket, with a white bus in the background.
+trg_cap: a police officer on a motorcycle wearing a helmet and a black jacket, with a blue bus in the background.
+instruction: Change the color of the bus from white to blue.
+taskid: 114657

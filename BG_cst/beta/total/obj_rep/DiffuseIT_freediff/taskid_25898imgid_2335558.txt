@@ -1,0 +1,5 @@
+org_img_id: 2335558
+org_cap: The blue vase sits atop a wooden desk, surrounded by a faint glow emanating from the computer and papers scattered across its surface.
+trg_cap: The handbag sits atop a wooden desk, surrounded by a faint glow emanating from the computer and papers scattered across the surface.
+instruction: Replace the vase with a handbag.
+taskid: 25898

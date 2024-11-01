@@ -1,0 +1,5 @@
+org_img_id: 2316649
+org_cap: a person in a blue shirt and gray helmet on a skateboard, his knees and his feet shoulder-width apart as he a corner.
+trg_cap: a large person in a blue shirt and gray helmet on a skateboard, his knees and his feet shoulder-width apart as he a corner.
+instruction: Make the person larger.
+taskid: 85315

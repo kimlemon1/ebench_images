@@ -1,0 +1,5 @@
+org_img_id: 2327276
+org_cap: A silver airplane soars through the sky, its wings glistening in the sunlight as it leaves a trail of white smoke behind it.
+trg_cap: A silver airplane soars through the sky above the bustling train station, its wings glistening in the sunlight as it leaves a trail of white smoke behind it.
+instruction: Change the background to train station.
+taskid: 67649

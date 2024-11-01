@@ -1,0 +1,5 @@
+org_img_id: 2339153
+org_cap: the train is a bright yellow color with a unique design featuring a cartoon character on the side, with bold black stripes and a rounded nose.
+trg_cap: The train, which transports passengers to a popular themed restaurant, is a bright yellow color with a unique design featuring a cartoon character on the side, with bold black stripes and a rounded nose.
+instruction: Change the background to restaurant.
+taskid: 122182

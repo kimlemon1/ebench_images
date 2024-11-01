@@ -1,0 +1,5 @@
+org_img_id: 2364375
+org_cap: A brown horse is grazing on a lush green meadow, with a rustic wooden fence and a distant farmhouse in the background.
+trg_cap: A speckled horse is grazing on a lush green meadow, with a rustic wooden fence and a distant farmhouse in the background.
+instruction: Change the color of the horse from brown to speckled.
+taskid: 39451

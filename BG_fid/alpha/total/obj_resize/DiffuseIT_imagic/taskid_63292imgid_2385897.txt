@@ -1,0 +1,5 @@
+org_img_id: 2385897
+org_cap: its paws and its tail as it a brown jumping dog a white frisbee in mid-air.
+trg_cap: its paws and its tail as it a brown jumping dog a large white frisbee in mid-air.
+instruction: Make the frisbee larger.
+taskid: 63292

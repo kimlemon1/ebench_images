@@ -1,0 +1,5 @@
+org_img_id: 2363844
+org_cap: A tan teddy bear sits atop a stack of vintage luggage, its paws dangling lazily over the edge of a worn leather suitcase.
+trg_cap: A tan book sits atop a stack of vintage luggage.
+instruction: Replace the teddy bear with a book.
+taskid: 115878

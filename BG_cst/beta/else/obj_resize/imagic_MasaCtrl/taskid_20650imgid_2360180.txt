@@ -1,0 +1,5 @@
+org_img_id: 2360180
+org_cap: The scene features a red boat gliding through the waters, with a wooden bridge and ornate clock tower standing tall on the shore.
+trg_cap: The scene features a large red boat gliding through the waters, with a wooden bridge and ornate clock tower standing tall on the shore.
+instruction: Make the boat larger.
+taskid: 20650

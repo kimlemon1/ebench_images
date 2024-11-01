@@ -1,0 +1,5 @@
+org_img_id: 2362093
+org_cap: a person in a red jacket and snow pants is skiing down a snowy mountain with a dog by their side.
+trg_cap: In the background of a library, a person in a red jacket and snow pants is skiing down a snowy mountain with a dog by their side.
+instruction: Change the background to library.
+taskid: 2642

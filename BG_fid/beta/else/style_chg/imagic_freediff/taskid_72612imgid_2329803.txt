@@ -1,0 +1,5 @@
+org_img_id: 2329803
+org_cap: a young person in snowboard attire, with a blue snowboard and matching snow pants, stands alone on the snow-covered sidewalk, blowing on his fingers and looking down at his snowboard with a thoughtful expression.
+trg_cap: A grey scale photo shows a young person in snowboard attire, with a blue snowboard and matching snow pants, standing alone on the snow-covered sidewalk, blowing on his fingers and looking down at his snowboard with a thoughtful expression.
+instruction: Change the style if the image to grey scale.
+taskid: 72612

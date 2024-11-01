@@ -1,0 +1,5 @@
+org_img_id: 2316588
+org_cap: person takes a big bite of a fluffy, sugary donut, the powdered sugar coating his lips and chin as he savors the sweet donut.
+trg_cap: An ancient Egyptian-style artwork depicts a person taking a big bite of a fluffy, sugary donut, with powdered sugar coating their lips and chin as they savor the sweet treat.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 3585

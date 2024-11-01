@@ -1,0 +1,5 @@
+org_img_id: 2327786
+org_cap: a young girl in a bright yellow jacket and matching leggings sits astride a black horse as it along a dirt path lined with tall trees and wildflowers.
+trg_cap: A young girl in a bright yellow jacket and matching leggings sits astride the bench along a dirt path lined with tall trees and wildflowers.
+instruction: Replace the horse with a bench.
+taskid: 100350

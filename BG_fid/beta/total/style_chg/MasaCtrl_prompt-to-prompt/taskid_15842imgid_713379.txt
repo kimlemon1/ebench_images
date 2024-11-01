@@ -1,0 +1,5 @@
+org_img_id: 713379
+org_cap: a person runs along the sandy beach, holding an orange surfboard by its handle, with a group of people playing and laughing in the background.
+trg_cap: The mosaic art depicts a person running along the sandy beach, holding an orange surfboard by its handle, with a group of people playing and laughing in the background.
+instruction: Change the style if the image to mosaic art.
+taskid: 15842

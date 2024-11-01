@@ -1,0 +1,5 @@
+org_img_id: 2379259
+org_cap: A white stop sign stands upright on a stop sign post, partially obstructed by a leafy branch.
+trg_cap: A grayscale photo features a white stop sign standing upright on a stop sign post, partially obstructed by a leafy branch.
+instruction: Change the style if the image to grey scale.
+taskid: 6197

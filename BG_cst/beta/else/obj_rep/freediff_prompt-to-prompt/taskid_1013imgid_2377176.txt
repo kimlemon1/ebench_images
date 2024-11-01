@@ -1,0 +1,5 @@
+org_img_id: 2377176
+org_cap: the kitchen features a stainless steel oven with a sleek, modern design, situated on a granite countertop with a subtle curve.
+trg_cap: The kitchen features a stainless steel pizza, situated on the granite countertop with a subtle curve.
+instruction: Replace the oven with a pizza.
+taskid: 1013

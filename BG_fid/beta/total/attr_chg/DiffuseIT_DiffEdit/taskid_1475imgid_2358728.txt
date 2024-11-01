@@ -1,0 +1,5 @@
+org_img_id: 2358728
+org_cap: The laptop is a gray laptop with a cracked screen and a tangled mess of cords and cables wrapped around it.
+trg_cap: The laptop is a purple laptop with a cracked screen and a tangled mess of cords and cables wrapped around it.
+instruction: Change the color of the laptop from gray to purple.
+taskid: 1475

@@ -1,0 +1,5 @@
+org_img_id: 2326640
+org_cap: A silver remote protrudes from a silver remote, surrounded by a silver remote and a silver remote.
+trg_cap: A silver cat protrudes from another silver cat, surrounded by a silver cat and another silver cat.
+instruction: Replace the remote with a cat.
+taskid: 98189

@@ -1,0 +1,5 @@
+org_img_id: 2416225
+org_cap: A white bird stands tall on the grassy verge, its neck stretched out, while a curious sheep grazes nearby, oblivious to the bird's gaze.
+trg_cap: A small white bird stands tall on the grassy verge, its neck stretched out, while a curious sheep grazes nearby, oblivious to the bird's gaze.
+instruction: Make the bird smaller.
+taskid: 114170

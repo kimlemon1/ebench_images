@@ -1,0 +1,5 @@
+org_img_id: 2400207
+org_cap: A red bus travels down a city street lined with tall trees and modern buildings.
+trg_cap: A small red bus travels down a city street lined with tall trees and modern buildings.
+instruction: Make the bus smaller.
+taskid: 121051

@@ -1,1 +1,0 @@
-# ebench_images

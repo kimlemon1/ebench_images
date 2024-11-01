@@ -1,0 +1,5 @@
+org_img_id: 2347255
+org_cap: A walking giraffe.
+trg_cap: An ancient Egyptian-style artwork features a walking giraffe.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 117520

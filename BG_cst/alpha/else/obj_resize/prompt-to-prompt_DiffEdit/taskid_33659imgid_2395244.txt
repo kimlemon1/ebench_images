@@ -1,0 +1,5 @@
+org_img_id: 2395244
+org_cap: a gray cat under a blue umbrella in a room with a beige carpet and a few pieces of furniture.
+trg_cap: a gray cat under a small blue umbrella in a room with a beige carpet and a few pieces of furniture.
+instruction: Make the umbrella smaller.
+taskid: 33659

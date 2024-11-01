@@ -1,0 +1,5 @@
+org_img_id: 2387375
+org_cap: person stands in front of a black tv, holding a controller and surrounded by a group of people sitting on the floor, all focused on the black tv.
+trg_cap: A cartoon-style artwork depicts a person standing in front of a black TV, holding a controller, and surrounded by a group of people sitting on the floor, all focused on the TV.
+instruction: Change the style if the image to cartoon style.
+taskid: 54365

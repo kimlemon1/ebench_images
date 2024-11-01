@@ -1,0 +1,5 @@
+org_img_id: 2376484
+org_cap: the person cuts into a tiered cake adorned with pixelated graphics and colorful frosting, featuring characters from a popular video game.
+trg_cap: In a bustling restaurant, the person cuts into a tiered cake adorned with pixelated graphics and colorful frosting, featuring characters from a popular video game.
+instruction: Change the background to restaurant.
+taskid: 60777

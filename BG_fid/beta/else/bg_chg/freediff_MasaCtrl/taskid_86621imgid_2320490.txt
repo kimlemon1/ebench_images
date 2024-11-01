@@ -1,0 +1,5 @@
+org_img_id: 2320490
+org_cap: The clock face is a beautiful example of ornate architecture, with intricate carvings and roman numerals adorning the stone exterior.
+trg_cap: The clock face is a beautiful example of ornate architecture, with intricate carvings and roman numerals adorning the stone exterior, set against the backdrop of a lush pine forest.
+instruction: Change the background to pine forest.
+taskid: 86621

@@ -1,0 +1,5 @@
+org_img_id: 2350150
+org_cap: a grey-haired person in a denim jacket and worn jeans on a vintage motorcycle, flanked by a flock of sheep grazing in the adjacent field, with a wind farm visible in the distance.
+trg_cap: a grey-haired person in a denim jacket and worn jeans on a vintage motorcycle, with a refrigerator in front of them, flanked by a flock of sheep grazing in the adjacent field, with a wind farm visible in the distance.
+instruction: Add a refrigerator in front of the person.
+taskid: 74730

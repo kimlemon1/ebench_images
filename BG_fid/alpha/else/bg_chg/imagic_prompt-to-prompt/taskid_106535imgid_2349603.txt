@@ -1,0 +1,5 @@
+org_img_id: 2349603
+org_cap: A person stands on the beach, holding a frisbee and looking up at a person in the air.
+trg_cap: A person stands on the edge of a desert, holding a frisbee and looking up at a person in the air.
+instruction: Change the background to desert.
+taskid: 106535

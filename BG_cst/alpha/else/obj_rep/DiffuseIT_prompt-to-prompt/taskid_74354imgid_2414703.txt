@@ -1,0 +1,5 @@
+org_img_id: 2414703
+org_cap: Person, wearing a white t-shirt and faded jeans, his red hat as he on his skateboard.
+trg_cap: Bear, his red hat as he is on his skateboard.
+instruction: Replace the person with a bear.
+taskid: 74354

@@ -1,0 +1,5 @@
+org_img_id: 2363183
+org_cap: A small bird with a grey back and orange chest on a tall blade of grass, its bright yellow beak.
+trg_cap: A small bird, about the size of a sparrow, with a grey back and orange chest on a tall blade of grass, its bright yellow beak.
+instruction: Make the bird smaller.
+taskid: 61379

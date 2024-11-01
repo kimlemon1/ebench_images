@@ -1,0 +1,5 @@
+org_img_id: 2396974
+org_cap: Sitting person on a white metal bench.
+trg_cap: Sitting person on a white metal bench on a mountain top.
+instruction: Change the background to mountain top.
+taskid: 95042

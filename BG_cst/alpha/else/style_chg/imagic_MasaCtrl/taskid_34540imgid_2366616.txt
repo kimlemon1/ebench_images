@@ -1,0 +1,5 @@
+org_img_id: 2366616
+org_cap: person takes a big bite of a hot dog, the juicy hot dog and soft hot dog filling his mouth as he chews with a satisfied expression.
+trg_cap: The pop art style artwork depicts a person taking a big bite of a juicy hot dog, the soft filling filling his mouth as he chews with a satisfied expression.
+instruction: Change the style if the image to pop art style.
+taskid: 34540

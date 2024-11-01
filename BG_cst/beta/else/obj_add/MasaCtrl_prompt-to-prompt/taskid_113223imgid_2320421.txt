@@ -1,0 +1,5 @@
+org_img_id: 2320421
+org_cap: a person holds a yellow umbrella above their head on a sunny day, with the umbrella visible against a bright blue sky.
+trg_cap: a person holds a yellow umbrella above their head on a sunny day, with a cat on the umbrella and the umbrella visible against a bright blue sky.
+instruction: Add a cat on the umbrella.
+taskid: 113223

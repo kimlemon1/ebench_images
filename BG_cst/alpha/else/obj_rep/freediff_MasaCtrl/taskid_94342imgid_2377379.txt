@@ -1,0 +1,5 @@
+org_img_id: 2377379
+org_cap: a female bird from a bright red flower on a sunny day.
+trg_cap: A bicycle.
+instruction: Replace the bird with a bicycle.
+taskid: 94342

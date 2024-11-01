@@ -1,0 +1,5 @@
+org_img_id: 2326613
+org_cap: a brown dog, the street.
+trg_cap: a orange dog, the street.
+instruction: Change the color of the dog from brown to orange.
+taskid: 112951

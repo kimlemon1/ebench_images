@@ -1,0 +1,5 @@
+org_img_id: 2391930
+org_cap: a person sits on a couch in a living room, surrounded by a coffee table, a tv, and a fireplace, wearing casual clothes and holding a silver laptop.
+trg_cap: a person sits on a couch in a living room, surrounded by a coffee table, a tv, and a fireplace, wearing casual clothes and holding a black laptop.
+instruction: Change the color of the laptop from silver to black.
+taskid: 55262

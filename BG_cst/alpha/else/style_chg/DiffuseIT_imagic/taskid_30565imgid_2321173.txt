@@ -1,0 +1,5 @@
+org_img_id: 2321173
+org_cap: An airplane sits on the tarmac, its fuselage a dull gray, with a faint sheen of morning dew on its surface, and its wings stretched out to the sides, with the engines at the rear, and the landing gear still down, with the tires still inflated, and the control surfaces still in place.
+trg_cap: A grayscale photo shows an airplane sitting on the tarmac, its fuselage a dull gray with a faint sheen of morning dew, wings stretched out to the sides, engines at the rear, landing gear down with inflated tires, and control surfaces in place.
+instruction: Change the style if the image to grey scale.
+taskid: 30565

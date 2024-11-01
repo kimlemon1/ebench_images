@@ -1,0 +1,5 @@
+org_img_id: 2335529
+org_cap: A young person sits on a rocky outcropping, holding a white surfboard, wearing a hoodie and holding a backpack.
+trg_cap: A young person sits on a rocky outcropping in a grass field, holding a white surfboard, wearing a hoodie and holding a backpack.
+instruction: Change the background to grass field.
+taskid: 4316

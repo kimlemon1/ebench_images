@@ -1,0 +1,5 @@
+org_img_id: 2349971
+org_cap: A zebra stands in a grassy plain, its black and white stripes in the sunlight.
+trg_cap: An umbrella stands in a grassy plain.
+instruction: Replace the zebra with a umbrella.
+taskid: 96512

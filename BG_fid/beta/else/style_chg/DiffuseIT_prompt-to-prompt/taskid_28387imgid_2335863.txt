@@ -1,0 +1,5 @@
+org_img_id: 2335863
+org_cap: Person, wearing a bright red hat and a big smile, zooms down the snowy mountain on a pair of skis, his arms and legs moving in perfect sync as he carves through the powder.
+trg_cap: A cartoon style art depicts a person wearing a bright red hat and a big smile, zooming down the snowy mountain on a pair of skis, with arms and legs moving in perfect sync as he carves through the powder.
+instruction: Change the style if the image to cartoon style.
+taskid: 28387

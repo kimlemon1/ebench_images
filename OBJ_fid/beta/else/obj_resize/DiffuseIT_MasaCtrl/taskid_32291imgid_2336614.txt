@@ -1,0 +1,5 @@
+org_img_id: 2336614
+org_cap: person, with a red rash guard and a determined expression, on his surfboard.
+trg_cap: large person, with a red rash guard and a determined expression, on his surfboard.
+instruction: Make the person larger.
+taskid: 32291

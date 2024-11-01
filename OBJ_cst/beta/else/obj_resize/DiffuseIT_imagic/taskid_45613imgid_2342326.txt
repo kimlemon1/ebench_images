@@ -1,0 +1,5 @@
+org_img_id: 2342326
+org_cap: a person is seen from behind, with a silver knife in hand, standing over a plate of sweet treats and a silver knife.
+trg_cap: a person is seen from behind, with a small silver knife in hand, standing over a plate of sweet treats and a small silver knife.
+instruction: Make the knife smaller.
+taskid: 45613

@@ -1,0 +1,5 @@
+org_img_id: 2355131
+org_cap: a lone rider on a brown horse, where a person in a uniform stands beside a stop sign and a yellow traffic cone.
+trg_cap: a lone parking meter, where someone in a uniform stands beside a stop sign and a yellow traffic cone.
+instruction: Replace the horse with a parking meter.
+taskid: 33978

@@ -1,0 +1,5 @@
+org_img_id: 2363601
+org_cap: Person, wearing a bright red jacket and snowshoes, with her golden retriever by her side.
+trg_cap: Person, wearing a bright red jacket and snowshoes, with her golden retriever by her side, navigated the bustling airport terminal.
+instruction: Change the background to airport.
+taskid: 74564

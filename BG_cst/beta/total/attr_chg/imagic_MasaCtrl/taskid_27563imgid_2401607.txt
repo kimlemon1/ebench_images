@@ -1,0 +1,5 @@
+org_img_id: 2401607
+org_cap: A white train glides smoothly into the station, its wheels screeching softly on the tracks as it comes to a stop.
+trg_cap: A cream colored train glides smoothly into the station, its wheels screeching softly on the tracks as it comes to a stop.
+instruction: Change the color of the train from white to cream colored.
+taskid: 27563

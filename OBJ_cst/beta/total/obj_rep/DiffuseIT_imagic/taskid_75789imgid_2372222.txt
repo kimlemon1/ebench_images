@@ -1,0 +1,5 @@
+org_img_id: 2372222
+org_cap: A smiling person on a wooden platform suspended high above the treetops, her helmet and harness securing her as she out at the lush green forest.
+trg_cap: A fire hydrant on a wooden platform is suspended high above the treetops.
+instruction: Replace the person with a fire hydrant.
+taskid: 75789

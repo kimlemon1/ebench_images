@@ -1,0 +1,5 @@
+org_img_id: 2334573
+org_cap: The clock face is a circular clock with roman numerals and a golden hour hand, surrounded by ornate stone carvings of mythical creatures and foliage.
+trg_cap: The clock face is a circular clock with roman numerals and a golden hour hand, surrounded by ornate stone carvings of mythical creatures and foliage, with a TV mounted on top of the clock.
+instruction: Add a tv on the clock.
+taskid: 11029

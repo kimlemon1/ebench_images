@@ -1,0 +1,5 @@
+org_img_id: 2316246
+org_cap: a colorful array of fruits and vegetables lies on a sleek, black table, featuring a vibrant banana, a juicy apple, a plump grape, a succulent orange, a crunchy pear, a ripe strawberry, and a sprig of fresh mint.
+trg_cap: a colorful array of fruits and vegetables lies on a sleek, black table, featuring a large, vibrant banana, a juicy apple, a plump grape, a succulent orange, a crunchy pear, a ripe strawberry, and a sprig of fresh mint.
+instruction: Make the banana larger.
+taskid: 99468

@@ -1,0 +1,5 @@
+org_img_id: 2415635_1
+org_cap: a black cat sits on top of a purple suitcase, its paws curled around the suitcase and its whiskers twitching as it surveys its surroundings.
+trg_cap: A black cat sits on top of a purple suitcase, its paws curled around the suitcase and its whiskers twitching as it surveys its surroundings in the dimly lit aquarium, where the soft glow of the tanks casts shimmering reflections on the walls.
+instruction: Change the background to aquarium.
+taskid: 73554

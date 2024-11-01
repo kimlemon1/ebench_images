@@ -1,0 +1,5 @@
+org_img_id: 2317272
+org_cap: The brown wood bench features intricate carvings of flowers and vines on its backrest, set against a drab gray stone wall with a small window above.
+trg_cap: The brown bamboo bench features intricate carvings of flowers and vines on its backrest, set against a drab gray stone wall with a small window above.
+instruction: Change the material of the bench from wood to bamboo.
+taskid: 119383

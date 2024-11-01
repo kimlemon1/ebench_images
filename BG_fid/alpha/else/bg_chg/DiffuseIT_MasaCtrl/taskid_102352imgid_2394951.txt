@@ -1,0 +1,5 @@
+org_img_id: 2394951
+org_cap: The white sink is with a chrome faucet and a rectangular mirror above it.
+trg_cap: The white sink is with a chrome faucet and a rectangular mirror above it, located in the airport restroom.
+instruction: Change the background to airport.
+taskid: 102352

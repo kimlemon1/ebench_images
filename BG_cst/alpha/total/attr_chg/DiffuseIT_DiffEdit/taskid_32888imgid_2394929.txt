@@ -1,0 +1,5 @@
+org_img_id: 2394929
+org_cap: a standing adult giraffe, its neck and legs, its giraffe speckled, its eyelashes framing its eyes.
+trg_cap: a standing baby giraffe, its neck and legs, its giraffe speckled, its eyelashes framing its eyes.
+instruction: Change the state of the giraffe from adult to baby.
+taskid: 32888

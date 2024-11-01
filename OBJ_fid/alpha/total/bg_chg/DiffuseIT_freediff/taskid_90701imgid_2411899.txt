@@ -1,0 +1,5 @@
+org_img_id: 2411899
+org_cap: a boat with a distinctive red funnel and a sleek, modern design sits in the harbor, surrounded by cars and buses parked in a compact lot, with people milling about on the dock and a few children running around, while the sky above is a bright blue with only a few wispy clouds.
+trg_cap: A boat with a distinctive red funnel and a sleek, modern design sits in the harbor, surrounded by cars and buses parked in a compact lot, with people milling about on the dock and a few children running around, while a pine forest lines the background and the sky above is a bright blue with only a few wispy clouds.
+instruction: Change the background to pine forest.
+taskid: 90701

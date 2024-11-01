@@ -1,0 +1,5 @@
+org_img_id: 2358650
+org_cap: a small black dog in a bright red coat on a snow-covered bench, its fur fluffed up against the cold winter weather.
+trg_cap: a small black dog in a bright red coat on a snow-covered bench, its small fur fluffed up against the cold winter weather.
+instruction: Make the dog smaller.
+taskid: 7825

@@ -1,0 +1,5 @@
+org_img_id: 2331454
+org_cap: "person on snow-covered slopes, with a determined expression on his face as he the challenging terrain."
+trg_cap: chair on snow-covered slopes as he navigates the challenging terrain.
+instruction: Replace the person with a chair.
+taskid: 85173

@@ -1,0 +1,5 @@
+org_img_id: 2343958
+org_cap: A white motorcycle sits on the sidewalk, surrounded by rain-soaked pavement and puddles reflecting the gray sky.
+trg_cap: A small white motorcycle sits on the sidewalk, surrounded by rain-soaked pavement and puddles reflecting the gray sky.
+instruction: Make the motorcycle smaller.
+taskid: 59294

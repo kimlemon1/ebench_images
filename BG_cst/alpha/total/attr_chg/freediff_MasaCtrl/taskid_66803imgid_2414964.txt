@@ -1,0 +1,5 @@
+org_img_id: 2414964
+org_cap: A black motorcycle with a chrome handlebar and a gleaming exhaust pipe sits on the gravelly parking lot, surrounded by a few parked cars and a small restaurant with a wooden sign bearing the name "irish pub".
+trg_cap: A green motorcycle with a chrome handlebar and a gleaming exhaust pipe sits on the gravelly parking lot, surrounded by a few parked cars and a small restaurant with a wooden sign bearing the name "irish pub".
+instruction: Change the color of the motorcycle from black to green.
+taskid: 66803

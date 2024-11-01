@@ -1,0 +1,5 @@
+org_img_id: 2358756
+org_cap: "person to pick up a frisbee from the forest floor, his green jacket and bright orange hat standing out against the muted tones of the trees and underbrush."
+trg_cap: "person to pick up a frisbee from the forest floor, his green jacket and bright orange hat standing out against the muted tones of the trees and underbrush, with a bear lurking behind him."
+instruction: Add a bear behind the person.
+taskid: 13202

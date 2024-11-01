@@ -1,0 +1,5 @@
+org_img_id: 2338674
+org_cap: Person, wearing a black snow jacket and snow pants, is in the snow, his snowboard against a tree, and his loyal person, a white and black mixed breed, next to him, both covered in a thick layer of snow.
+trg_cap: Person, wearing a black snow jacket and snow pants, is in the snow, his snowboard against a tree, and his loyal person, a white and black mixed breed, next to him, both covered in a thick layer of snow, with a sports ball behind the person.
+instruction: Add a sports ball behind the person.
+taskid: 51455

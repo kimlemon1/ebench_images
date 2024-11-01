@@ -1,0 +1,5 @@
+org_img_id: 2350299
+org_cap: a pink pom - pom hat lies on a woven basket filled with fibers, next to a gray cell phone with a pink pom - pom on its screen.
+trg_cap: A pink pom-pom hat lies on a woven basket filled with fibers, next to a gray cell phone with a pink pom-pom on its screen, all set against the backdrop of a vibrant aquarium.
+instruction: Change the background to aquarium.
+taskid: 105334

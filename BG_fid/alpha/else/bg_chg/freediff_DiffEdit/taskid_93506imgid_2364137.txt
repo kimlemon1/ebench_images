@@ -1,0 +1,5 @@
+org_img_id: 2364137
+org_cap: "person throws a fastball, his arm at a 90-degree angle as he releases the ball."
+trg_cap: On a countryside farm, the person throws a fastball, his arm at a 90-degree angle as he releases the ball.
+instruction: Change the background to country side farm.
+taskid: 93506

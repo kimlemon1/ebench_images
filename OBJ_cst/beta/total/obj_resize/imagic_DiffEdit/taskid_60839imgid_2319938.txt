@@ -1,0 +1,5 @@
+org_img_id: 2319938
+org_cap: a woman stands in front of a bakery window, admiring the colorful display of freshly baked pizzas, sandwiches, and pastries, her hand reaching out to grab a bottle of water from the counter.
+trg_cap: a woman stands in front of a bakery window, admiring the colorful display of freshly baked pizzas, sandwiches, and pastries, her hand reaching out to grab a small bottle of water from the counter.
+instruction: Make the bottle smaller.
+taskid: 60839

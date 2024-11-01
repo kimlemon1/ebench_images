@@ -1,0 +1,5 @@
+org_img_id: 2345323
+org_cap: walking person skiing across the snow-covered terrain, his eyes on the path ahead as he the winter wonderland.
+trg_cap: Walking bed skiing across the snow-covered terrain.
+instruction: Replace the person with a bed.
+taskid: 21531

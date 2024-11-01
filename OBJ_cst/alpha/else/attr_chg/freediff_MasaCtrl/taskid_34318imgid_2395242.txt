@@ -1,0 +1,5 @@
+org_img_id: 2395242
+org_cap: The toilet is a small, enclosed space with a single stall and a sink outside it, featuring a worn, yellowish tile floor, a ceramic white toilet seat, and a white toilet handle.
+trg_cap: The toilet is a small, enclosed space with a single stall and a sink outside it, featuring a worn, yellowish tile floor, a ceramic yellow toilet seat, and a yellow toilet handle.
+instruction: Change the color of the toilet from white to yellow.
+taskid: 34318

@@ -1,0 +1,5 @@
+org_img_id: 2411951
+org_cap: a sitting person on a bench, with a brown, sitting, sleeping, lying dog.
+trg_cap: a person sitting on a bench, with a banana.
+instruction: Replace the dog with a banana.
+taskid: 42637

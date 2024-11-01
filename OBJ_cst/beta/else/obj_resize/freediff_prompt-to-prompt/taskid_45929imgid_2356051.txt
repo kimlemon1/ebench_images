@@ -1,0 +1,5 @@
+org_img_id: 2356051
+org_cap: "Person's sweaty palms slapped the tennis racket against the grass court, his eyes on the ball, his white shirt and shorts stained with grass and dirt."
+trg_cap: The small person's sweaty palms slapped the tennis racket against the grass court, his eyes on the ball, his white shirt and shorts stained with grass and dirt.
+instruction: Make the person smaller.
+taskid: 45929

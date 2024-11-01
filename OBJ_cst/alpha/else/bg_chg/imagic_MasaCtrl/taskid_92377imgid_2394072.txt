@@ -1,0 +1,5 @@
+org_img_id: 2394072
+org_cap: Surfing, surfing, surfing, surfing, surfing person rides a white surfboard through the waves, his hood flapping as he carves an arc through the whitewater.
+trg_cap: Surfing, surfing, surfing, surfing, surfing person rides a white surfboard through the waves, his hood flapping as he carves an arc through the whitewater, reminiscent of the bustling energy of a train station.
+instruction: Change the background to train station.
+taskid: 92377

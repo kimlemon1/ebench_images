@@ -1,0 +1,5 @@
+org_img_id: 2325365
+org_cap: Person, dressed in a white apron and hat, stands at a kitchen counter, holding a tray of freshly baked bread.
+trg_cap: Spoon stands at the kitchen counter, holding a tray of freshly baked bread.
+instruction: Replace the person with a spoon.
+taskid: 83804

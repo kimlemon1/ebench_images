@@ -1,0 +1,5 @@
+org_img_id: 2402934
+org_cap: a brown horse along the sandy beach, its hooves up clouds of golden dust as it under the warm evening sun.
+trg_cap: A brown horse along the sandy beach, its hooves up clouds of golden dust as it under the warm evening sun, follows a cow in front of it.
+instruction: Add a cow in front of the horse.
+taskid: 7007

@@ -1,0 +1,5 @@
+org_img_id: 2350855
+org_cap: a grey and white striped cat sits on a windowsill, its fluffy tail as it watches a pizza delivery person walk by outside.
+trg_cap: A pop art style piece features a grey and white striped cat sitting on a windowsill, its fluffy tail flicking as it watches a pizza delivery person walk by outside.
+instruction: Change the style if the image to pop art style.
+taskid: 84125

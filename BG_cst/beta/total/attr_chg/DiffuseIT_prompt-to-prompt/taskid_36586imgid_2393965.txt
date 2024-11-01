@@ -1,0 +1,5 @@
+org_img_id: 2393965
+org_cap: young person surfing on his white surfboard with sea spray as he the waves.
+trg_cap: young person surfing on his teal surfboard with sea spray as he the waves.
+instruction: Change the color of the surfboard from white to teal.
+taskid: 36586

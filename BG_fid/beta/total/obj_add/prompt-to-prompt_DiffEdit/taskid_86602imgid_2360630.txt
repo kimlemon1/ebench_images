@@ -1,0 +1,5 @@
+org_img_id: 2360630
+org_cap: A snowboarding and skiing person flies down a snow-covered mountain, his snowboard over the powder as he a series of jumps and tricks.
+trg_cap: A snowboarding and skiing person flies down a snow-covered mountain, his snowboard over the powder as he a series of jumps and tricks, with a cake next to him.
+instruction: Add a cake next to the person.
+taskid: 86602

@@ -1,0 +1,5 @@
+org_img_id: 2363402
+org_cap: A tan dog on the waters of the lake, its fur glistening with dew and its ears in the gentle breeze.
+trg_cap: The mosaic art depicts a tan dog on the waters of the lake, its fur glistening with dew and its ears in the gentle breeze.
+instruction: Change the style if the image to mosaic art.
+taskid: 7684

@@ -1,0 +1,5 @@
+org_img_id: 2407368
+org_cap: standing young person surfing surfing surfing rides a blue surfboard.
+trg_cap: Standing young person surfing surfing surfing rides a blue surfboard in a museum exhibit.
+instruction: Change the background to museum.
+taskid: 26312

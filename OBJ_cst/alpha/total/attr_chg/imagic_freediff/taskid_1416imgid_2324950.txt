@@ -1,0 +1,5 @@
+org_img_id: 2324950
+org_cap: a brown dog, catching a flying frisbee with its paws, as a person in the background watches.
+trg_cap: a speckled dog, catching a flying frisbee with its paws, as a person in the background watches.
+instruction: Change the color of the dog from brown to speckled.
+taskid: 1416

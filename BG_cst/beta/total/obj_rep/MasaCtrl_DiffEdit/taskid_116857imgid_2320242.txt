@@ -1,0 +1,5 @@
+org_img_id: 2320242
+org_cap: a person holds a controller in front of a white tv, with a table and chairs in the background.
+trg_cap: The person holds a controller in front of a keyboard, with a table and chairs in the background.
+instruction: Replace the tv with a keyboard.
+taskid: 116857
