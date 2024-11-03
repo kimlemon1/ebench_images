@@ -1,0 +1,5 @@
+org_img_id: 2410547
+org_cap: The gray clock features a face with numerals and a trim, mounted atop a slender metal pole with a rounded finial.
+trg_cap: The gray clock, reminiscent of those found in rustic countryside farmhouses, features a face with numerals and a trim, mounted atop a slender metal pole with a rounded finial.
+instruction: Change the background to country side farm.
+taskid: 30141

@@ -1,0 +1,5 @@
+org_img_id: 2362587
+org_cap: "person his eyes fixed intently on the person."
+trg_cap: A cartoon-style art features a person with eyes fixed intently on another person.
+instruction: Change the style if the image to cartoon style.
+taskid: 54026

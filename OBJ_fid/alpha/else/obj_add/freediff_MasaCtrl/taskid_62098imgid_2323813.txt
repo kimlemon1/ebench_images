@@ -1,0 +1,5 @@
+org_img_id: 2323813
+org_cap: a small, chubby-faced person with bright red hair and a few missing teeth holds a white toothbrush in their small hand.
+trg_cap: a small, chubby-faced person with bright red hair and a few missing teeth holds a white toothbrush in their small hand, with a bottle on the left side of the toothbrush.
+instruction: Add a bottle on the left side of the toothbrush.
+taskid: 62098

@@ -1,0 +1,5 @@
+org_img_id: 2370194
+org_cap: a giraffe with a long neck and legs in a dense thicket of trees.
+trg_cap: A giraffe with a long neck and legs in a dense thicket of trees near a stadium.
+instruction: Change the background to stadium.
+taskid: 30942

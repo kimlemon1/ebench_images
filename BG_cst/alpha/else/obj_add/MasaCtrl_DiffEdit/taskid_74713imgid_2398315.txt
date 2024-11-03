@@ -1,0 +1,5 @@
+org_img_id: 2398315
+org_cap: "person a bright orange kayak, the warm sun reflecting off the rippling waves and illuminating the sailboats and yachts docked nearby."
+trg_cap: "person a bright orange kayak, the warm sun reflecting off the rippling waves and illuminating the sailboats and yachts docked nearby, with a zebra standing in front of the person."
+instruction: Add a zebra in front of the person.
+taskid: 74713

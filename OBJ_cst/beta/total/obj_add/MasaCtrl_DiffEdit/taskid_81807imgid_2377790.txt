@@ -1,0 +1,5 @@
+org_img_id: 2377790
+org_cap: Sitting person on a brown wood bench, his boots and hat a testament to his adventure.
+trg_cap: Sitting person on a brown wood bench, his boots and hat a testament to his adventure, with a traffic light behind him.
+instruction: Add a traffic light behind the person.
+taskid: 81807

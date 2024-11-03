@@ -1,0 +1,5 @@
+org_img_id: 2394627
+org_cap: The black laptop sits open on a desk, surrounded by a microwave, a mini-fridge, and a few books.
+trg_cap: The dark laptop sits open on a desk, surrounded by a microwave, a mini-fridge, and a few books.
+instruction: Change the color of the laptop from black to dark.
+taskid: 27869

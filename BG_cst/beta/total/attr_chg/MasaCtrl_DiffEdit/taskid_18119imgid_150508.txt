@@ -1,0 +1,5 @@
+org_img_id: 150508
+org_cap: The living room features a small dining table with a glass top, surrounded by a comfortable seating area with a couch and chairs, with a white refrigerator.
+trg_cap: The living room features a small dining table with a glass top, surrounded by a comfortable seating area with a couch and chairs, with a purple refrigerator.
+instruction: Change the color of the refrigerator from white to purple.
+taskid: 18119

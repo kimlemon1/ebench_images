@@ -1,0 +1,5 @@
+org_img_id: 2406429
+org_cap: motorcyclist expertly navigates the track on his blue motorcycle.
+trg_cap: motorcyclist expertly navigates the track on his dark blue motorcycle.
+instruction: Change the color of the motorcycle from blue to dark blue.
+taskid: 109036

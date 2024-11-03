@@ -1,0 +1,5 @@
+org_img_id: 2367809
+org_cap: An old red book lies open on a book, with a ball of yarn and a pair of knitting needles nearby, surrounded by a colorful array of yarns and threads.
+trg_cap: An old small red book lies open on a book, with a ball of yarn and a pair of knitting needles nearby, surrounded by a colorful array of yarns and threads.
+instruction: Make the book smaller.
+taskid: 44097

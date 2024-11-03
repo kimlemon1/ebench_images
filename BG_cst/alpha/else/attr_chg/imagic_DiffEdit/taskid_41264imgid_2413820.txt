@@ -1,0 +1,5 @@
+org_img_id: 2413820
+org_cap: A young woman sits on a brown wood bench, holding a black dog.
+trg_cap: A young woman sits on a purple wood bench, holding a black dog.
+instruction: Change the color of the bench from brown to purple.
+taskid: 41264

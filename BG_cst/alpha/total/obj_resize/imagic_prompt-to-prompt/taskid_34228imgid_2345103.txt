@@ -1,0 +1,5 @@
+org_img_id: 2345103
+org_cap: The green fire hydrant is a cylinder with a chain wrapped around it and a stripe painted on its side.
+trg_cap: The small green fire hydrant is a cylinder with a chain wrapped around it and a stripe painted on its side.
+instruction: Make the fire hydrant smaller.
+taskid: 34228

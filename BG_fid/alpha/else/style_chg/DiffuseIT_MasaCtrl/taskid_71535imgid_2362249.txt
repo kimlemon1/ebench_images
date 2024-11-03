@@ -1,0 +1,5 @@
+org_img_id: 2362249
+org_cap: The person wore a striped green top with a white skirt and yellow tennis shoes, her long blonde hair in a ponytail.
+trg_cap: A greyscale photo features a person wearing a striped green top, a white skirt, and yellow tennis shoes, with her long blonde hair in a ponytail.
+instruction: Change the style if the image to grey scale.
+taskid: 71535

@@ -1,0 +1,5 @@
+org_img_id: 2367036
+org_cap: Person carves through the snow, their skis down the mountain as they navigate the steep terrain.
+trg_cap: A grey scale photo shows a person carving through the snow, their skis navigating the steep mountain terrain.
+instruction: Change the style if the image to grey scale.
+taskid: 13545

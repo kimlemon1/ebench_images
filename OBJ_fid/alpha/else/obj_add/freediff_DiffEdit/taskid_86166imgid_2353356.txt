@@ -1,0 +1,5 @@
+org_img_id: 2353356
+org_cap: Sitting person in front of a giant blue chair, with their dog.
+trg_cap: Sitting person in front of a giant blue chair, with their dog and a laptop next to the dog.
+instruction: Add a laptop next to the dog.
+taskid: 86166

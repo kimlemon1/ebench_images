@@ -1,0 +1,5 @@
+org_img_id: 2333224
+org_cap: Person, clad in a sleek black wetsuit, through the turquoise waves, his surfboard as he a aerial maneuver, his blonde hair in the ocean breeze.
+trg_cap: Person, clad in a sleek black wetsuit, through the turquoise waves, his surfboard as he a aerial maneuver, his blonde hair in the ocean breeze, with a book on his right side.
+instruction: Add a book on the right side of the person.
+taskid: 76481

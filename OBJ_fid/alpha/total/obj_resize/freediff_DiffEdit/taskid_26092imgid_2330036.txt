@@ -1,0 +1,5 @@
+org_img_id: 2330036
+org_cap: Person with a confident grin on his face, his goggles and snowboard gloves a testament to his dedication to the sport.
+trg_cap: Large person with a confident grin on his face, his goggles and snowboard gloves a testament to his dedication to the sport.
+instruction: Make the person larger.
+taskid: 26092

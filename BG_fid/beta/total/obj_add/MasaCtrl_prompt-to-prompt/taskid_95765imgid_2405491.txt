@@ -1,0 +1,5 @@
+org_img_id: 2405491
+org_cap: a lone person in a wetsuit in the ocean, holding a surfboard and out at the waves.
+trg_cap: a lone person in a wetsuit in the ocean, holding a surfboard and out at the waves, with an umbrella behind them.
+instruction: Add a umbrella behind the person.
+taskid: 95765

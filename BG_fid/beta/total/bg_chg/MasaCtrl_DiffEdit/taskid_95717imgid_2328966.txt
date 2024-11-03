@@ -1,0 +1,5 @@
+org_img_id: 2328966
+org_cap: a giraffe stands in a enclosure, its long neck and legs across the rocky terrain, its giraffe fur blending with the surrounding stones as it for a patch of leaves on a distant tree.
+trg_cap: A giraffe stands in an enclosure, its long neck and legs across the rocky terrain, its giraffe fur blending with the surrounding stones as it reaches for a patch of leaves on a distant tree, while the library's towering shelves and rows of books create a quiet backdrop.
+instruction: Change the background to library.
+taskid: 95717

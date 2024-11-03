@@ -1,0 +1,5 @@
+org_img_id: 2332873
+org_cap: The clock tower features a large, ornate clock face with intricate details and a pair of bronze statues of animals, likely hippos or elephants, perched on either side of the timepiece.
+trg_cap: The clock tower features a large, ornate clock face with intricate details and a pair of bronze statues of animals, likely hippos or elephants, perched on either side of the timepiece, with a person situated behind the clock.
+instruction: Add a person behind the clock.
+taskid: 39055

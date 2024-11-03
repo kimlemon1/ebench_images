@@ -1,0 +1,5 @@
+org_img_id: 2323049
+org_cap: A white stop sign reads "stop" in bold letters, standing upright on a metal pole at the edge of a railway platform where a train is waiting.
+trg_cap: A large white stop sign reads "stop" in bold letters, standing upright on a metal pole at the edge of a railway platform where a train is waiting.
+instruction: Make the stop sign larger.
+taskid: 18600

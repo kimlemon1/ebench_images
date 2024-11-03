@@ -1,0 +1,5 @@
+org_img_id: 2374468
+org_cap: Person, clad in bright orange snow pants and a blue ski jacket, the steep mountain slope with a pair of skis strapped to their back.
+trg_cap: The pop art style artwork features a person clad in bright orange snow pants and a blue ski jacket on a steep mountain slope with a pair of skis strapped to their back.
+instruction: Change the style if the image to pop art style.
+taskid: 47458

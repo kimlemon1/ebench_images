@@ -1,0 +1,5 @@
+org_img_id: 2343440
+org_cap: a bright red double-decker bus, with its headlights shining brightly in the evening darkness, rumbles down the quiet city street, its wheels humming on the wet pavement.
+trg_cap: a small, bright red double-decker bus, with its headlights shining brightly in the evening darkness, rumbles down the quiet city street, its wheels humming on the wet pavement.
+instruction: Make the bus smaller.
+taskid: 46073

@@ -1,0 +1,5 @@
+org_img_id: 2368097
+org_cap: Young person in snowshoes, sunglasses on forehead, snowsuit against the cold, and hat over ears.
+trg_cap: A cartoon-style art features a young person in snowshoes, with sunglasses on their forehead, a snowsuit to guard against the cold, and a hat over their ears.
+instruction: Change the style if the image to cartoon style.
+taskid: 93950

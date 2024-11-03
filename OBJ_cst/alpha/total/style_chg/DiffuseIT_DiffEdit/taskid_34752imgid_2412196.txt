@@ -1,0 +1,5 @@
+org_img_id: 2412196
+org_cap: a woman holds a blue umbrella, walking alongside another woman on a city street lined with trees and buildings.
+trg_cap: An ancient Egyptian-style artwork depicts a woman holding a blue umbrella, walking alongside another woman on a city street lined with trees and buildings.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 34752

@@ -1,0 +1,5 @@
+org_img_id: 2382330
+org_cap: a red diesel locomotive chugs along the tracks, its wheels clicking on the asphalt as it approaches a group of people waiting on the platform, a red bicycle.
+trg_cap: a red diesel locomotive chugs along the tracks, its wheels clicking on the asphalt as it approaches a group of people waiting on the platform, a small red bicycle.
+instruction: Make the bicycle smaller.
+taskid: 23229

@@ -1,0 +1,5 @@
+org_img_id: 2399649
+org_cap: a red train, a solitary figure standing on the platform, gazing up at the red train with a mixture of curiosity and anticipation.
+trg_cap: a black and white train, a solitary figure standing on the platform, gazing up at the black and white train with a mixture of curiosity and anticipation.
+instruction: Change the color of the train from red to black and white.
+taskid: 69129

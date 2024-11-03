@@ -1,0 +1,5 @@
+org_img_id: 2327287
+org_cap: The gray fire hydrant is a structure, standing on a grassy patch of land.
+trg_cap: The silver fire hydrant is a structure, standing on a grassy patch of land.
+instruction: Change the color of the fire hydrant from gray to silver.
+taskid: 104614

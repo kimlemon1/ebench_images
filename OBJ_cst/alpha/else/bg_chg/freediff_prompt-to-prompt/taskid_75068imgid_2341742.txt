@@ -1,0 +1,5 @@
+org_img_id: 2341742
+org_cap: A white airplane takes off at sunset, its engines roaring as it speeds down the runway, leaving a trail of light behind it.
+trg_cap: A white airplane takes off at sunset, its engines roaring as it speeds down the runway, leaving a trail of light behind it, with a vast grass field stretching out on either side.
+instruction: Change the background to grass field.
+taskid: 75068

@@ -1,0 +1,5 @@
+org_img_id: 2320929
+org_cap: "person on a motorcycle, wearing a bright orange shirt and blue jeans, with a relaxed expression on his face."
+trg_cap: couch on a motorcycle.
+instruction: Replace the person with a couch.
+taskid: 46737

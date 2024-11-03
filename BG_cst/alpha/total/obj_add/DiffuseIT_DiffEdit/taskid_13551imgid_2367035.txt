@@ -1,0 +1,5 @@
+org_img_id: 2367035
+org_cap: a person stands at the edge of a snow-covered mountain, wearing a backpack and holding a camera at chest level, with a group of people in the distance skiing down the mountain in the background.
+trg_cap: A person stands at the edge of a snow-covered mountain, wearing a backpack with a bed on the right side and holding a camera at chest level, with a group of people in the distance skiing down the mountain in the background.
+instruction: Add a bed on the right side of the backpack.
+taskid: 13551

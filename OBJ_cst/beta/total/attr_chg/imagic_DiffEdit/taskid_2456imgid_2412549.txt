@@ -1,0 +1,5 @@
+org_img_id: 2412549
+org_cap: A gray cat lies on a red leather chair, sitting, its eyes on something in the distance, its body relaxed and content.
+trg_cap: A beige cat lies on a red leather chair, sitting, its eyes on something in the distance, its body relaxed and content.
+instruction: Change the color of the cat from gray to beige.
+taskid: 2456

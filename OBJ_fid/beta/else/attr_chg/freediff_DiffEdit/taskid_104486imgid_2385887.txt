@@ -1,0 +1,5 @@
+org_img_id: 2385887
+org_cap: my legs rest on a wooden table, clad in blue jeans and wearing a pair of worn-out socks, with a silver laptop in front of me.
+trg_cap: my legs rest on a wooden table, clad in blue jeans and wearing a pair of worn-out socks, with a dark laptop in front of me.
+instruction: Change the color of the laptop from silver to dark.
+taskid: 104486

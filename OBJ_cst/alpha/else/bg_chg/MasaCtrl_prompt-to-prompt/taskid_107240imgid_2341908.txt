@@ -1,0 +1,5 @@
+org_img_id: 2341908
+org_cap: person sits at a table, wearing a bright yellow sundress and sunglasses, with a warm smile on her face. she holds a plate with a delicious-looking sandwich, surrounded by a variety of colorful salads and drinks.
+trg_cap: In the bustling urban city, a person sits at a table, wearing a bright yellow sundress and sunglasses, with a warm smile on her face. She holds a plate with a delicious-looking sandwich, surrounded by a variety of colorful salads and drinks.
+instruction: Change the background to urban city.
+taskid: 107240

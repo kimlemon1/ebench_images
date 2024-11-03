@@ -1,0 +1,5 @@
+org_img_id: 2388786
+org_cap: a surfer in a wetsuit rides a white surfboard through the waves.
+trg_cap: A surfer in a wetsuit rides a white surfboard through the waves, with a backpack on the left side of the surfboard.
+instruction: Add a backpack on the left side of the surfboard.
+taskid: 122252

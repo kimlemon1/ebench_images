@@ -1,0 +1,5 @@
+org_img_id: 2332223
+org_cap: a large elephant stands in a river, its gray skin glistening with water droplets, its tusks curved and worn, its ears in the breeze.
+trg_cap: A large elephant stands in a river, its gray skin glistening with water droplets, its tusks curved and worn, its ears in the breeze, as if it were a majestic statue in a grand library, surrounded by towering shelves of books.
+instruction: Change the background to library.
+taskid: 91256

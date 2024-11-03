@@ -1,0 +1,5 @@
+org_img_id: 2348312
+org_cap: "Person at a desk, wearing a red hoodie and glasses, with a hint of stubble on his chin and a relaxed expression on his face."
+trg_cap: The teddy bear at a desk.
+instruction: Replace the person with a teddy bear.
+taskid: 92397

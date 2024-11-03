@@ -1,0 +1,5 @@
+org_img_id: 2350363
+org_cap: A white cat and a white cat sit on the windowsill, surrounded by festive decorations and tiny wooden figures.
+trg_cap: A white cat and a white cat sit on the windowsill, surrounded by festive decorations and tiny wooden figures, with a cell phone under one of the cats.
+instruction: Add a cell phone under the cat.
+taskid: 102167

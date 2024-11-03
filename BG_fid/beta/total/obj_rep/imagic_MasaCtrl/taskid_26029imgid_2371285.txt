@@ -1,0 +1,5 @@
+org_img_id: 2371285
+org_cap: a grey cat with a fluffy coat and piercing green eyes sits on the wooden floor, its tail as it watches a suitcase in the background.
+trg_cap: A grey horse sits on the wooden floor, its tail swishing as it watches a suitcase in the background.
+instruction: Replace the cat with a horse.
+taskid: 26029

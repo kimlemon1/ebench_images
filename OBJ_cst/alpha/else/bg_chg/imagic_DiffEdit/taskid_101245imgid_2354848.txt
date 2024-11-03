@@ -1,0 +1,5 @@
+org_img_id: 2354848
+org_cap: The sink is a white sink with a chrome faucet.
+trg_cap: The sink, reminiscent of the stark contrast found in a desert oasis, is a white sink with a chrome faucet.
+instruction: Change the background to desert.
+taskid: 101245

@@ -1,0 +1,5 @@
+org_img_id: 2375896
+org_cap: a person walks across a zebra crossing, carrying an umbrella.
+trg_cap: A person walks across their bed.
+instruction: Replace the umbrella with a bed.
+taskid: 20536

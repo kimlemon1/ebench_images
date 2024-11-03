@@ -1,0 +1,5 @@
+org_img_id: 2379974
+org_cap: The black clock face is a striking feature, with the numerals in a elegant script.
+trg_cap: The black bench is a striking feature, with the numerals in an elegant script.
+instruction: Replace the clock with a bench.
+taskid: 70308

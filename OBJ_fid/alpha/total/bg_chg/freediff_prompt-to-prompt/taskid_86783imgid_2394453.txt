@@ -1,0 +1,5 @@
+org_img_id: 2394453
+org_cap: A black train sits on the platform, its doors open and its interior dimly lit, with a faint glow emanating from the tunnel in the background.
+trg_cap: A black train sits on the platform, its doors open and its interior dimly lit, with the faint sounds of weights clanking and people exercising in the gym in the background.
+instruction: Change the background to gym.
+taskid: 86783

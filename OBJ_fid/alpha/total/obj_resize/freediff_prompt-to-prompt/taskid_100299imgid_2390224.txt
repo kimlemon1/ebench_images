@@ -1,0 +1,5 @@
+org_img_id: 2390224
+org_cap: a barefoot person in his teenage years is on a gray skateboard down a winding road, his feet bare and his toes around it.
+trg_cap: a barefoot person in his teenage years is on a small gray skateboard down a winding road, his feet bare and his toes around it.
+instruction: Make the skateboard smaller.
+taskid: 100299

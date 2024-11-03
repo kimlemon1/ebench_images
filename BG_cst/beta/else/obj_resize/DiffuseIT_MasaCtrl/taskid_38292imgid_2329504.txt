@@ -1,0 +1,5 @@
+org_img_id: 2329504
+org_cap: a yellow bus and a white car share the road with pedestrians and a pedestrian crossing, while a lone figure walks down the street, surrounded by modern buildings and streetlights.
+trg_cap: a large yellow bus and a white car share the road with pedestrians and a pedestrian crossing, while a lone figure walks down the street, surrounded by modern buildings and streetlights.
+instruction: Make the bus larger.
+taskid: 38292

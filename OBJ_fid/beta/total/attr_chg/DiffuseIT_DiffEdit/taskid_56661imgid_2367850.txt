@@ -1,0 +1,5 @@
+org_img_id: 2367850
+org_cap: a juicy burger with melted cheese, lettuce, tomato, and a slice of onion, served on a white plate with a black knife, accompanied by a glass of wine and a basket of fries.
+trg_cap: a juicy burger with melted cheese, lettuce, tomato, and a slice of onion, served on a white plate with a purple knife, accompanied by a glass of wine and a basket of fries.
+instruction: Change the color of the knife from black to purple.
+taskid: 56661

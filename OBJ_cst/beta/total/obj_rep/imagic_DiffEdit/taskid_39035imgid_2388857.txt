@@ -1,0 +1,5 @@
+org_img_id: 2388857
+org_cap: the sandwich is a toasted sandwich topped with a crispy, golden-brown hash brown, melted cheddar cheese, and a generous serving of slow-cooked pulled pork.
+trg_cap: The cat is topped with a crispy, golden-brown hash brown, melted cheddar cheese, and a generous serving of slow-cooked pulled pork.
+instruction: Replace the sandwich with a cat.
+taskid: 39035

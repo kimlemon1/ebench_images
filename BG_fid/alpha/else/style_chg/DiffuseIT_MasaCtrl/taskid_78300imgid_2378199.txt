@@ -1,0 +1,5 @@
+org_img_id: 2378199
+org_cap: the old, worn-out bathtub sits in the center of the room, surrounded by peeling wallpaper and creaky wooden floorboards, with a white toilet and lid hanging precariously from the wall.
+trg_cap: A mosaic art contains an old, worn-out bathtub sitting in the center of the room, surrounded by peeling wallpaper and creaky wooden floorboards, with a white toilet and lid hanging precariously from the wall.
+instruction: Change the style if the image to mosaic art.
+taskid: 78300

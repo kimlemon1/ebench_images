@@ -1,0 +1,5 @@
+org_img_id: 713808
+org_cap: A person with a red backpack and a green umbrella down a rainy city street.
+trg_cap: A person with a red backpack and a green umbrella walked along a rainy beachside promenade.
+instruction: Change the background to beach.
+taskid: 22911

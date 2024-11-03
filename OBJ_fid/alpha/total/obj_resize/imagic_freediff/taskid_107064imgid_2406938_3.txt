@@ -1,0 +1,5 @@
+org_img_id: 2406938_3
+org_cap: The green bowl is a color, and its edges are slightly curved to fit comfortably in the hand.
+trg_cap: The small green bowl is a color, and its edges are slightly curved to fit comfortably in the hand.
+instruction: Make the bowl smaller.
+taskid: 107064

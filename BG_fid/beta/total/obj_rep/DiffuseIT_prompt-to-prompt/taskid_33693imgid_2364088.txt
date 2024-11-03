@@ -1,0 +1,5 @@
+org_img_id: 2364088
+org_cap: A striped zebra stands in the savannah, its black and white stripes in the sunlight, its ears and its tail, against a backdrop of a cloudy sky with a few wispy clouds drifting lazily across it.
+trg_cap: A frisbee stands in the savannah, his ears and his tail, against a backdrop of a cloudy sky with a few wispy clouds drifting lazily across it.
+instruction: Replace the zebra with a frisbee.
+taskid: 33693

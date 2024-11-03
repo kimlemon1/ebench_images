@@ -1,0 +1,5 @@
+org_img_id: 2396535
+org_cap: Playing and batting, person in a grassy field, wearing a jersey and holding the bat with both hands, with an expression.
+trg_cap: Playing and batting, it, orange, with an expression.
+instruction: Replace the person with a orange.
+taskid: 123078

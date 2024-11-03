@@ -1,0 +1,5 @@
+org_img_id: 2342449
+org_cap: A black cat sits atop a stack of clay pots on a brick wall, its piercing green eyes gazing out at the world.
+trg_cap: An ancient Egyptian-style artwork depicts a black cat with piercing green eyes sitting atop a stack of clay pots on a brick wall, gazing out at the world.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 90027

@@ -1,0 +1,5 @@
+org_img_id: 2405521
+org_cap: a person holding a white surfboard walking into waves.
+trg_cap: A graffiti art piece of a person holding a white surfboard walking into waves.
+instruction: Change the style if the image to graffiti art.
+taskid: 45046

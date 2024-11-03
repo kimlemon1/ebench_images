@@ -1,0 +1,5 @@
+org_img_id: 2410788
+org_cap: a group of people sit on a bench, wearing white and black clothing, with laptops and headphones in hand.
+trg_cap: A group of people sit on a suitcase, wearing white and black clothing, with laptops and headphones in their hands.
+instruction: Replace the bench with a suitcase.
+taskid: 15782

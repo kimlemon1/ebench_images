@@ -1,0 +1,5 @@
+org_img_id: 2336381
+org_cap: a white flying bird over the blue ocean waters.
+trg_cap: a sheep over its blue ocean waters.
+instruction: Replace the bird with a sheep.
+taskid: 9837

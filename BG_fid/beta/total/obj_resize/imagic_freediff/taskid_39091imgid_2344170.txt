@@ -1,0 +1,5 @@
+org_img_id: 2344170
+org_cap: The dog on a plush dog bed in front of a cozy fireplace, surrounded by plush couches and a warm, rustic atmosphere.
+trg_cap: The small dog on a plush dog bed in front of a cozy fireplace, surrounded by plush couches and a warm, rustic atmosphere.
+instruction: Make the dog smaller.
+taskid: 39091

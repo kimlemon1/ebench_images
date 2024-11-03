@@ -1,0 +1,5 @@
+org_img_id: 2342834
+org_cap: a young elephant stands near a watering hole, its gray skin glistening in the sunlight, its large ears in the breeze, and its trunk around a bundle of hay.
+trg_cap: The art, in a watercolor painting style, depicts a young elephant standing near a watering hole, its gray skin glistening in the sunlight, its large ears fluttering in the breeze, and its trunk wrapped around a bundle of hay.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 65890

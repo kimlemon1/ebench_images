@@ -1,0 +1,5 @@
+org_img_id: 2412605
+org_cap: standing person rides a wave on a surfboard, his surfing legs and crouching arms as he riding through the water.
+trg_cap: standing person rides a wave on a surfboard, his surfing legs and crouching arms as he riding through the water, with a donut next to him.
+instruction: Add a donut next to the person.
+taskid: 45220

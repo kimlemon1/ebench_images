@@ -1,0 +1,5 @@
+org_img_id: 2369623
+org_cap: Playing person swings her racket, her fingers wrapping around the handle as she sends a forehand shot flying across the court, her ponytail bobbing with each step she takes to cover the court.
+trg_cap: A graffiti art depicts a person playing, swinging her racket with fingers wrapped around the handle as she sends a forehand shot flying across the court, her ponytail bobbing with each step she takes to cover the court.
+instruction: Change the style if the image to graffiti art.
+taskid: 32977

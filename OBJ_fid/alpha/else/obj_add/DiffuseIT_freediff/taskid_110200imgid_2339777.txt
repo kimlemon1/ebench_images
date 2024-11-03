@@ -1,0 +1,5 @@
+org_img_id: 2339777
+org_cap: a middle-aged person in a bright blue wetsuit on a paddleboard in the calm waters, with a small brown dog sitting on the board beside him.
+trg_cap: a middle-aged person in a bright blue wetsuit on a paddleboard in the calm waters, with a small brown dog sitting on the board beside him, and a kite attached to his back.
+instruction: Add a kite on the person.
+taskid: 110200

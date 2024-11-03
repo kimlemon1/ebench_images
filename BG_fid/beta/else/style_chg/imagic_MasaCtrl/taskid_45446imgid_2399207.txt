@@ -1,0 +1,5 @@
+org_img_id: 2399207
+org_cap: a white, sitting dog in the driver's seat of a car with a cracked windshield, wearing a seatbelt.
+trg_cap: A Van Gogh style artwork features a white dog sitting in the driver's seat of a car with a cracked windshield, wearing a seatbelt.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 45446

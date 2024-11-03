@@ -1,0 +1,5 @@
+org_img_id: 1592026
+org_cap: a black bicycle with rusty chain and worn tires is parked on the wooden deck of a colorful houseboat, surrounded by potted plants and a few garden stones.
+trg_cap: An oil painting style art depicts a black bicycle with a rusty chain and worn tires parked on the wooden deck of a colorful houseboat, surrounded by potted plants and a few garden stones.
+instruction: Change the style if the image to oil painting style.
+taskid: 118695

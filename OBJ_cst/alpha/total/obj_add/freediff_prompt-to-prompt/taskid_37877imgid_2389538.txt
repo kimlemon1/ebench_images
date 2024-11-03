@@ -1,0 +1,5 @@
+org_img_id: 2389538
+org_cap: a lone surfer stands waist-deep in the ocean, holding a black, dirty surfboard, the waves crashing against the shore behind him.
+trg_cap: A lone surfer stands waist-deep in the ocean, holding a black, dirty surfboard, the waves crashing against the shore behind him, with a bed on the right side of the surfboard.
+instruction: Add a bed on the right side of the surfboard.
+taskid: 37877

@@ -1,0 +1,5 @@
+org_img_id: 2409701
+org_cap: a person holds a clear, plastic cup in one hand and a black phone in the other, his eyes fixed on the screen as he texts or checks his messages.
+trg_cap: A pop art style artwork depicts a person holding a clear plastic cup in one hand and a black phone in the other, with his eyes fixed on the screen as he texts or checks his messages.
+instruction: Change the style if the image to pop art style.
+taskid: 84499

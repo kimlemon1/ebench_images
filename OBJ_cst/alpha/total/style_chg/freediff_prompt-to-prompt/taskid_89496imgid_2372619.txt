@@ -1,0 +1,5 @@
+org_img_id: 2372619
+org_cap: a striped zebra on dry grass in a sun-baked savannah.
+trg_cap: The art, in a pop art style, features a striped zebra on dry grass in a sun-baked savannah.
+instruction: Change the style if the image to pop art style.
+taskid: 89496

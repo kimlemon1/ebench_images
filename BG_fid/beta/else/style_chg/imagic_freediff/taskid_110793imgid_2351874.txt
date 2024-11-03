@@ -1,0 +1,5 @@
+org_img_id: 2351874
+org_cap: Person on the sidewalk, wearing a gray t-shirt and baggy jeans, his skateboard at his feet.
+trg_cap: A mosaic art depicts a person on the sidewalk wearing a gray t-shirt and baggy jeans, with his skateboard at his feet.
+instruction: Change the style if the image to mosaic art.
+taskid: 110793

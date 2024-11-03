@@ -1,0 +1,5 @@
+org_img_id: 2360560
+org_cap: an gray elephant, along a path, with a person walking behind it, keeping a safe distance.
+trg_cap: "a baseball bat, along a path, with a person walking behind them, keeping a safe distance."
+instruction: Replace the elephant with a baseball bat.
+taskid: 71327

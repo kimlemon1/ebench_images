@@ -1,0 +1,5 @@
+org_img_id: 2327556
+org_cap: a young girl holds a teddy bear dressed in a miniature superhero costume, complete with a blue and red jumpsuit and a tiny cape.
+trg_cap: a young girl holds a large teddy bear dressed in a miniature superhero costume, complete with a blue and red jumpsuit and a tiny cape.
+instruction: Make the teddy bear larger.
+taskid: 75763

@@ -1,0 +1,5 @@
+org_img_id: 2394601
+org_cap: the small kitchen features a worn-out oven with a cracked glass door and a rusty handle, surrounded by outdated appliances and faded tiles.
+trg_cap: A graffiti art piece depicts a small kitchen featuring a worn-out oven with a cracked glass door and a rusty handle, surrounded by outdated appliances and faded tiles.
+instruction: Change the style if the image to graffiti art.
+taskid: 115651

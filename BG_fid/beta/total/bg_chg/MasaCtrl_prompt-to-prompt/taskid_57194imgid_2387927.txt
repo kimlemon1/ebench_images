@@ -1,0 +1,5 @@
+org_img_id: 2387927
+org_cap: a delicate, antique cup sits on a ornate, vintage tea table, surrounded by a floral patterned teapot and matching saucer, with a plate of sweet treats and a steaming cup of coffee beside it.
+trg_cap: A delicate, antique cup sits on an ornate, vintage tea table, surrounded by a floral patterned teapot and matching saucer, with a plate of sweet treats and a steaming cup of coffee beside it, all set against the backdrop of ancient ruins.
+instruction: Change the background to ancient ruins.
+taskid: 57194

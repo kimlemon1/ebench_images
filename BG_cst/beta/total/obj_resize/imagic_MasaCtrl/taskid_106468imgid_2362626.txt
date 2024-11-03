@@ -1,0 +1,5 @@
+org_img_id: 2362626
+org_cap: a woman holds a large, rectangular umbrella with a sturdy wooden handle and a canvas umbrella in a vibrant shade of green.
+trg_cap: a woman holds a small, large, rectangular umbrella with a sturdy wooden handle and a canvas umbrella in a vibrant shade of green.
+instruction: Make the umbrella smaller.
+taskid: 106468

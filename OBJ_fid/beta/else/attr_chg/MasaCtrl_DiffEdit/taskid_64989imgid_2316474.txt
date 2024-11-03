@@ -1,0 +1,5 @@
+org_img_id: 2316474
+org_cap: The scene is focused on a small, outdated bathroom with a white porcelain sink, a black and white tile floor, and an open white toilet.
+trg_cap: The scene is focused on a small, outdated bathroom with a white porcelain sink, a black and white tile floor, and an down white toilet.
+instruction: Change the state of the toilet from open to down.
+taskid: 64989

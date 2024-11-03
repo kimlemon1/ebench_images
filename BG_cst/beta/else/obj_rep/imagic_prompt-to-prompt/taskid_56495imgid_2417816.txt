@@ -1,0 +1,5 @@
+org_img_id: 2417816
+org_cap: person swings her racket, her arm extending as she hits the tennis ball, her purple shirt fluttering.
+trg_cap: Spoon swings their racket, their arm extending as they hit the tennis ball.
+instruction: Replace the person with a spoon.
+taskid: 56495

@@ -1,0 +1,5 @@
+org_img_id: 2339315
+org_cap: a small person in a blue and white striped shirt and shorts stands alone on a lush green grassy field, at a small object in his hand.
+trg_cap: A small person in a blue and white striped shirt and shorts stands alone on a lush green grassy field, at a small object in his hand, with a tie lying next to him.
+instruction: Add a tie next to the person.
+taskid: 78765

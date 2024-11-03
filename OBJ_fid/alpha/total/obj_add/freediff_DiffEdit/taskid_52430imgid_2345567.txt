@@ -1,0 +1,5 @@
+org_img_id: 2345567
+org_cap: The clock is a large, sleek structure with a cylindrical body and a flat face featuring large, shiny numbers and a prominent clock hand.
+trg_cap: The clock is a large, sleek structure with a cylindrical body and a flat face featuring large, shiny numbers and a prominent clock hand, and the train is located underneath the clock.
+instruction: Add a train under the clock.
+taskid: 52430

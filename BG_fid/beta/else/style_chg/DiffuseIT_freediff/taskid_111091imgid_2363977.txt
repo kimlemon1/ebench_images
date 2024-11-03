@@ -1,0 +1,5 @@
+org_img_id: 2363977
+org_cap: a person holds a white phone in their hand, with a cup of orange juice and a red solo cup on the porch.
+trg_cap: A cartoon style art depicts a person holding a white phone in their hand, with a cup of orange juice and a red solo cup on the porch.
+instruction: Change the style if the image to cartoon style.
+taskid: 111091

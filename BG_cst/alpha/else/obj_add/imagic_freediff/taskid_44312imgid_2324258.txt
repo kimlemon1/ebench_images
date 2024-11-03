@@ -1,0 +1,5 @@
+org_img_id: 2324258
+org_cap: a middle-aged person with a green backpack walks through the airport security checkpoint, passing through the metal detectors and stopping briefly to adjust his backpack before continuing on his journey.
+trg_cap: A middle-aged person with a green backpack and a motorcycle in front of the backpack walks through the airport security checkpoint, passing through the metal detectors and stopping briefly to adjust his backpack before continuing on his journey.
+instruction: Add a motorcycle in front of the backpack.
+taskid: 44312

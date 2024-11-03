@@ -1,0 +1,5 @@
+org_img_id: 2354841
+org_cap: Person in front of a bathroom mirror, a digital camera and at her own reflection.
+trg_cap: Bottle in front of a bathroom mirror, a digital camera and its reflection.
+instruction: Replace the person with a bottle.
+taskid: 101240

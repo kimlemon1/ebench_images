@@ -1,0 +1,5 @@
+org_img_id: 2334759
+org_cap: a yellow truck and a blue bus are parked on the side of the road, with the truck's hook extended and the bus's wheels raised.
+trg_cap: a small yellow truck and a blue bus are parked on the side of the road, with the truck's hook extended and the bus's wheels raised.
+instruction: Make the truck smaller.
+taskid: 117895

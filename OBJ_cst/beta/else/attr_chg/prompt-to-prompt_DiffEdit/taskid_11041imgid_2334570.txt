@@ -1,0 +1,5 @@
+org_img_id: 2334570
+org_cap: A brown horse grazes on the rocky terrain, its ears perked up and its tail in the mountain breeze.
+trg_cap: A orange horse grazes on the rocky terrain, its ears perked up and its tail in the mountain breeze.
+instruction: Change the color of the horse from brown to orange.
+taskid: 11041

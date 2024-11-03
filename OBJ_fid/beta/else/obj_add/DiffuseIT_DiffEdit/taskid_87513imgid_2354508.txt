@@ -1,0 +1,5 @@
+org_img_id: 2354508
+org_cap: A white laptop sits atop a desk, with a cup of coffee and a stack of papers beside it, surrounded by a clutter of cords, cables, and miscellaneous office supplies.
+trg_cap: A white laptop sits atop a desk, with a cup of coffee and a wine glass next to it, and a stack of papers beside it, surrounded by a clutter of cords, cables, and miscellaneous office supplies.
+instruction: Add a wine glass next to the cup.
+taskid: 87513

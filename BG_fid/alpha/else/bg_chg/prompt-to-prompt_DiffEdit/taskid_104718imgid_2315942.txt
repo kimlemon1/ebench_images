@@ -1,0 +1,5 @@
+org_img_id: 2315942
+org_cap: Person sat at the table, his beard and flannel shirt a stark contrast to the bright colors of the breakfast spread.
+trg_cap: Person sat at the table in the library, his beard and flannel shirt a stark contrast to the bright colors of the breakfast spread.
+instruction: Change the background to library.
+taskid: 104718

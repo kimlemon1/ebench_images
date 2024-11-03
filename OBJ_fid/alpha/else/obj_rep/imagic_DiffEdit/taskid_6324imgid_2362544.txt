@@ -1,0 +1,5 @@
+org_img_id: 2362544
+org_cap: a brown bird along the sandy beach, its tiny feet into the warm sand as it for food.
+trg_cap: a brown handbag along the sandy beach as she for food.
+instruction: Replace the bird with a handbag.
+taskid: 6324

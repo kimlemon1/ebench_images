@@ -1,0 +1,5 @@
+org_img_id: 2406333
+org_cap: person is kneeling on the floor, wearing a gray suit and a striped necktie.
+trg_cap: The person is kneeling on the floor, wearing a gray suit with scissors.
+instruction: Replace the tie with a scissors.
+taskid: 22100

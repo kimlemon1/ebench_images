@@ -1,0 +1,5 @@
+org_img_id: 2402502
+org_cap: A white cup sits on a laptop keyboard.
+trg_cap: A teal cup sits on a laptop keyboard.
+instruction: Change the color of the cup from white to teal.
+taskid: 112221

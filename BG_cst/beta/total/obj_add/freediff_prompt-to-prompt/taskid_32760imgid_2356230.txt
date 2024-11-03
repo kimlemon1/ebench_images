@@ -1,0 +1,5 @@
+org_img_id: 2356230
+org_cap: a young person sits in a public transportation vehicle, holding a pink laptop with a cartoon character on the screen.
+trg_cap: A young person sits in a public transportation vehicle, holding a pink laptop with a cartoon character on the screen, with a cat sitting behind the laptop.
+instruction: Add a cat behind the laptop.
+taskid: 32760

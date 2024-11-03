@@ -1,0 +1,5 @@
+org_img_id: 2323908
+org_cap: The wood bed stands against a stone wall in a dimly lit room.
+trg_cap: The brass bed stands against a stone wall in a dimly lit room.
+instruction: Change the material of the bed from wood to brass.
+taskid: 27306

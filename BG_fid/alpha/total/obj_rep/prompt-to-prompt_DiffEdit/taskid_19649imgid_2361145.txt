@@ -1,0 +1,5 @@
+org_img_id: 2361145
+org_cap: Person stands with his back to the camera, his torso bare and muscular, his gray sweatpants and white headband visible.
+trg_cap: Giraffe stands with its back to the camera.
+instruction: Replace the person with a giraffe.
+taskid: 19649

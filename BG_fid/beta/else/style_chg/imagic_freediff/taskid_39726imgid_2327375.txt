@@ -1,0 +1,5 @@
+org_img_id: 2327375
+org_cap: a snowboarder in black and white clothing, with a black beanie and black and white striped gloves, is seen flying through the air as he performs a trick on his snowboard, his legs and arms splayed out in a dynamic pose.
+trg_cap: The graffiti art depicts a snowboarder in black and white clothing, with a black beanie and black and white striped gloves, flying through the air in a dynamic pose as he performs a trick on his snowboard, his legs and arms splayed out.
+instruction: Change the style if the image to graffiti art.
+taskid: 39726

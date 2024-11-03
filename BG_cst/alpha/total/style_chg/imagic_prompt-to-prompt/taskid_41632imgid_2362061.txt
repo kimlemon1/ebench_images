@@ -1,0 +1,5 @@
+org_img_id: 2362061
+org_cap: a large adult elephant stands in a tall grassland, its gray skin covered in dust and scratches, its tusks worn and curved, its ears in the breeze, and its trunk around a nearby tree trunk.
+trg_cap: The pop art style artwork features a large adult elephant standing in a tall grassland, its gray skin covered in dust and scratches, with worn and curved tusks, ears swaying in the breeze, and its trunk wrapped around a nearby tree trunk.
+instruction: Change the style if the image to pop art style.
+taskid: 41632

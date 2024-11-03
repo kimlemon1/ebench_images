@@ -1,0 +1,5 @@
+org_img_id: 2359512
+org_cap: A blue cup sits on a wooden table, next to a yellow banana.
+trg_cap: A blue cup sits on a wooden table, next to a yellow banana, in the backstage area of a concert hall.
+instruction: Change the background to concert hall.
+taskid: 23353

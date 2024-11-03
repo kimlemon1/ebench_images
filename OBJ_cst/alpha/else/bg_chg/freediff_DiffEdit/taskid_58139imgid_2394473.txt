@@ -1,0 +1,5 @@
+org_img_id: 2394473
+org_cap: A standing giraffe stands tall, its fur with white patches on its face and legs.
+trg_cap: A standing giraffe stands tall, its fur with white patches on its face and legs, reminiscent of the elegant patterns found in the decor of a high-end restaurant.
+instruction: Change the background to restaurant.
+taskid: 58139

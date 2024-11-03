@@ -1,0 +1,5 @@
+org_img_id: 2324679
+org_cap: A person in a black wetsuit rides a surfboard, his arms and legs bent, his board slicing through the waves with a smooth, fluid motion.
+trg_cap: A person in a black wetsuit rides a surfboard, his arms and legs bent, his board slicing through the waves with a smooth, fluid motion, with a bird gliding behind him.
+instruction: Add a bird behind the person.
+taskid: 94715

@@ -1,0 +1,5 @@
+org_img_id: 2377206
+org_cap: A yellow train chugs along the tracks, its wheels clicking on the rails as it gains speed.
+trg_cap: A cartoon-style art features a yellow train chugging along the tracks, its wheels clicking on the rails as it gains speed.
+instruction: Change the style if the image to cartoon style.
+taskid: 90945

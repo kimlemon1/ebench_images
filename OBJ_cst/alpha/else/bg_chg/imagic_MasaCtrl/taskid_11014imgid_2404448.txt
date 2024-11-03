@@ -1,0 +1,5 @@
+org_img_id: 2404448
+org_cap: a young person wearing a blue hoodie and a helmet, with a yellow wood skateboard, along the sidewalk.
+trg_cap: A young person wearing a blue hoodie and a helmet, with a yellow wood skateboard, gliding along the sidewalk of a countryside farm.
+instruction: Change the background to country side farm.
+taskid: 11014

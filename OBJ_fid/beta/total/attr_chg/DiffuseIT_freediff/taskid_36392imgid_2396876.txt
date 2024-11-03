@@ -1,0 +1,5 @@
+org_img_id: 2396876
+org_cap: person stands on a black snowboard, wearing a blue jacket and black goggles, with a snow-covered mountain in the background.
+trg_cap: person stands on a red snowboard, wearing a blue jacket and red goggles, with a snow-covered mountain in the background.
+instruction: Change the color of the snowboard from black to red.
+taskid: 36392

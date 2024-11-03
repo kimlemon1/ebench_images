@@ -1,0 +1,5 @@
+org_img_id: 2395012
+org_cap: a black bear, black bear fur glistening in the sunlight, black bear paws on the grass, and black bear snout as it sniffs the air for berries or insects.
+trg_cap: a small black bear, black bear fur glistening in the sunlight, black bear paws on the grass, and black bear snout as it sniffs the air for berries or insects.
+instruction: Make the bear smaller.
+taskid: 15221

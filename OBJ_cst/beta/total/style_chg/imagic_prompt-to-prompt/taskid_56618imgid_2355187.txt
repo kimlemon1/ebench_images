@@ -1,0 +1,5 @@
+org_img_id: 2355187
+org_cap: surfing person rides a purple surfboard, her hair behind her as she through the waves with a confident grin.
+trg_cap: A pencil sketch depicts a surfing person riding a purple surfboard, her hair flowing behind her as she navigates the waves with a confident grin.
+instruction: Change the style if the image to pencil sketch.
+taskid: 56618

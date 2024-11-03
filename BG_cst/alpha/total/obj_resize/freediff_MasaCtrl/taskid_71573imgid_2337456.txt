@@ -1,0 +1,5 @@
+org_img_id: 2337456
+org_cap: Person with a confident grin on his face, his bright blue snowboard across the mountain as he a perfect 360-degree spin.
+trg_cap: Small person with a confident grin on his face, his bright blue snowboard across the mountain as he a perfect 360-degree spin.
+instruction: Make the person smaller.
+taskid: 71573

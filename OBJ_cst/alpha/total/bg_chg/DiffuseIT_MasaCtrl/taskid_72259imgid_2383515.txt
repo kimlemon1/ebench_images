@@ -1,0 +1,5 @@
+org_img_id: 2383515
+org_cap: person in a yellow snowsuit, goggles and a helmet, is on a snowboard.
+trg_cap: A person in a yellow snowsuit, goggles, and a helmet, is on a snowboard, with the hospital looming in the background.
+instruction: Change the background to hospital.
+taskid: 72259

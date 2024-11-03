@@ -1,0 +1,5 @@
+org_img_id: 2360946
+org_cap: The green, rusty, old, dirty fire hydrant stands tall amidst a lush carpet of green foliage, its metal body weathered.
+trg_cap: The green, undamaged, old, dirty fire hydrant stands tall amidst a lush carpet of green foliage, its metal body weathered.
+instruction: Change the state of the fire hydrant from rusty to undamaged.
+taskid: 123932

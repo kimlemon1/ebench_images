@@ -1,0 +1,5 @@
+org_img_id: 2376210
+org_cap: A blue kite soared through the gray sky above the choppy waters, with a lone blue kite riding the waves below.
+trg_cap: A blue kite soared through the gray sky above the choppy waters, with the bustling urban cityscape in the background, and a lone blue kite riding the waves below.
+instruction: Change the background to urban city.
+taskid: 113424

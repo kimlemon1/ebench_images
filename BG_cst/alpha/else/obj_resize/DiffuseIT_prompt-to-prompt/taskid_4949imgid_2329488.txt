@@ -1,0 +1,5 @@
+org_img_id: 2329488
+org_cap: a young person stands in the background, wearing a black backpack.
+trg_cap: a young person stands in the background, wearing a large black backpack.
+instruction: Make the backpack larger.
+taskid: 4949

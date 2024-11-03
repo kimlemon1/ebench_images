@@ -1,0 +1,5 @@
+org_img_id: 2416826
+org_cap: a small cup of expertly crafted espresso sits on a wooden table, accompanied by a plate of freshly baked, glazed donuts in a variety of flavors.
+trg_cap: A Van Gogh style art features a small cup of expertly crafted espresso sitting on a wooden table, accompanied by a plate of freshly baked, glazed donuts in a variety of flavors.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 121492

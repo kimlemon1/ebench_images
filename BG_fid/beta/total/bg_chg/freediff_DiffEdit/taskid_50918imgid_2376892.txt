@@ -1,0 +1,5 @@
+org_img_id: 2376892
+org_cap: The parking meter is a sleek, gray, cylindrical structure with a flat top and a rounded bottom, standing approximately 4 feet tall and 2 feet wide, with a small screen displaying available parking times and a payment slot at the base.
+trg_cap: The parking meter, set against the backdrop of a dimly lit cave, is a sleek, gray, cylindrical structure with a flat top and a rounded bottom, standing approximately 4 feet tall and 2 feet wide, with a small screen displaying available parking times and a payment slot at the base.
+instruction: Change the background to cave.
+taskid: 50918

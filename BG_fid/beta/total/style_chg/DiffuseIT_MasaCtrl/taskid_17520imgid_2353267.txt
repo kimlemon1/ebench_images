@@ -1,0 +1,5 @@
+org_img_id: 2353267
+org_cap: Person sits on a purple bench in a garden, wearing a gray shirt and purple socks, surrounded by colorful flowers and plants.
+trg_cap: The mosaic art depicts a person sitting on a purple bench in a garden, wearing a gray shirt and purple socks, surrounded by colorful flowers and plants.
+instruction: Change the style if the image to mosaic art.
+taskid: 17520

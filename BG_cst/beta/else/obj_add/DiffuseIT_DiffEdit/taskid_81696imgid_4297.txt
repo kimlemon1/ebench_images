@@ -1,0 +1,5 @@
+org_img_id: 4297
+org_cap: The kitchen features a sleek, stainless steel microwave and a modern, black refrigerator, situated alongside a wooden floor and surrounded by dark, wooden cabinetry.
+trg_cap: The kitchen features a sleek, stainless steel microwave with a cat inside and a modern, black refrigerator, situated alongside a wooden floor and surrounded by dark, wooden cabinetry.
+instruction: Add a cat in the microwave.
+taskid: 81696

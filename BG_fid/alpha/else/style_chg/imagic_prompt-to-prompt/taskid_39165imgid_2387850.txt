@@ -1,0 +1,5 @@
+org_img_id: 2387850
+org_cap: Standing, the person stands against a dimly lit street sign, his frame clad in a jacket and jeans, his eyes on the phone in his hand as he listens to the caller.
+trg_cap: A cartoon style art depicts a person standing against a dimly lit street sign, clad in a jacket and jeans, with his eyes on the phone in his hand as he listens to the caller.
+instruction: Change the style if the image to cartoon style.
+taskid: 39165

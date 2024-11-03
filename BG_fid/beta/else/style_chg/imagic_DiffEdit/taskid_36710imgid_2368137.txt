@@ -1,0 +1,5 @@
+org_img_id: 2368137
+org_cap: the train, with its gleaming black body and ornate details, chugs along the tracks, its wheels clicking rhythmically as it carries passengers through the rolling countryside.
+trg_cap: A grey scale photo captures a train with its gleaming black body and ornate details chugging along the tracks, its wheels clicking rhythmically as it carries passengers through the rolling countryside.
+instruction: Change the style if the image to grey scale.
+taskid: 36710

@@ -1,0 +1,5 @@
+org_img_id: 2382870
+org_cap: A red bus drives slowly down a quiet residential street.
+trg_cap: A mosaic art features a red bus driving slowly down a quiet residential street.
+instruction: Change the style if the image to mosaic art.
+taskid: 47616

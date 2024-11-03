@@ -1,0 +1,5 @@
+org_img_id: 2325946
+org_cap: A large airplane with a shiny metallic body and wings, illuminated by the bright lights of the runway, descends slowly onto the tarmac, its engines roaring softly as it taxis to a stop.
+trg_cap: A large airplane with a shiny metallic body and wings, illuminated by the bright lights of the runway, descends slowly onto the tarmac, its engines roaring softly as it taxis to a stop near the airport's bustling restaurant, where travelers enjoy meals while watching the planes arrive.
+instruction: Change the background to restaurant.
+taskid: 41302

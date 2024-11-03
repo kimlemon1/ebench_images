@@ -1,0 +1,5 @@
+org_img_id: 2317569
+org_cap: A calico cat with a white face, pink nose, and green eyes on the kitchen counter, surrounded by utensils and a bottle of olive oil.
+trg_cap: A pencil sketch art depicts a calico cat with a white face, pink nose, and green eyes on the kitchen counter, surrounded by utensils and a bottle of olive oil.
+instruction: Change the style if the image to pencil sketch.
+taskid: 33362

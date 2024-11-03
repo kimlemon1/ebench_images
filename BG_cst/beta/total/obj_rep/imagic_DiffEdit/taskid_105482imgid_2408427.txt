@@ -1,0 +1,5 @@
+org_img_id: 2408427
+org_cap: the scene features a tower standing tall amidst the urban landscape, with a white clock and a sign reading "golden fried chicken" above a storefront.
+trg_cap: The scene features a tower standing tall amidst the urban landscape, with a sign reading "golden fried bird" above a storefront.
+instruction: Replace the clock with a bird.
+taskid: 105482

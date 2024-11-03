@@ -1,0 +1,5 @@
+org_img_id: 2372906
+org_cap: The white oven is an appliance with a rectangular shape, featuring a wooden door with a silver handle and a glass window on top.
+trg_cap: A Van Gogh style art features a white oven, an appliance with a rectangular shape, a wooden door with a silver handle, and a glass window on top.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 30904

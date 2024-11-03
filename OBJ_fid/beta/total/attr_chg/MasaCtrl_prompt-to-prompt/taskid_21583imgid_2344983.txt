@@ -1,0 +1,5 @@
+org_img_id: 2344983
+org_cap: a person crouches beside a brown skateboard, its wooden worn and scratched, with a furry dog sniffing curiously at its.
+trg_cap: a person crouches beside a green skateboard, its wooden worn and scratched, with a furry dog sniffing curiously at its.
+instruction: Change the color of the skateboard from brown to green.
+taskid: 21583

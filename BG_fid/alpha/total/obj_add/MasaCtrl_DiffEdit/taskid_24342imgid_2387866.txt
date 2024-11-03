@@ -1,0 +1,5 @@
+org_img_id: 2387866
+org_cap: a class 375 train, with its bright yellow and blue livery, stands at platform 1, its wheels and tracks gleaming in the morning light, while the station building and canopy loom above, with the road bridge and surrounding landscape visible in the distance.
+trg_cap: A class 375 train, with its bright yellow and blue livery, stands at platform 1, its wheels and tracks gleaming in the morning light, while an umbrella lies under the train, and the station building and canopy loom above, with the road bridge and surrounding landscape visible in the distance.
+instruction: Add a umbrella under the train.
+taskid: 24342

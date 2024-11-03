@@ -1,0 +1,5 @@
+org_img_id: 2376072
+org_cap: the stone clock tower stands tall, its stone walls bearing the weight of time, with a fluttering flag waving proudly from its top.
+trg_cap: The stone clock tower stands tall, its stone walls bearing the weight of time, with a fluttering flag waving proudly from its top, set against the backdrop of a vast, echoing cave.
+instruction: Change the background to cave.
+taskid: 90794

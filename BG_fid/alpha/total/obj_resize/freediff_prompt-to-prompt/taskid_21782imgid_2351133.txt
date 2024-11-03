@@ -1,0 +1,5 @@
+org_img_id: 2351133
+org_cap: surfing person rides a black surfboard through a wave, his muscles flexing as he through the water.
+trg_cap: surfing person rides a small black surfboard through a wave, his muscles flexing as he through the water.
+instruction: Make the surfboard smaller.
+taskid: 21782

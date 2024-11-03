@@ -1,0 +1,5 @@
+org_img_id: 2373595
+org_cap: A striped zebra stands in a forest clearing, its black and white stripes glistening in the sunlight.
+trg_cap: A small striped zebra stands in a forest clearing, its black and white stripes glistening in the sunlight.
+instruction: Make the zebra smaller.
+taskid: 69716

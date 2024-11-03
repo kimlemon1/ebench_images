@@ -1,0 +1,5 @@
+org_img_id: 2343339
+org_cap: a person in his mid-twenties, wearing a white tank top and faded jeans, his arms and legs splayed in mid-air over a concrete half-pipe.
+trg_cap: a person in his mid-twenties, wearing a white tank top and faded jeans, his arms and legs splayed in mid-air over a concrete half-pipe, with a vast snow field stretching out in the background.
+instruction: Change the background to snow field.
+taskid: 107719

@@ -1,0 +1,5 @@
+org_img_id: 2327054
+org_cap: hand cradling a black laptop on lap, fingers typing away on the.
+trg_cap: "hand cradling a pizza, my fingers typing away on the."
+instruction: Replace the laptop with a pizza.
+taskid: 81916

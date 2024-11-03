@@ -1,0 +1,5 @@
+org_img_id: 2325077
+org_cap: "person with the sun setting behind him."
+trg_cap: person with the sun setting behind him in a gym.
+instruction: Change the background to gym.
+taskid: 117565

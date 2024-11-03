@@ -1,0 +1,5 @@
+org_img_id: 2409145
+org_cap: a lone figure stands beneath a stone well, clutching a wet umbrella as rain pours down around them.
+trg_cap: A Van Gogh style art depicts a lone figure standing beneath a stone well, clutching a wet umbrella as rain pours down around them.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 64268

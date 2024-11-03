@@ -1,0 +1,5 @@
+org_img_id: 2347943
+org_cap: a person holds a banana in their hand, with a few bites taken out of a banana, and a big smile on their face.
+trg_cap: A cartoon-style art depicts a person holding a partially eaten banana in their hand, with a big smile on their face.
+instruction: Change the style if the image to cartoon style.
+taskid: 93822

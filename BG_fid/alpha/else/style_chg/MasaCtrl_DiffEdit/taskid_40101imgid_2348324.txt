@@ -1,0 +1,5 @@
+org_img_id: 2348324
+org_cap: the clock tower stands tall and proud, its stone façade illuminated at night with a warm golden glow, the clock face gleaming brightly in the darkness, flanked by statues of mythical creatures and adorned with intricate stonework and ornate details.
+trg_cap: A pencil sketch art depicts a clock tower standing tall and proud, its stone façade illuminated at night with a warm golden glow, the clock face gleaming brightly in the darkness, flanked by statues of mythical creatures and adorned with intricate stonework and ornate details.
+instruction: Change the style if the image to pencil sketch.
+taskid: 40101

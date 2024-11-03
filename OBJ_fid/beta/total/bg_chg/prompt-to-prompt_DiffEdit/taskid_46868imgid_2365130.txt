@@ -1,0 +1,5 @@
+org_img_id: 2365130
+org_cap: "playing person her arm to hit a forehand winner, her playing person as she off the clay playing person."
+trg_cap: "playing person her arm to hit a forehand winner, her playing person as she off the clay playing person, the aroma of freshly cooked meals wafting through the restaurant."
+instruction: Change the background to restaurant.
+taskid: 46868

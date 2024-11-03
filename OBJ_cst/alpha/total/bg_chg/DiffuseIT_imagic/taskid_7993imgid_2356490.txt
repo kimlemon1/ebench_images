@@ -1,0 +1,5 @@
+org_img_id: 2356490
+org_cap: a white truck parked on a city street at night with a few pedestrians walking by.
+trg_cap: A white truck parked on a city street at night near a library, with a few pedestrians walking by.
+instruction: Change the background to library.
+taskid: 7993

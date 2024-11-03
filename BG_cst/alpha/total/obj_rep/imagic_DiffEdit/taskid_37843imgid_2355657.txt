@@ -1,0 +1,5 @@
+org_img_id: 2355657
+org_cap: A striped zebra stands in a grassy enclosure, its black and white stripes glistening in the sunlight, while a few curious cheetahs lounge nearby, their piercing eyes fixed on the zebra.
+trg_cap: A bottle stands in a grassy enclosure, while a few curious cheetahs lounge nearby, its piercing eyes fixed on the bottle.
+instruction: Replace the zebra with a bottle.
+taskid: 37843

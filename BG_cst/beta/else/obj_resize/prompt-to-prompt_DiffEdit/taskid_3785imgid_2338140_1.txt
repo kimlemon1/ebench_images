@@ -1,0 +1,5 @@
+org_img_id: 2338140_1
+org_cap: baseball bat
+trg_cap: large baseball bat
+instruction: Make the baseball bat larger.
+taskid: 3785

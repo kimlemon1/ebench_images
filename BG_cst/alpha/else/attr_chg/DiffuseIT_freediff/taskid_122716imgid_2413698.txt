@@ -1,0 +1,5 @@
+org_img_id: 2413698
+org_cap: a brown horse grazing on a lush green meadow, its coat in the morning sun, as a misty fog rises from the valley below.
+trg_cap: a bronze horse grazing on a lush green meadow, its coat in the morning sun, as a misty fog rises from the valley below.
+instruction: Change the color of the horse from brown to bronze.
+taskid: 122716

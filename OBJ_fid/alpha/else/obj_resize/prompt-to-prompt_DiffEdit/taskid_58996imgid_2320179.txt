@@ -1,0 +1,5 @@
+org_img_id: 2320179
+org_cap: a class 60 train, painted in the livery of railway operator, rumbles along the tracks, its diesel engine roaring as it hauls a freight train through the tunnel.
+trg_cap: a small class 60 train, painted in the livery of railway operator, rumbles along the tracks, its diesel engine roaring as it hauls a freight train through the tunnel.
+instruction: Make the train smaller.
+taskid: 58996

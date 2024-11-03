@@ -1,0 +1,5 @@
+org_img_id: 2368640
+org_cap: a cat sits in front of a television, at a wildlife documentary featuring a wise old owl perched in a tree.
+trg_cap: a large cat sits in front of a television, at a wildlife documentary featuring a wise old owl perched in a tree.
+instruction: Make the cat larger.
+taskid: 30238

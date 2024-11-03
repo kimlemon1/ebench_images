@@ -1,0 +1,5 @@
+org_img_id: 2411461
+org_cap: The bus is a double-decker, with a bright red color and a distinctive rounded roof.
+trg_cap: The bus is a double-decker, with a bright red color and a distinctive rounded roof, standing out against the dark, rocky walls of the cave.
+instruction: Change the background to cave.
+taskid: 11624

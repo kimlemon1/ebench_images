@@ -1,0 +1,5 @@
+org_img_id: 2375657
+org_cap: "Person on the sidewalk, his white tank top and shorts a stark contrast to the worn, wooden skateboard he's about to ride."
+trg_cap: Person on the sidewalk, his white tank top and shorts a stark contrast to the worn, wooden skateboard he's about to ride, with the rolling hills and fields of a countryside farm stretching out behind him.
+instruction: Change the background to country side farm.
+taskid: 77872

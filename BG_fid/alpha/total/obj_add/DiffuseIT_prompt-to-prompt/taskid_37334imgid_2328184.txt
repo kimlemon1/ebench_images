@@ -1,0 +1,5 @@
+org_img_id: 2328184
+org_cap: A standing person stands on a white surfboard in the water, wearing a blue and the with both hands.
+trg_cap: A standing person stands on a white surfboard in the water, wearing a blue and the with both hands, with a kite above the person.
+instruction: Add a kite above the person.
+taskid: 37334

@@ -1,0 +1,5 @@
+org_img_id: 2341309
+org_cap: A yellow surfboard glides through the turquoise waters as a person in their mid-twenties carves through the waves, their arms and legs moving in perfect sync as they ride the swell.
+trg_cap: A orange surfboard glides through the turquoise waters as a person in their mid-twenties carves through the waves, their arms and legs moving in perfect sync as they ride the swell.
+instruction: Change the color of the surfboard from yellow to orange.
+taskid: 59664

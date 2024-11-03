@@ -1,0 +1,5 @@
+org_img_id: 2319806
+org_cap: The bathroom features a white toilet, surrounded by blue walls and a shower cubicle with a chrome showerhead.
+trg_cap: The bathroom features a large white toilet, surrounded by blue walls and a shower cubicle with a chrome showerhead.
+instruction: Make the toilet larger.
+taskid: 54357

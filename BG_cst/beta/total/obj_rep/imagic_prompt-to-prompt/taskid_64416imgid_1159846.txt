@@ -1,0 +1,5 @@
+org_img_id: 1159846
+org_cap: a row of luggage and suitcases, some with colorful straps and tags, are stacked and scattered along the snowy sidewalk, awaiting the arrival of the white bus.
+trg_cap: A row of luggage and suitcases, some with colorful straps and tags, is stacked and scattered along the snowy sidewalk, awaiting the arrival of the frisbee.
+instruction: Replace the bus with a frisbee.
+taskid: 64416

@@ -1,0 +1,5 @@
+org_img_id: 2392784
+org_cap: The open, black laptop sits on a metal, black chair in front of a large window, with a cityscape visible outside, and a bookshelf and decorative vase on a metal, black chair.
+trg_cap: The open, black laptop sits on a small, metal, black chair in front of a large window, with a cityscape visible outside, and a bookshelf and decorative vase on a small, metal, black chair.
+instruction: Make the chair smaller.
+taskid: 40280

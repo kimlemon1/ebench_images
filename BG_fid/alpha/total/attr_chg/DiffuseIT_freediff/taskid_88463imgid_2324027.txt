@@ -1,0 +1,5 @@
+org_img_id: 2324027
+org_cap: The clock tower stands tall, its stone façade weathered to a warm, honeyed brown, with a white clock dominating the top, its roman numerals and intricate details a testament to a bygone era.
+trg_cap: The clock tower stands tall, its stone façade weathered to a warm, honeyed brown, with a gray clock dominating the top, its roman numerals and intricate details a testament to a bygone era.
+instruction: Change the color of the clock from white to gray.
+taskid: 88463

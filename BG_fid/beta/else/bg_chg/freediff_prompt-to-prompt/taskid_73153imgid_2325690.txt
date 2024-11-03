@@ -1,0 +1,5 @@
+org_img_id: 2325690
+org_cap: a juicy hot dog topped with crunchy green relish and served alongside a side of crispy french fries.
+trg_cap: A juicy hot dog topped with crunchy green relish and served alongside a side of crispy french fries, perfect for enjoying while waiting at the bustling train station.
+instruction: Change the background to train station.
+taskid: 73153

@@ -1,0 +1,5 @@
+org_img_id: 2346272
+org_cap: An old white elephant rides a tricycle, its trunk around the handlebars and its ears in the wind.
+trg_cap: An young white elephant rides a tricycle, its trunk around the handlebars and its ears in the wind.
+instruction: Change the state of the elephant from old to young.
+taskid: 38063

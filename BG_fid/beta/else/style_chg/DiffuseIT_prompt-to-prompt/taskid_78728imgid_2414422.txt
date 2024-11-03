@@ -1,0 +1,5 @@
+org_img_id: 2414422
+org_cap: a person in a bright yellow vest and matching hat is on a ladder, the windshield of a plane with a soft cloth and a bottle of cleaning solution.
+trg_cap: The cartoon-style art depicts a person in a bright yellow vest and matching hat on a ladder, cleaning the windshield of a plane with a soft cloth and a bottle of cleaning solution.
+instruction: Change the style if the image to cartoon style.
+taskid: 78728

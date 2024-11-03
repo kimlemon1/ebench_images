@@ -1,0 +1,5 @@
+org_img_id: 2377040
+org_cap: A standing black striped zebra stands in a grassy savannah, its ears and its tail.
+trg_cap: A standing cell phone stands in a grassy savannah, its antenna and its tail.
+instruction: Replace the zebra with a cell phone.
+taskid: 45068

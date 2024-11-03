@@ -1,0 +1,5 @@
+org_img_id: 2403290
+org_cap: a snowboarder in a black and green striped snowsuit and a black helmet jumps off a snowboard ramp on a sunny day with a blue sky and snow-covered mountains in the background.
+trg_cap: a snowboarder in a black and green striped snowsuit and a black helmet jumps off a small snowboard ramp on a sunny day with a blue sky and snow-covered mountains in the background.
+instruction: Make the snowboard smaller.
+taskid: 90222

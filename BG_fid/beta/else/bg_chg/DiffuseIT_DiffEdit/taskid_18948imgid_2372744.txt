@@ -1,0 +1,5 @@
+org_img_id: 2372744
+org_cap: a person enjoying a water ski at a lake.
+trg_cap: a person enjoying a water ski at a urbam city.
+instruction: Change the background to urban city.
+taskid: 18948

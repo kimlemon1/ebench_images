@@ -1,0 +1,5 @@
+org_img_id: 2370974
+org_cap: A person in a person carrier on a bicycle, wearing a helmet and a yellow shirt, with a ship in the background.
+trg_cap: A toilet in a passenger carrier on a bicycle, with a ship in the background.
+instruction: Replace the person with a toilet.
+taskid: 75776

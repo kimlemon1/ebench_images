@@ -1,0 +1,5 @@
+org_img_id: 2347560
+org_cap: Person rides a wave, his red wetsuit glistening with sea spray, his long hair like a metronome.
+trg_cap: "Skateboard rides its wave."
+instruction: Replace the person with a skateboard.
+taskid: 108802

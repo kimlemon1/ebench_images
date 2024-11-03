@@ -1,0 +1,5 @@
+org_img_id: 2325359
+org_cap: a snow-covered bus navigates through the winter wonderland, its tires crunching on the frozen pavement as it makes its way down the deserted street.
+trg_cap: A mosaic art depicts a snow-covered bus navigating through a winter wonderland, its tires crunching on the frozen pavement as it makes its way down the deserted street.
+instruction: Change the style if the image to mosaic art.
+taskid: 118035

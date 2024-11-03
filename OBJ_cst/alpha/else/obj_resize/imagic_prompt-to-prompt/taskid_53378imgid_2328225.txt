@@ -1,0 +1,5 @@
+org_img_id: 2328225
+org_cap: the ornate clock face on the exterior of the astronomical clock tower features intricate gold filigree and gothic stone carvings, with the numerals and astronomical symbols painted in vibrant colors.
+trg_cap: The large ornate clock face on the exterior of the astronomical clock tower features intricate gold filigree and gothic stone carvings, with the numerals and astronomical symbols painted in vibrant colors.
+instruction: Make the clock larger.
+taskid: 53378

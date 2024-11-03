@@ -1,0 +1,5 @@
+org_img_id: 2380989
+org_cap: the clock tower features a blue wooden structure with a rusty tin roof and a blue clock face.
+trg_cap: the clock tower features a blue wooden structure with a rusty tin roof and a small blue clock face.
+instruction: Make the clock smaller.
+taskid: 72750

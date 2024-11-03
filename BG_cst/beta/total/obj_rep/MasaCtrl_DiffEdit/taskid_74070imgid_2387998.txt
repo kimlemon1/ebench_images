@@ -1,0 +1,5 @@
+org_img_id: 2387998
+org_cap: a brown train chugs along the brown train, its wheels clicking rhythmically as it carries passengers through the brown train.
+trg_cap: a brown orange, its wheels clicking rhythmically as it carries passengers through the brown train.
+instruction: Replace the train with a orange.
+taskid: 74070

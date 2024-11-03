@@ -1,0 +1,5 @@
+org_img_id: 2391765
+org_cap: The toilet is a wood toilet with a rounded seat and a simple, curved lid, adorned with intricate carvings and a small, ornate handle.
+trg_cap: The toilet is a metal toilet with a rounded seat and a simple, curved lid, adorned with intricate carvings and a small, ornate handle.
+instruction: Change the material of the toilet from wood to metal.
+taskid: 80093

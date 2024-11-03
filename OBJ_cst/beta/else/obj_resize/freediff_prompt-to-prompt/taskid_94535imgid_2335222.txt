@@ -1,0 +1,5 @@
+org_img_id: 2335222
+org_cap: a large black bear emerges from the dense foliage of the forest, bear fur glistening in the sunlight as it sniffs the air and searches for bear next meal.
+trg_cap: a small black bear emerges from the dense foliage of the forest, bear fur glistening in the sunlight as it sniffs the air and searches for bear next meal.
+instruction: Make the bear smaller.
+taskid: 94535

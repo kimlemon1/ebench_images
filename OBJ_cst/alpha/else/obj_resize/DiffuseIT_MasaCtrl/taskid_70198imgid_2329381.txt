@@ -1,0 +1,5 @@
+org_img_id: 2329381
+org_cap: a bronzed and muscular person, with a chiseled physique and a strong jawline, rides the waves on his paddleboard, his orange paddle through the turquoise water as he the ocean.
+trg_cap: a bronzed and muscular, yet small, person, with a chiseled physique and a strong jawline, rides the waves on his paddleboard, his orange paddle through the turquoise water as he the ocean.
+instruction: Make the person smaller.
+taskid: 70198

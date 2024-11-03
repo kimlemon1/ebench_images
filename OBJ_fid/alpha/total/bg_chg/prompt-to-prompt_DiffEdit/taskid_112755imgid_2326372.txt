@@ -1,0 +1,5 @@
+org_img_id: 2326372
+org_cap: a blue airplane flies across the gray sky.
+trg_cap: A blue airplane flies across the gray sky as diners enjoy their meals at the rooftop restaurant.
+instruction: Change the background to restaurant.
+taskid: 112755

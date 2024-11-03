@@ -1,0 +1,5 @@
+org_img_id: 2406006
+org_cap: a red brick church with a pointed tower and a large stone facade stands at the center of the square, surrounded by pedestrians and a parked red bus.
+trg_cap: a green brick church with a pointed tower and a large stone facade stands at the center of the square, surrounded by pedestrians and a parked green bus.
+instruction: Change the color of the bus from red to green.
+taskid: 70316

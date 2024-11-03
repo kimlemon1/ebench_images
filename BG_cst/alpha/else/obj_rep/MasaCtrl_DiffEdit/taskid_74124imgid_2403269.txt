@@ -1,0 +1,5 @@
+org_img_id: 2403269
+org_cap: a woman holds a red umbrella, its curved shape and vibrant color standing out against the dull gray concrete and steel skyscrapers in the background.
+trg_cap: A woman holds a red bottle against the dull gray concrete and steel skyscrapers in the background.
+instruction: Replace the umbrella with a bottle.
+taskid: 74124

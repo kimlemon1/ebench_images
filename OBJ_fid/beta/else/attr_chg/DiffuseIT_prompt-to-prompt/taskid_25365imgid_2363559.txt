@@ -1,0 +1,5 @@
+org_img_id: 2363559
+org_cap: a small brown dog lies sleeping on a wood bench.
+trg_cap: a small brown dog lies sleeping on a wooded bench.
+instruction: Change the material of the bench from wood to wooded.
+taskid: 25365

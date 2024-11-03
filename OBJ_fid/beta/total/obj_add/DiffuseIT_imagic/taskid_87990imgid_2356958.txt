@@ -1,0 +1,5 @@
+org_img_id: 2356958
+org_cap: A white truck features a giant sandwich with the brand name prominently displayed.
+trg_cap: A white truck features a giant sandwich with a hot dog on top and the brand name prominently displayed.
+instruction: Add a hot dog on the sandwich.
+taskid: 87990

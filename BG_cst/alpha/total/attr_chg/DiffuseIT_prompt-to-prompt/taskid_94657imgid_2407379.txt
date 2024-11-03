@@ -1,0 +1,5 @@
+org_img_id: 2407379
+org_cap: A gray, walking baby elephant calf is seen on some grass in a savannah landscape.
+trg_cap: A white, walking baby elephant calf is seen on some grass in a savannah landscape.
+instruction: Change the color of the elephant from gray to white.
+taskid: 94657

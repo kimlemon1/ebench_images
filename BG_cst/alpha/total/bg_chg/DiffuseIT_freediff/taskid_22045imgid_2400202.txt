@@ -1,0 +1,5 @@
+org_img_id: 2400202
+org_cap: The blue bus is a double-decker, featuring a distinctive curved front and a prominent advertisement for a local business on the side.
+trg_cap: The blue bus is a double-decker, featuring a distinctive curved front and a prominent advertisement for a local business on the side, and it regularly shuttles concertgoers to the nearby concert hall.
+instruction: Change the background to concert hall.
+taskid: 22045

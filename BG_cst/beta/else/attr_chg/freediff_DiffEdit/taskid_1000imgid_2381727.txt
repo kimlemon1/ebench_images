@@ -1,0 +1,5 @@
+org_img_id: 2381727
+org_cap: The kitchen features a silver microwave and stainless steel refrigerator situated against a backdrop of warm, green walls and gleaming hardwood floors.
+trg_cap: The kitchen features a silver microwave and chrome refrigerator situated against a backdrop of warm, green walls and gleaming hardwood floors.
+instruction: Change the material of the refrigerator from stainless steel to chrome.
+taskid: 1000

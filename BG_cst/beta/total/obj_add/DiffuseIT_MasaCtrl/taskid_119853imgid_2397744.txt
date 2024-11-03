@@ -1,0 +1,5 @@
+org_img_id: 2397744
+org_cap: The gray laptop sits on a desk in front of a brick fireplace.
+trg_cap: The gray laptop, with an umbrella on top, sits on a desk in front of a brick fireplace.
+instruction: Add a umbrella on the laptop.
+taskid: 119853

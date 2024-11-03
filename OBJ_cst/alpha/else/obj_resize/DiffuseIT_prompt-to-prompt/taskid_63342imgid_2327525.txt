@@ -1,0 +1,5 @@
+org_img_id: 2327525
+org_cap: a young person with curly blonde hair and a bright pink dress stands on a sandy beach, her small hands holding a frisbee and her eyes shining with excitement.
+trg_cap: a small young person with curly blonde hair and a bright pink dress stands on a sandy beach, her small hands holding a frisbee and her eyes shining with excitement.
+instruction: Make the person smaller.
+taskid: 63342

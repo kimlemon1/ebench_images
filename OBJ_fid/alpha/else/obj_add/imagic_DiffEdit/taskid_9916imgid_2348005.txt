@@ -1,0 +1,5 @@
+org_img_id: 2348005
+org_cap: a person in a wetsuit, with a surfboard underfoot, carves through the waves, his arms and legs as he rides the wave.
+trg_cap: A person in a wetsuit, with a surfboard underfoot, carves through the waves, his arms and legs as he rides the wave, with a bird on his left side.
+instruction: Add a bird on the left side of the person.
+taskid: 9916

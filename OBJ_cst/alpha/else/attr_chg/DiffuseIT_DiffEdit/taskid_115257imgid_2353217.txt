@@ -1,0 +1,5 @@
+org_img_id: 2353217
+org_cap: The gray tie awkwardly wrapped around the bride's gray tie.
+trg_cap: The ivory tie awkwardly wrapped around the bride's ivory tie.
+instruction: Change the color of the tie from gray to ivory.
+taskid: 115257

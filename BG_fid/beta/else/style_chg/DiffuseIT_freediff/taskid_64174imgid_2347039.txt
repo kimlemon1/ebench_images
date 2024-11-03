@@ -1,0 +1,5 @@
+org_img_id: 2347039
+org_cap: A gray laptop sits on a desk, its casing and keyboard reflecting the soft light of the room.
+trg_cap: A pencil sketch art depicts a gray laptop sitting on a desk, its casing and keyboard reflecting the soft light of the room.
+instruction: Change the style if the image to pencil sketch.
+taskid: 64174

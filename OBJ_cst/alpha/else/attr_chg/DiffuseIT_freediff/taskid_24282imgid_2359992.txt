@@ -1,0 +1,5 @@
+org_img_id: 2359992
+org_cap: "Person across the green grass, yellow frisbee in hand, as yellow frisbee through the air, the sun shining down on the scene with a warm, cheerful glow."
+trg_cap: "Person across the green grass, brown frisbee in hand, as brown frisbee through the air, the sun shining down on the scene with a warm, cheerful glow."
+instruction: Change the color of the frisbee from yellow to brown.
+taskid: 24282

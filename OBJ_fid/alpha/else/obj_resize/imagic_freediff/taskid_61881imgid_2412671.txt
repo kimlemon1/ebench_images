@@ -1,0 +1,5 @@
+org_img_id: 2412671
+org_cap: a person in a pink shirt to a gray dog on a field.
+trg_cap: a large person in a pink shirt to a gray dog on a field.
+instruction: Make the person larger.
+taskid: 61881

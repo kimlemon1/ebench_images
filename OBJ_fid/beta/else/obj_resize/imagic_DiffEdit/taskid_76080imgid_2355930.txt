@@ -1,0 +1,5 @@
+org_img_id: 2355930
+org_cap: a brown cat sitting on the roof of a car, its tail with excitement as it its surroundings.
+trg_cap: a small brown cat sitting on the roof of a car, its tail with excitement as it its surroundings.
+instruction: Make the cat smaller.
+taskid: 76080

@@ -1,0 +1,5 @@
+org_img_id: 2366405
+org_cap: A green bus rumbles into view, its chrome trim gleaming in the sunlight, as passengers disembark and vendors set up their stalls at the roadside market.
+trg_cap: A graffiti art piece depicts a green bus rumbling into view with its chrome trim gleaming in the sunlight, as passengers disembark and vendors set up their stalls at the roadside market.
+instruction: Change the style if the image to graffiti art.
+taskid: 26458

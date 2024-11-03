@@ -1,0 +1,5 @@
+org_img_id: 2351488
+org_cap: Running, playing, person swings his racket, his arm cocked back at an angle as he unleashes a forehand shot.
+trg_cap: An oil painting style art depicts a person running and playing, swinging his racket with his arm cocked back at an angle as he unleashes a forehand shot.
+instruction: Change the style if the image to oil painting style.
+taskid: 52672

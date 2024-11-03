@@ -1,0 +1,5 @@
+org_img_id: 2339388
+org_cap: the gothic-style church features intricate stone carvings and ornate details on its exterior, including a large clock with roman numerals and gothic arches above the entrance.
+trg_cap: Nestled amidst a picturesque vineyard, the gothic-style church features intricate stone carvings and ornate details on its exterior, including a large clock with roman numerals and gothic arches above the entrance.
+instruction: Change the background to vineyard.
+taskid: 112594

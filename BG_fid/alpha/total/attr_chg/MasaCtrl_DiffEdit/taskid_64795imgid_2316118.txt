@@ -1,0 +1,5 @@
+org_img_id: 2316118
+org_cap: a bright yellow school bus painted with colorful designs and cartoon characters, complete with a giant yellow peel on the side and a sign reading "banana bus" above the windshield.
+trg_cap: a bright orange school bus painted with colorful designs and cartoon characters, complete with a giant orange peel on the side and a sign reading "banana bus" above the windshield.
+instruction: Change the color of the banana from yellow to orange.
+taskid: 64795

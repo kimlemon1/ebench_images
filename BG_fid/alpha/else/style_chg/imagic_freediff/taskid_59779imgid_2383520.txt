@@ -1,0 +1,5 @@
+org_img_id: 2383520
+org_cap: The fire hydrant stood tall and sturdy, its fire hydrant gleaming in the dim light of the night, its valve handle gleaming with a subtle sheen.
+trg_cap: A cartoon-style art features a tall and sturdy fire hydrant, its surface and valve handle gleaming subtly in the dim light of the night.
+instruction: Change the style if the image to cartoon style.
+taskid: 59779

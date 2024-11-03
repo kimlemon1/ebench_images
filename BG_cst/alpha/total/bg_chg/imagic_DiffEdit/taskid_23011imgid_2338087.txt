@@ -1,0 +1,5 @@
+org_img_id: 2338087
+org_cap: Snowboarding, jumping person on a snowboard, their jacket and pants a splash of color against the winter wonderland backdrop of snow and trees.
+trg_cap: Snowboarding, jumping person on a snowboard, their jacket and pants a splash of color against the backdrop of a cave.
+instruction: Change the background to cave.
+taskid: 23011

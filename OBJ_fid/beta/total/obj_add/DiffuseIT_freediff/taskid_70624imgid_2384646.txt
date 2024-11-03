@@ -1,0 +1,5 @@
+org_img_id: 2384646
+org_cap: a person is seen crouched down next to a fire hydrant, wearing a yellow vest and holding a tool, with a cityscape visible in the background.
+trg_cap: A person is seen crouched down next to a fire hydrant, wearing a yellow vest and holding a tool, with a cityscape visible in the background, and a dog is next to the fire hydrant.
+instruction: Add a dog next to the fire hydrant.
+taskid: 70624

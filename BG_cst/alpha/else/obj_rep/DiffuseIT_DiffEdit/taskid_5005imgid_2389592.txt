@@ -1,0 +1,5 @@
+org_img_id: 2389592
+org_cap: a pink train train sits on the train, its sleek train and vibrant train standing out against the gray train train and cloudy train.
+trg_cap: A pink spoon sits on the spoon, its sleek and vibrant color standing out against the gray and cloudy.
+instruction: Replace the train with a spoon.
+taskid: 5005

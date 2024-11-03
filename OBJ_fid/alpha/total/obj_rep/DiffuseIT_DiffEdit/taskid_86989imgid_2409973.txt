@@ -1,0 +1,5 @@
+org_img_id: 2409973
+org_cap: the pizza is a rectangular slice with a crispy crust, topped with melted mozzarella cheese, sliced tomatoes, and crispy bacon arranged in a decorative pattern resembling a sunny landscape.
+trg_cap: The orange is a slice.
+instruction: Replace the pizza with a orange.
+taskid: 86989

@@ -1,0 +1,5 @@
+org_img_id: 2397472_1
+org_cap: a woman holds a black umbrella, its curved shape and sturdy handle visible as she walks on the grass.
+trg_cap: The cartoon-style art depicts a woman walking on the grass, holding a black umbrella with a curved shape and sturdy handle.
+instruction: Change the style if the image to cartoon style.
+taskid: 43137

@@ -1,0 +1,5 @@
+org_img_id: 2395869
+org_cap: The clock tower stands tall with its worn, weathered stone walls and a broken, rusty clock hanging from the top.
+trg_cap: The clock tower stands tall with its worn, weathered stone walls and a broken, rusty clock hanging from the top, with a bird perched on the left side of the clock.
+instruction: Add a bird on the left side of the clock.
+taskid: 60609

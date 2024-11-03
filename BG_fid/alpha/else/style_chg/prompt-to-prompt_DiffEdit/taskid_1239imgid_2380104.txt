@@ -1,0 +1,5 @@
+org_img_id: 2380104
+org_cap: a juicy turkey sandwich, piled high with crispy bacon, melted cheddar cheese, and fresh lettuce, served on a toasted sandwich with a side of crispy fries.
+trg_cap: A mosaic art features a juicy turkey sandwich piled high with crispy bacon, melted cheddar cheese, and fresh lettuce, served on a toasted sandwich with a side of crispy fries.
+instruction: Change the style if the image to mosaic art.
+taskid: 1239

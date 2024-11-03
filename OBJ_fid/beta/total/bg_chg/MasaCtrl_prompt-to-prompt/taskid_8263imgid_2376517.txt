@@ -1,0 +1,5 @@
+org_img_id: 2376517
+org_cap: The clock tower features a white clock with a pair of bronze bells suspended from the exterior walls.
+trg_cap: The clock tower, set against a backdrop of a lush pine forest, features a white clock with a pair of bronze bells suspended from the exterior walls.
+instruction: Change the background to pine forest.
+taskid: 8263

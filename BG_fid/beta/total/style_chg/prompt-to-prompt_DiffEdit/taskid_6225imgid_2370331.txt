@@ -1,0 +1,5 @@
+org_img_id: 2370331
+org_cap: The brown cat sits on a ceramic bowl, its fur a warm, golden brown, its eyes a piercing green, its ears in a fierce alertness, its tail, its mouth, its whiskers.
+trg_cap: A watercolor painting style art features a brown cat sitting on a ceramic bowl, with warm, golden brown fur, piercing green eyes, fiercely alert ears, and a detailed tail, mouth, and whiskers.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 6225

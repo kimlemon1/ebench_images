@@ -1,0 +1,5 @@
+org_img_id: 713402
+org_cap: a person sits on a yellow couch, wearing a casual outfit with a white shirt and jeans, and holding a remote in his hand, with another person standing behind him, wearing a bright orange shirt, and a third person sitting on the floor in the background, looking up at the couple.
+trg_cap: A person sits on a yellow couch, wearing a casual outfit with a white shirt and jeans, and holding a remote in his hand, with a skateboard in front of remote, another person standing behind him, wearing a bright orange shirt, and a third person sitting on the floor in the background, looking up at the couple.
+instruction: Replace the remote with a skateboard.
+taskid: 93689

@@ -1,0 +1,5 @@
+org_img_id: 2378462
+org_cap: The vase is a purple vase holding a bouquet of white flowers with delicate, bell-shaped petals and tiny, dark centers.
+trg_cap: A graffiti art piece features a purple vase holding a bouquet of white flowers with delicate, bell-shaped petals and tiny, dark centers.
+instruction: Change the style if the image to graffiti art.
+taskid: 100071

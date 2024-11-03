@@ -1,0 +1,5 @@
+org_img_id: 2354503
+org_cap: a woman sits at a wooden table, holding a white cell phone and smiling at the camera.
+trg_cap: A woman sits at a wooden table in a desert, holding a white cell phone and smiling at the camera.
+instruction: Change the background to desert.
+taskid: 94727

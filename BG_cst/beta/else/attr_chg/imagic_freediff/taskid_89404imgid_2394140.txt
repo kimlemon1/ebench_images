@@ -1,0 +1,5 @@
+org_img_id: 2394140
+org_cap: A striped white necktie is tied around the neck of a man wearing a crisp white dress shirt.
+trg_cap: A beige white necktie is tied around the neck of a man wearing a crisp white dress shirt.
+instruction: Change the color of the tie from striped to beige.
+taskid: 89404

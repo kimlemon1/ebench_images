@@ -1,0 +1,5 @@
+org_img_id: 2395420
+org_cap: A person stood under a blue umbrella, shielding themselves from the sun as they gazed out at the bustling festival grounds.
+trg_cap: A person stood under a silver umbrella, shielding themselves from the sun as they gazed out at the bustling festival grounds.
+instruction: Change the color of the umbrella from blue to silver.
+taskid: 30323

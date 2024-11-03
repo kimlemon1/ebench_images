@@ -1,0 +1,5 @@
+org_img_id: 2323474
+org_cap: person in a black wetsuit, with the ocean waves crashing against the shore behind him.
+trg_cap: person in a black wetsuit, with the library shelves towering behind him.
+instruction: Change the background to library.
+taskid: 8805

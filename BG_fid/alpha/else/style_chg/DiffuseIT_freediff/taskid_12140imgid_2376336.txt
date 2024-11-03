@@ -1,0 +1,5 @@
+org_img_id: 2376336
+org_cap: an adult black zebra eating and grazing in a grassy enclosure.
+trg_cap: A grayscale photo shows an adult black zebra eating and grazing in a grassy enclosure.
+instruction: Change the style if the image to grey scale.
+taskid: 12140

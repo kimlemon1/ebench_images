@@ -1,0 +1,5 @@
+org_img_id: 2415202
+org_cap: the clock face on the tower is a large circular dial with roman numerals and a golden center, surrounded by intricate wooden trim and adorned with a small finial on top.
+trg_cap: The clock face on the tower is a large circular dial with roman numerals and a golden center, surrounded by intricate wooden trim and adorned with a small finial on top, with a car located on the left side of the clock.
+instruction: Add a car on the left side of the clock.
+taskid: 36790

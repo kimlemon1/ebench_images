@@ -1,0 +1,5 @@
+org_img_id: 2353633
+org_cap: A person with a white surfboard on his hand wearing a sunglasses and a blue swimming short at a rocky beach.
+trg_cap: The mosaic art of a person with a white surfboard on his hand wearing a sunglasses and a blue swimming short at a rocky beach.
+instruction: Change the style if the image to mosaic art.
+taskid: 115893

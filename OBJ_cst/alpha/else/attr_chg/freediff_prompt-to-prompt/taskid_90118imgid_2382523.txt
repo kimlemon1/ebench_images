@@ -1,0 +1,5 @@
+org_img_id: 2382523
+org_cap: A white, off laptop sits on a wooden floor, accompanied by a keyboard and a small laptop.
+trg_cap: A white, on laptop sits on a wooden floor, accompanied by a keyboard and a small laptop.
+instruction: Change the state of the laptop from off to on.
+taskid: 90118

@@ -1,0 +1,5 @@
+org_img_id: 2357820
+org_cap: the scene is focused on a small child, wearing a pink and black raincoat with a cartoon character on it, sitting in a high chair at a restaurant, holding a half-eaten donut in their chubby little hands.
+trg_cap: The scene is focused on a small child, wearing a pink and black raincoat with a cartoon character on it, sitting in a high chair at a restaurant, holding a half-eaten donut in their chubby little hands, with a sports ball resting on the donut.
+instruction: Add a sports ball on the donut.
+taskid: 50040

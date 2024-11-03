@@ -1,0 +1,5 @@
+org_img_id: 2352852
+org_cap: A banana sits in a wooden bowl, its banana skin speckled with small black spots, and its curved banana reflected in the surrounding wood grain.
+trg_cap: A small banana sits in a wooden bowl, its banana skin speckled with small black spots, and its curved banana reflected in the surrounding wood grain.
+instruction: Make the banana smaller.
+taskid: 93953

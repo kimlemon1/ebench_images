@@ -1,0 +1,5 @@
+org_img_id: 2398986
+org_cap: trucks with black and white bodies and colorful logos, parked along the sidewalk, with people walking around and stopping to order food.
+trg_cap: Trucks with black and white bodies and colorful logos, parked along the sidewalk amidst the lush greenery of a tropical jungle, with people walking around and stopping to order food.
+instruction: Change the background to tropical jungle.
+taskid: 42603

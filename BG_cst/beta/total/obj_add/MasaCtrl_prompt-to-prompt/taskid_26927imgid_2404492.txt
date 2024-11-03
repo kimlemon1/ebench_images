@@ -1,0 +1,5 @@
+org_img_id: 2404492
+org_cap: The scene features a wood and iron bench situated under a lamppost, flanked by lush greenery and vibrant flowers, with a charming antique shop and clock tower visible in the background.
+trg_cap: The scene features a wood and iron bench with a book resting on it, situated under a lamppost, flanked by lush greenery and vibrant flowers, with a charming antique shop and clock tower visible in the background.
+instruction: Add a book on the bench.
+taskid: 26927

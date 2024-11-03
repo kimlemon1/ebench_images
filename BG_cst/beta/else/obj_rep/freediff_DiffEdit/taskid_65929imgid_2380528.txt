@@ -1,0 +1,5 @@
+org_img_id: 2380528
+org_cap: Person through a wave, his arms and legs as he the turquoise water.
+trg_cap: Spoon through a wave as she the turquoise water.
+instruction: Replace the person with a spoon.
+taskid: 65929

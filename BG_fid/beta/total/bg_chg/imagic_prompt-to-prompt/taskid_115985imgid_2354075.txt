@@ -1,0 +1,5 @@
+org_img_id: 2354075
+org_cap: A white boat glides smoothly across the tranquil waters, its wake gently lapping against the stone embankment as the sun sets behind it, casting a warm orange glow over the gothic revival architecture and the iconic clock tower.
+trg_cap: A white boat glides smoothly across the tranquil waters, its wake gently lapping against the stone embankment as the sun sets behind it, casting a warm orange glow over the gothic revival architecture and the iconic clock tower, while diners at the nearby waterfront restaurant enjoy the picturesque view.
+instruction: Change the background to restaurant.
+taskid: 115985

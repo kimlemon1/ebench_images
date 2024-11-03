@@ -1,0 +1,5 @@
+org_img_id: 2410790
+org_cap: A calico cat sat on a white chair, her fur in a dignified manner.
+trg_cap: A gray cat sat on a white chair, her fur in a dignified manner.
+instruction: Change the color of the cat from calico to gray.
+taskid: 110584

@@ -1,0 +1,5 @@
+org_img_id: 2394926
+org_cap: a person's hand grasps a glazed donut, the soft and fluffy donut oozing sweet jelly filling as they take a big bite.
+trg_cap: a person's hand grasps a small glazed donut, the soft and fluffy donut oozing sweet jelly filling as they take a big bite.
+instruction: Make the donut smaller.
+taskid: 32892

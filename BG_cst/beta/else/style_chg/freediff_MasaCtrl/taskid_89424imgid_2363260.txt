@@ -1,0 +1,5 @@
+org_img_id: 2363260
+org_cap: the room is dominated by a large flat screen tv mounted on the wall, surrounded by jerseys and memorabilia from various sports teams, with a drum set and music stand in the corner, and a coffee table in front of a comfortable-looking couch.
+trg_cap: The graffiti art depicts a room dominated by a large flat-screen TV mounted on the wall, surrounded by jerseys and memorabilia from various sports teams, with a drum set and music stand in the corner, and a coffee table in front of a comfortable-looking couch.
+instruction: Change the style if the image to graffiti art.
+taskid: 89424

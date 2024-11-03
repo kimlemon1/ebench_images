@@ -1,0 +1,5 @@
+org_img_id: 2389092
+org_cap: A blue frisbee floats on the water as a gray, wet dog wades into the lake, its fur with water, its eyes on the frisbee.
+trg_cap: A cartoon style art depicts a gray, wet dog wading into a lake, its eyes on a blue frisbee floating on the water.
+instruction: Change the style if the image to cartoon style.
+taskid: 16858

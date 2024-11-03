@@ -1,0 +1,5 @@
+org_img_id: 2394933
+org_cap: a walking person, with a bicycle with a basket attached to the handlebars.
+trg_cap: An oil painting style artwork depicts a walking person with a bicycle that has a basket attached to the handlebars.
+instruction: Change the style if the image to oil painting style.
+taskid: 73443

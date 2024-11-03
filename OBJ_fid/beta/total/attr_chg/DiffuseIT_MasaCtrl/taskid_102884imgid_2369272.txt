@@ -1,0 +1,5 @@
+org_img_id: 2369272
+org_cap: a silver train pulling into the station with a gentle whoosh of air brakes and a soft chug of its engine, its wheels clicking on the tracks as it comes to a stop on platform 1.
+trg_cap: a beige train pulling into the station with a gentle whoosh of air brakes and a soft chug of its engine, its wheels clicking on the tracks as it comes to a stop on platform 1.
+instruction: Change the color of the train from silver to beige.
+taskid: 102884

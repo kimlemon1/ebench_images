@@ -1,0 +1,5 @@
+org_img_id: 2323610
+org_cap: A person throws a white frisbee with a swift motion, his arm cocked back and his hand releasing the white frisbee as it soars towards the ceiling.
+trg_cap: A Van Gogh style art depicts a person throwing a white frisbee with a swift motion, his arm cocked back and his hand releasing the frisbee as it soars towards the ceiling.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 98940

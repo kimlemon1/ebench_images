@@ -1,0 +1,5 @@
+org_img_id: 2365748
+org_cap: a person pushes a bicycle carrying a large stack of orange-colored plastic barrels and containers, with the bicycle's wheels and handlebars visible, and the person's legs and feet visible as they lean forward to maneuver the load.
+trg_cap: A person pushes a bicycle carrying a large stack of orange-colored plastic barrels and containers, with the bicycle's wheels and handlebars visible, and the person's legs and feet visible as they lean forward to maneuver the load, set against the backdrop of a mountain top.
+instruction: Change the background to mountain top.
+taskid: 52931

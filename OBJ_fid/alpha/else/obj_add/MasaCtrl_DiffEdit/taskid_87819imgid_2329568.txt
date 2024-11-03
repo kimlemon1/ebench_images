@@ -1,0 +1,5 @@
+org_img_id: 2329568
+org_cap: the clock tower's ornate facade features intricate carvings and a large, circular clock face with roman numerals and a delicate filigree design.
+trg_cap: The clock tower's ornate facade features intricate carvings and a large, circular clock face with roman numerals and a delicate filigree design, with a cat sitting under the clock.
+instruction: Add a cat under the clock.
+taskid: 87819

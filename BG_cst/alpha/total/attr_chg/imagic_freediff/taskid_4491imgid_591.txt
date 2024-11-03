@@ -1,0 +1,5 @@
+org_img_id: 591
+org_cap: a person walks down the street, wearing a brown backpack.
+trg_cap: a person walks down the street, wearing a dark blue backpack.
+instruction: Change the color of the backpack from brown to dark blue.
+taskid: 4491

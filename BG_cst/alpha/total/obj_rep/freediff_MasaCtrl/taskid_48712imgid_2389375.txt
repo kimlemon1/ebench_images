@@ -1,0 +1,5 @@
+org_img_id: 2389375
+org_cap: Person on silver skis, her movements as she the mountain terrain.
+trg_cap: Toaster on silver skis.
+instruction: Replace the person with a toaster.
+taskid: 48712

@@ -1,0 +1,5 @@
+org_img_id: 2372574
+org_cap: a skateboarder in ripped jeans and a white t-shirt crouches low to the ground, his arms and legs splayed wide as he balances on the white skateboard, his eyes fixed intently on the concrete beneath.
+trg_cap: a skateboarder in ripped jeans and a white t-shirt crouches low to the ground, his arms and legs splayed wide as he balances on the white skateboard with a truck underneath, his eyes fixed intently on the concrete beneath.
+instruction: Add a truck under the skateboard.
+taskid: 76379

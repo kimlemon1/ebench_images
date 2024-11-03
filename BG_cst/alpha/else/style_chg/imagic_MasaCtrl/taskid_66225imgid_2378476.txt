@@ -1,0 +1,5 @@
+org_img_id: 2378476
+org_cap: The person sat at the helm of the boat, his hands at the wheel as he gazed out at the sea.
+trg_cap: An ancient Egyptian-style artwork depicts a person sitting at the helm of a boat, hands on the wheel, gazing out at the sea.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 66225

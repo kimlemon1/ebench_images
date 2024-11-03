@@ -1,0 +1,5 @@
+org_img_id: 2327805
+org_cap: A person at a table, wearing a white shirt with a green cake in front of him, on his birthday cake.
+trg_cap: A large person at a table, wearing a white shirt with a green cake in front of him, on his birthday cake.
+instruction: Make the person larger.
+taskid: 20858

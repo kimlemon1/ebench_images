@@ -1,0 +1,5 @@
+org_img_id: 2410972_1
+org_cap: a middle - aged woman with curly brown hair and a warm smile, wearing a pink dress and a pair of sunglasses, throws a yellow frisbee in the air with a joyful expression.
+trg_cap: a middle - aged woman with curly brown hair and a warm smile, wearing a pink dress and a pair of sunglasses, throws a green frisbee in the air with a joyful expression.
+instruction: Change the color of the frisbee from yellow to green.
+taskid: 13703

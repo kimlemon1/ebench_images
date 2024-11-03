@@ -1,0 +1,5 @@
+org_img_id: 2333622
+org_cap: a rectangular pizza with a crusty base and a scattering of red pepper flakes and white dollops of cream cheese sits on a table, surrounded by a glass of red wine and a plate with a napkin.
+trg_cap: a small rectangular pizza with a crusty base and a scattering of red pepper flakes and white dollops of cream cheese sits on a table, surrounded by a glass of red wine and a plate with a napkin.
+instruction: Make the pizza smaller.
+taskid: 66991

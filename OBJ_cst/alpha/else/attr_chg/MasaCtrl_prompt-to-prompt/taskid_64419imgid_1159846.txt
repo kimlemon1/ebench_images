@@ -1,0 +1,5 @@
+org_img_id: 1159846
+org_cap: a row of luggage and suitcases, some with colorful straps and tags, are stacked and scattered along the snowy sidewalk, awaiting the arrival of the white bus.
+trg_cap: a row of luggage and suitcases, some with colorful straps and tags, are stacked and scattered along the snowy sidewalk, awaiting the arrival of the gray bus.
+instruction: Change the color of the bus from white to gray.
+taskid: 64419

@@ -1,0 +1,5 @@
+org_img_id: 2376444
+org_cap: a jumping black dog, its paws splayed and its tail wagging wildly as it catches a frisbee in mid-air.
+trg_cap: a jumping black elephant.
+instruction: Replace the dog with a elephant.
+taskid: 100007

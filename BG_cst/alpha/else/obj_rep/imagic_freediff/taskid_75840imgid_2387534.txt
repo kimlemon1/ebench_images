@@ -1,0 +1,5 @@
+org_img_id: 2387534
+org_cap: a skateboarder leaps off the ground, his gray skateboard flying out from under his feet as he executes a smooth ollie, the wheels spinning in a blur of motion.
+trg_cap: A skateboarder leaps off the ground, a gray baseball bat flying out from under his feet as he executes a smooth ollie.
+instruction: Replace the skateboard with a baseball bat.
+taskid: 75840

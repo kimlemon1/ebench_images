@@ -1,0 +1,5 @@
+org_img_id: 2351466
+org_cap: A slice of brown cake with frosting, topped with a slice of orange carrot, sits on a white plate, next to a shiny fork.
+trg_cap: A slice of brown cake with frosting, topped with a slice of orange carrot, sits on a white plate, next to a shiny fork, in the quiet ambiance of a library.
+instruction: Change the background to library.
+taskid: 85487

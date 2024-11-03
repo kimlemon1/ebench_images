@@ -1,0 +1,5 @@
+org_img_id: 2378519
+org_cap: a lush banana tree stands tall, its thick trunk and sturdy branches supporting a cluster of bright yellow banana, each one perfectly ripened and nestled among the leafy green foliage.
+trg_cap: a lush banana tree stands tall, its thick trunk and sturdy branches supporting a cluster of bright yellow small banana, each one perfectly ripened and nestled among the leafy green foliage.
+instruction: Make the banana smaller.
+taskid: 100102

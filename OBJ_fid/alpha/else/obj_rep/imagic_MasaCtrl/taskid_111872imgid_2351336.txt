@@ -1,0 +1,5 @@
+org_img_id: 2351336
+org_cap: a green train with a long train of freight cars behind it, chugging along the railway tracks.
+trg_cap: A green boat, chugging along the railway tracks.
+instruction: Replace the train with a boat.
+taskid: 111872

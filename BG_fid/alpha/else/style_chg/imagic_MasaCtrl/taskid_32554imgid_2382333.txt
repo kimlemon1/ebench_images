@@ -1,0 +1,5 @@
+org_img_id: 2382333
+org_cap: A person in a black suit and tie stands on the platform, his eyes fixed on the tracks as the doors slide open with a hiss.
+trg_cap: An oil painting style art depicts a person in a black suit and tie standing on the platform, his eyes fixed on the tracks as the doors slide open with a hiss.
+instruction: Change the style if the image to oil painting style.
+taskid: 32554

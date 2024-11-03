@@ -1,0 +1,5 @@
+org_img_id: 2404789
+org_cap: The tower features intricate ironwork, adorned with ornate details and lettering, including the inscription "bought" in elegant script, and a red metal clock.
+trg_cap: Set against a picturesque lakeside backdrop, the tower features intricate ironwork, adorned with ornate details and lettering, including the inscription "bought" in elegant script, and a red metal clock.
+instruction: Change the background to lake side.
+taskid: 59092

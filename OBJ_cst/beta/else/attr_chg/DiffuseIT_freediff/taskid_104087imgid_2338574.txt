@@ -1,0 +1,5 @@
+org_img_id: 2338574
+org_cap: The brown cat sits on a wooden shelf, its fur a mix of white, black, and orange, with eyes on the laptop screen in front of it.
+trg_cap: The calico cat sits on a wooden shelf, its fur a mix of white, black, and orange, with eyes on the laptop screen in front of it.
+instruction: Change the color of the cat from brown to calico.
+taskid: 104087

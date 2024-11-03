@@ -1,0 +1,5 @@
+org_img_id: 2383494
+org_cap: a white horse, its large hooves on the cobblestone street as it a gleaming white carriage adorned with flowers and ribbons.
+trg_cap: a white frisbee as if it were a gleaming white carriage adorned with flowers and ribbons.
+instruction: Replace the horse with a frisbee.
+taskid: 70814

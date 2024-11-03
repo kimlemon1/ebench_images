@@ -1,0 +1,5 @@
+org_img_id: 2338114
+org_cap: a skateboarder in a gray t-shirt and black pants leaps off the pavement, his black skateboard flying out from under his feet as he spins and flips through the air, the sun casting a warm glow over the urban landscape.
+trg_cap: A skateboarder in a gray t-shirt and black pants leaps off the pavement, their black sandwich as they spin and flip through the air, the sun casting a warm glow over the urban landscape.
+instruction: Replace the skateboard with a sandwich.
+taskid: 100849

@@ -1,0 +1,5 @@
+org_img_id: 2344949
+org_cap: a porcelain white toilet.
+trg_cap: a large porcelain white toilet.
+instruction: Make the toilet larger.
+taskid: 73672

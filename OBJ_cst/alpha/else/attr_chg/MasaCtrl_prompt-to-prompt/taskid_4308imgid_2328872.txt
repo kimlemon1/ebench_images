@@ -1,0 +1,5 @@
+org_img_id: 2328872
+org_cap: the brown cake features a top with a layer of frosting and a sprinkle of sprinkles, surrounded by a ring of plastic forks and knives.
+trg_cap: the yellow cake features a top with a layer of frosting and a sprinkle of sprinkles, surrounded by a ring of plastic forks and knives.
+instruction: Change the color of the cake from brown to yellow.
+taskid: 4308

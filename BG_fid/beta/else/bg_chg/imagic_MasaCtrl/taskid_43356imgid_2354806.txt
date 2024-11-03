@@ -1,0 +1,5 @@
+org_img_id: 2354806
+org_cap: a clear glass vase holds a bouquet of pink plastic flowers, while a glass bottle of beer sits next to it on a small table.
+trg_cap: In the corner of the gym, a clear glass vase holds a bouquet of pink plastic flowers, while a glass bottle of beer sits next to it on a small table.
+instruction: Change the background to gym.
+taskid: 43356

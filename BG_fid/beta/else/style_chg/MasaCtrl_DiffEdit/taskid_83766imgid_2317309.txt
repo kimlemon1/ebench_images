@@ -1,0 +1,5 @@
+org_img_id: 2317309
+org_cap: a man in a pink shirt and black trousers with a red tie walks alongside a woman in a black dress and holding a red handbag, with a grey vest and a red necktie.
+trg_cap: The mosaic art depicts a man in a pink shirt, black trousers, and a red tie walking alongside a woman in a black dress, holding a red handbag, and wearing a grey vest with a red necktie.
+instruction: Change the style if the image to mosaic art.
+taskid: 83766

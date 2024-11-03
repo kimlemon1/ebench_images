@@ -1,0 +1,5 @@
+org_img_id: 2351513
+org_cap: A black hanging dog is out of a small window on the side of a rustic wooden house with a steeply pitched red roof and exposed beams.
+trg_cap: A black hanging dog with a frisbee on its back is out of a small window on the side of a rustic wooden house with a steeply pitched red roof and exposed beams.
+instruction: Add a frisbee on the dog.
+taskid: 92286

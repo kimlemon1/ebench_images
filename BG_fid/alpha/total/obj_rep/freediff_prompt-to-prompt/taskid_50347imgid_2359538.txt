@@ -1,0 +1,5 @@
+org_img_id: 2359538
+org_cap: the clock is a circular face with roman numerals and a subtle curve, mounted on a sturdy metal bracket with a weathered green patina, attached to a brick wall with a subtle crack running diagonally across its surface.
+trg_cap: The bowl is mounted on a sturdy metal bracket with a weathered green patina, attached to a brick wall with a subtle crack running diagonally across the wall's surface.
+instruction: Replace the clock with a bowl.
+taskid: 50347

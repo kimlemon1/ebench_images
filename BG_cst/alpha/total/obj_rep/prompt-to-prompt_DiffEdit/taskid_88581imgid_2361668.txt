@@ -1,0 +1,5 @@
+org_img_id: 2361668
+org_cap: A white, striped zebra is standing, resting, and grazing while eating on grass in a sunny enclosure.
+trg_cap: A cat is standing, resting, and grazing while eating grass in a sunny enclosure.
+instruction: Replace the zebra with a cat.
+taskid: 88581

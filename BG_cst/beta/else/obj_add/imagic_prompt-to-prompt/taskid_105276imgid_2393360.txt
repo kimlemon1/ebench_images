@@ -1,0 +1,5 @@
+org_img_id: 2393360
+org_cap: A chocolate cake sits on a white plate, topped with a swirl of whipped cream and sprinkled with crushed cookies.
+trg_cap: A chocolate cake sits on a white plate, topped with a swirl of whipped cream and sprinkled with crushed cookies, with a fork inserted into the cake.
+instruction: Add a fork in the cake.
+taskid: 105276

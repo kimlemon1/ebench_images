@@ -1,0 +1,5 @@
+org_img_id: 2373348
+org_cap: The clock face is a large, circular clock with roman numerals and intricate details, suspended above a ornate metal frame with curved lines and a delicate filigree design.
+trg_cap: The clock face is a large, circular clock with roman numerals and intricate details, suspended above an ornate metal frame with curved lines and a delicate filigree design, set against the rustic charm of a countryside farm.
+instruction: Change the background to country side farm.
+taskid: 99890

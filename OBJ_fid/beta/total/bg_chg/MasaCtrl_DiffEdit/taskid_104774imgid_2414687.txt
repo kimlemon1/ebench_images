@@ -1,0 +1,5 @@
+org_img_id: 2414687
+org_cap: The person in the image is eating a chocolate donut.
+trg_cap: The person in the image is eating a chocolate donut by the lakeside.
+instruction: Change the background to lake side.
+taskid: 104774

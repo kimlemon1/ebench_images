@@ -1,0 +1,5 @@
+org_img_id: 2316309
+org_cap: a giraffe stands tall, its giraffe fur blending with the acacia trees and scrubby underbrush.
+trg_cap: A small giraffe stands tall, its giraffe fur blending with the acacia trees and scrubby underbrush.
+instruction: Make the giraffe smaller.
+taskid: 25914

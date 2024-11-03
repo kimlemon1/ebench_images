@@ -1,0 +1,5 @@
+org_img_id: 2371677
+org_cap: a person holds a cake with a layer of creamy filling and a ring of strawberries on top, while another person pours a glass of cold water on the table.
+trg_cap: a person holds a cake with a layer of creamy filling and a ring of strawberries on top, with a vase next to the cake, while another person pours a glass of cold water on the table.
+instruction: Add a vase next to the cake.
+taskid: 120553

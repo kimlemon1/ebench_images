@@ -1,0 +1,5 @@
+org_img_id: 2405083
+org_cap: the scene is focused on a small child, a person with a round face and big brown eyes, wearing a pink sweater and sitting at a table, holding a yellow donut.
+trg_cap: the scene is focused on a small child, a person with a round face and big brown eyes, wearing a pink sweater and sitting at a table, holding a striped donut.
+instruction: Change the color of the donut from yellow to striped.
+taskid: 5148

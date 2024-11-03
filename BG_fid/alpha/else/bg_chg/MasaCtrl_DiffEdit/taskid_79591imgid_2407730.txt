@@ -1,0 +1,5 @@
+org_img_id: 2407730
+org_cap: Young person sits on the grassy field, sitting with his legs bent and his arms raised, a huge grin across his face.
+trg_cap: Young person sits on the grassy field, sitting with his legs bent and his arms raised, a huge grin across his face, as the aroma of nearby restaurant dishes wafts through the air.
+instruction: Change the background to restaurant.
+taskid: 79591

@@ -1,0 +1,5 @@
+org_img_id: 2397003
+org_cap: broccoli is in a bowl.
+trg_cap: large broccoli is in a bowl.
+instruction: Make the broccoli larger.
+taskid: 52416

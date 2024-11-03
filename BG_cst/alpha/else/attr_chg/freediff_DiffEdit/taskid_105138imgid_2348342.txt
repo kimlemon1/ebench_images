@@ -1,0 +1,5 @@
+org_img_id: 2348342
+org_cap: A white, jumping dog leaps through the air, catching a frisbee in mid-flight as a crowd of people cheers and claps in the background.
+trg_cap: A pink, jumping dog leaps through the air, catching a frisbee in mid-flight as a crowd of people cheers and claps in the background.
+instruction: Change the color of the dog from white to pink.
+taskid: 105138

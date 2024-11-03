@@ -1,0 +1,5 @@
+org_img_id: 2413170
+org_cap: The white stop sign stands alone on a snow-covered street, its white stop sign stark against the gray winter sky.
+trg_cap: The large white stop sign stands alone on a snow-covered street, its white stop sign stark against the gray winter sky.
+instruction: Make the stop sign larger.
+taskid: 78189

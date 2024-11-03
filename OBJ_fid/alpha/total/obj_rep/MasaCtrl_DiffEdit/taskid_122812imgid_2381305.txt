@@ -1,0 +1,5 @@
+org_img_id: 2381305
+org_cap: A black laptop sits on a white desk, surrounded by stacks of books and a few scattered papers.
+trg_cap: A couch sits on a white desk, surrounded by stacks of books and some scattered papers.
+instruction: Replace the laptop with a couch.
+taskid: 122812

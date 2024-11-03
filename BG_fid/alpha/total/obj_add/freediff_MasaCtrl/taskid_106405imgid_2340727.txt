@@ -1,0 +1,5 @@
+org_img_id: 2340727
+org_cap: the tv is mounted on a swivel arm attached to the wall, allowing it to pivot and face the bed or the sitting area.
+trg_cap: The TV is mounted on a swivel arm attached to the wall, allowing it to pivot and face the bed or the sitting area, with the remote located behind the TV.
+instruction: Add a remote behind the tv.
+taskid: 106405

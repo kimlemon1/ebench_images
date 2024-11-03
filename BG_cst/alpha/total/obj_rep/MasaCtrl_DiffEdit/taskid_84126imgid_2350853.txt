@@ -1,0 +1,5 @@
+org_img_id: 2350853
+org_cap: a ruggedly handsome person stands beside a majestic black horse, its coat glistening in the sunlight as the person strokes its mane.
+trg_cap: A zebra stands beside a majestic black horse, its coat glistening in the sunlight as the zebra strokes the horse's mane.
+instruction: Replace the person with a zebra.
+taskid: 84126

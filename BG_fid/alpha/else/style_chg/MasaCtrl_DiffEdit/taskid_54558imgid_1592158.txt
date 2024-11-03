@@ -1,0 +1,5 @@
+org_img_id: 1592158
+org_cap: a woman walks by a bronze sculpture of a group of people holding umbrellas, with a black bicycle parked nearby.
+trg_cap: In a pop art style, the artwork depicts a woman walking by a bronze sculpture of a group of people holding umbrellas, with a black bicycle parked nearby.
+instruction: Change the style if the image to pop art style.
+taskid: 54558

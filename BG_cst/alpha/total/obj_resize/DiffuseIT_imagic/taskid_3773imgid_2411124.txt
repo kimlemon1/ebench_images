@@ -1,0 +1,5 @@
+org_img_id: 2411124
+org_cap: a person places pepperoni slices on a circular pizza in a cast iron skillet, surrounded by melted mozzarella cheese, tomato sauce, and various toppings including mushrooms, bell peppers, and olives.
+trg_cap: a person places pepperoni slices on a small circular pizza in a cast iron skillet, surrounded by melted mozzarella cheese, tomato sauce, and various toppings including mushrooms, bell peppers, and olives.
+instruction: Make the pizza smaller.
+taskid: 3773

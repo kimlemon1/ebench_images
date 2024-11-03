@@ -1,0 +1,5 @@
+org_img_id: 2362423
+org_cap: A gray, open laptop sits on a bed, its design and colors standing out against the plain white sheets and striped comforter.
+trg_cap: A large, gray, open laptop sits on a bed, its design and colors standing out against the plain white sheets and striped comforter.
+instruction: Make the laptop larger.
+taskid: 11528

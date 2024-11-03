@@ -1,0 +1,5 @@
+org_img_id: 2372147
+org_cap: The black plastic keyboard sits on a wooden desk, its flat surface reflecting the dim light of the room.
+trg_cap: An ancient Egyptian-style artwork features a black plastic keyboard sitting on a wooden desk, its flat surface reflecting the dim light of the room.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 1338

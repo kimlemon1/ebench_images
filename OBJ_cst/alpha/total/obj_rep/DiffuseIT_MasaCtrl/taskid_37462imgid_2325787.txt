@@ -1,0 +1,5 @@
+org_img_id: 2325787
+org_cap: The white refrigerator is an appliance, sitting against a wall with a tile backsplash and a wooden countertop.
+trg_cap: The cell phone is an appliance, sitting against the wall with a tile backsplash and a wooden countertop.
+instruction: Replace the refrigerator with a cell phone.
+taskid: 37462

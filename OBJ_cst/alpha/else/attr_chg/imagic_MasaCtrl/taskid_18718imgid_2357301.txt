@@ -1,0 +1,5 @@
+org_img_id: 2357301
+org_cap: a woman in her mid-30s with long brown hair and wearing a gray sweatshirt and black leggings holds a plastic bottle and carries a colorful tote bag.
+trg_cap: a woman in her mid-30s with long brown hair and wearing a gray sweatshirt and black leggings holds a aluminum bottle and carries a colorful tote bag.
+instruction: Change the material of the bottle from plastic to aluminum.
+taskid: 18718

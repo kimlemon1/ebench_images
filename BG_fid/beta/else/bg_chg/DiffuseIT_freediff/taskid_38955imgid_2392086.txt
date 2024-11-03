@@ -1,0 +1,5 @@
+org_img_id: 2392086
+org_cap: a person playing a tennis with his racket.
+trg_cap: a person playing a tennis with his racket in front of the aquarium.
+instruction: Change the background to aquarium.
+taskid: 38955

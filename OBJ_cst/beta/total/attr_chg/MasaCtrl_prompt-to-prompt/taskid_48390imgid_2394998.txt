@@ -1,0 +1,5 @@
+org_img_id: 2394998
+org_cap: a brown horse with legs and hooves against the harness as it pulls a vintage tram filled with tourists.
+trg_cap: a dark brown horse with legs and hooves against the harness as it pulls a vintage tram filled with tourists.
+instruction: Change the color of the horse from brown to dark brown.
+taskid: 48390

@@ -1,0 +1,5 @@
+org_img_id: 1592113
+org_cap: a person in his mid-30s, wearing a light gray shirt and jeans, walks down the platform, holding a folder and typing on his phone, with the train in the background.
+trg_cap: A Van Gogh style art depicts a person in his mid-30s, wearing a light gray shirt and jeans, walking down the platform while holding a folder and typing on his phone, with a train in the background.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 108410

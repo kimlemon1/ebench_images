@@ -1,0 +1,5 @@
+org_img_id: 2371353
+org_cap: Person, with his long, dark hair, rides the waves on his surfboard, his lean legs and arms as he carves through the foamy water.
+trg_cap: A graffiti art depicts a person with long, dark hair riding the waves on a surfboard, his lean legs and arms carving through the foamy water.
+instruction: Change the style if the image to graffiti art.
+taskid: 19444

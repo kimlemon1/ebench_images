@@ -1,0 +1,5 @@
+org_img_id: 2321919
+org_cap: A paper orange cup sits on a white plate, next to a white bowl, with a slice of apple pie and a white bowl on the side.
+trg_cap: A paper orange cup sits on a blue plate, next to a blue bowl, with a slice of apple pie and a blue bowl on the side.
+instruction: Change the color of the bowl from white to blue.
+taskid: 41506

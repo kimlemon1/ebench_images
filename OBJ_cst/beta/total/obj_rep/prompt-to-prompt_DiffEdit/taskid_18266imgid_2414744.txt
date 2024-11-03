@@ -1,0 +1,5 @@
+org_img_id: 2414744
+org_cap: A red train runs along the tracks, its wheels clicking against the concrete as it approaches the modern glass and steel building in the background.
+trg_cap: A red horse approaches the modern glass and steel building in the background.
+instruction: Replace the train with a horse.
+taskid: 18266

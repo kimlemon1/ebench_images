@@ -1,0 +1,5 @@
+org_img_id: 2348470
+org_cap: The white porcelain sink is made of white ceramic with a rectangular shape and a chrome faucet.
+trg_cap: The large white porcelain sink is made of white ceramic with a rectangular shape and a chrome faucet.
+instruction: Make the sink larger.
+taskid: 26662

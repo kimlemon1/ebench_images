@@ -1,0 +1,5 @@
+org_img_id: 2359639
+org_cap: a person in pajamas stands in front of a television, stretching their arms and legs in various yoga poses.
+trg_cap: A cartoon-style art depicts a person in pajamas standing in front of a television, stretching their arms and legs in various yoga poses.
+instruction: Change the style if the image to cartoon style.
+taskid: 14520

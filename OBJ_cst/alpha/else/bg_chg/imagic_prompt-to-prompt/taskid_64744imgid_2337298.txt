@@ -1,0 +1,5 @@
+org_img_id: 2337298
+org_cap: a small, speckled bird with a rounded body and short legs across the sandy beach, its tiny wings as it for food in the shallow waters.
+trg_cap: A small, speckled bird with a rounded body and short legs moved across the sandy beach of the space station's simulated environment, its tiny wings fluttering as it searched for food in the shallow waters.
+instruction: Change the background to space station.
+taskid: 64744

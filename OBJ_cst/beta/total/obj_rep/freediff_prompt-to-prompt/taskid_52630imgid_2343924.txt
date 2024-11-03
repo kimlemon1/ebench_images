@@ -1,0 +1,5 @@
+org_img_id: 2343924
+org_cap: a person in his mid-30s, wearing a black swimsuit and flip flops, his arms outstretched and his eyes fixed on a frisbee flying through the air.
+trg_cap: A snowboard, its arms outstretched and its eyes fixed on a frisbee flying through the air.
+instruction: Replace the person with a snowboard.
+taskid: 52630

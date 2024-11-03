@@ -1,0 +1,5 @@
+org_img_id: 2402136
+org_cap: "an adult gray walking elephant, accompanied by an elephant, both in a sunlit savannah."
+trg_cap: "an adult tan walking elephant, accompanied by an elephant, both in a sunlit savannah."
+instruction: Change the color of the elephant from gray to tan.
+taskid: 15143

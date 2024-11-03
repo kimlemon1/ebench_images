@@ -1,0 +1,5 @@
+org_img_id: 2364003
+org_cap: the dimly lit desk features a sleek, silver laptop with a glowing screen, flanked by a keyboard and a small, circular computer monitor.
+trg_cap: In the midst of a vast snow field, the dimly lit desk features a sleek, silver laptop with a glowing screen, flanked by a keyboard and a small, circular computer monitor.
+instruction: Change the background to snow field.
+taskid: 77959

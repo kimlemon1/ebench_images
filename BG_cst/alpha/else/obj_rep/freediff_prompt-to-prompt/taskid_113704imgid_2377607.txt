@@ -1,0 +1,5 @@
+org_img_id: 2377607
+org_cap: A crouching, young, kneeling person sits on a wood skateboard, wearing a hat and a helmet, his knees and his feet the road.
+trg_cap: The dog sits on a wood skateboard, the road.
+instruction: Replace the person with a dog.
+taskid: 113704

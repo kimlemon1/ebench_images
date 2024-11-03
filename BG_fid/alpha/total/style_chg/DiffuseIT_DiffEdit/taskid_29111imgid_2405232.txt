@@ -1,0 +1,5 @@
+org_img_id: 2405232
+org_cap: A standing black zebra stands tall, its stripes glistening in the sunlight, its neck and legs, its eyes.
+trg_cap: A grayscale photo features a standing black zebra with glistening stripes in the sunlight, highlighting its neck, legs, and eyes.
+instruction: Change the style if the image to grey scale.
+taskid: 29111

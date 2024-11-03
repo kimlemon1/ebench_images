@@ -1,0 +1,5 @@
+org_img_id: 2406018
+org_cap: The toilet is a white toilet with a sign above it that reads "you are not allowed to shit here".
+trg_cap: The toilet is a orange toilet with a sign above it that reads "you are not allowed to shit here".
+instruction: Change the color of the toilet from white to orange.
+taskid: 29873

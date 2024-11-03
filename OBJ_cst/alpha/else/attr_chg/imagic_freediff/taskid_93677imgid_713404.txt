@@ -1,0 +1,5 @@
+org_img_id: 713404
+org_cap: person carves through the bowl on his green skateboard.
+trg_cap: person carves through the bowl on his gray skateboard.
+instruction: Change the color of the skateboard from green to gray.
+taskid: 93677

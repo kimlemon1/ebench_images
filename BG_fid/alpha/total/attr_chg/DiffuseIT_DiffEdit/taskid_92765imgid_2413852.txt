@@ -1,0 +1,5 @@
+org_img_id: 2413852
+org_cap: a green train with a bright yellow and distinctive end design, sporting a sleek and modern appearance with a streamlined and gleaming.
+trg_cap: a red train with a bright yellow and distinctive end design, sporting a sleek and modern appearance with a streamlined and gleaming.
+instruction: Change the color of the train from green to red.
+taskid: 92765

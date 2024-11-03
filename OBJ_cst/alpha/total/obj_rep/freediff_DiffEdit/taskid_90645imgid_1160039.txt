@@ -1,0 +1,5 @@
+org_img_id: 1160039
+org_cap: A skateboard is carried by a person wearing black and white clothing, with a logo on their shirt and sneakers on their feet.
+trg_cap: A spoon is carried by a person wearing black and white clothing, with a logo on his or her shirt and sneakers on his or her feet.
+instruction: Replace the skateboard with a spoon.
+taskid: 90645

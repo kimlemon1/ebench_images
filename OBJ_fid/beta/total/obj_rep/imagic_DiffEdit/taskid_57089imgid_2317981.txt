@@ -1,0 +1,5 @@
+org_img_id: 2317981
+org_cap: Person rides a bicycle with training wheels, wearing a hat and holding a leash with a dog, with a stop sign and a dog at the intersection.
+trg_cap: The person rides a bicycle with training wheels, wearing a hat and holding a leash, with a stop sign and a frisbee at the intersection.
+instruction: Replace the dog with a frisbee.
+taskid: 57089

@@ -1,0 +1,5 @@
+org_img_id: 2412012
+org_cap: The living room features a brown couch, placed against a large window with a view of the outdoors, surrounded by a simple coffee table and a few decorative items.
+trg_cap: The living room features a brown couch, placed against a large window with a view of the airport runway, surrounded by a simple coffee table and a few decorative items.
+instruction: Change the background to airport.
+taskid: 43679

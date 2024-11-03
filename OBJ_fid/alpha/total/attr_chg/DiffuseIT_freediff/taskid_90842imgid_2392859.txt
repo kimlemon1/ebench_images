@@ -1,0 +1,5 @@
+org_img_id: 2392859
+org_cap: The room features a gray TV, situated on a low table in the center of the room, surrounded by a circular coffee table and two armchairs.
+trg_cap: The room features a blue TV, situated on a low table in the center of the room, surrounded by a circular coffee table and two armchairs.
+instruction: Change the color of the tv from gray to blue.
+taskid: 90842

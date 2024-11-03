@@ -1,0 +1,5 @@
+org_img_id: 2390839
+org_cap: a young person, on a sandy beach, the blue frisbee.
+trg_cap: A young person, on a sandy beach near the zoo, the blue frisbee.
+instruction: Change the background to zoo.
+taskid: 453

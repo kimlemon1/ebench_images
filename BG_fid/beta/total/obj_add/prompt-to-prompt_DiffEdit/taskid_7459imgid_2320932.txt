@@ -1,0 +1,5 @@
+org_img_id: 2320932
+org_cap: a small white and black dog on the bow of a blue boat, its paws the edge as it the cityscape.
+trg_cap: a small white and black dog on the bow of a blue boat, its paws the edge as it the cityscape, with a bus next to the dog.
+instruction: Add a bus next to the dog.
+taskid: 7459

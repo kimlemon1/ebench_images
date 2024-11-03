@@ -1,0 +1,5 @@
+org_img_id: 2401142
+org_cap: Sitting person holds a hot dog in his hand, wearing a pair of sunglasses and an arm.
+trg_cap: A pop art style artwork features a sitting person wearing sunglasses, holding a hot dog in one hand and an arm.
+instruction: Change the style if the image to pop art style.
+taskid: 71434

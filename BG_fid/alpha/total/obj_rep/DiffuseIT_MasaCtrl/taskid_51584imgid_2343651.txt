@@ -1,0 +1,5 @@
+org_img_id: 2343651
+org_cap: a woman in her mid-30s with dark hair and a slender build wears a gray wool coat with a black scarf and carries a black leather handbag, holding a large cup with a cardboard sleeve.
+trg_cap: A woman in her mid-30s with dark hair and a slender build wears a gray wool coat with a black scarf and carries a black leather handbag, holding her dog.
+instruction: Replace the cup with a dog.
+taskid: 51584

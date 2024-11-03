@@ -1,0 +1,5 @@
+org_img_id: 2380429
+org_cap: the person blows out the candles on the white cake.
+trg_cap: the person blows out the candles on the large white cake.
+instruction: Make the cake larger.
+taskid: 93090

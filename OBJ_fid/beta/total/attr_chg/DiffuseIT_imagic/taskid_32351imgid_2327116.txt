@@ -1,0 +1,5 @@
+org_img_id: 2327116
+org_cap: a person lies in a hospital bed, wearing a robe and pajamas, with a laptop on his lap and a closed bottle on the bedside table.
+trg_cap: a person lies in a hospital bed, wearing a robe and pajamas, with a laptop on his lap and a open bottle on the bedside table.
+instruction: Change the state of the bottle from closed to open.
+taskid: 32351

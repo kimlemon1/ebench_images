@@ -1,0 +1,5 @@
+org_img_id: 2373514
+org_cap: Playing, the person swings her racket, her ponytail bouncing as she navigates the tennis court.
+trg_cap: An oil painting style art depicts a person playing tennis, swinging her racket with her ponytail bouncing as she navigates the court.
+instruction: Change the style if the image to oil painting style.
+taskid: 73360

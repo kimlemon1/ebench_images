@@ -1,0 +1,5 @@
+org_img_id: 2321139
+org_cap: person sat at the bowling alley, wearing a black shirt and holding a hot dog in his hand, with a silver tie around his neck.
+trg_cap: person sat at the bowling alley, wearing a black shirt and holding a hot dog in his hand, with a large silver tie around his neck.
+instruction: Make the tie larger.
+taskid: 50370

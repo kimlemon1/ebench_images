@@ -1,0 +1,5 @@
+org_img_id: 2353880
+org_cap: The teddy bear is a small, purple - and - pink - striped teddy bear with a soft, fluffy texture and a sweet, innocent expression.
+trg_cap: The remote is small.
+instruction: Replace the teddy bear with a remote.
+taskid: 52734

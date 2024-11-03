@@ -1,0 +1,5 @@
+org_img_id: 2377622
+org_cap: a truck with a tall ladder and a person operating it is parked under the overpass.
+trg_cap: a small truck with a tall ladder and a person operating it is parked under the overpass.
+instruction: Make the truck smaller.
+taskid: 63418

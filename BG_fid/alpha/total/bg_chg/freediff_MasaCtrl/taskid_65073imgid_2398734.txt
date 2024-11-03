@@ -1,0 +1,5 @@
+org_img_id: 2398734
+org_cap: A white bus drives down the street, passing in front of a worn and faded apartment building with crumbling balconies and rusty railings.
+trg_cap: A white bus drives down the street, passing in front of a worn and faded apartment building with crumbling balconies and rusty railings, just a block away from the sandy beach where the sound of crashing waves can be heard.
+instruction: Change the background to beach.
+taskid: 65073

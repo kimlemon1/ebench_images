@@ -1,0 +1,5 @@
+org_img_id: 2376093
+org_cap: a white boat, gently rocking in the calm waters of the estuary.
+trg_cap: A white boat, gently rocking in the calm waters of the estuary, could be seen from the windows of the nearby hospital.
+instruction: Change the background to hospital.
+taskid: 48099

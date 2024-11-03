@@ -1,0 +1,5 @@
+org_img_id: 2372055
+org_cap: a black dog sitting on the deck of a sailboat.
+trg_cap: A black dog sitting on the deck of a sailboat, which was docked near a hospital.
+instruction: Change the background to hospital.
+taskid: 97489

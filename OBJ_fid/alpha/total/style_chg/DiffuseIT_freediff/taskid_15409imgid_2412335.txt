@@ -1,0 +1,5 @@
+org_img_id: 2412335
+org_cap: the orange cat lying on a crumpled sheet of wrapping paper, its eyes fixed on something in the distance.
+trg_cap: A graffiti art piece features an orange cat lying on a crumpled sheet of wrapping paper, its eyes fixed on something in the distance.
+instruction: Change the style if the image to graffiti art.
+taskid: 15409

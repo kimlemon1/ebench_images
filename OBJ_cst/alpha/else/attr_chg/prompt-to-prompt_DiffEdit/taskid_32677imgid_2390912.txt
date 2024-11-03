@@ -1,0 +1,5 @@
+org_img_id: 2390912
+org_cap: The old town clock features a white face with roman numerals and a decorative ironwork surround.
+trg_cap: The old town clock features a orange face with roman numerals and a decorative ironwork surround.
+instruction: Change the color of the clock from white to orange.
+taskid: 32677

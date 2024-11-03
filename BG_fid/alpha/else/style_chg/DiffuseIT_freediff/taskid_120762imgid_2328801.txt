@@ -1,0 +1,5 @@
+org_img_id: 2328801
+org_cap: A majestic elephant stands at the riverbank, its gray skin glistening with dew, while a person in a saffron robe its trunk.
+trg_cap: An oil painting style art depicts a majestic elephant standing at the riverbank, its gray skin glistening with dew, while a person in a saffron robe holds its trunk.
+instruction: Change the style if the image to oil painting style.
+taskid: 120762

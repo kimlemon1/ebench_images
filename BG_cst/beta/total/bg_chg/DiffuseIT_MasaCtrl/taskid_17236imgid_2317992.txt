@@ -1,0 +1,5 @@
+org_img_id: 2317992
+org_cap: a white plate holds a juicy burger topped with melted cheese, served alongside a side of steamed broccoli and sweet potato fries, accompanied by a small bowl of tangy sauce.
+trg_cap: In the midst of a snow field, a white plate holds a juicy burger topped with melted cheese, served alongside a side of steamed broccoli and sweet potato fries, accompanied by a small bowl of tangy sauce.
+instruction: Change the background to snow field.
+taskid: 17236

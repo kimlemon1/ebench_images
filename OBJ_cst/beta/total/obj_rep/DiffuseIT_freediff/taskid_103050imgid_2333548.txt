@@ -1,0 +1,5 @@
+org_img_id: 2333548
+org_cap: a steaming cup of coffee sits atop a wooden board, alongside a perfectly toasted breakfast sandwich featuring crispy bacon, melted cheese, and fresh spinach.
+trg_cap: A steaming cup of coffee sits atop a wooden board, alongside a banana.
+instruction: Replace the sandwich with a banana.
+taskid: 103050

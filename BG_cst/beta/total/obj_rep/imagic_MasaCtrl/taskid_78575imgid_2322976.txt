@@ -1,0 +1,5 @@
+org_img_id: 2322976
+org_cap: a majestic brown horse with a gleaming golden coat and a flowing mane, its eyes shining bright as it along the street in a beautifully decorated carriage.
+trg_cap: "a majestic brown toothbrush in its beautifully decorated carriage."
+instruction: Replace the horse with a toothbrush.
+taskid: 78575

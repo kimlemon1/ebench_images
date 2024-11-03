@@ -1,0 +1,5 @@
+org_img_id: 2359686
+org_cap: The refrigerator is a stainless steel refrigerator with a window and a steel handle on the front.
+trg_cap: The refrigerator is a stainless stainless steel refrigerator with a window and a stainless steel handle on the front.
+instruction: Change the material of the refrigerator from steel to stainless steel.
+taskid: 50291

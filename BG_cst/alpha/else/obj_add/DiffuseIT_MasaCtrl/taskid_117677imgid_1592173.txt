@@ -1,0 +1,5 @@
+org_img_id: 1592173
+org_cap: passengers wait at the platform, surrounded by digital displays and a white clock above the departure board.
+trg_cap: passengers wait at the platform, surrounded by digital displays and a white clock above the departure board, with a bird perched on the clock.
+instruction: Add a bird on the clock.
+taskid: 117677

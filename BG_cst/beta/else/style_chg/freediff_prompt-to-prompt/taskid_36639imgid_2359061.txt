@@ -1,0 +1,5 @@
+org_img_id: 2359061
+org_cap: a majestic brown horse with a shiny red harness and gleaming brass bells, its muscles beneath its thick coat as it along the cobblestone street.
+trg_cap: A watercolor painting style art features a majestic brown horse with a shiny red harness and gleaming brass bells, its muscles visible beneath its thick coat as it moves along the cobblestone street.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 36639

@@ -1,0 +1,5 @@
+org_img_id: 2408348
+org_cap: the room features a worn, beige couch with a red throw blanket, a black tv, and a wooden coffee table with a vase and a few books on it, with a person lying on the couch and a dog lying next to them.
+trg_cap: the room features a worn, beige couch with a red throw blanket, a gray tv, and a wooden coffee table with a vase and a few books on it, with a person lying on the couch and a dog lying next to them.
+instruction: Change the color of the tv from black to gray.
+taskid: 51974

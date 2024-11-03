@@ -1,0 +1,5 @@
+org_img_id: 2396801
+org_cap: a brown horse, a group of children and a few adults, their faces obscured by masks and scarves, as they make their way through the bustling streets.
+trg_cap: A brown horse, a group of children and a few adults, their faces obscured by masks and scarves, as they make their way through the bustling streets of a tropical jungle village.
+instruction: Change the background to tropical jungle.
+taskid: 106369

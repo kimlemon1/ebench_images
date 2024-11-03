@@ -1,0 +1,5 @@
+org_img_id: 2401551
+org_cap: a skateboarding person, his longboard over the water, his eyes on the horizon.
+trg_cap: a skateboarding person, his longboard over the water, his eyes on the horizon, with a car beneath him.
+instruction: Add a car under the person.
+taskid: 99127

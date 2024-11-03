@@ -1,0 +1,5 @@
+org_img_id: 2397096
+org_cap: a blue sky with a few wispy clouds is visible above a tangled mess of power lines and utility poles, with a blue airplane flying across the frame, its wings and tail visible against the bright blue background.
+trg_cap: a blue sky with a few wispy clouds is visible above a tangled mess of power lines and utility poles, with a small blue airplane flying across the frame, its wings and tail visible against the bright blue background.
+instruction: Make the airplane smaller.
+taskid: 89803

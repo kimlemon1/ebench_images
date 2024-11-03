@@ -1,0 +1,5 @@
+org_img_id: 2352899
+org_cap: a person with a helmet and bicycle on his head, and a serious expression.
+trg_cap: The pencil sketch art depicts a person with a helmet and a bicycle on his head, wearing a serious expression.
+instruction: Change the style if the image to pencil sketch.
+taskid: 44401

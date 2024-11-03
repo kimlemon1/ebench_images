@@ -1,0 +1,5 @@
+org_img_id: 2351488
+org_cap: Running, playing, person swings his racket, his arm cocked back at an angle as he unleashes a forehand shot.
+trg_cap: Running, playing, person swings his racket, his arm cocked back at an angle as he unleashes a forehand shot, the sounds of a bustling train station echoing around him.
+instruction: Change the background to train station.
+taskid: 52666

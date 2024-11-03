@@ -1,0 +1,5 @@
+org_img_id: 2377530
+org_cap: a orange cat with bright green eyes from behind a thick cluster of thorny bushes and vines growing around an old, rusty window frame.
+trg_cap: a yellow cat with bright green eyes from behind a thick cluster of thorny bushes and vines growing around an old, rusty window frame.
+instruction: Change the color of the cat from orange to yellow.
+taskid: 46141

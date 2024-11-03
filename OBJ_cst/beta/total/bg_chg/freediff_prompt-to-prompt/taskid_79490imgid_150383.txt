@@ -1,0 +1,5 @@
+org_img_id: 150383
+org_cap: a small person in a grey sweater and jeans on a stone pavement, with a colorful kite with a long tail, with a joyful expression.
+trg_cap: A small person in a grey sweater and jeans on a stone pavement in the countryside farm, with a colorful kite with a long tail, with a joyful expression.
+instruction: Change the background to country side farm.
+taskid: 79490

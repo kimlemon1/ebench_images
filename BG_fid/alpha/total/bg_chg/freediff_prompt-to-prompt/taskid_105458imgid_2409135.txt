@@ -1,0 +1,5 @@
+org_img_id: 2409135
+org_cap: the clock face is a white stone with intricate carvings and a large gold cross at its center, surrounded by a decorative archway with ornate details.
+trg_cap: The clock face is a white stone with intricate carvings and a large gold cross at its center, surrounded by a decorative archway with ornate details, set against the serene backdrop of a lakeside view.
+instruction: Change the background to lake side.
+taskid: 105458

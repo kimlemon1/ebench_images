@@ -1,0 +1,5 @@
+org_img_id: 2415933
+org_cap: Person stands, his legs spread, his eyes fixed on the snowy landscape, his gray beard and hair blowing in the winter wind, his gray eyes squinting against the snow and cold, his hands grasping the wooden poles of his snowshoes, his gray coat and pants covered in snow and his boots sinking into the drift.
+trg_cap: The small person stands, his legs spread, his eyes fixed on the snowy landscape, his gray beard and hair blowing in the winter wind, his gray eyes squinting against the snow and cold, his hands grasping the wooden poles of his snowshoes, his gray coat and pants covered in snow and his boots sinking into the drift.
+instruction: Make the person smaller.
+taskid: 36323

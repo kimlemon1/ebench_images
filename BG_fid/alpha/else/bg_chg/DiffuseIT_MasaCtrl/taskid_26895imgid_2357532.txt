@@ -1,0 +1,5 @@
+org_img_id: 2357532
+org_cap: a red double-decker bus with a sleek, curved design and a gleaming chrome grille drives down the street, alongside a sleek, silver bicycle ridden by a person wearing a bright yellow jacket.
+trg_cap: A red double-decker bus with a sleek, curved design and a gleaming chrome grille drives down the street, past rolling green fields and rustic barns of the countryside farm, alongside a sleek, silver bicycle ridden by a person wearing a bright yellow jacket.
+instruction: Change the background to country side farm.
+taskid: 26895

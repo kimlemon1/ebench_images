@@ -1,0 +1,5 @@
+org_img_id: 2355181
+org_cap: a warm, golden brown waffle topped with red apple, drizzled with sweet syrup, and sprinkled with a few fresh blueberries.
+trg_cap: a warm, golden brown waffle topped with red apple, behind which stands a person, drizzled with sweet syrup, and sprinkled with a few fresh blueberries.
+instruction: Add a person behind the apple.
+taskid: 56631

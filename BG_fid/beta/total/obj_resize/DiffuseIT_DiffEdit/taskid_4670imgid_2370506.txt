@@ -1,0 +1,5 @@
+org_img_id: 2370506
+org_cap: A wood bench sits alone on the grassy shore, slats worn smooth by the elements and once-vibrant color faded to a soft gray.
+trg_cap: A large wood bench sits alone on the grassy shore, slats worn smooth by the elements and once-vibrant color faded to a soft gray.
+instruction: Make the bench larger.
+taskid: 4670

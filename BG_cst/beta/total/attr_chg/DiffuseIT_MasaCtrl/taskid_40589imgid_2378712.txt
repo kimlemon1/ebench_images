@@ -1,0 +1,5 @@
+org_img_id: 2378712
+org_cap: The bus is a black bus with a distinctive rounded front end.
+trg_cap: The bus is a striped bus with a distinctive rounded front end.
+instruction: Change the color of the bus from black to striped.
+taskid: 40589

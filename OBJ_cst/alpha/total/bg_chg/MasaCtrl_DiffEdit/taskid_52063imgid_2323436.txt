@@ -1,0 +1,5 @@
+org_img_id: 2323436
+org_cap: a person in a bright yellow jumpsuit is alongside a red tow truck, holding a microphone and as the truck hauls away a broken-down vehicle, a rugged person with a crumpled front end and flat tires.
+trg_cap: A person in a bright yellow jumpsuit is alongside a red tow truck, holding a microphone as the truck hauls away a broken-down vehicle, a rugged person with a crumpled front end and flat tires, by the lakeside.
+instruction: Change the background to lake side.
+taskid: 52063

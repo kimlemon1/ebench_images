@@ -1,0 +1,5 @@
+org_img_id: 2331085
+org_cap: a yellow fire hydrant.
+trg_cap: a green fire hydrant.
+instruction: Change the color of the fire hydrant from yellow to green.
+taskid: 9962

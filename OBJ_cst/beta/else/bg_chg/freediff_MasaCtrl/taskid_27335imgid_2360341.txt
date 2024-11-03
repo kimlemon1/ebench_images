@@ -1,0 +1,5 @@
+org_img_id: 2360341
+org_cap: a person in a blue jacket and snow pants on his snowboard, his boots into the fresh powder.
+trg_cap: A person in a blue jacket and snow pants on his snowboard, his boots into the fresh powder, imagined himself gliding silently through the aisles of a vast library.
+instruction: Change the background to library.
+taskid: 27335

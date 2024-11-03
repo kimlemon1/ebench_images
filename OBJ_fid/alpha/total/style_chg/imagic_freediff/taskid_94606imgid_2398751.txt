@@ -1,0 +1,5 @@
+org_img_id: 2398751
+org_cap: A sitting, sleeping, orange cat lies on the hood of a car, its fur reflecting the surrounding environment and its eyes closed.
+trg_cap: A pencil sketch depicts a sitting, sleeping orange cat lying on the hood of a car, its fur reflecting the surrounding environment and its eyes closed.
+instruction: Change the style if the image to pencil sketch.
+taskid: 94606

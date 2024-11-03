@@ -1,0 +1,5 @@
+org_img_id: 2360057
+org_cap: Standing person stands on the sandy beach, arms and eyes, as a black person wags its tail nearby.
+trg_cap: Standing person stands on the sandy beach, arms and eyes, as a black car is next to the person and a black person wags its tail nearby.
+instruction: Add a car next to the person.
+taskid: 37217

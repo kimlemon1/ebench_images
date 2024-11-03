@@ -1,0 +1,5 @@
+org_img_id: 2326022
+org_cap: The sleek, black leather couch dominates the open living area, its rectangular silhouette softened by the subtle curves of the room's industrial-style steel beams and floor-to-ceiling glass windows.
+trg_cap: The graffiti art features a sleek, black leather couch that dominates the open living area, with its rectangular silhouette softened by the subtle curves of the room's industrial-style steel beams and floor-to-ceiling glass windows.
+instruction: Change the style if the image to graffiti art.
+taskid: 36003

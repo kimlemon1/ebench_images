@@ -1,0 +1,5 @@
+org_img_id: 2389852
+org_cap: A blue parasol lay flat on the sandy beach, its metal ribs bent and twisted from being blown inside out by the wind.
+trg_cap: A pop art style artwork features a blue parasol lying flat on the sandy beach, its metal ribs bent and twisted from being blown inside out by the wind.
+instruction: Change the style if the image to pop art style.
+taskid: 103058

@@ -1,0 +1,5 @@
+org_img_id: 2321770
+org_cap: a person with a ruggedly handsome face and a messy mop of hair, a bright smile and a determined gaze, on his surfboard, his muscles beneath his sun-kissed skin.
+trg_cap: a person with a ruggedly handsome face and a messy mop of hair, a bright smile and a determined gaze, on his surfboard, his muscles beneath his sun-kissed skin, set against the backdrop of a vast desert landscape.
+instruction: Change the background to desert.
+taskid: 36770

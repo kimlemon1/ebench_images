@@ -1,0 +1,5 @@
+org_img_id: 2339909
+org_cap: a person in his early twenties, wearing a white tank top, blue jeans, and a black baseball cap, rides a skateboard with a white and black deck, his feet as he glides across the pavement.
+trg_cap: A pop art style artwork features a person in his early twenties wearing a white tank top, blue jeans, and a black baseball cap, riding a skateboard with a white and black deck as he glides across the pavement.
+instruction: Change the style if the image to pop art style.
+taskid: 97129

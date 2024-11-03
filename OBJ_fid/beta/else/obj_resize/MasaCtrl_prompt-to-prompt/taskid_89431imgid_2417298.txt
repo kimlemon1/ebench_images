@@ -1,0 +1,5 @@
+org_img_id: 2417298
+org_cap: a person in a bright yellow backpack and bright green pants, wearing goggles and a hat, charges through the snow at high speed, kicking up powder and sending snow flying in all directions.
+trg_cap: a person in a small bright yellow backpack and bright green pants, wearing goggles and a hat, charges through the snow at high speed, kicking up powder and sending snow flying in all directions.
+instruction: Make the backpack smaller.
+taskid: 89431

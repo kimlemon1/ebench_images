@@ -1,0 +1,5 @@
+org_img_id: 2317185
+org_cap: person off the quarterpipe, his board spinning wildly as he approaches the transition.
+trg_cap: skis off the quarterpipe, as they approach the transition.
+instruction: Replace the person with a skis.
+taskid: 30149

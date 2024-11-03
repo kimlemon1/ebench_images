@@ -1,0 +1,5 @@
+org_img_id: 2369997
+org_cap: A white cat sits on the floor, its tail as it gazes up at the old-fashioned sink in the adjacent bathroom.
+trg_cap: A orange cat sits on the floor, its tail as it gazes up at the old-fashioned sink in the adjacent bathroom.
+instruction: Change the color of the cat from white to orange.
+taskid: 30368

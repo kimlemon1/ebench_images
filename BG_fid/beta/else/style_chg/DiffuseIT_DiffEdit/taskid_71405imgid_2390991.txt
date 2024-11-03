@@ -1,0 +1,5 @@
+org_img_id: 2390991
+org_cap: The blue baseball bat is a piece of wood with a knob at the end.
+trg_cap: A cartoon style art features a blue baseball bat, which is a piece of wood with a knob at the end.
+instruction: Change the style if the image to cartoon style.
+taskid: 71405

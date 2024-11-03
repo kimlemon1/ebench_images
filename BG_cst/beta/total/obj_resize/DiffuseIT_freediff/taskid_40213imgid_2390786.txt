@@ -1,0 +1,5 @@
+org_img_id: 2390786
+org_cap: The bus is an orange bus parked at an angle on the street.
+trg_cap: The bus is a small orange bus parked at an angle on the street.
+instruction: Make the bus smaller.
+taskid: 40213

@@ -1,0 +1,5 @@
+org_img_id: 2377881
+org_cap: The toilet is a white toilet with a brown seat and lid, surrounded by a wooden panel with a subtle wood grain pattern.
+trg_cap: The toilet is a large white toilet with a brown seat and lid, surrounded by a wooden panel with a subtle wood grain pattern.
+instruction: Make the toilet larger.
+taskid: 97443

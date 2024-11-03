@@ -1,0 +1,5 @@
+org_img_id: 2396911
+org_cap: A yellow fire hydrant stands tall amidst a patch of tall grass and weeds, its body adorned with warning signs and surrounded by a small clearing.
+trg_cap: A yellow fire hydrant stands tall amidst a patch of tall grass and weeds, its body adorned with warning signs and surrounded by a small clearing, with a person standing next to it.
+instruction: Add a person next to the fire hydrant.
+taskid: 70533

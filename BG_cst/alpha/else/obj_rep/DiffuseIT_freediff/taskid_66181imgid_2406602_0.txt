@@ -1,0 +1,5 @@
+org_img_id: 2406602_0
+org_cap: a skateboard glides smoothly across the dark asphalt, its wheels spinning silently as it navigates the deserted city street under the watchful gaze of the night sky.
+trg_cap: A parking meter stands on the deserted city street under the watchful gaze of the night sky.
+instruction: Replace the skateboard with a parking meter.
+taskid: 66181

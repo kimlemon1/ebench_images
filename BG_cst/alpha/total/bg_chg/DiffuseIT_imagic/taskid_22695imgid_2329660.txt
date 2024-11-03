@@ -1,0 +1,5 @@
+org_img_id: 2329660
+org_cap: person rides the waves on his surfboard, the wind his dark hair back as he through the air, the ocean spray glistening on his wetsuit.
+trg_cap: Person rides the waves on his surfboard, the wind his dark hair back as he through the air, the ocean spray glistening on his wetsuit, with a distant grass field visible on the horizon.
+instruction: Change the background to grass field.
+taskid: 22695

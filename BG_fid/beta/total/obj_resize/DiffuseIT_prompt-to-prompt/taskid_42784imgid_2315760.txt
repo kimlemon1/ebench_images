@@ -1,0 +1,5 @@
+org_img_id: 2315760
+org_cap: a person carries a surfboard across the sandy beach, the morning sun casting a warm glow over the tranquil scene.
+trg_cap: A person carries a large surfboard across the sandy beach, the morning sun casting a warm glow over the tranquil scene.
+instruction: Make the surfboard larger.
+taskid: 42784

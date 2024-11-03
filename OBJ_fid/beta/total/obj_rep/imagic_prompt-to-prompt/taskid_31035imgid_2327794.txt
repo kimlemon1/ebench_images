@@ -1,0 +1,5 @@
+org_img_id: 2327794
+org_cap: the clock tower stands tall and proud, its stone façade weathered to a warm beige, with intricate carvings and ornate details adorning its exterior, while the surrounding buildings and trees provide a subtle contrast to its grandeur.
+trg_cap: The traffic light tower stands tall and proud, while the surrounding buildings and trees provide a subtle contrast to the tower's grandeur.
+instruction: Replace the clock with a traffic light.
+taskid: 31035

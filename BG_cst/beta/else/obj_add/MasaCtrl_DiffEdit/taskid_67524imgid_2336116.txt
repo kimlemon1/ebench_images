@@ -1,0 +1,5 @@
+org_img_id: 2336116
+org_cap: a small, blue airplane with a long tail and a single string trailing behind it flies horizontally across the gray sky.
+trg_cap: A small, blue airplane with a long tail and a single string trailing behind it flies horizontally across the gray sky, with a truck on the left side of the airplane.
+instruction: Add a truck on the left side of the airplane.
+taskid: 67524

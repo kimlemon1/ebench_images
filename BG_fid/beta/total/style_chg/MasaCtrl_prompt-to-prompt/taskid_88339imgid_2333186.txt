@@ -1,0 +1,5 @@
+org_img_id: 2333186
+org_cap: The black couch is a design with clean lines and a minimalist aesthetic.
+trg_cap: The art, in a watercolor painting style, features a black couch with clean lines and a minimalist aesthetic.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 88339

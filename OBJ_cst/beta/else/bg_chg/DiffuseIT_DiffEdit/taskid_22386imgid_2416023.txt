@@ -1,0 +1,5 @@
+org_img_id: 2416023
+org_cap: The yellow couch sat against the wall, with an open laptop perched on the armrest.
+trg_cap: The yellow couch sat against the wall, with an open laptop perched on the armrest, while the scent of pine from the nearby forest wafted through the open window.
+instruction: Change the background to pine forest.
+taskid: 22386

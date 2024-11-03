@@ -1,0 +1,5 @@
+org_img_id: 2412501
+org_cap: a vintage clock hangs from the ceiling, its circular clock adorned with roman numerals and a subtle patina from years of use.
+trg_cap: A vintage handbag hangs from the ceiling.
+instruction: Replace the clock with a handbag.
+taskid: 6023

@@ -1,0 +1,5 @@
+org_img_id: 2365143
+org_cap: The metal fire hydrant is a structure with a top and a bottom, painted a red, with a valve and handle on the side.
+trg_cap: The steel fire hydrant is a structure with a top and a bottom, painted a red, with a valve and handle on the side.
+instruction: Change the material of the fire hydrant from metal to steel.
+taskid: 34957

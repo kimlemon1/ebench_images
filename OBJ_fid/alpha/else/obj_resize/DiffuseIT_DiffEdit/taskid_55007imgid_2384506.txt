@@ -1,0 +1,5 @@
+org_img_id: 2384506
+org_cap: a person walks along the beach, carrying an orange surfboard.
+trg_cap: a person walks along the beach, carrying a large orange surfboard.
+instruction: Make the surfboard larger.
+taskid: 55007

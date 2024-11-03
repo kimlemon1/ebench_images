@@ -1,0 +1,5 @@
+org_img_id: 2339534
+org_cap: Person, wearing a blue shirt and board shorts, is mid-air as he performs a radical trick on his surfboard, with water splashing around him.
+trg_cap: Person, wearing a blue shirt and board shorts, is mid-air as he performs a radical trick on his surfboard, with water splashing around him, in front of a cheering crowd in the stadium.
+instruction: Change the background to stadium.
+taskid: 15470

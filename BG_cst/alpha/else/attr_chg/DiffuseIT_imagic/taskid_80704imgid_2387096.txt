@@ -1,0 +1,5 @@
+org_img_id: 2387096
+org_cap: a young person is skateboarding down a curved ramp, their black skateboard as they perform tricks and stunts.
+trg_cap: a mature person is skateboarding down a curved ramp, their black skateboard as they perform tricks and stunts.
+instruction: Change the state of the person from young to mature.
+taskid: 80704

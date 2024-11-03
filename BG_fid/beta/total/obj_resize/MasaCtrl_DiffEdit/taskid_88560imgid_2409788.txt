@@ -1,0 +1,5 @@
+org_img_id: 2409788
+org_cap: a brown plastic spoon and a closed bottle sit on a tray, surrounded by a ripe, unripe, yellow banana, a paper bag and a flyer advertising natural food on the market.
+trg_cap: a small brown plastic spoon and a closed bottle sit on a tray, surrounded by a ripe, unripe, yellow banana, a paper bag and a flyer advertising natural food on the market.
+instruction: Make the spoon smaller.
+taskid: 88560

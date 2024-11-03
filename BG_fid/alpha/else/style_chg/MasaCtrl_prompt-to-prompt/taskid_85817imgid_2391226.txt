@@ -1,0 +1,5 @@
+org_img_id: 2391226
+org_cap: a brown boat is tied to a trailer on a sunny day.
+trg_cap: The art, in a watercolor painting style, depicts a brown boat tied to a trailer on a sunny day.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 85817

@@ -1,0 +1,5 @@
+org_img_id: 2395380
+org_cap: The white clock is covered in a white tarpaulin.
+trg_cap: The brown clock is covered in a brown tarpaulin.
+instruction: Change the color of the clock from white to brown.
+taskid: 57927

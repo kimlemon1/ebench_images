@@ -1,0 +1,5 @@
+org_img_id: 2361484
+org_cap: a bright red train with a vintage livery rumbles into the station, its wheels screeching against the worn platform as it comes to a stop under the brick archway.
+trg_cap: A bright red toilet rumbles into the station, its wheels screeching against the worn platform as they come to a stop under the brick archway.
+instruction: Replace the train with a toilet.
+taskid: 28744

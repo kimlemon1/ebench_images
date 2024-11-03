@@ -1,0 +1,5 @@
+org_img_id: 2341947
+org_cap: "Person swings his racket, his arm extending to hit the tennis ball, his eyes fixed on the ball as it soars through the air."
+trg_cap: The small person swings his racket, his arm extending to hit the tennis ball, his eyes fixed on the ball as it soars through the air.
+instruction: Make the person smaller.
+taskid: 36223

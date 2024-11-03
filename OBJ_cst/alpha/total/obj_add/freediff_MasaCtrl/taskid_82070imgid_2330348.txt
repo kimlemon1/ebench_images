@@ -1,0 +1,5 @@
+org_img_id: 2330348
+org_cap: Person carves through the snow, her snowboard gliding across the winter wonderland.
+trg_cap: Person carves through the snow, her snowboard gliding across the winter wonderland, with a TV next to her.
+instruction: Add a tv next to the person.
+taskid: 82070

@@ -1,0 +1,5 @@
+org_img_id: 2345402
+org_cap: a train rumbles over the old stone bridge, its wheels clicking on the worn tracks as it chugs along the winding riverbank.
+trg_cap: A train rumbles over the old stone bridge, its wheels clicking on the worn tracks as it chugs along the arid desert landscape.
+instruction: Change the background to desert.
+taskid: 101068

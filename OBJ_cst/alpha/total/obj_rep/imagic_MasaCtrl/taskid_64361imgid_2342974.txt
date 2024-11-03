@@ -1,0 +1,5 @@
+org_img_id: 2342974
+org_cap: person swings a baseball bat, his legs bent and his arms, his eyes on the ball.
+trg_cap: Airplane swings its baseball bat.
+instruction: Replace the person with a airplane.
+taskid: 64361

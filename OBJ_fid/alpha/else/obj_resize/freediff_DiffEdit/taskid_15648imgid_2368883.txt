@@ -1,0 +1,5 @@
+org_img_id: 2368883
+org_cap: a lone kite lies abandoned on the sandy beach, its vibrant colors faded by the sun, its once-sturdy kite now bent and tangled in the shifting sands.
+trg_cap: a lone small kite lies abandoned on the sandy beach, its vibrant colors faded by the sun, its once-sturdy kite now bent and tangled in the shifting sands.
+instruction: Make the kite smaller.
+taskid: 15648

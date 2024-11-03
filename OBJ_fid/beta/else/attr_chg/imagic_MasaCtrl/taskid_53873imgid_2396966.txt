@@ -1,0 +1,5 @@
+org_img_id: 2396966
+org_cap: The bus is a blue bus, parked outside a modern church with a white exterior and a large cross on the roof.
+trg_cap: The bus is a red bus, parked outside a modern church with a white exterior and a large cross on the roof.
+instruction: Change the color of the bus from blue to red.
+taskid: 53873

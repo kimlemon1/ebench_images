@@ -1,0 +1,5 @@
+org_img_id: 2381011
+org_cap: person cuts a white cake with a sword, surrounded by soldiers and dignitaries.
+trg_cap: person cuts a small white cake with a sword, surrounded by soldiers and dignitaries.
+instruction: Make the cake smaller.
+taskid: 74099

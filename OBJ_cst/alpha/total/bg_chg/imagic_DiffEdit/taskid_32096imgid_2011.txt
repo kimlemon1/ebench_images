@@ -1,0 +1,5 @@
+org_img_id: 2011
+org_cap: the silver tv is mounted on a wooden cabinet with a sliding door, containing a silver tv.
+trg_cap: The silver TV is mounted on a wooden cabinet with a sliding door, containing a silver TV, set against the backdrop of a snow field.
+instruction: Change the background to snow field.
+taskid: 32096

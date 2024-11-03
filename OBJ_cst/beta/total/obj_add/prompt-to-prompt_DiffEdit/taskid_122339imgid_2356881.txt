@@ -1,0 +1,5 @@
+org_img_id: 2356881
+org_cap: a person in a blue wetsuit rides a surfboard through a wave, his arms and legs as he through the water.
+trg_cap: A person in a blue wetsuit rides a surfboard through a wave, a banana strapped to his back, his arms and legs as he through the water.
+instruction: Add a banana on the person.
+taskid: 122339

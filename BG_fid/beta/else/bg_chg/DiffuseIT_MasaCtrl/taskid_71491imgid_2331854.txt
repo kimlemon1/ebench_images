@@ -1,0 +1,5 @@
+org_img_id: 2331854
+org_cap: Blue surfboard glides through the waves as person lies prone on blue surfboard, her arms stretched out to the sides and her legs bent in a smooth arc.
+trg_cap: In a stark contrast to the surrounding desert landscape, the blue surfboard glides through the waves as the person lies prone on it, her arms stretched out to the sides and her legs bent in a smooth arc.
+instruction: Change the background to desert.
+taskid: 71491

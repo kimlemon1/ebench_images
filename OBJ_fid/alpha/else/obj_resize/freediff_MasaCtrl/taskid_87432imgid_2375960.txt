@@ -1,0 +1,5 @@
+org_img_id: 2375960
+org_cap: a locomotive with a bright yellow livery and distinctive logo on the side, hauling a black train through a misty and rainy landscape.
+trg_cap: a locomotive with a bright yellow livery and distinctive logo on the side, hauling a small black train through a misty and rainy landscape.
+instruction: Make the train smaller.
+taskid: 87432

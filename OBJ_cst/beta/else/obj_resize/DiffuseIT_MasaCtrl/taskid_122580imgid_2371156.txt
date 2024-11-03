@@ -1,0 +1,5 @@
+org_img_id: 2371156
+org_cap: a group of people hold an uncooked pizza.
+trg_cap: a group of people hold an uncooked small pizza.
+instruction: Make the pizza smaller.
+taskid: 122580

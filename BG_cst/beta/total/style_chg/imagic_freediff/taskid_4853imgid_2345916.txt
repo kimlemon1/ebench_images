@@ -1,0 +1,5 @@
+org_img_id: 2345916
+org_cap: The clock face is a large, circular clock with intricate carvings and ornate details, set against a backdrop of warm, golden brickwork.
+trg_cap: The art, in a watercolor painting style, features a large, circular clock face with intricate carvings and ornate details, set against a backdrop of warm, golden brickwork.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 4853

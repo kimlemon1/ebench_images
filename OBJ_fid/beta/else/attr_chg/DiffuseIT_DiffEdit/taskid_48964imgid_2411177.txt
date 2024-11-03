@@ -1,0 +1,5 @@
+org_img_id: 2411177
+org_cap: A brown horse over a rustic wooden fence, her hooves the earth as she the obstacle course.
+trg_cap: A yellow horse over a rustic wooden fence, her hooves the earth as she the obstacle course.
+instruction: Change the color of the horse from brown to yellow.
+taskid: 48964

@@ -1,0 +1,5 @@
+org_img_id: 2365278
+org_cap: a gentle horse on the lush green grass beneath the blooming cherry blossoms, its coat in the warm sunlight.
+trg_cap: a gentle horse on the lush green grass beneath the blooming cherry blossoms, its coat in the warm sunlight, with a zebra perched on its back.
+instruction: Add a zebra on the horse.
+taskid: 46410

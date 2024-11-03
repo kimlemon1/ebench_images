@@ -1,0 +1,5 @@
+org_img_id: 2406014
+org_cap: a skateboarder leaps off a ramp, his green skateboard flying out from his feet as he lands smoothly on the concrete, surrounded by the urban landscape of a skatepark.
+trg_cap: A skateboarder leaps off a ramp, his green skateboard flying out from his feet as he lands smoothly on the concrete, with a person crouched underneath the skateboard, surrounded by the urban landscape of a skatepark.
+instruction: Add a person under the skateboard.
+taskid: 29890

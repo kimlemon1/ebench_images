@@ -1,0 +1,5 @@
+org_img_id: 2381306
+org_cap: a white bus parked at a bus stop in the town center.
+trg_cap: a dark blue bus parked at a bus stop in the town center.
+instruction: Change the color of the bus from white to dark blue.
+taskid: 99205

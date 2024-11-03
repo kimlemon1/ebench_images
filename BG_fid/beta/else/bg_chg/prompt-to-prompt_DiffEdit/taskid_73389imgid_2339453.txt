@@ -1,0 +1,5 @@
+org_img_id: 2339453
+org_cap: a person pedals a bicycle along a bicycle lane, with a small dog in a basket attached to the handlebars, as traffic flows slowly around them.
+trg_cap: A person pedals a bicycle along a bicycle lane, with a small dog in a basket attached to the handlebars, as traffic flows slowly around them, near a grand concert hall.
+instruction: Change the background to concert hall.
+taskid: 73389

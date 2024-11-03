@@ -1,0 +1,5 @@
+org_img_id: 2323644
+org_cap: a person in a red jacket and snow pants on a snow-covered mountain, wearing a black backpack and holding a snowboard.
+trg_cap: a person in a red jacket and snow pants on a snow-covered mountain, wearing a light blue backpack and holding a snowboard.
+instruction: Change the color of the backpack from black to light blue.
+taskid: 75727

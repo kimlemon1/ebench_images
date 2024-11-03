@@ -1,0 +1,5 @@
+org_img_id: 2324143
+org_cap: a person holds a tennis racket in one hand and a bottle in the other, wearing a pink tennis outfit.
+trg_cap: a person holds a tennis racket in one hand and a bottle in the other, wearing a pink tennis outfit, with a bear behind the bottle.
+instruction: Add a bear behind the bottle.
+taskid: 123534

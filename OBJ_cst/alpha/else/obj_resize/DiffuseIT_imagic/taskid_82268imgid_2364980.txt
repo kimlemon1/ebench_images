@@ -1,0 +1,5 @@
+org_img_id: 2364980
+org_cap: A giraffe stands tall, its long neck and legs, its giraffe fur blending with the acacia trees and rocky outcroppings in the background.
+trg_cap: A giraffe stands tall, its large size, long neck and legs, its giraffe fur blending with the acacia trees and rocky outcroppings in the background.
+instruction: Make the giraffe larger.
+taskid: 82268

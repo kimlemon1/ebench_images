@@ -1,0 +1,5 @@
+org_img_id: 3863
+org_cap: An orange sits alone on a white paper plate.
+trg_cap: A hot dog sits alone.
+instruction: Replace the orange with a hot dog.
+taskid: 48828

@@ -1,0 +1,5 @@
+org_img_id: 2388280
+org_cap: The black clock on the wall features a bronze face with roman numerals and a decorative surround, surrounded by intricate carvings of figures and a mural depicting a train chugging along a track.
+trg_cap: The light brown clock on the wall features a bronze face with roman numerals and a decorative surround, surrounded by intricate carvings of figures and a mural depicting a train chugging along a track.
+instruction: Change the color of the clock from black to light brown.
+taskid: 74482

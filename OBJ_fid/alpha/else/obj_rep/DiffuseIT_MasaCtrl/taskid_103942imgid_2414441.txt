@@ -1,0 +1,5 @@
+org_img_id: 2414441
+org_cap: Person swings her racket, her ponytail bouncing as she chases down a forehand winner.
+trg_cap: Banana swings their racket as they chase down a forehand winner.
+instruction: Replace the person with a banana.
+taskid: 103942

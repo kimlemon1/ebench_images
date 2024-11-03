@@ -1,0 +1,5 @@
+org_img_id: 2320141
+org_cap: a cake with candles and a message "happy birthday" sits on a bed, surrounded by colorful balloons.
+trg_cap: A graffiti art piece features a cake with candles and a "happy birthday" message sitting on a bed, surrounded by colorful balloons.
+instruction: Change the style if the image to graffiti art.
+taskid: 20574

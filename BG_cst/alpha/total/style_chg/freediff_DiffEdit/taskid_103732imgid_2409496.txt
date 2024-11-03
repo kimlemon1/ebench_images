@@ -1,0 +1,5 @@
+org_img_id: 2409496
+org_cap: The kitchen features a stainless steel oven, situated against a backdrop of polished concrete floors and neutral-colored walls.
+trg_cap: The mosaic art features a kitchen with a stainless steel oven set against a backdrop of polished concrete floors and neutral-colored walls.
+instruction: Change the style if the image to mosaic art.
+taskid: 103732

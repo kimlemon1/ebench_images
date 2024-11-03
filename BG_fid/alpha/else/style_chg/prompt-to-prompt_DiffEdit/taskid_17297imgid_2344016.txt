@@ -1,0 +1,5 @@
+org_img_id: 2344016
+org_cap: Old person stands in a bright yellow landscape, wearing a shirt and a tie, his arms and his eyes on the stone wall behind him.
+trg_cap: A cartoon-style artwork depicts an old person standing in a bright yellow landscape, wearing a shirt and tie, with his arms and eyes focused on the stone wall behind him.
+instruction: Change the style if the image to cartoon style.
+taskid: 17297

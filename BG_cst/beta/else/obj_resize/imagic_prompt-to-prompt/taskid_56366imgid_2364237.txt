@@ -1,0 +1,5 @@
+org_img_id: 2364237
+org_cap: a young person stands under a black umbrella, surrounded by a whimsical arrangement of vintage bicycles and clock faces.
+trg_cap: a young person stands under a large black umbrella, surrounded by a whimsical arrangement of vintage bicycles and clock faces.
+instruction: Make the umbrella larger.
+taskid: 56366

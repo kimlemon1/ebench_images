@@ -1,0 +1,5 @@
+org_img_id: 2379805
+org_cap: A colorful, rainbow-colored umbrella stood out among the crowd of people gathered for a protest or rally.
+trg_cap: A colorful, rainbow-colored umbrella stood out among the crowd of people gathered for a protest or rally on the countryside farm.
+instruction: Change the background to country side farm.
+taskid: 34153

@@ -1,0 +1,5 @@
+org_img_id: 2399714
+org_cap: a man holds a silver cell phone in his hand, his fingers scrolling through the screen as he examines the features.
+trg_cap: a man holds a gray cell phone in his hand, his fingers scrolling through the screen as he examines the features.
+instruction: Change the color of the cell phone from silver to gray.
+taskid: 50930

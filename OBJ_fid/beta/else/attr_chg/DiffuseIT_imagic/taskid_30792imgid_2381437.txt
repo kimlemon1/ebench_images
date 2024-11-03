@@ -1,0 +1,5 @@
+org_img_id: 2381437
+org_cap: The scene features a white church with a tall bell tower and a green tree in front, surrounded by a parking lot with a white bus parked nearby.
+trg_cap: The scene features a pink church with a tall bell tower and a green tree in front, surrounded by a parking lot with a pink bus parked nearby.
+instruction: Change the color of the bus from white to pink.
+taskid: 30792

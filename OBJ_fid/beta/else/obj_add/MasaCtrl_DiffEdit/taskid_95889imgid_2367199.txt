@@ -1,0 +1,5 @@
+org_img_id: 2367199
+org_cap: The kitchen features a stainless steel refrigerator, a gas oven, and a sink with a chrome faucet.
+trg_cap: The kitchen features a stainless steel refrigerator, a gas oven with a pizza inside, and a sink with a chrome faucet.
+instruction: Add a pizza in the oven.
+taskid: 95889

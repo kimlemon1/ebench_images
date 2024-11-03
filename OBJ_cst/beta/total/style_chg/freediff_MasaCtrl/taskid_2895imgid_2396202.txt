@@ -1,0 +1,5 @@
+org_img_id: 2396202
+org_cap: a brown running horse across the sun-kissed beach, its mane in the sea breeze as it a trail of foamy waves in its wake.
+trg_cap: An oil painting style art depicts a brown horse running across a sun-kissed beach, its mane flowing in the sea breeze as it leaves a trail of foamy waves in its wake.
+instruction: Change the style if the image to oil painting style.
+taskid: 2895

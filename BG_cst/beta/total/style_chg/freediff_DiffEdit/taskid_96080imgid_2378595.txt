@@ -1,0 +1,5 @@
+org_img_id: 2378595
+org_cap: The black baseball bat is a piece of wood with a handle and a head.
+trg_cap: A grey scale photo contains a black baseball bat, which is a piece of wood with a handle and a head.
+instruction: Change the style if the image to grey scale.
+taskid: 96080

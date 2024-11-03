@@ -1,0 +1,5 @@
+org_img_id: 2355612
+org_cap: a young woman with a fit physique and a bright smile sits on a surfboard on the beach, with a dog beside her, wearing a colorful collar.
+trg_cap: A young woman with a fit physique and a bright smile sits on a surfboard on the beach, with a dog beside her, wearing a colorful collar, and a banana on the right side of the dog.
+instruction: Add a banana on the right side of the dog.
+taskid: 111124

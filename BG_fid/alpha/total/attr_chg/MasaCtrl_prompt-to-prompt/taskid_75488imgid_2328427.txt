@@ -1,0 +1,5 @@
+org_img_id: 2328427
+org_cap: a person in a red hat stands in front of a black tv, holding a controller and looking at the black tv.
+trg_cap: a person in a red hat stands in front of a gray tv, holding a controller and looking at the gray tv.
+instruction: Change the color of the tv from black to gray.
+taskid: 75488

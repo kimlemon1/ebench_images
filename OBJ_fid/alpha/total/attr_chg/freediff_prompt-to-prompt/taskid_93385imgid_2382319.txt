@@ -1,0 +1,5 @@
+org_img_id: 2382319
+org_cap: a white cake is being blown out by a person's face is pressed against the cake with a big smile.
+trg_cap: a red cake is being blown out by a person's face is pressed against the cake with a big smile.
+instruction: Change the color of the cake from white to red.
+taskid: 93385

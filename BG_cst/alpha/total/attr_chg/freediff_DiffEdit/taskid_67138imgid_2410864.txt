@@ -1,0 +1,5 @@
+org_img_id: 2410864
+org_cap: a young person in a green helmet and a flame-printed knee pad rides a black skateboard, carving a smooth arc around a concrete quarterpipe.
+trg_cap: a young person in a green helmet and a flame-printed knee pad rides a blue skateboard, carving a smooth arc around a concrete quarterpipe.
+instruction: Change the color of the skateboard from black to blue.
+taskid: 67138

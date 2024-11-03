@@ -1,0 +1,5 @@
+org_img_id: 2388066
+org_cap: its legs and its brown body as it a blue frisbee.
+trg_cap: its legs and its gray body as it a blue frisbee.
+instruction: Change the color of the dog from brown to gray.
+taskid: 102445

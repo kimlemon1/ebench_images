@@ -1,0 +1,5 @@
+org_img_id: 2372511
+org_cap: the rustic wooden table holds a vibrant, multi-tiered cake, adorned with delicate flowers and a sprinkle of edible glitter, as the newlyweds, person and person, gaze lovingly at each other as they cut the first slice.
+trg_cap: The rustic wooden table holds a bicycle as the newlyweds, John and Jane, gaze lovingly at each other as they cut the first slice.
+instruction: Replace the cake with a bicycle.
+taskid: 5229

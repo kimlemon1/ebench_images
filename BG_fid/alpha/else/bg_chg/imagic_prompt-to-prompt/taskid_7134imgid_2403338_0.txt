@@ -1,0 +1,5 @@
+org_img_id: 2403338_0
+org_cap: a smiling young person holds a glazed donut with colorful sprinkles on the front seat of a donut.
+trg_cap: A smiling young person holds a glazed donut with colorful sprinkles on the front seat of a train station.
+instruction: Change the background to train station.
+taskid: 7134

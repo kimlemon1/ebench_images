@@ -1,0 +1,5 @@
+org_img_id: 2372970
+org_cap: a young person holds a blue baseball bat, raised high in the air with a determined look on his face.
+trg_cap: a young person holds a green baseball bat, raised high in the air with a determined look on his face.
+instruction: Change the color of the baseball bat from blue to green.
+taskid: 18992

@@ -1,0 +1,5 @@
+org_img_id: 2348601
+org_cap: blond person, sitting on a bed, wearing a black dress and holding a black laptop, with a red wall in the background.
+trg_cap: blond person, sitting on a bed, wearing a dark dress and holding a dark laptop, with a red wall in the background.
+instruction: Change the color of the laptop from black to dark.
+taskid: 109913

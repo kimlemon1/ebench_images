@@ -1,0 +1,5 @@
+org_img_id: 2416448
+org_cap: a young person in a white jacket and black pants on a brown horse, across a green meadow.
+trg_cap: a young person in a white jacket and black pants on a brown horse, across a green meadow near a train station.
+instruction: Change the background to train station.
+taskid: 100965

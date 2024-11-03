@@ -1,0 +1,5 @@
+org_img_id: 285841
+org_cap: A black bicycle sits next to a blue traffic light with a circular button and a red glow, standing in front of a blue and white sign with the words "welcome to the visitor centre" in bold letters.
+trg_cap: A pink bicycle sits next to a blue traffic light with a circular button and a red glow, standing in front of a blue and white sign with the words "welcome to the visitor centre" in bold letters.
+instruction: Change the color of the bicycle from black to pink.
+taskid: 52990

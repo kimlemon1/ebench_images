@@ -1,0 +1,5 @@
+org_img_id: 2366820
+org_cap: a person in a bright green wetsuit rides a person, executing a turn as they navigate through the waves.
+trg_cap: a large person in a bright green wetsuit rides a person, executing a turn as they navigate through the waves.
+instruction: Make the person larger.
+taskid: 47962

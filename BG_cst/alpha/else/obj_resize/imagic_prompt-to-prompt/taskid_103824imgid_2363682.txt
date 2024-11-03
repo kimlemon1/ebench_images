@@ -1,0 +1,5 @@
+org_img_id: 2363682
+org_cap: a white, jumping dog, its paws splayed and its tail as it catches a white frisbee in mid-air.
+trg_cap: a large, white, jumping dog, its paws splayed and its tail as it catches a white frisbee in mid-air.
+instruction: Make the dog larger.
+taskid: 103824

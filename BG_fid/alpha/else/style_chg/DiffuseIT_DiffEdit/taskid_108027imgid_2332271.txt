@@ -1,0 +1,5 @@
+org_img_id: 2332271
+org_cap: a black car drives by a green fire hydrant on a street lined with trees in autumn colors.
+trg_cap: An oil painting style artwork depicts a black car driving by a green fire hydrant on a street lined with trees in autumn colors.
+instruction: Change the style if the image to oil painting style.
+taskid: 108027

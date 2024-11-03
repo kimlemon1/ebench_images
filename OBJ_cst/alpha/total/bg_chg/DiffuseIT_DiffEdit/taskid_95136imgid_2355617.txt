@@ -1,0 +1,5 @@
+org_img_id: 2355617
+org_cap: A lone person stands on a rocky outcropping, his surfboard in his hand as he gazes out at the turbulent ocean waves crashing against the shore.
+trg_cap: A lone person stands on a rocky outcropping, his surfboard in his hand as he gazes out at the turbulent ocean waves crashing against the shore, with the rolling hills and fields of a countryside farm stretching out behind him.
+instruction: Change the background to country side farm.
+taskid: 95136

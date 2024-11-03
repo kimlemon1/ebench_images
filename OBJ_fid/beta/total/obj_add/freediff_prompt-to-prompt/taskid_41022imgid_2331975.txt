@@ -1,0 +1,5 @@
+org_img_id: 2331975
+org_cap: the room features a pair of plush, cream-colored leather sofas arranged facing each other, with a matching ottoman and a glass coffee table in between, all set against a backdrop of rich, emerald green carpet and accented with a few white chairs.
+trg_cap: The room features a pair of plush, cream-colored leather sofas arranged facing each other, with a matching ottoman and a glass coffee table in between, all set against a backdrop of rich, emerald green carpet and accented with a few white chairs, behind which is the toilet.
+instruction: Add a toilet behind the chair.
+taskid: 41022

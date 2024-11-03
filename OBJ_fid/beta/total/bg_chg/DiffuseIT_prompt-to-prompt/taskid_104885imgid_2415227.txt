@@ -1,0 +1,5 @@
+org_img_id: 2415227
+org_cap: A standing zebra stands under a tree, its stripes blending with the rocky terrain, while a few loose stones surround its hooves.
+trg_cap: A standing zebra stands under a tree, its stripes blending with the rocky terrain, while a few loose stones surround its hooves, in an aquarium setting.
+instruction: Change the background to aquarium.
+taskid: 104885

@@ -1,0 +1,5 @@
+org_img_id: 2405378
+org_cap: An elderly woman sits on a black bench, wearing a bright yellow shirt and a pair of worn-out sneakers, with a cane leaning against the black bench and a warm smile on her face.
+trg_cap: An elderly woman sits on a red bench, wearing a bright yellow shirt and a pair of worn-out sneakers, with a cane leaning against the red bench and a warm smile on her face.
+instruction: Change the color of the bench from black to red.
+taskid: 34419

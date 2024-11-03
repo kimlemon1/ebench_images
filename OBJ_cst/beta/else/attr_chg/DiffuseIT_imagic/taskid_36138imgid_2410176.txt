@@ -1,0 +1,5 @@
+org_img_id: 2410176
+org_cap: A standing, walking, black giraffe stands tall, its coat glistening in the sunlight.
+trg_cap: A standing, walking, patterned giraffe stands tall, its coat glistening in the sunlight.
+instruction: Change the color of the giraffe from black to patterned.
+taskid: 36138

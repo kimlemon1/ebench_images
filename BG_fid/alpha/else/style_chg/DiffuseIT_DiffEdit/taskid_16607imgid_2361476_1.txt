@@ -1,0 +1,5 @@
+org_img_id: 2361476_1
+org_cap: a young woman with a bright smile holds a white umbrella over her head, shielding her from the evening rain.
+trg_cap: The art, in a watercolor painting style, depicts a young woman with a bright smile holding a white umbrella over her head, shielding her from the evening rain.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 16607

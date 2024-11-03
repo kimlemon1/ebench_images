@@ -1,0 +1,5 @@
+org_img_id: 2357887
+org_cap: person holds a sports ball in her hand, a bright smile on her face.
+trg_cap: At a bustling train station, a person holds a sports ball in her hand, a bright smile on her face.
+instruction: Change the background to train station.
+taskid: 119532

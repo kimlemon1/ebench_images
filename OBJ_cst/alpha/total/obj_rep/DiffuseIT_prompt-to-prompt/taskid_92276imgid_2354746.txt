@@ -1,0 +1,5 @@
+org_img_id: 2354746
+org_cap: a red motorcycle with a helmeted rider and a child sitting behind him, holding onto the back of the motorcycle, speeding down a busy city street.
+trg_cap: "the red sink speeding down a busy city street."
+instruction: Replace the motorcycle with a sink.
+taskid: 92276

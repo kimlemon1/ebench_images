@@ -1,0 +1,5 @@
+org_img_id: 2375386
+org_cap: an orange cat lying and sitting in a small gift box surrounded by crumpled up wrapping paper and torn gift tags.
+trg_cap: "an orange remote surrounded by crumpled up wrapping paper and torn gift tags."
+instruction: Replace the cat with a remote.
+taskid: 77829

@@ -1,0 +1,5 @@
+org_img_id: 2371770
+org_cap: person pedals a red, white, and blue bicycle with a distinctive design on the jersey, weaving through traffic on a busy street.
+trg_cap: person pedals a large red, white, and blue bicycle with a distinctive design on the jersey, weaving through traffic on a busy street.
+instruction: Make the bicycle larger.
+taskid: 104735

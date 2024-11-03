@@ -1,0 +1,5 @@
+org_img_id: 2385836
+org_cap: The room features a worn-out couch with a wooden coffee table in front of it, a gray tv mounted on the wall above a brick fireplace with a worn-out rug in front of it.
+trg_cap: The room features a worn-out couch with a wooden coffee table in front of it, a gray tv mounted on the wall above a brick fireplace with a worn-out rug in front of it, and a chair in front of the tv.
+instruction: Add a chair in front of the tv.
+taskid: 95725

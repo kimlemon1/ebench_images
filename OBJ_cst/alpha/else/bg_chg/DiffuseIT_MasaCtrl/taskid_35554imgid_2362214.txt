@@ -1,0 +1,5 @@
+org_img_id: 2362214
+org_cap: A single orange orange sits on a wooden cutting board, its slightly cracked to reveal a slice of juicy and a sprinkle of.
+trg_cap: A single orange orange sits on a wooden cutting board, its slightly cracked to reveal a slice of juicy and a sprinkle of, set against the backdrop of ancient ruins.
+instruction: Change the background to ancient ruins.
+taskid: 35554

@@ -1,0 +1,5 @@
+org_img_id: 2395905
+org_cap: Sitting person sits astride a horse, with a horse and buggy parked nearby.
+trg_cap: Sitting small person sits astride a horse, with a horse and buggy parked nearby.
+instruction: Make the person smaller.
+taskid: 121582

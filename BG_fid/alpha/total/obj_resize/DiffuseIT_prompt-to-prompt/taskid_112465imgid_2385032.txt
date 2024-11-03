@@ -1,0 +1,5 @@
+org_img_id: 2385032
+org_cap: A skateboarder leaps off the ground, his legs bent and his black skateboard as he spins and flips through the air.
+trg_cap: A skateboarder leaps off the ground, his legs bent and his large black skateboard as he spins and flips through the air.
+instruction: Make the skateboard larger.
+taskid: 112465

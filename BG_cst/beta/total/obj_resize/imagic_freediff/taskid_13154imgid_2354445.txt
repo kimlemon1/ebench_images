@@ -1,0 +1,5 @@
+org_img_id: 2354445
+org_cap: Smiling person snowboarding on a day, her jacket and goggles a stark contrast to the crisp white powder and bright blue sky.
+trg_cap: Smiling small person snowboarding on a day, her jacket and goggles a stark contrast to the crisp white powder and bright blue sky.
+instruction: Make the person smaller.
+taskid: 13154

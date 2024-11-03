@@ -1,0 +1,5 @@
+org_img_id: 2363969
+org_cap: person throws a pitch on the mound.
+trg_cap: "Umbrella throws its pitch."
+instruction: Replace the person with a umbrella.
+taskid: 71953

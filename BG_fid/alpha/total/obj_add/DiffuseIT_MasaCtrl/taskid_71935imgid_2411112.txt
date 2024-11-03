@@ -1,0 +1,5 @@
+org_img_id: 2411112
+org_cap: a walking, standing giraffe stands, its neck and legs visible as it through a dense forest filled with tall trees and lush green grass.
+trg_cap: A walking, standing giraffe stands, its neck and legs visible as it moves through a dense forest filled with tall trees and lush green grass, with a cow next to it.
+instruction: Add a cow next to the giraffe.
+taskid: 71935

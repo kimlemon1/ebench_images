@@ -1,0 +1,5 @@
+org_img_id: 2325016
+org_cap: a person holds a slice of pizza with a crispy crust and melted mozzarella cheese, the plate flapping in the wind as they walk down a bustling street lined with food and pedestrians, passing a pink truck.
+trg_cap: A person holds a slice of pizza with a crispy crust and melted mozzarella cheese, the plate flapping in the wind as they walk down a bustling street lined with food and pedestrians, passing a pink truck, with a snow field visible in the distance.
+instruction: Change the background to snow field.
+taskid: 118643

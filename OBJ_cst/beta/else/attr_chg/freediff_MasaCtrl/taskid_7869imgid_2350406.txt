@@ -1,0 +1,5 @@
+org_img_id: 2350406
+org_cap: Person at a kitchen table, surrounded by the remnants of a birthday celebration, with a slice of brown chocolate cake in front of him and candles still burning on top.
+trg_cap: Person at a kitchen table, surrounded by the remnants of a birthday celebration, with a slice of ivory chocolate cake in front of him and candles still burning on top.
+instruction: Change the color of the cake from brown to ivory.
+taskid: 7869

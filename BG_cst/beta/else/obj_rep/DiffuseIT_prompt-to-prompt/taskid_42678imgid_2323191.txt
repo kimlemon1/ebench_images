@@ -1,0 +1,5 @@
+org_img_id: 2323191
+org_cap: the clock is a large, ornate clock with a black face and roman numerals, mounted on a tall, ornate pole with a decorative finial at the top.
+trg_cap: The motorcycle is mounted on a tall, ornate pole with a decorative finial at the top.
+instruction: Replace the clock with a motorcycle.
+taskid: 42678

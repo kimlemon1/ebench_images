@@ -1,0 +1,5 @@
+org_img_id: 2401711
+org_cap: a wood, black skateboard is a skateboard mounted on wheels, with a flat surface for the rider to stand on, and a tail and nose for turning and stopping.
+trg_cap: a wood, white skateboard is a skateboard mounted on wheels, with a flat surface for the rider to stand on, and a tail and nose for turning and stopping.
+instruction: Change the color of the skateboard from black to white.
+taskid: 70524

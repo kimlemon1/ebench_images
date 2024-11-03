@@ -1,0 +1,5 @@
+org_img_id: 2410881
+org_cap: a young woman with a brown backpack stands alone on the train tracks, camera in hand, gazing down the rails.
+trg_cap: a young woman with a pink backpack stands alone on the train tracks, camera in hand, gazing down the rails.
+instruction: Change the color of the backpack from brown to pink.
+taskid: 53411

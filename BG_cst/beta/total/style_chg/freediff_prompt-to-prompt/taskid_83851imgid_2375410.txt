@@ -1,0 +1,5 @@
+org_img_id: 2375410
+org_cap: a silver bus with tinted windows and a sleek design glides down the street, flanked by pedestrians and shoppers, with a neon sign above a nearby storefront reading in bold letters "person".
+trg_cap: The pop art style artwork features a silver bus with tinted windows and a sleek design gliding down the street, flanked by pedestrians and shoppers, with a neon sign above a nearby storefront reading in bold letters "person."
+instruction: Change the style if the image to pop art style.
+taskid: 83851

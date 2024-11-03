@@ -1,0 +1,5 @@
+org_img_id: 2411603
+org_cap: a person jumping skateboarding rides a skateboard down a concrete ramp at night, the wheels glowing with a soft blue light.
+trg_cap: A grayscale photo shows a person skateboarding down a concrete ramp at night, with the wheels glowing a soft blue light.
+instruction: Change the style if the image to grey scale.
+taskid: 103505

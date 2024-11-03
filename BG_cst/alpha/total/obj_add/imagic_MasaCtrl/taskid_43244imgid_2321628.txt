@@ -1,0 +1,5 @@
+org_img_id: 2321628
+org_cap: the clock on the facade
+trg_cap: the clock on the facade with the truck behind it
+instruction: Add a truck behind the clock.
+taskid: 43244

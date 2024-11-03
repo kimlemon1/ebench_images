@@ -1,0 +1,5 @@
+org_img_id: 2405131
+org_cap: Old, standing, playing person throws a frisbee, arm and wrist as the disc soars through the air.
+trg_cap: Dog throws a frisbee, its arm and wrist as the disc soars through the air.
+instruction: Replace the person with a dog.
+taskid: 30442

@@ -1,0 +1,5 @@
+org_img_id: 2335254
+org_cap: a lone rider on a horse across a sun-kissed meadow, the wind whipping through their hair as they approach a herd of grazing cattle.
+trg_cap: An ancient Egyptian-style artwork depicts a lone rider on a horse crossing a sun-kissed meadow, the wind whipping through their hair as they approach a herd of grazing cattle.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 2073

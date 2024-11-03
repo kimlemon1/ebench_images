@@ -1,0 +1,5 @@
+org_img_id: 2360894
+org_cap: A class 66 locomotive hauls a long yellow freight train across the countryside, its yellow train standing out against the green fields and blue sky.
+trg_cap: A class 66 locomotive hauls a long pink freight train across the countryside, its pink train standing out against the green fields and blue sky.
+instruction: Change the color of the train from yellow to pink.
+taskid: 115968

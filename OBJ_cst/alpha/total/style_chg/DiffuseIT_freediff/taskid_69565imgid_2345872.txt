@@ -1,0 +1,5 @@
+org_img_id: 2345872
+org_cap: a lone person in a gray outfit walks briskly through the autumnal scene, backpack slung over his shoulder, as the vibrant yellow leaves of the trees flutter in the wind, while the soft glow of streetlights illuminates the darkening evening.
+trg_cap: A mosaic art depicts a lone person in a gray outfit walking briskly through an autumnal scene, with a backpack slung over his shoulder, as vibrant yellow leaves flutter in the wind and the soft glow of streetlights illuminates the darkening evening.
+instruction: Change the style if the image to mosaic art.
+taskid: 69565

@@ -1,0 +1,5 @@
+org_img_id: 2362253
+org_cap: A dark blue airplane flies across a bright blue sky with a small black bird flying alongside it.
+trg_cap: A dotted airplane flies across a bright blue sky with a small black bird flying alongside it.
+instruction: Change the color of the airplane from dark blue to dotted.
+taskid: 110787

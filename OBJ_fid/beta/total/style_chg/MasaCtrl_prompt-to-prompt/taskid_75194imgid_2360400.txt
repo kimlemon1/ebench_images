@@ -1,0 +1,5 @@
+org_img_id: 2360400
+org_cap: the little boy with bright blue eyes and a mop of blond hair held a glazed donut in his chubby fist, the donut smeared with pink frosting and sprinkles.
+trg_cap: A Van Gogh style art features a little boy with bright blue eyes and a mop of blond hair holding a glazed donut smeared with pink frosting and sprinkles in his chubby fist.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 75194

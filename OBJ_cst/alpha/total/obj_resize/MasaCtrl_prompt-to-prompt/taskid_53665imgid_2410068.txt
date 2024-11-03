@@ -1,0 +1,5 @@
+org_img_id: 2410068
+org_cap: The silver laptop is a color with a effect on the lid.
+trg_cap: The small silver laptop is a color with a effect on the lid.
+instruction: Make the laptop smaller.
+taskid: 53665

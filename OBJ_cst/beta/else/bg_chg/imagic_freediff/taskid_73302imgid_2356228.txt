@@ -1,0 +1,5 @@
+org_img_id: 2356228
+org_cap: a yellow bus, its wheels screeching as it navigates the winding mountain road.
+trg_cap: a yellow bus, its wheels screeching as it navigates the winding road along the beach.
+instruction: Change the background to beach.
+taskid: 73302

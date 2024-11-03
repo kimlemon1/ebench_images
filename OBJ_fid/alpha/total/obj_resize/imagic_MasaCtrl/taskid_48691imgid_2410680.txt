@@ -1,0 +1,5 @@
+org_img_id: 2410680
+org_cap: a person in a bright blue snowboard, his bright blue snowboard and helmet visible.
+trg_cap: a small person in a bright blue snowboard, his bright blue snowboard and helmet visible.
+instruction: Make the person smaller.
+taskid: 48691

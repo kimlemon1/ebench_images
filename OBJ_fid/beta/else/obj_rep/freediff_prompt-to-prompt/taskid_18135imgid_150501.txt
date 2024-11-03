@@ -1,0 +1,5 @@
+org_img_id: 150501
+org_cap: "person in the kitchen, wearing a uniform and a cup of coffee, with a counter and sink behind him and a blue wall to his left."
+trg_cap: remote in the kitchen, with a counter and sink behind it and a blue wall to the left.
+instruction: Replace the person with a remote.
+taskid: 18135

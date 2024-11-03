@@ -1,0 +1,5 @@
+org_img_id: 2332935
+org_cap: A gray train rumbles along the tracks, its wheels clicking on the steel rails as it approaches the station platform, with the conductor standing at the front of the train and the cars stretching out behind it.
+trg_cap: A gray train rumbles along the tracks, its wheels clicking on the steel rails as it approaches the station platform, with the conductor standing at the front of the train and the cars stretching out behind it, followed by a car trailing behind.
+instruction: Add a car behind the train.
+taskid: 33458

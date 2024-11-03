@@ -1,0 +1,5 @@
+org_img_id: 2413096
+org_cap: A red fire hydrant stands tall against a backdrop of leafy trees and a distant cityscape, its red fire hydrant gleaming in the sunlight.
+trg_cap: A red fire hydrant stands tall against a backdrop of a dimly lit cave, its red fire hydrant gleaming in the sunlight.
+instruction: Change the background to cave.
+taskid: 101686

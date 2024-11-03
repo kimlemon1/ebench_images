@@ -1,0 +1,5 @@
+org_img_id: 2323229
+org_cap: A black cat is on a laptop, its body across the keyboard and screen, with its paws and its tail around the laptop's edge.
+trg_cap: A calico cat is on a laptop, its body across the keyboard and screen, with its paws and its tail around the laptop's edge.
+instruction: Change the color of the cat from black to calico.
+taskid: 4956

@@ -1,0 +1,5 @@
+org_img_id: 2368592
+org_cap: a standing giraffe stands in a sandy enclosure, its neck bent, its giraffe glistening in the sunlight, with a water tower visible in the background.
+trg_cap: a small standing giraffe stands in a sandy enclosure, its neck bent, its giraffe glistening in the sunlight, with a water tower visible in the background.
+instruction: Make the giraffe smaller.
+taskid: 58319

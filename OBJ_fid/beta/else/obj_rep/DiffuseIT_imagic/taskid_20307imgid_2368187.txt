@@ -1,0 +1,5 @@
+org_img_id: 2368187
+org_cap: playing person his arm as he his eyes on the court.
+trg_cap: "playing horse as he keeps his eyes on the court."
+instruction: Replace the person with a horse.
+taskid: 20307

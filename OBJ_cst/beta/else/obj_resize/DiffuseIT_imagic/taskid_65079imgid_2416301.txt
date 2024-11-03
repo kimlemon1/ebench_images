@@ -1,0 +1,5 @@
+org_img_id: 2416301
+org_cap: walking bear, walking bear fur, walking bear eyes, and walking bear paws.
+trg_cap: small walking bear, small walking bear fur, small walking bear eyes, and small walking bear paws.
+instruction: Make the bear smaller.
+taskid: 65079

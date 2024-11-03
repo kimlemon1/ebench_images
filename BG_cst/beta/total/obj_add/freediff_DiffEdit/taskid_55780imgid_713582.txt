@@ -1,0 +1,5 @@
+org_img_id: 713582
+org_cap: a person, person, off the concrete bench, his orange skateboard out from under his feet as he through the air, surrounded by vibrant graffiti and urban decay.
+trg_cap: a person, person, off the concrete bench, his orange skateboard out from under his feet as he through the air, surrounded by vibrant graffiti and urban decay, with a car next to the skateboard.
+instruction: Add a car next to the skateboard.
+taskid: 55780

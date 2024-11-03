@@ -1,0 +1,5 @@
+org_img_id: 2390581
+org_cap: person kicks the ball with her right foot, her ponytail with each step as she across the grassy field.
+trg_cap: A watercolor painting style art depicts a person kicking a ball with her right foot, her ponytail swaying with each step as she moves across the grassy field.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 63078

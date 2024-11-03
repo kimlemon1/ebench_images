@@ -1,0 +1,5 @@
+org_img_id: 2323628
+org_cap: A silver bowl sits on a green tablecloth, surrounded by a group of people in casual attire, with a few utensils and ingredients scattered around.
+trg_cap: The surfboard, surrounded by a group of people in casual attire, with a few utensils and ingredients scattered around.
+instruction: Replace the bowl with a surfboard.
+taskid: 121407

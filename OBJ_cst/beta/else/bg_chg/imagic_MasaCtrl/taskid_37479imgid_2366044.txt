@@ -1,0 +1,5 @@
+org_img_id: 2366044
+org_cap: skating person rides a snowboard down a giant pipe, his skating feet as he navigates the icy surface, his skating movements as he carves through the snow and ice.
+trg_cap: In a museum setting, a skating person rides a snowboard down a giant pipe, his skating feet as he navigates the icy surface, his skating movements as he carves through the snow and ice.
+instruction: Change the background to museum.
+taskid: 37479

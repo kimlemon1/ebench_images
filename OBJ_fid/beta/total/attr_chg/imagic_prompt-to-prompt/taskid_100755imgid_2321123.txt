@@ -1,0 +1,5 @@
+org_img_id: 2321123
+org_cap: a white horse on the sidewalk, its reins tied to a street sign with a sign that reads "no horse riding allowed".
+trg_cap: a striped horse on the sidewalk, its reins tied to a street sign with a sign that reads "no horse riding allowed".
+instruction: Change the color of the horse from white to striped.
+taskid: 100755

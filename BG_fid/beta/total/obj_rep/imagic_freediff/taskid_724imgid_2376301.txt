@@ -1,0 +1,5 @@
+org_img_id: 2376301
+org_cap: the small, yellow sink with a rounded edge and a single faucet sits atop a wooden floor, surrounded by worn wooden cabinets and a small, rectangular mirror above it.
+trg_cap: The person sits atop a wooden floor, surrounded by worn wooden cabinets and a small, rectangular mirror above them.
+instruction: Replace the sink with a person.
+taskid: 724

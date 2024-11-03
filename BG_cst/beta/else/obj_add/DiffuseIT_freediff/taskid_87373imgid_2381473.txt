@@ -1,0 +1,5 @@
+org_img_id: 2381473
+org_cap: Snowboarding person through the snow-covered mountain, his snowboard over the powder as he his weight and his speed to the terrain.
+trg_cap: Snowboarding person through the snow-covered mountain, his snowboard over the powder as he his weight and his speed to the terrain, with an elephant in front of him.
+instruction: Add a elephant in front of the person.
+taskid: 87373

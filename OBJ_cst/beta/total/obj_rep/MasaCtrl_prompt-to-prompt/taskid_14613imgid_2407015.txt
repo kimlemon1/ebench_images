@@ -1,0 +1,5 @@
+org_img_id: 2407015
+org_cap: Person, wearing a bright orange life jacket and a pair of swim trunks, is on a water ski, his legs and his arms.
+trg_cap: Fork is on a water ski, its legs and its arms.
+instruction: Replace the person with a fork.
+taskid: 14613

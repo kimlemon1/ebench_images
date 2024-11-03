@@ -1,0 +1,5 @@
+org_img_id: 285866
+org_cap: I hold a pink donut in my hand, and in the background, a white car and a building with a cartoon character on the roof are visible.
+trg_cap: I hold a orange donut in my hand, and in the background, a white car and a building with a cartoon character on the roof are visible.
+instruction: Change the color of the donut from pink to orange.
+taskid: 25801

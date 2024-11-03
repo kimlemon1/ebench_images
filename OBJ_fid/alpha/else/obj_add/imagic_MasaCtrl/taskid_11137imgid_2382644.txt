@@ -1,0 +1,5 @@
+org_img_id: 2382644
+org_cap: A sitting person in a brown wood boat, wearing an umbrella and holding a fishing rod.
+trg_cap: A sitting person in a brown wood boat, wearing an umbrella and holding a fishing rod, with a snowboard next to them.
+instruction: Add a snowboard next to the person.
+taskid: 11137

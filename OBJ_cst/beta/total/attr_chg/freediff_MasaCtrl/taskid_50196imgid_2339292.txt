@@ -1,0 +1,5 @@
+org_img_id: 2339292
+org_cap: A silver laptop sits on a worn wooden desk, its surface a stark contrast to the rustic wood beneath it, with a leather-bound notebook and a fountain pen lying nearby, surrounded by the soft glow of the laptop screen.
+trg_cap: A brown laptop sits on a worn wooden desk, its surface a stark contrast to the rustic wood beneath it, with a leather-bound notebook and a fountain pen lying nearby, surrounded by the soft glow of the laptop screen.
+instruction: Change the color of the laptop from silver to brown.
+taskid: 50196

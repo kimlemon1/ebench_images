@@ -1,0 +1,5 @@
+org_img_id: 2381950
+org_cap: The blue parking meter casts a long shadow on the sidewalk, its reflecting the bright sunlight and surrounded by a grid of concrete and asphalt.
+trg_cap: The small blue parking meter casts a long shadow on the sidewalk, its reflecting the bright sunlight and surrounded by a grid of concrete and asphalt.
+instruction: Make the parking meter smaller.
+taskid: 93221

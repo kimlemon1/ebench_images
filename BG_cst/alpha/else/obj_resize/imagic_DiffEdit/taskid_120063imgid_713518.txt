@@ -1,0 +1,5 @@
+org_img_id: 713518
+org_cap: a brown dog on a wooden desk, surrounded by papers, pens, and a laptop.
+trg_cap: a large brown dog on a wooden desk, surrounded by papers, pens, and a laptop.
+instruction: Make the dog larger.
+taskid: 120063

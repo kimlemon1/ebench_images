@@ -1,0 +1,5 @@
+org_img_id: 2390805
+org_cap: a bright yellow train car sits on the train, its rusty train and faded paint job telling a story of years of use, with scratches and scuffs covering its surface.
+trg_cap: A bright yellow train car sits on the train, its rusty train and faded paint job telling a story of years of use, with scratches and scuffs covering its surface, reminiscent of the worn equipment in an old gym.
+instruction: Change the background to gym.
+taskid: 89124

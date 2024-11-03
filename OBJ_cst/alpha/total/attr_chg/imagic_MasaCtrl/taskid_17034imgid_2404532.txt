@@ -1,0 +1,5 @@
+org_img_id: 2404532
+org_cap: An open brown bottle sits next to a steaming hot plate of spaghetti with meatballs, garnished with parsley and served with a side of crusty bread.
+trg_cap: An open tan bottle sits next to a steaming hot plate of spaghetti with meatballs, garnished with parsley and served with a side of crusty bread.
+instruction: Change the color of the bottle from brown to tan.
+taskid: 17034

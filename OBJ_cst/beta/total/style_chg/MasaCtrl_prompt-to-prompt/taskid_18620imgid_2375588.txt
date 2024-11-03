@@ -1,0 +1,5 @@
+org_img_id: 2375588
+org_cap: A young white zebra stands in a grassy clearing, its fur glistening in the sunlight.
+trg_cap: A pencil sketch art depicts a young white zebra standing in a grassy clearing, its fur glistening in the sunlight.
+instruction: Change the style if the image to pencil sketch.
+taskid: 18620

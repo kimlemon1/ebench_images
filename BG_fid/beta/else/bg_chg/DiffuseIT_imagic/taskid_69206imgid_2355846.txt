@@ -1,0 +1,5 @@
+org_img_id: 2355846
+org_cap: "a person in a red jacket and bright yellow pants on a sunny winter morning, their skis in their wake."
+trg_cap: a person in a red jacket and bright yellow pants on a sunny winter morning at a train station, their skis in their wake.
+instruction: Change the background to train station.
+taskid: 69206

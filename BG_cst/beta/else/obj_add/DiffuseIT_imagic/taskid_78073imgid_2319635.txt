@@ -1,0 +1,5 @@
+org_img_id: 2319635
+org_cap: a young woman with long hair and wearing sunglasses, holding a yellow frisbee in her hand, with a green jacket and jeans, standing on a grassy hill with trees in the background.
+trg_cap: a young woman with long hair and wearing sunglasses, holding a yellow frisbee in her hand, with a green jacket and jeans, standing on a grassy hill with trees in the background, with a dog in front of the frisbee.
+instruction: Add a dog in front of the frisbee.
+taskid: 78073

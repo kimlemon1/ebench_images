@@ -1,0 +1,5 @@
+org_img_id: 2407580_1
+org_cap: person wears a blue necktie.
+trg_cap: In the bustling urban city, the person wears a blue necktie.
+instruction: Change the background to urban city.
+taskid: 63983

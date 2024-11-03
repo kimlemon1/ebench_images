@@ -1,0 +1,5 @@
+org_img_id: 2389809
+org_cap: The scene is focused on the physical details of the white umbrella, with a group of people standing in a rural landscape under the white umbrella.
+trg_cap: The scene is focused on the physical details of the checkered umbrella, with a group of people standing in a rural landscape under the checkered umbrella.
+instruction: Change the color of the umbrella from white to checkered.
+taskid: 80310

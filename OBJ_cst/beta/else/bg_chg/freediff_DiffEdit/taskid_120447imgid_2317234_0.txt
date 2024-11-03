@@ -1,0 +1,5 @@
+org_img_id: 2317234_0
+org_cap: a little girl with bright blue eyes and curly blonde hair sits in front of a chocolate cake.
+trg_cap: A little girl with bright blue eyes and curly blonde hair sits in front of a chocolate cake in a gym.
+instruction: Change the background to gym.
+taskid: 120447

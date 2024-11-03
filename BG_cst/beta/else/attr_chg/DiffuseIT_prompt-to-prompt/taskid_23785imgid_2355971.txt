@@ -1,0 +1,5 @@
+org_img_id: 2355971
+org_cap: The sink is a white, filled sink with a single faucet in the center, surrounded by a patchwork of retro-style tiles featuring geometric patterns in shades of red, orange, and yellow.
+trg_cap: The sink is a white, empty sink with a single faucet in the center, surrounded by a patchwork of retro-style tiles featuring geometric patterns in shades of red, orange, and yellow.
+instruction: Change the state of the sink from filled to empty.
+taskid: 23785

@@ -1,0 +1,5 @@
+org_img_id: 2344184
+org_cap: the bus is a white, 40-foot long bus with a rounded front and a flat rear, featuring a large advertisement on the side and a small screen displaying route information on the front.
+trg_cap: The bus is a white, 40-foot long bus with a rounded front and a flat rear, featuring a large advertisement on the side and a small screen displaying route information on the front, set against a background of a grass field.
+instruction: Change the background to grass field.
+taskid: 47520

@@ -1,0 +1,5 @@
+org_img_id: 2392488
+org_cap: an old gray airplane, soaring through the grey sky with a trail of smoke behind it.
+trg_cap: an old purple airplane, soaring through the grey sky with a trail of smoke behind it.
+instruction: Change the color of the airplane from gray to purple.
+taskid: 99182

@@ -1,0 +1,5 @@
+org_img_id: 2336949
+org_cap: a person in a wetsuit and a hooded jacket helps a young boy ride a surfboard in the waves.
+trg_cap: A person in a wetsuit and a hooded jacket helps a young boy ride a surfboard in the waves, with a skateboard on the left side of the surfboard.
+instruction: Add a skateboard on the left side of the surfboard.
+taskid: 5896

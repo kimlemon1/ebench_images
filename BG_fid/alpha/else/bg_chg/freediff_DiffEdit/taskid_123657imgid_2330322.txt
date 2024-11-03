@@ -1,0 +1,5 @@
+org_img_id: 2330322
+org_cap: a red and black kite soars through the gray sky, its kite billowing as it catches the wind.
+trg_cap: A red and black kite soars through the gray sky, its kite billowing as it catches the wind, reminiscent of the vibrant colors often seen in a gym's sports equipment.
+instruction: Change the background to gym.
+taskid: 123657

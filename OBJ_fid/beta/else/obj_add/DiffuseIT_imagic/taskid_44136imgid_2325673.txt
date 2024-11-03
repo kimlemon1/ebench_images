@@ -1,0 +1,5 @@
+org_img_id: 2325673
+org_cap: A horse with a worn saddle and rusty harness stands tied to a colorful colonial - style building with bright red, blue, and yellow hues, while a vintage car with a faded paint job and rusty bumper sits idle on the adjacent street.
+trg_cap: A horse with a worn saddle and rusty harness stands tied to a colorful colonial-style building with bright red, blue, and yellow hues, with a traffic light behind the horse, while a vintage car with a faded paint job and rusty bumper sits idle on the adjacent street.
+instruction: Add a traffic light behind the horse.
+taskid: 44136

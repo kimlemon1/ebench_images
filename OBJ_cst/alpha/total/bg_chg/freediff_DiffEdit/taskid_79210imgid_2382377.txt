@@ -1,0 +1,5 @@
+org_img_id: 2382377
+org_cap: The gray, open laptop sits on a cluttered desk, surrounded by scattered papers, a broken pen, and a lone rubber chicken.
+trg_cap: The gray, open laptop sits on a cluttered desk in a bustling train station, surrounded by scattered papers, a broken pen, and a lone rubber chicken.
+instruction: Change the background to train station.
+taskid: 79210

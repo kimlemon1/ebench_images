@@ -1,0 +1,5 @@
+org_img_id: 2412951_1
+org_cap: a person with a beard and wearing glasses, a black shirt with a pattern of small squares, and a black tie, holds a black cell phone.
+trg_cap: a person with a beard and wearing glasses, a black shirt with a pattern of small squares, and a black tie, holds a black cell phone with a sports ball on its left side.
+instruction: Add a sports ball on the left side of the cell phone.
+taskid: 61681

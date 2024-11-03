@@ -1,0 +1,5 @@
+org_img_id: 2404387
+org_cap: A stone and wood bench sits alone on a worn dirt path, surrounded by tall trees with yellowing leaves and a grey sky with scattered clouds.
+trg_cap: A large stone and wood bench sits alone on a worn dirt path, surrounded by tall trees with yellowing leaves and a grey sky with scattered clouds.
+instruction: Make the bench larger.
+taskid: 71118

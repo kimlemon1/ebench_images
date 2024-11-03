@@ -1,0 +1,5 @@
+org_img_id: 2317653
+org_cap: person the bases with a microphone in hand.
+trg_cap: A pop art style artwork features a person at the base with a microphone in hand.
+instruction: Change the style if the image to pop art style.
+taskid: 79771

@@ -1,0 +1,5 @@
+org_img_id: 285850
+org_cap: For a moment, person lay on the bed, her legs crossed and her feet flat on the mattress, wearing a pair of brown sandals and a yellow tank top.
+trg_cap: For a moment, the small person lay on the bed, her legs crossed and her feet flat on the mattress, wearing a pair of brown sandals and a yellow tank top.
+instruction: Make the person smaller.
+taskid: 38070

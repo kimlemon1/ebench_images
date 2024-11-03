@@ -1,0 +1,5 @@
+org_img_id: 2326960
+org_cap: a person wearing a backpack with a person sitting inside.
+trg_cap: A person wearing a book.
+instruction: Replace the backpack with a book.
+taskid: 83045

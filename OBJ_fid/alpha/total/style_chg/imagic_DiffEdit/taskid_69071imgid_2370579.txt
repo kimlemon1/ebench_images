@@ -1,0 +1,5 @@
+org_img_id: 2370579
+org_cap: white surfboard and person ride the waves together, with person's blonde hair as she through the whitewater.
+trg_cap: An ancient Egyptian-style artwork depicts a white surfboard and a person riding the waves together, with the person's blonde hair flowing as she moves through the whitewater.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 69071

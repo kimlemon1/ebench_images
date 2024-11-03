@@ -1,0 +1,5 @@
+org_img_id: 2354397
+org_cap: a vibrant red tablecloth provides a pop of color against the rustic wooden table, where a bounty of freshly harvested carrots and bunches of bright green broccoli sit neatly arranged, their earthy aroma wafting up to greet passersby.
+trg_cap: A pencil sketch art features a vibrant red tablecloth that provides a pop of color against the rustic wooden table, where a bounty of freshly harvested carrots and bunches of bright green broccoli sit neatly arranged, their earthy aroma wafting up to greet passersby.
+instruction: Change the style if the image to pencil sketch.
+taskid: 89894

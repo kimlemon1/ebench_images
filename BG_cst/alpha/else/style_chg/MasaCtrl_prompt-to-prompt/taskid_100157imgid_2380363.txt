@@ -1,0 +1,5 @@
+org_img_id: 2380363
+org_cap: a zebra eating in its enclosure.
+trg_cap: A watercolor painting depicts a zebra eating in its enclosure.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 100157

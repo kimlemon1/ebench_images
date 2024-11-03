@@ -1,0 +1,5 @@
+org_img_id: 2332565
+org_cap: "person throws a frisbee with a focused expression on his face, his eyes fixed on the target, which soars through the air towards the intricate tilework and arches of the ancient structure."
+trg_cap: A large person throws a frisbee with a focused expression on his face, his eyes fixed on the target, which soars through the air towards the intricate tilework and arches of the ancient structure.
+instruction: Make the person larger.
+taskid: 35585

@@ -1,0 +1,5 @@
+org_img_id: 2341281
+org_cap: a person in a black wetsuit rides a surfboard, his arms and his hands the board.
+trg_cap: a person in a black wetsuit rides a surfboard, a banana on his shoulder, his arms and his hands the board.
+instruction: Add a banana on the person.
+taskid: 110860

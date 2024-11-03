@@ -1,0 +1,5 @@
+org_img_id: 2344037
+org_cap: A red metal train glides effortlessly up the mountain, its wheels clicking against the tracks as it winds its way through the lush greenery.
+trg_cap: A pop art style artwork features a red metal train gliding effortlessly up the mountain, its wheels clicking against the tracks as it winds its way through the lush greenery.
+instruction: Change the style if the image to pop art style.
+taskid: 44467

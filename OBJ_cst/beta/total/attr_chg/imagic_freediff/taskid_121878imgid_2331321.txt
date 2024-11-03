@@ -1,0 +1,5 @@
+org_img_id: 2331321
+org_cap: a walking person, a black umbrella to protect themselves from the rain.
+trg_cap: a walking person, a red umbrella to protect themselves from the rain.
+instruction: Change the color of the umbrella from black to red.
+taskid: 121878

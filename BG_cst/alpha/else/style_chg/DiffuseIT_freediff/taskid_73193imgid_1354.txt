@@ -1,0 +1,5 @@
+org_img_id: 1354
+org_cap: a white vase sits on a table, surrounded by a bouquet of white flowers and a few decorative items, with a blue and white tablecloth in the background.
+trg_cap: The art, in a watercolor painting style, features a white vase sitting on a table surrounded by a bouquet of white flowers and a few decorative items, with a blue and white tablecloth in the background.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 73193

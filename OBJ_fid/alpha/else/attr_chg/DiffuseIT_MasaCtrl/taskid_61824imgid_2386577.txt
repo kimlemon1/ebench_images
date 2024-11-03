@@ -1,0 +1,5 @@
+org_img_id: 2386577
+org_cap: The red fire hydrant is a cylinder with a top and a bottom, covered in a layer of frost and snow, with a puddle of water at its base.
+trg_cap: The cream colored fire hydrant is a cylinder with a top and a bottom, covecream colored in a layer of frost and snow, with a puddle of water at its base.
+instruction: Change the color of the fire hydrant from red to cream colored.
+taskid: 61824

@@ -1,0 +1,5 @@
+org_img_id: 2339630
+org_cap: a bright red fire hydrant stands alone on the sidewalk, its fire hydrant gleaming in the sunlight, surrounded by a patch of grass and a few scattered leaves.
+trg_cap: A large, bright red fire hydrant stands alone on the sidewalk, its fire hydrant gleaming in the sunlight, surrounded by a patch of grass and a few scattered leaves.
+instruction: Make the fire hydrant larger.
+taskid: 30560

@@ -1,0 +1,5 @@
+org_img_id: 2379172
+org_cap: The bouquet of pink roses fills the clear glass vase, their delicate petals floating gently in the water, surrounded by a soft layer of condensation on the inside of the vase.
+trg_cap: The bouquet of pink roses fills the cup, its delicate petals floating gently in the water.
+instruction: Replace the vase with a cup.
+taskid: 109051

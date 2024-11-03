@@ -1,0 +1,5 @@
+org_img_id: 2372795
+org_cap: Surfing person, on his white surfboard, his eyes on the horizon.
+trg_cap: The art, in a pop art style, features a surfing person on his white surfboard with his eyes on the horizon.
+instruction: Change the style if the image to pop art style.
+taskid: 108512

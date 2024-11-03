@@ -1,0 +1,5 @@
+org_img_id: 2342829
+org_cap: a middle-aged woman with a worn face and a tangled mess of brown hair, her eyes fixed intently on the black cell phone.
+trg_cap: A middle-aged woman with a worn face and a tangled mess of brown hair, her eyes fixed intently on the black cell phone, stood amidst the dense foliage of a tropical jungle.
+instruction: Change the background to tropical jungle.
+taskid: 49627

@@ -1,0 +1,5 @@
+org_img_id: 2349648
+org_cap: A brown cat lies beside a car tire, its fur matted and dirty from the damp pavement.
+trg_cap: A small brown cat lies beside a car tire, its fur matted and dirty from the damp pavement.
+instruction: Make the cat smaller.
+taskid: 123840

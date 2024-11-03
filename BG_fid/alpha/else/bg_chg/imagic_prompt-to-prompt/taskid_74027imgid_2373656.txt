@@ -1,0 +1,5 @@
+org_img_id: 2373656
+org_cap: the room features a plush king - size bed with a modern headboard, a comfortable couch with a glass coffee table, and a large flat - screen tv mounted on the wall.
+trg_cap: The room, located within a state-of-the-art space station, features a plush king-size bed with a modern headboard, a comfortable couch with a glass coffee table, and a large flat-screen TV mounted on the wall.
+instruction: Change the background to space station.
+taskid: 74027

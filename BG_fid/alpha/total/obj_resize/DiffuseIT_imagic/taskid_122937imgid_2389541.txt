@@ -1,0 +1,5 @@
+org_img_id: 2389541
+org_cap: a lone person, standing and surfing, wet, their arms and legs splayed, the wind whipping their hair into a frenzy, the sun casting a warm glow over the scene.
+trg_cap: a lone, large person, standing and surfing, wet, their arms and legs splayed, the wind whipping their hair into a frenzy, the sun casting a warm glow over the scene.
+instruction: Make the person larger.
+taskid: 122937

@@ -1,0 +1,5 @@
+org_img_id: 2358305
+org_cap: Person at a kitchen table, wearing a blue shirt and glasses, with a refrigerator and cabinets in the background.
+trg_cap: Small person at a kitchen table, wearing a blue shirt and glasses, with a refrigerator and cabinets in the background.
+instruction: Make the person smaller.
+taskid: 4237

@@ -1,0 +1,5 @@
+org_img_id: 2341595
+org_cap: a person, person, a red surfboard through the waves, his movements as he through the water.
+trg_cap: a person, person, a yellow surfboard through the waves, his movements as he through the water.
+instruction: Change the color of the surfboard from red to yellow.
+taskid: 6965

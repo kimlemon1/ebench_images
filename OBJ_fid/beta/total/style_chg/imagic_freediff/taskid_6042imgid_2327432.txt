@@ -1,0 +1,5 @@
+org_img_id: 2327432
+org_cap: Person on his skateboard, his black jeans and white shirt a blur as he performs a kickflip, the wheels of his skateboard against the concrete as he lands.
+trg_cap: An ancient Egyptian-style artwork depicts a person on a skateboard, their black jeans and white shirt a blur as they perform a kickflip, with the wheels of the skateboard against the concrete as they land.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 6042

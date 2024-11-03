@@ -1,0 +1,5 @@
+org_img_id: 2344400
+org_cap: The toilet is a small, enclosed space with a white sink and a white toilet surrounded by a tile design featuring intricate patterns and colors.
+trg_cap: The toilet is a small, enclosed space with a dark brown sink and a dark brown toilet surrounded by a tile design featuring intricate patterns and colors.
+instruction: Change the color of the toilet from white to dark brown.
+taskid: 40968

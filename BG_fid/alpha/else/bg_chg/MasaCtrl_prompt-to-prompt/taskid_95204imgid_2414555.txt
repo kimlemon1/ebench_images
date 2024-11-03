@@ -1,0 +1,5 @@
+org_img_id: 2414555
+org_cap: Person a juicy burger and a tray of condiments at a food truck.
+trg_cap: Person a juicy burger and a tray of condiments at a food truck parked outside the library.
+instruction: Change the background to library.
+taskid: 95204

@@ -1,0 +1,5 @@
+org_img_id: 2326962
+org_cap: a young person wearing a black t-shirt and gray pants, with a skateboard underfoot, across the sunlit asphalt, their ponytail with each movement.
+trg_cap: The mosaic art depicts a young person wearing a black t-shirt and gray pants, with a skateboard underfoot, gliding across the sunlit asphalt, their ponytail swaying with each movement.
+instruction: Change the style if the image to mosaic art.
+taskid: 116914

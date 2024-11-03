@@ -1,0 +1,5 @@
+org_img_id: 2407695
+org_cap: Person stands in a green meadow, wearing a red sweater and gray pants, with a baby carrier strapped to her back, and her hand petting a friendly sheep.
+trg_cap: The chair stands in a green meadow.
+instruction: Replace the person with a chair.
+taskid: 52251

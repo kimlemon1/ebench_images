@@ -1,0 +1,5 @@
+org_img_id: 2349574
+org_cap: the refrigerator features a collage of family photos on the door, with a small bowl perched atop the collection.
+trg_cap: In the restaurant's kitchen, the refrigerator features a collage of family photos on the door, with a small bowl perched atop the collection.
+instruction: Change the background to restaurant.
+taskid: 64307

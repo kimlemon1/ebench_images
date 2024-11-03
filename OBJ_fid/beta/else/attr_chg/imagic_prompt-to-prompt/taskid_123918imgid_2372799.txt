@@ -1,0 +1,5 @@
+org_img_id: 2372799
+org_cap: The clock tower stands tall with its white stone façade and ornate details, featuring a black clock face and a pointed top.
+trg_cap: The clock tower stands tall with its white stone façade and ornate details, featuring a red clock face and a pointed top.
+instruction: Change the color of the clock from black to red.
+taskid: 123918

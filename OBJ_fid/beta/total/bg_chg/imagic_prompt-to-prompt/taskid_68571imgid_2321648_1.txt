@@ -1,0 +1,5 @@
+org_img_id: 2321648_1
+org_cap: a curious little person with a messy blonde haircut and a bright smile sits at a table, her eyes on a plate of food in front of her, her fingers stained with crumbs and sauce as she devours a meal.
+trg_cap: A curious little person with a messy blonde haircut and a bright smile sits at a table in an aquarium, her eyes on a plate of food in front of her, her fingers stained with crumbs and sauce as she devours a meal.
+instruction: Change the background to aquarium.
+taskid: 68571

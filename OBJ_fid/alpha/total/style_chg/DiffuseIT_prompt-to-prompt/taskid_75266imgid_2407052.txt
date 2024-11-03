@@ -1,0 +1,5 @@
+org_img_id: 2407052
+org_cap: The skiing person wore a parka with a hood, leggings, and snow pants, and her hands gripped the poles of her cross-country skis as she glided through the forest.
+trg_cap: The mosaic art depicts a skiing person wearing a parka with a hood, leggings, and snow pants, gripping the poles of her cross-country skis as she glides through the forest.
+instruction: Change the style if the image to mosaic art.
+taskid: 75266

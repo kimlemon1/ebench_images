@@ -1,0 +1,5 @@
+org_img_id: 2333250
+org_cap: "person, wearing a white tank top and blue striped pants, with a cheerful expression on his face."
+trg_cap: A grey scale photo shows a person wearing a white tank top and blue striped pants, with a cheerful expression on his face.
+instruction: Change the style if the image to grey scale.
+taskid: 90187

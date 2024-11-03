@@ -1,0 +1,5 @@
+org_img_id: 2349528
+org_cap: a middle-aged man in his 50s with a round face and a pair of sunglasses is sitting on a motorcycle with a bright yellow body and a black seat, holding a phone in his hand.
+trg_cap: a middle-aged man in his 50s with a round face and a pair of sunglasses is sitting on a small motorcycle with a bright yellow body and a black seat, holding a phone in his hand.
+instruction: Make the motorcycle smaller.
+taskid: 42983

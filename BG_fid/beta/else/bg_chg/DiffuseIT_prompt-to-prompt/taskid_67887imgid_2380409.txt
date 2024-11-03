@@ -1,0 +1,5 @@
+org_img_id: 2380409
+org_cap: a small, dark brown dog with a distinctive black patch on its forehead and a curious expression, with its ears perked up and its tail slightly.
+trg_cap: A small, dark brown dog with a distinctive black patch on its forehead and a curious expression, with its ears perked up and its tail slightly, sat quietly in the corner of the library.
+instruction: Change the background to library.
+taskid: 67887

@@ -1,0 +1,5 @@
+org_img_id: 2319396
+org_cap: the parking meter stands tall, its parking meter weathered to a rusty brown, with a circular face displaying numbers and a lever to insert coins.
+trg_cap: The remote stands tall, with its circular face displaying numbers and a lever to insert coins.
+instruction: Replace the parking meter with a remote.
+taskid: 31469

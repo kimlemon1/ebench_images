@@ -1,0 +1,5 @@
+org_img_id: 2364222
+org_cap: The old, worn-out bus rumbles down the dusty road, its faded yellow paint job and rusty wheels a testament to its years of service.
+trg_cap: The old, worn-out, small bus rumbles down the dusty road, its faded yellow paint job and rusty wheels a testament to its years of service.
+instruction: Make the bus smaller.
+taskid: 16505

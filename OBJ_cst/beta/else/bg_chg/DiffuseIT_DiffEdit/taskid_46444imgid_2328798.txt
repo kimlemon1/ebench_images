@@ -1,0 +1,5 @@
+org_img_id: 2328798
+org_cap: A walking person in a snowy street, a black umbrella.
+trg_cap: A walking person in a snowy street, a black umbrella, reminiscent of the determination seen in a gym.
+instruction: Change the background to gym.
+taskid: 46444

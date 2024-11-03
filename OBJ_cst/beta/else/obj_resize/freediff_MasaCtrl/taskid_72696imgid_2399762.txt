@@ -1,0 +1,5 @@
+org_img_id: 2399762
+org_cap: The scene is focused on a person wearing a vest with a dark cravat.
+trg_cap: The scene is focused on a person wearing a vest with a large dark cravat.
+instruction: Make the tie larger.
+taskid: 72696

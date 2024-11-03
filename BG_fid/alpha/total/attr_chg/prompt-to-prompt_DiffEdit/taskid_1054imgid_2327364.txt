@@ -1,0 +1,5 @@
+org_img_id: 2327364
+org_cap: A white labrador retriever runs joyfully across the sandy beach, white frisbee in mouth, with the sun shining brightly overhead.
+trg_cap: A brown labrador retriever runs joyfully across the sandy beach, brown frisbee in mouth, with the sun shining brightly overhead.
+instruction: Change the color of the frisbee from white to brown.
+taskid: 1054

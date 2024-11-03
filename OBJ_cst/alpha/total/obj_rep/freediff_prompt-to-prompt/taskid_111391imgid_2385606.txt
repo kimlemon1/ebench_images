@@ -1,0 +1,5 @@
+org_img_id: 2385606
+org_cap: A white cat is sitting on a wooden bench, its tail around the leg, its eyes on something in the distance.
+trg_cap: A white sports ball is sitting on a wooden bench.
+instruction: Replace the cat with a sports ball.
+taskid: 111391

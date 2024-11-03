@@ -1,0 +1,5 @@
+org_img_id: 2334743
+org_cap: a gold train running on a track
+trg_cap: an orange running on a track
+instruction: Replace the train with a orange.
+taskid: 3252

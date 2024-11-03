@@ -1,0 +1,5 @@
+org_img_id: 2383684
+org_cap: The worn, brown wood bench is situated in front of a brick building with a faded sign reading "butternut" in bold, red letters.
+trg_cap: The bicycle is situated in front of a brick building with a faded sign reading "butternut" in bold, red letters.
+instruction: Replace the bench with a bicycle.
+taskid: 55892

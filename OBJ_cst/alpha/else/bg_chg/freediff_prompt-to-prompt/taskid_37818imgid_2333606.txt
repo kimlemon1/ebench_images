@@ -1,0 +1,5 @@
+org_img_id: 2333606
+org_cap: The scene is focused on a single tv, placed on a wooden console table in the center of the room, surrounded by a minimalist decor with a few art pieces and a rug.
+trg_cap: The scene is focused on a single TV, placed on a wooden console table in the center of the room, surrounded by a minimalist decor with a few art pieces and a rug, set against the backdrop of a mountain top.
+instruction: Change the background to mountain top.
+taskid: 37818

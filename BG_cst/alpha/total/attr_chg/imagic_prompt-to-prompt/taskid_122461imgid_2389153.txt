@@ -1,0 +1,5 @@
+org_img_id: 2389153
+org_cap: a brown horse, with a person wearing a purple shirt and riding gear.
+trg_cap: a orange horse, with a person wearing a purple shirt and riding gear.
+instruction: Change the color of the horse from brown to orange.
+taskid: 122461

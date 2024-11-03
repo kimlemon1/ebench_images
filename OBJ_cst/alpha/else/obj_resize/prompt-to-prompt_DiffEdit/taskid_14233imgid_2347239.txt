@@ -1,0 +1,5 @@
+org_img_id: 2347239
+org_cap: Person with ease, her skis leaving a trail of powder in her wake as she the mountain.
+trg_cap: Large person with ease, her skis leaving a trail of powder in her wake as she the mountain.
+instruction: Make the person larger.
+taskid: 14233

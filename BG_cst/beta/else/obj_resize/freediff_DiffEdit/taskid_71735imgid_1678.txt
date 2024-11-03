@@ -1,0 +1,5 @@
+org_img_id: 1678
+org_cap: The scene features a black keyboard, situated on a rectangular desk with a flat surface, accompanied by a small lamp with a rounded shade and a pair of scissors and a paperclip holder on the desk.
+trg_cap: The scene features a large black keyboard, situated on a rectangular desk with a flat surface, accompanied by a small lamp with a rounded shade and a pair of scissors and a paperclip holder on the desk.
+instruction: Make the keyboard larger.
+taskid: 71735

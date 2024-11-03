@@ -1,0 +1,5 @@
+org_img_id: 2392757
+org_cap: a blue passenger airplane with a bright blue sky above it.
+trg_cap: a gray passenger airplane with a bright gray sky above it.
+instruction: Change the color of the airplane from blue to gray.
+taskid: 21836

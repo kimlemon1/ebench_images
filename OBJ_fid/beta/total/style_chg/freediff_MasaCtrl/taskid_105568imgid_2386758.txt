@@ -1,0 +1,5 @@
+org_img_id: 2386758
+org_cap: a person standing, running, playing across a lush green grassy field, after a frisbee thrown by an unseen hand, with a black labrador retriever alongside them.
+trg_cap: The mosaic art depicts a person standing, running, and playing across a lush green grassy field after a frisbee thrown by an unseen hand, with a black labrador retriever alongside them.
+instruction: Change the style if the image to mosaic art.
+taskid: 105568

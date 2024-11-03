@@ -1,0 +1,5 @@
+org_img_id: 2403992
+org_cap: person sat in the silver car, holding a tray of freshly baked donuts with a big smile on his face.
+trg_cap: person sat in the small silver car, holding a tray of freshly baked donuts with a big smile on his face.
+instruction: Make the car smaller.
+taskid: 70095

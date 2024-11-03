@@ -1,0 +1,5 @@
+org_img_id: 2404373
+org_cap: a person in his mid-30s, wearing a black t-shirt and beige shorts, with a colorful kite with a bright green tail and a yellow sail, with the fishing pier and the ocean in the background.
+trg_cap: a person in his mid-30s, wearing a black t-shirt and beige shorts, with a bear on his shoulder, with a colorful kite with a bright green tail and a yellow sail, with the fishing pier and the ocean in the background.
+instruction: Add a bear on the person.
+taskid: 58080

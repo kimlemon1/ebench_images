@@ -1,0 +1,5 @@
+org_img_id: 2333620
+org_cap: "a large adult elephant, with a wrinkled gray skin and a long trunk, is seen on a lush green grassy field, with a young person on its back."
+trg_cap: The graffiti art depicts a large adult elephant with wrinkled gray skin and a long trunk on a lush green grassy field, carrying a young person on its back.
+instruction: Change the style if the image to graffiti art.
+taskid: 60081

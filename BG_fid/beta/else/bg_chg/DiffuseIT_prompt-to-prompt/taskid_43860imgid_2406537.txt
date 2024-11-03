@@ -1,0 +1,5 @@
+org_img_id: 2406537
+org_cap: Person his arm to hit a forehand during a tennis match.
+trg_cap: In a concert hall, Person his arm to hit a forehand during a tennis match.
+instruction: Change the background to concert hall.
+taskid: 43860

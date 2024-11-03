@@ -1,0 +1,5 @@
+org_img_id: 2336739
+org_cap: a small child holds a black, upside down phone in her hand, her other hand grasping a piece of candy.
+trg_cap: a small child holds a black, upright phone in her hand, her other hand grasping a piece of candy.
+instruction: Change the state of the cell phone from upside down to upright.
+taskid: 10158

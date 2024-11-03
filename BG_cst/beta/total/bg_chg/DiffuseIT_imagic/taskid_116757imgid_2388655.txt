@@ -1,0 +1,5 @@
+org_img_id: 2388655
+org_cap: a person wearing a black mask and a black hoodie on a gold motorcycle, the wind through his hair.
+trg_cap: A person wearing a black mask and a black hoodie on a gold motorcycle, the wind through his hair, sped past the bustling restaurant district.
+instruction: Change the background to restaurant.
+taskid: 116757

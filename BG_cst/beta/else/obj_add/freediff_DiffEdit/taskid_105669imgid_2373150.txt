@@ -1,0 +1,5 @@
+org_img_id: 2373150
+org_cap: A standing person stands on a paddleboard, glistening in the sunlight as the waves the board.
+trg_cap: A standing person stands on a paddleboard, glistening in the sunlight as the waves the board, with an elephant in front of the person.
+instruction: Add a elephant in front of the person.
+taskid: 105669

@@ -1,0 +1,5 @@
+org_img_id: 2342418
+org_cap: A brown cow stands in a sunlit field of tall grass, its ears in the breeze.
+trg_cap: A train stands in a sunlit field of tall grass.
+instruction: Replace the cow with a train.
+taskid: 91219

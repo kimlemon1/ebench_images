@@ -1,0 +1,5 @@
+org_img_id: 2349426
+org_cap: The kitchen features a white toaster on a granite countertop.
+trg_cap: The kitchen, reminiscent of a minimalist art gallery, features a white toaster on a granite countertop.
+instruction: Change the background to art gallery.
+taskid: 67165

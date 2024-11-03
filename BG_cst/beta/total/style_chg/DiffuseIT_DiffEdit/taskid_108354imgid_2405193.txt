@@ -1,0 +1,5 @@
+org_img_id: 2405193
+org_cap: A large draft horse with a brown coat and white markings on a green meadow, its massive legs and hooves visible.
+trg_cap: A grey scale photo shows a large draft horse with a brown coat and white markings standing on a green meadow, its massive legs and hooves visible.
+instruction: Change the style if the image to grey scale.
+taskid: 108354

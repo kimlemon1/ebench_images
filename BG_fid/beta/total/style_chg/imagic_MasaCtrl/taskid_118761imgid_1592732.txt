@@ -1,0 +1,5 @@
+org_img_id: 1592732
+org_cap: a black dog, its paws and its body, as it chases after a flying disc in a sunny stadium.
+trg_cap: The mosaic art depicts a black dog, its paws and body, as it chases after a flying disc in a sunny stadium.
+instruction: Change the style if the image to mosaic art.
+taskid: 118761

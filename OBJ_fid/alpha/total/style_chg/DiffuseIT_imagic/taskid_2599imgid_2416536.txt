@@ -1,0 +1,5 @@
+org_img_id: 2416536
+org_cap: Person in front of a cozy cabin, wearing a black parka with a furry hood, and skis with brightly colored poles.
+trg_cap: A Van Gogh style art depicts a person in front of a cozy cabin, wearing a black parka with a furry hood, and skis with brightly colored poles.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 2599

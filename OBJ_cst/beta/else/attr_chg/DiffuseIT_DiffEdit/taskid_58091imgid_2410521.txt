@@ -1,0 +1,5 @@
+org_img_id: 2410521
+org_cap: a person holds a black umbrella with a friend walking alongside, their footsteps echoing on the wet pavement as raindrops glisten on the umbrella.
+trg_cap: a person holds a blue umbrella with a friend walking alongside, their footsteps echoing on the wet pavement as raindrops glisten on the umbrella.
+instruction: Change the color of the umbrella from black to blue.
+taskid: 58091

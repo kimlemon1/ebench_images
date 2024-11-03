@@ -1,0 +1,5 @@
+org_img_id: 2414122
+org_cap: Person delivers a pitch from the mound.
+trg_cap: Person delivers a pitch from the mound, with a TV located behind the person.
+instruction: Add a tv behind the person.
+taskid: 88088

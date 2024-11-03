@@ -1,0 +1,5 @@
+org_img_id: 2384552
+org_cap: Wet person, his long blonde hair.
+trg_cap: Wet person, his long blonde hair glistening under the sun as he stood amidst the lush rows of the vineyard.
+instruction: Change the background to vineyard.
+taskid: 95121

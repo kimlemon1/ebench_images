@@ -1,0 +1,5 @@
+org_img_id: 2366734
+org_cap: "person in the backyard, wearing a black tank top and high-waisted jeans, her long blonde hair tied back in a ponytail, and a silver belt buckle glinting in the sunlight."
+trg_cap: A pop art style artwork features a person in the backyard, wearing a black tank top and high-waisted jeans, with her long blonde hair tied back in a ponytail and a silver belt buckle glinting in the sunlight.
+instruction: Change the style if the image to pop art style.
+taskid: 108734

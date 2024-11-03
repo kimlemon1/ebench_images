@@ -1,0 +1,5 @@
+org_img_id: 2397828
+org_cap: A white dog lies on the dusty ground, its tail lying as it gazes up at the old stone door.
+trg_cap: A white knife lies on the dusty ground as it rests up at the old stone door.
+instruction: Replace the dog with a knife.
+taskid: 24430

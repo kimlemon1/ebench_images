@@ -1,0 +1,5 @@
+org_img_id: 2339890
+org_cap: a young person with curly brown hair and a bright smile, holding a leash with a fluffy white dog trotting alongside her, the sun casting a warm glow over the scene.
+trg_cap: A young person with curly brown hair and a bright smile, holding a leash with a fluffy white dog trotting alongside her, walks through the bustling airport terminal, the sun casting a warm glow over the scene through the large glass windows.
+instruction: Change the background to airport.
+taskid: 57466

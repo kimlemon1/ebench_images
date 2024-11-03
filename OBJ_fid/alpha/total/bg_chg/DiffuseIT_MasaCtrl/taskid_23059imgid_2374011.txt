@@ -1,0 +1,5 @@
+org_img_id: 2374011
+org_cap: a lone person, with an orange backpack, down the deserted airport runway at sunset, with the setting sun casting a warm orange glow on the surrounding cars and airport signs.
+trg_cap: a lone person, with an orange backpack, down the deserted zoo pathway at sunset, with the setting sun casting a warm orange glow on the surrounding animal enclosures and zoo signs.
+instruction: Change the background to zoo.
+taskid: 23059

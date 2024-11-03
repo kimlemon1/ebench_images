@@ -1,0 +1,5 @@
+org_img_id: 2360628
+org_cap: a woman holds a blue remote in her hand, her fingers wrapped around the blue remote as she rests her arm on a nearby surface.
+trg_cap: A pencil sketch art depicts a woman holding a blue remote in her hand, her fingers wrapped around it as she rests her arm on a nearby surface.
+instruction: Change the style if the image to pencil sketch.
+taskid: 45173

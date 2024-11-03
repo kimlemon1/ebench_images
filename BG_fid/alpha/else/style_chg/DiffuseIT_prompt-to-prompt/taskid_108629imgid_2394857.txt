@@ -1,0 +1,5 @@
+org_img_id: 2394857
+org_cap: The bus is a white bus, featuring a distinctive grille and headlights.
+trg_cap: A grey scale photo features a white bus with a distinctive grille and headlights.
+instruction: Change the style if the image to grey scale.
+taskid: 108629

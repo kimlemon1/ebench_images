@@ -1,0 +1,5 @@
+org_img_id: 2414170
+org_cap: a man in a white shirt with a green necktie sat in a green chair, holding a pen and wearing a serious expression.
+trg_cap: a man in a white shirt with a red necktie sat in a red chair, holding a pen and wearing a serious expression.
+instruction: Change the color of the tie from green to red.
+taskid: 7518

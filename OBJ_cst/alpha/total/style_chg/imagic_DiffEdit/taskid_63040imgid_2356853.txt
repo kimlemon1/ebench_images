@@ -1,0 +1,5 @@
+org_img_id: 2356853
+org_cap: A majestic cat on a turquoise chair, its long fur a mesmerizing swirl of gray and beige, its tail around the backrest like a lazy question mark.
+trg_cap: An oil painting style art features a majestic cat on a turquoise chair, its long fur a mesmerizing swirl of gray and beige, with its tail wrapped around the backrest like a lazy question mark.
+instruction: Change the style if the image to oil painting style.
+taskid: 63040

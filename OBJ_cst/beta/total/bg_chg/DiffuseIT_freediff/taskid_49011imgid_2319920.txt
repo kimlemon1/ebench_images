@@ -1,0 +1,5 @@
+org_img_id: 2319920
+org_cap: the small, white sink with a single faucet and a porcelain sink sits in the corner of the cramped bathroom, surrounded by worn tile and a patchwork of worn-out linoleum.
+trg_cap: The small, white sink with a single faucet and a porcelain sink sits in the corner of the cramped bathroom, surrounded by worn tile and a patchwork of worn-out linoleum, reminiscent of the utilitarian design often found in old train station restrooms.
+instruction: Change the background to train station.
+taskid: 49011

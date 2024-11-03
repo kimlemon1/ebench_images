@@ -1,0 +1,5 @@
+org_img_id: 2405119
+org_cap: The scene features a cluttered office desk with a white keyboard, surrounded by various electronic devices such as laptops, computers, and an alarm clock.
+trg_cap: The scene features a cluttered office desk with a green keyboard, surrounded by various electronic devices such as laptops, computers, and an alarm clock.
+instruction: Change the color of the keyboard from white to green.
+taskid: 110422

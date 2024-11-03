@@ -1,0 +1,5 @@
+org_img_id: 2379803
+org_cap: The brown ceramic wood clay vase is a vase with a glaze, featuring subtle streaks of color and a shape.
+trg_cap: The brown ceramic wood glass vase is a vase with a glaze, featuring subtle streaks of color and a shape.
+instruction: Change the material of the vase from clay to glass.
+taskid: 21980

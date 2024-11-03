@@ -1,0 +1,5 @@
+org_img_id: 2367567
+org_cap: a red train with a cab and a red train of freight cars, including red trains and red trains, chugs along the railroad tracks.
+trg_cap: A red train with a cab and a red train of freight cars, including red trains and red trains, chugs along the railroad tracks, reminiscent of the rhythmic clanking of weights in a gym.
+instruction: Change the background to gym.
+taskid: 113498

@@ -1,0 +1,5 @@
+org_img_id: 2370199
+org_cap: The black cup sat on the desk, its cup, with a small rim and a handle that curved slightly upwards.
+trg_cap: The teal cup sat on the desk, its cup, with a small rim and a handle that curved slightly upwards.
+instruction: Change the color of the cup from black to teal.
+taskid: 30959

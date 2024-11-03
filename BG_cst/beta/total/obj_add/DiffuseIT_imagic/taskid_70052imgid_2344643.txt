@@ -1,0 +1,5 @@
+org_img_id: 2344643
+org_cap: The kitchenette features a stainless steel sink with a single faucet, situated next to a compact countertop with a built-in microwave and a small storage sink.
+trg_cap: The kitchenette features a stainless steel sink with a single faucet, situated next to a compact countertop with a built-in microwave and a small storage sink, with the bed located next to the sink.
+instruction: Add a bed next to the sink.
+taskid: 70052

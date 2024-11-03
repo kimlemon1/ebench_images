@@ -1,0 +1,5 @@
+org_img_id: 2406605
+org_cap: The bed is a white bed, covered in a worn, beige hospital sheet with a faint hospital logo on the corner.
+trg_cap: The bed is a purple bed, covered in a worn, beige hospital sheet with a faint hospital logo on the corner.
+instruction: Change the color of the bed from white to purple.
+taskid: 66164

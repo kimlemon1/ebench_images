@@ -1,0 +1,5 @@
+org_img_id: 2317926
+org_cap: A striped zebra lies on the dusty ground, its black and white stripes blending with the earthy tones, and its head on the dirt.
+trg_cap: A small striped zebra lies on the dusty ground, its black and white stripes blending with the earthy tones, and its head on the dirt.
+instruction: Make the zebra smaller.
+taskid: 32852

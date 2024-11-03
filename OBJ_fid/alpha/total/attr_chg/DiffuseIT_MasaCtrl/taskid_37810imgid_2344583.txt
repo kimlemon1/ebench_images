@@ -1,0 +1,5 @@
+org_img_id: 2344583
+org_cap: a man sits alone on a wood bench, surrounded by a group of dogs playing in the grass.
+trg_cap: a man sits alone on a leather bench, surrounded by a group of dogs playing in the grass.
+instruction: Change the material of the bench from wood to leather.
+taskid: 37810

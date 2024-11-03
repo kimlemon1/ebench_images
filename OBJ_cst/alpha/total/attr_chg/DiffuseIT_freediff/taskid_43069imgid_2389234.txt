@@ -1,0 +1,5 @@
+org_img_id: 2389234
+org_cap: The red fire hydrant stands tall, surrounded by a bed of green grass and a few scattered leaves.
+trg_cap: The tan fire hydrant stands tall, surrounded by a bed of green grass and a few scattetan leaves.
+instruction: Change the color of the fire hydrant from red to tan.
+taskid: 43069

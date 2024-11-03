@@ -1,0 +1,5 @@
+org_img_id: 2320931
+org_cap: a person holds a white frisbee, while another person gives a thumbs up and a third person makes a peace sign with his fingers.
+trg_cap: a person holds a yellow frisbee, while another person gives a thumbs up and a third person makes a peace sign with his fingers.
+instruction: Change the color of the frisbee from white to yellow.
+taskid: 7488

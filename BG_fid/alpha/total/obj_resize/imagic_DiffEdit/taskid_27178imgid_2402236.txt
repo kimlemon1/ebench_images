@@ -1,0 +1,5 @@
+org_img_id: 2402236
+org_cap: a surfing person on his surfing surfboard.
+trg_cap: a large surfing person on his surfing surfboard.
+instruction: Make the person larger.
+taskid: 27178

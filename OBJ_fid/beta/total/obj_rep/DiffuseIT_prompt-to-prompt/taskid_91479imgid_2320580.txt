@@ -1,0 +1,5 @@
+org_img_id: 2320580
+org_cap: a person in a blue rash guard and wetsuit on a white surfboard.
+trg_cap: a banana on a white surfboard.
+instruction: Replace the person with a banana.
+taskid: 91479

@@ -1,0 +1,5 @@
+org_img_id: 2322646
+org_cap: person, clad in a vibrant green wetsuit, his arms and legs splayed in a fluid motion.
+trg_cap: small person, clad in a vibrant green wetsuit, his arms and legs splayed in a fluid motion.
+instruction: Make the person smaller.
+taskid: 110531

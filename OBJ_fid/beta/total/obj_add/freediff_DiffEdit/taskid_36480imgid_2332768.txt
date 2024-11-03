@@ -1,0 +1,5 @@
+org_img_id: 2332768
+org_cap: a small, single-engine airplane with a bright blue and white paint job flies steadily across the clear blue sky, its wings beating steadily as it soars through the air.
+trg_cap: A small, single-engine airplane with a bright blue and white paint job flies steadily across the clear blue sky, its wings beating steadily as it soars through the air, while a boat is positioned on the left side of the airplane.
+instruction: Add a boat on the left side of the airplane.
+taskid: 36480

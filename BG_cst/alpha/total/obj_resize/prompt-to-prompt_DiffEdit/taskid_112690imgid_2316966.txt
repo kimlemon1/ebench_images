@@ -1,0 +1,5 @@
+org_img_id: 2316966
+org_cap: a lone person in a wetsuit, their silhouette backlit by the warm sunlight reflecting off the water's surface.
+trg_cap: a lone large person in a wetsuit, their silhouette backlit by the warm sunlight reflecting off the water's surface.
+instruction: Make the person larger.
+taskid: 112690

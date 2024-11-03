@@ -1,0 +1,5 @@
+org_img_id: 2414663
+org_cap: A ripe, yellow banana sits on a wooden table, its ripe, yellow banana next to a clear glass cup.
+trg_cap: A unripe, yellow banana sits on a wooden table, its unripe, yellow banana next to a clear glass cup.
+instruction: Change the state of the banana from ripe to unripe.
+taskid: 35781

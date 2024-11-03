@@ -1,0 +1,5 @@
+org_img_id: 2328800
+org_cap: the clock tower stands tall, its brick façade weathered to a warm, earthy tone, with intricate stone carvings and ornate windows framing the clock face, which reads in bold, black numerals.
+trg_cap: The mosaic art features a tall clock tower with a weathered brick façade in a warm, earthy tone, adorned with intricate stone carvings and ornate windows framing a clock face that displays bold, black numerals.
+instruction: Change the style if the image to mosaic art.
+taskid: 47500

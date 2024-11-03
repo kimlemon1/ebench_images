@@ -1,0 +1,5 @@
+org_img_id: 2394353
+org_cap: the man carefully sliced the moist, fluffy cake with a butter knife, the crumbs falling gently onto the glass cake stand.
+trg_cap: The man carefully sliced the moist, fluffy cake with a butter knife, the crumbs falling gently onto the glass cake stand, with an orange sitting next to the cake.
+instruction: Add a orange next to the cake.
+taskid: 62450

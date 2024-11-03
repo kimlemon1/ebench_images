@@ -1,0 +1,5 @@
+org_img_id: 2366076
+org_cap: The toilet is a small, rectangular porcelain toilet with a rusty red color, situated in a dimly lit, cramped bathroom with a worn-out toilet seat and a faint smell of disinfectant.
+trg_cap: An oil painting style art depicts a small, rectangular porcelain toilet with a rusty red color, situated in a dimly lit, cramped bathroom with a worn-out toilet seat and a faint smell of disinfectant.
+instruction: Change the style if the image to oil painting style.
+taskid: 63586

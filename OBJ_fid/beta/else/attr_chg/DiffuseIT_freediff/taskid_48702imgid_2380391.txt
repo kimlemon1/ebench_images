@@ -1,0 +1,5 @@
+org_img_id: 2380391
+org_cap: The blond, wet, surfing person rides a white surfboard through a wave, with sea spray and seagulls in the background.
+trg_cap: The blond, wet, surfing person rides a green surfboard through a wave, with sea spray and seagulls in the background.
+instruction: Change the color of the surfboard from white to green.
+taskid: 48702

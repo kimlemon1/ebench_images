@@ -1,0 +1,5 @@
+org_img_id: 2364141
+org_cap: a person in a green shirt and jeans is seen on his skateboard, his legs and his board at a 45-degree angle as he over a small obstacle.
+trg_cap: A person in a green shirt and jeans is seen on his skateboard, his legs and his board at a 45-degree angle as he glides over a small obstacle in front of the grand entrance of the concert hall.
+instruction: Change the background to concert hall.
+taskid: 82633

@@ -1,0 +1,5 @@
+org_img_id: 2329781
+org_cap: a white bicycle with a wooden crate attached to the handlebars, parked on a stone pavement surrounded by winter scenery with snowflakes gently falling.
+trg_cap: a small white bicycle with a wooden crate attached to the handlebars, parked on a stone pavement surrounded by winter scenery with snowflakes gently falling.
+instruction: Make the bicycle smaller.
+taskid: 87650

@@ -1,0 +1,5 @@
+org_img_id: 2329885
+org_cap: a small boy lies on a couch, holding a blue toothbrush and wearing a blue onesie with a cartoon character on it.
+trg_cap: In the bustling concert hall, a small boy lies on a couch, holding a blue toothbrush and wearing a blue onesie with a cartoon character on it.
+instruction: Change the background to concert hall.
+taskid: 76653

@@ -1,0 +1,5 @@
+org_img_id: 2400483
+org_cap: a red train with a red train and red trains stands on the railway tracks in the morning sunlight, surrounded by a quiet industrial landscape with old buildings and rusty machinery.
+trg_cap: A red umbrella stands on the railway tracks in the morning sunlight, surrounded by a quiet industrial landscape with old buildings and rusty machinery.
+instruction: Replace the train with a umbrella.
+taskid: 82088

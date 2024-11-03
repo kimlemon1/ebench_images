@@ -1,0 +1,5 @@
+org_img_id: 2401664
+org_cap: a plate of food features a crispy fried scallop topped with a dollop of creamy sauce, surrounded by green broccoli and a medley of roasted vegetables including orange sweet potatoes and carrots.
+trg_cap: a plate of food features a crispy fried scallop topped with a dollop of creamy sauce, surrounded by brown broccoli and a medley of roasted vegetables including orange sweet potatoes and carrots.
+instruction: Change the color of the broccoli from green to brown.
+taskid: 49165

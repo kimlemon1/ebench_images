@@ -1,0 +1,5 @@
+org_img_id: 2371581
+org_cap: A wet surfing person rides a brown surfboard through a wave, her hair as she a smooth arc through the turquoise water.
+trg_cap: A wet snowboarding person rides a wave, their hair as they a smooth arc through the turquoise water.
+instruction: Replace the surfboard with a snowboard.
+taskid: 18014

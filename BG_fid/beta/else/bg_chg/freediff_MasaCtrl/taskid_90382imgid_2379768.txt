@@ -1,0 +1,5 @@
+org_img_id: 2379768
+org_cap: A black cat on a wooden desk, surrounded by computer equipment and a laptop, with a glass of water and a cup nearby.
+trg_cap: A black cat on a wooden desk, surrounded by computer equipment and a laptop, with a glass of water and a cup nearby, all set against the backdrop of a serene beach.
+instruction: Change the background to beach.
+taskid: 90382

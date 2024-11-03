@@ -1,0 +1,5 @@
+org_img_id: 2328598
+org_cap: A motorcycle parked at a harbor with several boats docked.
+trg_cap: A bird at a harbor with several boats docked.
+instruction: Replace the motorcycle with a bird.
+taskid: 89358

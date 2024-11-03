@@ -1,0 +1,5 @@
+org_img_id: 2404892
+org_cap: A gray airplane flies across the sky, its wings and tail visible as it soars through the cloudy atmosphere.
+trg_cap: A gray airplane flies across the sky, its wings and tail visible as it soars through the cloudy atmosphere above a vast pine forest.
+instruction: Change the background to pine forest.
+taskid: 43171

@@ -1,0 +1,5 @@
+org_img_id: 2388135
+org_cap: a skateboarder leaps through the air, his skateboard spinning and flipping as he performs a trick, his jeans and white t-shirt a blur as he soars towards the concrete ramp.
+trg_cap: A cup leaps through the air, its jeans and white t-shirt a blur as it soars towards the concrete ramp.
+instruction: Replace the skateboard with a cup.
+taskid: 27906

@@ -1,0 +1,5 @@
+org_img_id: 2359451
+org_cap: The train is a blue train, featuring the number on its side and a union jack flag attached to its front.
+trg_cap: The train is a blue train, featuring the number on its side and a union jack flag attached to its front, as it travels along the scenic coastline with views of the sandy beach.
+instruction: Change the background to beach.
+taskid: 121596

@@ -1,0 +1,5 @@
+org_img_id: 2355986
+org_cap: Person stands, her purple shirt and jeans a vibrant splash against the lush green grass as she throws a frisbee.
+trg_cap: Bicycle stands as he throws a frisbee.
+instruction: Replace the person with a bicycle.
+taskid: 75575

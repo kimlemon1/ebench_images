@@ -1,0 +1,5 @@
+org_img_id: 2365147
+org_cap: The scene features a white car parked in front of a diner with a neon sign reading "teddies", surrounded by teddy bears in 1950s-style attire, sipping milkshakes and enjoying a meal at a sidewalk table.
+trg_cap: The scene features a dark brown car parked in front of a diner with a neon sign reading "teddies", surrounded by teddy bears in 1950s-style attire, sipping milkshakes and enjoying a meal at a sidewalk table.
+instruction: Change the color of the car from white to dark brown.
+taskid: 34962

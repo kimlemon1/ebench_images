@@ -1,0 +1,5 @@
+org_img_id: 2335574
+org_cap: person stands proudly on the snow-covered slope, wearing a bright blue jacket and holding skis at the ready.
+trg_cap: The person stands proudly on the snow-covered slope, wearing a bright blue jacket and holding a vase.
+instruction: Replace the skis with a vase.
+taskid: 107171

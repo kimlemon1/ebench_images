@@ -1,0 +1,5 @@
+org_img_id: 2347217
+org_cap: The brown cat lies in a small, rectangular bed with a soft, fleecy lining, its fur fluffed out.
+trg_cap: The brown tv lies in a small, rectangular bed with a soft, fleecy lining.
+instruction: Replace the cat with a tv.
+taskid: 95025

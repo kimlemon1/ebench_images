@@ -1,0 +1,5 @@
+org_img_id: 2324994
+org_cap: a young person wearing jeans, his black backpack over the pavement as he the intersection.
+trg_cap: a young person wearing jeans, his large black backpack over the pavement as he the intersection.
+instruction: Make the backpack larger.
+taskid: 56582

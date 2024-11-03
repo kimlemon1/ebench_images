@@ -1,0 +1,5 @@
+org_img_id: 2368444
+org_cap: A red frisbee flies through the air, spinning and gliding across the green grassy terrain.
+trg_cap: A green frisbee flies through the air, spinning and gliding across the green grassy terrain.
+instruction: Change the color of the frisbee from red to green.
+taskid: 119084

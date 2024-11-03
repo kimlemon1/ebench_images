@@ -1,0 +1,5 @@
+org_img_id: 2387448
+org_cap: a jumping black dog in a garden filled with flowers and shrubs.
+trg_cap: A Van Gogh style artwork features a jumping black dog in a garden filled with flowers and shrubs.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 50423

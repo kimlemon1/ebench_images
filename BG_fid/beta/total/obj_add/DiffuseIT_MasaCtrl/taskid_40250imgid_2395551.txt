@@ -1,0 +1,5 @@
+org_img_id: 2395551
+org_cap: a small person with bright red hair and a mischievous grin holds a red apple in his chubby little hands.
+trg_cap: a small person with bright red hair and a mischievous grin holds a red apple with a clock on it in his chubby little hands.
+instruction: Add a clock on the apple.
+taskid: 40250

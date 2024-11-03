@@ -1,0 +1,5 @@
+org_img_id: 2398375
+org_cap: a young person in a flannel shirt and jeans, his gray skateboard.
+trg_cap: a young person in a flannel shirt and jeans, his small gray skateboard.
+instruction: Make the skateboard smaller.
+taskid: 72135

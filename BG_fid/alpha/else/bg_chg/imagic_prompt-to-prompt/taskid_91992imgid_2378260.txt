@@ -1,0 +1,5 @@
+org_img_id: 2378260
+org_cap: a lone person, clad in a black wetsuit and hood, off a wave, his board through the turquoise water as he a smooth arc through the whitewater foam.
+trg_cap: A lone person, clad in a black wetsuit and hood, off a wave, his board through the turquoise water as he a smooth arc through the whitewater foam, reminiscent of the sterile white walls and the rhythmic beeping of monitors in a hospital.
+instruction: Change the background to hospital.
+taskid: 91992

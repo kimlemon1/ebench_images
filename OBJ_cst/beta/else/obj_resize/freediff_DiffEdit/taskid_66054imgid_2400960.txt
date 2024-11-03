@@ -1,0 +1,5 @@
+org_img_id: 2400960
+org_cap: The scene features a twisted juniper tree with a gnarled, curved trunk, standing alone in a grassy hillside with a brown wood bench nestled beside it.
+trg_cap: The scene features a twisted juniper tree with a gnarled, curved trunk, standing alone in a grassy hillside with a large brown wood bench nestled beside it.
+instruction: Make the bench larger.
+taskid: 66054

@@ -1,0 +1,5 @@
+org_img_id: 2341889
+org_cap: a woman holds a white cell phone in her hand, her fingers wrapped around the white cell phone as she captures a photo of the crowd with the screen displaying a live feed of the event.
+trg_cap: a woman holds a purple cell phone in her hand, her fingers wrapped around the purple cell phone as she captures a photo of the crowd with the screen displaying a live feed of the event.
+instruction: Change the color of the cell phone from white to purple.
+taskid: 51405

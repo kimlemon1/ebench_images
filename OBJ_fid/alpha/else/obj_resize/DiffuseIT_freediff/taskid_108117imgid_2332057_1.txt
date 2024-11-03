@@ -1,0 +1,5 @@
+org_img_id: 2332057_1
+org_cap: A person in a suit and tie down the street, a parking lot with a sign reading "free parking" in japanese characters.
+trg_cap: A small person in a suit and tie down the street, a parking lot with a sign reading "free parking" in Japanese characters.
+instruction: Make the person smaller.
+taskid: 108117

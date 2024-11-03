@@ -1,0 +1,5 @@
+org_img_id: 2375579
+org_cap: a white horse with a rider in a police uniform down the busy street, surrounded by a sea of black cabs, buses, and cars, with pedestrians and other vehicles moving slowly to avoid the horse's path.
+trg_cap: a large white horse with a rider in a police uniform down the busy street, surrounded by a sea of black cabs, buses, and cars, with pedestrians and other vehicles moving slowly to avoid the horse's path.
+instruction: Make the horse larger.
+taskid: 108290

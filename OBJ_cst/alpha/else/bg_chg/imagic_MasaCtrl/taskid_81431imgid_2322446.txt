@@ -1,0 +1,5 @@
+org_img_id: 2322446
+org_cap: a red fire hydrant stands next to a painted blue propane tank featuring a cartoon dog with a tongue out and the words "person's place" written in green letters.
+trg_cap: A red fire hydrant stands next to a painted blue propane tank featuring a cartoon dog with a tongue out and the words "person's place" written in green letters, set against the backdrop of a vibrant aquarium.
+instruction: Change the background to aquarium.
+taskid: 81431

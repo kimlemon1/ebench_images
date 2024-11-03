@@ -1,0 +1,5 @@
+org_img_id: 2347796
+org_cap: Person, wearing a blue jacket and snow pants, with a bright yellow hat and goggles, and a red snowboard.
+trg_cap: Person, wearing a blue jacket and snow pants, with a bright yellow hat and goggles, and a brown snowboard.
+instruction: Change the color of the snowboard from red to brown.
+taskid: 60821

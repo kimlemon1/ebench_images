@@ -1,0 +1,5 @@
+org_img_id: 2361027
+org_cap: The cup is a white cup with a rim and an edge on the inside.
+trg_cap: The cup is a small white cup with a rim and an edge on the inside.
+instruction: Make the cup smaller.
+taskid: 30313

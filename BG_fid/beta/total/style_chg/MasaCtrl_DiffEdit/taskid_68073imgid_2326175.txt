@@ -1,0 +1,5 @@
+org_img_id: 2326175
+org_cap: "Person swings her racket, her eyes fixed on the ball as it soars through the air, her ponytail bobbing."
+trg_cap: A pencil sketch art depicts a person swinging her racket, her eyes fixed on the ball as it soars through the air, with her ponytail bobbing.
+instruction: Change the style if the image to pencil sketch.
+taskid: 68073

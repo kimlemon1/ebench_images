@@ -1,0 +1,5 @@
+org_img_id: 2338123
+org_cap: a person in her mid-30s, wearing a pink tank top and athletic shorts, through a shaded park, her blonde hair tied back in a ponytail, with a small brown dog, a person, alongside her.
+trg_cap: A person in her mid-30s, wearing a pink tank top and athletic shorts, walked through a shaded park near the hospital, her blonde hair tied back in a ponytail, with a small brown dog, a person, alongside her.
+instruction: Change the background to hospital.
+taskid: 111930

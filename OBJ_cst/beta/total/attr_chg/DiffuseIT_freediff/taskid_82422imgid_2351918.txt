@@ -1,0 +1,5 @@
+org_img_id: 2351918
+org_cap: The room is dominated by a black tv mounted on the wall, surrounded by a minimalist decor featuring a red rug, a simple coffee table, and a few scattered books.
+trg_cap: The room is dominated by a tan tv mounted on the wall, surrounded by a minimalist decor featuring a red rug, a simple coffee table, and a few scattered books.
+instruction: Change the color of the tv from black to tan.
+taskid: 82422

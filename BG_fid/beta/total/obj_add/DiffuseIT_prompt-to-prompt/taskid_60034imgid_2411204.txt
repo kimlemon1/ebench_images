@@ -1,0 +1,5 @@
+org_img_id: 2411204
+org_cap: The girl sat on the dock, her freckled hands cradling a black phone.
+trg_cap: The girl sat on the dock, her freckled hands cradling a black phone, with a keyboard positioned behind it.
+instruction: Add a keyboard behind the cell phone.
+taskid: 60034

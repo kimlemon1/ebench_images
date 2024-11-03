@@ -1,0 +1,5 @@
+org_img_id: 2381620
+org_cap: a person in a grey shirt and sweatpants sits on a white chair in front of a tv, holding a game controller and wearing a headset, surrounded by a cluttered room with various gaming and entertainment items.
+trg_cap: A grayscale photo depicts a person in a grey shirt and sweatpants sitting on a white chair in front of a TV, holding a game controller and wearing a headset, surrounded by a cluttered room filled with various gaming and entertainment items.
+instruction: Change the style if the image to grey scale.
+taskid: 81894

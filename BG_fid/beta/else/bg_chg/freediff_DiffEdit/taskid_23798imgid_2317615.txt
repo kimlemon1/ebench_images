@@ -1,0 +1,5 @@
+org_img_id: 2317615
+org_cap: a dog catching frisbee and a person throwing it.
+trg_cap: a dog catching frisbee and a person throwing it at the train station
+instruction: Change the background to train station.
+taskid: 23798

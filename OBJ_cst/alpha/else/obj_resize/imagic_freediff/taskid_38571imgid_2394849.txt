@@ -1,0 +1,5 @@
+org_img_id: 2394849
+org_cap: The clock tower stands tall with its ornate stone façade and a large clock dome above, casting a warm golden light onto the surrounding area.
+trg_cap: The clock tower stands tall with its ornate stone façade and a large clock dome above, featuring a large clock face, casting a warm golden light onto the surrounding area.
+instruction: Make the clock larger.
+taskid: 38571

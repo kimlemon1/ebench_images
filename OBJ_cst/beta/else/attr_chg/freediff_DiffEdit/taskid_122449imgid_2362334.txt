@@ -1,0 +1,5 @@
+org_img_id: 2362334
+org_cap: a brown dog posing.
+trg_cap: a black dog posing.
+instruction: Change the color of the dog from brown to black.
+taskid: 122449

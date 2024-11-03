@@ -1,0 +1,5 @@
+org_img_id: 2401728
+org_cap: A blue airplane taxis down the runway before taking off into the sky.
+trg_cap: A small blue airplane taxis down the runway before taking off into the sky.
+instruction: Make the airplane smaller.
+taskid: 16336

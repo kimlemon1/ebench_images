@@ -1,0 +1,5 @@
+org_img_id: 2373038
+org_cap: A black bear emerges from the dense foliage and into the crystal clear waters of the river, its bear with dew and its eyes on the camera.
+trg_cap: A pencil sketch art depicts a black bear emerging from the dense foliage into the crystal clear waters of the river, its fur glistening with dew and its eyes fixed on the camera.
+instruction: Change the style if the image to pencil sketch.
+taskid: 25824
