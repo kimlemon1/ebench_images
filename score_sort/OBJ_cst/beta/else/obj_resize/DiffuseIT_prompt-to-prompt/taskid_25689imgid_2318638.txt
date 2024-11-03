@@ -1,0 +1,5 @@
+org_img_id: 2318638
+org_cap: Person, clad in a sleek black wetsuit with vibrant orange and yellow stripes running down his arms and legs, his surfboard in his hand as he gazes out at the sun-kissed coastline.
+trg_cap: A large person, clad in a sleek black wetsuit with vibrant orange and yellow stripes running down his arms and legs, his surfboard in his hand as he gazes out at the sun-kissed coastline.
+instruction: Make the person larger.
+taskid: 25689

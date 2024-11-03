@@ -1,0 +1,5 @@
+org_img_id: 2408897
+org_cap: a gray bus with a digital advertisement wrapped around its sides, featuring a bold, red font and a bright, blue background.
+trg_cap: A pencil sketch art depicts a gray bus with a digital advertisement wrapped around its sides, featuring a bold, red font and a bright, blue background.
+instruction: Change the style if the image to pencil sketch.
+taskid: 172

@@ -1,0 +1,5 @@
+org_img_id: 328
+org_cap: The scene features a cluttered office desk with a black keyboard, surrounded by scattered papers, books, and notes.
+trg_cap: The scene features a cluttered office desk with a remote, surrounded by scattered papers, books, and notes.
+instruction: Replace the keyboard with a remote.
+taskid: 83744

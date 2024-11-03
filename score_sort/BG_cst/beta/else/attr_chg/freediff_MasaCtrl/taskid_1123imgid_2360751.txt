@@ -1,0 +1,5 @@
+org_img_id: 2360751
+org_cap: A brown, striped, tabby cat sits on the edge of a white porcelain sink, its fur and its tail.
+trg_cap: A red, striped, tabby cat sits on the edge of a white porcelain sink, its fur and its tail.
+instruction: Change the color of the cat from brown to red.
+taskid: 1123

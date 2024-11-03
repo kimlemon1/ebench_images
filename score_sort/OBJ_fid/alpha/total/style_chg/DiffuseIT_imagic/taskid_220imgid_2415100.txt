@@ -1,0 +1,5 @@
+org_img_id: 2415100
+org_cap: a young person wearing green and blue clothing is riding a green skateboard across a striped crosswalk.
+trg_cap: A watercolor painting style art depicts a young person wearing green and blue clothing riding a green skateboard across a striped crosswalk.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 220

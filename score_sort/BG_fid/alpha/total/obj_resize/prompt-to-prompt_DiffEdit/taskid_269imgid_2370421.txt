@@ -1,0 +1,5 @@
+org_img_id: 2370421
+org_cap: a large, ornate clock with a golden face and intricate details is displayed in a storefront window, surrounded by a blurred cityscape reflected in the glass.
+trg_cap: a small, large, ornate clock with a golden face and intricate details is displayed in a storefront window, surrounded by a blurred cityscape reflected in the glass.
+instruction: Make the clock smaller.
+taskid: 269

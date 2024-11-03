@@ -1,0 +1,5 @@
+org_img_id: 2390474
+org_cap: The blue fire hydrant is a color with a cap and the number painted on it in letters.
+trg_cap: The cream colored fire hydrant is a color with a cap and the number painted on it in letters.
+instruction: Change the color of the fire hydrant from blue to cream colored.
+taskid: 7113

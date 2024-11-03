@@ -1,0 +1,5 @@
+org_img_id: 2399894
+org_cap: Blond person's fingers grasped the tennis racket, her hair tied back in a ponytail, her eyes on the playing ball.
+trg_cap: Blond person's fingers grasped the tennis racket, her hair tied back in a ponytail, her eyes on the playing ball, as she stood by the lakeside.
+instruction: Change the background to lake side.
+taskid: 11423

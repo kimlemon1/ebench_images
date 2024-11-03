@@ -1,0 +1,5 @@
+org_img_id: 2330891
+org_cap: The scene features a black keyboard situated atop a wooden desk with a slight incline, flanked by a pair of headphones and a stack of colorful markers.
+trg_cap: The scene features a small black keyboard situated atop a wooden desk with a slight incline, flanked by a pair of headphones and a stack of colorful markers.
+instruction: Make the keyboard smaller.
+taskid: 62848

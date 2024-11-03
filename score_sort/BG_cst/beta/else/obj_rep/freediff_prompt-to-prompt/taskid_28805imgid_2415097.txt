@@ -1,0 +1,5 @@
+org_img_id: 2415097
+org_cap: A lone person stands against a railing, with a distant view of construction cranes and buildings in the background.
+trg_cap: A lone fire hydrant stands against a railing, with a distant view of construction cranes and buildings in the background.
+instruction: Replace the person with a fire hydrant.
+taskid: 28805

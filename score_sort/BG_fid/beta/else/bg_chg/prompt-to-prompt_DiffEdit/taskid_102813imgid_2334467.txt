@@ -1,0 +1,5 @@
+org_img_id: 2334467
+org_cap: a train rumbles across the steel bridge, its wheels clicking on the tracks as it approaches the old orange iron train, the sun casting a warm glow on the worn steel beams and rusty rivets.
+trg_cap: A train rumbles across the steel bridge, its wheels clicking on the tracks as it approaches the old orange iron train, the sun casting a warm glow on the worn steel beams and rusty rivets, with ancient ruins standing silently in the background.
+instruction: Change the background to ancient ruins.
+taskid: 102813

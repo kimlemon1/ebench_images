@@ -1,0 +1,5 @@
+org_img_id: 2402216
+org_cap: a young person stands on a green skateboard, wearing a green polo shirt and yellow shorts, with a skateboard in hand.
+trg_cap: A Van Gogh style art depicts a young person standing on a green skateboard, wearing a green polo shirt and yellow shorts, with a skateboard in hand.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 54689

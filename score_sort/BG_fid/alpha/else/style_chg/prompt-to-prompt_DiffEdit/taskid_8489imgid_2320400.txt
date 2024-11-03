@@ -1,0 +1,5 @@
+org_img_id: 2320400
+org_cap: a person holds a blue bottle and speaks on a mobile phone, with a woman standing beside them.
+trg_cap: A Van Gogh style artwork depicts a person holding a blue bottle and speaking on a mobile phone, with a woman standing beside them.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 8489

@@ -1,0 +1,5 @@
+org_img_id: 2394773
+org_cap: A gray laptop sits on a wooden table, surrounded by scraps of paper and pens, with a white cat, its tail.
+trg_cap: A gray laptop sits on a wooden table, surrounded by scraps of paper and pens, in the bustling atmosphere of a restaurant, with a white cat, its tail.
+instruction: Change the background to restaurant.
+taskid: 55099

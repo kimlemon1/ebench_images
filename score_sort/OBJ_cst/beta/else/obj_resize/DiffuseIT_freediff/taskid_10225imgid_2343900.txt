@@ -1,0 +1,5 @@
+org_img_id: 2343900
+org_cap: a glass bottle with a vibrant, multi-colored swirl around the neck, rests on a table next to a newspaper and a book, with a wine glass beside it.
+trg_cap: a small glass bottle with a vibrant, multi-colored swirl around the neck, rests on a table next to a newspaper and a book, with a wine glass beside it.
+instruction: Make the bottle smaller.
+taskid: 10225

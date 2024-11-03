@@ -1,0 +1,5 @@
+org_img_id: 2417667
+org_cap: A white truck sits parked on the side of the road.
+trg_cap: A small white truck sits parked on the side of the road.
+instruction: Make the truck smaller.
+taskid: 74411

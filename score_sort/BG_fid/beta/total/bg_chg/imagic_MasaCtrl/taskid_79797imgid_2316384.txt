@@ -1,0 +1,5 @@
+org_img_id: 2316384
+org_cap: Person, wearing a white shirt and a blue hat, on a green meadow surrounded by colorful flowers and grazing cows.
+trg_cap: Person, wearing a white shirt and a blue hat, in an aquarium surrounded by colorful fish and coral reefs.
+instruction: Change the background to aquarium.
+taskid: 79797

@@ -1,0 +1,5 @@
+org_img_id: 2410604
+org_cap: The scene is a bustling winter wonderland with snow-covered slopes and a lively apres-ski atmosphere, featuring a group of people gathered around a yellow umbrella, surrounded by snowboards and skis, with the sound of laughter and music filling the crisp mountain air.
+trg_cap: The scene is a bustling winter wonderland with snow-covered slopes and a lively apres-ski atmosphere, featuring a group of people gathered around a yellow umbrella, surrounded by snowboards and skis, with the sound of laughter and music filling the crisp mountain air, all set against the backdrop of a vast, echoing cave.
+instruction: Change the background to cave.
+taskid: 52380

@@ -1,0 +1,5 @@
+org_img_id: 2401432
+org_cap: A white truck is driving on the highway.
+trg_cap: A small white truck is driving on the highway.
+instruction: Make the truck smaller.
+taskid: 23639

@@ -1,0 +1,5 @@
+org_img_id: 2320344
+org_cap: A brown horse, pulled by a person wearing a white shirt and a hat, is along the sandy beach by a person wearing a bright yellow shirt.
+trg_cap: A brown horse, with a bird on its back, pulled by a person wearing a white shirt and a hat, is along the sandy beach by a person wearing a bright yellow shirt.
+instruction: Add a bird on the horse.
+taskid: 52

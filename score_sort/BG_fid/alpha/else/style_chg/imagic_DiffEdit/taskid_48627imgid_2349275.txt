@@ -1,0 +1,5 @@
+org_img_id: 2349275
+org_cap: a white dog with a gray patch on its back in front of a blue doghouse, its fur and its tail.
+trg_cap: The mosaic art contains a white dog with a gray patch on its back, its fur, and its tail, in front of a blue doghouse.
+instruction: Change the style if the image to mosaic art.
+taskid: 48627

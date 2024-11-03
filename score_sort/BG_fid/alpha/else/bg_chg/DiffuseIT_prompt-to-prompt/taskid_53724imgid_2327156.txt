@@ -1,0 +1,5 @@
+org_img_id: 2327156
+org_cap: a blue train with a bright yellow stripe and a rounded front, carrying passengers and cargo on its tracks, chugs along the mountainous terrain.
+trg_cap: A blue train with a bright yellow stripe and a rounded front, carrying passengers and cargo on its tracks, chugs along the arid desert landscape.
+instruction: Change the background to desert.
+taskid: 53724

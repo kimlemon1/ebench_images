@@ -1,0 +1,5 @@
+org_img_id: 2403579
+org_cap: A person sits on a brown wood bench, his hands waving on the brown wood bench as he gazes out at the serene lake.
+trg_cap: An oil painting style art depicts a person sitting on a brown wood bench, his hands waving on the bench as he gazes out at the serene lake.
+instruction: Change the style if the image to oil painting style.
+taskid: 121748

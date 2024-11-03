@@ -1,0 +1,5 @@
+org_img_id: 2416124
+org_cap: a dog sits in the backseat of a car.
+trg_cap: A large dog sits in the backseat of a car.
+instruction: Make the dog larger.
+taskid: 80056

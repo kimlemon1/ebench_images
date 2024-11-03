@@ -1,0 +1,5 @@
+org_img_id: 2341010
+org_cap: a blue airplane, piloted by a person wearing a leather helmet and goggles, soaring through the clear blue sky.
+trg_cap: A Van Gogh style art piece features a blue airplane, piloted by a person wearing a leather helmet and goggles, soaring through the clear blue sky.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 28102

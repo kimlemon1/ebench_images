@@ -1,0 +1,5 @@
+org_img_id: 2345900
+org_cap: A blue truck sits idle on the side of the road, its wheels covered in dust and its exhaust pipe emitting a faint plume of smoke.
+trg_cap: A graffiti art piece depicts a blue truck sitting idle on the side of the road, its wheels covered in dust and its exhaust pipe emitting a faint plume of smoke.
+instruction: Change the style if the image to graffiti art.
+taskid: 113740

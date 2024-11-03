@@ -1,0 +1,5 @@
+org_img_id: 2355487
+org_cap: a blue bus with a large digital display on the side, featuring a cartoon person holding a football and the number 10.
+trg_cap: The art is in a cartoon style and features a blue bus with a large digital display on the side, showing a cartoon person holding a football and the number 10.
+instruction: Change the style if the image to cartoon style.
+taskid: 197

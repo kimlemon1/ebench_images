@@ -1,0 +1,5 @@
+org_img_id: 2346543
+org_cap: person sits on a white surfboard, leaning against a concrete wall overlooking the ocean.
+trg_cap: person sits on a light blue surfboard, leaning against a concrete wall overlooking the ocean.
+instruction: Change the color of the surfboard from white to light blue.
+taskid: 66861

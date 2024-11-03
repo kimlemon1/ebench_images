@@ -1,0 +1,5 @@
+org_img_id: 2348159
+org_cap: Standing, blond person stands in a black dress shirt, his black trousers into his black belt, and a black necktie.
+trg_cap: Standing, large blond person stands in a black dress shirt, his black trousers into his black belt, and a black necktie.
+instruction: Make the person larger.
+taskid: 92152

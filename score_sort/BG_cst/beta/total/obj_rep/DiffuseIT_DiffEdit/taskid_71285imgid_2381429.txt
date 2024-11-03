@@ -1,0 +1,5 @@
+org_img_id: 2381429
+org_cap: The scene is focused on a single black tv, sitting off on a wooden console table in the center of a cozy living room, surrounded by a brown couch, a coffee table, and various decorative items.
+trg_cap: The scene is focused on a single black oven, surrounded by a brown couch, a coffee table, and various decorative items.
+instruction: Replace the tv with a oven.
+taskid: 71285

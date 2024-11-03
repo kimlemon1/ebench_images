@@ -1,0 +1,5 @@
+org_img_id: 2316661
+org_cap: A surfing person is seen in mid-air on a surfboard, as he rides the wave towards the shore.
+trg_cap: A Van Gogh style artwork depicts a surfing person in mid-air on a surfboard, riding the wave towards the shore.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 51039

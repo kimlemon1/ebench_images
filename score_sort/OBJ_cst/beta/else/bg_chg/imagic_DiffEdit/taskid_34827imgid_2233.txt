@@ -1,0 +1,5 @@
+org_img_id: 2233
+org_cap: the black car has a sleek, curved design with a black finish, 17-inch alloy wheels, and a distinctive spoiler on the back.
+trg_cap: The black car, parked against the backdrop of a serene countryside farm, has a sleek, curved design with a black finish, 17-inch alloy wheels, and a distinctive spoiler on the back.
+instruction: Change the background to country side farm.
+taskid: 34827

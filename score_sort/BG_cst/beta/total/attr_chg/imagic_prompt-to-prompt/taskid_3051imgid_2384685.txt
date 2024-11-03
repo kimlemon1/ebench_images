@@ -1,0 +1,5 @@
+org_img_id: 2384685
+org_cap: The scene is focused on a smiling young person.
+trg_cap: The scene is focused on a smiling elderly person.
+instruction: Change the state of the person from young to elderly.
+taskid: 3051

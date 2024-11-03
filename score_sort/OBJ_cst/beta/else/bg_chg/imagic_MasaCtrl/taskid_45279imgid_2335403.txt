@@ -1,0 +1,5 @@
+org_img_id: 2335403
+org_cap: a young person in their early teens, wearing a helmet and knee pads, stands on a person, with a confident expression on their face.
+trg_cap: A young person in their early teens, wearing a helmet and knee pads, stands on a skateboard in the desert, with a confident expression on their face.
+instruction: Change the background to desert.
+taskid: 45279

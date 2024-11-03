@@ -1,0 +1,5 @@
+org_img_id: 2362834
+org_cap: the illustration features a formal portrait of person, with a stern expression and a beard, surrounded by ornate borders and typography.
+trg_cap: The illustration features a formal portrait of a bottle, surrounded by ornate borders and typography.
+instruction: Replace the person with a bottle.
+taskid: 109006

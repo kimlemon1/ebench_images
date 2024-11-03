@@ -1,0 +1,5 @@
+org_img_id: 2395064
+org_cap: a yellow kite soaring above the sandy beach, with the city skyline visible in the background.
+trg_cap: a black and white kite soaring above the sandy beach, with the city skyline visible in the background.
+instruction: Change the color of the kite from yellow to black and white.
+taskid: 213

@@ -1,0 +1,5 @@
+org_img_id: 2355267_1
+org_cap: a skateboarder in a white t-shirt and gray pants jumps off the ground, his legs bent and his feet splayed as he lands a trick on his black skateboard.
+trg_cap: The graffiti art depicts a skateboarder in a white t-shirt and gray pants jumping off the ground, his legs bent and feet splayed as he lands a trick on his black skateboard.
+instruction: Change the style if the image to graffiti art.
+taskid: 20849

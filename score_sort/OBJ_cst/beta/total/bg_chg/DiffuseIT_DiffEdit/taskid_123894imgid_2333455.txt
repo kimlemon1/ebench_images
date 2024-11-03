@@ -1,0 +1,5 @@
+org_img_id: 2333455
+org_cap: Person on the beach, wearing a black wetsuit and a surfboard with a blue and green striped fin.
+trg_cap: Person on the beach, wearing a black wetsuit and a surfboard with a blue and green striped fin, as if they had just returned from a training session on a space station.
+instruction: Change the background to space station.
+taskid: 123894

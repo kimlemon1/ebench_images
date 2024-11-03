@@ -1,0 +1,5 @@
+org_img_id: 2417738_1
+org_cap: A blue, striped tie hangs from the neck of a grey suit, with a pink pocket square peeking out from the breast pocket.
+trg_cap: A blue, green tie hangs from the neck of a grey suit, with a pink pocket square peeking out from the breast pocket.
+instruction: Change the color of the tie from striped to green.
+taskid: 122740

@@ -1,0 +1,5 @@
+org_img_id: 150416
+org_cap: a group of friends, dressed in yellow shirts and shorts, gather on a grassy field, holding a white frisbee and smiling together, with one person lying down and holding it above his head.
+trg_cap: A group of friends, dressed in yellow shirts and shorts, gather on a grassy field, holding a white frisbee and smiling together, with one person lying down and holding it above his head, and another person standing in front of the frisbee.
+instruction: Add a person in front of the frisbee.
+taskid: 106125

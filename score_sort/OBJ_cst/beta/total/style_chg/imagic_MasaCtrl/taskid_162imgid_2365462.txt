@@ -1,0 +1,5 @@
+org_img_id: 2365462
+org_cap: a person on a black skateboard
+trg_cap: A cartoon style art depicts a person on a black skateboard.
+instruction: Change the style if the image to cartoon style.
+taskid: 162

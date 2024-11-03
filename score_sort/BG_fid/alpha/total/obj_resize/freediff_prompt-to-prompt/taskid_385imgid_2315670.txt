@@ -1,0 +1,5 @@
+org_img_id: 2315670
+org_cap: a single, vibrant broccoli sits atop a striped tablecloth, surrounded by a few yellow carrots and a scattering of leaves.
+trg_cap: a single, small, vibrant broccoli sits atop a striped tablecloth, surrounded by a few yellow carrots and a scattering of leaves.
+instruction: Make the broccoli smaller.
+taskid: 385

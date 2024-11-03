@@ -1,0 +1,5 @@
+org_img_id: 2386596
+org_cap: A standing, striped zebra stands in a sunny clearing, its ears perked up.
+trg_cap: A standing, white zebra stands in a sunny clearing, its ears perked up.
+instruction: Change the color of the zebra from striped to white.
+taskid: 115906

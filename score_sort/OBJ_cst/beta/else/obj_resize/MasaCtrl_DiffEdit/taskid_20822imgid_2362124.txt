@@ -1,0 +1,5 @@
+org_img_id: 2362124
+org_cap: the scene is focused on a smiling woman with a slender face and long black hair, sitting closely to a man with a white dress shirt and a black necktie.
+trg_cap: the scene is focused on a smiling woman with a slender face and long black hair, sitting closely to a man with a white dress shirt and a small black necktie.
+instruction: Make the tie smaller.
+taskid: 20822

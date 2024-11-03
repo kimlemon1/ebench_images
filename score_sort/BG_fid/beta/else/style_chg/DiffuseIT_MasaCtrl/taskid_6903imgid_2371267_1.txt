@@ -1,0 +1,5 @@
+org_img_id: 2371267_1
+org_cap: Standing, smiling, the person wears a suit with a shirt and a tie, his glasses on the end of his nose, his facial hair trimmed, and a smile on his face.
+trg_cap: The cartoon-style art depicts a person standing and smiling, wearing a suit with a shirt and tie, glasses perched on the end of his nose, trimmed facial hair, and a smile on his face.
+instruction: Change the style if the image to cartoon style.
+taskid: 6903

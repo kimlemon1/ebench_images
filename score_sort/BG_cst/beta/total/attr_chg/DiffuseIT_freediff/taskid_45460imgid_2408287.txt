@@ -1,0 +1,5 @@
+org_img_id: 2408287
+org_cap: a white truck with a flatbed trailer attached, carrying a load of bright orange pumpkins, with a faded logo on the side and a worn-out bumper.
+trg_cap: a pink truck with a flatbed trailer attached, carrying a load of bright orange pumpkins, with a faded logo on the side and a worn-out bumper.
+instruction: Change the color of the truck from white to pink.
+taskid: 45460

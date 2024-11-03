@@ -1,0 +1,5 @@
+org_img_id: 2389526
+org_cap: a woman walks down the street, her black umbrella held high against the rain as she approaches a brick wall covered in green shamrocks.
+trg_cap: A graffiti art depicts a woman walking down the street, her black umbrella held high against the rain, as she approaches a brick wall covered in green shamrocks.
+instruction: Change the style if the image to graffiti art.
+taskid: 40306

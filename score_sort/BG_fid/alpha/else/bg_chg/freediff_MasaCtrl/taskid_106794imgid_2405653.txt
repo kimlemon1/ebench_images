@@ -1,0 +1,5 @@
+org_img_id: 2405653
+org_cap: A standing person stands under a black umbrella on a sunny day, in a sundress and a hat.
+trg_cap: A standing person stands under a black umbrella on a sunny day, in a sundress and a hat, in front of the entrance to a cave.
+instruction: Change the background to cave.
+taskid: 106794

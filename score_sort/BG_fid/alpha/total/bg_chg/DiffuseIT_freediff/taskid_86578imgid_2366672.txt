@@ -1,0 +1,5 @@
+org_img_id: 2366672
+org_cap: A person sat in a black iron chair, leaning back with their eyes closed, surrounded by the shiny floor and glass walls of a shopping mall.
+trg_cap: A person sat in a black iron chair, leaning back with their eyes closed, surrounded by the rugged stone walls and echoing chambers of a cave.
+instruction: Change the background to cave.
+taskid: 86578

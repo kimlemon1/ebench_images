@@ -1,0 +1,5 @@
+org_img_id: 2357553
+org_cap: a red kite with a striped kite and a black kite flies high in the sky against a bright blue background with a cityscape in the distance.
+trg_cap: a red kite with a striped kite and a black kite flies high in the sky against a bright blue background with a cityscape in the distance, with a dog on the left side of the kite.
+instruction: Add a dog on the left side of the kite.
+taskid: 2915

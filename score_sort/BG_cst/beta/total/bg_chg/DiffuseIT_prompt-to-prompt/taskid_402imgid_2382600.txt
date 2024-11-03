@@ -1,0 +1,5 @@
+org_img_id: 2382600
+org_cap: The gray airplane stands proudly on the tarmac, its engines gleaming in the sunlight.
+trg_cap: The gray airplane stands proudly on the tarmac, its engines gleaming in the sunlight, with a backdrop of a lush pine forest.
+instruction: Change the background to pine forest.
+taskid: 402

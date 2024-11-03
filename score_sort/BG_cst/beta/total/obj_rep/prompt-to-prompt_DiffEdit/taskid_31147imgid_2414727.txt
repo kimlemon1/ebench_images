@@ -1,0 +1,5 @@
+org_img_id: 2414727
+org_cap: the kitchen features a warm orange wall, complemented by the rich tones of the wooden cabinets and the gleaming finish on the appliances, including a black microwave.
+trg_cap: The kitchen features a warm orange wall, complemented by the rich tones of the wooden cabinets and their gleaming finish on the appliances, including a toaster.
+instruction: Replace the microwave with a toaster.
+taskid: 31147

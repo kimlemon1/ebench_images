@@ -1,0 +1,5 @@
+org_img_id: 2390862
+org_cap: A person holds a white frisbee in his hand.
+trg_cap: A person stands in front of another person who holds a white frisbee in his hand.
+instruction: Add a person in front of the frisbee.
+taskid: 96524

@@ -1,0 +1,5 @@
+org_img_id: 2352685
+org_cap: A blue train stands at the platform, its doors open and ready to depart, while a clock looms in the background, its face displaying the time.
+trg_cap: A blue train stands at the platform, its doors open and ready to depart, while a clock looms in the background, its face displaying the time, with a person standing beneath it.
+instruction: Add a person under the clock.
+taskid: 137

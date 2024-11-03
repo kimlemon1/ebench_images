@@ -1,0 +1,5 @@
+org_img_id: 2333533
+org_cap: a wooden bench with a worn wooden bench and backrest, situated beside a serene pond with calm waters and lush greenery surrounding it.
+trg_cap: An oil painting style art depicts a wooden bench with a worn backrest, situated beside a serene pond with calm waters and lush greenery surrounding it.
+instruction: Change the style if the image to oil painting style.
+taskid: 34329

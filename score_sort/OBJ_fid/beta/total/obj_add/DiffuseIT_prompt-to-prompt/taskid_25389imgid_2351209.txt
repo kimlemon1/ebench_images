@@ -1,0 +1,5 @@
+org_img_id: 2351209
+org_cap: person on his snowboard, his arms and legs splayed as he through the powder on the mountain.
+trg_cap: The person behind the snowboard, his arms and legs splayed as he through the powder on the mountain.
+instruction: Add a person behind the snowboard.
+taskid: 25389

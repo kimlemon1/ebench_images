@@ -1,0 +1,5 @@
+org_img_id: 2370790_0
+org_cap: a silver bicycle with a worn-out seat and rusty chain leans against a faded yellow sign with black letters reading "crocodile hotel".
+trg_cap: An ancient Egyptian-style artwork features a silver bicycle with a worn-out seat and rusty chain leaning against a faded yellow sign with black letters reading "Crocodile Hotel."
+instruction: Change the style if the image to ancient egypt style.
+taskid: 7

@@ -1,0 +1,5 @@
+org_img_id: 2337229
+org_cap: The scene features a white keyboard resting on a wooden desk with a warm, golden tone.
+trg_cap: The scene features a blue keyboard resting on a wooden desk with a warm, golden tone.
+instruction: Change the color of the keyboard from white to blue.
+taskid: 48076

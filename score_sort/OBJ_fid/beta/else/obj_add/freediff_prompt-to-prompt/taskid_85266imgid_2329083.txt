@@ -1,0 +1,5 @@
+org_img_id: 2329083
+org_cap: a young woman with short, dark hair and a pink top, holding a giant donut in her hand.
+trg_cap: A young woman with short, dark hair and a pink top, holding a giant donut in her hand, stands next to a person.
+instruction: Add a person next to the donut.
+taskid: 85266

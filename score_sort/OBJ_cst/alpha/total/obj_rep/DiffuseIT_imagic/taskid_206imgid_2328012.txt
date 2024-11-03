@@ -1,0 +1,5 @@
+org_img_id: 2328012
+org_cap: a fluffy, grey cat with a long, bushy tail and piercing green eyes out of a worn, brown leather purse.
+trg_cap: broccoli out of a worn, brown leather purse.
+instruction: Replace the cat with a broccoli.
+taskid: 206

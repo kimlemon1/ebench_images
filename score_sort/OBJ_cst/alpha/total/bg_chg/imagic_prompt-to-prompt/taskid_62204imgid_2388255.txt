@@ -1,0 +1,5 @@
+org_img_id: 2388255
+org_cap: "person swings her racket, her slender fingers wrapped around the handle as she prepares to hit the ball with a forehand stroke, her blonde ponytail bobbing with each movement."
+trg_cap: On a countryside farm, the person swings her racket, her slender fingers wrapped around the handle as she prepares to hit the ball with a forehand stroke, her blonde ponytail bobbing with each movement.
+instruction: Change the background to country side farm.
+taskid: 62204

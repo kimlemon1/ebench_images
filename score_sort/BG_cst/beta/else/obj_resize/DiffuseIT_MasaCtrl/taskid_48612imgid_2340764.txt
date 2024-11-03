@@ -1,0 +1,5 @@
+org_img_id: 2340764
+org_cap: a white flying bird as it soars over the ocean waves.
+trg_cap: a small white flying bird as it soars over the ocean waves.
+instruction: Make the bird smaller.
+taskid: 48612

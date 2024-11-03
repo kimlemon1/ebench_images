@@ -1,0 +1,5 @@
+org_img_id: 2349479
+org_cap: A white cow in a sunlit meadow, its horns and ears visible.
+trg_cap: A white bird, its wings and ears visible.
+instruction: Replace the cow with a bird.
+taskid: 79140

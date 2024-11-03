@@ -1,0 +1,5 @@
+org_img_id: 2346263
+org_cap: A white plate holds a slice of yellow cake, accompanied by a brown cup of coffee and a fork lying idly beside it.
+trg_cap: In the gym's break area, a white plate holds a slice of yellow cake, accompanied by a brown cup of coffee and a fork lying idly beside it.
+instruction: Change the background to gym.
+taskid: 83103

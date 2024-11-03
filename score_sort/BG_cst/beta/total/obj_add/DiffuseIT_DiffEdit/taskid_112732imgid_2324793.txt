@@ -1,0 +1,5 @@
+org_img_id: 2324793
+org_cap: The scene is focused on the intricate details of the clock, with its white stone and ornate carvings, set against a bright blue sky with puffy white clouds.
+trg_cap: The scene is focused on the intricate details of the clock, with its white stone and ornate carvings, set against a bright blue sky with puffy white clouds, with a book located under the clock.
+instruction: Add a book under the clock.
+taskid: 112732

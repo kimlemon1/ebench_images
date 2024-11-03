@@ -1,0 +1,5 @@
+org_img_id: 2404378
+org_cap: A white zebra grazing on the grassy plain, its stripes in the sunlight as a herd of elephants and a bird watch from a distance.
+trg_cap: A patterned zebra grazing on the grassy plain, its stripes in the sunlight as a herd of elephants and a bird watch from a distance.
+instruction: Change the color of the zebra from white to patterned.
+taskid: 27134

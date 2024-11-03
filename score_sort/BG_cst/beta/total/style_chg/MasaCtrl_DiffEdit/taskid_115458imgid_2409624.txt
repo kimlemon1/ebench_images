@@ -1,0 +1,5 @@
+org_img_id: 2409624
+org_cap: The swinging, blond person swings her racket, her hair tied back in a ponytail and her tennis dress fluttering, playing.
+trg_cap: A grey scale photo shows a swinging, blond person playing tennis, her hair tied back in a ponytail and her tennis dress fluttering as she swings her racket.
+instruction: Change the style if the image to grey scale.
+taskid: 115458

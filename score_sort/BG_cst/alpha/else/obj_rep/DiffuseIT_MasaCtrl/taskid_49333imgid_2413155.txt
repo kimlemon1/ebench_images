@@ -1,0 +1,5 @@
+org_img_id: 2413155
+org_cap: The clock face on the exterior of the building is a white clock, set against a backdrop of ornate stonework and columns.
+trg_cap: The donut facade on the exterior of the building is set against a backdrop of ornate stonework and columns.
+instruction: Replace the clock with a donut.
+taskid: 49333

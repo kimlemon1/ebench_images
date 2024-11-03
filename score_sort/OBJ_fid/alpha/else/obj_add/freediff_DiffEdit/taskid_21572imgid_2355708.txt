@@ -1,0 +1,5 @@
+org_img_id: 2355708
+org_cap: Crouching, surfing person rides a pink surfboard through turbulent waves, arms and legs splayed as he carves a path through the water.
+trg_cap: Crouching, surfing person rides a pink surfboard through turbulent waves, arms and legs splayed as he carves a path through the water, with another person positioned behind the surfboard.
+instruction: Add a person behind the surfboard.
+taskid: 21572

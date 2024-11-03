@@ -1,0 +1,5 @@
+org_img_id: 2328011
+org_cap: a black and white dog lies on a couch, its paws and its head, surrounded by a warm glow.
+trg_cap: A black and white bowl lies on the couch, surrounded by a warm glow.
+instruction: Replace the dog with a bowl.
+taskid: 202

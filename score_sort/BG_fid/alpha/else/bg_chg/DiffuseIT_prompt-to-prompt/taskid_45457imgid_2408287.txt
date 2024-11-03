@@ -1,0 +1,5 @@
+org_img_id: 2408287
+org_cap: a white truck with a flatbed trailer attached, carrying a load of bright orange pumpkins, with a faded logo on the side and a worn-out bumper.
+trg_cap: A white truck with a flatbed trailer attached, carrying a load of bright orange pumpkins, with a faded logo on the side and a worn-out bumper, was parked on the sandy beach, the sound of waves crashing nearby.
+instruction: Change the background to beach.
+taskid: 45457

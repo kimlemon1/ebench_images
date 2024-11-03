@@ -1,0 +1,5 @@
+org_img_id: 2417997
+org_cap: The green bus stood tall on the dusty road, its wheels covered in a layer of dirt and its windows reflecting the bright blue sky.
+trg_cap: The green bus stood tall on the dusty road near the beach, its wheels covered in a layer of dirt and its windows reflecting the bright blue sky.
+instruction: Change the background to beach.
+taskid: 29713

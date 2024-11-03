@@ -1,0 +1,5 @@
+org_img_id: 2391074
+org_cap: smiling person at a red tie, surrounded by a plate of pasta and a slice of pizza.
+trg_cap: smiling person at a large red tie, surrounded by a plate of pasta and a slice of pizza.
+instruction: Make the tie larger.
+taskid: 99768

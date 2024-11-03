@@ -1,0 +1,5 @@
+org_img_id: 2339679
+org_cap: "person stands on the person's mound, his eyes fixed on the person, his gloved hand ready to throw the next pitch, his red cleats on the grass, his athletic build evident."
+trg_cap: In the bustling restaurant, person stands on the person's mound, his eyes fixed on the person, his gloved hand ready to throw the next pitch, his red cleats on the grass, his athletic build evident.
+instruction: Change the background to restaurant.
+taskid: 87145

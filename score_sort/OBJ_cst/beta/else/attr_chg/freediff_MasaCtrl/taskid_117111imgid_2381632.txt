@@ -1,0 +1,5 @@
+org_img_id: 2381632
+org_cap: A white surfboard lies on the sandy beach, its fin pointing towards the clear blue sky, with the gentle waves of the ocean lapping at its edge.
+trg_cap: A dark blue surfboard lies on the sandy beach, its fin pointing towards the clear blue sky, with the gentle waves of the ocean lapping at its edge.
+instruction: Change the color of the surfboard from white to dark blue.
+taskid: 117111

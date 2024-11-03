@@ -1,0 +1,5 @@
+org_img_id: 2341872
+org_cap: a young person lies on a yellow surfboard, her arms and legs stretched out as she glides through the waves.
+trg_cap: a young person lies on a pink surfboard, her arms and legs stretched out as she glides through the waves.
+instruction: Change the color of the surfboard from yellow to pink.
+taskid: 100733

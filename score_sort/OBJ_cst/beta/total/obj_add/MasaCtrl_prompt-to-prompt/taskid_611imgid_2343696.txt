@@ -1,0 +1,5 @@
+org_img_id: 2343696
+org_cap: the clock face is a striking feature of the tower, with its intricate details and ornate design.
+trg_cap: The clock face is a striking feature of the tower, with its intricate details and ornate design, and a bench is located on the left side of the clock.
+instruction: Add a bench on the left side of the clock.
+taskid: 611

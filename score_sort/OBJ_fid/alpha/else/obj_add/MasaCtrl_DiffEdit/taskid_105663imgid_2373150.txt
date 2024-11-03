@@ -1,0 +1,5 @@
+org_img_id: 2373150
+org_cap: A standing person stands on a paddleboard, glistening in the sunlight as the waves the board.
+trg_cap: A standing person stands on a paddleboard, with a surfboard strapped to their back, glistening in the sunlight as the waves the board.
+instruction: Add a surfboard on the person.
+taskid: 105663

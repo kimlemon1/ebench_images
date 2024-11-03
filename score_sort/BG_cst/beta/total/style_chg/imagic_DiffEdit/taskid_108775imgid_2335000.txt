@@ -1,0 +1,5 @@
+org_img_id: 2335000
+org_cap: a eurofighter typhoon gray airplane soars through the sky, its sleek design and powerful engines propelling it at incredible speeds as it performs a series of impressive aerial stunts.
+trg_cap: A Van Gogh style artwork features a Eurofighter Typhoon gray airplane soaring through the sky, its sleek design and powerful engines propelling it at incredible speeds as it performs a series of impressive aerial stunts.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 108775

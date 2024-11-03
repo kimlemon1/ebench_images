@@ -1,0 +1,5 @@
+org_img_id: 2352685
+org_cap: A blue train stands at the platform, its doors open and ready to depart, while a clock looms in the background, its face displaying the time.
+trg_cap: A small blue train stands at the platform, its doors open and ready to depart, while a clock looms in the background, its face displaying the time.
+instruction: Make the train smaller.
+taskid: 148

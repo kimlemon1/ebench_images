@@ -1,0 +1,5 @@
+org_img_id: 2318946
+org_cap: A military gray airplane soars through the sky at a high speed, its engines roaring loudly as it performs a sharp turn and dives towards the ground.
+trg_cap: A military black airplane soars through the sky at a high speed, its engines roaring loudly as it performs a sharp turn and dives towards the ground.
+instruction: Change the color of the airplane from gray to black.
+taskid: 78976

@@ -1,0 +1,5 @@
+org_img_id: 2353368
+org_cap: The bus is a bright red, futuristic bus with a curved, spaceship-like design, featuring a colorful, swirling pattern on its sides and a prominent, glowing logo on its front.
+trg_cap: The bus is a small, bright red, futuristic bus with a curved, spaceship-like design, featuring a colorful, swirling pattern on its sides and a prominent, glowing logo on its front.
+instruction: Make the bus smaller.
+taskid: 18223

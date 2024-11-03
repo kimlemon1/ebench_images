@@ -1,0 +1,5 @@
+org_img_id: 2405072
+org_cap: the ornate clock, with its intricate carvings and golden accents, dominates the wall, its face gleaming in the dim light of the historic building.
+trg_cap: The large, ornate clock, with its intricate carvings and golden accents, dominates the wall, its face gleaming in the dim light of the historic building.
+instruction: Make the clock larger.
+taskid: 31833

@@ -1,0 +1,5 @@
+org_img_id: 2377573
+org_cap: a brown dog, catching a white frisbee, its paws and its tail.
+trg_cap: a brown dog, catching a white frisbee, its paws and its tail, behind the frisbee.
+instruction: Add a dog behind the frisbee.
+taskid: 61765

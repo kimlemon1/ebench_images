@@ -1,0 +1,5 @@
+org_img_id: 2385236
+org_cap: An orange kite flails wildly in the wind, its nylon fabric rippling and fluttering as it twirls and dips in the sandy beach.
+trg_cap: An orange kite flails wildly in the wind, its nylon fabric rippling and fluttering as it twirls and dips in the sandy beach, with a person clinging to it high above.
+instruction: Add a person on the kite.
+taskid: 71101

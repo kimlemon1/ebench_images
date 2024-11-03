@@ -1,0 +1,5 @@
+org_img_id: 2383445
+org_cap: A blue umbrella stands upright on the sandy beach, its sturdy legs planted firmly in the warm sand, with two beach chairs and a cooler nearby.
+trg_cap: A small blue umbrella stands upright on the sandy beach, its sturdy legs planted firmly in the warm sand, with two beach chairs and a cooler nearby.
+instruction: Make the umbrella smaller.
+taskid: 109258

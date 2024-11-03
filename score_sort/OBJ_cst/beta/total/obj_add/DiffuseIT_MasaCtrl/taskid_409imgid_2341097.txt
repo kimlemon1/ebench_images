@@ -1,0 +1,5 @@
+org_img_id: 2341097
+org_cap: The toilet is a white toilet, surrounded by a small, blue and beige tile floor with a subtle pattern.
+trg_cap: The toilet is a white toilet, surrounded by a small, blue and beige tile floor with a subtle pattern, and a dog is sitting on the toilet.
+instruction: Add a dog on the toilet.
+taskid: 409

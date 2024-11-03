@@ -1,0 +1,5 @@
+org_img_id: 2317972
+org_cap: The kitchen features a warm beige tone on the walls, complemented by a dark hardwood floor and topped with a stainless steel refrigerator and white oven.
+trg_cap: The kitchen features a warm beige tone on the walls, complemented by a dark hardwood floor and topped with a pizza and a white oven.
+instruction: Replace the refrigerator with a pizza.
+taskid: 48322

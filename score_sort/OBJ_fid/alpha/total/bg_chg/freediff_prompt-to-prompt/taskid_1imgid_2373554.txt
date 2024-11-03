@@ -1,0 +1,5 @@
+org_img_id: 2373554
+org_cap: a young person in a green snowsuit and bright blue hat stands on snowshoes, their small legs and feet bundled up against the cold.
+trg_cap: A young person in a green snowsuit and bright blue hat stands on snowshoes, their small legs and feet bundled up against the cold, as they imagine themselves in a snowy landscape while actually standing in the warmth of their living room.
+instruction: Change the background to living room.
+taskid: 1

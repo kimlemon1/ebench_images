@@ -1,0 +1,5 @@
+org_img_id: 2348387
+org_cap: The purple route bus is a sleek, modern bus with a curved front, tinted windows, and a distinctive purple and white color scheme.
+trg_cap: The purple route bus is a small, sleek, modern bus with a curved front, tinted windows, and a distinctive purple and white color scheme.
+instruction: Make the bus smaller.
+taskid: 9247

@@ -1,0 +1,5 @@
+org_img_id: 2399393_0
+org_cap: A brown skateboard is held in a person's hand, with the wheels visible, and the trucks and bearings hidden from view.
+trg_cap: A Van Gogh style art depicts a brown skateboard held in a person's hand, with the wheels visible and the trucks and bearings hidden from view.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 61420

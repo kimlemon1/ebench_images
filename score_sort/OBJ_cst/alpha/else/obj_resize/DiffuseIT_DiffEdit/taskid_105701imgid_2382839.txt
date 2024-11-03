@@ -1,0 +1,5 @@
+org_img_id: 2382839
+org_cap: The white sink is with a gold-toned faucet and a rectangular mirror above it, surrounded by marble countertops and a granite backsplash.
+trg_cap: The large white sink is with a gold-toned faucet and a rectangular mirror above it, surrounded by marble countertops and a granite backsplash.
+instruction: Make the sink larger.
+taskid: 105701

@@ -1,0 +1,5 @@
+org_img_id: 2361349_1
+org_cap: a blue-clad person runs across the green grass of a soccer field, their cleats kicking up small divots of dirt as they chase after a rolling sports ball.
+trg_cap: A blue-clad person runs across the green grass of a soccer field, his or her cleats kicking up small divots of dirt as he or she chases after a dog.
+instruction: Replace the sports ball with a dog.
+taskid: 87595

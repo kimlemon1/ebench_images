@@ -1,0 +1,5 @@
+org_img_id: 2367864
+org_cap: person carves through the fresh powder on their white snowboard, the wind whipping through their hair as they expertly navigate the mountain.
+trg_cap: person carves through the fresh powder on their dark blue snowboard, the wind whipping through their hair as they expertly navigate the mountain.
+instruction: Change the color of the snowboard from white to dark blue.
+taskid: 16884

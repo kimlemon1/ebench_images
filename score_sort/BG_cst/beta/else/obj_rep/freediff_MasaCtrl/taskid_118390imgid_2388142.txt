@@ -1,0 +1,5 @@
+org_img_id: 2388142
+org_cap: the pink stone spire of the church tower rises above the town square, adorned with intricate gothic architecture and a large clock at its peak.
+trg_cap: The pink stone spire of the church tower rises above the town square, adorned with intricate gothic pieces.
+instruction: Replace the clock with a pizza.
+taskid: 118390

@@ -1,0 +1,5 @@
+org_img_id: 2358288
+org_cap: a person holds a pink umbrella above their head, pink umbrella's edges fluttering in the breeze.
+trg_cap: a person holds a brown umbrella above their head, brown umbrella's edges fluttering in the breeze.
+instruction: Change the color of the umbrella from pink to brown.
+taskid: 76307

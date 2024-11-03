@@ -1,0 +1,5 @@
+org_img_id: 2404596
+org_cap: Young person stands on the tennis court, holding a racket and wearing a shirt and shoes, with a look on his face.
+trg_cap: Young, small person stands on the tennis court, holding a racket and wearing a shirt and shoes, with a look on his face.
+instruction: Make the person smaller.
+taskid: 9071

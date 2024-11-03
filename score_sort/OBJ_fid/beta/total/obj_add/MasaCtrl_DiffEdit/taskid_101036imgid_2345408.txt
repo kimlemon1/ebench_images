@@ -1,0 +1,5 @@
+org_img_id: 2345408
+org_cap: a skateboarder leaps off the ground, his skateboard spinning as he lands a trick on the concrete ramp, surrounded by the vibrant colors of the skate park and the warm glow of the sun.
+trg_cap: A skateboarder leaps off the ground, his skateboard spinning as he lands a trick on the concrete ramp, with a person underneath, surrounded by the vibrant colors of the skate park and the warm glow of the sun.
+instruction: Add a person under the skateboard.
+taskid: 101036

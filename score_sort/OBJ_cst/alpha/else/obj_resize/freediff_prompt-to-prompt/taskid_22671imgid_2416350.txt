@@ -1,0 +1,5 @@
+org_img_id: 2416350
+org_cap: a full glass and a full bottle filled with a rich, dark liquid sit on a table, surrounded by a subtle glow.
+trg_cap: a full glass and a full small bottle filled with a rich, dark liquid sit on a table, surrounded by a subtle glow.
+instruction: Make the bottle smaller.
+taskid: 22671

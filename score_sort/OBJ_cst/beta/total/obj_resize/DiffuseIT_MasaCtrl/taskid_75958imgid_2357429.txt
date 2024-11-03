@@ -1,0 +1,5 @@
+org_img_id: 2357429
+org_cap: Person on the beach, wearing a pair of grey board shorts and holding a surfboard with a worn-out fin, his chest and stomach with beads of sweat as the sun sets behind him.
+trg_cap: Small person on the beach, wearing a pair of grey board shorts and holding a surfboard with a worn-out fin, his chest and stomach with beads of sweat as the sun sets behind him.
+instruction: Make the person smaller.
+taskid: 75958

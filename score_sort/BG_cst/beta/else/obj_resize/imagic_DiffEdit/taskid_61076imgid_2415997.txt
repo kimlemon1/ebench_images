@@ -1,0 +1,5 @@
+org_img_id: 2415997
+org_cap: a bright red double-decker bus with a classic design and vintage advertisements on its sides drives down the street.
+trg_cap: a small, bright red double-decker bus with a classic design and vintage advertisements on its sides drives down the street.
+instruction: Make the bus smaller.
+taskid: 61076

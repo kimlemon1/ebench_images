@@ -1,0 +1,5 @@
+org_img_id: 2340764
+org_cap: a white flying bird as it soars over the ocean waves.
+trg_cap: a light brown flying bird as it soars over the ocean waves.
+instruction: Change the color of the bird from white to light brown.
+taskid: 48613

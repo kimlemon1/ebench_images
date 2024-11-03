@@ -1,0 +1,5 @@
+org_img_id: 2321685
+org_cap: a skateboarder in blue jeans and a blue helmet crouches low to the ground, his knee pads and elbow pads visible as he approaches a curved rail in a skateboard.
+trg_cap: a skateboarder in blue jeans and a blue helmet crouches low to the ground, his knee pads and elbow pads visible as he approaches a curved rail in a small skateboard.
+instruction: Make the skateboard smaller.
+taskid: 78560

@@ -1,0 +1,5 @@
+org_img_id: 2405059
+org_cap: The motorcycle has a sleek, gray and silver finish, with a chrome-plated wheel and a distinctive curved design on the handlebars.
+trg_cap: The motorcycle, designed for traversing the arid desert landscapes, has a sleek, gray and silver finish, with a chrome-plated wheel and a distinctive curved design on the handlebars.
+instruction: Change the background to desert.
+taskid: 59901

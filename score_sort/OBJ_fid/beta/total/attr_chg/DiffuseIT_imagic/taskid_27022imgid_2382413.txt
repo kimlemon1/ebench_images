@@ -1,0 +1,5 @@
+org_img_id: 2382413
+org_cap: The white toilet is a fixture with a low profile and a single handle.
+trg_cap: The yellow toilet is a fixture with a low profile and a single handle.
+instruction: Change the color of the toilet from white to yellow.
+taskid: 27022

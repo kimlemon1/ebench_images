@@ -1,0 +1,5 @@
+org_img_id: 2413668
+org_cap: A white airplane flies through the clear blue sky, its wings and tail visible as it soars above a layer of white clouds.
+trg_cap: A gray airplane flies through the clear blue sky, its wings and tail visible as it soars above a layer of gray clouds.
+instruction: Change the color of the airplane from white to gray.
+taskid: 101918

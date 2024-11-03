@@ -1,0 +1,5 @@
+org_img_id: 2326167
+org_cap: a jumping black dog, its paws and its tail as it, with a person standing nearby.
+trg_cap: a jumping black and white dog, its paws and its tail as it, with a person standing nearby.
+instruction: Change the color of the dog from black to black and white.
+taskid: 369

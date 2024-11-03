@@ -1,0 +1,5 @@
+org_img_id: 150457
+org_cap: a worn wooden chair sits in a dimly lit room, with a black keyboard placed neatly on a small wooden desk, surrounded by scattered papers and tools.
+trg_cap: A worn wooden chair sits in a dimly lit room, with a black keyboard placed neatly on a small wooden desk, a TV on the keyboard, surrounded by scattered papers and tools.
+instruction: Add a tv on the keyboard.
+taskid: 106262

@@ -1,0 +1,5 @@
+org_img_id: 2388452
+org_cap: A black cat on a patchwork quilt, surrounded by a pink teddy bear and a ball of yarn.
+trg_cap: A black cat on a patchwork quilt, surrounded by a pink teddy bear and a ball of yarn, sat quietly on a bench at the bustling train station.
+instruction: Change the background to train station.
+taskid: 174

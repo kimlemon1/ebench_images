@@ -1,0 +1,5 @@
+org_img_id: 2342658
+org_cap: a person holds a green frisbee in his hand, his fingers wrapped around it as he prepares to throw it.
+trg_cap: A Van Gogh style art depicts a person holding a green frisbee, his fingers wrapped around it as he prepares to throw it.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 102501

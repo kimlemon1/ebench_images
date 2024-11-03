@@ -1,0 +1,5 @@
+org_img_id: 2398918_1
+org_cap: a skateboarder's foot is suspended in mid-air as he leaps off the pavement, his skateboard flying out from under him, wheels spinning wildly as it hurtles towards the camera.
+trg_cap: A graffiti art depicts a skateboarder's foot suspended in mid-air as he leaps off the pavement, with his skateboard flying out from under him, wheels spinning wildly as it hurtles towards the camera.
+instruction: Change the style if the image to graffiti art.
+taskid: 80049

@@ -1,0 +1,5 @@
+org_img_id: 2351562
+org_cap: person holds a glazed donut with colorful sprinkles on his hand, a warm and inviting smile on his face.
+trg_cap: In the bustling train station, a person holds a glazed donut with colorful sprinkles on his hand, a warm and inviting smile on his face.
+instruction: Change the background to train station.
+taskid: 372

@@ -1,0 +1,5 @@
+org_img_id: 2379225_1
+org_cap: a woman with a tattoo on her shoulder and wearing a black tank top, flared jeans, and a brown belt walks down the street with a white dog.
+trg_cap: A pop art style artwork features a woman with a tattoo on her shoulder, wearing a black tank top, flared jeans, and a brown belt, walking down the street with a white dog.
+instruction: Change the style if the image to pop art style.
+taskid: 99146

@@ -1,0 +1,5 @@
+org_img_id: 2380400_1
+org_cap: a person wearing a red shirt throws an orange frisbee, causing it to fly in a curved trajectory as he watches the orange frisbee soar through the air.
+trg_cap: A person wearing a red shirt throws an orange frisbee, causing it to fly in a curved trajectory as he watches the orange frisbee soar through the air, with another person on the frisbee.
+instruction: Add a person on the frisbee.
+taskid: 64820

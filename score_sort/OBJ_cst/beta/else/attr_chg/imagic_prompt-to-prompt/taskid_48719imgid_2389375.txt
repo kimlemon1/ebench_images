@@ -1,0 +1,5 @@
+org_img_id: 2389375
+org_cap: Person on silver skis, her movements as she the mountain terrain.
+trg_cap: Person on maroon skis, her movements as she the mountain terrain.
+instruction: Change the color of the skis from silver to maroon.
+taskid: 48719

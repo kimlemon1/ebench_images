@@ -1,0 +1,5 @@
+org_img_id: 2325254
+org_cap: a young person with a round face and big brown eyes holds a hot dog in his hand, the hot dog slightly bent and the condiments smeared across his small fingers.
+trg_cap: A young person with a round face and big brown eyes holds a hot dog in his hand, the hot dog slightly bent and the condiments smeared across his small fingers, while standing next to another person.
+instruction: Add a person next to the hot dog.
+taskid: 37403

@@ -1,0 +1,5 @@
+org_img_id: 2372806
+org_cap: a sleek, high-speed train, with a gleaming white body and a distinctive nose cone, sits on the platform, its wheels aligned precisely on the train, awaiting departure as the winter sun casts a warm glow on the scene.
+trg_cap: a sleek, small, high-speed train, with a gleaming white body and a distinctive nose cone, sits on the platform, its wheels aligned precisely on the train, awaiting departure as the winter sun casts a warm glow on the scene.
+instruction: Make the train smaller.
+taskid: 79653

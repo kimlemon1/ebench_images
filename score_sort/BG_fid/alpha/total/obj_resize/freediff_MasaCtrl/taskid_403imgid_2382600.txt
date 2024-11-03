@@ -1,0 +1,5 @@
+org_img_id: 2382600
+org_cap: The gray airplane stands proudly on the tarmac, its engines gleaming in the sunlight.
+trg_cap: The small gray airplane stands proudly on the tarmac, its engines gleaming in the sunlight.
+instruction: Make the airplane smaller.
+taskid: 403

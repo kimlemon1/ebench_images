@@ -1,0 +1,5 @@
+org_img_id: 2335519
+org_cap: A white truck sits parked on the side of the road, its tires covered in dirt and mud.
+trg_cap: A white truck sits parked on the side of the road, its tires covered in dirt and mud, against the backdrop of a vast snow field.
+instruction: Change the background to snow field.
+taskid: 122324

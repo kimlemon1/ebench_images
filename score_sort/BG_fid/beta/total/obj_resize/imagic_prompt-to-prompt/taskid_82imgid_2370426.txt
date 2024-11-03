@@ -1,0 +1,5 @@
+org_img_id: 2370426
+org_cap: the black clock above the counter dominates the room, its ornate face and intricate details drawing the eye upwards.
+trg_cap: The small black clock above the counter dominates the room, its ornate face and intricate details drawing the eye upwards.
+instruction: Make the clock smaller.
+taskid: 82

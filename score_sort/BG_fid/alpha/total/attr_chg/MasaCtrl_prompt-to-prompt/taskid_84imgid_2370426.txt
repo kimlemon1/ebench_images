@@ -1,0 +1,5 @@
+org_img_id: 2370426
+org_cap: the black clock above the counter dominates the room, its ornate face and intricate details drawing the eye upwards.
+trg_cap: the silver clock above the counter dominates the room, its ornate face and intricate details drawing the eye upwards.
+instruction: Change the color of the clock from black to silver.
+taskid: 84

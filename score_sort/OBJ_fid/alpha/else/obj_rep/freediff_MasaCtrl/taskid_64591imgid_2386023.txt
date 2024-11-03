@@ -1,0 +1,5 @@
+org_img_id: 2386023
+org_cap: The green glass vase sits atop a rocky outcropping, its glaze glistening in the sunlight, surrounded by a tumble of mossy stones and sprigs of bright green foliage.
+trg_cap: The sports ball sits atop a rocky outcropping, surrounded by a tumble of mossy stones and sprigs of bright green foliage.
+instruction: Replace the vase with a sports ball.
+taskid: 64591

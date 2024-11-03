@@ -1,0 +1,5 @@
+org_img_id: 2338238
+org_cap: "a person with a ruggedly handsome face, a strong physique, and a distinctive hairstyle featuring a ponytail and a few loose strands framing his face, in a pair of grey shorts, his eyes slightly against the sun as he out at the serene waters."
+trg_cap: a person with a ruggedly handsome face, a strong physique, and a distinctive hairstyle featuring a ponytail and a few loose strands framing his face, in a pair of grey shorts, his eyes slightly against the sun as he gazes out from the living room at the serene waters.
+instruction: Change the background to living room.
+taskid: 9659

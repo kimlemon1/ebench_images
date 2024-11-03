@@ -1,0 +1,5 @@
+org_img_id: 713132
+org_cap: a blue truck, driven by a person.
+trg_cap: a small blue truck, driven by a person.
+instruction: Make the truck smaller.
+taskid: 110947

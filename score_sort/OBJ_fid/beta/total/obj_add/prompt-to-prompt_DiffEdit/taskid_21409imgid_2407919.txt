@@ -1,0 +1,5 @@
+org_img_id: 2407919
+org_cap: person throws a white frisbee, her arm and her hand releasing the white frisbee, as she to track its flight.
+trg_cap: A person standing under the frisbee throws a white frisbee, her arm and her hand releasing the white frisbee, as she to track its flight.
+instruction: Add a person under the frisbee.
+taskid: 21409

@@ -1,0 +1,5 @@
+org_img_id: 2334705
+org_cap: The white motorcycle has a sleek design with a white tank, red stripes, and a black seat, with a helmet and jacket lying nearby.
+trg_cap: The pencil sketch art features a white motorcycle with a sleek design, a white tank, red stripes, and a black seat, accompanied by a helmet and jacket lying nearby.
+instruction: Change the style if the image to pencil sketch.
+taskid: 187

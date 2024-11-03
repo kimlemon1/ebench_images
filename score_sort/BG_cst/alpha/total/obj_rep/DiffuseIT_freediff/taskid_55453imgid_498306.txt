@@ -1,0 +1,5 @@
+org_img_id: 498306
+org_cap: "person crouches on his skateboard, his knees and his feet as he pushes off the ground and begins to glide across the pavement, his long hair in the wind as he carves through the air with a motion."
+trg_cap: Zebra crouches on their skateboard as they push off the ground and begin to glide across the pavement.
+instruction: Replace the person with a zebra.
+taskid: 55453

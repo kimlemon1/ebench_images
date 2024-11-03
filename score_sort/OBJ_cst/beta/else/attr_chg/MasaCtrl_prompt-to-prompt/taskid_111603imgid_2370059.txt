@@ -1,0 +1,5 @@
+org_img_id: 2370059
+org_cap: The silver laptop sat on the wooden desk, its black keyboard in the soft light.
+trg_cap: The silver laptop sat on the wooden desk, its blue keyboard in the soft light.
+instruction: Change the color of the keyboard from black to blue.
+taskid: 111603

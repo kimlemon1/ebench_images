@@ -1,0 +1,5 @@
+org_img_id: 2331240
+org_cap: Person, with long blonde hair and a determined expression, the challenging slopes of the ski course.
+trg_cap: A pencil sketch art depicts a person with long blonde hair and a determined expression navigating the challenging slopes of the ski course.
+instruction: Change the style if the image to pencil sketch.
+taskid: 112

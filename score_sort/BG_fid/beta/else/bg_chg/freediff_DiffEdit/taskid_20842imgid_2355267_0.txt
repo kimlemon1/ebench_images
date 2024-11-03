@@ -1,0 +1,5 @@
+org_img_id: 2355267_0
+org_cap: "Person, wearing a white t-shirt and gray pants, his feet shoulder-width apart, his eyes fixed intently on the concrete below."
+trg_cap: Person, standing in a vineyard, wearing a white t-shirt and gray pants, his feet shoulder-width apart, his eyes fixed intently on the concrete below.
+instruction: Change the background to vineyard.
+taskid: 20842

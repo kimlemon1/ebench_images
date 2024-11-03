@@ -1,0 +1,5 @@
+org_img_id: 2331245
+org_cap: The ornate clock is a stunning example of 18th-century craftsmanship, featuring intricate gold filigree and delicate carvings of mythological creatures on its pedestal.
+trg_cap: The mosaic art contains an ornate clock, a stunning example of 18th-century craftsmanship, featuring intricate gold filigree and delicate carvings of mythological creatures on its pedestal.
+instruction: Change the style if the image to mosaic art.
+taskid: 108

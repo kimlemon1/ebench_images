@@ -1,0 +1,5 @@
+org_img_id: 2378234
+org_cap: A blue airplane, with a white and blue livery, takes off from the runway, its engines roaring as it gains speed and altitude, leaving a trail of clouds and mist behind it.
+trg_cap: A watercolor painting style art depicts a blue airplane with a white and blue livery taking off from the runway, its engines roaring as it gains speed and altitude, leaving a trail of clouds and mist behind it.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 304

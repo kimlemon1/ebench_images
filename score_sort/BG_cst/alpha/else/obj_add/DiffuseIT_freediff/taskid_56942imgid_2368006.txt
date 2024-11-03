@@ -1,0 +1,5 @@
+org_img_id: 2368006
+org_cap: A flying bird through the gray sky, its wings as it on the wind.
+trg_cap: A flying bird through the gray sky, its wings as it on the wind, with a dog following behind on the ground.
+instruction: Add a dog behind the bird.
+taskid: 56942

@@ -1,0 +1,5 @@
+org_img_id: 2318860
+org_cap: A white bus is parked on a city street.
+trg_cap: A white bus is parked on a city street near an aquarium.
+instruction: Change the background to aquarium.
+taskid: 21612

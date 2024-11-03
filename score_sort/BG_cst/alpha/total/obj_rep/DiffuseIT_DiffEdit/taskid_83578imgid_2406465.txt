@@ -1,0 +1,5 @@
+org_img_id: 2406465
+org_cap: The scene features a stroller with a red umbrella attached to the handle, providing shade for a seated mother holding a baby and surrounded by a few baby essentials.
+trg_cap: The scene features a stroller with a red backpack, providing shade for the seated mother holding her baby and surrounded by a few baby essentials.
+instruction: Replace the umbrella with a backpack.
+taskid: 83578

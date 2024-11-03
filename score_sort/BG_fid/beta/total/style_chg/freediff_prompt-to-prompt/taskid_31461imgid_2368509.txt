@@ -1,0 +1,5 @@
+org_img_id: 2368509
+org_cap: A white boat glides effortlessly across the calm, moonlit waters, its wake rippling the surface as it leaves a trail of shimmering moonlight in its wake.
+trg_cap: An oil painting style art depicts a white boat gliding effortlessly across calm, moonlit waters, its wake rippling the surface and leaving a trail of shimmering moonlight.
+instruction: Change the style if the image to oil painting style.
+taskid: 31461

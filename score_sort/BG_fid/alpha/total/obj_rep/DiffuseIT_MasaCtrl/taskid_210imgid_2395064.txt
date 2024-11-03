@@ -1,0 +1,5 @@
+org_img_id: 2395064
+org_cap: a yellow kite soaring above the sandy beach, with the city skyline visible in the background.
+trg_cap: A train, with the city skyline visible in the background.
+instruction: Replace the kite with a train.
+taskid: 210

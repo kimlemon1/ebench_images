@@ -1,0 +1,5 @@
+org_img_id: 2381145
+org_cap: a young girl and her friend sit in a bus seat, each holding a soft and lightweight sports ball with a textured surface and a rounded shape.
+trg_cap: The mosaic art depicts a young girl and her friend sitting in a bus seat, each holding a soft and lightweight sports ball with a textured surface and a rounded shape.
+instruction: Change the style if the image to mosaic art.
+taskid: 91677

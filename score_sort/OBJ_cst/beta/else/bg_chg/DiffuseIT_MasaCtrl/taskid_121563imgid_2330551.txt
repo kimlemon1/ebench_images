@@ -1,0 +1,5 @@
+org_img_id: 2330551
+org_cap: a high-speed train with sleek, aerodynamic design and gleaming white and red livery glides smoothly along the tracks, its wheels humming softly as it carries passengers to their destinations.
+trg_cap: A high-speed train with sleek, aerodynamic design and gleaming white and red livery glides smoothly along the tracks, its wheels humming softly as it carries passengers to their destinations through the lush, vibrant greenery of a tropical jungle.
+instruction: Change the background to tropical jungle.
+taskid: 121563

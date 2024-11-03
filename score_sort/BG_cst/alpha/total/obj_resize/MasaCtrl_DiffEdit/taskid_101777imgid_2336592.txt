@@ -1,0 +1,5 @@
+org_img_id: 2336592
+org_cap: a black bear, its paws sinking into the soft earth.
+trg_cap: a small black bear, its paws sinking into the soft earth.
+instruction: Make the bear smaller.
+taskid: 101777

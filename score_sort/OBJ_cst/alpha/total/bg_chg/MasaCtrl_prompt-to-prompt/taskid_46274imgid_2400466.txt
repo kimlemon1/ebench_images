@@ -1,0 +1,5 @@
+org_img_id: 2400466
+org_cap: Person his racket to hit a forehand shot in a tennis match.
+trg_cap: Person his racket, which was once displayed in a museum, to hit a forehand shot in a tennis match.
+instruction: Change the background to museum.
+taskid: 46274

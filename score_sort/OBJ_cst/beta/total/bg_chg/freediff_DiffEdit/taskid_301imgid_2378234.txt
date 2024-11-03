@@ -1,0 +1,5 @@
+org_img_id: 2378234
+org_cap: A blue airplane, with a white and blue livery, takes off from the runway, its engines roaring as it gains speed and altitude, leaving a trail of clouds and mist behind it.
+trg_cap: A blue airplane, with a white and blue livery, takes off from the runway, its engines roaring as it gains speed and altitude, leaving a trail of clouds and mist behind it, as if emerging from the depths of a cave.
+instruction: Change the background to cave.
+taskid: 301

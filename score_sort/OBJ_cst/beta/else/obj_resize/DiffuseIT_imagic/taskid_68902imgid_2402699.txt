@@ -1,0 +1,5 @@
+org_img_id: 2402699
+org_cap: a person standing and staring on the beach with a white surfboard, a calm ocean, and rocky breakwater in the background.
+trg_cap: a small person standing and staring on the beach with a white surfboard, a calm ocean, and rocky breakwater in the background.
+instruction: Make the person smaller.
+taskid: 68902

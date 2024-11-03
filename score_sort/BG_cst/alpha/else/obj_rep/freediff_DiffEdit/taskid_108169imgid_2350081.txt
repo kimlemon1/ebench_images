@@ -1,0 +1,5 @@
+org_img_id: 2350081
+org_cap: The kitchen features a stainless steel oven with a stainless steel door handle and a small window above it.
+trg_cap: The kitchen features a stainless steel clock.
+instruction: Replace the oven with a clock.
+taskid: 108169

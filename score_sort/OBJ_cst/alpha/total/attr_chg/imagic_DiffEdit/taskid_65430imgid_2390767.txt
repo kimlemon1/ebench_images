@@ -1,0 +1,5 @@
+org_img_id: 2390767
+org_cap: The scene is focused on a young person wearing a red necktie with a white shirt and black skirt.
+trg_cap: The scene is focused on a young person wearing a pink necktie with a white shirt and black skirt.
+instruction: Change the color of the tie from red to pink.
+taskid: 65430

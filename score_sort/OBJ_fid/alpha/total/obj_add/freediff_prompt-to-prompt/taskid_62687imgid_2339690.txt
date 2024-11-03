@@ -1,0 +1,5 @@
+org_img_id: 2339690
+org_cap: a lone snowboarder, clad in a warm orange jumpsuit and wearing a black beanie, walks down the mountain with a green backpack slung over his shoulder.
+trg_cap: A lone snowboarder, clad in a warm orange jumpsuit and wearing a black beanie, walks down the mountain with a green backpack slung over his shoulder, while a person in front of him leads the way.
+instruction: Add a person in front of the backpack.
+taskid: 62687

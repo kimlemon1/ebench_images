@@ -1,0 +1,5 @@
+org_img_id: 2404103
+org_cap: a group of people, including a person holding a white frisbee, sit on a green-colored bench in a sunny outdoor setting.
+trg_cap: A group of people, including a person sitting in front of a person holding a white frisbee, sit on a green-colored bench in a sunny outdoor setting.
+instruction: Add a person in front of the frisbee.
+taskid: 25729

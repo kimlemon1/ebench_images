@@ -1,0 +1,5 @@
+org_img_id: 2395377
+org_cap: The sliced pizza is a flatbread topped with a layer of cheese, sliced tomatoes, and basil leaves.
+trg_cap: The whole pizza is a flatbread topped with a layer of cheese, whole tomatoes, and basil leaves.
+instruction: Change the state of the pizza from sliced to whole.
+taskid: 41536

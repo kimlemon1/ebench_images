@@ -1,0 +1,5 @@
+org_img_id: 2363719
+org_cap: Person in front of a gray stone wall, wearing a light blue shirt and gray trousers, with a red tie around his neck and black dress shoes on his feet.
+trg_cap: Person in front of a gray stone wall on a countryside farm, wearing a light blue shirt and gray trousers, with a red tie around his neck and black dress shoes on his feet.
+instruction: Change the background to country side farm.
+taskid: 38751

@@ -1,0 +1,5 @@
+org_img_id: 2317621
+org_cap: The scene features two young boys, each holding a yellow bat, standing in a living room with hardwood floors and a bookshelf in the background.
+trg_cap: The scene features two young boys, each holding a yellow bat, standing in a living room with hardwood floors and a bookshelf in the background, with a person standing in front of one of the baseball bats.
+instruction: Add a person in front of the baseball bat.
+taskid: 29690

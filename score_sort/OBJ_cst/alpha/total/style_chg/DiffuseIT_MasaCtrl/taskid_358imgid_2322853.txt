@@ -1,0 +1,5 @@
+org_img_id: 2322853
+org_cap: a diesel train pulls a long train of passenger cars through a lush train, the cars painted in a vibrant color scheme and adorned with stripes and logos, the train's wheels clicking on the tracks as it gains speed.
+trg_cap: A pencil sketch art depicts a diesel train pulling a long train of passenger cars through a lush terrain, with the cars painted in a vibrant color scheme and adorned with stripes and logos, as the train's wheels click on the tracks while gaining speed.
+instruction: Change the style if the image to pencil sketch.
+taskid: 358

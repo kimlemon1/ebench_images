@@ -1,0 +1,5 @@
+org_img_id: 2405232
+org_cap: A standing black zebra stands tall, its stripes glistening in the sunlight, its neck and legs, its eyes.
+trg_cap: A standing striped zebra stands tall, its stripes glistening in the sunlight, its neck and legs, its eyes.
+instruction: Change the color of the zebra from black to striped.
+taskid: 29110

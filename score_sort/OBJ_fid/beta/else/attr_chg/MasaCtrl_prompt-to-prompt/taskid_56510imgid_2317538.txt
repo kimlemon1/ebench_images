@@ -1,0 +1,5 @@
+org_img_id: 2317538
+org_cap: A white cup filled with black coffee sits on a woven basket, surrounded by sliced and a few pieces of ripe, yellow, unpeeled banana, with a glass of orange juice and a few stray peels scattered around.
+trg_cap: A white cup filled with black coffee sits on a woven basket, surrounded by sliced and a few pieces of ripe, rotten, unpeeled banana, with a glass of orange juice and a few stray peels scattered around.
+instruction: Change the color of the banana from yellow to rotten.
+taskid: 56510

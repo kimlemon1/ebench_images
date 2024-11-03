@@ -1,0 +1,5 @@
+org_img_id: 2335783
+org_cap: Person, with a slender build and athletic physique, is seen on a blue windsurfing board, his arms and legs as he through the waves on the turquoise ocean.
+trg_cap: Person, with a slender build and athletic physique, is seen on a blue windsurfing board, his arms and legs as he through the waves on the turquoise ocean, with a motorcycle positioned underneath him.
+instruction: Add a motorcycle under the person.
+taskid: 109813

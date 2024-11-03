@@ -1,0 +1,5 @@
+org_img_id: 2360793
+org_cap: A bowl sits on a table, filled with a bowl of milk and cereal, topped with crunchy granola and sliced bananas.
+trg_cap: A small bowl sits on a table, filled with a bowl of milk and cereal, topped with crunchy granola and sliced bananas.
+instruction: Make the bowl smaller.
+taskid: 30379

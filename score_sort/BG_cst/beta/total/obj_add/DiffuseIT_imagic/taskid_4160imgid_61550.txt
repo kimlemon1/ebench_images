@@ -1,0 +1,5 @@
+org_img_id: 61550
+org_cap: the kitchen features a sleek, black granite countertop with a white backsplash and stainless steel appliances, including a modern oven.
+trg_cap: The kitchen features a sleek, black granite countertop with a white backsplash and stainless steel appliances, including a modern oven, on which the person is sitting.
+instruction: Add a person on the oven.
+taskid: 4160

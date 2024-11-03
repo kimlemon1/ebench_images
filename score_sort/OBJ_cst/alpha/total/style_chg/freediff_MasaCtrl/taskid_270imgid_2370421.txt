@@ -1,0 +1,5 @@
+org_img_id: 2370421
+org_cap: a large, ornate clock with a golden face and intricate details is displayed in a storefront window, surrounded by a blurred cityscape reflected in the glass.
+trg_cap: A graffiti art piece contains a large, ornate clock with a golden face and intricate details displayed in a storefront window, surrounded by a blurred cityscape reflected in the glass.
+instruction: Change the style if the image to graffiti art.
+taskid: 270

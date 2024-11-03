@@ -1,0 +1,5 @@
+org_img_id: 2338444
+org_cap: The bed is a brown bed with a worn, floral patterned comforter and a few creases from being slept on, resting against a plain, beige headboard with a single, dim lamp on the nightstand.
+trg_cap: The bed is a white bed with a worn, floral patterned comforter and a few creases from being slept on, resting against a plain, beige headboard with a single, dim lamp on the nightstand.
+instruction: Change the color of the bed from brown to white.
+taskid: 57208

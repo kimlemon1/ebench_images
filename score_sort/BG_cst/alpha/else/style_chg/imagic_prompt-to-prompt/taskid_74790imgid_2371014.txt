@@ -1,0 +1,5 @@
+org_img_id: 2371014
+org_cap: the fedora hat sits atop a neatly trimmed beard, framing a sharp jawline and piercing eyes, while a slim tie cinches at the neck of a crisp, black suit.
+trg_cap: A grey scale photo features a fedora hat sitting atop a neatly trimmed beard, framing a sharp jawline and piercing eyes, while a slim tie cinches at the neck of a crisp, black suit.
+instruction: Change the style if the image to grey scale.
+taskid: 74790

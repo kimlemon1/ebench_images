@@ -1,0 +1,5 @@
+org_img_id: 2364104
+org_cap: a striped black walking zebra on a grassy terrain with a few trees in the background.
+trg_cap: a gray black walking zebra on a grassy terrain with a few trees in the background.
+instruction: Change the color of the zebra from striped to gray.
+taskid: 94299

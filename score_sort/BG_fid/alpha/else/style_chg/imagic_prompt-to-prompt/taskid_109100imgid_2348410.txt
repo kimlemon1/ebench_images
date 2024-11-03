@@ -1,0 +1,5 @@
+org_img_id: 2348410
+org_cap: A standing person stands on the snowy train platform, with the old clock looming in the background and snowflakes gently falling around them.
+trg_cap: An oil painting style art depicts a standing person on a snowy train platform, with an old clock looming in the background and snowflakes gently falling around them.
+instruction: Change the style if the image to oil painting style.
+taskid: 109100

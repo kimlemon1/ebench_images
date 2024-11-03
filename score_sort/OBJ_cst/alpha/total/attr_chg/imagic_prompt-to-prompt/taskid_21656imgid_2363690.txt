@@ -1,0 +1,5 @@
+org_img_id: 2363690
+org_cap: a young, running, smiling person, playing with a big smile, holding a colorful kite with a yellow tail and fluttering edges, his eyes with excitement.
+trg_cap: a old, running, smiling person, playing with a big smile, holding a colorful kite with a yellow tail and fluttering edges, his eyes with excitement.
+instruction: Change the state of the person from young to old.
+taskid: 21656

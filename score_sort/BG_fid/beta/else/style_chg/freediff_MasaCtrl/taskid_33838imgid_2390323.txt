@@ -1,0 +1,5 @@
+org_img_id: 2390323
+org_cap: a giraffe stands on a rocky outcropping, its long neck bent, its legs sturdy and strong, its fur a warm golden brown.
+trg_cap: The mosaic art depicts a giraffe standing on a rocky outcropping, its long neck bent, its legs sturdy and strong, and its fur a warm golden brown.
+instruction: Change the style if the image to mosaic art.
+taskid: 33838

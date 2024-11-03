@@ -1,0 +1,5 @@
+org_img_id: 2379748
+org_cap: The kitchenette features a steel refrigerator and black microwave, situated in a small dining area with a round table and two chairs.
+trg_cap: The kitchenette features a bottle and a black microwave, situated in a small dining area with a round table and two chairs.
+instruction: Replace the refrigerator with a bottle.
+taskid: 50851

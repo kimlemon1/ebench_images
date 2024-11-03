@@ -1,0 +1,5 @@
+org_img_id: 2346244
+org_cap: a lone person sits on a stone person, gazing out at the ancient person with its crumbling walls and flickering torches, while the moon casts a silver glow over the person.
+trg_cap: a lone small person sits on a stone person, gazing out at the ancient person with its crumbling walls and flickering torches, while the moon casts a silver glow over the person.
+instruction: Make the person smaller.
+taskid: 64094

@@ -1,0 +1,5 @@
+org_img_id: 2348536
+org_cap: a blue boat, moving through the calm waters of a bay.
+trg_cap: A blue boat, moving through the calm waters of a bay, passed by the ancient ruins that lined the shore.
+instruction: Change the background to ancient ruins.
+taskid: 23509

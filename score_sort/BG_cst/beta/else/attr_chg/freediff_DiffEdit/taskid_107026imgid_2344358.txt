@@ -1,0 +1,5 @@
+org_img_id: 2344358
+org_cap: The brown dog lies on a white bed, its fur matted and tangled, its eyes half-closed in a sleepy gaze, its ears in the still air.
+trg_cap: The calico dog lies on a white bed, its fur matted and tangled, its eyes half-closed in a sleepy gaze, its ears in the still air.
+instruction: Change the color of the dog from brown to calico.
+taskid: 107026

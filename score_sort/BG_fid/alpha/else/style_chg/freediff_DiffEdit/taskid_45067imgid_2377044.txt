@@ -1,0 +1,5 @@
+org_img_id: 2377044
+org_cap: Person stands behind the counter of a bustling restaurant, his eyes on the steam rising from the wok as he flips a batch of noodles.
+trg_cap: A graffiti art depicts a person standing behind the counter of a bustling restaurant, his eyes on the steam rising from the wok as he flips a batch of noodles.
+instruction: Change the style if the image to graffiti art.
+taskid: 45067

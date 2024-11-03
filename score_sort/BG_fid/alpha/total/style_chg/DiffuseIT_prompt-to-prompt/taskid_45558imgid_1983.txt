@@ -1,0 +1,5 @@
+org_img_id: 1983
+org_cap: The bedside table held a white book, a lamp with a distressed wooden base, and a small alarm clock.
+trg_cap: An oil painting style art depicts a bedside table holding a white book, a lamp with a distressed wooden base, and a small alarm clock.
+instruction: Change the style if the image to oil painting style.
+taskid: 45558

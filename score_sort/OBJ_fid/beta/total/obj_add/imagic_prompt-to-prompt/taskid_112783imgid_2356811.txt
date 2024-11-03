@@ -1,0 +1,5 @@
+org_img_id: 2356811
+org_cap: The scene features a white frisbee, with a white dog to catch the white frisbee, its paws and its tail.
+trg_cap: The scene features a white frisbee, with a person on the frisbee, and a white dog to catch the white frisbee, its paws and its tail.
+instruction: Add a person on the frisbee.
+taskid: 112783

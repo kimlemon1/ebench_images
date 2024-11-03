@@ -1,0 +1,5 @@
+org_img_id: 2388817
+org_cap: The scene is focused on a perfectly baked pizza, its crust golden brown and crispy, topped with a medley of colorful ingredients including juicy pepperoni slices, vibrant green peppers, and melted mozzarella cheese, all arranged artfully on a pizza.
+trg_cap: The scene is focused on a perfectly baked small pizza, its crust golden brown and crispy, topped with a medley of colorful ingredients including juicy pepperoni slices, vibrant green peppers, and melted mozzarella cheese, all arranged artfully on a pizza.
+instruction: Make the pizza smaller.
+taskid: 96693

@@ -1,0 +1,5 @@
+org_img_id: 2335719
+org_cap: a silhouette of a person, wearing a tank top and shorts, across the beach at sunset, his arms and a big smile on his face.
+trg_cap: A silhouette of a horse across the beach at sunset.
+instruction: Replace the person with a horse.
+taskid: 12697

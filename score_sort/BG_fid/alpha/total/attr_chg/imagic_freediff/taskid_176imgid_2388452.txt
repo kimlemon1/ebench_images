@@ -1,0 +1,5 @@
+org_img_id: 2388452
+org_cap: A black cat on a patchwork quilt, surrounded by a pink teddy bear and a ball of yarn.
+trg_cap: A light brown cat on a patchwork quilt, surrounded by a pink teddy bear and a ball of yarn.
+instruction: Change the color of the cat from black to light brown.
+taskid: 176

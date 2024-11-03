@@ -1,0 +1,5 @@
+org_img_id: 2390233
+org_cap: A person throws a white frisbee in the air, and a second person runs to catch a white frisbee, their movements fluid and synchronized as they play together on a sunny afternoon.
+trg_cap: A person throws a white frisbee in the air, and a second person runs to catch a white frisbee, their movements fluid and synchronized as they play together on a sunny afternoon, while a third person stands under the frisbee.
+instruction: Add a person under the frisbee.
+taskid: 16782

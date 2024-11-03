@@ -1,0 +1,5 @@
+org_img_id: 2323107
+org_cap: a standing person beside a motorcycle with a red and white paint job, while a red truck beside them.
+trg_cap: a standing person beside a motorcycle with a striped and white paint job, while a striped truck beside them.
+instruction: Change the color of the truck from red to striped.
+taskid: 299

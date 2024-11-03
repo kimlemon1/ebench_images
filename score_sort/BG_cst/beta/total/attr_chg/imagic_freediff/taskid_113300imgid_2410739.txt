@@ -1,0 +1,5 @@
+org_img_id: 2410739
+org_cap: The blue bus has a sleek, modern design with a curved front and a distinctive blue and white livery.
+trg_cap: The maroon bus has a sleek, modern design with a curved front and a distinctive maroon and white livery.
+instruction: Change the color of the bus from blue to maroon.
+taskid: 113300

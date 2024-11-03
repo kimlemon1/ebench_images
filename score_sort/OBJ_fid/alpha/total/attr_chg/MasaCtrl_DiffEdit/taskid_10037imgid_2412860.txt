@@ -1,0 +1,5 @@
+org_img_id: 2412860
+org_cap: A standing, patterned, striped zebra grazes on the ground, its stripes glistening in the sunlight.
+trg_cap: A standing, patterned, black and white zebra grazes on the ground, its stripes glistening in the sunlight.
+instruction: Change the color of the zebra from striped to black and white.
+taskid: 10037

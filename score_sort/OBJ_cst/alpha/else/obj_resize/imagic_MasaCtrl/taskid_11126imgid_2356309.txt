@@ -1,0 +1,5 @@
+org_img_id: 2356309
+org_cap: person rides a blue surfboard, his arms outstretched and his legs bent as he glides across the waves.
+trg_cap: person rides a small blue surfboard, his arms outstretched and his legs bent as he glides across the waves.
+instruction: Make the surfboard smaller.
+taskid: 11126

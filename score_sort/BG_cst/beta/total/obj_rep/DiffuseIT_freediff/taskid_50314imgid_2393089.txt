@@ -1,0 +1,5 @@
+org_img_id: 2393089
+org_cap: "person swings his racket, his eyes fixed on the ball as he volleys it back across the net."
+trg_cap: Backpack swings their racket as they volley it back across the net.
+instruction: Replace the person with a backpack.
+taskid: 50314

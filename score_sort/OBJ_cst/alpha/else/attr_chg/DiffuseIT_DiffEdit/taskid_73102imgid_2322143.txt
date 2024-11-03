@@ -1,0 +1,5 @@
+org_img_id: 2322143
+org_cap: a man wears a bright red blazer with a gold pin on the lapel, paired with gray trousers and a blue necktie.
+trg_cap: a man wears a bright red blazer with a gold pin on the lapel, paired with gray trousers and a teal necktie.
+instruction: Change the color of the tie from blue to teal.
+taskid: 73102

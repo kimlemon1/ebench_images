@@ -1,0 +1,5 @@
+org_img_id: 2354742
+org_cap: a large, circular pizza with a crispy crust and melted mozzarella cheese is topped with an assortment of colorful ingredients, including sliced bell peppers, green olives, juicy sausage links, and various types of meats, such as pepperoni and salami, all arranged in a seemingly random pattern on the surface of the pizza.
+trg_cap: a small, circular pizza with a crispy crust and melted mozzarella cheese is topped with an assortment of colorful ingredients, including sliced bell peppers, green olives, juicy sausage links, and various types of meats, such as pepperoni and salami, all arranged in a seemingly random pattern on the surface of the pizza.
+instruction: Make the pizza smaller.
+taskid: 14166

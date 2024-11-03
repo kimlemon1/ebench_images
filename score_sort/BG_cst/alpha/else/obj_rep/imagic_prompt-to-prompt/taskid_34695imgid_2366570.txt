@@ -1,0 +1,5 @@
+org_img_id: 2366570
+org_cap: The scene is a cluttered living room with a worn-out coffee table in the center, surrounded by scattered electronics, including a black TV on a stereo system, and various gadgets and gizmos.
+trg_cap: The scene is a cluttered living room with a worn-out coffee table in the center, surrounded by scattered electronics, including a black device, and various gadgets and gizmos.
+instruction: Replace the tv with a person.
+taskid: 34695

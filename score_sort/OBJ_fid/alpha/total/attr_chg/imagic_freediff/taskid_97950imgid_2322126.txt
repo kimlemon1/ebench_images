@@ -1,0 +1,5 @@
+org_img_id: 2322126
+org_cap: person holds a white surfboard on a beach with a cloudy sky in the background.
+trg_cap: person holds a beige surfboard on a beach with a cloudy sky in the background.
+instruction: Change the color of the surfboard from white to beige.
+taskid: 97950

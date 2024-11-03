@@ -1,0 +1,5 @@
+org_img_id: 2341324
+org_cap: The bus is a blue city bus.
+trg_cap: The bus is a maroon city bus.
+instruction: Change the color of the bus from blue to maroon.
+taskid: 88387

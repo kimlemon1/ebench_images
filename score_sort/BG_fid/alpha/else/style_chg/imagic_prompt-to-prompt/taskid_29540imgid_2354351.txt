@@ -1,0 +1,5 @@
+org_img_id: 2354351
+org_cap: The bird is a small, grayish-brown bird with a white belly and a distinctive stripe above its eye.
+trg_cap: An oil painting style art features a small, grayish-brown bird with a white belly and a distinctive stripe above its eye.
+instruction: Change the style if the image to oil painting style.
+taskid: 29540

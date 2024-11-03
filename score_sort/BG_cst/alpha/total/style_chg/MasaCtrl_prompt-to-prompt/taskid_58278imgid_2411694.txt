@@ -1,0 +1,5 @@
+org_img_id: 2411694
+org_cap: A gray, old airplane soars through the sky, its silhouette defined against the white clouds as it leaves a trail of smoke behind it.
+trg_cap: A watercolor painting style art depicts a gray, old airplane soaring through the sky, its silhouette defined against the white clouds as it leaves a trail of smoke behind it.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 58278

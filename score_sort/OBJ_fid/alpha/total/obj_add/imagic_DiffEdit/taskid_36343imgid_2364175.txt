@@ -1,0 +1,5 @@
+org_img_id: 2364175
+org_cap: a skateboarder in his mid-twenties, wearing a gray t-shirt and beige pants, jumps off a concrete ramp, his black skateboard scraping against the surface as he lands a trick.
+trg_cap: A skateboarder in his mid-twenties, wearing a gray t-shirt and beige pants, jumps off a concrete ramp, his black skateboard scraping against the surface as he lands a trick, with a person standing behind him.
+instruction: Add a person behind the skateboard.
+taskid: 36343

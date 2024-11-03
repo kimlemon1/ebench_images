@@ -1,0 +1,5 @@
+org_img_id: 2315538
+org_cap: The green glass bottle stands upright on a wooden table, adorned with a sprig of greenery sprouting from its neck.
+trg_cap: The gray glass bottle stands upright on a wooden table, adorned with a sprig of grayery sprouting from its neck.
+instruction: Change the color of the bottle from green to gray.
+taskid: 48281

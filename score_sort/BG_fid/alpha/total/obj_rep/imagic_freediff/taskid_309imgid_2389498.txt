@@ -1,0 +1,5 @@
+org_img_id: 2389498
+org_cap: person to lift a large refrigerator off a trailer.
+trg_cap: person to lift a large bus off a trailer.
+instruction: Replace the refrigerator with a bus.
+taskid: 309

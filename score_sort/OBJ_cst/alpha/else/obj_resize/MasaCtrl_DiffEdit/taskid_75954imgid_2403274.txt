@@ -1,0 +1,5 @@
+org_img_id: 2403274
+org_cap: a middle-aged person sits astride a small motorcycle, wearing a white hat and a striped shirt, with a parked car and other vehicles visible in the background.
+trg_cap: a small, middle-aged person sits astride a small motorcycle, wearing a white hat and a striped shirt, with a parked car and other vehicles visible in the background.
+instruction: Make the person smaller.
+taskid: 75954

@@ -1,0 +1,5 @@
+org_img_id: 2359362
+org_cap: The black traffic light is a sign with the word "synch" written in bold, black letters, mounted on a tall pole with a metal arm extending from the top.
+trg_cap: The green traffic light is a sign with the word "synch" written in bold, green letters, mounted on a tall pole with a metal arm extending from the top.
+instruction: Change the color of the traffic light from black to green.
+taskid: 12073

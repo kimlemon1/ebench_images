@@ -1,0 +1,5 @@
+org_img_id: 2331240
+org_cap: Person, with long blonde hair and a determined expression, the challenging slopes of the ski course.
+trg_cap: Person, with long blonde hair and a determined expression, the challenging slopes of the ski course, a stark contrast to the vast desert landscape surrounding them.
+instruction: Change the background to desert.
+taskid: 110

@@ -1,0 +1,5 @@
+org_img_id: 2357006
+org_cap: The person is a person.
+trg_cap: A graffiti art contains the depiction of a person.
+instruction: Change the style if the image to graffiti art.
+taskid: 104292

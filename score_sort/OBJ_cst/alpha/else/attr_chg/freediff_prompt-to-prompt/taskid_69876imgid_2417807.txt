@@ -1,0 +1,5 @@
+org_img_id: 2417807
+org_cap: a young man wearing a grey suit with a blue necktie and a white shirt, standing in front of a white background.
+trg_cap: a young man wearing a grey suit with a pink necktie and a white shirt, standing in front of a white background.
+instruction: Change the color of the tie from blue to pink.
+taskid: 69876

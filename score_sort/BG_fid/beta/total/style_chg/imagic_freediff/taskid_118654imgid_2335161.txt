@@ -1,0 +1,5 @@
+org_img_id: 2335161
+org_cap: a small bird with brown feathers and a distinctive white stripe on its head around a person's hand, as it from their palm.
+trg_cap: The graffiti art depicts a small bird with brown feathers and a distinctive white stripe on its head perched around a person's hand, as if emerging from their palm.
+instruction: Change the style if the image to graffiti art.
+taskid: 118654

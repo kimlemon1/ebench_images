@@ -1,0 +1,5 @@
+org_img_id: 2402978
+org_cap: a woman in a black swimsuit holds an orange frisbee on a sunny beach.
+trg_cap: A woman in a black swimsuit holds an orange frisbee on a sunny beach, with a dog behind the frisbee.
+instruction: Add a dog behind the frisbee.
+taskid: 18454

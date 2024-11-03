@@ -1,0 +1,5 @@
+org_img_id: 1675
+org_cap: The scene features a black keyboard situated on a table, with a rectangular monitor and a black keyboard.
+trg_cap: The scene features a beige keyboard situated on a table, with a rectangular monitor and a beige keyboard.
+instruction: Change the color of the keyboard from black to beige.
+taskid: 71746

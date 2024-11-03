@@ -1,0 +1,5 @@
+org_img_id: 2414542
+org_cap: A stop sign stands upright, its white stop sign and lettering stark against the backdrop of a sunlit autumn tree.
+trg_cap: A stop sign stands upright, its green stop sign and lettering stark against the backdrop of a sunlit autumn tree.
+instruction: Change the color of the stop sign from white to green.
+taskid: 10812

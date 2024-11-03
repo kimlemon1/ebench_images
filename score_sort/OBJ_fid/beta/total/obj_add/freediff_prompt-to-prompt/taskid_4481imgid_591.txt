@@ -1,0 +1,5 @@
+org_img_id: 591
+org_cap: a person walks down the street, wearing a brown backpack.
+trg_cap: A person walks down the street, wearing a brown backpack, with another person in front of the backpack.
+instruction: Add a person in front of the backpack.
+taskid: 4481

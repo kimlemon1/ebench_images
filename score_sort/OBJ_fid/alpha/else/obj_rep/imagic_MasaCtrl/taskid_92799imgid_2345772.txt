@@ -1,0 +1,5 @@
+org_img_id: 2345772
+org_cap: a chestnut horse with a rider in a red jacket and a helmet, over a green fence with a white rail.
+trg_cap: a bird over the green fence with the white rail.
+instruction: Replace the horse with a bird.
+taskid: 92799

@@ -1,0 +1,5 @@
+org_img_id: 2331716
+org_cap: a vintage airplane with a sleek, silver body and a distinctive curved wing design soars through the grey sky, its propeller spinning rapidly as it banks and turns with precision.
+trg_cap: a large vintage airplane with a sleek, silver body and a distinctive curved wing design soars through the grey sky, its propeller spinning rapidly as it banks and turns with precision.
+instruction: Make the airplane larger.
+taskid: 80640

@@ -1,0 +1,5 @@
+org_img_id: 2398368
+org_cap: A white bus moves swiftly through the city streets at night, its headlights illuminating the dark urban landscape.
+trg_cap: A white bus moves swiftly through the city streets at night, its headlights illuminating the dark urban landscape, reminiscent of the rolling vineyards that lie just beyond the city limits.
+instruction: Change the background to vineyard.
+taskid: 111830

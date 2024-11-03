@@ -1,0 +1,5 @@
+org_img_id: 2339278
+org_cap: a woman sits at a table, holding a plastic cup and pen, her eyes focused on it as she takes notes.
+trg_cap: A woman sits at a table, holding a bus and pen, her eyes focused on them as she takes notes.
+instruction: Replace the cup with a bus.
+taskid: 396

@@ -1,0 +1,5 @@
+org_img_id: 2339450
+org_cap: a giraffe stands beneath a palm tree, its long neck bent.
+trg_cap: A giraffe stands beneath a palm tree in the desert, its long neck bent.
+instruction: Change the background to desert.
+taskid: 5502

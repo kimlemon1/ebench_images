@@ -1,0 +1,5 @@
+org_img_id: 2404771
+org_cap: the bride's strapless wedding dress was pushed up by the groom's hands as he placed a slice of cake on the tiered cake table, surrounded by candelabras and purple and gray ombre cupcakes.
+trg_cap: The bride's strapless wedding dress was pushed up by his hands as the groom placed a wine glass on the table, surrounded by candelabras and purple and gray ombre cupcakes.
+instruction: Replace the cake with a wine glass.
+taskid: 47471

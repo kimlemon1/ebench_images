@@ -1,0 +1,5 @@
+org_img_id: 713226
+org_cap: a person walks by, wearing an orange sweater and carrying a backpack.
+trg_cap: On a mountain top, a person walks by, wearing an orange sweater and carrying a backpack.
+instruction: Change the background to mountain top.
+taskid: 344

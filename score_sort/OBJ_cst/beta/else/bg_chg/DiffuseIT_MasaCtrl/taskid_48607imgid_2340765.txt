@@ -1,0 +1,5 @@
+org_img_id: 2340765
+org_cap: "person swings his racket, his eyes fixed on the ball as he prepares to strike it with a forehand shot."
+trg_cap: In the countryside farm, the person swings his racket, his eyes fixed on the ball as he prepares to strike it with a forehand shot.
+instruction: Change the background to country side farm.
+taskid: 48607

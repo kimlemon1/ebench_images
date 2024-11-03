@@ -1,0 +1,5 @@
+org_img_id: 2373293
+org_cap: a person sits at a desk, surrounded by clutter, with a white keyboard in front of them and a plate of crumbs and a can of soda nearby.
+trg_cap: A Van Gogh style art depicts a person sitting at a desk surrounded by clutter, with a white keyboard in front of them and a plate of crumbs and a can of soda nearby.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 8115

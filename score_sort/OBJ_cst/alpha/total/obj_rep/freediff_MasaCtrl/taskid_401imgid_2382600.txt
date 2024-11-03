@@ -1,0 +1,5 @@
+org_img_id: 2382600
+org_cap: The gray airplane stands proudly on the tarmac, its engines gleaming in the sunlight.
+trg_cap: The gray bowl stands proudly on the tarmac.
+instruction: Replace the airplane with a bowl.
+taskid: 401

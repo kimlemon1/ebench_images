@@ -1,0 +1,5 @@
+org_img_id: 2352685
+org_cap: A blue train stands at the platform, its doors open and ready to depart, while a clock looms in the background, its face displaying the time.
+trg_cap: A blue train stands at the platform, its doors open and ready to depart, while a clock looms in the background, its face displaying the time, with the grand architecture of a concert hall visible in the distance.
+instruction: Change the background to concert hall.
+taskid: 144

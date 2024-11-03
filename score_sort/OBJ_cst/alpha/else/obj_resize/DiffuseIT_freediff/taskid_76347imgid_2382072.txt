@@ -1,0 +1,5 @@
+org_img_id: 2382072
+org_cap: baseball player and baseball player stand on the field, wearing matching navy blue and red jerseys, with brown baseball bats held loosely in their hands.
+trg_cap: Baseball player and baseball player stand on the field, wearing matching navy blue and red jerseys, with large brown baseball bats held loosely in their hands.
+instruction: Make the baseball bat larger.
+taskid: 76347

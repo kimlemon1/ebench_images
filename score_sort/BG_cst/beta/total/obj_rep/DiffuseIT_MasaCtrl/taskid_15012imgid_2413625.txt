@@ -1,0 +1,5 @@
+org_img_id: 2413625
+org_cap: person through the powder, his skis a smooth line through the fresh snow as he with joy.
+trg_cap: "hot dog through the powder, their skis a smooth line through the fresh snow."
+instruction: Replace the person with a hot dog.
+taskid: 15012

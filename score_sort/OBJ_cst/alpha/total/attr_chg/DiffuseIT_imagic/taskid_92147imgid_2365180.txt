@@ -1,0 +1,5 @@
+org_img_id: 2365180
+org_cap: a person held a pink umbrella above their head, providing shade from the sun as they mingled with a group of people.
+trg_cap: a person held a transparent umbrella above their head, providing shade from the sun as they mingled with a group of people.
+instruction: Change the color of the umbrella from pink to transparent.
+taskid: 92147

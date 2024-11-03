@@ -1,0 +1,5 @@
+org_img_id: 2324176
+org_cap: The blue bus has a stripe running along its side, with the words "airport service" written in bold letters above the windshield.
+trg_cap: The silver bus has a stripe running along its side, with the words "airport service" written in bold letters above the windshield.
+instruction: Change the color of the bus from blue to silver.
+taskid: 118218

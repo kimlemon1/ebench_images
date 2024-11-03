@@ -1,0 +1,5 @@
+org_img_id: 2320528
+org_cap: The vase is a white vase sitting on a wooden table.
+trg_cap: The cartoon-style art features a white vase sitting on a wooden table.
+instruction: Change the style if the image to cartoon style.
+taskid: 3408

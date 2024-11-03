@@ -1,0 +1,5 @@
+org_img_id: 2318593
+org_cap: "a person in front of a refrigerator, wearing a yellow apron and a basket of fruit, with a stainless steel sink and windows in the background."
+trg_cap: "a person in front of a refrigerator, wearing a yellow apron and a basket of fruit, with a stainless steel sink and windows in the background, and another person under the sink."
+instruction: Add a person under the sink.
+taskid: 65752

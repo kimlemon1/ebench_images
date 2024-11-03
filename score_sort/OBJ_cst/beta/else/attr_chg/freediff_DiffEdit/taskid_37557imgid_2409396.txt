@@ -1,0 +1,5 @@
+org_img_id: 2409396
+org_cap: A blue toothbrush sat in person's mouth.
+trg_cap: A purple toothbrush sat in person's mouth.
+instruction: Change the color of the toothbrush from blue to purple.
+taskid: 37557

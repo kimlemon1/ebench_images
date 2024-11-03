@@ -1,0 +1,5 @@
+org_img_id: 2370790_1
+org_cap: a silver car with a rugged exterior and a sturdy build, featuring a prominent grille, angular headlights, and a chunky bumper.
+trg_cap: a cup
+instruction: Replace the car with a cup.
+taskid: 8

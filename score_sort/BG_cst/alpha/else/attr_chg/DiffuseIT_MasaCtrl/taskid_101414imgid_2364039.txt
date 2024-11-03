@@ -1,0 +1,5 @@
+org_img_id: 2364039
+org_cap: The slice of sliced chocolate cake is brown, with frosting and a sprinkle of chopped nuts on top, surrounded by a ring of juicy strawberries.
+trg_cap: The slice of sliced white cake is brown, with frosting and a sprinkle of chopped nuts on top, surrounded by a ring of juicy strawberries.
+instruction: Change the color of the cake from chocolate to white.
+taskid: 101414

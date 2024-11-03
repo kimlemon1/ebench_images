@@ -1,0 +1,5 @@
+org_img_id: 2322853
+org_cap: a diesel train pulls a long train of passenger cars through a lush train, the cars painted in a vibrant color scheme and adorned with stripes and logos, the train's wheels clicking on the tracks as it gains speed.
+trg_cap: A small diesel train pulls a long train of passenger cars through a lush train, the cars painted in a vibrant color scheme and adorned with stripes and logos, the train's wheels clicking on the tracks as it gains speed.
+instruction: Make the train smaller.
+taskid: 357

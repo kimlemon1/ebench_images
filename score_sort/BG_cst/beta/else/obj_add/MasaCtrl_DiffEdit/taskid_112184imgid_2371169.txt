@@ -1,0 +1,5 @@
+org_img_id: 2371169
+org_cap: a brown dog with a floppy ear and a black patch over one eye leaps into the air, catching a green frisbee in mid-flight.
+trg_cap: A brown dog with a floppy ear and a black patch over one eye, positioned next to the frisbee, leaps into the air, catching a green frisbee in mid-flight.
+instruction: Add a dog next to the frisbee.
+taskid: 112184

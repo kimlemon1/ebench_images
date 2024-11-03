@@ -1,0 +1,5 @@
+org_img_id: 2347695
+org_cap: a giraffe stands tall, its fur a warm brown color with white patches on its face and legs.
+trg_cap: A small giraffe stands tall, its fur a warm brown color with white patches on its face and legs.
+instruction: Make the giraffe smaller.
+taskid: 7453

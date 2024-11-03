@@ -1,0 +1,5 @@
+org_img_id: 2330198
+org_cap: A standing white striped zebra on the grass, as a person watches from behind a fence.
+trg_cap: A standing white gray zebra on the grass, as a person watches from behind a fence.
+instruction: Change the color of the zebra from striped to gray.
+taskid: 7080

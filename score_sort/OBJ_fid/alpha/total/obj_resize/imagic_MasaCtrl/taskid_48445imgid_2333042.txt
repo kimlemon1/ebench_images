@@ -1,0 +1,5 @@
+org_img_id: 2333042
+org_cap: a person lies on the stone pavement, his head on a crumpled up piece of paper, his eyes closed, his arms and legs in a relaxed pose, his worn-out shoes and scuffed up person a testament to his long journey.
+trg_cap: a small person lies on the stone pavement, his head on a crumpled up piece of paper, his eyes closed, his arms and legs in a relaxed pose, his worn-out shoes and scuffed up person a testament to his long journey.
+instruction: Make the person smaller.
+taskid: 48445

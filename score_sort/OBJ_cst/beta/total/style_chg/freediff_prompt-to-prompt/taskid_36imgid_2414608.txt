@@ -1,0 +1,5 @@
+org_img_id: 2414608
+org_cap: Surfing person rides a wave, his hair behind him as he performs a turn on a white surfboard.
+trg_cap: A pencil sketch art depicts a surfing person riding a wave, his hair flowing behind him as he performs a turn on a white surfboard.
+instruction: Change the style if the image to pencil sketch.
+taskid: 36

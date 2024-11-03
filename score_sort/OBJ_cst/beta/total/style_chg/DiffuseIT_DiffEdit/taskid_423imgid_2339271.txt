@@ -1,0 +1,5 @@
+org_img_id: 2339271
+org_cap: the scene features a glass desk with a rectangular keyboard at its center, surrounded by various computer components and accessories.
+trg_cap: The mosaic art features a scene with a glass desk, a rectangular keyboard at its center, and is surrounded by various computer components and accessories.
+instruction: Change the style if the image to mosaic art.
+taskid: 423

@@ -1,0 +1,5 @@
+org_img_id: 2355484
+org_cap: A white airplane with a distinctive tail design and a long, curved wing, sits on the tarmac, its engines silent, and its windows reflecting the gray sky outside.
+trg_cap: A white remote sits on the tarmac, its body silent, and its windows reflecting the gray sky outside.
+instruction: Replace the airplane with a remote.
+taskid: 198

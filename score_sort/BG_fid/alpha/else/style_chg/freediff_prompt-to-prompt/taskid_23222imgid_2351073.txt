@@ -1,0 +1,5 @@
+org_img_id: 2351073
+org_cap: the person's hand cradled a banana, its yellow banana slightly bruised and a small brown banana protruding from the top.
+trg_cap: The pop art style artwork features a person's hand cradling a slightly bruised yellow banana with a small brown banana protruding from the top.
+instruction: Change the style if the image to pop art style.
+taskid: 23222

@@ -1,0 +1,5 @@
+org_img_id: 2335589
+org_cap: a small, fluffy golden retriever dog in a cozy ball, wrapped in a soft, green and yellow striped blanket, with its paws and its nose in the fabric.
+trg_cap: a small, fluffy golden retriever dog in a cozy ball, wrapped in a soft, green and yellow striped blanket, with its paws and its nose in the fabric, on a bed.
+instruction: Add a bed on the dog.
+taskid: 13643

@@ -1,0 +1,5 @@
+org_img_id: 2327696
+org_cap: a banana split with a white spoon in a white bowl.
+trg_cap: a banana split with a white spoon in a small white bowl.
+instruction: Make the bowl smaller.
+taskid: 123789

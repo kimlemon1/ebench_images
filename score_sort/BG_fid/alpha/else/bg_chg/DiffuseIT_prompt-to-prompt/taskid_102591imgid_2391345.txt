@@ -1,0 +1,5 @@
+org_img_id: 2391345
+org_cap: Person is airborne, his white motorcycle above the treetops, his helmet and goggles a blur through the forest.
+trg_cap: Person is airborne, his white motorcycle above the sand dunes, his helmet and goggles a blur through the desert.
+instruction: Change the background to desert.
+taskid: 102591

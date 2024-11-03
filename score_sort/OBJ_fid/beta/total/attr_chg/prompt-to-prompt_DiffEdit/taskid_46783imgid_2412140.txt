@@ -1,0 +1,5 @@
+org_img_id: 2412140
+org_cap: A young zebra stands in the savannah, its standing stripes glistening in the sunlight, its neck and legs strong, its eyes alert.
+trg_cap: A adult zebra stands in the savannah, its standing stripes glistening in the sunlight, its neck and legs strong, its eyes alert.
+instruction: Change the state of the zebra from young to adult.
+taskid: 46783

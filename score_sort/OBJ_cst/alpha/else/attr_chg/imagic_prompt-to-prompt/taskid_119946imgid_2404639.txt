@@ -1,0 +1,5 @@
+org_img_id: 2404639
+org_cap: A small plate with a slice of blueberry pie sits on a tan wood chair, accompanied by a white cup on a saucer with a dollop of whipped cream and a sprinkle of blueberries.
+trg_cap: A small plate with a slice of blueberry pie sits on a brown wood chair, accompanied by a white cup on a saucer with a dollop of whipped cream and a sprinkle of blueberries.
+instruction: Change the color of the chair from tan to brown.
+taskid: 119946

@@ -1,0 +1,5 @@
+org_img_id: 2316506
+org_cap: a brown dog with a yellow frisbee on the grass, its fur slightly damp from the morning dew.
+trg_cap: a sandwich on the grass.
+instruction: Replace the dog with a sandwich.
+taskid: 261

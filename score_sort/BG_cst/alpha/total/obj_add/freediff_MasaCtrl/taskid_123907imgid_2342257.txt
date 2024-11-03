@@ -1,0 +1,5 @@
+org_img_id: 2342257
+org_cap: a single - engine propeller-driven airplane with a sleek, curved fuselage and a distinctive rounded nose, flying solo in the sky with a trail of smoke and a hint of nostalgia.
+trg_cap: a single-engine propeller-driven airplane with a sleek, curved fuselage and a distinctive rounded nose, flying solo in the sky with a trail of smoke and a hint of nostalgia, accompanied by a teddy bear on its left side.
+instruction: Add a teddy bear on the left side of the airplane.
+taskid: 123907

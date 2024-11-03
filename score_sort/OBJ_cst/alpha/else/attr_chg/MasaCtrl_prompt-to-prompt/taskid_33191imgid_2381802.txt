@@ -1,0 +1,5 @@
+org_img_id: 2381802
+org_cap: The red necktie catches the eye, nestled against the grey suit and complemented by the subtle texture of the lapel.
+trg_cap: The ivory necktie catches the eye, nestled against the grey suit and complemented by the subtle texture of the lapel.
+instruction: Change the color of the tie from red to ivory.
+taskid: 33191

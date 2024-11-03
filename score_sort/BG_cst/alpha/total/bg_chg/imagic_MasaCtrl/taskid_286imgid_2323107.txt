@@ -1,0 +1,5 @@
+org_img_id: 2323107
+org_cap: a standing person beside a motorcycle with a red and white paint job, while a red truck beside them.
+trg_cap: A standing person beside a motorcycle with a red and white paint job, while a red truck beside them, in the background of a gym.
+instruction: Change the background to gym.
+taskid: 286

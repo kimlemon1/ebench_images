@@ -1,0 +1,5 @@
+org_img_id: 2387239
+org_cap: The yellow, rusty, dirty fire hydrant stands tall, its body adorned with a chain and situated amidst a lush green grassy area.
+trg_cap: The tan, rusty, dirty fire hydrant stands tall, its body adorned with a chain and situated amidst a lush green grassy area.
+instruction: Change the color of the fire hydrant from yellow to tan.
+taskid: 379

@@ -1,0 +1,5 @@
+org_img_id: 1592489
+org_cap: A red bus travels along the street.
+trg_cap: A small red bus travels along the street.
+instruction: Make the bus smaller.
+taskid: 86422

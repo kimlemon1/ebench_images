@@ -1,0 +1,5 @@
+org_img_id: 2365462
+org_cap: a person on a black skateboard
+trg_cap: "a banana on a black skateboard."
+instruction: Replace the skateboard with a banana.
+taskid: 163

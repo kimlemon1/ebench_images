@@ -1,0 +1,5 @@
+org_img_id: 2337260
+org_cap: A frisbee flies through the air as a pair of energetic dogs, their fur a warm red color, chase after the frisbee with tails wagging in excitement.
+trg_cap: A frisbee flies through the air as a pair of energetic dogs, their fur a warm red color, chase after the frisbee with tails wagging in excitement, while another dog is under the frisbee.
+instruction: Add a dog under the frisbee.
+taskid: 105971

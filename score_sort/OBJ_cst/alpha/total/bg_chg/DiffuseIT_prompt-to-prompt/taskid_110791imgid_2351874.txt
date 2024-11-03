@@ -1,0 +1,5 @@
+org_img_id: 2351874
+org_cap: Person on the sidewalk, wearing a gray t-shirt and baggy jeans, his skateboard at his feet.
+trg_cap: Person on the sidewalk near the beach, wearing a gray t-shirt and baggy jeans, his skateboard at his feet.
+instruction: Change the background to beach.
+taskid: 110791

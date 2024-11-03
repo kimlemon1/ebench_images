@@ -1,0 +1,5 @@
+org_img_id: 2374023
+org_cap: a young person holds a black plastic baseball bat, wearing a black hat with a yellow brim and a black shirt with a yellow collar.
+trg_cap: a young person holds a large black plastic baseball bat, wearing a black hat with a yellow brim and a black shirt with a yellow collar.
+instruction: Make the baseball bat larger.
+taskid: 17086

@@ -1,0 +1,5 @@
+org_img_id: 2319117
+org_cap: The bathroom featured a white sink with a chrome faucet and a glass shower enclosure.
+trg_cap: The bathroom featured a light blue sink with a chrome faucet and a glass shower enclosure.
+instruction: Change the color of the sink from white to light blue.
+taskid: 77500

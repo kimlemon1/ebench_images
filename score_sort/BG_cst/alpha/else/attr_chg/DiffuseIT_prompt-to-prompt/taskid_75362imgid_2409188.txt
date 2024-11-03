@@ -1,0 +1,5 @@
+org_img_id: 2409188
+org_cap: The red truck has a chrome grille and headlights with a distinctive shape.
+trg_cap: The gray truck has a chrome grille and headlights with a distinctive shape.
+instruction: Change the color of the truck from red to gray.
+taskid: 75362

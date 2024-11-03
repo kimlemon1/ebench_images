@@ -1,0 +1,5 @@
+org_img_id: 2404730
+org_cap: Standing person, playing in front of a colorful wall with road signs and construction equipment.
+trg_cap: Small standing person, playing in front of a colorful wall with road signs and construction equipment.
+instruction: Make the person smaller.
+taskid: 88690

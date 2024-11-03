@@ -1,0 +1,5 @@
+org_img_id: 2385129
+org_cap: The black bat swings through the air, its black bat cracking with a sharp report as it connects with the ball, sending it soaring over the outfield fence.
+trg_cap: The gold bat swings through the air, its gold bat cracking with a sharp report as it connects with the ball, sending it soaring over the outfield fence.
+instruction: Change the color of the baseball bat from black to gold.
+taskid: 78055

@@ -1,0 +1,5 @@
+org_img_id: 2388454
+org_cap: The scene features a desktop computer with a black keyboard, surrounded by various electronic components, including a monitor, speakers, and a printer, all situated on a wooden desk.
+trg_cap: The scene features a desktop computer with a pink keyboard, surrounded by various electronic components, including a monitor, speakers, and a printer, all situated on a wooden desk.
+instruction: Change the color of the keyboard from black to pink.
+taskid: 181

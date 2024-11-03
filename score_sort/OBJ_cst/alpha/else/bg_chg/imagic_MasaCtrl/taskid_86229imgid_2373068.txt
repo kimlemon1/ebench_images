@@ -1,0 +1,5 @@
+org_img_id: 2373068
+org_cap: young person along the beach, wearing a blouse and a pair of shorts, her feet bare, a hat shading her face, and a bag over her shoulder.
+trg_cap: young person along the beach, wearing a blouse and a pair of shorts, her feet bare, a hat shading her face, and a bag over her shoulder, having just left the hospital where she visited a friend.
+instruction: Change the background to hospital.
+taskid: 86229

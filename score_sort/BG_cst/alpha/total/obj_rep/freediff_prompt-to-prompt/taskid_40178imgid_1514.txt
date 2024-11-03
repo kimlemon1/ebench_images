@@ -1,0 +1,5 @@
+org_img_id: 1514
+org_cap: the scene features a single desktop computer with a white keyboard placed on a rectangular desk surrounded by stacks of papers and books.
+trg_cap: The scene features a single desktop computer placed on a rectangular desk surrounded by stacks of paper and toilets.
+instruction: Replace the keyboard with a toilet.
+taskid: 40178

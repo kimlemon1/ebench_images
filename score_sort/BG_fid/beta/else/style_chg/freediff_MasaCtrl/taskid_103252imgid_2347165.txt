@@ -1,0 +1,5 @@
+org_img_id: 2347165
+org_cap: The black train chugs along the tracks, its black train adorned with accents and a plume of smoke billowing from the black train.
+trg_cap: An oil painting style art depicts a black train chugging along the tracks, adorned with accents and a plume of smoke billowing from it.
+instruction: Change the style if the image to oil painting style.
+taskid: 103252

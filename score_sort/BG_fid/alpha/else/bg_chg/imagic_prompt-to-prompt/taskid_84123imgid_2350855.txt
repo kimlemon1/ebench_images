@@ -1,0 +1,5 @@
+org_img_id: 2350855
+org_cap: a grey and white striped cat sits on a windowsill, its fluffy tail as it watches a pizza delivery person walk by outside.
+trg_cap: A grey and white striped cat sits on a rocky ledge in the cave, its fluffy tail twitching as it watches a pizza delivery person walk by outside.
+instruction: Change the background to cave.
+taskid: 84123

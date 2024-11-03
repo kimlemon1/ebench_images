@@ -1,0 +1,5 @@
+org_img_id: 2401950
+org_cap: A standing, striped, adult zebra stands, its ears and its tail.
+trg_cap: A standing, patterned, adult zebra stands, its ears and its tail.
+instruction: Change the color of the zebra from striped to patterned.
+taskid: 105982

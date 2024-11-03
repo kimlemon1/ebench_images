@@ -1,0 +1,5 @@
+org_img_id: 2408590
+org_cap: The wooden paneling on the car's roof is adorned with a surfboard, held in place by wooden brackets and secured with a rope.
+trg_cap: The wooden paneling on the small car's roof is adorned with a surfboard, held in place by wooden brackets and secured with a rope.
+instruction: Make the car smaller.
+taskid: 86414

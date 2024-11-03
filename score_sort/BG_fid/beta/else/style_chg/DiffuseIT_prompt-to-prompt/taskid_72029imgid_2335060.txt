@@ -1,0 +1,5 @@
+org_img_id: 2335060
+org_cap: a white bicycle leans against a stone wall, its bicycle slightly dusty from a day at the beach.
+trg_cap: The mosaic art features a white bicycle, slightly dusty from a day at the beach, leaning against a stone wall.
+instruction: Change the style if the image to mosaic art.
+taskid: 72029

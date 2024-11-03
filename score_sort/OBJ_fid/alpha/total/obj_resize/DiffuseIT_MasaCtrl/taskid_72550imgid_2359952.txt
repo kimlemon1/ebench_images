@@ -1,0 +1,5 @@
+org_img_id: 2359952
+org_cap: a skateboarder in his mid-twenties, wearing a black hat and black and brown clothing, is shown in mid-air as he performs a trick on his skateboard, his legs and arms bent in a fluid motion as he glides over the concrete and steel of the skatepark.
+trg_cap: a skateboarder in his mid-twenties, wearing a black hat and black and brown clothing, is shown in mid-air as he performs a trick on his large skateboard, his legs and arms bent in a fluid motion as he glides over the concrete and steel of the skatepark.
+instruction: Make the skateboard larger.
+taskid: 72550
