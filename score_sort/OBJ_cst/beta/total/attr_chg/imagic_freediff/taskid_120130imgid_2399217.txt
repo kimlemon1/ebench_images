@@ -1,0 +1,5 @@
+org_img_id: 2399217
+org_cap: a woman sits under a red umbrella on a grassy lawn.
+trg_cap: a woman sits under a gray umbrella on a grassy lawn.
+instruction: Change the color of the umbrella from red to gray.
+taskid: 120130

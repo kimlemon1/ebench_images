@@ -1,0 +1,5 @@
+org_img_id: 2350709
+org_cap: Person in front of a bathroom mirror, wearing a yellowish dress and a smartphone in her hand, with a dispenser for hand sanitizer attached to the wall behind her.
+trg_cap: An ancient Egyptian-style artwork depicts a person in front of a bathroom mirror, wearing a yellowish dress and holding a smartphone, with a hand sanitizer dispenser attached to the wall behind her.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 109784

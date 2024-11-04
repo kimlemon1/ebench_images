@@ -1,0 +1,5 @@
+org_img_id: 2370743
+org_cap: The kitchen features a white microwave.
+trg_cap: The kitchen features a clock.
+instruction: Replace the microwave with a clock.
+taskid: 14992

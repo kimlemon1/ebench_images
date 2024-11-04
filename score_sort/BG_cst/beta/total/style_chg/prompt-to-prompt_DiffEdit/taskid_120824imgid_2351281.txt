@@ -1,0 +1,5 @@
+org_img_id: 2351281
+org_cap: the clock tower's intricate stone carvings and white clock stand out against a backdrop of grey clouds and a misty sky.
+trg_cap: A grey scale photo features the clock tower's intricate stone carvings and white clock standing out against a backdrop of grey clouds and a misty sky.
+instruction: Change the style if the image to grey scale.
+taskid: 120824

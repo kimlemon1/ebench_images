@@ -1,0 +1,5 @@
+org_img_id: 2359078
+org_cap: the bathroom features a sleek, modern sink with a wooden countertop and a glass wall separating the shower area.
+trg_cap: The bathroom features a sleek, modern sink with a bowl in the center, a wooden countertop, and a glass wall separating the shower area.
+instruction: Add a bowl in the sink.
+taskid: 77671

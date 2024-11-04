@@ -1,0 +1,5 @@
+org_img_id: 2417515
+org_cap: person, wearing a grey sweater and leggings, his worn leather boots and hiking socks visible beneath the hem of his pants.
+trg_cap: person, wearing a grey sweater and leggings, his worn leather boots and hiking socks visible beneath the hem of his pants, stood on the sandy beach with the sound of waves crashing in the background.
+instruction: Change the background to beach.
+taskid: 65093

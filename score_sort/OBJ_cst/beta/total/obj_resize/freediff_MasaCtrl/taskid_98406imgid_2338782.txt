@@ -1,0 +1,5 @@
+org_img_id: 2338782
+org_cap: A person on a skateboard, wearing green pants and black shoes, with a black t-shirt and green and black gloves, against a blue wall.
+trg_cap: A person on a large skateboard, wearing green pants and black shoes, with a black t-shirt and green and black gloves, against a blue wall.
+instruction: Make the skateboard larger.
+taskid: 98406

@@ -1,0 +1,5 @@
+org_img_id: 713291
+org_cap: A person in mid-air, with the sun casting a warm glow on the mountainous landscape.
+trg_cap: A person in mid-air, with a kite above them, and the sun casting a warm glow on the mountainous landscape.
+instruction: Add a kite above the person.
+taskid: 103875

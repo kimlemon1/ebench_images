@@ -1,0 +1,5 @@
+org_img_id: 2397335
+org_cap: a person with a balding head and a thick beard, wearing a sleeveless shirt with a vibrant tattoo of a palm tree on his back, sat on a bench, his legs crossed and his hands clasped together, watching an orange boat on the water.
+trg_cap: A person with a balding head and a thick beard, wearing a sleeveless shirt with a vibrant tattoo of a palm tree on his back, sat on a bench in a pine forest, his legs crossed and his hands clasped together, watching an orange boat on the water.
+instruction: Change the background to pine forest.
+taskid: 48786

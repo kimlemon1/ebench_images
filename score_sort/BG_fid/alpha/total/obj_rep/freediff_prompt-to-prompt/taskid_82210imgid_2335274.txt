@@ -1,0 +1,5 @@
+org_img_id: 2335274
+org_cap: a surfing person on a surfboard.
+trg_cap: A boat.
+instruction: Replace the person with a boat.
+taskid: 82210

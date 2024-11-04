@@ -1,0 +1,5 @@
+org_img_id: 2320355
+org_cap: a blue fire hydrant.
+trg_cap: The mosaic art contains a blue fire hydrant.
+instruction: Change the style if the image to mosaic art.
+taskid: 94653

@@ -1,0 +1,5 @@
+org_img_id: 2326372
+org_cap: a blue airplane flies across the gray sky.
+trg_cap: A graffiti art piece depicts a blue airplane flying across the gray sky.
+instruction: Change the style if the image to graffiti art.
+taskid: 112757

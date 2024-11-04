@@ -1,0 +1,5 @@
+org_img_id: 2397519
+org_cap: A large adult elephant in a clearing, its gray skin wrinkled and worn, with a long, curved tusk from its mouth, surrounded by a few white egrets pecking at the grass.
+trg_cap: A large adult zebra in a clearing, surrounded by a few white egrets pecking at its grass.
+instruction: Replace the elephant with a zebra.
+taskid: 107630

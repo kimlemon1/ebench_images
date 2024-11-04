@@ -1,0 +1,5 @@
+org_img_id: 2318946
+org_cap: A military gray airplane soars through the sky at a high speed, its engines roaring loudly as it performs a sharp turn and dives towards the ground.
+trg_cap: A cartoon-style artwork features a military gray airplane soaring through the sky at high speed, its engines roaring loudly as it performs a sharp turn and dives towards the ground.
+instruction: Change the style if the image to cartoon style.
+taskid: 78977

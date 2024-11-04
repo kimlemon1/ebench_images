@@ -1,0 +1,5 @@
+org_img_id: 2403214
+org_cap: "motorcycle and person sit together, person with a helmet and a pair of sunglasses on the motorcycle."
+trg_cap: In an art gallery, a motorcycle and person sit together, person with a helmet and a pair of sunglasses on the motorcycle.
+instruction: Change the background to art gallery.
+taskid: 111809

@@ -1,0 +1,5 @@
+org_img_id: 2411647
+org_cap: A white boat glides effortlessly across the turquoise waters, its billowing sails catching the gentle breeze as it approaches the ancient lighthouse, its stone tower standing sentinel against the bright blue sky.
+trg_cap: A white boat glides effortlessly across the turquoise waters, its billowing sails catching the gentle breeze as it approaches the ancient lighthouse, its stone tower standing sentinel against the bright blue sky, with a dog positioned in front of the boat.
+instruction: Add a dog in front of the boat.
+taskid: 66060

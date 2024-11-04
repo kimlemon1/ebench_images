@@ -1,0 +1,5 @@
+org_img_id: 2368020
+org_cap: a giraffe stands tall, its long neck, its legs, its fur a warm brown color, its eyes big and brown, and its ears long and floppy.
+trg_cap: A giraffe stands tall in the living room, its long neck, its legs, its fur a warm brown color, its eyes big and brown, and its ears long and floppy.
+instruction: Change the background to living room.
+taskid: 108120

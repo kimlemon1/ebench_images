@@ -1,0 +1,5 @@
+org_img_id: 2389738
+org_cap: The bus is a blue bus.
+trg_cap: The bus is a light blue bus.
+instruction: Change the color of the bus from blue to light blue.
+taskid: 96302

@@ -1,0 +1,5 @@
+org_img_id: 2404892
+org_cap: A gray airplane flies across the sky, its wings and tail visible as it soars through the cloudy atmosphere.
+trg_cap: A grayscale photo depicts a gray airplane flying across the sky, its wings and tail visible as it soars through the cloudy atmosphere.
+instruction: Change the style if the image to grey scale.
+taskid: 43175

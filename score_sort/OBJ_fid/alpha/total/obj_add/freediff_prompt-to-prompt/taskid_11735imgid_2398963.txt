@@ -1,0 +1,5 @@
+org_img_id: 2398963
+org_cap: a paved bicycle path winds through a lush green landscape, flanked by a row of tall trees and a sprinkling of pedestrians and bicycles, with a police officer standing at attention near the entrance.
+trg_cap: A paved bicycle path winds through a lush green landscape, flanked by a row of tall trees and a sprinkling of pedestrians and bicycles, with a motorcycle positioned in front of the bicycle and a police officer standing at attention near the entrance.
+instruction: Add a motorcycle in front of the bicycle.
+taskid: 11735

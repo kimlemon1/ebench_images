@@ -1,0 +1,5 @@
+org_img_id: 2361495
+org_cap: a small, single-engine propeller airplane with a blue and white paint job flies steadily through the clear blue sky, its wings beating steadily as it soars above the ground.
+trg_cap: A cartoon-style art features a small, single-engine propeller airplane with a blue and white paint job flying steadily through the clear blue sky, its wings beating as it soars above the ground.
+instruction: Change the style if the image to cartoon style.
+taskid: 117776

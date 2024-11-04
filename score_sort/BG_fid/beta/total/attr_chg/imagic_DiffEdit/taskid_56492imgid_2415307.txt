@@ -1,0 +1,5 @@
+org_img_id: 2415307
+org_cap: A blue airplane soars through the clear blue sky, its wings beating steadily as it gains altitude and speed.
+trg_cap: A pink airplane soars through the clear pink sky, its wings beating steadily as it gains altitude and speed.
+instruction: Change the color of the airplane from blue to pink.
+taskid: 56492

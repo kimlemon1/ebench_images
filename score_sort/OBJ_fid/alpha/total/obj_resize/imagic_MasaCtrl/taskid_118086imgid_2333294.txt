@@ -1,0 +1,5 @@
+org_img_id: 2333294
+org_cap: a skateboarder in his mid-twenties, wearing a white tank top and faded jeans, crouches low to the ground with his knees bent and his feet shoulder-width apart, his skateboard positioned at a slight angle on the stairs, his hands gripping the skateboard tightly as he prepares to launch himself forward.
+trg_cap: a skateboarder in his mid-twenties, wearing a white tank top and faded jeans, crouches low to the ground with his knees bent and his feet shoulder-width apart, his large skateboard positioned at a slight angle on the stairs, his hands gripping the skateboard tightly as he prepares to launch himself forward.
+instruction: Make the skateboard larger.
+taskid: 118086

@@ -1,0 +1,5 @@
+org_img_id: 2371926
+org_cap: The bus is a yellow bus with a sleek design, featuring a curved front, a prominent grille, and a rearview mirror.
+trg_cap: The bus, set against the backdrop of a cave, is a yellow bus with a sleek design, featuring a curved front, a prominent grille, and a rearview mirror.
+instruction: Change the background to cave.
+taskid: 92237

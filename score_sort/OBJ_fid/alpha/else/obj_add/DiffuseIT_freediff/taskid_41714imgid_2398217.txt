@@ -1,0 +1,5 @@
+org_img_id: 2398217
+org_cap: A gray laptop sits atop a table, with a white keyboard and glass surface below, flanked by a flat-screen tv and bookshelves in the background.
+trg_cap: A gray laptop sits atop a table, with a book in front of the white keyboard and glass surface below, flanked by a flat-screen tv and bookshelves in the background.
+instruction: Add a book in front of the keyboard.
+taskid: 41714

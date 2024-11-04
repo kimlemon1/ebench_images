@@ -1,0 +1,5 @@
+org_img_id: 2345070
+org_cap: The clock is a large, ornate clock with a circular face and roman numerals, mounted atop a sturdy, dark gray column with intricate carvings and a decorative finial at the top.
+trg_cap: The train is mounted atop a sturdy, dark gray column with intricate carvings and a decorative finial at its top.
+instruction: Replace the clock with a train.
+taskid: 40786

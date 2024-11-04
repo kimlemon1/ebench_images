@@ -1,0 +1,5 @@
+org_img_id: 2392552
+org_cap: The refrigerator is a white refrigerator standing against a wall in a small, dimly lit room with a red fire extinguisher nearby.
+trg_cap: The refrigerator is a red refrigerator standing against a wall in a small, dimly lit room with a red fire extinguisher nearby.
+instruction: Change the color of the refrigerator from white to red.
+taskid: 40733

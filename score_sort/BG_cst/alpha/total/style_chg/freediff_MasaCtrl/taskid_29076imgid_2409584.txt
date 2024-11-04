@@ -1,0 +1,5 @@
+org_img_id: 2409584
+org_cap: A white flying bird in the clear blue sky above a snow-capped mountain.
+trg_cap: An ancient Egyptian-style artwork features a white bird flying in the clear blue sky above a snow-capped mountain.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 29076

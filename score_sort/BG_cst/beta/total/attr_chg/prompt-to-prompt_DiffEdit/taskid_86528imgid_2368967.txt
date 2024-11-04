@@ -1,0 +1,5 @@
+org_img_id: 2368967
+org_cap: a young person on a white skateboard.
+trg_cap: a old person on a white skateboard.
+instruction: Change the state of the person from young to old.
+taskid: 86528

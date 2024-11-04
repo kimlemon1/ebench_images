@@ -1,0 +1,5 @@
+org_img_id: 2332098
+org_cap: a person holds a blue frisbee in mid-air, with a baby girl clinging to his arm.
+trg_cap: The art, in a cartoon style, depicts a person holding a blue frisbee in mid-air with a baby girl clinging to his arm.
+instruction: Change the style if the image to cartoon style.
+taskid: 28788

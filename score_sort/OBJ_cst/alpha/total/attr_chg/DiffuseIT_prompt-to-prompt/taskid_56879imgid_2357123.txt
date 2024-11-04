@@ -1,0 +1,5 @@
+org_img_id: 2357123
+org_cap: young person swings her racket, her fingers wrapping around the handle as she sends the ball across the court, her ponytail with each stroke, her tennis dress around her legs.
+trg_cap: adult person swings her racket, her fingers wrapping around the handle as she sends the ball across the court, her ponytail with each stroke, her tennis dress around her legs.
+instruction: Change the state of the person from young to adult.
+taskid: 56879

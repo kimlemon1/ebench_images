@@ -1,0 +1,5 @@
+org_img_id: 2399552
+org_cap: The room features a small desk with a chair, a comfortable ottoman, and a black off tv mounted on the wall.
+trg_cap: The room features a small desk with a chair, a comfortable ottoman, a couch under the TV, and a black off TV mounted on the wall.
+instruction: Add a couch under the tv.
+taskid: 51781

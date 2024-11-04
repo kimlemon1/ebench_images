@@ -1,0 +1,5 @@
+org_img_id: 2400075
+org_cap: A walking black striped zebra stands on a green grassy field, its stripes glistening in the sunlight, its neck and legs bent in a slight angle.
+trg_cap: A walking black patterned zebra stands on a green grassy field, its stripes glistening in the sunlight, its neck and legs bent in a slight angle.
+instruction: Change the color of the zebra from striped to patterned.
+taskid: 117165

@@ -1,0 +1,5 @@
+org_img_id: 2317745
+org_cap: The scene is a small, modern living room with a white chair and a minimalist desk in the center, surrounded by a beige carpet and a plain white wall.
+trg_cap: The scene is a small, modern living room with a white chair and a minimalist desk in the center, a dining table in front of the chair, surrounded by a beige carpet and a plain white wall.
+instruction: Add a dining table in front of the chair.
+taskid: 6365

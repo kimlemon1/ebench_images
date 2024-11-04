@@ -1,0 +1,5 @@
+org_img_id: 1593250
+org_cap: a bright red bus with a rounded front and a flat roof, featuring a chrome grille and a curved windshield, sits in the city square, its doors open and a few people getting on and off.
+trg_cap: A boat sits in the city square, its door open and a few people getting on and off.
+instruction: Replace the bus with a boat.
+taskid: 16859

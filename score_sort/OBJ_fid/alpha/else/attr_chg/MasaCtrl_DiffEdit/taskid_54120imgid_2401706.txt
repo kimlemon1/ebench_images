@@ -1,0 +1,5 @@
+org_img_id: 2401706
+org_cap: A white zebra grazing on a green meadow, its zebra glistening in the sunlight.
+trg_cap: A striped zebra grazing on a green meadow, its zebra glistening in the sunlight.
+instruction: Change the color of the zebra from white to striped.
+taskid: 54120

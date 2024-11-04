@@ -1,0 +1,5 @@
+org_img_id: 2315551
+org_cap: The snow - covered bench stands alone in the winter landscape, its dark metal frame contrasting with the bright winter sunlight that casts a long shadow across the frosty grass.
+trg_cap: The dog stands alone in the winter landscape, his dark metal frame contrasting with the bright winter sunlight that casts a long shadow across the frosty grass.
+instruction: Replace the bench with a dog.
+taskid: 112399

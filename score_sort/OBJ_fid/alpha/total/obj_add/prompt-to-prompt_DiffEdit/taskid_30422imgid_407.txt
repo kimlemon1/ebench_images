@@ -1,0 +1,5 @@
+org_img_id: 407
+org_cap: The desk features a black keyboard, surrounded by empty space and a few scattered objects like a can of soda and a stack of papers.
+trg_cap: The desk features a black keyboard, on which sits a TV, surrounded by empty space and a few scattered objects like a can of soda and a stack of papers.
+instruction: Add a tv on the keyboard.
+taskid: 30422

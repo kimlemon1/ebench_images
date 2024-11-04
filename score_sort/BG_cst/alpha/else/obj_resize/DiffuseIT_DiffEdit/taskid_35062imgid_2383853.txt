@@ -1,0 +1,5 @@
+org_img_id: 2383853
+org_cap: The red teddy bear is a red teddy bear with a patch on its chest, and a backpack attached to its back.
+trg_cap: The small red teddy bear is a red teddy bear with a patch on its chest, and a backpack attached to its back.
+instruction: Make the teddy bear smaller.
+taskid: 35062

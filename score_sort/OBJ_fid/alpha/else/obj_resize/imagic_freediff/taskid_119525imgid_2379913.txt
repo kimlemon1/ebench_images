@@ -1,0 +1,5 @@
+org_img_id: 2379913
+org_cap: a black dog in front of a small, yellow sink with a single sink and a ceramic sink, surrounded by a wooden sink and a few decorative sink.
+trg_cap: a black dog in front of a small, yellow sink with a single large sink and a ceramic sink, surrounded by a wooden sink and a few decorative sink.
+instruction: Make the sink larger.
+taskid: 119525

@@ -1,0 +1,5 @@
+org_img_id: 2383826
+org_cap: a small, tabby cat with a mottled brown and orange coat out of a cardboard tube.
+trg_cap: a small, tabby cat with a small, mottled brown and orange coat out of a cardboard tube.
+instruction: Make the cat smaller.
+taskid: 120968

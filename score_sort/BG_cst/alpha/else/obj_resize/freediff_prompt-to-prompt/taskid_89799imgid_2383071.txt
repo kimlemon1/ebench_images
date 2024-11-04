@@ -1,0 +1,5 @@
+org_img_id: 2383071
+org_cap: A white airplane with a blue stripe and a curved wing flies through the clear blue sky.
+trg_cap: A small white airplane with a blue stripe and a curved wing flies through the clear blue sky.
+instruction: Make the airplane smaller.
+taskid: 89799

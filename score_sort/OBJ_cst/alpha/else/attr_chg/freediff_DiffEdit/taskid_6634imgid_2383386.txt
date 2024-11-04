@@ -1,0 +1,5 @@
+org_img_id: 2383386
+org_cap: An old blue wood boat sits half-submerged in the shallow, green waters of the estuary, surrounded by the gentle lapping of the waves and the soft, white foam of the sea.
+trg_cap: An old light blue wood boat sits half-submerged in the shallow, green waters of the estuary, surrounded by the gentle lapping of the waves and the soft, white foam of the sea.
+instruction: Change the color of the boat from blue to light blue.
+taskid: 6634

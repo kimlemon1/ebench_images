@@ -1,0 +1,5 @@
+org_img_id: 2354717
+org_cap: a solitary sheep stands on a snow - covered hillside, its woolly coat glistening with frost and its bright eyes surveying the winter landscape.
+trg_cap: A solitary cow stands on a snow-covered hillside.
+instruction: Replace the sheep with a cow.
+taskid: 76277

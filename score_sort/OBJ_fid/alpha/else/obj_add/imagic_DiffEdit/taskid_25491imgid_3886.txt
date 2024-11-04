@@ -1,0 +1,5 @@
+org_img_id: 3886
+org_cap: A white car is turning left at the roundabout.
+trg_cap: A white car is turning left at the roundabout, with a giraffe on its left side.
+instruction: Add a giraffe on the left side of the car.
+taskid: 25491

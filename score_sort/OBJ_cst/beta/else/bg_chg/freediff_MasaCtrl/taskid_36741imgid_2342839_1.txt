@@ -1,0 +1,5 @@
+org_img_id: 2342839_1
+org_cap: person stands in front of the old fire station, wearing a gray sweatshirt and jeans, his eyes on the camera with a smile.
+trg_cap: Person stands in front of the old fire station, with a vineyard in the background, wearing a gray sweatshirt and jeans, his eyes on the camera with a smile.
+instruction: Change the background to vineyard.
+taskid: 36741

@@ -1,0 +1,5 @@
+org_img_id: 2360993
+org_cap: A blue, rusty, wood bench stands alone against a white wall, its wooden slats worn smooth and its bench bearing the patina of age.
+trg_cap: A blue, rusty, wood bench stands alone against a white wall in the lobby of a concert hall, its wooden slats worn smooth and its bench bearing the patina of age.
+instruction: Change the background to concert hall.
+taskid: 7429

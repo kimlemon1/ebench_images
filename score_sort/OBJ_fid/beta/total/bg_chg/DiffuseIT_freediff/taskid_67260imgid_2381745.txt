@@ -1,0 +1,5 @@
+org_img_id: 2381745
+org_cap: A yellow bus sits at a bus stop, its bright color standing out against the urban backdrop, while a lone person sits on a stone bench, gazing out at the bus with a mixture of boredom and indifference.
+trg_cap: A yellow bus sits at a bus stop, its bright color standing out against the beach backdrop, while a lone person sits on a stone bench, gazing out at the bus with a mixture of boredom and indifference.
+instruction: Change the background to beach.
+taskid: 67260

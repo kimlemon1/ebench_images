@@ -1,0 +1,5 @@
+org_img_id: 2409283
+org_cap: A gray metal bench sits in a small park or garden, with a brown bird sitting on the edge, its beak pointed slightly upwards as it gazes intently at something in the distance.
+trg_cap: A gray metal bench sits in a small vineyard, with a brown bird sitting on the edge, its beak pointed slightly upwards as it gazes intently at something in the distance.
+instruction: Change the background to vineyard.
+taskid: 121904

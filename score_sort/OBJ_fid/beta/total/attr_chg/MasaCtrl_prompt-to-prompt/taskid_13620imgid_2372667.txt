@@ -1,0 +1,5 @@
+org_img_id: 2372667
+org_cap: The kitchen features a white oven.
+trg_cap: The kitchen features a brown oven.
+instruction: Change the color of the oven from white to brown.
+taskid: 13620

@@ -1,0 +1,5 @@
+org_img_id: 2360405
+org_cap: a flying bird across the bright orange sunset sky, its wings as it over the calm, blue ocean.
+trg_cap: A cartoon-style art features a flying bird across the bright orange sunset sky, its wings spread over the calm, blue ocean.
+instruction: Change the style if the image to cartoon style.
+taskid: 75200

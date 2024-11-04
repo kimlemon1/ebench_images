@@ -1,0 +1,5 @@
+org_img_id: 2341781
+org_cap: A solitary figure stands beneath a tree, clutching an umbrella and wearing a raincoat, with a white bench in the background.
+trg_cap: A solitary figure stands beneath a tree, clutching an umbrella and wearing a raincoat, with an aquarium in the background.
+instruction: Change the background to aquarium.
+taskid: 26528

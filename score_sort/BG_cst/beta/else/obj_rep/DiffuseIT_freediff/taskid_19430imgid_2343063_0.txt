@@ -1,0 +1,5 @@
+org_img_id: 2343063_0
+org_cap: The white microwave sits on the countertop, its exterior gleaming in the morning light.
+trg_cap: The white clock sits on the countertop.
+instruction: Replace the microwave with a clock.
+taskid: 19430

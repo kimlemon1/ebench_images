@@ -1,0 +1,5 @@
+org_img_id: 2405320_1
+org_cap: a person sits at a table, wearing a green apron with a built-in bib to protect their clothing from stains, and holds a white cup in one hand and a plate with a doughnut in the other.
+trg_cap: a person sits at a table, wearing a green apron with a built-in bib to protect their clothing from stains, and holds a blue cup in one hand and a plate with a doughnut in the other.
+instruction: Change the color of the cup from white to blue.
+taskid: 19185

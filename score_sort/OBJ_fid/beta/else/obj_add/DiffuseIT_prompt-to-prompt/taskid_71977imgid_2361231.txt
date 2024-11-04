@@ -1,0 +1,5 @@
+org_img_id: 2361231
+org_cap: A woman is sitting and smiling while holding a knife in front of four cakes.
+trg_cap: A woman is sitting and smiling while holding a knife in front of four cakes, with dining table under the knife
+instruction: Add a dining table under the knife.
+taskid: 71977

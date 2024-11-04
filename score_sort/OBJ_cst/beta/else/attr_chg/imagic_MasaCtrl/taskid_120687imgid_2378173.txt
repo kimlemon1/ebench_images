@@ -1,0 +1,5 @@
+org_img_id: 2378173
+org_cap: The white toilet is a bowl with a handle and a valve.
+trg_cap: The pink toilet is a bowl with a handle and a valve.
+instruction: Change the color of the toilet from white to pink.
+taskid: 120687

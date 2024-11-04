@@ -1,0 +1,5 @@
+org_img_id: 2328559
+org_cap: a colorful kite with a long tail and vibrant colors, soaring high in the sky above a group of people standing on the beach.
+trg_cap: A pop art style artwork features a colorful kite with a long tail and vibrant colors, soaring high in the sky above a group of people standing on the beach.
+instruction: Change the style if the image to pop art style.
+taskid: 39575

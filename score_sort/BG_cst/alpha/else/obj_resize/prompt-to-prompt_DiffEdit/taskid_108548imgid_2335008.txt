@@ -1,0 +1,5 @@
+org_img_id: 2335008
+org_cap: a worn and stained glass bowl holds a tangled mess of spaghetti, with tomato sauce and olives scattered throughout, and a few stray strands of pasta sticking out of the bowl.
+trg_cap: a worn and stained small glass bowl holds a tangled mess of spaghetti, with tomato sauce and olives scattered throughout, and a few stray strands of pasta sticking out of the bowl.
+instruction: Make the bowl smaller.
+taskid: 108548

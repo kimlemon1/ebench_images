@@ -1,0 +1,5 @@
+org_img_id: 2380311
+org_cap: surfing person rides a surfboard, his wetsuit glistening with water droplets.
+trg_cap: An oil painting style artwork depicts a surfing person riding a surfboard, with his wetsuit glistening with water droplets.
+instruction: Change the style if the image to oil painting style.
+taskid: 26840

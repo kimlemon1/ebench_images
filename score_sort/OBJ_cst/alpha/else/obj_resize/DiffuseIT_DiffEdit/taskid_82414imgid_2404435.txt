@@ -1,0 +1,5 @@
+org_img_id: 2404435
+org_cap: Standing person in a room, wearing a suit with a train, a shirt with a tie, and trousers with a stripe, paired with boots and a waistcoat, with a nod to the elegance of a bygone era.
+trg_cap: Standing small person in a room, wearing a suit with a train, a shirt with a tie, and trousers with a stripe, paired with boots and a waistcoat, with a nod to the elegance of a bygone era.
+instruction: Make the person smaller.
+taskid: 82414

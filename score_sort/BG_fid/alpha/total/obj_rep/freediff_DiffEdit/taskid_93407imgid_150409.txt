@@ -1,0 +1,5 @@
+org_img_id: 150409
+org_cap: A majestic horse stands alone in the moonlit yard, its coat in the soft glow of the evening sun.
+trg_cap: A majestic bus stands alone in the moonlit yard.
+instruction: Replace the horse with a bus.
+taskid: 93407

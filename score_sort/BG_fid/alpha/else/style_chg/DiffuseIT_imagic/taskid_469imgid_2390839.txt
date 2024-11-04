@@ -1,0 +1,5 @@
+org_img_id: 2390839
+org_cap: a young person, on a sandy beach, the blue frisbee.
+trg_cap: A Van Gogh style artwork features a young person on a sandy beach with a blue frisbee.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 469

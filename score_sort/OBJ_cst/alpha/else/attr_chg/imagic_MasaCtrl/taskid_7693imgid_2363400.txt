@@ -1,0 +1,5 @@
+org_img_id: 2363400
+org_cap: Person on white skis, her silver suit glistening.
+trg_cap: Person on orange skis, her silver suit glistening.
+instruction: Change the color of the skis from white to orange.
+taskid: 7693

@@ -1,0 +1,5 @@
+org_img_id: 2371379
+org_cap: A giraffe, its long neck and legs above the grassy savannah, while in the distance, a rhinoceros and its calf rest in the shade of a tree.
+trg_cap: A giraffe, its long neck and legs above the snowy field, while in the distance, a rhinoceros and its calf rest in the shade of a tree.
+instruction: Change the background to snow field.
+taskid: 86522

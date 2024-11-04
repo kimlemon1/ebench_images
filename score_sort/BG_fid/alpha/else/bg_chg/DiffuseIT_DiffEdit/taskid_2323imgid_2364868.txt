@@ -1,0 +1,5 @@
+org_img_id: 2364868
+org_cap: a person in a green tank top and shorts is in a skatepark, with ramps and obstacles in the background.
+trg_cap: A person in a green tank top and shorts is in a library, with bookshelves and reading tables in the background.
+instruction: Change the background to library.
+taskid: 2323

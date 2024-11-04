@@ -1,0 +1,5 @@
+org_img_id: 2355773
+org_cap: The red bus has a faded yellow stripe running along its length, and its doors are slightly ajar, revealing a dimly lit interior with worn seats and rusty handrails.
+trg_cap: The purple bus has a faded yellow stripe running along its length, and its doors are slightly ajar, revealing a dimly lit interior with worn seats and rusty handrails.
+instruction: Change the color of the bus from red to purple.
+taskid: 58870

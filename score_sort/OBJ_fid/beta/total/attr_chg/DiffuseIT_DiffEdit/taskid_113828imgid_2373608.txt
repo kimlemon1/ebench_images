@@ -1,0 +1,5 @@
+org_img_id: 2373608
+org_cap: A red train hauls a string of coal cars across the snowy landscape, its bright red paint job standing out against the winter white backdrop.
+trg_cap: A beige train hauls a string of coal cars across the snowy landscape, its bright beige paint job standing out against the winter white backdrop.
+instruction: Change the color of the train from red to beige.
+taskid: 113828

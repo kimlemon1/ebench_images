@@ -1,0 +1,5 @@
+org_img_id: 2381938
+org_cap: The blue bus rumbles down the snowy street, its sleek design and gleaming chrome wheels reflecting the winter sun.
+trg_cap: The tan bus rumbles down the snowy street, its sleek design and gleaming chrome wheels reflecting the winter sun.
+instruction: Change the color of the bus from blue to tan.
+taskid: 1233

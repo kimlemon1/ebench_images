@@ -1,0 +1,5 @@
+org_img_id: 2414998
+org_cap: The airplane is a white airplane.
+trg_cap: The airplane is a orange airplane.
+instruction: Change the color of the airplane from white to orange.
+taskid: 107662

@@ -1,0 +1,5 @@
+org_img_id: 2334807
+org_cap: A small teddy bear sits on a metal chair with a mesh design, surrounded by a blurred background of trees and a cityscape.
+trg_cap: A mosaic art features a small teddy bear sitting on a metal chair with a mesh design, surrounded by a blurred background of trees and a cityscape.
+instruction: Change the style if the image to mosaic art.
+taskid: 92842

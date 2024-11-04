@@ -1,0 +1,5 @@
+org_img_id: 2404232
+org_cap: a giraffe stands tall, its long neck and legs, its soft fur a warm beige color, with a gentle gaze and a subtle smile.
+trg_cap: A giraffe stands tall in the dimly lit cave, its long neck and legs, its soft fur a warm beige color, with a gentle gaze and a subtle smile.
+instruction: Change the background to cave.
+taskid: 22258

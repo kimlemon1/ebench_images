@@ -1,0 +1,5 @@
+org_img_id: 2395287
+org_cap: a person in a kitchen, wearing a red jumpsuit and a spatula, illuminated only by the soft glow of the stove and the moonlight through the window.
+trg_cap: A person in a kitchen on a countryside farm, wearing a red jumpsuit and holding a spatula, illuminated only by the soft glow of the stove and the moonlight through the window.
+instruction: Change the background to country side farm.
+taskid: 91928

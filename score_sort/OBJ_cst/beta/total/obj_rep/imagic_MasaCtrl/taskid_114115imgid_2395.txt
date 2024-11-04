@@ -1,0 +1,5 @@
+org_img_id: 2395
+org_cap: a bus navigates the wet streets, its tires splashing in the puddles and its headlights reflecting off the rain-soaked pavement.
+trg_cap: A boat navigates its wet streets.
+instruction: Replace the bus with a boat.
+taskid: 114115

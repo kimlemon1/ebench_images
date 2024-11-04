@@ -1,0 +1,5 @@
+org_img_id: 2359178
+org_cap: a red train chugs along the snowy mountain train, its wheels clicking on the frozen train as it winds its way up the mountain, leaving a trail of steam and snow in its wake.
+trg_cap: An oil painting style art depicts a red train chugging along the snowy mountain terrain, its wheels clicking on the frozen track as it winds its way up the mountain, leaving a trail of steam and snow in its wake.
+instruction: Change the style if the image to oil painting style.
+taskid: 120039

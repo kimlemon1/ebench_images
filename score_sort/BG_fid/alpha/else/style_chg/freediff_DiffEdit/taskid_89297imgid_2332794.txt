@@ -1,0 +1,5 @@
+org_img_id: 2332794
+org_cap: a majestic elephant, its gray skin glistening in the morning sun, wore a vibrant red blanket wrapped around its massive body, its tusks gleaming, its large ears flapping in the gentle breeze.
+trg_cap: A graffiti art piece features a majestic elephant with its gray skin glistening in the morning sun, wearing a vibrant red blanket wrapped around its massive body, its tusks gleaming and large ears flapping in the gentle breeze.
+instruction: Change the style if the image to graffiti art.
+taskid: 89297

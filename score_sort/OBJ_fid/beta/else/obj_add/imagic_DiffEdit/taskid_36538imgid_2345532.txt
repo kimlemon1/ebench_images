@@ -1,0 +1,5 @@
+org_img_id: 2345532
+org_cap: a white dog on the deck of a small wooden boat, with a person beside it, both gazing out at the calm waters of a river.
+trg_cap: a white dog on the deck of a small wooden boat, with a person beside it, both gazing out at the calm waters of a river, and a horse standing behind the dog.
+instruction: Add a horse behind the dog.
+taskid: 36538

@@ -1,0 +1,5 @@
+org_img_id: 2341764
+org_cap: The silver refrigerator is an appliance.
+trg_cap: The small silver refrigerator is an appliance.
+instruction: Make the refrigerator smaller.
+taskid: 104013

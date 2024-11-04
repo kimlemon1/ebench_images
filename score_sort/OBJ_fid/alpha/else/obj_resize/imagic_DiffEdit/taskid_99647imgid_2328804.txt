@@ -1,0 +1,5 @@
+org_img_id: 2328804
+org_cap: The dog is on the back of a gray cow.
+trg_cap: The large dog is on the back of a gray cow.
+instruction: Make the dog larger.
+taskid: 99647

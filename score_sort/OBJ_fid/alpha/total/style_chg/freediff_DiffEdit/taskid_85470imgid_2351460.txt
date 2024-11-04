@@ -1,0 +1,5 @@
+org_img_id: 2351460
+org_cap: a sleek, silver airplane with a distinctive fuselage and wings, soaring through the clear blue sky with a gentle hum, leaving a trail of condensed water vapor behind it.
+trg_cap: A Van Gogh style art piece features a sleek, silver airplane with a distinctive fuselage and wings, soaring through the clear blue sky with a gentle hum and leaving a trail of condensed water vapor behind it.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 85470

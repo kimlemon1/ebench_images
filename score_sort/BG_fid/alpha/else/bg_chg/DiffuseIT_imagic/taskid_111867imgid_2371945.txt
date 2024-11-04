@@ -1,0 +1,5 @@
+org_img_id: 2371945
+org_cap: a black, sitting cat, with a person in the background.
+trg_cap: A black, sitting cat, with a person in the background of an art gallery.
+instruction: Change the background to art gallery.
+taskid: 111867

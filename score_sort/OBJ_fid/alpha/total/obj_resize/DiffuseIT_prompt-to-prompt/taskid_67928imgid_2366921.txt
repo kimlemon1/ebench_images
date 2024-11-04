@@ -1,0 +1,5 @@
+org_img_id: 2366921
+org_cap: a small person in a red hat on a field with a white sports ball and a line in the background.
+trg_cap: a large person in a red hat on a field with a white sports ball and a line in the background.
+instruction: Make the person larger.
+taskid: 67928

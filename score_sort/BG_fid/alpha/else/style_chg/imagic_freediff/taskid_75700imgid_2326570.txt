@@ -1,0 +1,5 @@
+org_img_id: 2326570
+org_cap: a person wearing glasses and a green shirt is standing under a frisbee.
+trg_cap: A Van Gogh style artwork depicts a person wearing glasses and a green shirt standing under a frisbee.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 75700

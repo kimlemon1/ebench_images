@@ -1,0 +1,5 @@
+org_img_id: 2390090
+org_cap: person throws a person with his right hand, his arm and his wrist as the person.
+trg_cap: Sports ball throws a sports ball with its right hand, its arm and its wrist.
+instruction: Replace the person with a sports ball.
+taskid: 43007

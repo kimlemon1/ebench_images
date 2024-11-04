@@ -1,0 +1,5 @@
+org_img_id: 2404352
+org_cap: a train chugs along the old black train, its wheels clicking on the train as it approaches the train.
+trg_cap: A truck chugs along, the wheels clicking as it approaches.
+instruction: Replace the train with a truck.
+taskid: 54538

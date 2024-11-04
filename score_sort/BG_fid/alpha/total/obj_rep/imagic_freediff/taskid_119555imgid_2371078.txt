@@ -1,0 +1,5 @@
+org_img_id: 2371078
+org_cap: The toothbrush is a white toothbrush with a toothbrush and a toothbrush.
+trg_cap: The teddy bear is a teddy bear.
+instruction: Replace the toothbrush with a teddy bear.
+taskid: 119555

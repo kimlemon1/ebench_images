@@ -1,0 +1,5 @@
+org_img_id: 2406432
+org_cap: a black metal motorcycle parked outside a modern building with a neon sign, surrounded by urban scenery with graffiti and concrete walls.
+trg_cap: A black metal motorcycle parked outside a modern building with a neon sign, surrounded by the rugged interior of a cave with stalactites and rocky walls.
+instruction: Change the background to cave.
+taskid: 96049

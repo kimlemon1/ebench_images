@@ -1,0 +1,5 @@
+org_img_id: 2358092
+org_cap: "Orange carrot, onion, and bunch of fresh herbs sit on a wooden table, surrounded by paper bags and a few loose items."
+trg_cap: "Small orange carrot, onion, and bunch of fresh herbs sit on a wooden table, surrounded by paper bags and a few loose items."
+instruction: Make the carrot smaller.
+taskid: 1533

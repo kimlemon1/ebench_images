@@ -1,0 +1,5 @@
+org_img_id: 2374960
+org_cap: Person skis through the air as person leaps off the snow, his body a blur of motion as he flies towards the landing zone.
+trg_cap: Person skis through the air as person leaps off the snow, his body a blur of motion as he flies towards the landing zone, his small skis slicing through the air.
+instruction: Make the skis smaller.
+taskid: 66287

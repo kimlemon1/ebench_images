@@ -1,0 +1,5 @@
+org_img_id: 2404313
+org_cap: The apple is a red apple with a slight sheen and a few tiny scratches on its surface.
+trg_cap: The apple is a red apple with a slight sheen and a few tiny scratches on its surface, and a bird is perched on top of it.
+instruction: Add a bird on the apple.
+taskid: 108435

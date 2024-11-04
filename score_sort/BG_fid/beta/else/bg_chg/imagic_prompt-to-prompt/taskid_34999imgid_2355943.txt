@@ -1,0 +1,5 @@
+org_img_id: 2355943
+org_cap: A person sits on a bench, wearing a white shirt and gray pants, with a cane in hand, where the buildings and river reflect the warm glow of streetlights.
+trg_cap: A person sits on a bench, wearing a white shirt and gray pants, with a cane in hand, surrounded by towering bookshelves and the soft rustle of pages in the library.
+instruction: Change the background to library.
+taskid: 34999

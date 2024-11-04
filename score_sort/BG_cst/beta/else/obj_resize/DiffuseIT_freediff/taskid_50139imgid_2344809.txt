@@ -1,0 +1,5 @@
+org_img_id: 2344809
+org_cap: a large adult elephant with a grayish - brown skin, a long trunk with a rounded tip, and a pair of tusks from its mouth.
+trg_cap: a large adult elephant, typically standing about 8 to 10 feet tall at the shoulder and weighing between 5,000 to 14,000 pounds, with a grayish-brown skin, a long trunk with a rounded tip, and a pair of tusks from its mouth.
+instruction: Make the elephant smaller.
+taskid: 50139

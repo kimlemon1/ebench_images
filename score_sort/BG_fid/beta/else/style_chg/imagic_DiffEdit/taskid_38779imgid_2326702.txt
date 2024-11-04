@@ -1,0 +1,5 @@
+org_img_id: 2326702
+org_cap: Person on a skateboard, wearing a gray t-shirt and gray shorts, with green flip flops on his feet, and a relaxed expression on his face.
+trg_cap: A cartoon-style artwork features a person on a skateboard, wearing a gray t-shirt and gray shorts, with green flip flops on their feet and a relaxed expression on their face.
+instruction: Change the style if the image to cartoon style.
+taskid: 38779

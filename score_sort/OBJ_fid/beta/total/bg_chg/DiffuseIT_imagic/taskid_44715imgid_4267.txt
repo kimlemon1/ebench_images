@@ -1,0 +1,5 @@
+org_img_id: 4267
+org_cap: person stands alone on the snow-covered terrain, wearing a bright red parka and blue insulated pants, his gloved hands into his armpits, and his eyes on the frozen landscape.
+trg_cap: A person stands alone on the snow-covered terrain of an urban city park, wearing a bright red parka and blue insulated pants, his gloved hands into his armpits, and his eyes on the frozen landscape.
+instruction: Change the background to urban city.
+taskid: 44715

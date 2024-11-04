@@ -1,0 +1,5 @@
+org_img_id: 2341427
+org_cap: a silver airplane with a distinctive tail design and a long, curved wing, soaring through the clear blue sky at a moderate altitude.
+trg_cap: a large silver airplane with a distinctive tail design and a long, curved wing, soaring through the clear blue sky at a moderate altitude.
+instruction: Make the airplane larger.
+taskid: 12942

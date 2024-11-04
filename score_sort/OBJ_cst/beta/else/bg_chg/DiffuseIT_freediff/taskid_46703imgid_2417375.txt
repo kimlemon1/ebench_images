@@ -1,0 +1,5 @@
+org_img_id: 2417375
+org_cap: a young person wearing a hoodie and jeans, with a skateboard in hand, jumps and spins on the skateboard, his legs and arms moving in a fluid motion as he navigates the concrete bowl.
+trg_cap: A young person wearing a hoodie and jeans, with a skateboard in hand, jumps and spins on the skateboard, his legs and arms moving in a fluid motion as he navigates the concrete bowl, set against the backdrop of a snow field.
+instruction: Change the background to snow field.
+taskid: 46703

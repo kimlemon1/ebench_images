@@ -1,0 +1,5 @@
+org_img_id: 2381961
+org_cap: a young person in a hat and pants squatting on the grassy field, eyes on a baseball glove in front of him, playing.
+trg_cap: a large young person in a hat and pants squatting on the grassy field, eyes on a baseball glove in front of him, playing.
+instruction: Make the person larger.
+taskid: 91279

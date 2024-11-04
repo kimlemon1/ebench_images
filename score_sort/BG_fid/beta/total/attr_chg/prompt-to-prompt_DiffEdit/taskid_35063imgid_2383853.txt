@@ -1,0 +1,5 @@
+org_img_id: 2383853
+org_cap: The red teddy bear is a red teddy bear with a patch on its chest, and a backpack attached to its back.
+trg_cap: The orange teddy bear is a orange teddy bear with a patch on its chest, and a backpack attached to its back.
+instruction: Change the color of the teddy bear from red to orange.
+taskid: 35063

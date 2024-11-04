@@ -1,0 +1,5 @@
+org_img_id: 2332837
+org_cap: person sits on a snowboard at the bottom of a slope, wearing a green jacket and a green hat, with goggles and a green scarf wrapped around their neck.
+trg_cap: person sits on a large snowboard at the bottom of a slope, wearing a green jacket and a green hat, with goggles and a green scarf wrapped around their neck.
+instruction: Make the snowboard larger.
+taskid: 117331

@@ -1,0 +1,5 @@
+org_img_id: 2364441
+org_cap: Blond person in a dimly lit dressing room, wearing a trench coat with a fitted waist and flared hem, her hair styled in loose waves, her eyes lined with dark eyeliner and mascara, her lips painted a deep red.
+trg_cap: A grey scale photo depicts a blond person in a dimly lit dressing room, wearing a trench coat with a fitted waist and flared hem, her hair styled in loose waves, her eyes lined with dark eyeliner and mascara, and her lips painted a deep red.
+instruction: Change the style if the image to grey scale.
+taskid: 76891

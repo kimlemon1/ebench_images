@@ -1,0 +1,5 @@
+org_img_id: 2370036
+org_cap: A person stands on a red snowboard, holding a red snowboard, as the wind lifts the red snowboard and the person adjusts the string.
+trg_cap: A person stands on a red snowboard, holding a red snowboard, as the wind lifts the red snowboard and the person adjusts the string, surrounded by rows of grapevines in a vineyard.
+instruction: Change the background to vineyard.
+taskid: 57417

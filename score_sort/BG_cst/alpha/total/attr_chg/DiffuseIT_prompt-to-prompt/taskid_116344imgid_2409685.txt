@@ -1,0 +1,5 @@
+org_img_id: 2409685
+org_cap: a rider in a white motorcycle.
+trg_cap: a rider in a brown motorcycle.
+instruction: Change the color of the motorcycle from white to brown.
+taskid: 116344

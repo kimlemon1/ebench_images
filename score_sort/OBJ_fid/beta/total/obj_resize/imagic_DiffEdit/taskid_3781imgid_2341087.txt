@@ -1,0 +1,5 @@
+org_img_id: 2341087
+org_cap: "person off a skateboard, his legs and feet as he on the concrete ramp, surrounded by autumnal foliage with vibrant orange leaves and a bright yellow skateboard."
+trg_cap: person off a skateboard, his legs and feet as he on the concrete ramp, surrounded by autumnal foliage with vibrant orange leaves and a bright large yellow skateboard.
+instruction: Make the skateboard larger.
+taskid: 3781

@@ -1,0 +1,5 @@
+org_img_id: 2365389
+org_cap: smiling, sitting person on a bench, with a black backpack beside her.
+trg_cap: smiling, sitting person on a bench, with a black backpack beside her, in a pine forest.
+instruction: Change the background to pine forest.
+taskid: 32382

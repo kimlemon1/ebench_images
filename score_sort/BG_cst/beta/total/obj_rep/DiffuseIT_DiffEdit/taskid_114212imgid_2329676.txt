@@ -1,0 +1,5 @@
+org_img_id: 2329676
+org_cap: a blue merle australian shepherd dog sits on the roof of a pickup truck.
+trg_cap: A car sits on the roof of the pickup truck.
+instruction: Replace the dog with a car.
+taskid: 114212

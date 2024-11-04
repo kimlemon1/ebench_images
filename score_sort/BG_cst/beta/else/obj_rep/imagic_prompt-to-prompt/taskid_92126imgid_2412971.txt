@@ -1,0 +1,5 @@
+org_img_id: 2412971
+org_cap: a small wooden boat with a worn wooden seat and a single paddle glides silently across the calm turquoise waters of the lake.
+trg_cap: A small motorboat glides silently across the calm turquoise waters of the lake.
+instruction: Replace the boat with a motorcycle.
+taskid: 92126

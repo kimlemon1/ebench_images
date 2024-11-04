@@ -1,0 +1,5 @@
+org_img_id: 2381821
+org_cap: Person, wearing a bright green vest and holding a directional sign, stands on the side of the road, her eyes on the distance ahead.
+trg_cap: Person, wearing a bright green vest and holding a directional sign, stands on the side of the road, her eyes on the distance ahead, with the vast desert landscape stretching out behind her.
+instruction: Change the background to desert.
+taskid: 47516

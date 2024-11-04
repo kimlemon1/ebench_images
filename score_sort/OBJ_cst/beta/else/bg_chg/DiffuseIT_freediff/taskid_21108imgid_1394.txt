@@ -1,0 +1,5 @@
+org_img_id: 1394
+org_cap: The scene features a white keyboard on a table, surrounded by various scientific instruments and equipment.
+trg_cap: The scene features a white keyboard on a table, surrounded by various scientific instruments and equipment, set in a restaurant.
+instruction: Change the background to restaurant.
+taskid: 21108

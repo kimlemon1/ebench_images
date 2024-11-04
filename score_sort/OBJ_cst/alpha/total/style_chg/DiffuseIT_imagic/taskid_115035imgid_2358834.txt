@@ -1,0 +1,5 @@
+org_img_id: 2358834
+org_cap: The warm glow of the fireplace illuminates the cozy living room, where a comfortable brown leather couch sits atop a plush rug, surrounded by wooden furniture and a warm beige wall.
+trg_cap: A watercolor painting style art depicts the warm glow of the fireplace illuminating a cozy living room, where a comfortable brown leather couch sits atop a plush rug, surrounded by wooden furniture and a warm beige wall.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 115035
