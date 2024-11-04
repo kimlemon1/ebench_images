@@ -1,5 +1,0 @@
-org_img_id: 2333811
-org_cap: An airplane flies overhead, with a billboard reading "always a happy ending" in the background, as palm trees stand tall and a lone person away from the camera.
-trg_cap: The pop art style artwork features an airplane flying overhead, a billboard in the background reading "always a happy ending," tall palm trees, and a lone person facing away from the camera.
-instruction: Change the style if the image to pop art style.
-taskid: 37977

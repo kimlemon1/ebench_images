@@ -1,5 +1,0 @@
-org_img_id: 2365317
-org_cap: a small child with curly blonde hair and bright blue eyes holds a sugary donut in her chubby little hands, her face smeared with pink frosting and powdered sugar.
-trg_cap: The pop art style artwork features a small child with curly blonde hair and bright blue eyes holding a sugary donut in her chubby little hands, her face smeared with pink frosting and powdered sugar.
-instruction: Change the style if the image to pop art style.
-taskid: 76908

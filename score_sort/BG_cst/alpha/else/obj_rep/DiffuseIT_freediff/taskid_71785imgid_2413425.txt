@@ -1,5 +1,0 @@
-org_img_id: 2413425
-org_cap: the kitchen features a microwave and a clock mounted on the wall above the sink.
-trg_cap: The kitchen features an elephant and a clock mounted on the wall above the sink.
-instruction: Replace the microwave with a elephant.
-taskid: 71785

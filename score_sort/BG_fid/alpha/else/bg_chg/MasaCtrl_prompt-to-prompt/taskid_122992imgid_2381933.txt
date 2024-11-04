@@ -1,5 +1,0 @@
-org_img_id: 2381933
-org_cap: The playing person is wearing a pair of shorts and a tank top. Her hair is in a ponytail, and she is wearing a pair of sunglasses with frames.
-trg_cap: The playing person is wearing a pair of shorts and a tank top. Her hair is in a ponytail, and she is wearing a pair of sunglasses with frames, standing in the dimly lit background of a cave.
-instruction: Change the background to cave.
-taskid: 122992

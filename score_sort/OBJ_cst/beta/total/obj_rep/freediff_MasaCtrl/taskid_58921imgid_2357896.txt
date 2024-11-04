@@ -1,5 +1,0 @@
-org_img_id: 2357896
-org_cap: a juicy hot dog topped with crispy fried onions and served on a red tray alongside a basket of crispy fries and a side of creamy coleslaw.
-trg_cap: A pizza served on a red tray alongside a basket of crispy fries and a side of creamy coleslaw.
-instruction: Replace the hot dog with a pizza.
-taskid: 58921

@@ -1,5 +1,0 @@
-org_img_id: 2353184
-org_cap: the living room features a large screen tv mounted on the wall, surrounded by comfortable seating and decorative accents, including a coffee table and bookshelves.
-trg_cap: The living room features a large screen TV mounted on the wall, with a book next to it, surrounded by comfortable seating and decorative accents, including a coffee table and bookshelves.
-instruction: Add a book next to the tv.
-taskid: 70557

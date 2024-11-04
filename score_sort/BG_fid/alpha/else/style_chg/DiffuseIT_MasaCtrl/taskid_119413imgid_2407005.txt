@@ -1,5 +1,0 @@
-org_img_id: 2407005
-org_cap: a man in his mid-30s with a rugged beard and a green hat, wearing a white tank top and blue shorts, crouches down to pet a tan dog.
-trg_cap: The mosaic art depicts a man in his mid-30s with a rugged beard and a green hat, wearing a white tank top and blue shorts, crouching down to pet a tan dog.
-instruction: Change the style if the image to mosaic art.
-taskid: 119413

@@ -1,5 +1,0 @@
-org_img_id: 2326960
-org_cap: a person wearing a backpack with a person sitting inside.
-trg_cap: a person wearing a backpack with a person sitting inside, with a bicycle on the left side of the backpack.
-instruction: Add a bicycle on the left side of the backpack.
-taskid: 83038

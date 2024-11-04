@@ -1,5 +1,0 @@
-org_img_id: 2358150
-org_cap: a woman in her 40s with a pink kite, wearing a green coat and holding the pink kite string in her hand, walks away from a tractor and trailer in a green field on a cloudy day.
-trg_cap: A woman in her 40s with a pink kite, wearing a green coat and holding the pink kite string in her hand, walks away from a tractor and trailer in a desert on a cloudy day.
-instruction: Change the background to desert.
-taskid: 58461

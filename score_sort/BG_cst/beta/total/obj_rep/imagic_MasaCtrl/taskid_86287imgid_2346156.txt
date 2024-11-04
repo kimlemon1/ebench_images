@@ -1,5 +1,0 @@
-org_img_id: 2346156
-org_cap: person in front of a vintage oven, wearing a blue t-shirt and a white chef's hat, with a confident smile on his face.
-trg_cap: Person in front of a refrigerator, wearing a blue t-shirt and a white chef's hat, with a confident smile on their face.
-instruction: Replace the oven with a refrigerator.
-taskid: 86287

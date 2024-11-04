@@ -1,5 +1,0 @@
-org_img_id: 2372902
-org_cap: The room features a black TV mounted on a wall, surrounded by a minimalist, white bookshelf and a glass coffee table with a warm, wooden floor.
-trg_cap: The room features a black TV mounted on a wall, with a bottle in front of it, surrounded by a minimalist, white bookshelf and a glass coffee table with a warm, wooden floor.
-instruction: Add a bottle in front of the tv.
-taskid: 4592

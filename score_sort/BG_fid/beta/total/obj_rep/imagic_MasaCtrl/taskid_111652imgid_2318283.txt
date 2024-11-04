@@ -1,5 +1,0 @@
-org_img_id: 2318283
-org_cap: a black horse eating on a green meadow, its hooves leaving tracks in the soft grass towards a scattered pile of hay.
-trg_cap: A black bird, its feet leaving tracks in the soft grass towards a scattered pile of hay.
-instruction: Replace the horse with a bird.
-taskid: 111652

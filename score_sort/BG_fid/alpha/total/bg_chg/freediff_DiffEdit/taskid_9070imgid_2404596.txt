@@ -1,5 +1,0 @@
-org_img_id: 2404596
-org_cap: Young person stands on the tennis court, holding a racket and wearing a shirt and shoes, with a look on his face.
-trg_cap: Young person stands on the tennis court, holding a racket and wearing a shirt and shoes, with a look on his face, with the gym visible in the background.
-instruction: Change the background to gym.
-taskid: 9070

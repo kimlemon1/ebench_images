@@ -1,5 +1,0 @@
-org_img_id: 2415900
-org_cap: Person is a young person with a helmet and a white t-shirt, with a skateboard under his feet and a relaxed expression on his face.
-trg_cap: Person is a young person with a helmet and a white t-shirt, with a skateboard under his feet and a relaxed expression on his face, set against the backdrop of a vast desert landscape.
-instruction: Change the background to desert.
-taskid: 25092

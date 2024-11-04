@@ -1,5 +1,0 @@
-org_img_id: 2363196
-org_cap: Person, wearing a black sweat suit and striped leggings, sits on a wooden bench, her bright red hair a stark contrast to the drab surroundings, her eyes on her phone as she talks on it with a distant expression.
-trg_cap: A large person, wearing a black sweat suit and striped leggings, sits on a wooden bench, her bright red hair a stark contrast to the drab surroundings, her eyes on her phone as she talks on it with a distant expression.
-instruction: Make the person larger.
-taskid: 68058

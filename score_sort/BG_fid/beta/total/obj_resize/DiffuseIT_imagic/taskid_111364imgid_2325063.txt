@@ -1,5 +1,0 @@
-org_img_id: 2325063
-org_cap: the clock features a bold, geometric design with a circular clock surrounded by a chrome metal frame, adorned with a stylized sunburst pattern and a prominent hour and minute hand.
-trg_cap: The clock features a large, bold, geometric design with a circular clock surrounded by a chrome metal frame, adorned with a stylized sunburst pattern and a prominent hour and minute hand.
-instruction: Make the clock larger.
-taskid: 111364

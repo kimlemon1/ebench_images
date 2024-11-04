@@ -1,5 +1,0 @@
-org_img_id: 2367281
-org_cap: Person on a sunny winter day.
-trg_cap: Person on a bicycle on a sunny winter day.
-instruction: Add a bicycle under the person.
-taskid: 80849

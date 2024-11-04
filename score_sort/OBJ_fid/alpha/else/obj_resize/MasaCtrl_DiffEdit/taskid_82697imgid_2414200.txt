@@ -1,5 +1,0 @@
-org_img_id: 2414200
-org_cap: person holds a black remote in his hand, wearing glasses and sitting in a chair.
-trg_cap: person holds a black remote in his hand, wearing glasses and sitting in a large chair.
-instruction: Make the chair larger.
-taskid: 82697

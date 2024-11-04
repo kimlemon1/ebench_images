@@ -1,5 +1,0 @@
-org_img_id: 2344392
-org_cap: Person stands in front of a cow, wearing a black sweater and blue jeans, with a black hat and boots, and has a gentle touch.
-trg_cap: Person stands in front of a cow on a sandy beach, wearing a black sweater and blue jeans, with a black hat and boots, and has a gentle touch.
-instruction: Change the background to beach.
-taskid: 57229

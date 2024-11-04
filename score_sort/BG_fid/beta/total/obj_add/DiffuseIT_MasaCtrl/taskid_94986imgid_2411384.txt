@@ -1,5 +1,0 @@
-org_img_id: 2411384
-org_cap: A tan teddy bear sits on a table, surrounded by a plate of warm apple pie and a spoon, with a dollop of whipped cream on top.
-trg_cap: A tan teddy bear sits on a table, surrounded by a plate of warm apple pie and a spoon with a dollop of whipped cream on top, with a piece of cake on the spoon.
-instruction: Add a cake on the spoon.
-taskid: 94986

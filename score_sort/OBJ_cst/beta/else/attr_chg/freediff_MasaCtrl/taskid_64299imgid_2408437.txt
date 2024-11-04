@@ -1,5 +1,0 @@
-org_img_id: 2408437
-org_cap: Standing person in front of a white sink.
-trg_cap: Standing person in front of a brown sink.
-instruction: Change the color of the sink from white to brown.
-taskid: 64299

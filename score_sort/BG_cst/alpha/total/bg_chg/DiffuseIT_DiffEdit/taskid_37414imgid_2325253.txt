@@ -1,5 +1,0 @@
-org_img_id: 2325253
-org_cap: A person throws a frisbee high into the air, catching it with a grin on his face as the crowd cheers and a group of people in yellow shirts and sunglasses watch with interest.
-trg_cap: A person throws a frisbee high into the air, catching it with a grin on his face as the crowd cheers and a group of people in yellow shirts and sunglasses watch with interest, all while floating in the microgravity environment of a space station.
-instruction: Change the background to space station.
-taskid: 37414

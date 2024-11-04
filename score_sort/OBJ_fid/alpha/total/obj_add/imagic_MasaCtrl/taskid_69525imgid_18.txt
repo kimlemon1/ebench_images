@@ -1,5 +1,0 @@
-org_img_id: 18
-org_cap: a person sits at a desk with a white keyboard and a shelf above them, holding a book and a small, round object.
-trg_cap: a person sits at a desk with a white keyboard and a tv next to it, and a shelf above them, holding a book and a small, round object.
-instruction: Add a tv next to the keyboard.
-taskid: 69525

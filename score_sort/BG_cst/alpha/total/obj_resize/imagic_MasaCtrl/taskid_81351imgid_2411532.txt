@@ -1,5 +1,0 @@
-org_img_id: 2411532
-org_cap: person carves through the snow in a fluid motion, her black skis gliding down the mountain.
-trg_cap: person carves through the snow in a fluid motion, her small black skis gliding down the mountain.
-instruction: Make the skis smaller.
-taskid: 81351

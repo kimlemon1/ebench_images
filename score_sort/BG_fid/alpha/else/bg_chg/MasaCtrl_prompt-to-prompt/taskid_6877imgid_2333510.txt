@@ -1,5 +1,0 @@
-org_img_id: 2333510
-org_cap: The snow - covered bench is a sturdy, black metal structure with a wavy design and a flat seat.
-trg_cap: The snow-covered bench, reminiscent of a sturdy, black metal structure with a wavy design and a flat seat, seems out of place in the dimly lit cave.
-instruction: Change the background to cave.
-taskid: 6877

@@ -1,5 +1,0 @@
-org_img_id: 2383571
-org_cap: an airplane, blue, soaring through the sky with a trail of smoke and a roar of engines.
-trg_cap: an airplane, yellow, soaring through the sky with a trail of smoke and a roar of engines.
-instruction: Change the color of the airplane from blue to yellow.
-taskid: 51754

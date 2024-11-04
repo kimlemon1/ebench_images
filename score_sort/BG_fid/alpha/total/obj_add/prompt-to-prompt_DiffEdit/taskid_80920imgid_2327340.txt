@@ -1,5 +1,0 @@
-org_img_id: 2327340
-org_cap: A purple bus navigates through the quiet morning streets, its tires humming softly on the asphalt.
-trg_cap: A purple bus navigates through the quiet morning streets, its tires humming softly on the asphalt, with a person walking closely behind it.
-instruction: Add a person behind the bus.
-taskid: 80920

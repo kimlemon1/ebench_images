@@ -1,5 +1,0 @@
-org_img_id: 2355702
-org_cap: Skating, riding, skateboarding person, on a paved road in front of a large industrial facility with a blue smokestack.
-trg_cap: Skating, riding, skateboarding dog on a paved road in front of a large industrial facility with a blue smokestack.
-instruction: Replace the person with a dog.
-taskid: 23594

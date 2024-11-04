@@ -1,5 +1,0 @@
-org_img_id: 2399762
-org_cap: The scene is focused on a person wearing a vest with a dark cravat.
-trg_cap: The scene is focused on a person wearing a vest with a orange cravat.
-instruction: Change the color of the tie from dark to orange.
-taskid: 72697

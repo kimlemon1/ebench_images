@@ -1,5 +1,0 @@
-org_img_id: 1159695_0
-org_cap: the room features a rectangular tv with a flat screen, mounted on a wall above a black couch.
-trg_cap: The room features a dining table, mounted on the wall above the black couch.
-instruction: Replace the tv with a dining table.
-taskid: 116496

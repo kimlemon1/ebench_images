@@ -1,5 +1,0 @@
-org_img_id: 2377607
-org_cap: A crouching, young, kneeling person sits on a wood skateboard, wearing a hat and a helmet, his knees and his feet the road.
-trg_cap: A crouching, young, kneeling person sits on a metal skateboard, wearing a hat and a helmet, his knees and his feet the road.
-instruction: Change the material of the skateboard from wood to metal.
-taskid: 113717

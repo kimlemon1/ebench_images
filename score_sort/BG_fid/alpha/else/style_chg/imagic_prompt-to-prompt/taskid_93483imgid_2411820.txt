@@ -1,5 +1,0 @@
-org_img_id: 2411820
-org_cap: the skateboard is an upside down skateboard.
-trg_cap: An oil painting style artwork features an upside down skateboard.
-instruction: Change the style if the image to oil painting style.
-taskid: 93483

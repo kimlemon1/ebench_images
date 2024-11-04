@@ -1,5 +1,0 @@
-org_img_id: 2370239
-org_cap: A white zebra on a lush green hillside under a bright blue sky with fluffy white clouds.
-trg_cap: A striped zebra on a lush green hillside under a bright blue sky with fluffy striped clouds.
-instruction: Change the color of the zebra from white to striped.
-taskid: 89487

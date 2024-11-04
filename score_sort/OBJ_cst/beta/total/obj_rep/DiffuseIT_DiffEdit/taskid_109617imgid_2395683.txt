@@ -1,5 +1,0 @@
-org_img_id: 2395683
-org_cap: A yellow truck rumbles across the dusty terrain, its tires kicking up clouds of dirt as it navigates the rough terrain with ease.
-trg_cap: A yellow boat rumbles across the dusty terrain as it navigates the rough terrain with ease.
-instruction: Replace the truck with a boat.
-taskid: 109617

@@ -1,5 +1,0 @@
-org_img_id: 2358853
-org_cap: The chocolate cake sat on the plate, its rich, velvety chocolate frosting glistening with a subtle sheen, the edges slightly caramelized and the top adorned with a decorative swirl.
-trg_cap: The white cake sat on the plate, its rich, velvety white frosting glistening with a subtle sheen, the edges slightly caramelized and the top adorned with a decorative swirl.
-instruction: Change the color of the cake from chocolate to white.
-taskid: 36415

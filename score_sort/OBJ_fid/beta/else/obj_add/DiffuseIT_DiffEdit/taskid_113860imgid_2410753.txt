@@ -1,5 +1,0 @@
-org_img_id: 2410753
-org_cap: The scene features a wooden desk with a gray keyboard and a black laptop on, surrounded by a few scattered items like a phone, a clock, and a small toy.
-trg_cap: The scene features a wooden desk with a gray keyboard and a black laptop on, with a TV on the keyboard, surrounded by a few scattered items like a phone, a clock, and a small toy.
-instruction: Add a tv on the keyboard.
-taskid: 113860

@@ -1,5 +1,0 @@
-org_img_id: 2362882
-org_cap: a boat with a white and blue hull and a yellow and black funnel emits a trail of white smoke as it travels across the calm waters of the bay, with the snow-capped mountains visible in the background.
-trg_cap: a small boat with a white and blue hull and a yellow and black funnel emits a trail of white smoke as it travels across the calm waters of the bay, with the snow-capped mountains visible in the background.
-instruction: Make the boat smaller.
-taskid: 6629

@@ -1,5 +1,0 @@
-org_img_id: 2393941
-org_cap: a middle-aged person sits on a brown wood bench, his suit jacket and tie a stark contrast to the drab, rainy day, his eyes cast downward as he holds a small notebook and pen.
-trg_cap: The mosaic art depicts a middle-aged person sitting on a brown wood bench, his suit jacket and tie a stark contrast to the drab, rainy day, with his eyes cast downward as he holds a small notebook and pen.
-instruction: Change the style if the image to mosaic art.
-taskid: 115131

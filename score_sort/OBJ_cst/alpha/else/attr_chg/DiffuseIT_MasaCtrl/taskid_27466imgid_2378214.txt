@@ -1,5 +1,0 @@
-org_img_id: 2378214
-org_cap: A blue standing bird lands on a blue bowl, its wings, its beak into the blue bowl to gather seeds.
-trg_cap: A ivory standing bird lands on a ivory bowl, its wings, its beak into the ivory bowl to gather seeds.
-instruction: Change the color of the bowl from blue to ivory.
-taskid: 27466

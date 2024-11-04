@@ -1,5 +1,0 @@
-org_img_id: 2390218
-org_cap: The scene is focused on a single person in a bathroom, with a black granite countertop, a single sink, and a small cabinet above it, surrounded by beige walls and a warm yellow lighting.
-trg_cap: The scene is focused on a single person in a bathroom, with a black granite countertop, a single sink, and a small cabinet above it, surrounded by beige walls and a warm yellow lighting, with a chair positioned behind the person.
-instruction: Add a chair behind the person.
-taskid: 105171

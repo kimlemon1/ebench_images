@@ -1,5 +1,0 @@
-org_img_id: 2358478
-org_cap: A white striped grazing zebra on a green grassy field in front of a historic mansion.
-trg_cap: A white black grazing zebra on a green grassy field in front of a historic mansion.
-instruction: Change the color of the zebra from striped to black.
-taskid: 13765

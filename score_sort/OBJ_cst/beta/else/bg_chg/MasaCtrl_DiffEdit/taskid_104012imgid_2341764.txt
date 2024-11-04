@@ -1,5 +1,0 @@
-org_img_id: 2341764
-org_cap: The silver refrigerator is an appliance.
-trg_cap: The silver refrigerator is an appliance located in the train station.
-instruction: Change the background to train station.
-taskid: 104012

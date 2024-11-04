@@ -1,5 +1,0 @@
-org_img_id: 2410733
-org_cap: The microwave is a black microwave with a digital display and a rotating glass turntable.
-trg_cap: The grayscale photo features a black microwave with a digital display and a rotating glass turntable.
-instruction: Change the style if the image to grey scale.
-taskid: 113295

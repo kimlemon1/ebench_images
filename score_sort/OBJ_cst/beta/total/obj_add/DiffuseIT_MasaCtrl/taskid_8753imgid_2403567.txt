@@ -1,5 +1,0 @@
-org_img_id: 2403567
-org_cap: A dark brown horse with a worn leather harness and wooden cart attached to its back on the sandy beach, its ears perked up and its eyes alert, as a solitary figure walks away from it into the distance.
-trg_cap: A dark brown horse with a worn leather harness and wooden cart attached to its back on the sandy beach, its ears perked up and its eyes alert, stands next to a cow, as a solitary figure walks away from it into the distance.
-instruction: Add a cow next to the horse.
-taskid: 8753

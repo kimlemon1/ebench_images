@@ -1,5 +1,0 @@
-org_img_id: 2329966
-org_cap: "Person down the street with a surfboard with a worn-out fin and a faded logo on the deck, with a black hoodie with a white star patch on the sleeve and a pair of distressed denim jeans."
-trg_cap: Person down the street with a surfboard with a worn-out fin and a faded logo on the deck, with a black hoodie with a white star patch on the sleeve and a pair of distressed denim jeans, standing in front of the library.
-instruction: Change the background to library.
-taskid: 112888

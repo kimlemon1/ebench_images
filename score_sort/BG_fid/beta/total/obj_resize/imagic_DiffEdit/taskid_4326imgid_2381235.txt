@@ -1,5 +1,0 @@
-org_img_id: 2381235
-org_cap: person swings his racket, his arm cocked, his fingers spread, his eyes fixed on the court.
-trg_cap: The small person swings his racket, his arm cocked, his fingers spread, his eyes fixed on the court.
-instruction: Make the person smaller.
-taskid: 4326

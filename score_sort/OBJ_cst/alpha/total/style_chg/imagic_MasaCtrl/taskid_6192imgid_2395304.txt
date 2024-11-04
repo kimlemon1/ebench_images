@@ -1,5 +1,0 @@
-org_img_id: 2395304
-org_cap: the clock tower features a golden dome with a white clock at its peak, surrounded by intricate stonework and ornate details.
-trg_cap: The pop art style artwork features a clock tower with a golden dome, a white clock at its peak, and is surrounded by intricate stonework and ornate details.
-instruction: Change the style if the image to pop art style.
-taskid: 6192

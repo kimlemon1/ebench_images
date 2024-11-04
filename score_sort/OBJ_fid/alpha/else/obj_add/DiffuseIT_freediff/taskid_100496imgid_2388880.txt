@@ -1,5 +1,0 @@
-org_img_id: 2388880
-org_cap: A single black cell phone lies on the floor, its screen cracked and its casing worn.
-trg_cap: A single black cell phone lies on the floor, its screen cracked and its casing worn, with a book underneath it.
-instruction: Add a book under the cell phone.
-taskid: 100496

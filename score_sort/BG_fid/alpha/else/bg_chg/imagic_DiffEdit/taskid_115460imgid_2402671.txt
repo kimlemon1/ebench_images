@@ -1,5 +1,0 @@
-org_img_id: 2402671
-org_cap: a person walks with a kite, its colorful tail streaming behind it on a sunny day.
-trg_cap: A person walks with a kite, its colorful tail streaming behind it on a sunny day in a vineyard.
-instruction: Change the background to vineyard.
-taskid: 115460

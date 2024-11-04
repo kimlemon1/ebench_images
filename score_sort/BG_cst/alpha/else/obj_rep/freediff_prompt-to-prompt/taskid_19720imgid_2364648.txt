@@ -1,5 +1,0 @@
-org_img_id: 2364648
-org_cap: Young person dribbles the white, striped sports ball across the grassy field, cleats kicking up small divots as he makes a turn to evade an opponent.
-trg_cap: Young person dribbles the clock across the grassy field, cleats kicking up small divots as they make a turn to evade an opponent.
-instruction: Replace the sports ball with a clock.
-taskid: 19720

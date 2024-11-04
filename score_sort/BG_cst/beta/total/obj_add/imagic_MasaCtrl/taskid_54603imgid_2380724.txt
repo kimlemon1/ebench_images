@@ -1,5 +1,0 @@
-org_img_id: 2380724
-org_cap: A kneeling person in a truck is a flat tire on the side of the road, with a tow person parked nearby and a few cars in the background.
-trg_cap: A kneeling person in a truck is a flat tire on the side of the road, with a tow person parked nearby and a few cars in the background, and the truck is on the shoulder of the road.
-instruction: Add a truck on the person.
-taskid: 54603

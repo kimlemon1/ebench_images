@@ -1,5 +1,0 @@
-org_img_id: 2410413
-org_cap: A playing bear swims through the icy waters, its body undulating, a large inflatable ball bobbing behind it in the water.
-trg_cap: A cat swims through the icy waters, a large inflatable ball bobbing behind the cat in the water.
-instruction: Replace the bear with a cat.
-taskid: 98334

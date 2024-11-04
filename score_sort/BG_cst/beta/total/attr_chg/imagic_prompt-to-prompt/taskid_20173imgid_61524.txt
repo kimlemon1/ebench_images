@@ -1,5 +1,0 @@
-org_img_id: 61524
-org_cap: baseball player stands at the plate, his black baseball bat, bright blue jersey and matching batting gloves a testament to his team's colors.
-trg_cap: baseball player stands at the plate, his white baseball bat, bright blue jersey and matching batting gloves a testament to his team's colors.
-instruction: Change the color of the baseball bat from black to white.
-taskid: 20173

@@ -1,5 +1,0 @@
-org_img_id: 285657
-org_cap: On a red and white checked tablecloth, a shiny red apple rests beside a sharp black knife, accompanied by a curved yellow banana.
-trg_cap: On a red and white checked tablecloth, a shiny red apple rests beside a sharp black knife, accompanied by a bowl.
-instruction: Replace the banana with a bowl.
-taskid: 75160

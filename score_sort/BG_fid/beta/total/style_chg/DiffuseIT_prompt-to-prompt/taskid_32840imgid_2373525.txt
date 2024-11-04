@@ -1,5 +1,0 @@
-org_img_id: 2373525
-org_cap: A bird perches on a wire fence, its bright blue feathers in the sunlight, its wings against its back, and its beak.
-trg_cap: A mosaic art depicts a bird perching on a wire fence, its bright blue feathers shining in the sunlight, with its wings against its back and its beak visible.
-instruction: Change the style if the image to mosaic art.
-taskid: 32840

@@ -1,5 +1,0 @@
-org_img_id: 2317391
-org_cap: A train, with its bright yellow lights and sleek design, approaches the station platform, passing a stationary black traffic light.
-trg_cap: A train, with its bright yellow lights and sleek design, approaches the station platform, passing a stationary black traffic light against the backdrop of a vast desert landscape.
-instruction: Change the background to desert.
-taskid: 115845

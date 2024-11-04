@@ -1,5 +1,0 @@
-org_img_id: 1160001
-org_cap: a white bus with a blue stripe and the words "university" on the side, driving along a busy road with cars and buses moving in both directions.
-trg_cap: The graffiti art depicts a white bus with a blue stripe and the word "university" on its side, driving along a busy road with cars and buses moving in both directions.
-instruction: Change the style if the image to graffiti art.
-taskid: 80637

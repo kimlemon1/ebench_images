@@ -1,5 +1,0 @@
-org_img_id: 2334763
-org_cap: person on a gray elephant
-trg_cap: person on a gray elephant at the zoo
-instruction: Change the background to zoo.
-taskid: 111248

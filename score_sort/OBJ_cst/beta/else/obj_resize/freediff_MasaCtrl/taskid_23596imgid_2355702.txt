@@ -1,5 +1,0 @@
-org_img_id: 2355702
-org_cap: Skating, riding, skateboarding person, on a paved road in front of a large industrial facility with a blue smokestack.
-trg_cap: A large skating, riding, skateboarding person, on a paved road in front of a large industrial facility with a blue smokestack.
-instruction: Make the person larger.
-taskid: 23596

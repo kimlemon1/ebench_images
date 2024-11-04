@@ -1,5 +1,0 @@
-org_img_id: 2355462
-org_cap: A yellow surfboard lies on the sandy beach, its yellow surfboard stuck in the ground, with the waves and people in the distance.
-trg_cap: A yellow boat lies on a sandy beach, with waves and people in the distance.
-instruction: Replace the surfboard with a boat.
-taskid: 109087

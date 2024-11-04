@@ -1,5 +1,0 @@
-org_img_id: 2395208
-org_cap: a white cat lying sleeping across the hood of a car, its paws and its fur glistening in the moonlight.
-trg_cap: a white airplane, its wings and its body glistening in the moonlight.
-instruction: Replace the cat with a airplane.
-taskid: 88109

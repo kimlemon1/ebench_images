@@ -1,5 +1,0 @@
-org_img_id: 2402028
-org_cap: The broken wood baseball bat swings in a smooth arc, its surface worn and weathered from countless games and practices.
-trg_cap: The broken large wood baseball bat swings in a smooth arc, its surface worn and weathered from countless games and practices.
-instruction: Make the baseball bat larger.
-taskid: 56212

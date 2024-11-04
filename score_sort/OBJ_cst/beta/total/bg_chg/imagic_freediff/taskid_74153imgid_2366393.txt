@@ -1,5 +1,0 @@
-org_img_id: 2366393
-org_cap: person wears a blue necktie, adding a touch of elegance to his black suit.
-trg_cap: In the arid expanse of the desert, the person wears a blue necktie, adding a touch of elegance to his black suit.
-instruction: Change the background to desert.
-taskid: 74153

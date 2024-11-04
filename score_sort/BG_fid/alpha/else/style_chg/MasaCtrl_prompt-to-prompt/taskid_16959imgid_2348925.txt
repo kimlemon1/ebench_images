@@ -1,5 +1,0 @@
-org_img_id: 2348925
-org_cap: young male surfing person rides a surfboard, his arms and his feet as he through the waves.
-trg_cap: An oil painting style artwork depicts a young male surfing, riding a surfboard with his arms and feet navigating through the waves.
-instruction: Change the style if the image to oil painting style.
-taskid: 16959

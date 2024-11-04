@@ -1,5 +1,0 @@
-org_img_id: 2335580
-org_cap: a young person swings a pink baseball bat with a loud crack on a sunny afternoon.
-trg_cap: A young person swings a bird on a sunny afternoon.
-instruction: Replace the baseball bat with a bird.
-taskid: 13672

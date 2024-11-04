@@ -1,5 +1,0 @@
-org_img_id: 1160108
-org_cap: A white bus slowly drives down the street.
-trg_cap: A train moves down the street.
-instruction: Replace the bus with a train.
-taskid: 5811

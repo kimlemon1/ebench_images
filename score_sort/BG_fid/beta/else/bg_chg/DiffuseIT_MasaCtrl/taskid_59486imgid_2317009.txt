@@ -1,5 +1,0 @@
-org_img_id: 2317009
-org_cap: Person sat at a small table, wearing a worn-out shirt and a pair of glasses, with a sandwich and a glass of water in front of him.
-trg_cap: Person sat at a small table in front of a large aquarium, wearing a worn-out shirt and a pair of glasses, with a sandwich and a glass of water in front of him.
-instruction: Change the background to aquarium.
-taskid: 59486

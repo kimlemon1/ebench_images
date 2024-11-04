@@ -1,5 +1,0 @@
-org_img_id: 2357191
-org_cap: a person rides a blue surfboard with a dog on their back, both in the ocean waves.
-trg_cap: a person rides a small blue surfboard with a dog on their back, both in the ocean waves.
-instruction: Make the surfboard smaller.
-taskid: 40407

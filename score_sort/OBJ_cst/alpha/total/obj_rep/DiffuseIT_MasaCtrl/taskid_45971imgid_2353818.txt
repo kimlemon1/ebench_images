@@ -1,5 +1,0 @@
-org_img_id: 2353818
-org_cap: a young person in a yellow life jacket is on the dock of a person, onto the side of the person with one hand and a floating inflatable tube with the other hand.
-trg_cap: A bird is on the dock of a bird, onto the side of the bird with one wing and a floating inflatable tube with the other wing.
-instruction: Replace the person with a bird.
-taskid: 45971

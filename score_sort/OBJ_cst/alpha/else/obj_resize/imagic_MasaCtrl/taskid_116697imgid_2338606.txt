@@ -1,5 +1,0 @@
-org_img_id: 2338606
-org_cap: A blue car is parked on the side of the runway, with its lights flashing as it waits for the cargo plane to taxi to a stop behind it.
-trg_cap: A large blue car is parked on the side of the runway, with its lights flashing as it waits for the cargo plane to taxi to a stop behind it.
-instruction: Make the car larger.
-taskid: 116697

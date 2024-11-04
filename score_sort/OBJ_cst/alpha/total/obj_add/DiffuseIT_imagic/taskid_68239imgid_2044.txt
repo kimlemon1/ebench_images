@@ -1,5 +1,0 @@
-org_img_id: 2044
-org_cap: The chair is a black chair with a frame and a seat and backrest.
-trg_cap: The chair is a black chair with a frame and a seat and backrest, and the dining table is in front of the chair.
-instruction: Add a dining table in front of the chair.
-taskid: 68239

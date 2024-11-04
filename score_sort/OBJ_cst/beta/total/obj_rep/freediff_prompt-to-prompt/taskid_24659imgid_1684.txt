@@ -1,5 +1,0 @@
-org_img_id: 1684
-org_cap: person sits in a chair, wearing a gray sweater and jeans, with a white keyboard in front of him.
-trg_cap: They sit in a chair, wearing a gray sweater and jeans, with a bottle.
-instruction: Replace the keyboard with a bottle.
-taskid: 24659

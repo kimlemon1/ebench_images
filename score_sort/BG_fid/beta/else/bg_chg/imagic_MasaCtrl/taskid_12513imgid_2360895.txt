@@ -1,5 +1,0 @@
-org_img_id: 2360895
-org_cap: a yellow directional sign stands upright, pointing towards the city center, surrounded by a mix of old and new buildings, with a black car parked nearby.
-trg_cap: A yellow directional sign stands upright, pointing towards the city center, surrounded by a mix of old and new buildings, with a black car parked nearby, and a vineyard stretching out in the background.
-instruction: Change the background to vineyard.
-taskid: 12513

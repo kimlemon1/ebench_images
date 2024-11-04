@@ -1,5 +1,0 @@
-org_img_id: 2342839_1
-org_cap: person stands in front of the old fire station, wearing a gray sweatshirt and jeans, his eyes on the camera with a smile.
-trg_cap: A small person stands in front of the old fire station, wearing a gray sweatshirt and jeans, his eyes on the camera with a smile.
-instruction: Make the person smaller.
-taskid: 36742

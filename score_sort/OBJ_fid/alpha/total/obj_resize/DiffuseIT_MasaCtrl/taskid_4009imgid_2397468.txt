@@ -1,5 +1,0 @@
-org_img_id: 2397468
-org_cap: A person standing on a snowy mountain, surrounded by misty fog, skiing with skis against a snowbank and a backpack.
-trg_cap: A person standing on a snowy mountain, surrounded by misty fog, skiing with small skis against a snowbank and a backpack.
-instruction: Make the skis smaller.
-taskid: 4009

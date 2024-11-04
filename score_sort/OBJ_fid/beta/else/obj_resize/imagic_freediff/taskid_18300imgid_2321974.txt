@@ -1,5 +1,0 @@
-org_img_id: 2321974
-org_cap: a person stands on a grey beach, holding a colorful kite with a triangular shape and a tail of fluttering ribbons.
-trg_cap: a person stands on a grey beach, holding a large, colorful kite with a triangular shape and a tail of fluttering ribbons.
-instruction: Make the kite larger.
-taskid: 18300

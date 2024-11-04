@@ -1,5 +1,0 @@
-org_img_id: 2361193
-org_cap: The bus is a white, air-conditioned, 45-seat bus with a silver grille, chrome accents, and a distinctive curved design on the sides.
-trg_cap: The truck is a white one.
-instruction: Replace the bus with a truck.
-taskid: 3767

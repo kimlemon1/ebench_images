@@ -1,5 +1,0 @@
-org_img_id: 2411337
-org_cap: A kite soars through the clear blue sky, its blue kite rippling and flapping in the gentle breeze as it glides effortlessly across the horizon.
-trg_cap: A grey scale photo shows a kite soaring through the clear blue sky, its blue kite rippling and flapping in the gentle breeze as it glides effortlessly across the horizon.
-instruction: Change the style if the image to grey scale.
-taskid: 28306

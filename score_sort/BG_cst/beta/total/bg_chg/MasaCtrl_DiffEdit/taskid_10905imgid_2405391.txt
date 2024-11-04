@@ -1,5 +1,0 @@
-org_img_id: 2405391
-org_cap: a blue, long-distance bus with a rectangular shape and multiple wheels, parked on the side of a city street.
-trg_cap: A blue, long-distance bus with a rectangular shape and multiple wheels, parked on the side of a city street, was visible through the large window of a cozy living room.
-instruction: Change the background to living room.
-taskid: 10905

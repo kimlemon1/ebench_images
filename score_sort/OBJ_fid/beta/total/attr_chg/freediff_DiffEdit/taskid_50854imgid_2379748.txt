@@ -1,5 +1,0 @@
-org_img_id: 2379748
-org_cap: The kitchenette features a steel refrigerator and black microwave, situated in a small dining area with a round table and two chairs.
-trg_cap: The kitchenette features a chrome refrigerator and black microwave, situated in a small dining area with a round table and two chairs.
-instruction: Change the material of the refrigerator from steel to chrome.
-taskid: 50854

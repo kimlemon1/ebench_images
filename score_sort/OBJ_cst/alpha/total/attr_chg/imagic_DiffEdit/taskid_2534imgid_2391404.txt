@@ -1,5 +1,0 @@
-org_img_id: 2391404
-org_cap: A black cell phone dominates the frame, with a vibrant red background and colorful graphics on the black cell phone.
-trg_cap: A green cell phone dominates the frame, with a vibrant red background and colorful graphics on the green cell phone.
-instruction: Change the color of the cell phone from black to green.
-taskid: 2534

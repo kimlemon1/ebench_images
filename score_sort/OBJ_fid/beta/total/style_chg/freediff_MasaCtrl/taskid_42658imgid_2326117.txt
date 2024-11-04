@@ -1,5 +1,0 @@
-org_img_id: 2326117
-org_cap: a small bird with a grey back and white belly on a metal bar, its tiny head to one side and its bright black eyes on something in the distance.
-trg_cap: The graffiti art depicts a small bird with a grey back and white belly perched on a metal bar, its tiny head tilted to one side and its bright black eyes focused on something in the distance.
-instruction: Change the style if the image to graffiti art.
-taskid: 42658

@@ -1,5 +1,0 @@
-org_img_id: 2401561
-org_cap: a walking person with a large suitcase, his eyes cast downward.
-trg_cap: a small walking person with a large suitcase, his eyes cast downward.
-instruction: Make the person smaller.
-taskid: 89137

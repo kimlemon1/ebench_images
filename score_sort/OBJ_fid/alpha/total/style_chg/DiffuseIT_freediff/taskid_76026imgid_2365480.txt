@@ -1,5 +1,0 @@
-org_img_id: 2365480
-org_cap: The wood bed is with a soft pink blanket and a few creases, adorned with a vintage-style painting of a serene landscape above it.
-trg_cap: A watercolor painting style art features a wood bed with a soft pink blanket and a few creases, adorned with a vintage-style painting of a serene landscape above it.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 76026

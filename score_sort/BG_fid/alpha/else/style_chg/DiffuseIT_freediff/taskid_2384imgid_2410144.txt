@@ -1,5 +1,0 @@
-org_img_id: 2410144
-org_cap: Person stands at the kitchen counter, his worn jeans and faded t-shirt a testament to a life spent in the kitchen, his eyes on the succulent lobster claws he is about to chop.
-trg_cap: A Van Gogh style art depicts a person standing at the kitchen counter, his worn jeans and faded t-shirt a testament to a life spent in the kitchen, his eyes on the succulent lobster claws he is about to chop.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 2384

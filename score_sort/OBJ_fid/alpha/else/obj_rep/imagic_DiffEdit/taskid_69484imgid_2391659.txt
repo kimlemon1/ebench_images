@@ -1,5 +1,0 @@
-org_img_id: 2391659
-org_cap: The chair is a worn, brown leather chair with a sturdy wooden frame and a plush cushion.
-trg_cap: The teddy bear is a teddy bear.
-instruction: Replace the chair with a teddy bear.
-taskid: 69484

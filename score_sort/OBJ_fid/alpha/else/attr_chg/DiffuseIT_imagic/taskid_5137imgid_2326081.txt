@@ -1,5 +1,0 @@
-org_img_id: 2326081
-org_cap: A walking, striped, black and white zebra on a grassy plain.
-trg_cap: A walking, striped, striped zebra on a grassy plain.
-instruction: Change the color of the zebra from black and white to striped.
-taskid: 5137

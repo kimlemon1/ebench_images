@@ -1,5 +1,0 @@
-org_img_id: 2398975
-org_cap: a young couple stands together on the beach, the woman holding a purple umbrella above them, shielding them from the rain as they gaze lovingly into each other's eyes.
-trg_cap: a young couple stands together on the beach, the woman holding a small purple umbrella above them, shielding them from the rain as they gaze lovingly into each other's eyes.
-instruction: Make the umbrella smaller.
-taskid: 51231

@@ -1,5 +1,0 @@
-org_img_id: 2409529
-org_cap: a blue train with a blue train and blue trains, awaiting departure as a lone passenger sits in the doorway.
-trg_cap: A blue train with a blue train and blue trains, awaiting departure in the desert as a lone passenger sits in the doorway.
-instruction: Change the background to desert.
-taskid: 60824

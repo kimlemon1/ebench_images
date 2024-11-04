@@ -1,5 +1,0 @@
-org_img_id: 1591849
-org_cap: The kitchen is filled with an array of appliances and equipment, including a silver bowl, a stand mixer, a blender, a toaster, and a coffee maker, all neatly arranged on a yellow formica countertop.
-trg_cap: The kitchen is filled with an array of appliances and equipment, including a silver bowl, a sink next to the bowl, a stand mixer, a blender, a toaster, and a coffee maker, all neatly arranged on a yellow formica countertop.
-instruction: Add a sink next to the bowl.
-taskid: 34459

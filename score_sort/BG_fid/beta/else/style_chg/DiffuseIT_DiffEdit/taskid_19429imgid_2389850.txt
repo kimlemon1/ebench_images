@@ -1,5 +1,0 @@
-org_img_id: 2389850
-org_cap: the clock on the facade features intricate stone carvings and a circular face with roman numerals, surrounded by ornate arches and decorative windows.
-trg_cap: The mosaic art features a clock on the facade with intricate stone carvings and a circular face with Roman numerals, surrounded by ornate arches and decorative windows.
-instruction: Change the style if the image to mosaic art.
-taskid: 19429

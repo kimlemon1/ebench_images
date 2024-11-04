@@ -1,5 +1,0 @@
-org_img_id: 2360413
-org_cap: a white airplane with a blue sky and white clouds in the background.
-trg_cap: The art is a watercolor painting style featuring a white airplane against a blue sky with white clouds in the background.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 6857

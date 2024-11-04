@@ -1,5 +1,0 @@
-org_img_id: 2336492
-org_cap: The brown cat's fur is orange, with a texture and a sheen, and its eyes are green, with a spark in their depths, and around its neck is a ribbon with polka dots.
-trg_cap: The yellow cat's fur is orange, with a texture and a sheen, and its eyes are green, with a spark in their depths, and around its neck is a ribbon with polka dots.
-instruction: Change the color of the cat from brown to yellow.
-taskid: 121167

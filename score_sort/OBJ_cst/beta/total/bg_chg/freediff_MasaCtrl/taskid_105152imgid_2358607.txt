@@ -1,5 +1,0 @@
-org_img_id: 2358607
-org_cap: standing person on the sidewalk, his bare feet on the pavement, and his eyes on his phone as he talking to person on the phone.
-trg_cap: Standing person on the sidewalk outside the train station, his bare feet on the pavement, and his eyes on his phone as he talking to person on the phone.
-instruction: Change the background to train station.
-taskid: 105152

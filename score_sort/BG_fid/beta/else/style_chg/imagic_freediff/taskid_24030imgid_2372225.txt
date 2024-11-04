@@ -1,5 +1,0 @@
-org_img_id: 2372225
-org_cap: The sink is a white sink with a single faucet handle and a drain in the center.
-trg_cap: The mosaic art features a white sink with a single faucet handle and a drain in the center.
-instruction: Change the style if the image to mosaic art.
-taskid: 24030

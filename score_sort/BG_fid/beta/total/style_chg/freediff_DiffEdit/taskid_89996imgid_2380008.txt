@@ -1,5 +1,0 @@
-org_img_id: 2380008
-org_cap: a black kite with a tail and a long string trailing behind it, soaring through the gray sky.
-trg_cap: A grayscale photo depicts a black kite with a tail and a long string trailing behind it, soaring through the gray sky.
-instruction: Change the style if the image to grey scale.
-taskid: 89996

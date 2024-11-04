@@ -1,5 +1,0 @@
-org_img_id: 2399134
-org_cap: person holds a sports ball in his gloved hand, his eyes fixed intently on the action unfolding around him.
-trg_cap: Person stands under the sports ball, holding it in his gloved hand, his eyes fixed intently on the action unfolding around him.
-instruction: Add a person under the sports ball.
-taskid: 110815

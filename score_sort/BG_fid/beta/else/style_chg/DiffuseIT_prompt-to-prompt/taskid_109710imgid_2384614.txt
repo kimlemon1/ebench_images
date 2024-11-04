@@ -1,5 +1,0 @@
-org_img_id: 2384614
-org_cap: a person sits at a window, wearing a green and blue striped shirt and holding a warm, sugary donut in his hand, the sweet aroma wafting up to his nose as he takes a big bite, the crumbs and glaze sticking to his lips and chin.
-trg_cap: A Van Gogh style art depicts a person sitting at a window, wearing a green and blue striped shirt and holding a warm, sugary donut, the sweet aroma wafting up to his nose as he takes a big bite, with crumbs and glaze sticking to his lips and chin.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 109710

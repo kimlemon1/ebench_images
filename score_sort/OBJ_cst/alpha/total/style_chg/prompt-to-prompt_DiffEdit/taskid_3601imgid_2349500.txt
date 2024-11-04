@@ -1,5 +1,0 @@
-org_img_id: 2349500
-org_cap: Airplanes with black and red stripes soar through the sky, their engines roaring as they perform daring stunts and tricks.
-trg_cap: A cartoon style art features airplanes with black and red stripes soaring through the sky, their engines roaring as they perform daring stunts and tricks.
-instruction: Change the style if the image to cartoon style.
-taskid: 3601

@@ -1,5 +1,0 @@
-org_img_id: 2369832
-org_cap: a blue train on a railway under clear blue sky
-trg_cap: a green train on a railway under clear blue sky
-instruction: Change the color of the train from blue to green.
-taskid: 1481

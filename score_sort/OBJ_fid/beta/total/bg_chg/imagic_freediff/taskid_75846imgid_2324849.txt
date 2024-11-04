@@ -1,5 +1,0 @@
-org_img_id: 2324849
-org_cap: blue airplane stands on a grassy field surrounded by a sea of purple flowers.
-trg_cap: A blue airplane stands on a grassy field surrounded by a sea of purple flowers, with a library in the background.
-instruction: Change the background to library.
-taskid: 75846

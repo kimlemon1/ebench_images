@@ -1,5 +1,0 @@
-org_img_id: 2414277
-org_cap: A standing, striped, black zebra, its ears and its tail.
-trg_cap: A standing, striped, beige zebra, its ears and its tail.
-instruction: Change the color of the zebra from black to beige.
-taskid: 41480

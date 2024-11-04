@@ -1,5 +1,0 @@
-org_img_id: 2385623
-org_cap: a small, single-engine airplane, with a white and blue paint job, taxis down the sandy beach, kicking up clouds of sand and dust as it comes to a stop at the water's edge.
-trg_cap: a large, single-engine airplane, with a white and blue paint job, taxis down the sandy beach, kicking up clouds of sand and dust as it comes to a stop at the water's edge.
-instruction: Make the airplane larger.
-taskid: 12442

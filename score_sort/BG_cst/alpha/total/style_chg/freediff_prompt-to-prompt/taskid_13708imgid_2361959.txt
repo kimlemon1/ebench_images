@@ -1,5 +1,0 @@
-org_img_id: 2361959
-org_cap: Person runs across the tennis court, his legs a blur as he swings his racket, his eyes fixed on the ball as he chases down a shot.
-trg_cap: A graffiti art depicts a person running across the tennis court, his legs a blur as he swings his racket and his eyes fixed on the ball while chasing down a shot.
-instruction: Change the style if the image to graffiti art.
-taskid: 13708

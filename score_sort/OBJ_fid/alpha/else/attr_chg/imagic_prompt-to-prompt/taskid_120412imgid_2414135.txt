@@ -1,5 +1,0 @@
-org_img_id: 2414135
-org_cap: A black zebra stands on the ground, its fur glistening in the sunlight, its ears perked up and its eyes alert, its legs spread wide.
-trg_cap: A striped zebra stands on the ground, its fur glistening in the sunlight, its ears perked up and its eyes alert, its legs spread wide.
-instruction: Change the color of the zebra from black to striped.
-taskid: 120412

@@ -1,5 +1,0 @@
-org_img_id: 497942
-org_cap: Person is beside a watering trough, her hands in the cool water as she encourages a flock of sheep to gather around her, their curious eyes fixed on the bright red bucket in her hands.
-trg_cap: A large person is beside a watering trough, her hands in the cool water as she encourages a flock of sheep to gather around her, their curious eyes fixed on the bright red bucket in her hands.
-instruction: Make the person larger.
-taskid: 108769

@@ -1,5 +1,0 @@
-org_img_id: 2416206
-org_cap: a giraffe stands tall, its giraffe and giraffe fur blending with the brick walls behind it.
-trg_cap: a small giraffe stands tall, its giraffe and giraffe fur blending with the brick walls behind it.
-instruction: Make the giraffe smaller.
-taskid: 89740

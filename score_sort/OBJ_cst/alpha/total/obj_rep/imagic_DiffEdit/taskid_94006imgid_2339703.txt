@@ -1,5 +1,0 @@
-org_img_id: 2339703
-org_cap: A silver train chugs along the tracks, its wheels clicking rhythmically as it gains speed, the sun glinting off its polished surface.
-trg_cap: A silver bus, the sun glinting off the polished surface.
-instruction: Replace the train with a bus.
-taskid: 94006

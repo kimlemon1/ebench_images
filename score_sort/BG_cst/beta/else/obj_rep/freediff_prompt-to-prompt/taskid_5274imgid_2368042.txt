@@ -1,5 +1,0 @@
-org_img_id: 2368042
-org_cap: a variety of freshly baked sandwich, each with its own unique toppings and fillings, sat on the counter, awaiting their fate as they cooled and awaited their next destination.
-trg_cap: A variety of freshly baked dining table sat on the counter, awaiting its fate as it cooled and awaited its next destination.
-instruction: Replace the sandwich with a dining table.
-taskid: 5274

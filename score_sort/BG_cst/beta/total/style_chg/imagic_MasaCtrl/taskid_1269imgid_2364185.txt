@@ -1,5 +1,0 @@
-org_img_id: 2364185
-org_cap: a person in a blue jumpsuit and helmet is shown on a motorcycle, with the sky and clouds visible in the background.
-trg_cap: An oil painting style artwork depicts a person in a blue jumpsuit and helmet on a motorcycle, with the sky and clouds visible in the background.
-instruction: Change the style if the image to oil painting style.
-taskid: 1269

@@ -1,5 +1,0 @@
-org_img_id: 2354569_0
-org_cap: Person, wearing a wetsuit, on the beach.
-trg_cap: Large person, wearing a wetsuit, on the beach.
-instruction: Make the person larger.
-taskid: 57004

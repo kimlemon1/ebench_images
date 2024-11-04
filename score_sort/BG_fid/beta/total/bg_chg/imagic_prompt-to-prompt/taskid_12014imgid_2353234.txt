@@ -1,5 +1,0 @@
-org_img_id: 2353234
-org_cap: a lone person stands on a skateboard, wearing a black hat and jeans, with a backpack slung over their shoulder, down a deserted road lined with trees and a distant person in the distance.
-trg_cap: A lone person stands on a skateboard, wearing a black hat and jeans, with a backpack slung over their shoulder, down a deserted road lined with trees, with a restaurant visible in the background and a distant person in the distance.
-instruction: Change the background to restaurant.
-taskid: 12014

@@ -1,5 +1,0 @@
-org_img_id: 2357048
-org_cap: a brown cow with white patches and a distinctive white stripe on its forehead on a green meadow.
-trg_cap: a dog on a green meadow.
-instruction: Replace the cow with a dog.
-taskid: 122401

@@ -1,5 +1,0 @@
-org_img_id: 2343973
-org_cap: person swings her racket, her arm and her wrist as she hits the ball with a loud thwack.
-trg_cap: In the art gallery, the person swings her racket, her arm and her wrist as she hits the ball with a loud thwack.
-instruction: Change the background to art gallery.
-taskid: 114647

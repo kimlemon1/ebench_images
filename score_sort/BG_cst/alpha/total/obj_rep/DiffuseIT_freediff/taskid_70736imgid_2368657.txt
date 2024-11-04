@@ -1,5 +1,0 @@
-org_img_id: 2368657
-org_cap: an gray elephant in a clearing, its skin covered in a layer of dirt and dust, with a few strands of grass stuck to its back.
-trg_cap: A horse in a clearing.
-instruction: Replace the elephant with a horse.
-taskid: 70736

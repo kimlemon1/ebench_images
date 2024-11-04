@@ -1,5 +1,0 @@
-org_img_id: 2416642
-org_cap: The white clock stands tall with its ornate facade and intricate carvings, its face gleaming in the morning sunlight.
-trg_cap: The white clock stands tall with its ornate facade and intricate carvings, its face gleaming in the morning sunlight, with a truck positioned behind it.
-instruction: Add a truck behind the clock.
-taskid: 58009

@@ -1,5 +1,0 @@
-org_img_id: 2386644
-org_cap: A black airplane takes to the skies with a roar of its vintage engine.
-trg_cap: A watercolor painting style art depicts a black airplane taking to the skies with a roar of its vintage engine.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 119588

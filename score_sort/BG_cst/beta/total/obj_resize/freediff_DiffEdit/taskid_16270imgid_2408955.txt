@@ -1,5 +1,0 @@
-org_img_id: 2408955
-org_cap: a small person with messy brown hair and a smudge of butter on his chin sat at a table by the window, holding a half-eaten toasted sandwich.
-trg_cap: a small person with messy brown hair and a smudge of butter on his chin sat at a table by the window, holding a half-eaten small toasted sandwich.
-instruction: Make the sandwich smaller.
-taskid: 16270

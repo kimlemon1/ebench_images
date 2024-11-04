@@ -1,5 +1,0 @@
-org_img_id: 2364119
-org_cap: a middle-aged person with curly blonde hair and a bright pink shirt, with a frisbee in her hand.
-trg_cap: A middle-aged person with curly blonde hair and a bright pink shirt, with a frisbee in her hand, stood at the bustling train station.
-instruction: Change the background to train station.
-taskid: 69826

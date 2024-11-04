@@ -1,5 +1,0 @@
-org_img_id: 713181
-org_cap: a yellow and blue kite with a central axis and fluttering edges soars above the grassy lawn, its tail streaming behind it as it dances in the gentle breeze.
-trg_cap: The pop art style artwork features a yellow and blue kite with a central axis and fluttering edges soaring above the grassy lawn, its tail streaming behind it as it dances in the gentle breeze.
-instruction: Change the style if the image to pop art style.
-taskid: 73783

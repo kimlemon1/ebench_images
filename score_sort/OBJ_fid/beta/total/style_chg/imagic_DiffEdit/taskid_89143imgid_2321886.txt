@@ -1,5 +1,0 @@
-org_img_id: 2321886
-org_cap: Person swings his racket, his arm and his wrist to hit a powerful forehand.
-trg_cap: The cartoon-style art depicts a person swinging his racket, arm, and wrist to hit a powerful forehand.
-instruction: Change the style if the image to cartoon style.
-taskid: 89143

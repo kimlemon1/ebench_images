@@ -1,5 +1,0 @@
-org_img_id: 2339949
-org_cap: Person stands alone on the snow-covered slope, wearing a green jacket and bright blue pants, with a confident smile on their face and a pair of skis over their shoulder.
-trg_cap: A large person stands alone on the snow-covered slope, wearing a green jacket and bright blue pants, with a confident smile on their face and a pair of skis over their shoulder.
-instruction: Make the person larger.
-taskid: 43191

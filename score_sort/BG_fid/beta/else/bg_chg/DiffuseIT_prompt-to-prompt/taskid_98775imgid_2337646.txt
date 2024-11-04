@@ -1,5 +1,0 @@
-org_img_id: 2337646
-org_cap: A person in his mid-twenties, wearing a grey sweater and black trousers, across a sun-drenched grassy hill, holding a frisbee in his hand.
-trg_cap: A person in his mid-twenties, wearing a grey sweater and black trousers, inside a dimly lit cave, holding a frisbee in his hand.
-instruction: Change the background to cave.
-taskid: 98775

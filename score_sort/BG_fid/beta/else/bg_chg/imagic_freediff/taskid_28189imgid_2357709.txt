@@ -1,5 +1,0 @@
-org_img_id: 2357709
-org_cap: A waiting person stands at the subway entrance, unloading boxes and packages from a luggage cart.
-trg_cap: A waiting person stands at the cave entrance, unloading boxes and packages from a luggage cart.
-instruction: Change the background to cave.
-taskid: 28189

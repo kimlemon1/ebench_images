@@ -1,5 +1,0 @@
-org_img_id: 2319840
-org_cap: "person on a bench, wearing a black t-shirt and jeans, with a relaxed expression on his face, surrounded by a lush green lawn and a few pieces of outdoor furniture, including a wooden table and chairs."
-trg_cap: Person on a bench, wearing a black t-shirt and jeans, with a relaxed expression on his face, surrounded by a lush green lawn and a few pieces of outdoor furniture, including a wooden table and chairs, set against the backdrop of an urban cityscape with tall buildings and bustling streets.
-instruction: Change the background to urban city.
-taskid: 2964

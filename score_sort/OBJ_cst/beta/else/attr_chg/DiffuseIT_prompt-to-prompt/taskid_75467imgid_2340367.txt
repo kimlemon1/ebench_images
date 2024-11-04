@@ -1,5 +1,0 @@
-org_img_id: 2340367
-org_cap: person, person, person, and person stand together in a restaurant, each wearing a suit with a red tie, with person's arm around person's shoulder and person's hand on person's back.
-trg_cap: person, person, person, and person stand together in a restaurant, each wearing a suit with a dark tie, with person's arm around person's shoulder and person's hand on person's back.
-instruction: Change the color of the tie from red to dark.
-taskid: 75467

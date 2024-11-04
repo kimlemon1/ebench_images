@@ -1,5 +1,0 @@
-org_img_id: 997
-org_cap: Smiling person sits on a chair in the airport terminal, with a laptop and bag beside her.
-trg_cap: Smiling person sits on a chair in the gym, with a laptop and bag beside her.
-instruction: Change the background to gym.
-taskid: 11754

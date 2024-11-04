@@ -1,5 +1,0 @@
-org_img_id: 2377656_0
-org_cap: Person is a young person with a messy brown hair, a bright blue wetsuit and a surfboard.
-trg_cap: Person is a young person with messy brown hair, a bright blue wetsuit, and a surfboard, standing in a bustling train station.
-instruction: Change the background to train station.
-taskid: 23585

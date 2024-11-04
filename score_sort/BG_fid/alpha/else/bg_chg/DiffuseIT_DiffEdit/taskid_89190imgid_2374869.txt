@@ -1,5 +1,0 @@
-org_img_id: 2374869
-org_cap: a train, painted in a livery of green and cream, chugs along the railway tracks, its wheels clicking on the rails as it pulls a vintage passenger train.
-trg_cap: A train, painted in a livery of green and cream, chugs along the railway tracks through the arid desert landscape, its wheels clicking on the rails as it pulls a vintage passenger train.
-instruction: Change the background to desert.
-taskid: 89190

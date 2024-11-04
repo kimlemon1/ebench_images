@@ -1,5 +1,0 @@
-org_img_id: 2320006
-org_cap: A silver airplane with a distinctive nose and tail section, sporting the logo on its fuselage, taxis down the runway with its engines roaring, preparing for takeoff.
-trg_cap: A silver airplane with a distinctive nose and tail section, sporting the logo on its fuselage, taxis down the runway with its engines roaring, preparing for takeoff, as the shimmering lake glistens in the background.
-instruction: Change the background to lake side.
-taskid: 98682

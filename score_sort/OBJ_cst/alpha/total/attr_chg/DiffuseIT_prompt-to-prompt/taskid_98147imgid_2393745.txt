@@ -1,5 +1,0 @@
-org_img_id: 2393745
-org_cap: The sitting orange cat lies on a bed, its fur with a patch on its forehead and eyes.
-trg_cap: The sitting yellow cat lies on a bed, its fur with a patch on its forehead and eyes.
-instruction: Change the color of the cat from orange to yellow.
-taskid: 98147

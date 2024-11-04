@@ -1,5 +1,0 @@
-org_img_id: 2368006
-org_cap: A flying bird through the gray sky, its wings as it on the wind.
-trg_cap: A watercolor painting style art depicts a bird flying through the gray sky, its wings catching the wind.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 56950

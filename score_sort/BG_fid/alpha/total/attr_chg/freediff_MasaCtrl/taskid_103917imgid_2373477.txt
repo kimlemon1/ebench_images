@@ -1,5 +1,0 @@
-org_img_id: 2373477
-org_cap: a man wears a white dress shirt with a black necktie.
-trg_cap: a man wears a white dress shirt with a gray necktie.
-instruction: Change the color of the tie from black to gray.
-taskid: 103917

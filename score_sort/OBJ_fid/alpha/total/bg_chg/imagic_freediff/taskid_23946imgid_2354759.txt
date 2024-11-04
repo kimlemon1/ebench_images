@@ -1,5 +1,0 @@
-org_img_id: 2354759
-org_cap: a giraffe stands tall, its fur a warm, golden brown, and its eyes large and curious.
-trg_cap: A giraffe stands tall in the stadium, its fur a warm, golden brown, and its eyes large and curious.
-instruction: Change the background to stadium.
-taskid: 23946

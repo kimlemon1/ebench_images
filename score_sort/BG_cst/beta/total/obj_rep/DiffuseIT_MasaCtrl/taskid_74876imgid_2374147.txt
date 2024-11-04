@@ -1,5 +1,0 @@
-org_img_id: 2374147
-org_cap: A black laptop sits atop a stack of cardboard boxes, with a red cup precariously balanced on the edge of the cup.
-trg_cap: A black laptop sits atop a stack of cardboard boxes, with a red book on it.
-instruction: Replace the cup with a book.
-taskid: 74876

@@ -1,5 +1,0 @@
-org_img_id: 2359254
-org_cap: A small regional airplane flies overhead at a moderate altitude, its wings beating steadily as it soars across the clear blue sky on a crisp winter morning.
-trg_cap: A large regional airplane flies overhead at a moderate altitude, its wings beating steadily as it soars across the clear blue sky on a crisp winter morning.
-instruction: Make the airplane larger.
-taskid: 109669

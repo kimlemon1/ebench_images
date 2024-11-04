@@ -1,5 +1,0 @@
-org_img_id: 2370662_1
-org_cap: a plate of food sits in front of a person, featuring a piece of fish, surrounded by a geometric pattern of roasted vegetables, including broccoli and green beans, on a rustic wooden table with a glass of white wine and a metal silver knife.
-trg_cap: A plate of food sits in front of them, featuring a piece of fish, surrounded by a geometric pattern of roasted vegetables, including broccoli and green beans, on a rustic wooden table with a glass of white wine and a bowl.
-instruction: Replace the knife with a bowl.
-taskid: 66256

@@ -1,5 +1,0 @@
-org_img_id: 2377862
-org_cap: "person off a stack of tires, his skateboard out from under his feet as he a smooth ollie."
-trg_cap: person off a stack of tires in the living room, his skateboard out from under his feet as he a smooth ollie.
-instruction: Change the background to living room.
-taskid: 104910

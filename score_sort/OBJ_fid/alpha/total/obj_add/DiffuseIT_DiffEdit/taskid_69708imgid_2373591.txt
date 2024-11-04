@@ -1,5 +1,0 @@
-org_img_id: 2373591
-org_cap: the scene is focused on a remote lying on a worn, striped couch, with a lazy cat stretched out beside it, its paws curled around the remote and its eyes closed in a peaceful slumber.
-trg_cap: The scene is focused on a remote lying on a worn, striped couch, with a lazy cat stretched out in front of it, its paws curled around the remote and its eyes closed in a peaceful slumber.
-instruction: Add a cat in front of the remote.
-taskid: 69708

@@ -1,5 +1,0 @@
-org_img_id: 2329254
-org_cap: a silver airplane soars through a bright blue sky with puffy white clouds scattered across it.
-trg_cap: A bird flew into the tree, and it began to sing.
-instruction: Replace the airplane with a bird.
-taskid: 56052

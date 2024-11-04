@@ -1,5 +1,0 @@
-org_img_id: 2377999
-org_cap: a barefoot person with a towel around his waist is washing the trunk of a majestic person, its tusks gleaming in the sunlight.
-trg_cap: a small, barefoot person with a towel around his waist is washing the trunk of a majestic person, its tusks gleaming in the sunlight.
-instruction: Make the person smaller.
-taskid: 5704

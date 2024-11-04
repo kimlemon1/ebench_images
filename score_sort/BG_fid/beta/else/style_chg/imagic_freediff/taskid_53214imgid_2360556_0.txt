@@ -1,5 +1,0 @@
-org_img_id: 2360556_0
-org_cap: Person in front of a graffiti-covered wall, wearing a grey hoodie and jeans, with a skateboard under his arm and a relaxed expression on his face.
-trg_cap: A graffiti art piece depicts a person in front of a graffiti-covered wall, wearing a grey hoodie and jeans, with a skateboard under his arm and a relaxed expression on his face.
-instruction: Change the style if the image to graffiti art.
-taskid: 53214

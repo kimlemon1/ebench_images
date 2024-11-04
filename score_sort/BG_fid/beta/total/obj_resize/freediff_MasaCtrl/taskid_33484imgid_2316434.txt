@@ -1,5 +1,0 @@
-org_img_id: 2316434
-org_cap: "Person swings her racket, her blonde hair tied back in a ponytail, her bright blue eyes fixed on the ball as it soars across the court."
-trg_cap: Person, large in stature, swings her racket, her blonde hair tied back in a ponytail, her bright blue eyes fixed on the ball as it soars across the court.
-instruction: Make the person larger.
-taskid: 33484

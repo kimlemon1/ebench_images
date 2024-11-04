@@ -1,5 +1,0 @@
-org_img_id: 2399708
-org_cap: A person in a wetsuit walks along the beach, with the waves crashing against the shore in the background.
-trg_cap: A large person in a wetsuit walks along the beach, with the waves crashing against the shore in the background.
-instruction: Make the person larger.
-taskid: 92029

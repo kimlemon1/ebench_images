@@ -1,5 +1,0 @@
-org_img_id: 2332842
-org_cap: a skier in a black and white striped onesie and goggles flies through the air, his skis leaving a trail of powder behind him as he soars over the snow-covered slope.
-trg_cap: a skier in a black and white striped onesie and goggles flies through the air, his large skis leaving a trail of powder behind him as he soars over the snow-covered slope.
-instruction: Make the skis larger.
-taskid: 547

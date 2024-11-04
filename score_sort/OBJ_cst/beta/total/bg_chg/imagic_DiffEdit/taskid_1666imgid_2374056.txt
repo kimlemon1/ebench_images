@@ -1,5 +1,0 @@
-org_img_id: 2374056
-org_cap: a young person in a white dress with a floral pattern and a matching cardigan, in a garden with trees and flowers.
-trg_cap: a young person in a white dress with a floral pattern and a matching cardigan, in an aquarium surrounded by colorful fish and aquatic plants.
-instruction: Change the background to aquarium.
-taskid: 1666

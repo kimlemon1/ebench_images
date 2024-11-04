@@ -1,5 +1,0 @@
-org_img_id: 1159732
-org_cap: a small, white, center-console boat with a blue stripe and a white canopy sat on a trailer, parked under a shaded area.
-trg_cap: The motorcycle sat on a trailer, parked under a shaded area.
-instruction: Replace the boat with a motorcycle.
-taskid: 42151

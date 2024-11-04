@@ -1,5 +1,0 @@
-org_img_id: 2366878
-org_cap: A person in his mid-twenties, wearing a green hoodie and jeans, is shown on a skateboard down a city street, his legs and arms as he the road and persons.
-trg_cap: A person in his mid-twenties, wearing a green hoodie and jeans, is shown on a skateboard down a desert road, his legs and arms as he the road and persons.
-instruction: Change the background to desert.
-taskid: 112166

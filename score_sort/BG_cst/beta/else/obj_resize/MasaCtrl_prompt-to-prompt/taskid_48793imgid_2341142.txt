@@ -1,5 +1,0 @@
-org_img_id: 2341142
-org_cap: a chubby - cheeked person with bright blue eyes and a toothy grin on a bed, her tiny hands flat on the duvet with an innocent expression.
-trg_cap: a small, chubby-cheeked person with bright blue eyes and a toothy grin on a bed, her tiny hands flat on the duvet with an innocent expression.
-instruction: Make the person smaller.
-taskid: 48793

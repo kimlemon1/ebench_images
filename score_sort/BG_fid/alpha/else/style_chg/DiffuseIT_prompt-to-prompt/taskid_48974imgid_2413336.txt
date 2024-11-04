@@ -1,5 +1,0 @@
-org_img_id: 2413336
-org_cap: A young person in a shirt and shorts stands on the wooden pole of a boat, with one hand and a backpack with the other, his legs as he at the river.
-trg_cap: An oil painting depicts a young person in a shirt and shorts standing on the wooden pole of a boat, holding a backpack in one hand and balancing with the other, as he stands by the river.
-instruction: Change the style if the image to oil painting style.
-taskid: 48974

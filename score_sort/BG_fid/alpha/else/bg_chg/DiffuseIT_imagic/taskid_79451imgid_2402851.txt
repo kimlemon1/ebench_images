@@ -1,5 +1,0 @@
-org_img_id: 2402851
-org_cap: "playing person kicks a playing person, his left foot on the playing person, his arms out to the sides, and a smile on his face."
-trg_cap: In an aquarium, a playing person kicks a playing person, his left foot on the playing person, his arms out to the sides, and a smile on his face.
-instruction: Change the background to aquarium.
-taskid: 79451

@@ -1,5 +1,0 @@
-org_img_id: 2010
-org_cap: The black backpack lay on the floor, its straps and surface telling a story of adventure and travel.
-trg_cap: A Van Gogh style art piece features a black backpack on the floor, its straps and surface telling a story of adventure and travel.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 58732

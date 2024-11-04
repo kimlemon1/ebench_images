@@ -1,5 +1,0 @@
-org_img_id: 2407859
-org_cap: Skiing person stands alone on a snow-covered mountain, wearing a ski suit and goggles, with a smile on their face.
-trg_cap: A large skiing person stands alone on a snow-covered mountain, wearing a ski suit and goggles, with a smile on their face.
-instruction: Make the person larger.
-taskid: 41460

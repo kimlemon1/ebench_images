@@ -1,5 +1,0 @@
-org_img_id: 2357520
-org_cap: standing person stands, walking holding a blue surfboard, smiling feet planted on the dusty path.
-trg_cap: Standing person stands, walking holding a blue surfboard, smiling feet planted on the dusty path, surrounded by a pine forest.
-instruction: Change the background to pine forest.
-taskid: 80643

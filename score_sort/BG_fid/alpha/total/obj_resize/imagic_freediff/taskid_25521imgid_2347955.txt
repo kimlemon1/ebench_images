@@ -1,5 +1,0 @@
-org_img_id: 2347955
-org_cap: a colorful kite with a rainbow - colored tail and a slender string soaring through the sky against a backdrop of fluffy white clouds and a bright blue sky.
-trg_cap: a large, colorful kite with a rainbow-colored tail and a slender string soaring through the sky against a backdrop of fluffy white clouds and a bright blue sky.
-instruction: Make the kite larger.
-taskid: 25521

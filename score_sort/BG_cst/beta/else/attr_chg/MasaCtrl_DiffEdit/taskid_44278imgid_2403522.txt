@@ -1,5 +1,0 @@
-org_img_id: 2403522
-org_cap: A white airplane flies steadily across the clear blue sky, its wings beating steadily as it leaves a trail of white clouds in its wake.
-trg_cap: A gray airplane flies steadily across the clear blue sky, its wings beating steadily as it leaves a trail of gray clouds in its wake.
-instruction: Change the color of the airplane from white to gray.
-taskid: 44278

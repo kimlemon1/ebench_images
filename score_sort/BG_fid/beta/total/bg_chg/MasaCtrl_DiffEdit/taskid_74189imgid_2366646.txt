@@ -1,5 +1,0 @@
-org_img_id: 2366646
-org_cap: a small wooden boat with a worn boat hull and a rusty outboard motor floats silently on the misty lake, its wake barely disturbing the calm water.
-trg_cap: A small wooden boat with a worn boat hull and a rusty outboard motor floats silently on the misty lake, its wake barely disturbing the calm water, surrounded by the stark contrast of the arid desert landscape.
-instruction: Change the background to desert.
-taskid: 74189

@@ -1,5 +1,0 @@
-org_img_id: 2352520
-org_cap: a young person wearing a blue helmet and holding a camera in his hand, is shown riding a skateboard with a blue wheel, wearing a flannel shirt and jeans.
-trg_cap: a young person wearing a blue helmet and holding a camera in his hand, is shown riding a small skateboard with a blue wheel, wearing a flannel shirt and jeans.
-instruction: Make the skateboard smaller.
-taskid: 41751

@@ -1,5 +1,0 @@
-org_img_id: 2319661
-org_cap: the slice of pizza features a crispy crust topped with a medley of ingredients, including melted mozzarella cheese, savory ground beef, and a sprinkle of green peppers.
-trg_cap: The slice of cup features a medley of ingredients, including melted mozzarella cheese, savory ground beef, and a sprinkle of green pepper.
-instruction: Replace the pizza with a cup.
-taskid: 91117

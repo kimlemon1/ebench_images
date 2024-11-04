@@ -1,5 +1,0 @@
-org_img_id: 2328665_0
-org_cap: person stands in a bright orange jacket, goggles and helmet on, with a smile on his face, surrounded by snow and mountains, with a sign reading "sun bowl" in the background.
-trg_cap: Person stands in a bright orange jacket, goggles and helmet on, with a smile on his face, surrounded by snow and mountains, with a sign reading "zoo" in the background.
-instruction: Change the background to zoo.
-taskid: 35264

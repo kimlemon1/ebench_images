@@ -1,5 +1,0 @@
-org_img_id: 2398757
-org_cap: a white airplane, against a grey sky with clouds.
-trg_cap: a white airplane, against a grey sky with clouds, reminiscent of the color scheme often found in a gym.
-instruction: Change the background to gym.
-taskid: 94595

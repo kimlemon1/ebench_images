@@ -1,5 +1,0 @@
-org_img_id: 2334435
-org_cap: person rides a black bicycle, wearing a white shirt and khaki shorts.
-trg_cap: person rides a orange bicycle, wearing a white shirt and khaki shorts.
-instruction: Change the color of the bicycle from black to orange.
-taskid: 9512

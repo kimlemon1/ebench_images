@@ -1,5 +1,0 @@
-org_img_id: 2316392
-org_cap: person at a table, wearing a suit and a gray laptop.
-trg_cap: A Van Gogh style artwork features a person at a table, wearing a suit and accompanied by a gray laptop.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 73366

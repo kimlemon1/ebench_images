@@ -1,5 +1,0 @@
-org_img_id: 2351460
-org_cap: a sleek, silver airplane with a distinctive fuselage and wings, soaring through the clear blue sky with a gentle hum, leaving a trail of condensed water vapor behind it.
-trg_cap: a sleek, small, silver airplane with a distinctive fuselage and wings, soaring through the clear blue sky with a gentle hum, leaving a trail of condensed water vapor behind it.
-instruction: Make the airplane smaller.
-taskid: 85469

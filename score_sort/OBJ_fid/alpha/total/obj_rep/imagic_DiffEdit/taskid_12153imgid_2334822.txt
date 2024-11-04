@@ -1,5 +1,0 @@
-org_img_id: 2334822
-org_cap: a brown horse with a shiny coat and a mane grazes on a green meadow, surrounded by rustic wooden fences and old stone buildings in the distance.
-trg_cap: A brown sports ball lies on a green meadow, surrounded by rustic wooden fences and old stone buildings in the distance.
-instruction: Replace the horse with a sports ball.
-taskid: 12153

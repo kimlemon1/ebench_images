@@ -1,5 +1,0 @@
-org_img_id: 2399257
-org_cap: The sink is a white sink with a single faucet and a rectangular mirror above it.
-trg_cap: The cartoon-style art features a white sink with a single faucet and a rectangular mirror above it.
-instruction: Change the style if the image to cartoon style.
-taskid: 104265

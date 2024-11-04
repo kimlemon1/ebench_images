@@ -1,5 +1,0 @@
-org_img_id: 2368743
-org_cap: a person holds a slice of pizza in their mouth, the cheese and pizza stretching from their lips to their chin, with a few crumbs scattered on their grey sweatshirt.
-trg_cap: The pop art style artwork depicts a person holding a slice of pizza in their mouth, with the cheese and pizza stretching from their lips to their chin, and a few crumbs scattered on their grey sweatshirt.
-instruction: Change the style if the image to pop art style.
-taskid: 1393

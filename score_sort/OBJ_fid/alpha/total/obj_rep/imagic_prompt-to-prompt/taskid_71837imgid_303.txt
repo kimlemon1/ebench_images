@@ -1,5 +1,0 @@
-org_img_id: 303
-org_cap: A walking person across the street, a row of old brick buildings with ornate facades and rusty fire escapes.
-trg_cap: A motorcycle, a row of old brick buildings with ornate facades and rusty fire escapes.
-instruction: Replace the person with a motorcycle.
-taskid: 71837

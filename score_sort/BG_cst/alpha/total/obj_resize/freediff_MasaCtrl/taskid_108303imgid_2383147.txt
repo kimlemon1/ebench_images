@@ -1,5 +1,0 @@
-org_img_id: 2383147
-org_cap: The scene is a blurred view of an airplane standing on the tarmac, with its white and blue body gleaming in the sunlight, and a mesh fence blocking the view of the surrounding airport landscape.
-trg_cap: The scene is a blurred view of a small airplane standing on the tarmac, with its white and blue body gleaming in the sunlight, and a mesh fence blocking the view of the surrounding airport landscape.
-instruction: Make the airplane smaller.
-taskid: 108303

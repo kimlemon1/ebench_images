@@ -1,5 +1,0 @@
-org_img_id: 2357910
-org_cap: A blue train glides along the tracks, its wheels clicking rhythmically as it rounds a bend in the countryside.
-trg_cap: A blue truck, its wheels clicking rhythmically as it rounds a bend in the countryside.
-instruction: Replace the train with a truck.
-taskid: 112037

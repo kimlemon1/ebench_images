@@ -1,5 +1,0 @@
-org_img_id: 2408893
-org_cap: the train's wooden train is adorned with intricate ironwork, featuring ornate details and a sturdy railing that provides a sense of nostalgia and elegance.
-trg_cap: The train's small wooden train is adorned with intricate ironwork, featuring ornate details and a sturdy railing that provides a sense of nostalgia and elegance.
-instruction: Make the train smaller.
-taskid: 6886

@@ -1,5 +1,0 @@
-org_img_id: 2403445
-org_cap: a blue bus with a rounded front and a long, curved body, featuring a bright blue and white color scheme with a distinctive logo on the side.
-trg_cap: A blue bus with a rounded front and a long, curved body, featuring a bright blue and white color scheme with a distinctive logo on the side, is used to shuttle passengers between terminals at the airport.
-instruction: Change the background to airport.
-taskid: 66678

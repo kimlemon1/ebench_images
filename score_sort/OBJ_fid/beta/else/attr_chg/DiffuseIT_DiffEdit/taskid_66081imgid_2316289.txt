@@ -1,5 +1,0 @@
-org_img_id: 2316289
-org_cap: A black zebra stands on a rocky outcropping, its stripes in the sunlight.
-trg_cap: A gray zebra stands on a rocky outcropping, its stripes in the sunlight.
-instruction: Change the color of the zebra from black to gray.
-taskid: 66081

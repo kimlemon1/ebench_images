@@ -1,5 +1,0 @@
-org_img_id: 2358263
-org_cap: The boat is a black, flat-bottomed boat with a yellow stripe running along its length, and a small, square cabin at the front.
-trg_cap: The boat is a black, flat-bottomed boat with a yellow stripe running along its length, and a small, square cabin at the front, set against the backdrop of a dense pine forest.
-instruction: Change the background to pine forest.
-taskid: 54331

@@ -1,5 +1,0 @@
-org_img_id: 2317180
-org_cap: a small white kite with a red ribbon trailing behind it flies high in the blue sky, with a young boy's head and cap visible at the bottom of the kite's trajectory.
-trg_cap: a large white kite with a red ribbon trailing behind it flies high in the blue sky, with a young boy's head and cap visible at the bottom of the kite's trajectory.
-instruction: Make the kite larger.
-taskid: 30147

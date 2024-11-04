@@ -1,5 +1,0 @@
-org_img_id: 2412196
-org_cap: a woman holds a blue umbrella, walking alongside another woman on a city street lined with trees and buildings.
-trg_cap: A woman holds a blue umbrella, walking alongside another woman on a path in a zoo lined with trees and enclosures.
-instruction: Change the background to zoo.
-taskid: 34748

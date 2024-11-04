@@ -1,5 +1,0 @@
-org_img_id: 2390388
-org_cap: The sink is a white sink with a decorative frame featuring colorful glass tiles in a rainbow pattern.
-trg_cap: The graffiti art features a white sink with a decorative frame adorned with colorful glass tiles in a rainbow pattern.
-instruction: Change the style if the image to graffiti art.
-taskid: 71888

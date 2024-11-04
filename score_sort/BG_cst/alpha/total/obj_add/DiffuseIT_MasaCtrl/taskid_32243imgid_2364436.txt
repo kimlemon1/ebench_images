@@ -1,5 +1,0 @@
-org_img_id: 2364436
-org_cap: A skateboarder in a hoodie and jeans rides down a ramp at night, his skateboard glowing with a neon light as he performs a trick on the concrete ramp.
-trg_cap: A skateboarder in a hoodie and jeans rides down a ramp at night, his skateboard glowing with a neon light as he performs a trick on the concrete ramp, with a person standing behind him.
-instruction: Add a person behind the skateboard.
-taskid: 32243

@@ -1,5 +1,0 @@
-org_img_id: 2360604
-org_cap: the clock tower stands tall and proud, its ornate clock face gleaming in the sunlight as it marks the passing of time in this quaint town square.
-trg_cap: The clock tower stands tall and proud, its ornate clock face gleaming in the sunlight as it marks the passing of time in this quaint town square, with a person standing behind it.
-instruction: Add a person behind the clock.
-taskid: 81421

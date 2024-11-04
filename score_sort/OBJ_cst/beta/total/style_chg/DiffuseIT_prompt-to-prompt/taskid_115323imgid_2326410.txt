@@ -1,5 +1,0 @@
-org_img_id: 2326410
-org_cap: the small, pedestal sink in the bathroom is a simple, white ceramic sink with a rounded sink and a single handle.
-trg_cap: The pop art style artwork features a small, pedestal bathroom sink, which is a simple, white ceramic design with a rounded basin and a single handle.
-instruction: Change the style if the image to pop art style.
-taskid: 115323

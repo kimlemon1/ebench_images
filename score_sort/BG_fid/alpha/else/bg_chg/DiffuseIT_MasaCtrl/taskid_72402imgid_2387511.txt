@@ -1,5 +1,0 @@
-org_img_id: 2387511
-org_cap: "person, his legs bent and his arms outstretched, as he captures a moment of joy with his camera, the flash of the lens illuminating the darkening sky behind him."
-trg_cap: Person, his legs bent and his arms outstretched, as he captures a moment of joy with his camera, the flash of the lens illuminating the darkening sky behind him, with the sound of waves crashing on the shore and the scent of salt in the air at the beach.
-instruction: Change the background to beach.
-taskid: 72402

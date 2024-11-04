@@ -1,5 +1,0 @@
-org_img_id: 2325798
-org_cap: person wears a striped shirt and has a subtle smile on his face.
-trg_cap: An ancient Egyptian-style artwork depicts a person wearing a striped shirt with a subtle smile on their face.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 39920

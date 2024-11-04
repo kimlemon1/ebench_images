@@ -1,5 +1,0 @@
-org_img_id: 2332888
-org_cap: The kitchen features a white microwave, sink, and refrigerator.
-trg_cap: The kitchen features a white microwave with a bottle in front of it, sink, and refrigerator.
-instruction: Add a bottle in front of the microwave.
-taskid: 101215

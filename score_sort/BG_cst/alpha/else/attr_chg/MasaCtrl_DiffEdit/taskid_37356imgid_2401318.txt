@@ -1,5 +1,0 @@
-org_img_id: 2401318
-org_cap: green airplane soars through the clear blue sky, its propellers whirring as it banks and turns with precision.
-trg_cap: black airplane soars through the clear blue sky, its propellers whirring as it banks and turns with precision.
-instruction: Change the color of the airplane from green to black.
-taskid: 37356

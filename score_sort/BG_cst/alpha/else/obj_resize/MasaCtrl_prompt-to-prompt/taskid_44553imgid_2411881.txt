@@ -1,5 +1,0 @@
-org_img_id: 2411881
-org_cap: The bus is a blue bus with a rear door that swings open to allow passengers to board.
-trg_cap: The bus is a small blue bus with a rear door that swings open to allow passengers to board.
-instruction: Make the bus smaller.
-taskid: 44553

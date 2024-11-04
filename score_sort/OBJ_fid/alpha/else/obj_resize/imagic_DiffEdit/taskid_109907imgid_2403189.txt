@@ -1,5 +1,0 @@
-org_img_id: 2403189
-org_cap: a fire hydrant stands tall on the sidewalk, its fire hydrant gleaming in the golden light of sunset, surrounded by the sounds and smells of a bustling city street.
-trg_cap: A large fire hydrant stands tall on the sidewalk, its fire hydrant gleaming in the golden light of sunset, surrounded by the sounds and smells of a bustling city street.
-instruction: Make the fire hydrant larger.
-taskid: 109907

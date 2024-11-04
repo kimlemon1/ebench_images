@@ -1,5 +1,0 @@
-org_img_id: 2338366
-org_cap: a gray train chugs along the gray train, its wheels clicking and whistling as it moves.
-trg_cap: A gray train chugs along the gray tracks through the desert, its wheels clicking and whistling as it moves.
-instruction: Change the background to desert.
-taskid: 83271

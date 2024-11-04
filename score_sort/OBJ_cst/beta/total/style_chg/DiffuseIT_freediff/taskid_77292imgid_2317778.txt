@@ -1,5 +1,0 @@
-org_img_id: 2317778
-org_cap: airplaneairplaneairplane
-trg_cap: An oil painting style artwork features an airplane repeated multiple times.
-instruction: Change the style if the image to oil painting style.
-taskid: 77292

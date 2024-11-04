@@ -1,5 +1,0 @@
-org_img_id: 2358288
-org_cap: a person holds a pink umbrella above their head, pink umbrella's edges fluttering in the breeze.
-trg_cap: a person holds a large pink umbrella above their head, pink umbrella's edges fluttering in the breeze.
-instruction: Make the umbrella larger.
-taskid: 76306

@@ -1,5 +1,0 @@
-org_img_id: 2351677
-org_cap: the green train chugged up the mountain, its bright red color standing out against the lush green meadow and towering mountain in the background.
-trg_cap: The large green train chugged up the mountain, its bright red color standing out against the lush green meadow and towering mountain in the background.
-instruction: Make the train larger.
-taskid: 15974

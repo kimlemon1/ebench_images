@@ -1,5 +1,0 @@
-org_img_id: 2335092
-org_cap: a truck with a thick layer of snow covering its body sits in front of an orange truck, its truck gleaming against the winter landscape.
-trg_cap: A train sits in front of another orange train.
-instruction: Replace the truck with a train.
-taskid: 94222

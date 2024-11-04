@@ -1,5 +1,0 @@
-org_img_id: 2362868
-org_cap: a giraffe sits on the ground, its long neck and legs folded under it, its soft fur a warm beige color, its big brown eyes gazing at the blue sky above.
-trg_cap: A Van Gogh style art features a giraffe sitting on the ground with its long neck and legs folded under it, its soft fur a warm beige color, and its big brown eyes gazing at the blue sky above.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 70372

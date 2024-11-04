@@ -1,5 +1,0 @@
-org_img_id: 2411874
-org_cap: A white airplane soars through the sky, its wings stretching wide as it approaches the runway, with the terminal building and control tower visible in the background.
-trg_cap: A large white airplane soars through the sky, its wings stretching wide as it approaches the runway, with the terminal building and control tower visible in the background.
-instruction: Make the airplane larger.
-taskid: 66653

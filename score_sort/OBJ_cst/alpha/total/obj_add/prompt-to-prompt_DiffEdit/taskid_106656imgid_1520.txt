@@ -1,5 +1,0 @@
-org_img_id: 1520
-org_cap: The cluttered office desk is dominated by a white keyboard, surrounded by scattered papers, a vase filled with wilting flowers, and a tangled mess of cords and wires.
-trg_cap: The cluttered office desk is dominated by a white keyboard, surrounded by scattered papers, a TV in front of the vase filled with wilting flowers, and a tangled mess of cords and wires.
-instruction: Add a tv in front of the vase.
-taskid: 106656

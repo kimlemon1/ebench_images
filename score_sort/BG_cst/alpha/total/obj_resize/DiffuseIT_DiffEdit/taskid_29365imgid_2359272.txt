@@ -1,5 +1,0 @@
-org_img_id: 2359272
-org_cap: A silver airplane soars through the gray sky, its engines roaring as it gains altitude.
-trg_cap: A large silver airplane soars through the gray sky, its engines roaring as it gains altitude.
-instruction: Make the airplane larger.
-taskid: 29365

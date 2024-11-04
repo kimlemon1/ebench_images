@@ -1,5 +1,0 @@
-org_img_id: 2363430
-org_cap: a young girl with freckled skin and bright blue eyes, wearing glasses and a blue shirt, holds a small donut in her hand, her fingers wrapped around the donut as she sits on the grass.
-trg_cap: A young girl with freckled skin and bright blue eyes, wearing glasses and a blue shirt, holds a small donut in her hand, her fingers wrapped around the donut as she sits on the grass, with a person standing in front of her.
-instruction: Add a person in front of the donut.
-taskid: 104993

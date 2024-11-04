@@ -1,5 +1,0 @@
-org_img_id: 2320806
-org_cap: a gray cat on a plush, velvet couch, surrounded by pillows and a few decorative items, with a warm, pink wall in the background.
-trg_cap: The teddy bear is on a plush, velvet couch, surrounded by pillows and a few decorative items, with a warm, pink wall in the background.
-instruction: Replace the cat with a teddy bear.
-taskid: 11602

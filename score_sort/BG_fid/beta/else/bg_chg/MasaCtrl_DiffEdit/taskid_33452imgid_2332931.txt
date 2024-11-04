@@ -1,5 +1,0 @@
-org_img_id: 2332931
-org_cap: a high-speed train with a sleek, silver body and a pointed nose, gliding smoothly along the tracks as the sun casts a warm glow over the surrounding landscape.
-trg_cap: a high-speed train with a sleek, silver body and a pointed nose, gliding smoothly along the tracks through a vast snow field as the sun casts a warm glow over the surrounding landscape.
-instruction: Change the background to snow field.
-taskid: 33452

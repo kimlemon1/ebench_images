@@ -1,5 +1,0 @@
-org_img_id: 2376726
-org_cap: jumping male person swings his racket, arm and wrist as he sends the ball across the court.
-trg_cap: The art, in a pop art style, depicts a jumping male person swinging his racket, arm, and wrist as he sends the ball across the court.
-instruction: Change the style if the image to pop art style.
-taskid: 90286

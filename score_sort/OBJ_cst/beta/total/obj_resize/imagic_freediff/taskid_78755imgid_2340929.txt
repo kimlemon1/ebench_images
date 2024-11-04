@@ -1,5 +1,0 @@
-org_img_id: 2340929
-org_cap: a person in a white tank top and blue striped knee-high socks jumps off a skateboard, his legs splayed in mid-air as he lands on the concrete floor.
-trg_cap: a person in a white tank top and blue striped knee-high socks jumps off a large skateboard, his legs splayed in mid-air as he lands on the concrete floor.
-instruction: Make the skateboard larger.
-taskid: 78755

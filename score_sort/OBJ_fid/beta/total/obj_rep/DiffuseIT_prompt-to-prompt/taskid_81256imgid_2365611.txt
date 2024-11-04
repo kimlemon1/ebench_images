@@ -1,5 +1,0 @@
-org_img_id: 2365611
-org_cap: a behemoth of a pizza, with a crust as wide as a table and toppings spilling over the edge, sits on a wooden board in front of a person.
-trg_cap: A bed sits on a wooden board in front of them.
-instruction: Replace the pizza with a bed.
-taskid: 81256

@@ -1,5 +1,0 @@
-org_img_id: 2359736
-org_cap: a young person holds a yellow baseball bat, his arm cocked back and ready to swing, with a green tree looming in the background.
-trg_cap: a young person holds a large yellow baseball bat, his arm cocked back and ready to swing, with a green tree looming in the background.
-instruction: Make the baseball bat larger.
-taskid: 61464

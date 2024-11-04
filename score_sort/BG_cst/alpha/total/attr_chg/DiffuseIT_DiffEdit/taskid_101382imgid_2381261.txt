@@ -1,5 +1,0 @@
-org_img_id: 2381261
-org_cap: A blue airplane soars through the sky, its wings stretching wide as it flies over a towering evergreen tree against a bright blue background.
-trg_cap: A purple airplane soars through the sky, its wings stretching wide as it flies over a towering evergreen tree against a bright purple background.
-instruction: Change the color of the airplane from blue to purple.
-taskid: 101382

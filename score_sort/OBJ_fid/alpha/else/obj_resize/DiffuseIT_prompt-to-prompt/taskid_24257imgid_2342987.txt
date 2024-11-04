@@ -1,5 +1,0 @@
-org_img_id: 2342987
-org_cap: a young person with blonde hair and a casual outfit on a wooden bench, with a relaxed expression.
-trg_cap: a small young person with blonde hair and a casual outfit on a wooden bench, with a relaxed expression.
-instruction: Make the person smaller.
-taskid: 24257

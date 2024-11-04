@@ -1,5 +1,0 @@
-org_img_id: 2388597
-org_cap: The rusty, yellow fire hydrant is a fire hydrant, standing tall in the grassy area.
-trg_cap: The undamaged, yellow fire hydrant is a fire hydrant, standing tall in the grassy area.
-instruction: Change the state of the fire hydrant from rusty to undamaged.
-taskid: 122698

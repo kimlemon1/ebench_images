@@ -1,5 +1,0 @@
-org_img_id: 2337149
-org_cap: a small, single-engine airplane with a sleek, silver body and a pointed nose, parked on the tarmac with its engines shut off, surrounded by the industrial buildings and control tower of an airport.
-trg_cap: A small, single-engine airplane with a sleek, silver body and a pointed nose, parked on the tarmac with its engines shut off, surrounded by the towering shelves and quiet reading areas of a library.
-instruction: Change the background to library.
-taskid: 101396

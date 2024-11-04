@@ -1,5 +1,0 @@
-org_img_id: 2316828
-org_cap: the plate features a roast beef, served with a side of steamed broccoli and fluffy mashed potatoes.
-trg_cap: The plate features roast beef, served with a side of sandwich and fluffy mashed potatoes.
-instruction: Replace the broccoli with a sandwich.
-taskid: 37835

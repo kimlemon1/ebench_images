@@ -1,5 +1,0 @@
-org_img_id: 2411640
-org_cap: The brown cat lies on the wooden floor, sitting with its tail as it gazes up at the camera with piercing green eyes.
-trg_cap: The brown dog lies on the wooden floor.
-instruction: Replace the cat with a dog.
-taskid: 66018

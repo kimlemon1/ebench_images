@@ -1,5 +1,0 @@
-org_img_id: 2381727
-org_cap: The kitchen features a silver microwave and stainless steel refrigerator situated against a backdrop of warm, green walls and gleaming hardwood floors.
-trg_cap: The kitchen features a silver microwave and stainless steel refrigerator, with a bottle behind it, situated against a backdrop of warm, green walls and gleaming hardwood floors.
-instruction: Add a bottle behind the refrigerator.
-taskid: 994

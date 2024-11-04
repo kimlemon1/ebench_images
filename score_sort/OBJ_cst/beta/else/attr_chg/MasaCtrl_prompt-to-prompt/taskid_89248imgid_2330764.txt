@@ -1,5 +1,0 @@
-org_img_id: 2330764
-org_cap: a walking person alongside a brown walking dog, a black umbrella to shield them from the rain.
-trg_cap: a walking person alongside a brown walking dog, a dark blue umbrella to shield them from the rain.
-instruction: Change the color of the umbrella from black to dark blue.
-taskid: 89248

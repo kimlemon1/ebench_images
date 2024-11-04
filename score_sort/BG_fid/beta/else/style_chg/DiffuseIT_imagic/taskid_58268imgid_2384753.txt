@@ -1,5 +1,0 @@
-org_img_id: 2384753
-org_cap: The scene features a worn-out couch, a coffee table cluttered with remotes, magazines, and a vase, and a black tv.
-trg_cap: A Van Gogh style art features a scene with a worn-out couch, a coffee table cluttered with remotes, magazines, and a vase, and a black TV.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 58268

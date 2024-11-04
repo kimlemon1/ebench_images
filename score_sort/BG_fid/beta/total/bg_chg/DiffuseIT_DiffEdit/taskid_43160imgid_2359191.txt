@@ -1,5 +1,0 @@
-org_img_id: 2359191
-org_cap: The red frisbee is a frisbee, resting on a rocky outcropping overlooking a distant landscape.
-trg_cap: The red frisbee is a frisbee, resting on a rocky outcropping overlooking a distant landscape, with the entrance to a cave nearby.
-instruction: Change the background to cave.
-taskid: 43160

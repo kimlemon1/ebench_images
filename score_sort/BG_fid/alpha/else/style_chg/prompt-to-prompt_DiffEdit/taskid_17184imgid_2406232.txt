@@ -1,5 +1,0 @@
-org_img_id: 2406232
-org_cap: the bus is a gray, 30-foot long bus with a rounded front and a flat rear, featuring a distinctive curved roofline and a rear door with a vertical window.
-trg_cap: The graffiti art depicts a gray, 30-foot long bus with a rounded front, a flat rear, a distinctive curved roofline, and a rear door with a vertical window.
-instruction: Change the style if the image to graffiti art.
-taskid: 17184

@@ -1,5 +1,0 @@
-org_img_id: 2380794
-org_cap: the necktie is a slim, rectangular piece of fabric with subtle grid pattern and subtle texture, worn loosely around the neck of a person with a smooth, pale complexion, dark hair, and a pair of glasses perched on the end of his nose.
-trg_cap: The pop art style artwork features a person with a smooth, pale complexion, dark hair, and glasses perched on the end of his nose, wearing a slim, rectangular necktie with a subtle grid pattern and texture, loosely draped around his neck.
-instruction: Change the style if the image to pop art style.
-taskid: 91810

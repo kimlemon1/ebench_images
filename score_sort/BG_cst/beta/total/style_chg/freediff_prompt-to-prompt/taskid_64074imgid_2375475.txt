@@ -1,5 +1,0 @@
-org_img_id: 2375475
-org_cap: The vase is a delicate, ornate vase with a slender neck and a rounded body, sitting atop a circular table in a cozy, intimate setting.
-trg_cap: The mosaic art features a delicate, ornate vase with a slender neck and a rounded body, sitting atop a circular table in a cozy, intimate setting.
-instruction: Change the style if the image to mosaic art.
-taskid: 64074

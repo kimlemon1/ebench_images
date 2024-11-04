@@ -1,5 +1,0 @@
-org_img_id: 2361476_0
-org_cap: Person under a red and white striped umbrella, wearing a white sweater and a cup of coffee.
-trg_cap: The pop art style artwork features a person under a red and white striped umbrella, wearing a white sweater and holding a cup of coffee.
-instruction: Change the style if the image to pop art style.
-taskid: 16601

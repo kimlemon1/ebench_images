@@ -1,5 +1,0 @@
-org_img_id: 2380567
-org_cap: A gray airplane flies across the gray sky, its wings and tail visible as it soars through the clouds.
-trg_cap: A watercolor painting style art depicts a gray airplane flying across the gray sky, its wings and tail visible as it soars through the clouds.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 114447

@@ -1,5 +1,0 @@
-org_img_id: 2386783
-org_cap: the scene is illuminated by a soft, warm glow emanating from a lamp placed on the edge of a wooden desk, where a sleek, silver laptop and a gray keyboard sit atop a neatly organized workspace.
-trg_cap: the scene is illuminated by a soft, warm glow emanating from a lamp placed on the edge of a wooden desk, where a sleek, silver laptop and a green keyboard sit atop a neatly organized workspace.
-instruction: Change the color of the keyboard from gray to green.
-taskid: 110871

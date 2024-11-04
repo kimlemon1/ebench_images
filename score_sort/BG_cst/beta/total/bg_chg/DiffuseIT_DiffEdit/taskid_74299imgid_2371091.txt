@@ -1,5 +1,0 @@
-org_img_id: 2371091
-org_cap: a brown horse on a green meadow.
-trg_cap: A brown horse on a green meadow in a stadium.
-instruction: Change the background to stadium.
-taskid: 74299

@@ -1,5 +1,0 @@
-org_img_id: 2347754
-org_cap: A small bird with grey and white feathers, sporting a distinctive black stripe across its back, on the grassy terrain.
-trg_cap: A small horse on its grassy terrain.
-instruction: Replace the bird with a horse.
-taskid: 5305

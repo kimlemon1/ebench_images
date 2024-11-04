@@ -1,5 +1,0 @@
-org_img_id: 2411136
-org_cap: a person holds a brown donut in his mouth.
-trg_cap: A person holds a brown donut in his mouth, standing in front of a large aquarium.
-instruction: Change the background to aquarium.
-taskid: 118351

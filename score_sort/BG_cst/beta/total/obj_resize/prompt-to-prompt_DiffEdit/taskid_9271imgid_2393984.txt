@@ -1,5 +1,0 @@
-org_img_id: 2393984
-org_cap: an gray airplane, its engines roaring as it takes off from the runway, kicking up clouds of dust and sending a plume of smoke into the air.
-trg_cap: a small gray airplane, its engines roaring as it takes off from the runway, kicking up clouds of dust and sending a plume of smoke into the air.
-instruction: Make the airplane smaller.
-taskid: 9271

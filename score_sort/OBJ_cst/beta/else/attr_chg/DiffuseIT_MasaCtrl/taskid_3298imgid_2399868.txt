@@ -1,5 +1,0 @@
-org_img_id: 2399868
-org_cap: The sink is a white sink with a stainless steel faucet and a black granite countertop.
-trg_cap: The sink is a light brown sink with a stainless steel faucet and a black granite countertop.
-instruction: Change the color of the sink from white to light brown.
-taskid: 3298

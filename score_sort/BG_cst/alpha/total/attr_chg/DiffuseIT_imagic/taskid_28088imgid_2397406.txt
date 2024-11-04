@@ -1,5 +1,0 @@
-org_img_id: 2397406
-org_cap: a red bus glides smoothly along the road, its wheels humming softly as it approaches the iconic monument.
-trg_cap: a pink bus glides smoothly along the road, its wheels humming softly as it approaches the iconic monument.
-instruction: Change the color of the bus from red to pink.
-taskid: 28088

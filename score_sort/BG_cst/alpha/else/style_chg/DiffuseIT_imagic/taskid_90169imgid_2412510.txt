@@ -1,5 +1,0 @@
-org_img_id: 2412510
-org_cap: a brown bird on a thin branch, its beak, surrounded by the misty morning air and the distant view of the lake.
-trg_cap: A grey scale photo captures a brown bird on a thin branch, its beak surrounded by the misty morning air, with a distant view of the lake.
-instruction: Change the style if the image to grey scale.
-taskid: 90169

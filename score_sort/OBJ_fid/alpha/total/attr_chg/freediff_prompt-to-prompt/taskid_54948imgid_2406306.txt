@@ -1,5 +1,0 @@
-org_img_id: 2406306
-org_cap: The white, open toilet is situated in a small, tile-lined bathroom with a single sink and a small, rectangular mirror above it.
-trg_cap: The white, closed toilet is situated in a small, tile-lined bathroom with a single sink and a small, rectangular mirror above it.
-instruction: Change the state of the toilet from open to closed.
-taskid: 54948

@@ -1,5 +1,0 @@
-org_img_id: 2393683
-org_cap: young, blond person away from the tennis court, his racket and a shirt with the words "aces" printed on it.
-trg_cap: young, blond person away from the tennis court, his racket and a shirt with the words "aces" printed on it, standing in front of a large aquarium.
-instruction: Change the background to aquarium.
-taskid: 120321

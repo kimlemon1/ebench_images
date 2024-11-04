@@ -1,5 +1,0 @@
-org_img_id: 2411844
-org_cap: The zebra stands on a green grassy field, its standing black zebra in the sunlight.
-trg_cap: The zebra stands on a green grassy field, its standing striped zebra in the sunlight.
-instruction: Change the color of the zebra from black to striped.
-taskid: 40365

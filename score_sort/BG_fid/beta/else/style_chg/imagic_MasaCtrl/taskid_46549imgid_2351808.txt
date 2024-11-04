@@ -1,5 +1,0 @@
-org_img_id: 2351808
-org_cap: "person, her hands grasping a person, her legs splayed in a wide stance."
-trg_cap: A graffiti art depicts a person with her hands grasping another person and her legs splayed in a wide stance.
-instruction: Change the style if the image to graffiti art.
-taskid: 46549

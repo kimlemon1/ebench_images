@@ -1,5 +1,0 @@
-org_img_id: 2392938
-org_cap: Standing person stands at the kitchen counter, peeling an orange.
-trg_cap: Orange stands at the kitchen counter, peeling an Orange.
-instruction: Replace the person with a orange.
-taskid: 7767

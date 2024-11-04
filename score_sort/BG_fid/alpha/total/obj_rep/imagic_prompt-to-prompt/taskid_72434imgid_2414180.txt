@@ -1,5 +1,0 @@
-org_img_id: 2414180
-org_cap: Resting elephant and person together through a lush green forest, with the person's smaller frame creating a striking contrast.
-trg_cap: Resting truck and man together, with the man's smaller frame creating a striking contrast.
-instruction: Replace the elephant with a truck.
-taskid: 72434

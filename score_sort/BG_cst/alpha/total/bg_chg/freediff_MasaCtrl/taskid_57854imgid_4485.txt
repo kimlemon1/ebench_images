@@ -1,5 +1,0 @@
-org_img_id: 4485
-org_cap: A white airplane with a sleek design and a distinctive red stripe running along its body, sits on the runway with its wheels retracted and its engines silent, awaiting its next destination.
-trg_cap: A white airplane with a sleek design and a distinctive red stripe running along its body sits on the runway of a countryside farm, with its wheels retracted and its engines silent, awaiting its next destination.
-instruction: Change the background to country side farm.
-taskid: 57854

@@ -1,5 +1,0 @@
-org_img_id: 2341572_1
-org_cap: a young person holds her baby securely under an umbrella, the bright blue umbrella providing a splash of color against the lush green trees and vibrant flowers.
-trg_cap: A young person holds her baby securely under an umbrella, the bright blue umbrella providing a splash of color against the shimmering blue water and colorful marine life of the aquarium.
-instruction: Change the background to aquarium.
-taskid: 82934

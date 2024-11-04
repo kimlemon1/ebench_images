@@ -1,5 +1,0 @@
-org_img_id: 2320773
-org_cap: a skateboarder in his mid-twenties, wearing a black t-shirt and blue shorts, leaps off a concrete bench, his skateboard flying off his feet as he performs a 360-degree trick in the skatepark.
-trg_cap: a skateboarder in his mid-twenties, wearing a black t-shirt and blue shorts, leaps off a concrete bench, his large skateboard flying off his feet as he performs a 360-degree trick in the skatepark.
-instruction: Make the skateboard larger.
-taskid: 123732

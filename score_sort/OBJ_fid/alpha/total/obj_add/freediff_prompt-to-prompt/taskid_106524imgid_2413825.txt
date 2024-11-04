@@ -1,5 +1,0 @@
-org_img_id: 2413825
-org_cap: Skiing person through the snow, their snowshoes on the frozen crystals as they the mountain.
-trg_cap: Skiing person through the snow, their snowshoes on the frozen crystals as they the mountain, with skis under them.
-instruction: Add a skis under the person.
-taskid: 106524

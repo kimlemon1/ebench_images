@@ -1,5 +1,0 @@
-org_img_id: 2339701
-org_cap: a blue bus, featuring a curved front and a long, flat rear section.
-trg_cap: a blue bus, featuring a curved front and a long, flat rear section, designed for transporting crew members within the space station.
-instruction: Change the background to space station.
-taskid: 94013

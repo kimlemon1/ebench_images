@@ -1,5 +1,0 @@
-org_img_id: 2335514
-org_cap: A striped zebra stands near a small pond, with a few ripples on the water's surface.
-trg_cap: A striped zebra stands near a small pond in the desert, with a few ripples on the water's surface.
-instruction: Change the background to desert.
-taskid: 78123

@@ -1,5 +1,0 @@
-org_img_id: 2387347
-org_cap: The painted truck is a model and has a makeshift trailer attached to the back, covered in more colorful decorations.
-trg_cap: The bicycle has a makeshift trailer attached to its back, covered in more colorful decorations.
-instruction: Replace the truck with a bicycle.
-taskid: 41866

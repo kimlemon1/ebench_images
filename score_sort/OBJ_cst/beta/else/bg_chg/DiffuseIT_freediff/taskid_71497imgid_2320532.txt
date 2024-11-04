@@ -1,5 +1,0 @@
-org_img_id: 2320532
-org_cap: A clear glass teapot sits on a blue ceramic table, surrounded by the soft glow of evening light, with a wine glass and glass bottle in the background.
-trg_cap: A clear glass teapot sits on a blue ceramic table, surrounded by the soft glow of evening light, with a wine glass and glass bottle in the background, all set against the backdrop of a mountain top.
-instruction: Change the background to mountain top.
-taskid: 71497

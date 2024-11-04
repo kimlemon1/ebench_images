@@ -1,5 +1,0 @@
-org_img_id: 2394072
-org_cap: Surfing, surfing, surfing, surfing, surfing person rides a white surfboard through the waves, his hood flapping as he carves an arc through the whitewater.
-trg_cap: Surfing, surfing, surfing, surfing, surfing person rides a teal surfboard through the waves, his hood flapping as he carves an arc through the tealwater.
-instruction: Change the color of the surfboard from white to teal.
-taskid: 92380

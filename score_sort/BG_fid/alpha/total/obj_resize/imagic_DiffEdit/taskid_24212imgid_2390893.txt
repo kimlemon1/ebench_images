@@ -1,5 +1,0 @@
-org_img_id: 2390893
-org_cap: Snowboarding person, his snowboard a blur, his jacket a splash of color against the snowy backdrop.
-trg_cap: Snowboarding person, his large snowboard a blur, his jacket a splash of color against the snowy backdrop.
-instruction: Make the snowboard larger.
-taskid: 24212

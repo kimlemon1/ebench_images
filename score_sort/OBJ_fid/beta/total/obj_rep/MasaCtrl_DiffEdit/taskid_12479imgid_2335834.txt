@@ -1,5 +1,0 @@
-org_img_id: 2335834
-org_cap: person in a wooded area with a dirt path and trees surrounding him.
-trg_cap: Cow in a wooded area with a dirt path and trees.
-instruction: Replace the person with a cow.
-taskid: 12479

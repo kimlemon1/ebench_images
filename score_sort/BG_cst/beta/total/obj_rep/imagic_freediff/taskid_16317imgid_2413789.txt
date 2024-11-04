@@ -1,5 +1,0 @@
-org_img_id: 2413789
-org_cap: A striped black zebra walking along a dusty road.
-trg_cap: The giraffe is walking along a dusty road.
-instruction: Replace the zebra with a giraffe.
-taskid: 16317

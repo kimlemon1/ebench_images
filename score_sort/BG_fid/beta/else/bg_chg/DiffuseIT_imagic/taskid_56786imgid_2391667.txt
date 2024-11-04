@@ -1,5 +1,0 @@
-org_img_id: 2391667
-org_cap: The bus is a blue bus with a rounded front, a flat roof, and a rear door with a small window above it.
-trg_cap: The bus is a blue bus with a rounded front, a flat roof, and a rear door with a small window above it, parked against the backdrop of a vast snow field.
-instruction: Change the background to snow field.
-taskid: 56786

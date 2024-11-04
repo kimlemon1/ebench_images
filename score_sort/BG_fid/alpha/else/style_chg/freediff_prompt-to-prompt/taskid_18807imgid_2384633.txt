@@ -1,5 +1,0 @@
-org_img_id: 2384633
-org_cap: A gray, open laptop sits on a desk in a small room, surrounded by a single bed, a nightstand with a lamp and a pillow, and a wardrobe with a door.
-trg_cap: A Van Gogh style art depicts a gray, open laptop sitting on a desk in a small room, surrounded by a single bed, a nightstand with a lamp and a pillow, and a wardrobe with a door.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 18807

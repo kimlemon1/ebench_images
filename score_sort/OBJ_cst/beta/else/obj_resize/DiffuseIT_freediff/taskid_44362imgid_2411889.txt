@@ -1,5 +1,0 @@
-org_img_id: 2411889
-org_cap: train in the distance
-trg_cap: small train in the distance
-instruction: Make the train smaller.
-taskid: 44362

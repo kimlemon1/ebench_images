@@ -1,5 +1,0 @@
-org_img_id: 2376210
-org_cap: A blue kite soared through the gray sky above the choppy waters, with a lone blue kite riding the waves below.
-trg_cap: The pop art style artwork features a blue kite soaring through the gray sky above the choppy waters, with a lone blue kite riding the waves below.
-instruction: Change the style if the image to pop art style.
-taskid: 113427

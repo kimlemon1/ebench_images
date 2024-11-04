@@ -1,5 +1,0 @@
-org_img_id: 2392874
-org_cap: The sink is a white ceramic sink with a chrome faucet and a black granite countertop.
-trg_cap: The sink is a white ivory sink with a chrome faucet and a black granite countertop.
-instruction: Change the material of the sink from ceramic to ivory.
-taskid: 6455

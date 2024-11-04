@@ -1,5 +1,0 @@
-org_img_id: 2342503
-org_cap: a giraffe stands against a concrete pillar, its fur a warm beige color with darker stripes running along its back.
-trg_cap: A giraffe stands against a concrete pillar, its fur a warm beige color with darker stripes running along its back, as planes taxi on the runway in the distance at the bustling airport.
-instruction: Change the background to airport.
-taskid: 17504

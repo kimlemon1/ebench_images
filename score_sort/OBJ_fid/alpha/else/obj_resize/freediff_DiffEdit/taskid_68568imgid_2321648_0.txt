@@ -1,5 +1,0 @@
-org_img_id: 2321648_0
-org_cap: a young girl with curly brown hair and a big smile sits at a table, holding a cup and wearing a messy apron with crumbs and spills on it.
-trg_cap: a young girl with curly brown hair and a big smile sits at a table, holding a large cup and wearing a messy apron with crumbs and spills on it.
-instruction: Make the cup larger.
-taskid: 68568

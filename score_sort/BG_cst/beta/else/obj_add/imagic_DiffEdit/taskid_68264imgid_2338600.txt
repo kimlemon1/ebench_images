@@ -1,5 +1,0 @@
-org_img_id: 2338600
-org_cap: the clock tower features a large, circular clock face with intricate details and a distinctive finial on top.
-trg_cap: The clock tower features a large, circular clock face with intricate details and a distinctive finial on top, with skis located next to the clock.
-instruction: Add a skis next to the clock.
-taskid: 68264

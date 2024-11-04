@@ -1,5 +1,0 @@
-org_img_id: 2388308
-org_cap: The toilet is a white, clean toilet with a chrome handle and a small, round sink above it.
-trg_cap: A graffiti art piece features a white, clean toilet with a chrome handle and a small, round sink above it.
-instruction: Change the style if the image to graffiti art.
-taskid: 118966

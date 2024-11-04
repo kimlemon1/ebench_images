@@ -1,5 +1,0 @@
-org_img_id: 2400840
-org_cap: Person in a bright red jacket and gray pants is skiing down a snowy mountain, their brown skis as they navigate the turns.
-trg_cap: A large person in a bright red jacket and gray pants is skiing down a snowy mountain, their brown skis as they navigate the turns.
-instruction: Make the person larger.
-taskid: 8296

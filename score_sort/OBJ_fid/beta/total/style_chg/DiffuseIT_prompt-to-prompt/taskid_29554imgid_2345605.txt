@@ -1,5 +1,0 @@
-org_img_id: 2345605
-org_cap: "Person on the snow-covered mountain peak, wearing a red jacket and black pants, with a bright orange hat and goggles on his face, and a confident smile on his face."
-trg_cap: An oil painting depicts a person on a snow-covered mountain peak, wearing a red jacket, black pants, a bright orange hat, goggles, and a confident smile.
-instruction: Change the style if the image to oil painting style.
-taskid: 29554

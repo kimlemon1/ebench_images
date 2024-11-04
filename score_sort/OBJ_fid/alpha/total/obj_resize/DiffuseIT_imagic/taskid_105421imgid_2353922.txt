@@ -1,5 +1,0 @@
-org_img_id: 2353922
-org_cap: Person at the edge of the frozen lake, wearing a parka and snow pants, with a sled and backpack behind them, and a furry companion, a person, alongside.
-trg_cap: Person at the edge of the frozen lake, wearing a large parka and snow pants, with a sled and backpack behind them, and a furry companion, a person, alongside.
-instruction: Make the person larger.
-taskid: 105421

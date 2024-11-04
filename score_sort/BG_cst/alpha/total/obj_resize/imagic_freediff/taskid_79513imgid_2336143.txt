@@ -1,5 +1,0 @@
-org_img_id: 2336143
-org_cap: a jumping person catches a flying frisbee on a sunny day, his silhouette defined against a bright blue sky with a few wispy clouds.
-trg_cap: A large jumping person catches a flying frisbee on a sunny day, his silhouette defined against a bright blue sky with a few wispy clouds.
-instruction: Make the person larger.
-taskid: 79513

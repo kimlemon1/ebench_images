@@ -1,5 +1,0 @@
-org_img_id: 2417375
-org_cap: a young person wearing a hoodie and jeans, with a skateboard in hand, jumps and spins on the skateboard, his legs and arms moving in a fluid motion as he navigates the concrete bowl.
-trg_cap: a young person wearing a hoodie and jeans, with a large skateboard in hand, jumps and spins on the skateboard, his legs and arms moving in a fluid motion as he navigates the concrete bowl.
-instruction: Make the skateboard larger.
-taskid: 46704

@@ -1,5 +1,0 @@
-org_img_id: 2402454
-org_cap: A blue airplane soars through the sky.
-trg_cap: An ancient Egyptian-style artwork features a blue airplane soaring through the sky.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 66032

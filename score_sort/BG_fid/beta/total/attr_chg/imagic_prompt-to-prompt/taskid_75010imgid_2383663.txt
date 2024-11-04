@@ -1,5 +1,0 @@
-org_img_id: 2383663
-org_cap: A standing brown horse stands, its muscular body and strong legs over the dusty terrain, while a small golden retriever puppy looks up at its horse with wide, curious eyes.
-trg_cap: A standing bronze horse stands, its muscular body and strong legs over the dusty terrain, while a small golden retriever puppy looks up at its horse with wide, curious eyes.
-instruction: Change the color of the horse from brown to bronze.
-taskid: 75010

@@ -1,5 +1,0 @@
-org_img_id: 713735
-org_cap: the person sat on the couch, wearing gray pants and a gray shirt, with a laptop keyboard in front of him and a cat lying on his lap.
-trg_cap: The person sat on the couch, wearing gray pants and a gray shirt, with a laptop on the keyboard in front of him and a cat lying on his lap.
-instruction: Add a laptop on the keyboard.
-taskid: 58331

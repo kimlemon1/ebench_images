@@ -1,5 +1,0 @@
-org_img_id: 2397732
-org_cap: The bus is a green bus with a rear door that swings open to reveal a spacious interior with rows of seats and a wheelchair ramp.
-trg_cap: The pop art style artwork features a green bus with a rear door that swings open to reveal a spacious interior with rows of seats and a wheelchair ramp.
-instruction: Change the style if the image to pop art style.
-taskid: 91844

@@ -1,5 +1,0 @@
-org_img_id: 2409005
-org_cap: a young girl rides a blue surfboard with the help of a male instructor, her arms and legs moving in unison as she glides across the waves.
-trg_cap: a young girl rides a small blue surfboard with the help of a male instructor, her arms and legs moving in unison as she glides across the waves.
-instruction: Make the surfboard smaller.
-taskid: 40453

@@ -1,5 +1,0 @@
-org_img_id: 2372372
-org_cap: A person stands alone on the sidewalk, wearing a gray sweater and black leggings, with a white hat and black boots.
-trg_cap: A large person stands alone on the sidewalk, wearing a gray sweater and black leggings, with a white hat and black boots.
-instruction: Make the person larger.
-taskid: 36064

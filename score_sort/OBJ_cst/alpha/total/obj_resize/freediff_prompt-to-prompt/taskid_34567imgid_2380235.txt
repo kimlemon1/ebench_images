@@ -1,5 +1,0 @@
-org_img_id: 2380235
-org_cap: A white airplane flies overhead, passing over a cityscape with buildings and roads, while a white car drives on the highway below.
-trg_cap: A large white airplane flies overhead, passing over a cityscape with buildings and roads, while a white car drives on the highway below.
-instruction: Make the airplane larger.
-taskid: 34567

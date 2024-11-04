@@ -1,5 +1,0 @@
-org_img_id: 2371197
-org_cap: a person wears a gray vest over a white dress shirt, with a blue necktie and a patterned gray vest.
-trg_cap: In a gym setting, a person wears a gray vest over a white dress shirt, with a blue necktie and a patterned gray vest.
-instruction: Change the background to gym.
-taskid: 29816

@@ -1,5 +1,0 @@
-org_img_id: 2397206
-org_cap: The vase is a white vase with a rounded body and a narrow neck, adorned with a delicate floral pattern and a small handle on one side.
-trg_cap: The vase is a cream colored vase with a rounded body and a narrow neck, adorned with a delicate floral pattern and a small handle on one side.
-instruction: Change the color of the vase from white to cream colored.
-taskid: 95253

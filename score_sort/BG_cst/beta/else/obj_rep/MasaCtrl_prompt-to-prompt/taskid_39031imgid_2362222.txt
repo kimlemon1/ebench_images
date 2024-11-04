@@ -1,5 +1,0 @@
-org_img_id: 2362222
-org_cap: Person's slender fingers around the tennis racket, his eyes on the ball as he to serve.
-trg_cap: "Donut's fingers around the tennis racket, his eyes on the ball as he prepares to serve."
-instruction: Replace the person with a donut.
-taskid: 39031

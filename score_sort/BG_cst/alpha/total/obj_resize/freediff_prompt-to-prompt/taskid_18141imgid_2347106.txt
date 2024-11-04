@@ -1,5 +1,0 @@
-org_img_id: 2347106
-org_cap: The white tv is mounted on a sleek, white adjustable arm, allowing it to be tilted and swiveled to the perfect viewing angle.
-trg_cap: The small white tv is mounted on a sleek, white adjustable arm, allowing it to be tilted and swiveled to the perfect viewing angle.
-instruction: Make the tv smaller.
-taskid: 18141

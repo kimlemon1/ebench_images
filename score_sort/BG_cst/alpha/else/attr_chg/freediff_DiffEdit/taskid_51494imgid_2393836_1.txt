@@ -1,5 +1,0 @@
-org_img_id: 2393836_1
-org_cap: The truck is a white truck with a flatbed and a door on each side, featuring a small cabin and a flat roof.
-trg_cap: The truck is a brown truck with a flatbed and a door on each side, featuring a small cabin and a flat roof.
-instruction: Change the color of the truck from white to brown.
-taskid: 51494

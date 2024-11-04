@@ -1,5 +1,0 @@
-org_img_id: 2412759
-org_cap: a white sitting dog on the floor at a table with a chair in front of it.
-trg_cap: A Van Gogh style artwork features a white dog sitting on the floor at a table with a chair in front of it.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 25029

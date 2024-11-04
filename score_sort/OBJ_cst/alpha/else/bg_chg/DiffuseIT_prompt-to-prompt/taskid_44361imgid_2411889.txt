@@ -1,5 +1,0 @@
-org_img_id: 2411889
-org_cap: train in the distance
-trg_cap: train in the distance of the living room
-instruction: Change the background to living room.
-taskid: 44361

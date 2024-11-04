@@ -1,5 +1,0 @@
-org_img_id: 2416472
-org_cap: The baseball bat is a wooden, curved baseball bat with a worn handle and a worn-out knob at the end, surrounded by a display case filled with memorabilia and photographs of baseball player.
-trg_cap: The baseball bat is a wooden, curved baseball bat with a worn handle and a worn-out knob at the end, surrounded by a display case filled with memorabilia and photographs of a baseball player, set against the backdrop of a lush vineyard.
-instruction: Change the background to vineyard.
-taskid: 3853

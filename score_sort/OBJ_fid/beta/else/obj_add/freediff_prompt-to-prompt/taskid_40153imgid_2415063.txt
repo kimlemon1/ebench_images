@@ -1,5 +1,0 @@
-org_img_id: 2415063
-org_cap: A brown horse stands alone in a lush green meadow, surrounded by blooming flowers and towering pine trees, its coat in the soft sunlight.
-trg_cap: A brown horse stands alone in a lush green meadow, surrounded by blooming flowers and towering pine trees, its coat in the soft sunlight, with an elephant on its right side.
-instruction: Add a elephant on the right side of the horse.
-taskid: 40153

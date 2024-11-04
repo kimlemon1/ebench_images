@@ -1,5 +1,0 @@
-org_img_id: 2343696
-org_cap: the clock face is a striking feature of the tower, with its intricate details and ornate design.
-trg_cap: The grey scale photo features the clock face of the tower, showcasing its striking intricate details and ornate design.
-instruction: Change the style if the image to grey scale.
-taskid: 623

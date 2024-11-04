@@ -1,5 +1,0 @@
-org_img_id: 2407806
-org_cap: a gray, sitting bird on a branch, its feathers ruffled by the autumn breeze.
-trg_cap: a striped, sitting bird on a branch, its feathers ruffled by the autumn breeze.
-instruction: Change the color of the bird from gray to striped.
-taskid: 57906

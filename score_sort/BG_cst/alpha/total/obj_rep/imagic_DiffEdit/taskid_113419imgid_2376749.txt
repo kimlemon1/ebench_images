@@ -1,5 +1,0 @@
-org_img_id: 2376749
-org_cap: the cat, a mottled cat with black, white, and orange fur, sits on the edge of the desk, its paws curled around the laptop's edge as it gazes at the screen.
-trg_cap: The tv sits on the edge of the desk, its base curled around the laptop's edge as it gazes at the screen.
-instruction: Replace the cat with a tv.
-taskid: 113419

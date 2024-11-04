@@ -1,5 +1,0 @@
-org_img_id: 2375273
-org_cap: The refrigerator is a white refrigerator with a stainless steel door handle and a rectangular shape.
-trg_cap: The refrigerator is a large white refrigerator with a stainless steel door handle and a rectangular shape.
-instruction: Make the refrigerator larger.
-taskid: 70880

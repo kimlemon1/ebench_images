@@ -1,5 +1,0 @@
-org_img_id: 2389274
-org_cap: a person in a black wetsuit across the waves, his arms and legs as he a smooth arc through the water.
-trg_cap: a dog across the waves.
-instruction: Replace the person with a dog.
-taskid: 101063

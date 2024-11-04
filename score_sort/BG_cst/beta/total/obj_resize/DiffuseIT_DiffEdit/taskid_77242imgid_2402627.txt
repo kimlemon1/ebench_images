@@ -1,5 +1,0 @@
-org_img_id: 2402627
-org_cap: A lone person stands on a grassy field, with a cityscape visible in the background.
-trg_cap: A lone large person stands on a grassy field, with a cityscape visible in the background.
-instruction: Make the person larger.
-taskid: 77242

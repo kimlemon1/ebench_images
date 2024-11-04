@@ -1,5 +1,0 @@
-org_img_id: 2377106
-org_cap: Person, wearing a black sweat suit and boxing gloves, in a cozy living room surrounded by halloween decorations, including a jack - o - lantern and cobwebs, with her dog sitting nearby.
-trg_cap: Person, wearing a black sweat suit and boxing gloves, on a sandy beach with the sound of waves in the background, with her dog sitting nearby.
-instruction: Change the background to beach.
-taskid: 68883

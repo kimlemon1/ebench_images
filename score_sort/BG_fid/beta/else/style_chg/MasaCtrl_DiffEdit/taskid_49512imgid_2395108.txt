@@ -1,5 +1,0 @@
-org_img_id: 2395108
-org_cap: An old, rusty, red, weathered fire hydrant stands on a city street, its fire hydrant valve open and water spraying out in a fine mist on a sunny day.
-trg_cap: A graffiti art piece depicts an old, rusty, red, weathered fire hydrant standing on a city street, its valve open and water spraying out in a fine mist on a sunny day.
-instruction: Change the style if the image to graffiti art.
-taskid: 49512

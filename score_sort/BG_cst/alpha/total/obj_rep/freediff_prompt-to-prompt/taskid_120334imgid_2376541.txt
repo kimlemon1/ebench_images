@@ -1,5 +1,0 @@
-org_img_id: 2376541
-org_cap: A sleeping dog lies on the sidewalk, its paws and its head on a patch of worn concrete.
-trg_cap: A cat lies on the sidewalk.
-instruction: Replace the dog with a cat.
-taskid: 120334

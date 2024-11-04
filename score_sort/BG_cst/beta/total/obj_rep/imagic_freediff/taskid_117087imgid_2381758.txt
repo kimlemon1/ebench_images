@@ -1,5 +1,0 @@
-org_img_id: 2381758
-org_cap: a white bus with a distinctive rounded front and a long, curved windshield, adorned with a bold, red stripe running along its length, and a distinctive wheel design featuring a prominent hubcap.
-trg_cap: a white person.
-instruction: Replace the bus with a person.
-taskid: 117087

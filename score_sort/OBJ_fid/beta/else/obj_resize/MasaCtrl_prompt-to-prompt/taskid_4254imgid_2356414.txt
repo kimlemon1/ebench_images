@@ -1,5 +1,0 @@
-org_img_id: 2356414
-org_cap: person sits at a table, surrounded by festive decorations, and holds a slice of cake with a large, round clock on top, adorned with blue and white frosting, and a bright yellow candle in the center.
-trg_cap: person sits at a table, surrounded by festive decorations, and holds a large slice of cake with a large, round clock on top, adorned with blue and white frosting, and a bright yellow candle in the center.
-instruction: Make the cake larger.
-taskid: 4254

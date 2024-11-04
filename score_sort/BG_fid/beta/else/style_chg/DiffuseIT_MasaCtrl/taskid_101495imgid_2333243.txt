@@ -1,5 +1,0 @@
-org_img_id: 2333243
-org_cap: a young woman holds a silver umbrella, its curved shape and vibrant color a stark contrast to the drab gray jeans and black top she wears on a rainy day.
-trg_cap: A Van Gogh style art depicts a young woman holding a silver umbrella, its curved shape and vibrant color a stark contrast to the drab gray jeans and black top she wears on a rainy day.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 101495

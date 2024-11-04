@@ -1,5 +1,0 @@
-org_img_id: 2338740
-org_cap: A blue airplane flies across the sky, its white letters and tail fin visible against the bright blue background.
-trg_cap: A large blue airplane flies across the sky, its white letters and tail fin visible against the bright blue background.
-instruction: Make the airplane larger.
-taskid: 48514

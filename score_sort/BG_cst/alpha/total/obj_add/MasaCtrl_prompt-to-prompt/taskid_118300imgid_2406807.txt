@@ -1,5 +1,0 @@
-org_img_id: 2406807
-org_cap: The kitchen features a black microwave, flanked by cabinets and a black microwave, with a wooden floor and a black granite countertop.
-trg_cap: The kitchen features a black microwave with a bottle on top, flanked by cabinets and a black microwave, with a wooden floor and a black granite countertop.
-instruction: Add a bottle on the microwave.
-taskid: 118300

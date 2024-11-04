@@ -1,5 +1,0 @@
-org_img_id: 2324837
-org_cap: The teddy bear sat on the bed, its soft fur and button eyes gazing up at the window where a vintage camera hung from the sill.
-trg_cap: The teddy bear sat on the bed to its left, its soft fur and button eyes gazing up at the window where a vintage camera hung from the sill.
-instruction: Add a bed on the left side of the teddy bear.
-taskid: 110911

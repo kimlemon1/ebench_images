@@ -1,5 +1,0 @@
-org_img_id: 2359798
-org_cap: airplane, a passenger on a flight* airplane, a passenger on a flight
-trg_cap: cave, a passenger on a flight* cave, a passenger on a flight
-instruction: Change the background to cave.
-taskid: 93694

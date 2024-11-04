@@ -1,5 +1,0 @@
-org_img_id: 2331640
-org_cap: a yellow bus, driven by a person wearing a uniform, navigates through the cobblestone streets of a historic city center.
-trg_cap: A motorcycle is in front of a yellow bus, driven by a person wearing a uniform, as it navigates through the cobblestone streets of a historic city center.
-instruction: Add a motorcycle in front of the bus.
-taskid: 102688

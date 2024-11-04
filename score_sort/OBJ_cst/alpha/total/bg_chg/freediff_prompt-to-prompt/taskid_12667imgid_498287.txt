@@ -1,5 +1,0 @@
-org_img_id: 498287
-org_cap: person in front of a large, white refrigerator, wearing a pair of overalls and a yellow sundress, a smile on her face.
-trg_cap: person in front of a large, white refrigerator in an airport, wearing a pair of overalls and a yellow sundress, a smile on her face.
-instruction: Change the background to airport.
-taskid: 12667

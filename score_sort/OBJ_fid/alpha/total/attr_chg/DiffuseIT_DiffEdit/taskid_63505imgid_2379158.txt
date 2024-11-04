@@ -1,5 +1,0 @@
-org_img_id: 2379158
-org_cap: a blue train glides smoothly along the train.
-trg_cap: a white train glides smoothly along the train.
-instruction: Change the color of the train from blue to white.
-taskid: 63505

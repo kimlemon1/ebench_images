@@ -1,5 +1,0 @@
-org_img_id: 2334712
-org_cap: A white airplane is taxiing down the runway.
-trg_cap: A large white airplane is taxiing down the runway.
-instruction: Make the airplane larger.
-taskid: 111259

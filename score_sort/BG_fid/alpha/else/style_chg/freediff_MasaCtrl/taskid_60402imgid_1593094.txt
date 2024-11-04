@@ -1,5 +1,0 @@
-org_img_id: 1593094
-org_cap: A purple umbrella stands upright on the sidewalk, its fabric stretched taut and its metal ribs visible, providing a splash of color against the drab urban backdrop.
-trg_cap: An oil painting style art features a purple umbrella standing upright on the sidewalk, its fabric stretched taut and its metal ribs visible, providing a splash of color against the drab urban backdrop.
-instruction: Change the style if the image to oil painting style.
-taskid: 60402

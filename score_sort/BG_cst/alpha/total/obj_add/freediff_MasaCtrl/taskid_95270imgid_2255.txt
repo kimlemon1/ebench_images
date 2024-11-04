@@ -1,5 +1,0 @@
-org_img_id: 2255
-org_cap: The black fire hydrant is situated on a sidewalk, flanked by a row of yellow flowers in planters and surrounded by a patch of grass, with a yellow curb and a pedestrian crossing sign nearby.
-trg_cap: The black fire hydrant is situated on a sidewalk, flanked by a row of yellow flowers in planters and surrounded by a patch of grass, with a yellow curb and a pedestrian crossing sign nearby, and a bus is behind the fire hydrant.
-instruction: Add a bus behind the fire hydrant.
-taskid: 95270

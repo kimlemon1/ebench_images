@@ -1,5 +1,0 @@
-org_img_id: 2350145
-org_cap: a person at a desk, laptop open in front of them, with a power cord plugged into the laptop and a cup of water nearby.
-trg_cap: a person at a desk, laptop open on their lap in front of them, with a power cord plugged into the laptop and a cup of water nearby.
-instruction: Add a laptop on the person.
-taskid: 72274

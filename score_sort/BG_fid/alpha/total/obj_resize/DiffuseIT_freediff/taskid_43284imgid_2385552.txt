@@ -1,5 +1,0 @@
-org_img_id: 2385552
-org_cap: Skateboarding black skateboard with a helmet, wearing a shirt and jeans.
-trg_cap: Skateboarding large black skateboard with a helmet, wearing a shirt and jeans.
-instruction: Make the skateboard larger.
-taskid: 43284

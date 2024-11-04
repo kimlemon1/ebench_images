@@ -1,5 +1,0 @@
-org_img_id: 2351808
-org_cap: "person, her hands grasping a person, her legs splayed in a wide stance."
-trg_cap: "person, her hands grasping a person, her legs splayed in a wide stance on the bustling airport terminal floor."
-instruction: Change the background to airport.
-taskid: 46547

@@ -1,5 +1,0 @@
-org_img_id: 2353996
-org_cap: a person stands on a dirt path, holding a colorful kite with a vibrant kite and a long kite, flying high in the kite above a serene coastal landscape with a blue kite and a few kites.
-trg_cap: A graffiti art piece depicts a person standing on a dirt path, holding a colorful, vibrant kite with a long tail, flying high above a serene coastal landscape, accompanied by a blue kite and a few others.
-instruction: Change the style if the image to graffiti art.
-taskid: 88639

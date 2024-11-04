@@ -1,5 +1,0 @@
-org_img_id: 2375048
-org_cap: The white stop sign is mounted on a stop sign pole.
-trg_cap: The white stop sign is mounted on a stop sign pole amidst the lush greenery of a tropical jungle.
-instruction: Change the background to tropical jungle.
-taskid: 2012

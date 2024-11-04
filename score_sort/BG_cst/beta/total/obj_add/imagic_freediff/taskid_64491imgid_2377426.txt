@@ -1,5 +1,0 @@
-org_img_id: 2377426
-org_cap: the room features a large window with a view of the city, a comfortable chair, a small desk with a chair, and a tv mounted on the wall.
-trg_cap: The room features a large window with a view of the city, a comfortable chair, a small desk with a chair, a couch under the TV, and a TV mounted on the wall.
-instruction: Add a couch under the tv.
-taskid: 64491

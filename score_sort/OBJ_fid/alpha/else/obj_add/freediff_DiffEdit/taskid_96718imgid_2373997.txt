@@ -1,5 +1,0 @@
-org_img_id: 2373997
-org_cap: a wooden table with a glass top, supporting a laptop, white keyboard, and a few books, surrounded by bookshelves and a few decorative items.
-trg_cap: a wooden table with a glass top, supporting a laptop, a white keyboard with a cup behind it, and a few books, surrounded by bookshelves and a few decorative items.
-instruction: Add a cup behind the keyboard.
-taskid: 96718

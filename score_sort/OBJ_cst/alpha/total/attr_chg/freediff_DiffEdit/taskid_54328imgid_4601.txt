@@ -1,5 +1,0 @@
-org_img_id: 4601
-org_cap: The silver car has a matte finish, with a crease running along the hood and a curve to the roofline, its wheels adorned with hubcaps in a pattern.
-trg_cap: The tan car has a matte finish, with a crease running along the hood and a curve to the roofline, its wheels adorned with hubcaps in a pattern.
-instruction: Change the color of the car from silver to tan.
-taskid: 54328

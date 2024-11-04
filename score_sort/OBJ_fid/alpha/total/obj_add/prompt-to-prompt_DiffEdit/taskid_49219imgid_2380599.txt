@@ -1,5 +1,0 @@
-org_img_id: 2380599
-org_cap: person takes a big bite of a fluffy, buttery dosa, the crispy edges crackling as he chews, while simultaneously spearing a dollop of creamy butter chicken with a shiny silver knife.
-trg_cap: person takes a big bite of a fluffy, buttery dosa, the crispy edges crackling as he chews, while simultaneously spearing a dollop of creamy butter chicken with a shiny silver knife next to a sandwich.
-instruction: Add a sandwich next to the knife.
-taskid: 49219

@@ -1,5 +1,0 @@
-org_img_id: 2397687
-org_cap: A black zebra stands on the grassy terrain, walking its ears and its tail, as it surveys its surroundings with a curious gaze.
-trg_cap: A striped zebra stands on the grassy terrain, walking its ears and its tail, as it surveys its surroundings with a curious gaze.
-instruction: Change the color of the zebra from black to striped.
-taskid: 20255

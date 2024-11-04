@@ -1,5 +1,0 @@
-org_img_id: 2329450
-org_cap: a blue plate holds a vibrant still life of a banana, surrounded by a medley of colorful fruits and vegetables, including a juicy orange, a crunchy apple, and a sprig of fresh parsley.
-trg_cap: An oil painting style art features a blue plate holding a vibrant still life of a banana, surrounded by a medley of colorful fruits and vegetables, including a juicy orange, a crunchy apple, and a sprig of fresh parsley.
-instruction: Change the style if the image to oil painting style.
-taskid: 24671

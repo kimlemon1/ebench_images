@@ -1,5 +1,0 @@
-org_img_id: 2318159
-org_cap: A gray cat on a cream-colored couch in front of a large, flat screen tv, surrounded by bookshelves and a warm, crackling fireplace.
-trg_cap: A gray cat on a cream-colored couch in front of a large, flat screen tv, surrounded by medical equipment and the sterile, white walls of a hospital room.
-instruction: Change the background to hospital.
-taskid: 19136

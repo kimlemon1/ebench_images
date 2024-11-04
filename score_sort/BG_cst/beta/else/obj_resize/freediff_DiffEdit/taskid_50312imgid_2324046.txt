@@ -1,5 +1,0 @@
-org_img_id: 2324046
-org_cap: a sleek, silver airplane with a curved wing and a pointed nose, its yellow and black stripes glistening in the sunlight as it soars through the sky.
-trg_cap: a sleek, small, silver airplane with a curved wing and a pointed nose, its yellow and black stripes glistening in the sunlight as it soars through the sky.
-instruction: Make the airplane smaller.
-taskid: 50312

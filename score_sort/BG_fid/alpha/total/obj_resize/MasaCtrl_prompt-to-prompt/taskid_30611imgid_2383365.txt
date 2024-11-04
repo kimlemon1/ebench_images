@@ -1,5 +1,0 @@
-org_img_id: 2383365
-org_cap: "a person in his mid-thirties with a rugged complexion and unkempt brown hair, his feet bare and dusty, his eyes fixed intently on the wind direction."
-trg_cap: a large person in his mid-thirties with a rugged complexion and unkempt brown hair, his feet bare and dusty, his eyes fixed intently on the wind direction.
-instruction: Make the person larger.
-taskid: 30611

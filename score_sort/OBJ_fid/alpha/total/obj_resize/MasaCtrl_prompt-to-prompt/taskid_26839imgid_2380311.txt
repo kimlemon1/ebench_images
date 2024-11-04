@@ -1,5 +1,0 @@
-org_img_id: 2380311
-org_cap: surfing person rides a surfboard, his wetsuit glistening with water droplets.
-trg_cap: surfing person rides a large surfboard, his wetsuit glistening with water droplets.
-instruction: Make the surfboard larger.
-taskid: 26839

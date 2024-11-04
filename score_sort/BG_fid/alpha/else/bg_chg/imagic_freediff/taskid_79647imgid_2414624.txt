@@ -1,5 +1,0 @@
-org_img_id: 2414624
-org_cap: Smiling person, the sun shining down and the sea breeze rustling his green frisbee.
-trg_cap: Smiling person, the sun shining down and the sea breeze rustling his green frisbee, as colorful fish swim behind the glass walls of the aquarium.
-instruction: Change the background to aquarium.
-taskid: 79647

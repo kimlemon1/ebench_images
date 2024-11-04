@@ -1,5 +1,0 @@
-org_img_id: 2362417_0
-org_cap: Person, wearing a blue windbreaker and black pants, with a pair of skis and poles in hand, against a gray winter sky with snow-covered trees in the background.
-trg_cap: Person, wearing a blue windbreaker and black pants, with a pair of skis and poles in hand, against a gray winter sky with ancient ruins in the background.
-instruction: Change the background to ancient ruins.
-taskid: 36760

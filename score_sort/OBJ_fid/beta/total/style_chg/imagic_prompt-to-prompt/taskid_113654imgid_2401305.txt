@@ -1,5 +1,0 @@
-org_img_id: 2401305
-org_cap: The small bathroom features a white sink with a chrome faucet, situated above a black tile floor.
-trg_cap: A graffiti art piece depicts a small bathroom featuring a white sink with a chrome faucet, situated above a black tile floor.
-instruction: Change the style if the image to graffiti art.
-taskid: 113654

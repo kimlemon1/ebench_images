@@ -1,5 +1,0 @@
-org_img_id: 2415922
-org_cap: Person, wearing a black jersey with a purple logo on the chest, and a pair of cycling shorts with a white stripe running down the side, her hair tied back in a ponytail and a pair of sunglasses perched on her forehead.
-trg_cap: In the art gallery, the person, wearing a black jersey with a purple logo on the chest, and a pair of cycling shorts with a white stripe running down the side, her hair tied back in a ponytail and a pair of sunglasses perched on her forehead, moved gracefully among the exhibits.
-instruction: Change the background to art gallery.
-taskid: 94108

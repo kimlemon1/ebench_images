@@ -1,5 +1,0 @@
-org_img_id: 2409018
-org_cap: The brown donut is a shape with a color and a surface.
-trg_cap: The pink donut is a shape with a color and a surface.
-instruction: Change the color of the donut from brown to pink.
-taskid: 81646

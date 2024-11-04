@@ -1,5 +1,0 @@
-org_img_id: 2355999
-org_cap: The slice of sliced cake is brown, with a texture and a sheen, topped with a sprinkle of chopped nuts and a drizzle of chocolate sauce.
-trg_cap: The slice of whole cake is brown, with a texture and a sheen, topped with a sprinkle of chopped nuts and a drizzle of chocolate sauce.
-instruction: Change the state of the cake from sliced to whole.
-taskid: 122440

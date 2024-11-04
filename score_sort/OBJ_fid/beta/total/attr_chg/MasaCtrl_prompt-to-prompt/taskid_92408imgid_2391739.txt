@@ -1,5 +1,0 @@
-org_img_id: 2391739
-org_cap: The vase is a blue vase, standing upright on a wooden table.
-trg_cap: The vase is a purple vase, standing upright on a wooden table.
-instruction: Change the color of the vase from blue to purple.
-taskid: 92408

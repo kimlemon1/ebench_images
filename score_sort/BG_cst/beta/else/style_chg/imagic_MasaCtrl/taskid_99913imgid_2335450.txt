@@ -1,5 +1,0 @@
-org_img_id: 2335450
-org_cap: A large airplane soars into the sky at sunset, its wings and tail gleaming in the warm orange light of the setting sun.
-trg_cap: The pop art style artwork features a large airplane soaring into the sky at sunset, its wings and tail gleaming in the warm orange light of the setting sun.
-instruction: Change the style if the image to pop art style.
-taskid: 99913

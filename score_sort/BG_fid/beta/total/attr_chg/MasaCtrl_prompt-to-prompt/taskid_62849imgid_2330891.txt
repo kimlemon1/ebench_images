@@ -1,5 +1,0 @@
-org_img_id: 2330891
-org_cap: The scene features a black keyboard situated atop a wooden desk with a slight incline, flanked by a pair of headphones and a stack of colorful markers.
-trg_cap: The scene features a brown keyboard situated atop a wooden desk with a slight incline, flanked by a pair of headphones and a stack of colorful markers.
-instruction: Change the color of the keyboard from black to brown.
-taskid: 62849

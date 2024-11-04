@@ -1,5 +1,0 @@
-org_img_id: 2316104
-org_cap: a red train rumbles along the train, its wheels clicking on the train as it winds through the train, the train rising up in the background.
-trg_cap: A red train rumbles along the track, its wheels clicking on the rails as it winds through the gym, the train rising up in the background.
-instruction: Change the background to gym.
-taskid: 42242

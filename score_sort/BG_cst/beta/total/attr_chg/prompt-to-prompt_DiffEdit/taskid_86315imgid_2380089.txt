@@ -1,5 +1,0 @@
-org_img_id: 2380089
-org_cap: A blue, colorful airplane soars through the clear blue sky, its sleek design and curved wings glistening in the sunlight.
-trg_cap: A blue, gray airplane soars through the clear blue sky, its sleek design and curved wings glistening in the sunlight.
-instruction: Change the color of the airplane from colorful to gray.
-taskid: 86315

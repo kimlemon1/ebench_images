@@ -1,5 +1,0 @@
-org_img_id: 2344792
-org_cap: a person sits at a desk, wearing a blue shirt and holding a black laptop, with a glass of water and a phone nearby.
-trg_cap: A person sits at a desk, wearing a blue shirt and holding a black laptop, with a glass of water and a phone nearby, in front of a large aquarium filled with colorful fish.
-instruction: Change the background to aquarium.
-taskid: 39200

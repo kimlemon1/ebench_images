@@ -1,5 +1,0 @@
-org_img_id: 2384334
-org_cap: a person in a white shirt and black pants kicks a yellow frisbee with a friend standing nearby.
-trg_cap: a person in a white shirt and black pants kicks a yellow frisbee with a friend standing nearby, with a dog behind the frisbee.
-instruction: Add a dog behind the frisbee.
-taskid: 43525

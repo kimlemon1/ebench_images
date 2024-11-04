@@ -1,5 +1,0 @@
-org_img_id: 2357917
-org_cap: a plate of grilled salmon, served with steamed cauliflower, asparagus, and cooked carrot, garnished with fresh parsley and lemon wedges.
-trg_cap: a plate of grilled salmon, served with steamed cauliflower, asparagus, and cooked carrot topped with broccoli, garnished with fresh parsley and lemon wedges.
-instruction: Add a broccoli on the carrot.
-taskid: 57271

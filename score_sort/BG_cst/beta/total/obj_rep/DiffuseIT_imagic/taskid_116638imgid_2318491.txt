@@ -1,5 +1,0 @@
-org_img_id: 2318491
-org_cap: The room features a blue, striped chair, a coffee table with a worn-out wooden top, and a gray tv mounted on the wall.
-trg_cap: The room features a blue, striped chair, a coffee table with a worn-out wooden top, and a dining table.
-instruction: Replace the tv with a dining table.
-taskid: 116638

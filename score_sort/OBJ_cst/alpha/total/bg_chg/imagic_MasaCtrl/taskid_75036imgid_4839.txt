@@ -1,5 +1,0 @@
-org_img_id: 4839
-org_cap: a black plate with a small, round, dark brown dumpling in the center, surrounded by a few slices of orange and green vegetables, with a fork placed diagonally across the plate.
-trg_cap: In the dim light of the cave, a black plate with a small, round, dark brown dumpling in the center, surrounded by a few slices of orange and green vegetables, with a fork placed diagonally across the plate, creates a striking contrast against the rocky backdrop.
-instruction: Change the background to cave.
-taskid: 75036

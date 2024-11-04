@@ -1,5 +1,0 @@
-org_img_id: 2352625
-org_cap: The yellow skateboard glides smoothly along the asphalt road, its wheels moving in tandem as the rider's foot shifts to steer and balance.
-trg_cap: The large yellow skateboard glides smoothly along the asphalt road, its wheels moving in tandem as the rider's foot shifts to steer and balance.
-instruction: Make the skateboard larger.
-taskid: 76074

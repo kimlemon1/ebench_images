@@ -1,5 +1,0 @@
-org_img_id: 2360113
-org_cap: the cake is a yellow cake with a layer of strawberry jam and whipped cream on top, topped with a handwritten note that reads in bold black letters.
-trg_cap: The donut is topped with a handwritten note that it reads in bold black letters.
-instruction: Replace the cake with a donut.
-taskid: 85191

@@ -1,5 +1,0 @@
-org_img_id: 2337378
-org_cap: A laptop sits on a cluttered desk, surrounded by papers, pens, and a worn-out chair.
-trg_cap: A laptop sits on a cluttered desk, with a book in front of it, surrounded by papers, pens, and a worn-out chair.
-instruction: Add a book in front of the laptop.
-taskid: 12257

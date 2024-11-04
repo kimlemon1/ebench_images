@@ -1,5 +1,0 @@
-org_img_id: 2350854
-org_cap: A woman sits astride a brown horse with a purple jacket and a gentle expression.
-trg_cap: A woman sits astride a gray horse with a purple jacket and a gentle expression.
-instruction: Change the color of the horse from brown to gray.
-taskid: 110427

@@ -1,5 +1,0 @@
-org_img_id: 2381808
-org_cap: A red fire hydrant stands tall amidst a blanket of freshly fallen snow, its red fire hydrant covered in a layer of frost and snowflakes gently accumulating on its edges.
-trg_cap: A yellow fire hydrant stands tall amidst a blanket of freshly fallen snow, its yellow fire hydrant coveyellow in a layer of frost and snowflakes gently accumulating on its edges.
-instruction: Change the color of the fire hydrant from red to yellow.
-taskid: 33207

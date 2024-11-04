@@ -1,5 +1,0 @@
-org_img_id: 2396209_0
-org_cap: a middle-aged person in worn clothes stands beside a broken-down car, with a mixture of frustration and resignation, while a small pug dog wags its tail and sniffs around the car's wheels.
-trg_cap: A sheep stands beside a broken-down car, while a small pug dog wags his tail and sniffs around the car's wheels.
-instruction: Replace the person with a sheep.
-taskid: 2860

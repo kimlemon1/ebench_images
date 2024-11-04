@@ -1,5 +1,0 @@
-org_img_id: 2319764
-org_cap: A white dog with a reddish collar lies on the grass, its fur slightly matted and its ears lying in the breeze.
-trg_cap: A white bear lies on the grass.
-instruction: Replace the dog with a bear.
-taskid: 5581

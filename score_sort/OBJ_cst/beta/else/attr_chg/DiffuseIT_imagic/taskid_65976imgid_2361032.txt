@@ -1,5 +1,0 @@
-org_img_id: 2361032
-org_cap: The metal fork and silver metal knife lay on the plate, surrounded by a mess of syrup and butter.
-trg_cap: The plastic fork and silver plastic knife lay on the plate, surrounded by a mess of syrup and butter.
-instruction: Change the material of the fork from metal to plastic.
-taskid: 65976

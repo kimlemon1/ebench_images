@@ -1,5 +1,0 @@
-org_img_id: 2344965
-org_cap: a small yellow boat glides across the calm waters of the bay, its wooden boat glistening in the sunlight as it approaches the colorful buildings and church steeple of a small coastal town.
-trg_cap: A small yellow boat glides across the calm waters of the bay, its wooden boat glistening in the sunlight as it approaches the colorful buildings and church steeple of a small coastal town, with a lush tropical jungle providing a vibrant backdrop.
-instruction: Change the background to tropical jungle.
-taskid: 44693

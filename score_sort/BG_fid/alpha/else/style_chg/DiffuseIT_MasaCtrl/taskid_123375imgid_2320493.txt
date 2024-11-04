@@ -1,5 +1,0 @@
-org_img_id: 2320493
-org_cap: A wood boat, with a weathered boat and a sail, lies beached on the shore, surrounded by the tranquil waters of a lake.
-trg_cap: A watercolor painting style art depicts a weathered wood boat with a sail, beached on the shore and surrounded by the tranquil waters of a lake.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 123375

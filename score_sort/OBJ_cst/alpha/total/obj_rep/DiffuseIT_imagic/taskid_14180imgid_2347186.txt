@@ -1,5 +1,0 @@
-org_img_id: 2347186
-org_cap: a black umbrella stands upright on the beach, its circular umbrella and sturdy umbrella silhouetted against the bright blue sky.
-trg_cap: A black elephant stands upright on the beach, silhouetted against the bright blue sky.
-instruction: Replace the umbrella with a elephant.
-taskid: 14180

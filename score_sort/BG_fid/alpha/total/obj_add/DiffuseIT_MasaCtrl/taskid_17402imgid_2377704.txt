@@ -1,5 +1,0 @@
-org_img_id: 2377704
-org_cap: a person sits on a yellow bicycle, with a white dog next to them, its paw on the bicycle's pedal.
-trg_cap: A person sits on a yellow bicycle, with a white dog next to them, its paw on the bicycle's pedal, and a motorcycle next to the bicycle.
-instruction: Add a motorcycle next to the bicycle.
-taskid: 17402

@@ -1,5 +1,0 @@
-org_img_id: 2377869
-org_cap: a silver laptop sits on a wooden desk, flanked by a laptop and a pair of speakers.
-trg_cap: A silver TV sits on a wooden desk, flanked by a pair of speakers.
-instruction: Replace the laptop with a tv.
-taskid: 107968

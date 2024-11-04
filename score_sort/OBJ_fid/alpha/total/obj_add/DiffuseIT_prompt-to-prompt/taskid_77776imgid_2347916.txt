@@ -1,5 +1,0 @@
-org_img_id: 2347916
-org_cap: The scene features a gray tv mounted on a wall, flanked by two red, glossy shelves, and a white vase placed on a low table.
-trg_cap: The scene features a gray tv mounted on a wall, flanked by two red, glossy shelves, a chair next to the tv, and a white vase placed on a low table.
-instruction: Add a chair next to the tv.
-taskid: 77776

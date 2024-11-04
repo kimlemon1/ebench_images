@@ -1,5 +1,0 @@
-org_img_id: 2386733
-org_cap: A standing black striped zebra stands on a rocky terrain, its stripes in the sunlight.
-trg_cap: A standing black gray zebra stands on a rocky terrain, its stripes in the sunlight.
-instruction: Change the color of the zebra from striped to gray.
-taskid: 120237

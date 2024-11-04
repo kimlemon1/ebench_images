@@ -1,5 +1,0 @@
-org_img_id: 2378860
-org_cap: The black train chugged along the tracks, puffing out white clouds of smoke as it approached the station.
-trg_cap: The black train chugged along the tracks through the arid desert, puffing out white clouds of smoke as it approached the station.
-instruction: Change the background to desert.
-taskid: 11351

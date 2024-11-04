@@ -1,5 +1,0 @@
-org_img_id: 2364283
-org_cap: The train is an old train, puffing out white smoke as it sits at the station, surrounded by excited tourists and locals.
-trg_cap: An oil painting style art depicts an old train puffing out white smoke as it sits at the station, surrounded by excited tourists and locals.
-instruction: Change the style if the image to oil painting style.
-taskid: 115525

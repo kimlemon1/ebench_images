@@ -1,5 +1,0 @@
-org_img_id: 2404229
-org_cap: A standing white zebra stands, its stripes glistening in the sunlight, with a sturdy build and a pattern of stripes on its back.
-trg_cap: A standing black zebra stands, its stripes glistening in the sunlight, with a sturdy build and a pattern of stripes on its back.
-instruction: Change the color of the zebra from white to black.
-taskid: 61831

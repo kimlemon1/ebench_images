@@ -1,5 +1,0 @@
-org_img_id: 2384323
-org_cap: person, wearing a black hat and a casual outfit.
-trg_cap: Pizza.
-instruction: Replace the person with a pizza.
-taskid: 84799

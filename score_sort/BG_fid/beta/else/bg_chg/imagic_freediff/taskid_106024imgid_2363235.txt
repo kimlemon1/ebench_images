@@ -1,5 +1,0 @@
-org_img_id: 2363235
-org_cap: a person holds a banana in front of an orange cat on a chair.
-trg_cap: In a hospital setting, a person holds a banana in front of an orange cat on a chair.
-instruction: Change the background to hospital.
-taskid: 106024

@@ -1,5 +1,0 @@
-org_img_id: 2327671
-org_cap: "Person swings his racket, his arm cocked back at a slight angle as he makes contact with the ball, his wrist and forearm flexing as the racket head whips through the air, his eyes fixed on the ball as he tracks its trajectory."
-trg_cap: In the dimly lit cave, Person swings his racket, his arm cocked back at a slight angle as he makes contact with the ball, his wrist and forearm flexing as the racket head whips through the air, his eyes fixed on the ball as he tracks its trajectory.
-instruction: Change the background to cave.
-taskid: 49535

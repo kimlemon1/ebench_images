@@ -1,5 +1,0 @@
-org_img_id: 2351193
-org_cap: a green bench situated against a vibrant yellow wall with a window above it.
-trg_cap: A greyscale photo features a green bench situated against a vibrant yellow wall with a window above it.
-instruction: Change the style if the image to grey scale.
-taskid: 106634

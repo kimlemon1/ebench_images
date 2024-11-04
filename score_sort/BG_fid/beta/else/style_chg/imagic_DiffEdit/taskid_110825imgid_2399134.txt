@@ -1,5 +1,0 @@
-org_img_id: 2399134
-org_cap: person holds a sports ball in his gloved hand, his eyes fixed intently on the action unfolding around him.
-trg_cap: A Van Gogh style art depicts a person holding a sports ball in his gloved hand, his eyes fixed intently on the action unfolding around him.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 110825

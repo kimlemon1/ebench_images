@@ -1,5 +1,0 @@
-org_img_id: 1592454
-org_cap: a green bus sporting a distinctive logo on its side.
-trg_cap: a large green bus sporting a distinctive logo on its side.
-instruction: Make the bus larger.
-taskid: 7786

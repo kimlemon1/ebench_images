@@ -1,5 +1,0 @@
-org_img_id: 2383035
-org_cap: a blue surfboard glides through the foamy waters, with person's legs splayed and arms outstretched as he attempts to ride the wave.
-trg_cap: a small blue surfboard glides through the foamy waters, with person's legs splayed and arms outstretched as he attempts to ride the wave.
-instruction: Make the surfboard smaller.
-taskid: 28422

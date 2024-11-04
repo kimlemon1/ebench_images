@@ -1,5 +1,0 @@
-org_img_id: 2326613
-org_cap: a brown dog, the street.
-trg_cap: a brown dog, a skateboard next to the dog, the street.
-instruction: Add a skateboard next to the dog.
-taskid: 112943

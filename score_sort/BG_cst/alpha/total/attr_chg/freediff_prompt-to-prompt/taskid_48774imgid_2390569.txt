@@ -1,5 +1,0 @@
-org_img_id: 2390569
-org_cap: blue airplane lands smoothly on the runway, its body gleaming in the sunlight as it taxis to a stop.
-trg_cap: tan airplane lands smoothly on the runway, its body gleaming in the sunlight as it taxis to a stop.
-instruction: Change the color of the airplane from blue to tan.
-taskid: 48774

@@ -1,5 +1,0 @@
-org_img_id: 2372657
-org_cap: "person on a wood bench, wearing a black coat and black boots, with a serene expression on her face."
-trg_cap: Person on a wood bench in a cave, wearing a black coat and black boots, with a serene expression on her face.
-instruction: Change the background to cave.
-taskid: 109676

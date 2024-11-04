@@ -1,5 +1,0 @@
-org_img_id: 1705
-org_cap: The scene features a black chair, placed on a polished wood floor, with a gray laptop sitting on the chair's armrest.
-trg_cap: The scene features a black chair, placed on a polished wood floor, with a gray laptop sitting on the chair's armrest and a book next to the laptop.
-instruction: Add a book next to the laptop.
-taskid: 65352

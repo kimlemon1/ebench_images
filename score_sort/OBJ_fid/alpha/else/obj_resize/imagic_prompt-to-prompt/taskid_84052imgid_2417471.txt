@@ -1,5 +1,0 @@
-org_img_id: 2417471
-org_cap: a rugged-faced person in a worn woolen cloak gestures towards a majestic horse with a gleaming coat and a mane, standing on the mountainous terrain.
-trg_cap: a rugged-faced person in a worn woolen cloak gestures towards a large, majestic horse with a gleaming coat and a mane, standing on the mountainous terrain.
-instruction: Make the horse larger.
-taskid: 84052

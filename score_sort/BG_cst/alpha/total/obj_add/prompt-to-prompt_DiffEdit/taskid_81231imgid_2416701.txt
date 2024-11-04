@@ -1,5 +1,0 @@
-org_img_id: 2416701
-org_cap: a person sits on a bench, wearing a backpack and holding a newspaper, surrounded by other passengers waiting for their trains in a bustling station.
-trg_cap: A person sits on a bench, wearing a backpack with a suitcase in front of it and holding a newspaper, surrounded by other passengers waiting for their trains in a bustling station.
-instruction: Add a suitcase in front of the backpack.
-taskid: 81231

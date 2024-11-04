@@ -1,5 +1,0 @@
-org_img_id: 2350586
-org_cap: a skateboarding person down a winding path, his jeans and t-shirt a testament to his love for the outdoors, his skateboard across the pavement as the sun dips below the horizon.
-trg_cap: A skateboarding person down a winding path, his jeans and t-shirt a testament to his love for the gym, his skateboard across the pavement as the sun dips below the horizon.
-instruction: Change the background to gym.
-taskid: 36669

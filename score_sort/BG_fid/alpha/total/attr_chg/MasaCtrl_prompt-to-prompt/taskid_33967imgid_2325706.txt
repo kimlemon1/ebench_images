@@ -1,5 +1,0 @@
-org_img_id: 2325706
-org_cap: A clear vase sits on a wooden table, partially filled with a bouquet of fresh flowers, with a pint of beer and a glass of ale resting beside the vase, both reflecting the warm sunlight streaming through the open window.
-trg_cap: A red vase sits on a wooden table, partially filled with a bouquet of fresh flowers, with a pint of beer and a glass of ale resting beside the vase, both reflecting the warm sunlight streaming through the open window.
-instruction: Change the color of the vase from clear to red.
-taskid: 33967

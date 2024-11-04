@@ -1,5 +1,0 @@
-org_img_id: 2392148
-org_cap: The scene features a black wood and metal bench, situated beneath the branches of a bare tree, with a rolling landscape of green hills and a distant river in the background.
-trg_cap: The scene features a black wood and metal bench, situated beneath the branches of a bare tree, with a stadium in the background.
-instruction: Change the background to stadium.
-taskid: 17121

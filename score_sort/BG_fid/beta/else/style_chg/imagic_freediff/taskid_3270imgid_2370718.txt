@@ -1,5 +1,0 @@
-org_img_id: 2370718
-org_cap: A black tv sits on a bedside table, surrounded by a canopy of white curtains, with a sitcom episode playing on the black tv featuring a cartoon family with a bright yellow background.
-trg_cap: A Van Gogh style art features a black TV sitting on a bedside table, surrounded by a canopy of white curtains, with a sitcom episode playing on the TV that showcases a cartoon family against a bright yellow background.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 3270

@@ -1,5 +1,0 @@
-org_img_id: 2377297
-org_cap: The sink is a white sink with a chrome faucet.
-trg_cap: The mosaic art features a white sink with a chrome faucet.
-instruction: Change the style if the image to mosaic art.
-taskid: 97419

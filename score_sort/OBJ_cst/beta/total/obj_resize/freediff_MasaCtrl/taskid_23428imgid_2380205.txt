@@ -1,5 +1,0 @@
-org_img_id: 2380205
-org_cap: a snow-covered bench, with a bicycle wheel resting against its back, its bench covered in a thick layer of white snow, and its bench worn smooth by years of use.
-trg_cap: a large, snow-covered bench, with a bicycle wheel resting against its back, its bench covered in a thick layer of white snow, and its bench worn smooth by years of use.
-instruction: Make the bench larger.
-taskid: 23428

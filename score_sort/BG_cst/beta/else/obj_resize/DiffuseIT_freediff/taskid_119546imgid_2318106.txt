@@ -1,5 +1,0 @@
-org_img_id: 2318106
-org_cap: a small, single-engine airplane with a white body and a tail section with a distinctive t-shaped design, flying steadily through the clear blue sky with a slight contrail behind it.
-trg_cap: a large, single-engine airplane with a white body and a tail section with a distinctive t-shaped design, flying steadily through the clear blue sky with a slight contrail behind it.
-instruction: Make the airplane larger.
-taskid: 119546

@@ -1,5 +1,0 @@
-org_img_id: 2327643
-org_cap: An umbrella stands alone on a rocky outcropping overlooking a vast expanse of ocean, its black umbrella billowing in the wind.
-trg_cap: A dog stands alone on a rocky outcropping overlooking a vast expanse of ocean.
-instruction: Replace the umbrella with a dog.
-taskid: 10242

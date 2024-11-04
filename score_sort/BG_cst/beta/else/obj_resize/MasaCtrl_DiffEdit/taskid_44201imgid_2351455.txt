@@ -1,5 +1,0 @@
-org_img_id: 2351455
-org_cap: a small person with a round face and big brown eyes with a yellow toothbrush in their mouth, with a few strands of hair framing their face.
-trg_cap: a small person with a small, round face and big brown eyes with a yellow toothbrush in their mouth, with a few strands of hair framing their face.
-instruction: Make the person smaller.
-taskid: 44201

@@ -1,5 +1,0 @@
-org_img_id: 2352593
-org_cap: Person down the street, wearing a black suit with a green tie and a crisp white shirt, his black dress shoes in the sunlight.
-trg_cap: Person down the street, wearing a black suit with a green tie and a crisp white shirt, his black dress shoes in the sunlight, standing on a grass field.
-instruction: Change the background to grass field.
-taskid: 40300

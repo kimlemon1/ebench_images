@@ -1,5 +1,0 @@
-org_img_id: 2396705
-org_cap: a blue kite, held by a person with a gentle grip, soaring above the cloudy sky.
-trg_cap: The cartoon-style art depicts a blue kite, held with a gentle grip by a person, soaring above the cloudy sky.
-instruction: Change the style if the image to cartoon style.
-taskid: 43276

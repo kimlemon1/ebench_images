@@ -1,5 +1,0 @@
-org_img_id: 2345852
-org_cap: The bright yellow bus with a turquoise stripe and tinted windows is parked on the side of the road, its wheels still spinning slowly as it comes to a stop.
-trg_cap: The bright yellow bus with a turquoise stripe and tinted windows is parked on the side of the road inside a vast cave, its wheels still spinning slowly as it comes to a stop.
-instruction: Change the background to cave.
-taskid: 40423

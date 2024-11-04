@@ -1,5 +1,0 @@
-org_img_id: 2414680
-org_cap: The vase is a white vase sitting on a glass table top with a subtle reflection of the surrounding environment.
-trg_cap: The vase is a pink vase sitting on a glass table top with a subtle reflection of the surrounding environment.
-instruction: Change the color of the vase from white to pink.
-taskid: 104760

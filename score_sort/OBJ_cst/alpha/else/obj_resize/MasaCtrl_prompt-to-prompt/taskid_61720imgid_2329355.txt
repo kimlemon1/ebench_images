@@ -1,5 +1,0 @@
-org_img_id: 2329355
-org_cap: a person in a wetsuit and flippers along the beach, a bright yellow surfboard.
-trg_cap: a person in a wetsuit and flippers along the beach, a bright yellow small surfboard.
-instruction: Make the surfboard smaller.
-taskid: 61720

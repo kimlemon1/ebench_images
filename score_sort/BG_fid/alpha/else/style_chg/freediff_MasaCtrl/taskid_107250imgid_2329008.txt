@@ -1,5 +1,0 @@
-org_img_id: 2329008
-org_cap: A sitting person sits astride a horse, with a beach towel and driftwood scattered around them.
-trg_cap: An oil painting style artwork depicts a person sitting astride a horse, surrounded by a beach towel and driftwood.
-instruction: Change the style if the image to oil painting style.
-taskid: 107250

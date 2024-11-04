@@ -1,5 +1,0 @@
-org_img_id: 2368286
-org_cap: A gray train glides smoothly along the tracks, its wheels clicking in unison as it approaches the station platform.
-trg_cap: A gray train glides smoothly along the tracks, its wheels clicking in unison as it approaches the station platform, which is adjacent to a renowned museum showcasing historical artifacts.
-instruction: Change the background to museum.
-taskid: 71455

@@ -1,5 +1,0 @@
-org_img_id: 2336339
-org_cap: The scene features a white wicker TV stand with a TV mounted on it, resting on a light beige carpeted floor.
-trg_cap: A Van Gogh style art features a scene with a white wicker TV stand and a TV mounted on it, resting on a light beige carpeted floor.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 87189

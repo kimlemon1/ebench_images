@@ -1,5 +1,0 @@
-org_img_id: 2365132
-org_cap: An eating, standing giraffe stands, its neck and legs, its fur blending with the rocky terrain, its eyes.
-trg_cap: An eating, standing giraffe stands, its neck and legs, its fur blending with the rustic countryside farm, its eyes.
-instruction: Change the background to country side farm.
-taskid: 74349

@@ -1,5 +1,0 @@
-org_img_id: 2378746
-org_cap: a standing, walking person across a green grassy field, a colorful kite and a kite behind her.
-trg_cap: a small standing, walking person across a green grassy field, a colorful kite and a kite behind her.
-instruction: Make the person smaller.
-taskid: 84928

@@ -1,5 +1,0 @@
-org_img_id: 2387479
-org_cap: A young person sits on a cart with a large metal container attached to the back.
-trg_cap: A young person sits on a cart with a large metal container attached to the back, with a teddy bear next to them.
-instruction: Add a teddy bear next to the person.
-taskid: 91545

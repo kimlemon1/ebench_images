@@ -1,5 +1,0 @@
-org_img_id: 2360807
-org_cap: a lone person in a gray sweater along the stone wall, a large clock face mounted on a metal pole, with the blue ocean stretching out behind.
-trg_cap: a lone person in a gray sweater along the stone wall, a large clock face mounted on a metal pole, with the blue ocean stretching out behind and the majestic peaks of a mountain top in the distance.
-instruction: Change the background to mountain top.
-taskid: 85048

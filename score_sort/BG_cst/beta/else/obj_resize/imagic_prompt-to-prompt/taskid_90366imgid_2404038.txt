@@ -1,5 +1,0 @@
-org_img_id: 2404038
-org_cap: The green bowl is filled with a mixture of crunchy cereal, juicy blueberries, and sliced peaches.
-trg_cap: The small green bowl is filled with a mixture of crunchy cereal, juicy blueberries, and sliced peaches.
-instruction: Make the bowl smaller.
-taskid: 90366

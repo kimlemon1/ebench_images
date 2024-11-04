@@ -1,5 +1,0 @@
-org_img_id: 713823
-org_cap: A red bus navigates the busy city street alongside pedestrians and other vehicles.
-trg_cap: A skateboard navigates the busy city street alongside them and other vehicles.
-instruction: Replace the bus with a skateboard.
-taskid: 79274

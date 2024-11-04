@@ -1,5 +1,0 @@
-org_img_id: 2358534
-org_cap: An airplane soars through the sky, its silver body glistening in the sunlight as it leaves a trail of smoke behind it.
-trg_cap: A grayscale photo captures an airplane soaring through the sky, its silver body glistening in the sunlight as it leaves a trail of smoke behind it.
-instruction: Change the style if the image to grey scale.
-taskid: 102521

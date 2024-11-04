@@ -1,5 +1,0 @@
-org_img_id: 1592028
-org_cap: a woman in her 60s with curly brown hair and a floral hat stands in front of a cake with pink and white flowers on it, her eyes fixed on the cake.
-trg_cap: A woman in her 60s with curly brown hair and a floral hat stands in front of a dining table, her eyes fixed on it.
-instruction: Replace the cake with a dining table.
-taskid: 43505

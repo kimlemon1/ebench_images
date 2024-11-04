@@ -1,5 +1,0 @@
-org_img_id: 2352727
-org_cap: a person holds an orange baseball bat, standing in a grassy area surrounded by a chain-link fence.
-trg_cap: a person holds a small orange baseball bat, standing in a grassy area surrounded by a chain-link fence.
-instruction: Make the baseball bat smaller.
-taskid: 56433

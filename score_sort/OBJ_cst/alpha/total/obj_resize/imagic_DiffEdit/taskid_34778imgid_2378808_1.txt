@@ -1,5 +1,0 @@
-org_img_id: 2378808_1
-org_cap: a middle-aged man in a white shirt and beige pants is riding a black motorcycle, wearing a pair of worn jeans and a white hat, with a cigarette dangling from his mouth.
-trg_cap: a middle-aged man in a white shirt and beige pants is riding a small black motorcycle, wearing a pair of worn jeans and a white hat, with a cigarette dangling from his mouth.
-instruction: Make the motorcycle smaller.
-taskid: 34778

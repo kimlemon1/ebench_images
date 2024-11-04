@@ -1,5 +1,0 @@
-org_img_id: 2388562
-org_cap: an white airplane flying steadily and smoothly through the sky with its wings slightly tilted upwards.
-trg_cap: an checkered airplane flying steadily and smoothly through the sky with its wings slightly tilted upwards.
-instruction: Change the color of the airplane from white to checkered.
-taskid: 2726

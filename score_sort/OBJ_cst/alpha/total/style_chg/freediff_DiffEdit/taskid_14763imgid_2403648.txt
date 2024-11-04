@@ -1,5 +1,0 @@
-org_img_id: 2403648
-org_cap: Person in a modest living room, wearing a yellow shirt and jeans, surrounded by a worn-out couch, a tv with a bulky antenna, and a bookshelf with a few books and a music instrument.
-trg_cap: A grey scale photo depicts a person in a modest living room, wearing a yellow shirt and jeans, surrounded by a worn-out couch, a TV with a bulky antenna, and a bookshelf with a few books and a musical instrument.
-instruction: Change the style if the image to grey scale.
-taskid: 14763

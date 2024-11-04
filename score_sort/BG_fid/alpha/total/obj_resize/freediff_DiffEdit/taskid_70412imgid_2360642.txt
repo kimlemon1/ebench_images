@@ -1,5 +1,0 @@
-org_img_id: 2360642
-org_cap: Person with a purple helmet and green knee pads.
-trg_cap: Person with a purple helmet and green knee pads and a large skateboard.
-instruction: Make the skateboard larger.
-taskid: 70412

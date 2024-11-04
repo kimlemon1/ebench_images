@@ -1,5 +1,0 @@
-org_img_id: 2406488
-org_cap: a brown running horse up a green hillside, mane and tail, with the distant silhouette of a mountain range in the background.
-trg_cap: a blond running horse up a green hillside, mane and tail, with the distant silhouette of a mountain range in the background.
-instruction: Change the color of the horse from brown to blond.
-taskid: 104879

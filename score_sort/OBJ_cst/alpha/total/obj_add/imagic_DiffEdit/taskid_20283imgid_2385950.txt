@@ -1,5 +1,0 @@
-org_img_id: 2385950
-org_cap: A surfing person carves through the waves with precision and style, his green wetsuit glistening in the sunlight as he performs a flawless aerial, his board flying through the air as he rotates mid-air, the ocean spray and wind his hair.
-trg_cap: A surfing person carves through the waves with precision and style, his green wetsuit glistening in the sunlight as he performs a flawless aerial, his board flying through the air next to him as he rotates mid-air, the ocean spray and wind his hair.
-instruction: Add a surfboard next to the person.
-taskid: 20283

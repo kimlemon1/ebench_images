@@ -1,5 +1,0 @@
-org_img_id: 2396449
-org_cap: person sits at a table on a boat, holding a white cup and wearing a gray sweater and glasses.
-trg_cap: Person sits at a table on a boat, holding a white cup with a cake on it and wearing a gray sweater and glasses.
-instruction: Add a cake on the cup.
-taskid: 46639

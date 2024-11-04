@@ -1,5 +1,0 @@
-org_img_id: 2366145
-org_cap: A white zebra eating on the grass in the enclosure, its zebra glistening in the sunlight, with a few leaves and branches visible in the background.
-trg_cap: A beige zebra eating on the grass in the enclosure, its zebra glistening in the sunlight, with a few leaves and branches visible in the background.
-instruction: Change the color of the zebra from white to beige.
-taskid: 8699

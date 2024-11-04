@@ -1,5 +1,0 @@
-org_img_id: 2326585
-org_cap: Person rides a horse along the beach, with the sun casting a warm glow on their bronzed skin, while a small boat floats in the distance.
-trg_cap: An oil painting style art depicts a person riding a horse along the beach, with the sun casting a warm glow on their bronzed skin, while a small boat floats in the distance.
-instruction: Change the style if the image to oil painting style.
-taskid: 49456

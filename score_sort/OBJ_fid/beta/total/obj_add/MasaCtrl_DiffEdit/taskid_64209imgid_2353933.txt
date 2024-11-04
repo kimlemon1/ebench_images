@@ -1,5 +1,0 @@
-org_img_id: 2353933
-org_cap: A person wearing a blue snowboard is sitting on the snow
-trg_cap: A person wearing a blue snowboard is sitting on the snow, with a horse next to the person
-instruction: Add a horse next to the person.
-taskid: 64209

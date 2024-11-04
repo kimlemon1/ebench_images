@@ -1,5 +1,0 @@
-org_img_id: 2416441
-org_cap: a blue airplane with white stripes and a red tail flies across the sky.
-trg_cap: A sink flies across the sky.
-instruction: Replace the airplane with a sink.
-taskid: 100968

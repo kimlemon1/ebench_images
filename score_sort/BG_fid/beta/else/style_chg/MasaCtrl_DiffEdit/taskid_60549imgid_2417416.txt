@@ -1,5 +1,0 @@
-org_img_id: 2417416
-org_cap: A black cat sits on a worn green bench, its fur glistening in the morning dew, its eyes on a nearby patch of sunlight.
-trg_cap: A Van Gogh style art features a black cat sitting on a worn green bench, its fur glistening in the morning dew as its eyes focus on a nearby patch of sunlight.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 60549

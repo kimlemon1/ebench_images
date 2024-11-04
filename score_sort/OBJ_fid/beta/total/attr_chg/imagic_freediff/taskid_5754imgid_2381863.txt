@@ -1,5 +1,0 @@
-org_img_id: 2381863
-org_cap: A blue airplane soars through the sky, its wings stretched wide and its engines roaring loudly as it gains altitude and speed.
-trg_cap: A maroon airplane soars through the sky, its wings stretched wide and its engines roaring loudly as it gains altitude and speed.
-instruction: Change the color of the airplane from blue to maroon.
-taskid: 5754

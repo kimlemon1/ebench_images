@@ -1,5 +1,0 @@
-org_img_id: 2394682
-org_cap: a sleek, silver airplane soars through the clear blue sky, its engines roaring loudly as it leaves a trail of white smoke behind it.
-trg_cap: A watercolor painting style art features a sleek, silver airplane soaring through the clear blue sky, its engines roaring loudly as it leaves a trail of white smoke behind it.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 74335

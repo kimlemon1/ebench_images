@@ -1,5 +1,0 @@
-org_img_id: 2348943
-org_cap: a lone person on skis, his bright yellow jumpsuit a blur across the snowy landscape.
-trg_cap: An ancient Egyptian-style artwork depicts a lone person on skis, their bright yellow jumpsuit a blur across the snowy landscape.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 117832

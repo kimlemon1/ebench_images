@@ -1,5 +1,0 @@
-org_img_id: 2380662
-org_cap: The striped shirt with red polka dots and a red necktie is worn by a person with a bright smile.
-trg_cap: A cartoon style art features a person with a bright smile wearing a striped shirt with red polka dots and a red necktie.
-instruction: Change the style if the image to cartoon style.
-taskid: 88946

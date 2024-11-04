@@ -1,5 +1,0 @@
-org_img_id: 1592456
-org_cap: the scene features a group of people sitting on a couch and chairs in a living room, surrounded by a tv, coffee table, and various pieces of furniture.
-trg_cap: The scene features a group of people sitting on a couch, which is under the TV, and chairs in a living room, surrounded by a TV, coffee table, and various pieces of furniture.
-instruction: Add a couch under the tv.
-taskid: 66549

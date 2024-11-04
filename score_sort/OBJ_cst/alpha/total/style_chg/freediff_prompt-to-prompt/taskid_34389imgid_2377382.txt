@@ -1,5 +1,0 @@
-org_img_id: 2377382
-org_cap: a white airplane flies across the clear blue sky.
-trg_cap: A cartoon-style artwork features a white airplane flying across a clear blue sky.
-instruction: Change the style if the image to cartoon style.
-taskid: 34389

@@ -1,5 +1,0 @@
-org_img_id: 2551
-org_cap: A white truck is parked on a dirt driveway, surrounded by a rustic farm landscape with a large tree, a barn, and a dusty road.
-trg_cap: A white truck is parked on a dirt driveway, surrounded by a desert landscape with a large tree, a barn, and a dusty road.
-instruction: Change the background to desert.
-taskid: 17444

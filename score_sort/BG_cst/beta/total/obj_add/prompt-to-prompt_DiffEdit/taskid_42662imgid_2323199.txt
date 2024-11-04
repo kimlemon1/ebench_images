@@ -1,5 +1,0 @@
-org_img_id: 2323199
-org_cap: a person stands on a grassy lawn, with a blue frisbee hovering above his head, its frisbee spinning slowly as it arcs through the air.
-trg_cap: A person stands on a grassy lawn, with a blue frisbee hovering above his head, its frisbee spinning slowly as it arcs through the air, and a dog in front of the frisbee.
-instruction: Add a dog in front of the frisbee.
-taskid: 42662

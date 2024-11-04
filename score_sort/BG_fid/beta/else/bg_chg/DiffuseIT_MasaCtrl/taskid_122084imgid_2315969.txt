@@ -1,5 +1,0 @@
-org_img_id: 2315969
-org_cap: a red truck, parked on the street with its doors open, revealing a dashboard and engine compartment.
-trg_cap: A red truck, parked on the street with its doors open, revealing a dashboard and engine compartment, stood against the backdrop of a vast desert landscape.
-instruction: Change the background to desert.
-taskid: 122084

@@ -1,5 +1,0 @@
-org_img_id: 2396815
-org_cap: a walking black bird on the beach, its feathers by the gentle ocean breeze.
-trg_cap: a walking brown bird on the beach, its feathers by the gentle ocean breeze.
-instruction: Change the color of the bird from black to brown.
-taskid: 115026

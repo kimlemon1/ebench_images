@@ -1,5 +1,0 @@
-org_img_id: 2390097
-org_cap: Jumping, skateboarding, young person, his black skateboard wheels screeching as he a smooth trick on the pavement.
-trg_cap: Jumping, skateboarding, young person, his purple skateboard wheels screeching as he a smooth trick on the pavement.
-instruction: Change the color of the skateboard from black to purple.
-taskid: 118434

@@ -1,5 +1,0 @@
-org_img_id: 2374644
-org_cap: "a person sits on a person with a red person above their head, shielding them from the person."
-trg_cap: An oil painting style artwork depicts a person sitting on another person, with a red figure above their head, shielding them from someone.
-instruction: Change the style if the image to oil painting style.
-taskid: 83324

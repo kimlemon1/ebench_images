@@ -1,5 +1,0 @@
-org_img_id: 2362977
-org_cap: a lone person stands under a black umbrella, a splash of color against the gray rainy day.
-trg_cap: An oil painting style art depicts a lone person standing under a black umbrella, a splash of color against the gray rainy day.
-instruction: Change the style if the image to oil painting style.
-taskid: 44369

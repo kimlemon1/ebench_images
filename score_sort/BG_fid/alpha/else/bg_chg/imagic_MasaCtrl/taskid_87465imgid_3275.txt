@@ -1,5 +1,0 @@
-org_img_id: 3275
-org_cap: A red car zooms across the intersection, its tires screeching as it takes the turn.
-trg_cap: A red car zooms across the intersection, its tires screeching as it takes the turn, with a sprawling grass field in the background.
-instruction: Change the background to grass field.
-taskid: 87465

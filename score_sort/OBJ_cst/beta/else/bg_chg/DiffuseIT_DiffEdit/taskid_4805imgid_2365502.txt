@@ -1,5 +1,0 @@
-org_img_id: 2365502
-org_cap: A standing, young, blond, smiling person in a white tennis outfit holds a tennis racket on a lush green tennis court, playing.
-trg_cap: A standing, young, blond, smiling person in a white tennis outfit holds a tennis racket on a stage in a concert hall, playing.
-instruction: Change the background to concert hall.
-taskid: 4805

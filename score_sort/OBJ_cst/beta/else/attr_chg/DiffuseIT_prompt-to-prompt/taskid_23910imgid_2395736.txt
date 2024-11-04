@@ -1,5 +1,0 @@
-org_img_id: 2395736
-org_cap: "a yellow train with a train and a train on the side, hauling a long line of train cars across the train, with the train in the background."
-trg_cap: "a maroon train with a train and a train on the side, hauling a long line of train cars across the train, with the train in the background."
-instruction: Change the color of the train from yellow to maroon.
-taskid: 23910

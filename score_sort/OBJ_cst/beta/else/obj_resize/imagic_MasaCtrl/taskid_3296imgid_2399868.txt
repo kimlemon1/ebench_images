@@ -1,5 +1,0 @@
-org_img_id: 2399868
-org_cap: The sink is a white sink with a stainless steel faucet and a black granite countertop.
-trg_cap: The sink is a small white sink with a stainless steel faucet and a black granite countertop.
-instruction: Make the sink smaller.
-taskid: 3296

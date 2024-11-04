@@ -1,5 +1,0 @@
-org_img_id: 2352397
-org_cap: The orange cat sits on the bed, its fur fluffed up in a peculiar way, with its paws under its body and its tail high, as if on the soft blanket.
-trg_cap: A Van Gogh style art depicts an orange cat sitting on the bed, its fur fluffed up in a peculiar way, with its paws under its body and its tail high, as if on the soft blanket.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 82784

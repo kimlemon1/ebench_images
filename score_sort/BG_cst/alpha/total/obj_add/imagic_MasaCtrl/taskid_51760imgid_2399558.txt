@@ -1,5 +1,0 @@
-org_img_id: 2399558
-org_cap: The dark glass table top reflects the light from the window, casting a subtle glow on the white keyboard and surrounding office equipment.
-trg_cap: The dark glass table top reflects the light from the window, casting a subtle glow on the white keyboard, the TV to the left of the keyboard, and surrounding office equipment.
-instruction: Add a tv on the left side of the keyboard.
-taskid: 51760

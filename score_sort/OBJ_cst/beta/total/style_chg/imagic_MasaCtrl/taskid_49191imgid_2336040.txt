@@ -1,5 +1,0 @@
-org_img_id: 2336040
-org_cap: a golden clock with intricate carvings and a large elephant perched on top, surrounded by a red background.
-trg_cap: An ancient Egyptian-style artwork features a golden clock with intricate carvings and a large elephant perched on top, all set against a red background.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 49191

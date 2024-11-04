@@ -1,5 +1,0 @@
-org_img_id: 2359793
-org_cap: Person on a rocky coastline, wearing rubber boots and a kite with a striped kite, as the wind the kite high above the seaweed-covered rocks.
-trg_cap: Person on a sandy desert, wearing rubber boots and a kite with a striped kite, as the wind the kite high above the sand dunes.
-instruction: Change the background to desert.
-taskid: 93712

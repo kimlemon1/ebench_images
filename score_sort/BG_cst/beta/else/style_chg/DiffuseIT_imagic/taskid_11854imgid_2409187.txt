@@ -1,5 +1,0 @@
-org_img_id: 2409187
-org_cap: An orange airplane flies through the gray sky.
-trg_cap: A grayscale photo shows an orange airplane flying through the gray sky.
-instruction: Change the style if the image to grey scale.
-taskid: 11854

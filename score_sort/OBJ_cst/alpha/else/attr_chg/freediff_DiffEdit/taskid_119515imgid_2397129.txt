@@ -1,5 +1,0 @@
-org_img_id: 2397129
-org_cap: a red train with a bright yellow mcdonald's restaurant in the background, and a red train with a train and trains in the foreground.
-trg_cap: a purple train with a bright yellow mcdonald's restaurant in the background, and a purple train with a train and trains in the foreground.
-instruction: Change the color of the train from red to purple.
-taskid: 119515

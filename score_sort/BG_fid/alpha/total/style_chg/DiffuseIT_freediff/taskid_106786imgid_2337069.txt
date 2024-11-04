@@ -1,5 +1,0 @@
-org_img_id: 2337069
-org_cap: The scene features a black keyboard placed on a glass desk with a subtle metallic trim, surrounded by a minimalist workspace with a few scattered papers and a sleek, silver laptop.
-trg_cap: A grey scale photo features a black keyboard placed on a glass desk with a subtle metallic trim, surrounded by a minimalist workspace with a few scattered papers and a sleek, silver laptop.
-instruction: Change the style if the image to grey scale.
-taskid: 106786

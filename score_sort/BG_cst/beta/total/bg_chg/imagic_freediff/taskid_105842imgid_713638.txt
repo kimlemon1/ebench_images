@@ -1,5 +1,0 @@
-org_img_id: 713638
-org_cap: a blue bus, driven by a person and filled with excited tourists.
-trg_cap: A blue bus, driven by a person and filled with excited tourists, traveled across a vast snow field.
-instruction: Change the background to snow field.
-taskid: 105842

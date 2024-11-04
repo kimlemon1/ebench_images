@@ -1,5 +1,0 @@
-org_img_id: 2373353
-org_cap: a lone person is suspended in mid-air, his body a blur as he above the cloudy sky on a windswept kiteboard.
-trg_cap: A graffiti art depicts a lone person suspended in mid-air, his body a blur as he soars above the cloudy sky on a windswept kiteboard.
-instruction: Change the style if the image to graffiti art.
-taskid: 87782

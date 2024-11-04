@@ -1,5 +1,0 @@
-org_img_id: 2326673
-org_cap: a white airplane with a blue sky above and a slight haze in the distance.
-trg_cap: a large white airplane with a blue sky above and a slight haze in the distance.
-instruction: Make the airplane larger.
-taskid: 91166

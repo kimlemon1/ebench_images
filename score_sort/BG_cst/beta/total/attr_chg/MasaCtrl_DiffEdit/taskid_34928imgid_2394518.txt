@@ -1,5 +1,0 @@
-org_img_id: 2394518
-org_cap: Caucasian person's fingers across the tennis racket, her ponytail jumping with each swing, as she is playing to hit a forehand winner with a burst of athletic grace.
-trg_cap: Caucasian person's fingers across the tennis racket, her ponytail jumping with each swing, as she is playing to hit a forehand winner with a burst of athletic grace.
-instruction: Change the color of the person from caucasian to chinese.
-taskid: 34928

@@ -1,5 +1,0 @@
-org_img_id: 2355938
-org_cap: the cat is a grey and white tabby with a fluffy coat and green eyes.
-trg_cap: A Van Gogh style art piece features a grey and white tabby cat with a fluffy coat and green eyes.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 76087

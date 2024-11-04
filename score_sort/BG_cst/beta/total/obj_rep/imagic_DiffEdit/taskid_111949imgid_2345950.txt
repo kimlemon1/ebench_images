@@ -1,5 +1,0 @@
-org_img_id: 2345950
-org_cap: a black car drives through the rain-soaked intersection, passing a red traffic light.
-trg_cap: A truck drives through the intersection, passing the red traffic light.
-instruction: Replace the car with a truck.
-taskid: 111949

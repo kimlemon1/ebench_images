@@ -1,5 +1,0 @@
-org_img_id: 2328977
-org_cap: A green boat sits on the shore, its wooden weathered to a warm, honey color, and its sailcloth flapping gently in the misty morning air.
-trg_cap: A large green boat sits on the shore, its wooden weathered to a warm, honey color, and its sailcloth flapping gently in the misty morning air.
-instruction: Make the boat larger.
-taskid: 109403

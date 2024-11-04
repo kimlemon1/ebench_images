@@ -1,5 +1,0 @@
-org_img_id: 2329664
-org_cap: a white airplane flies across a bright blue sky with a few wispy clouds.
-trg_cap: a large white airplane flies across a bright blue sky with a few wispy clouds.
-instruction: Make the airplane larger.
-taskid: 94239

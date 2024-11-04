@@ -1,5 +1,0 @@
-org_img_id: 2371278
-org_cap: Blond person rides a brown skateboard through a skatepark.
-trg_cap: Blond person rides a large brown skateboard through a skatepark.
-instruction: Make the skateboard larger.
-taskid: 120058

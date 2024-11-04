@@ -1,5 +1,0 @@
-org_img_id: 2323424
-org_cap: A single-engine airplane, with a red and white color scheme, taxis down the runway, its tires screeching on the asphalt as it gains speed and lifts off into the sky.
-trg_cap: A large single-engine airplane, with a red and white color scheme, taxis down the runway, its tires screeching on the asphalt as it gains speed and lifts off into the sky.
-instruction: Make the airplane larger.
-taskid: 115449

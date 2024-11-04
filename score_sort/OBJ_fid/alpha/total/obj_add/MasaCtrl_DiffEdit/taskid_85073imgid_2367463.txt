@@ -1,5 +1,0 @@
-org_img_id: 2367463
-org_cap: Person sits in a worn armchair, surrounded by the comforts of home, with a walker nearby and a faint smile on her face.
-trg_cap: Person sits in a worn armchair, surrounded by the comforts of home, with a walker nearby and a faint smile on her face, while a couch is positioned to her left.
-instruction: Add a couch on the person.
-taskid: 85073

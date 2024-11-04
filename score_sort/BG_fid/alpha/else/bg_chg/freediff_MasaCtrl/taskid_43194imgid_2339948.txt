@@ -1,5 +1,0 @@
-org_img_id: 2339948
-org_cap: Person's worn flannel shirt and gray pants are visible, his blue helmet and protective gear a testament to his dedication to the sport.
-trg_cap: Person's worn flannel shirt and gray pants are visible against the arid desert backdrop, his blue helmet and protective gear a testament to his dedication to the sport.
-instruction: Change the background to desert.
-taskid: 43194

@@ -1,5 +1,0 @@
-org_img_id: 2403517
-org_cap: The black tv is a black tv with a bedspread behind it.
-trg_cap: A Van Gogh style art piece features a black TV with a bedspread behind it.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 48193

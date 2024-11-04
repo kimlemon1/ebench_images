@@ -1,5 +1,0 @@
-org_img_id: 2347059
-org_cap: The scene features a wooden desk with a white keyboard at its center, surrounded by various electronic devices, including a computer, speakers, and a small console.
-trg_cap: The scene features a wooden desk, surrounded by various electronic devices, including a computer, speakers, and a small TV.
-instruction: Replace the keyboard with a tv.
-taskid: 106294

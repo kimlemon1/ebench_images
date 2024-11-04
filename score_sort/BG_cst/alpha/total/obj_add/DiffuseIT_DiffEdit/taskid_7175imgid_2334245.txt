@@ -1,5 +1,0 @@
-org_img_id: 2334245
-org_cap: a plate with a crispy, golden brown pastry and a dollop of sweet jam sits atop a porcelain bowl, surrounded by a medley of colorful vegetables including orange carrot and green beans.
-trg_cap: A plate with a crispy, golden brown pastry and a dollop of sweet jam sits atop a porcelain bowl, surrounded by a medley of colorful vegetables including orange carrot, broccoli next to the carrot, and green beans.
-instruction: Add a broccoli next to the carrot.
-taskid: 7175

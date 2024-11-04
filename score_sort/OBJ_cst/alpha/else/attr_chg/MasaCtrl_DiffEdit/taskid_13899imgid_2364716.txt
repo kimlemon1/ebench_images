@@ -1,5 +1,0 @@
-org_img_id: 2364716
-org_cap: a blue plastic container filled with an unpeeled yellow banana, a green apple, and a handful of fresh broccoli florets, surrounded by a few slices of cucumber, a few grapes, and a small container of yogurt.
-trg_cap: a blue plastic container filled with an unpeeled green banana, a green apple, and a handful of fresh broccoli florets, surrounded by a few slices of cucumber, a few grapes, and a small container of yogurt.
-instruction: Change the color of the banana from yellow to green.
-taskid: 13899

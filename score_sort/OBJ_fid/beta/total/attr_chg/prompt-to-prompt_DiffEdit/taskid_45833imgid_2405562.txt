@@ -1,5 +1,0 @@
-org_img_id: 2405562
-org_cap: a colorful kite flying high in the sky, with a group of people - a boy, a girl, and a man - running and laughing together on the beach, trying to catch the kite as it soars above them.
-trg_cap: a rainbow colored kite flying high in the sky, with a group of people - a boy, a girl, and a man - running and laughing together on the beach, trying to catch the kite as it soars above them.
-instruction: Change the color of the kite from colorful to rainbow colored.
-taskid: 45833

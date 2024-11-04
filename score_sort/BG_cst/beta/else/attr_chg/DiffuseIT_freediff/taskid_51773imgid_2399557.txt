@@ -1,5 +1,0 @@
-org_img_id: 2399557
-org_cap: a brown teddy bear wearing a hat and holding a button.
-trg_cap: a blue teddy bear wearing a hat and holding a button.
-instruction: Change the color of the teddy bear from brown to blue.
-taskid: 51773

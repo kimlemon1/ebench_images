@@ -1,5 +1,0 @@
-org_img_id: 2325167
-org_cap: person in front of a luxurious bathroom mirror, her scarf and a selfie with a subtle smile on her face.
-trg_cap: An ancient Egyptian-style artwork depicts a person in front of a luxurious bathroom mirror, wearing a scarf and taking a selfie with a subtle smile on her face.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 34865

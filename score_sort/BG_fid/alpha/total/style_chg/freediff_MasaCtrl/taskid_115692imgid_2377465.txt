@@ -1,5 +1,0 @@
-org_img_id: 2377465
-org_cap: A blue bird perches on a barbed wire fence, its plumage in the sunlight, its beak as it surveys its surroundings.
-trg_cap: The mosaic art contains a blue bird perching on a barbed wire fence, its plumage illuminated by the sunlight as it surveys its surroundings.
-instruction: Change the style if the image to mosaic art.
-taskid: 115692

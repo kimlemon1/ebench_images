@@ -1,5 +1,0 @@
-org_img_id: 2385432
-org_cap: The kitchen features a white, closed refrigerator situated in a corner with a sink and cabinets surrounding it.
-trg_cap: The kitchen features a white, open refrigerator situated in a corner with a sink and cabinets surrounding it.
-instruction: Change the state of the refrigerator from closed to open.
-taskid: 111425

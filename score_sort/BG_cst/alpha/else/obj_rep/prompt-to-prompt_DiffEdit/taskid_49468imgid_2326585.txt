@@ -1,5 +1,0 @@
-org_img_id: 2326585
-org_cap: Person rides a horse along the beach, with the sun casting a warm glow on their bronzed skin, while a small boat floats in the distance.
-trg_cap: The person rides along the beach on a cat, with the sun casting a warm glow on their bronzed skin, while a small boat floats in the distance.
-instruction: Replace the horse with a cat.
-taskid: 49468
