@@ -1,5 +1,0 @@
-org_img_id: 2325273
-org_cap: Person, wearing a plaid shirt and pants, stands on skis, with a winter forest background.
-trg_cap: Person, wearing a plaid shirt and pants, stands on skis at the top of a snowy hill, with a winter forest background.
-instruction: Add a person on the skis.
-taskid: 66498

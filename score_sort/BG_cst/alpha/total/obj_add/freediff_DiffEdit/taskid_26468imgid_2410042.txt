@@ -1,5 +1,0 @@
-org_img_id: 2410042
-org_cap: a person holds a peeled, yellow banana in his hand, wearing a hat and glasses, with an anchor tattoo on his arm.
-trg_cap: A person holds a peeled, yellow banana in his hand, wearing a hat and glasses, with an anchor tattoo on his arm, while another person is under the banana.
-instruction: Add a person under the banana.
-taskid: 26468

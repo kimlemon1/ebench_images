@@ -1,5 +1,0 @@
-org_img_id: 2415986
-org_cap: The vase is a clear, cylindrical glass vase with a rounded base and a flared top, standing approximately inches tall and adorned with a subtle sparkle emanating from tiny air bubbles trapped within its transparent walls.
-trg_cap: In the gym, the vase is a clear, cylindrical glass vase with a rounded base and a flared top, standing approximately inches tall and adorned with a subtle sparkle emanating from tiny air bubbles trapped within its transparent walls.
-instruction: Change the background to gym.
-taskid: 21404

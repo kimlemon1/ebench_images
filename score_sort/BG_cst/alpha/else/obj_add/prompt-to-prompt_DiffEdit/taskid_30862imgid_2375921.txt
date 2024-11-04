@@ -1,5 +1,0 @@
-org_img_id: 2375921
-org_cap: The kitchen features a white refrigerator and a white microwave situated on a wooden island.
-trg_cap: The kitchen features a white refrigerator and a white microwave with a bottle on top, situated on a wooden island.
-instruction: Add a bottle on the microwave.
-taskid: 30862

@@ -1,5 +1,0 @@
-org_img_id: 2348591
-org_cap: a black and white photograph shows a closed bottle of white wine resting on a kitchen counter, surrounded by a few scattered newspapers and a framed picture on an easel, with a faint reflection of the kitchen's granite countertop in the bottle.
-trg_cap: A black and white photograph shows a closed bottle of white wine resting on a kitchen counter, surrounded by a few scattered newspapers and a framed picture on an easel depicting a serene beach scene, with a faint reflection of the kitchen's granite countertop in the bottle.
-instruction: Change the background to beach.
-taskid: 59392

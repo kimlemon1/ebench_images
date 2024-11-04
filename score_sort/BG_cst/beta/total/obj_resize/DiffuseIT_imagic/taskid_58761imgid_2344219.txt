@@ -1,5 +1,0 @@
-org_img_id: 2344219
-org_cap: a circular pizza with a golden brown crust, topped with a layer of melted mozzarella cheese, sprinkled with vibrant green broccoli florets, and dotted with sliced mushrooms and bell peppers, all arranged on a baking sheet.
-trg_cap: a small circular pizza with a golden brown crust, topped with a layer of melted mozzarella cheese, sprinkled with vibrant green broccoli florets, and dotted with sliced mushrooms and bell peppers, all arranged on a baking sheet.
-instruction: Make the pizza smaller.
-taskid: 58761

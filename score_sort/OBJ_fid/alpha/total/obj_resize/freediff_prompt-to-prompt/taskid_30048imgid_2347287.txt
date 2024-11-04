@@ -1,5 +1,0 @@
-org_img_id: 2347287
-org_cap: a black cat sits on a gray carpet, staring intently at a yellow banana.
-trg_cap: a black cat sits on a gray carpet, staring intently at a large yellow banana.
-instruction: Make the banana larger.
-taskid: 30048

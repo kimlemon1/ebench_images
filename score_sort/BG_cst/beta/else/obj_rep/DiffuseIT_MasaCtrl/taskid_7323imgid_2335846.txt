@@ -1,5 +1,0 @@
-org_img_id: 2335846
-org_cap: "Person behind the plate, his black and gold uniform a stark contrast to the lush green grass of the infield."
-trg_cap: Tie it behind the plate.
-instruction: Replace the person with a tie.
-taskid: 7323

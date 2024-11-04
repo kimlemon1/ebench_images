@@ -1,5 +1,0 @@
-org_img_id: 2316236
-org_cap: the bed is a intricately carved, dark wood four-poster with ornate carvings of leaves and vines on the bed, adorned with a small, delicate painting of a mythical creature on the bed.
-trg_cap: The bed is a large, intricately carved, dark wood four-poster with ornate carvings of leaves and vines on the bed, adorned with a small, delicate painting of a mythical creature on the bed.
-instruction: Make the bed larger.
-taskid: 21141

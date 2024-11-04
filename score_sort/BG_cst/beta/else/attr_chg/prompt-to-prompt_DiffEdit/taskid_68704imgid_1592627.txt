@@ -1,5 +1,0 @@
-org_img_id: 1592627
-org_cap: A gray boat moves slowly through the water, leaving a trail of churned waves behind it.
-trg_cap: A dark brown boat moves slowly through the water, leaving a trail of churned waves behind it.
-instruction: Change the color of the boat from gray to dark brown.
-taskid: 68704

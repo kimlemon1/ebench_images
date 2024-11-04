@@ -1,5 +1,0 @@
-org_img_id: 2377064
-org_cap: A giraffe stands tall, its fur a warm brown color with white patches on its face and neck.
-trg_cap: A giraffe stands tall, large in size, its fur a warm brown color with white patches on its face and neck.
-instruction: Make the giraffe larger.
-taskid: 17892

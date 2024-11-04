@@ -1,5 +1,0 @@
-org_img_id: 2372862
-org_cap: a grey and white cat sits on the edge of a wooden dock, its tail around the wooden slats, its eyes on something in the distance.
-trg_cap: A small grey and white cat sits on the edge of a wooden dock, its tail around the wooden slats, its eyes on something in the distance.
-instruction: Make the cat smaller.
-taskid: 39

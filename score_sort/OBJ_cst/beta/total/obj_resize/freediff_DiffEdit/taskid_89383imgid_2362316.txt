@@ -1,5 +1,0 @@
-org_img_id: 2362316
-org_cap: person rides a wakeboard, his orange board across the water as he with ease, his legs and arms for balance.
-trg_cap: A small person rides a wakeboard, his orange board across the water as he with ease, his legs and arms for balance.
-instruction: Make the person smaller.
-taskid: 89383

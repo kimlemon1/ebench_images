@@ -1,5 +1,0 @@
-org_img_id: 2319463
-org_cap: a person throws a white frisbee to a girl standing on the grassy.
-trg_cap: A person in front of the frisbee throws a white frisbee to a girl standing on the grassy.
-instruction: Add a person in front of the frisbee.
-taskid: 38324

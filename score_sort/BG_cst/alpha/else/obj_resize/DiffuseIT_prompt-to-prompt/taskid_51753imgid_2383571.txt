@@ -1,5 +1,0 @@
-org_img_id: 2383571
-org_cap: an airplane, blue, soaring through the sky with a trail of smoke and a roar of engines.
-trg_cap: a large airplane, blue, soaring through the sky with a trail of smoke and a roar of engines.
-instruction: Make the airplane larger.
-taskid: 51753

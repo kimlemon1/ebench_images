@@ -1,0 +1,5 @@
+org_img_id: 2320334
+org_cap: a white train, chugging along the platform tracks.
+trg_cap: a tan train, chugging along the platform tracks.
+instruction: Change the color of the train from white to tan.
+taskid: 92002

@@ -1,5 +1,0 @@
-org_img_id: 2413155
-org_cap: The clock face on the exterior of the building is a white clock, set against a backdrop of ornate stonework and columns.
-trg_cap: The clock face on the exterior of the building is a white clock, set against a backdrop of ornate stonework and columns, with a traffic light located to the left of the clock.
-instruction: Add a traffic light on the left side of the clock.
-taskid: 49326

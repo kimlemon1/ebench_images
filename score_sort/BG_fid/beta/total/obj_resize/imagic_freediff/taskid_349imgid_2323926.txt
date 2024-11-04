@@ -1,5 +1,0 @@
-org_img_id: 2323926
-org_cap: a slice of chocolate cake with orange zest and a dollop of whipped cream sits on a blue plate, accompanied by a shiny silver fork.
-trg_cap: a slice of chocolate cake with orange zest and a dollop of whipped cream sits on a blue plate, accompanied by a shiny small silver fork.
-instruction: Make the fork smaller.
-taskid: 349

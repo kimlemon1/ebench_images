@@ -1,5 +1,0 @@
-org_img_id: 2408897
-org_cap: a gray bus with a digital advertisement wrapped around its sides, featuring a bold, red font and a bright, blue background.
-trg_cap: a colorful bus with a digital advertisement wrapped around its sides, featuring a bold, red font and a bright, blue background.
-instruction: Change the color of the bus from gray to colorful.
-taskid: 170

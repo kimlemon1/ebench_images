@@ -1,5 +1,0 @@
-org_img_id: 2371078
-org_cap: The toothbrush is a white toothbrush with a toothbrush and a toothbrush.
-trg_cap: The toothbrush is a blue toothbrush with a toothbrush and a toothbrush.
-instruction: Change the color of the toothbrush from white to blue.
-taskid: 119559

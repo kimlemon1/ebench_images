@@ -1,5 +1,0 @@
-org_img_id: 2410739
-org_cap: The blue bus has a sleek, modern design with a curved front and a distinctive blue and white livery.
-trg_cap: The small blue bus has a sleek, modern design with a curved front and a distinctive blue and white livery.
-instruction: Make the bus smaller.
-taskid: 113298

@@ -1,5 +1,0 @@
-org_img_id: 2346340
-org_cap: person holds a large, round cake with white frosting and colorful sprinkles, adorned with a bright orange candle in the center.
-trg_cap: person holds a small, round cake with white frosting and colorful sprinkles, adorned with a bright orange candle in the center.
-instruction: Make the cake smaller.
-taskid: 244

@@ -1,5 +1,0 @@
-org_img_id: 2371609
-org_cap: An orange vase sits on a table, surrounded by a collage of images featuring a person holding a cake with orange flowers on it, a slice of cake with a bite taken out, and a person blowing out candles on a cake.
-trg_cap: A Van Gogh style art piece features an orange vase on a table, surrounded by a collage of images depicting a person holding a cake adorned with orange flowers, a slice of cake with a bite taken out, and a person blowing out candles on a cake.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 97627

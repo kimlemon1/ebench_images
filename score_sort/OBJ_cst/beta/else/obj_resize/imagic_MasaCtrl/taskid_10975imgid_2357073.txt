@@ -1,5 +1,0 @@
-org_img_id: 2357073
-org_cap: A white airplane flies through the grey sky, its engines roaring as it banks and turns in a smooth, steady motion.
-trg_cap: A small white airplane flies through the grey sky, its engines roaring as it banks and turns in a smooth, steady motion.
-instruction: Make the airplane smaller.
-taskid: 10975

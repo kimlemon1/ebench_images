@@ -1,0 +1,5 @@
+org_img_id: 2330407
+org_cap: the sink is a small, rectangular sink with a worn, brown wooden sink and a cracked, white porcelain sink.
+trg_cap: An oil painting style art features a small, rectangular sink with a worn, brown wooden base and a cracked, white porcelain basin.
+instruction: Change the style if the image to oil painting style.
+taskid: 16774

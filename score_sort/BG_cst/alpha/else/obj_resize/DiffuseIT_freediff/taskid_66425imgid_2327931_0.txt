@@ -1,5 +1,0 @@
-org_img_id: 2327931_0
-org_cap: Person, wearing a floral print dress and holding a candle with a bright yellow flame, smiles as she blows out the candles on a colorful birthday cake adorned with bright flowers and colorful decorations.
-trg_cap: A small person, wearing a floral print dress and holding a candle with a bright yellow flame, smiles as she blows out the candles on a colorful birthday cake adorned with bright flowers and colorful decorations.
-instruction: Make the person smaller.
-taskid: 66425

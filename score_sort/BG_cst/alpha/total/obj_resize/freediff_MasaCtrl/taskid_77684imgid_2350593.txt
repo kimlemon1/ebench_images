@@ -1,0 +1,5 @@
+org_img_id: 2350593
+org_cap: a smiling face made from crackers and cheese, surrounded by a ripe banana and a leafy green salad.
+trg_cap: a smiling face made from crackers and cheese, surrounded by a large ripe banana and a leafy green salad.
+instruction: Make the banana larger.
+taskid: 77684

@@ -1,5 +1,0 @@
-org_img_id: 2345815
-org_cap: A white container holds a halved banana, surrounded by fresh strawberries and a few chunks of melon, with a small cup of yogurt and a muffin on the side.
-trg_cap: A white container holds a large halved banana, surrounded by fresh strawberries and a few chunks of melon, with a small cup of yogurt and a muffin on the side.
-instruction: Make the banana larger.
-taskid: 98228

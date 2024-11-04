@@ -1,5 +1,0 @@
-org_img_id: 2382860
-org_cap: Skiing, his black backpack skis across the powdery surface.
-trg_cap: Skiing ahead, his black backpack skis across the powdery surface.
-instruction: Add a person in front of the backpack.
-taskid: 8242

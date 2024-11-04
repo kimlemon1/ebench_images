@@ -1,5 +1,0 @@
-org_img_id: 2367741
-org_cap: A running, white, striped zebra stands in a grassy clearing, its black and white in the sunlight as it its surroundings with a curious gaze.
-trg_cap: A running, gray, striped zebra stands in a grassy clearing, its black and gray in the sunlight as it its surroundings with a curious gaze.
-instruction: Change the color of the zebra from white to gray.
-taskid: 47602

@@ -1,5 +1,0 @@
-org_img_id: 2363708
-org_cap: the black dog sits beside a skateboard, who sits cross-legged on a wooden ramp with a skateboard at his feet.
-trg_cap: the tan dog sits beside a skateboard, who sits cross-legged on a wooden ramp with a skateboard at his feet.
-instruction: Change the color of the dog from black to tan.
-taskid: 240

@@ -1,5 +1,0 @@
-org_img_id: 2400743
-org_cap: Person sits astride a motorcycle, wearing a silver helmet, black leather jacket with a colorful design on the sleeves, and matching black pants with silver accents.
-trg_cap: A small person sits astride a motorcycle, wearing a silver helmet, black leather jacket with a colorful design on the sleeves, and matching black pants with silver accents.
-instruction: Make the person smaller.
-taskid: 69133

@@ -1,5 +1,0 @@
-org_img_id: 2320540
-org_cap: person throws a frisbee with a joyful expression on his face, his bright pink and blue striped pants as he to catch the disc.
-trg_cap: In the background of a pine forest, a person throws a frisbee with a joyful expression on his face, his bright pink and blue striped pants as he to catch the disc.
-instruction: Change the background to pine forest.
-taskid: 30989

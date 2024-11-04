@@ -1,5 +1,0 @@
-org_img_id: 2379596
-org_cap: The scene features a cluttered entertainment center with a flat-screen tv, a white keyboard, and various gaming and media components, including a console, a gaming controller, and a collection of games and dvds, all stacked haphazardly on a wooden shelf.
-trg_cap: The scene features a cluttered entertainment center with a sandwich, a white keyboard, and various gaming and media components, including a console, a gaming controller, and a collection of games and DVDs, all stacked haphazardly on a wooden shelf.
-instruction: Replace the tv with a sandwich.
-taskid: 24946

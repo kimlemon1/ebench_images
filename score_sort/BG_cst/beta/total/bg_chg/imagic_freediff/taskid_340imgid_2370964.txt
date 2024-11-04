@@ -1,5 +1,0 @@
-org_img_id: 2370964
-org_cap: a small person in a red baseball cap, sitting on the grass.
-trg_cap: A small person in a red baseball cap, sitting on the grass, was sketching the vibrant paintings displayed in the art gallery's outdoor garden.
-instruction: Change the background to art gallery.
-taskid: 340

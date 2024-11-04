@@ -1,5 +1,0 @@
-org_img_id: 2368195
-org_cap: a young man in his early twenties, wearing a worn leather jacket and jeans, sits on a couch with a small dog, a fluffy little ball of fur with big brown eyes.
-trg_cap: A young man in his early twenties, wearing a worn leather jacket and jeans, sits on the couch with a small bottle.
-instruction: Replace the dog with a bottle.
-taskid: 88837

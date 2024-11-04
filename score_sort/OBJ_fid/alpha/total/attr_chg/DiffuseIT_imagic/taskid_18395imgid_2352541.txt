@@ -1,0 +1,5 @@
+org_img_id: 2352541
+org_cap: a white bird on a thin branch, its beak.
+trg_cap: a striped bird on a thin branch, its beak.
+instruction: Change the color of the bird from white to striped.
+taskid: 18395

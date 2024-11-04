@@ -1,5 +1,0 @@
-org_img_id: 2369159
-org_cap: the scene is focused on a person wearing a blue jacket and snow pants, with a black backpack strapped to their back, as they ride a snowboard down a mountain.
-trg_cap: The scene is focused on a person wearing a blue jacket and snow pants, with a black backpack strapped to their back, as they ride a snowboard down a mountain, with another person behind the backpack.
-instruction: Add a person behind the backpack.
-taskid: 99919

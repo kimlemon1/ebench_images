@@ -1,5 +1,0 @@
-org_img_id: 2406849
-org_cap: person swings a black baseball bat.
-trg_cap: person swings a cream colored baseball bat.
-instruction: Change the color of the baseball bat from black to cream colored.
-taskid: 37784

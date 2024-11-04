@@ -1,5 +1,0 @@
-org_img_id: 2373556
-org_cap: A white truck drives along the airport's tarmac, its tires screeching slightly as it rounds a bend.
-trg_cap: A white truck drives along the airport's tarmac, its tires screeching slightly as it rounds a bend, while the nearby aquarium's glass walls shimmer in the sunlight.
-instruction: Change the background to aquarium.
-taskid: 13

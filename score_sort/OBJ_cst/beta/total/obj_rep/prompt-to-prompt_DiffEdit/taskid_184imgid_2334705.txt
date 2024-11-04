@@ -1,5 +1,0 @@
-org_img_id: 2334705
-org_cap: The white motorcycle has a sleek design with a white tank, red stripes, and a black seat, with a helmet and jacket lying nearby.
-trg_cap: The white kite, with its helmet and jacket lying nearby.
-instruction: Replace the motorcycle with a kite.
-taskid: 184

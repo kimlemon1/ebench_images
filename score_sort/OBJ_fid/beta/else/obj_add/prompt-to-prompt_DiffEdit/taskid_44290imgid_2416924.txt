@@ -1,5 +1,0 @@
-org_img_id: 2416924
-org_cap: Person off the skateboard, his legs and feet as he a trick on the concrete ramp.
-trg_cap: Person under the skateboard, his legs and feet as he a trick on the concrete ramp.
-instruction: Add a person under the skateboard.
-taskid: 44290

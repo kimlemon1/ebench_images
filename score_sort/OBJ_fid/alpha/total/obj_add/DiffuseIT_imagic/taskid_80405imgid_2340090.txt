@@ -1,5 +1,0 @@
-org_img_id: 2340090
-org_cap: person proudly holds up an orange frisbee on the beach.
-trg_cap: In front of the frisbee, the person proudly holds up an orange frisbee on the beach.
-instruction: Add a person in front of the frisbee.
-taskid: 80405

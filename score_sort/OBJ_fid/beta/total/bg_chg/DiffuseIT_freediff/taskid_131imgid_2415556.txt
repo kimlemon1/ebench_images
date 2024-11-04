@@ -1,5 +1,0 @@
-org_img_id: 2415556
-org_cap: a young person with a round face and a mop of curly hair in front of a globe, wearing a white shirt with a red tie and a pair of pants.
-trg_cap: A young person with a round face and a mop of curly hair in front of a globe, wearing a white shirt with a red tie and a pair of pants, stands in a bustling train station.
-instruction: Change the background to train station.
-taskid: 131

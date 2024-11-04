@@ -1,5 +1,0 @@
-org_img_id: 2413450
-org_cap: a man with a striped shirt and glasses sits at a table, holding an empty green glass bottle and looking at his phone with a slight smile on his face.
-trg_cap: a man with a striped shirt and glasses sits at a table, holding an filled green glass bottle and looking at his phone with a slight smile on his face.
-instruction: Change the state of the bottle from empty to filled.
-taskid: 7333

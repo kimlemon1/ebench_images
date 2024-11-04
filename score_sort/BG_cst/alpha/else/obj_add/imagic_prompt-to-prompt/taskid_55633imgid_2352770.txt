@@ -1,5 +1,0 @@
-org_img_id: 2352770
-org_cap: a person with a purple hair dye, wearing a black vest with a tartan pattern, a white shirt, and a black tie, stands in front of a mirror, holding a cell phone.
-trg_cap: A person with a purple hair dye, wearing a black vest with a tartan pattern, a white shirt, and a black tie, stands in front of a mirror, holding a cell phone, with another person on the right side of the cell phone.
-instruction: Add a person on the right side of the cell phone.
-taskid: 55633

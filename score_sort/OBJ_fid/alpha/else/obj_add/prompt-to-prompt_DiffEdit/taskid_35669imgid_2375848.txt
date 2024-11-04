@@ -1,5 +1,0 @@
-org_img_id: 2375848
-org_cap: a person walks under an umbrella on a rainy day, holding an umbrella with a neon sign reading "super mags" on the front of a shop.
-trg_cap: A person walks under an umbrella on a rainy day, holding an umbrella with a neon sign reading "super mags" on the front of a shop, with another person behind the umbrella.
-instruction: Add a person behind the umbrella.
-taskid: 35669

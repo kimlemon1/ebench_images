@@ -1,5 +1,0 @@
-org_img_id: 2352683
-org_cap: person through the air, his green board splashing into the water as he a tricky trick.
-trg_cap: person through the air, his green board splashing into the water as he a tricky trick, while the aroma of freshly cooked dishes wafted from the nearby restaurant.
-instruction: Change the background to restaurant.
-taskid: 152

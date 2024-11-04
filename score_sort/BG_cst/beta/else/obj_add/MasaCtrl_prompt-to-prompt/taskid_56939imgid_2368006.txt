@@ -1,5 +1,0 @@
-org_img_id: 2368006
-org_cap: A flying bird through the gray sky, its wings as it on the wind.
-trg_cap: A flying bird through the gray sky, its wings as it on the wind, with a chair next to it.
-instruction: Add a chair next to the bird.
-taskid: 56939

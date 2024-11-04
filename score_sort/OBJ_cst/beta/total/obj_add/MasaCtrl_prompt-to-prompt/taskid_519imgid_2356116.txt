@@ -1,5 +1,0 @@
-org_img_id: 2356116
-org_cap: a playful dog, a frisbee in tow, its paws barely touching the ground as it chases after the flying frisbee.
-trg_cap: a playful dog, a frisbee in tow, its paws barely touching the ground as it chases after the flying frisbee, with a person lying underneath.
-instruction: Add a person under the frisbee.
-taskid: 519

@@ -1,0 +1,5 @@
+org_img_id: 2376558
+org_cap: a person in mid-air, his skis a blur as he performs a daring trick.
+trg_cap: A graffiti art depicts a person in mid-air, his skis a blur as he performs a daring trick.
+instruction: Change the style if the image to graffiti art.
+taskid: 60352

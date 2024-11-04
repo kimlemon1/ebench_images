@@ -1,0 +1,5 @@
+org_img_id: 2408575
+org_cap: The refrigerator is a stainless steel, black refrigerator, standing against a backdrop of wooden cabinets and a hardwood floor.
+trg_cap: The refrigerator is a glass, black refrigerator, standing against a backdrop of wooden cabinets and a hardwood floor.
+instruction: Change the material of the refrigerator from stainless steel to glass.
+taskid: 57573

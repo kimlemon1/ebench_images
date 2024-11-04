@@ -1,5 +1,0 @@
-org_img_id: 2339008
-org_cap: The bathroom features a toilet with a sleek, modern design, a sink with a chrome faucet, and a sink with a glass door.
-trg_cap: The bathroom features a toilet with a sleek, modern design, a shower, and a sink with a glass door.
-instruction: Replace the sink with a keyboard.
-taskid: 95550

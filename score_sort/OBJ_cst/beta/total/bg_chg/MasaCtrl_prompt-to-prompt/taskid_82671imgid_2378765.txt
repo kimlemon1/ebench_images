@@ -1,5 +1,0 @@
-org_img_id: 2378765
-org_cap: The desktop computer features a white keyboard, situated atop a sturdy wooden desk with a minimalist design, flanked by a keyboard and a window with a view of the surrounding landscape.
-trg_cap: The desktop computer features a white keyboard, situated atop a sturdy wooden desk with a minimalist design, flanked by a keyboard and a window with a view of the surrounding desert landscape.
-instruction: Change the background to desert.
-taskid: 82671

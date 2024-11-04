@@ -1,5 +1,0 @@
-org_img_id: 2372159
-org_cap: black skis person, a steep slope.
-trg_cap: maroon skis person, a steep slope.
-instruction: Change the color of the skis from black to maroon.
-taskid: 23542

@@ -1,0 +1,5 @@
+org_img_id: 2344739
+org_cap: a majestic black horse with a shiny coat and a flowing mane in a lush green meadow at sunset.
+trg_cap: A majestic bird in its lush green meadow at sunset.
+instruction: Replace the horse with a bird.
+taskid: 72034

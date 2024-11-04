@@ -1,5 +1,0 @@
-org_img_id: 2323107
-org_cap: a standing person beside a motorcycle with a red and white paint job, while a red truck beside them.
-trg_cap: A standing person beside a motorcycle with a red and white paint job, while a red truck beside them, in an art gallery.
-instruction: Change the background to art gallery.
-taskid: 292

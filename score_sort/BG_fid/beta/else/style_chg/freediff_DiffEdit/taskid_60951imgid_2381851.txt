@@ -1,5 +1,0 @@
-org_img_id: 2381851
-org_cap: A surfing person through the waves, his hair as he the surf.
-trg_cap: A Van Gogh style art depicts a person surfing through the waves, with his hair flowing as he rides the surf.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 60951

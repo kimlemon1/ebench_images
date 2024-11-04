@@ -1,5 +1,0 @@
-org_img_id: 2332098
-org_cap: a person holds a blue frisbee in mid-air, with a baby girl clinging to his arm.
-trg_cap: A person holds a blue frisbee in mid-air, with a baby girl clinging to his arm, inside a cave.
-instruction: Change the background to cave.
-taskid: 28785

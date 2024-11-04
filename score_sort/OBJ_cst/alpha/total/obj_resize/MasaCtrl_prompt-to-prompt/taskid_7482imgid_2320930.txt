@@ -1,0 +1,5 @@
+org_img_id: 2320930
+org_cap: a dignified person in a navy blue suit and tie stands at a window, with a serious expression on his face, his hands clasped together in front of him.
+trg_cap: a dignified person in a navy blue suit and large tie stands at a window, with a serious expression on his face, his hands clasped together in front of him.
+instruction: Make the tie larger.
+taskid: 7482

@@ -1,5 +1,0 @@
-org_img_id: 2330287
-org_cap: a green train, speeding through the station on a grey and rainy day.
-trg_cap: a small green train, speeding through the station on a grey and rainy day.
-instruction: Make the train smaller.
-taskid: 67883

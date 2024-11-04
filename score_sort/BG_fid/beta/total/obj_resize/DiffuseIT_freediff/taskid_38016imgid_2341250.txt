@@ -1,0 +1,5 @@
+org_img_id: 2341250
+org_cap: a lone person past a construction site, with orange cones and a red route sign blocking the path, amidst a backdrop of half-built buildings and scaffolding.
+trg_cap: a lone small person past a construction site, with orange cones and a red route sign blocking the path, amidst a backdrop of half-built buildings and scaffolding.
+instruction: Make the person smaller.
+taskid: 38016

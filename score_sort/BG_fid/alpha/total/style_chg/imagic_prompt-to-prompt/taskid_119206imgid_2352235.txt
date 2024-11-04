@@ -1,5 +1,0 @@
-org_img_id: 2352235
-org_cap: a pregnant woman holds a bunch of yellow banana in her hand, standing in front of a door with a white background.
-trg_cap: An ancient Egyptian-style artwork depicts a pregnant woman holding a bunch of yellow bananas in her hand, standing in front of a door with a white background.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 119206

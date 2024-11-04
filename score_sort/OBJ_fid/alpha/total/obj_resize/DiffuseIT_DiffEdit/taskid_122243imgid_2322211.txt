@@ -1,5 +1,0 @@
-org_img_id: 2322211
-org_cap: The scene features a person holding a white umbrella, under which they stand with a wedding dress and a bouquet in hand.
-trg_cap: The scene features a person holding a large white umbrella, under which they stand with a wedding dress and a bouquet in hand.
-instruction: Make the umbrella larger.
-taskid: 122243

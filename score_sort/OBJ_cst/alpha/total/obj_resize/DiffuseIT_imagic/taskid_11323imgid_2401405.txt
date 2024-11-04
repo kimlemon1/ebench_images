@@ -1,0 +1,5 @@
+org_img_id: 2401405
+org_cap: A silver airplane soars through the sky, its wings curved and its propellers spinning as it gains speed and altitude, leaving a trail of white smoke behind it.
+trg_cap: A large silver airplane soars through the sky, its wings curved and its propellers spinning as it gains speed and altitude, leaving a trail of white smoke behind it.
+instruction: Make the airplane larger.
+taskid: 11323

@@ -1,5 +1,0 @@
-org_img_id: 2369560
-org_cap: the train is a red 47, a red train.
-trg_cap: the train is a clear 47, a clear train.
-instruction: Change the color of the train from red to clear.
-taskid: 81243

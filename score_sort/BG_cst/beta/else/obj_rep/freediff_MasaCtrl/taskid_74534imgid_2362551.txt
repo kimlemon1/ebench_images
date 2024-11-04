@@ -1,5 +1,0 @@
-org_img_id: 2362551
-org_cap: a laptop sits on a cluttered desk, surrounded by purple bottles, crumpled up papers, and a worn-out keyboard, with a faint image of a fetus on the screen.
-trg_cap: A laptop sits on a cluttered desk, surrounded by a microwave, crumpled up papers, and a worn-out keyboard, with a faint image of a fetus on the screen.
-instruction: Replace the bottle with a microwave.
-taskid: 74534

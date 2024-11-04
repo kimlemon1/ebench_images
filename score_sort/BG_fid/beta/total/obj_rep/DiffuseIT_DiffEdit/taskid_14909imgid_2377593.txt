@@ -1,0 +1,5 @@
+org_img_id: 2377593
+org_cap: Jumping person off a concrete ramp, his skateboard as he mid-air, his legs in a motion, his eyes on the landing.
+trg_cap: Jumping dog off a concrete ramp, its skateboard, its legs in a motion, its eyes on the landing.
+instruction: Replace the person with a dog.
+taskid: 14909

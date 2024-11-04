@@ -1,5 +1,0 @@
-org_img_id: 2364051
-org_cap: motorcycle and person down the track, the wind through person's helmet as they navigate the curves.
-trg_cap: motorcycle and tie down the track, the wind through tie's helmet as tie navigates the curves.
-instruction: Replace the person with a tie.
-taskid: 14205

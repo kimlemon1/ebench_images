@@ -1,5 +1,0 @@
-org_img_id: 2320911
-org_cap: The toilet is a white toilet with a chrome handle and a small, circular white toilet seat with a lid.
-trg_cap: A Van Gogh style art features a white toilet with a chrome handle and a small, circular white toilet seat with a lid.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 87946

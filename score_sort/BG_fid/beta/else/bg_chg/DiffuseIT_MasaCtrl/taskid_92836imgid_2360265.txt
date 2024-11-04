@@ -1,5 +1,0 @@
-org_img_id: 2360265
-org_cap: A person walking on the beach with a brick lighthouse in the background.
-trg_cap: A person walking on the mountain top.
-instruction: Change the background to mountain top.
-taskid: 92836

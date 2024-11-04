@@ -1,5 +1,0 @@
-org_img_id: 2370425
-org_cap: a middle - aged person sits alone on a worn, black iron bench, surrounded by lush greenery and vibrant flowers, with a subtle hint of sunlight filtering through the trees.
-trg_cap: a middle-aged person sits alone on a small, worn, black iron bench, surrounded by lush greenery and vibrant flowers, with a subtle hint of sunlight filtering through the trees.
-instruction: Make the bench smaller.
-taskid: 248

@@ -1,5 +1,0 @@
-org_img_id: 2395304
-org_cap: the clock tower features a golden dome with a white clock at its peak, surrounded by intricate stonework and ornate details.
-trg_cap: The clock tower features a golden dome with a white clock at its peak, surrounded by intricate stonework and ornate details, with a fire hydrant located behind the clock.
-instruction: Add a fire hydrant behind the clock.
-taskid: 6185

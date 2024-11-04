@@ -1,5 +1,0 @@
-org_img_id: 2403952
-org_cap: a woman holds a black kite, flying high in the bright blue sky.
-trg_cap: An oil painting depicts a woman holding a black kite flying high in the bright blue sky.
-instruction: Change the style if the image to oil painting style.
-taskid: 2617

@@ -1,5 +1,0 @@
-org_img_id: 2385853
-org_cap: a black dog with a goofy grin on its face.
-trg_cap: a black dog with a goofy grin on its face, standing against the backdrop of a vast desert.
-instruction: Change the background to desert.
-taskid: 14710

@@ -1,5 +1,0 @@
-org_img_id: 2380735
-org_cap: A striped black zebra, walking, its black and white stripes glistening in the sunlight.
-trg_cap: A striped striped zebra, walking, its striped and white stripes glistening in the sunlight.
-instruction: Change the color of the zebra from black to striped.
-taskid: 94523

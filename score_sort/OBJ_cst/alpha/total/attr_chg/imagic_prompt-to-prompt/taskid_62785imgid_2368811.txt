@@ -1,5 +1,0 @@
-org_img_id: 2368811
-org_cap: The black skis are with a matte finish and subtle stripes of red and white, the american flag colors, running along the length of the skis.
-trg_cap: The green skis are with a matte finish and subtle stripes of red and white, the american flag colors, running along the length of the skis.
-instruction: Change the color of the skis from black to green.
-taskid: 62785

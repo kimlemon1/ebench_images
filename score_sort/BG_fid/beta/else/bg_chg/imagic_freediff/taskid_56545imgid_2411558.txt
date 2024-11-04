@@ -1,5 +1,0 @@
-org_img_id: 2411558
-org_cap: Smiling person sitting on top of a large trunk.
-trg_cap: Smiling person sitting on top of a large trunk inside a cave.
-instruction: Change the background to cave.
-taskid: 56545

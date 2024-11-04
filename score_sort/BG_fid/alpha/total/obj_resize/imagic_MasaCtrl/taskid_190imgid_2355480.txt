@@ -1,5 +1,0 @@
-org_img_id: 2355480
-org_cap: a windsurfer rides the waves on a stormy day, with the blue kite soaring above the water.
-trg_cap: a windsurfer rides the waves on a stormy day, with the small blue kite soaring above the water.
-instruction: Make the kite smaller.
-taskid: 190

@@ -1,5 +1,0 @@
-org_img_id: 271
-org_cap: A bright blue fire hydrant stands sentinel on the sidewalk, its fire hydrant gleaming in the autumn rain as the surrounding streets are lined with the rusted iron fences and leaf-covered trees.
-trg_cap: A bright blue bottle stands sentinel on the sidewalk as surrounding streets are lined with rusted iron fences and leaf-covered trees.
-instruction: Replace the fire hydrant with a bottle.
-taskid: 126

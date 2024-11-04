@@ -1,0 +1,5 @@
+org_img_id: 2324620
+org_cap: a weary person, luggage in tow, with a worn expression and a sense of exhaustion.
+trg_cap: A motorcycle.
+instruction: Replace the person with a motorcycle.
+taskid: 16101

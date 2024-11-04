@@ -1,0 +1,5 @@
+org_img_id: 2381568
+org_cap: The microwave is a stainless steel microwave with a sleek design, situated above the kitchen counter and flanked by a sink and stove.
+trg_cap: The microwave is a stainless steel microwave with a sleek design, situated above the kitchen counter and flanked by a sink and stove, with an oven located directly underneath.
+instruction: Add a oven under the microwave.
+taskid: 75296

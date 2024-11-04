@@ -1,5 +1,0 @@
-org_img_id: 2364059
-org_cap: a steaming hot pizza with melted mozzarella cheese and a sprinkle of mushrooms on a circular pizza.
-trg_cap: a steaming hot small pizza with melted mozzarella cheese and a sprinkle of mushrooms on a circular pizza.
-instruction: Make the pizza smaller.
-taskid: 14211

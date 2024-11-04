@@ -1,5 +1,0 @@
-org_img_id: 2404038
-org_cap: The green bowl is filled with a mixture of crunchy cereal, juicy blueberries, and sliced peaches.
-trg_cap: The teal bowl is filled with a mixture of crunchy cereal, juicy blueberries, and sliced peaches.
-instruction: Change the color of the bowl from green to teal.
-taskid: 90368

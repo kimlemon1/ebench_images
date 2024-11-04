@@ -1,5 +1,0 @@
-org_img_id: 2385249
-org_cap: walking person on the beach.
-trg_cap: walking person with a small surfboard on the beach.
-instruction: Make the surfboard smaller.
-taskid: 82981

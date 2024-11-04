@@ -1,5 +1,0 @@
-org_img_id: 2406289_0
-org_cap: a small bowl sits on a bowl, surrounded by a few crumbs and a spoon, with a bowl of milk and a bowl nearby.
-trg_cap: A small bowl sits on a bowl, surrounded by a few crumbs and a spoon, with a bowl of milk and a bowl nearby, all set against the backdrop of a vibrant aquarium.
-instruction: Change the background to aquarium.
-taskid: 24867

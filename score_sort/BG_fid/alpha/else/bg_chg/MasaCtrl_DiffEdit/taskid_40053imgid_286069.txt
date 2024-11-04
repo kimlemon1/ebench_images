@@ -1,5 +1,0 @@
-org_img_id: 286069
-org_cap: A brown horse peers out of its stall, its eyes fixed on the viewer as it in front of a white wall with a metal roof and a gutter system.
-trg_cap: A brown horse peers out of its stall, its eyes fixed on the viewer as it stands in front of a white wall with a metal roof and a gutter system, reminiscent of an old train station.
-instruction: Change the background to train station.
-taskid: 40053

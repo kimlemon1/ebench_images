@@ -1,5 +1,0 @@
-org_img_id: 2401362
-org_cap: a black dog in the open compartment of a suitcase, its paws around a crumpled up snack food bag.
-trg_cap: a black cat.
-instruction: Replace the dog with a cat.
-taskid: 107326

@@ -1,0 +1,5 @@
+org_img_id: 2318969
+org_cap: blue airplane flying in the sky with a blue background.
+trg_cap: yellow airplane flying in the sky with a yellow background.
+instruction: Change the color of the airplane from blue to yellow.
+taskid: 104740

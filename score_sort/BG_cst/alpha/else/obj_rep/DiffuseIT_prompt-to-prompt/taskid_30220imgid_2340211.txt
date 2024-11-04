@@ -1,5 +1,0 @@
-org_img_id: 2340211
-org_cap: a person sits at a table with a laptop in front of him, wearing a blue shirt and holding a clear cup.
-trg_cap: A person sits at a table with a laptop in front of them, wearing a blue shirt and holding a knife.
-instruction: Replace the cup with a knife.
-taskid: 30220

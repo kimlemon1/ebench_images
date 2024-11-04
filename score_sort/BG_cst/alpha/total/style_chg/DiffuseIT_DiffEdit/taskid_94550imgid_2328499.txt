@@ -1,5 +1,0 @@
-org_img_id: 2328499
-org_cap: A small jet airplane flies horizontally across a bright blue sky with puffy white clouds, its wings and tail visible as it leaves a trail of condensed water vapor behind it.
-trg_cap: A pencil sketch art depicts a small jet airplane flying horizontally across a bright blue sky with puffy white clouds, its wings and tail visible as it leaves a trail of condensed water vapor behind it.
-instruction: Change the style if the image to pencil sketch.
-taskid: 94550

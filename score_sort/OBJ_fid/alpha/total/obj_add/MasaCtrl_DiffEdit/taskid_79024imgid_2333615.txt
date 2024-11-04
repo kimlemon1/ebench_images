@@ -1,5 +1,0 @@
-org_img_id: 2333615
-org_cap: a lone individual trudges through the snow, carrying a black suitcase.
-trg_cap: A lone individual trudges through the snow, carrying a black suitcase, with the person positioned behind the suitcase.
-instruction: Add a person behind the suitcase.
-taskid: 79024

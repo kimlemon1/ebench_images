@@ -1,5 +1,0 @@
-org_img_id: 2370790_1
-org_cap: a silver car with a rugged exterior and a sturdy build, featuring a prominent grille, angular headlights, and a chunky bumper.
-trg_cap: A silver car with a rugged exterior and a sturdy build, featuring a prominent grille, angular headlights, and a chunky bumper, parked against the backdrop of a sunlit beach with golden sands and gentle waves.
-instruction: Change the background to beach.
-taskid: 9

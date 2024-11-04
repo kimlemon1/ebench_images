@@ -1,5 +1,0 @@
-org_img_id: 2354781
-org_cap: A yellow banana stands upright on its side in the microwave, with a white cup placed on top of it, precariously balancing on the surface.
-trg_cap: A small yellow banana stands upright on its side in the microwave, with a white cup placed on top of it, precariously balancing on the surface.
-instruction: Make the banana smaller.
-taskid: 31671

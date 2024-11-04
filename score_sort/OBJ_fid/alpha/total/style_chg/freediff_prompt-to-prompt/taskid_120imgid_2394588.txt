@@ -1,5 +1,0 @@
-org_img_id: 2394588
-org_cap: A bear across a rocky terrain, its white fur glistening in the sunlight, its massive paws on the stone.
-trg_cap: A graffiti art depicts a bear across a rocky terrain, its white fur glistening in the sunlight and its massive paws on the stone.
-instruction: Change the style if the image to graffiti art.
-taskid: 120

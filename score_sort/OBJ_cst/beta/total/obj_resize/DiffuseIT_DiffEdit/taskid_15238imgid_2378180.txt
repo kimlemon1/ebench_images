@@ -1,5 +1,0 @@
-org_img_id: 2378180
-org_cap: A walking person, a blue umbrella.
-trg_cap: A walking person, a large blue umbrella.
-instruction: Make the umbrella larger.
-taskid: 15238

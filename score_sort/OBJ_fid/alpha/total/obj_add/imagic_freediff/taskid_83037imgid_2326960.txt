@@ -1,5 +1,0 @@
-org_img_id: 2326960
-org_cap: a person wearing a backpack with a person sitting inside.
-trg_cap: a person wearing a backpack with a person sitting inside and a person standing next to the backpack.
-instruction: Add a person next to the backpack.
-taskid: 83037

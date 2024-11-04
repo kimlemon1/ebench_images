@@ -1,5 +1,0 @@
-org_img_id: 2394006
-org_cap: person sat at a table, sipping a can of beer and enjoying a slice of cake.
-trg_cap: Person sat at a table in a pine forest, sipping a can of beer and enjoying a slice of cake.
-instruction: Change the background to pine forest.
-taskid: 332

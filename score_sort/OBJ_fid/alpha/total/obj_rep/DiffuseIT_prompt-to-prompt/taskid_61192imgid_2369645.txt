@@ -1,0 +1,5 @@
+org_img_id: 2369645
+org_cap: The glazed chocolate donut sat on a crumpled paper towel, its sugary coating glistening in the morning light.
+trg_cap: The cup sat on a crumpled paper towel.
+instruction: Replace the donut with a cup.
+taskid: 61192

@@ -1,5 +1,0 @@
-org_img_id: 2397076
-org_cap: A young, black, eating, grazing zebra on a green meadow, its stripes glistening in the sunlight.
-trg_cap: A mature, black, eating, grazing zebra on a green meadow, its stripes glistening in the sunlight.
-instruction: Change the state of the zebra from young to mature.
-taskid: 115120

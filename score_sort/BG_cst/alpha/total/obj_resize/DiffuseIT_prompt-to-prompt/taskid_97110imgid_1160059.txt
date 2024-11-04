@@ -1,5 +1,0 @@
-org_img_id: 1160059
-org_cap: a bright red double-decker bus with a vintage design, featuring a curved front and a distinctive rounded roof, with a large advertisement plastered on its side.
-trg_cap: a small, bright red double-decker bus with a vintage design, featuring a curved front and a distinctive rounded roof, with a large advertisement plastered on its side.
-instruction: Make the bus smaller.
-taskid: 97110

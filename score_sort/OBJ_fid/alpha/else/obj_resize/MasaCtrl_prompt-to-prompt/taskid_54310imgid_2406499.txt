@@ -1,5 +1,0 @@
-org_img_id: 2406499
-org_cap: The white toilet is a fixture with a bowl and handles.
-trg_cap: The large white toilet is a fixture with a bowl and handles.
-instruction: Make the toilet larger.
-taskid: 54310

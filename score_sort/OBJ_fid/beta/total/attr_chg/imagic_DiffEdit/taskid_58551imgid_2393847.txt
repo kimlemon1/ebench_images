@@ -1,5 +1,0 @@
-org_img_id: 2393847
-org_cap: a young, striped, white zebra, its ears perked up and its tail as it through a tall grassland.
-trg_cap: a young, striped, beige zebra, its ears perked up and its tail as it through a tall grassland.
-instruction: Change the color of the zebra from white to beige.
-taskid: 58551

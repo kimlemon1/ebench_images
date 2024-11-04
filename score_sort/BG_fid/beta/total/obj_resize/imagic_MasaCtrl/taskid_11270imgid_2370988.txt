@@ -1,0 +1,5 @@
+org_img_id: 2370988
+org_cap: The wood bench sat solitary on the bench, its backrest worn smooth by the elements, and its legs sinking slowly into the tranquil waters.
+trg_cap: The large wood bench sat solitary on the bench, its backrest worn smooth by the elements, and its legs sinking slowly into the tranquil waters.
+instruction: Make the bench larger.
+taskid: 11270

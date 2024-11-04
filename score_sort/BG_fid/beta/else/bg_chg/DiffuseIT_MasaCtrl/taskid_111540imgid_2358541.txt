@@ -1,5 +1,0 @@
-org_img_id: 2358541
-org_cap: The white bus sits idle on the side of the road, surrounded by palm trees and a bright blue sky.
-trg_cap: The white bus sits idle on the side of the road, surrounded by a snow field and a bright blue sky.
-instruction: Change the background to snow field.
-taskid: 111540

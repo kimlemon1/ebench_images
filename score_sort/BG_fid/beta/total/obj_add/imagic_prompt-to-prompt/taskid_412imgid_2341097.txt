@@ -1,5 +1,0 @@
-org_img_id: 2341097
-org_cap: The toilet is a white toilet, surrounded by a small, blue and beige tile floor with a subtle pattern.
-trg_cap: The toilet is a white toilet, surrounded by a small, blue and beige tile floor with a subtle pattern, with a cat sitting on it.
-instruction: Add a cat on the toilet.
-taskid: 412

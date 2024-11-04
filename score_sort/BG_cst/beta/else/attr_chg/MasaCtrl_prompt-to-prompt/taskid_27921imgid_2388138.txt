@@ -1,5 +1,0 @@
-org_img_id: 2388138
-org_cap: The blue motorcycle has a body with a trim, exhaust pipes, and a set of wheels.
-trg_cap: The red motorcycle has a body with a trim, exhaust pipes, and a set of wheels.
-instruction: Change the color of the motorcycle from blue to red.
-taskid: 27921

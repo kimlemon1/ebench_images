@@ -1,5 +1,0 @@
-org_img_id: 2327036
-org_cap: The blue baseball bat swings in a smooth arc, its grip and surface a testament to countless swings and misses.
-trg_cap: In the art gallery, the blue baseball bat swings in a smooth arc, its grip and surface a testament to countless swings and misses.
-instruction: Change the background to art gallery.
-taskid: 21229

@@ -1,5 +1,0 @@
-org_img_id: 2396496
-org_cap: Swinging person swings an orange baseball bat, the grip and color a testament to many summer afternoons spent playing ball.
-trg_cap: Swinging person swings an orange baseball bat, the grip and color a testament to many summer afternoons spent playing ball, with the person positioned behind the bat.
-instruction: Add a person behind the baseball bat.
-taskid: 48931

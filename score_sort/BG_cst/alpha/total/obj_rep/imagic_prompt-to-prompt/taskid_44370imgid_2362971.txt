@@ -1,5 +1,0 @@
-org_img_id: 2362971
-org_cap: The room features a comfortable bed with a black off tv mounted above it.
-trg_cap: The room features a comfortable bed with its chair.
-instruction: Replace the tv with a chair.
-taskid: 44370

@@ -1,5 +1,0 @@
-org_img_id: 2320984
-org_cap: a black dog and a golden retriever are playing together in a fall setting, with the black dog holding a yellow frisbee in its mouth.
-trg_cap: A black dog and a golden retriever are playing together in a fall setting, with the black dog holding a yellow frisbee in its mouth, and the golden retriever standing nearby.
-instruction: Add a dog on the frisbee.
-taskid: 122096

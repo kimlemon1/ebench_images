@@ -1,5 +1,0 @@
-org_img_id: 2391739
-org_cap: The vase is a blue vase, standing upright on a wooden table.
-trg_cap: A grey scale photo shows a blue vase standing upright on a wooden table.
-instruction: Change the style if the image to grey scale.
-taskid: 92410

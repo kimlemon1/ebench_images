@@ -1,5 +1,0 @@
-org_img_id: 2402804
-org_cap: Standing, smiling person on a black skateboard.
-trg_cap: Standing, small, smiling person on a black skateboard.
-instruction: Make the person smaller.
-taskid: 63353

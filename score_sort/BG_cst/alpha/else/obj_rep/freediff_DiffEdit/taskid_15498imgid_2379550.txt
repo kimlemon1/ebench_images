@@ -1,5 +1,0 @@
-org_img_id: 2379550
-org_cap: a surfing person rides a person across the waves.
-trg_cap: A banana rides a person across the waves.
-instruction: Replace the person with a banana.
-taskid: 15498

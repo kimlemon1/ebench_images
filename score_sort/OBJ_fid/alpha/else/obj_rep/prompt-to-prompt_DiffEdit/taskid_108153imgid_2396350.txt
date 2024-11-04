@@ -1,5 +1,0 @@
-org_img_id: 2396350
-org_cap: A white dog looks back at you with curious eyes through the rearview mirror of a car.
-trg_cap: A white cat looks back at you through the rearview mirror of the car.
-instruction: Replace the dog with a cat.
-taskid: 108153

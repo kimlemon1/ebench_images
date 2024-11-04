@@ -1,5 +1,0 @@
-org_img_id: 2408504
-org_cap: The rusty, yellow fire hydrant is a cylinder, standing tall in the middle of a lush green lawn.
-trg_cap: A Van Gogh style art piece features a rusty, yellow fire hydrant, a tall cylinder standing in the middle of a lush green lawn.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 41199

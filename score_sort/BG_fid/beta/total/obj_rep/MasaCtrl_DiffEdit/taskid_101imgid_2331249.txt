@@ -1,5 +1,0 @@
-org_img_id: 2331249
-org_cap: the scene features a black keyboard placed on a wooden desk, with a small gray computer mouse and a gray computer mouse button nearby.
-trg_cap: The scene features a black stop sign, with a small gray computer mouse and a gray mouse button nearby.
-instruction: Replace the keyboard with a stop sign.
-taskid: 101

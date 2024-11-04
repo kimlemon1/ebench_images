@@ -1,5 +1,0 @@
-org_img_id: 2331249
-org_cap: the scene features a black keyboard placed on a wooden desk, with a small gray computer mouse and a gray computer mouse button nearby.
-trg_cap: The scene features a large black keyboard placed on a wooden desk, with a small gray computer mouse and a gray computer mouse button nearby.
-instruction: Make the keyboard larger.
-taskid: 103

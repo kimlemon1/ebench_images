@@ -1,5 +1,0 @@
-org_img_id: 2328011
-org_cap: a black and white dog lies on a couch, its paws and its head, surrounded by a warm glow.
-trg_cap: A grey scale photo shows a black and white dog lying on a couch, its paws and head surrounded by a warm glow.
-instruction: Change the style if the image to grey scale.
-taskid: 205

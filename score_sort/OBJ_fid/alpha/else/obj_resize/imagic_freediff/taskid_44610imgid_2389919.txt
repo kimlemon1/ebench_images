@@ -1,5 +1,0 @@
-org_img_id: 2389919
-org_cap: standing, smiling person, with a big smile on his face.
-trg_cap: standing, large, smiling person, with a big smile on his face.
-instruction: Make the person larger.
-taskid: 44610

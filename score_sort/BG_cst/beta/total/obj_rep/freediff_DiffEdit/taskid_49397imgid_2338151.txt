@@ -1,5 +1,0 @@
-org_img_id: 2338151
-org_cap: the kitchen features a yellow - toned room with a large window above the sink, a stainless steel refrigerator with a wooden cabinet above it, and a hardwood floor.
-trg_cap: The kitchen features a yellow-toned room with a large window above the sink, a bird, and hardwood floors.
-instruction: Replace the refrigerator with a bird.
-taskid: 49397

@@ -1,5 +1,0 @@
-org_img_id: 2388274
-org_cap: a man in his mid-twenties with a slender build and a round face, wearing a brown wool coat with a fitted waist and a flared hem, a white dress shirt with a slim collar and a subtle sheen, a black striped necktie, and a pair of black glasses with thick frames, holding a can of beer and a bag of potato chips.
-trg_cap: a man in his mid-twenties with a slender build and a round face, wearing a brown wool coat with a fitted waist and a flared hem, a white dress shirt with a slim collar and a subtle sheen, a small black striped necktie, and a pair of black glasses with thick frames, holding a can of beer and a bag of potato chips.
-instruction: Make the tie smaller.
-taskid: 33783

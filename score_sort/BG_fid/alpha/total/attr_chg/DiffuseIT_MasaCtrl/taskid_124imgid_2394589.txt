@@ -1,5 +1,0 @@
-org_img_id: 2394589
-org_cap: The yellow bus has a design with a curved front and a flat rear, featuring a large glass window and a grille with a rounded edge.
-trg_cap: The maroon bus has a design with a curved front and a flat rear, featuring a large glass window and a grille with a rounded edge.
-instruction: Change the color of the bus from yellow to maroon.
-taskid: 124

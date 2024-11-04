@@ -1,0 +1,5 @@
+org_img_id: 1592301
+org_cap: a blue bus, parked at a bus stop with a clock tower in the background.
+trg_cap: a blue bus, parked at a bus stop with a cave in the background.
+instruction: Change the background to cave.
+taskid: 106983

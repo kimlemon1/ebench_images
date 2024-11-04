@@ -1,5 +1,0 @@
-org_img_id: 2355480
-org_cap: a windsurfer rides the waves on a stormy day, with the blue kite soaring above the water.
-trg_cap: a windsurfer rides the waves on a stormy day, with the rainbow colored kite soaring above the water.
-instruction: Change the color of the kite from blue to rainbow colored.
-taskid: 191

@@ -1,5 +1,0 @@
-org_img_id: 2384334
-org_cap: a person in a white shirt and black pants kicks a yellow frisbee with a friend standing nearby.
-trg_cap: A person in a white shirt and black pants kicks a yellow frisbee with a friend standing nearby, while another person stands in front of the frisbee.
-instruction: Add a person in front of the frisbee.
-taskid: 43527

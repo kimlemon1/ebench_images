@@ -1,5 +1,0 @@
-org_img_id: 2377200
-org_cap: the sleek and modern bus, with its gleaming white body and blue accents, stands proudly at the bus station, its wheels gleaming in the morning sun.
-trg_cap: The sleek and modern small bus, with its gleaming white body and blue accents, stands proudly at the bus station, its wheels gleaming in the morning sun.
-instruction: Make the bus smaller.
-taskid: 56900

@@ -1,5 +1,0 @@
-org_img_id: 2406849
-org_cap: person swings a black baseball bat.
-trg_cap: person swings a large black baseball bat.
-instruction: Make the baseball bat larger.
-taskid: 37782

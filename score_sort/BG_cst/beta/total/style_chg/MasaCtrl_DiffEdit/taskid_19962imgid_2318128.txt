@@ -1,5 +1,0 @@
-org_img_id: 2318128
-org_cap: an airplane, blue and striped, soaring through the clear blue sky at a moderate altitude.
-trg_cap: A graffiti art piece depicts a blue and striped airplane soaring through the clear blue sky at a moderate altitude.
-instruction: Change the style if the image to graffiti art.
-taskid: 19962

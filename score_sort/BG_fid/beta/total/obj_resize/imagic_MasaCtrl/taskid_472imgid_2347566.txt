@@ -1,5 +1,0 @@
-org_img_id: 2347566
-org_cap: a bespectacled individual with a pale complexion and a bland expression holds a brown donut in his hand.
-trg_cap: a bespectacled individual with a pale complexion and a bland expression holds a large brown donut in his hand.
-instruction: Make the donut larger.
-taskid: 472

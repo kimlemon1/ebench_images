@@ -1,5 +1,0 @@
-org_img_id: 498299
-org_cap: "Person swings his racket, his eyes fixed on the ball as he prepares to hit a forehand."
-trg_cap: In the living room, Person swings his racket, his eyes fixed on the ball as he prepares to hit a forehand.
-instruction: Change the background to living room.
-taskid: 123691

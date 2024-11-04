@@ -1,0 +1,5 @@
+org_img_id: 2339891
+org_cap: The stainless steel refrigerator and matching appliances stand tall against the beige walls of the kitchen, with the refrigerator's sleek design and subtle curves adding a touch of modernity to the space.
+trg_cap: The small stainless steel refrigerator and matching appliances stand tall against the beige walls of the kitchen, with the refrigerator's sleek design and subtle curves adding a touch of modernity to the space.
+instruction: Make the refrigerator smaller.
+taskid: 57463

@@ -1,5 +1,0 @@
-org_img_id: 2383021
-org_cap: The steeple rises above the gothic architecture, adorned with intricate stone carvings and a gleaming golden finial at its peak, with a white clock.
-trg_cap: The steeple rises above the gothic architecture, adorned with intricate stone carvings and a gleaming golden finial at its peak, with a white clock, on which sits a bottle.
-instruction: Add a bottle on the clock.
-taskid: 20472

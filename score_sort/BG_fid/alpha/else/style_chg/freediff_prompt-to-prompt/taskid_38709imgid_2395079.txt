@@ -1,5 +1,0 @@
-org_img_id: 2395079
-org_cap: A snowboarding person rides a snowboard.
-trg_cap: The art, in a pop art style, features a person snowboarding.
-instruction: Change the style if the image to pop art style.
-taskid: 38709

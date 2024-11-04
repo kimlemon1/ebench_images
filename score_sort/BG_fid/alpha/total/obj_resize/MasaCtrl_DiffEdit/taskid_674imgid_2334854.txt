@@ -1,0 +1,5 @@
+org_img_id: 2334854
+org_cap: Person, wearing a black wetsuit and booties, rides a surfboard, his arms and hands gripping the board.
+trg_cap: Large person, wearing a black wetsuit and booties, rides a surfboard, his arms and hands gripping the board.
+instruction: Make the person larger.
+taskid: 674

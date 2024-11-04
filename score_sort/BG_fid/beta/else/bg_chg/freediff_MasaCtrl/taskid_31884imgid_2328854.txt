@@ -1,5 +1,0 @@
-org_img_id: 2328854
-org_cap: The white necktie is wrapped around the boy's neck.
-trg_cap: The white necktie is wrapped around the boy's neck as he stands in the vast desert.
-instruction: Change the background to desert.
-taskid: 31884

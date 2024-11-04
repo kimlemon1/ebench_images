@@ -1,5 +1,0 @@
-org_img_id: 2336309
-org_cap: Person, wearing a black jacket and white hat.
-trg_cap: Person, wearing a black jacket and white hat, with a small snowboard.
-instruction: Make the snowboard smaller.
-taskid: 23183

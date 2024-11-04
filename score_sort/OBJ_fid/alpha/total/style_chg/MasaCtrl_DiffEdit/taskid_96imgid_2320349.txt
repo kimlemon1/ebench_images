@@ -1,5 +1,0 @@
-org_img_id: 2320349
-org_cap: A gray, striped cat lies on top of a worn brown suitcase, its paws and its fur.
-trg_cap: A graffiti art piece features a gray, striped cat lying on top of a worn brown suitcase, its paws and fur visible.
-instruction: Change the style if the image to graffiti art.
-taskid: 96

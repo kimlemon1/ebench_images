@@ -1,5 +1,0 @@
-org_img_id: 2384001
-org_cap: a small, blue plastic bowl contains a mixture of cooked white rice, steamed broccoli, sliced tofu, and various vegetables including carrots and mushrooms.
-trg_cap: A small, blue plastic bowl, measuring approximately 6 inches in diameter, contains a mixture of cooked white rice, steamed broccoli, sliced tofu, and various vegetables including carrots and mushrooms.
-instruction: Make the bowl smaller.
-taskid: 47509

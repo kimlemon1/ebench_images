@@ -1,5 +1,0 @@
-org_img_id: 2404602
-org_cap: a white truck with a faded logo and a rusty bumper drives down the street, its rear door adorned with a colorful advertisement for food delivery service.
-trg_cap: a small white truck with a faded logo and a rusty bumper drives down the street, its rear door adorned with a colorful advertisement for food delivery service.
-instruction: Make the truck smaller.
-taskid: 111761

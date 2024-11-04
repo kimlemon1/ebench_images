@@ -1,5 +1,0 @@
-org_img_id: 2401826
-org_cap: The skateboard is a black skateboard with a yellow stripe running down the middle.
-trg_cap: The cat is a cat.
-instruction: Replace the skateboard with a cat.
-taskid: 27600

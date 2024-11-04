@@ -1,5 +1,0 @@
-org_img_id: 1176
-org_cap: The kitchen features a white oven, situated against a yellow wall with a window above it.
-trg_cap: The kitchen features a brown oven, situated against a yellow wall with a window above it.
-instruction: Change the color of the oven from white to brown.
-taskid: 283

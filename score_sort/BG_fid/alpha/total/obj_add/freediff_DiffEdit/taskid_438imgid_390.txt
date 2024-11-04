@@ -1,5 +1,0 @@
-org_img_id: 390
-org_cap: a person sits at a desk, wearing glasses and a shirt with a floral pattern, with a black cup and a keyboard in front of them.
-trg_cap: A person sits at a desk, wearing glasses and a shirt with a floral pattern, with a black cup and a keyboard in front of them, and a dog behind the cup.
-instruction: Add a dog behind the cup.
-taskid: 438

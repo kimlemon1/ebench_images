@@ -1,5 +1,0 @@
-org_img_id: 2392914
-org_cap: The couch is a brown couch, placed on a rectangular coffee table with a worn, dark wood finish.
-trg_cap: In the cozy restaurant, the couch is a brown couch, placed on a rectangular coffee table with a worn, dark wood finish.
-instruction: Change the background to restaurant.
-taskid: 35185

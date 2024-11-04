@@ -1,5 +1,0 @@
-org_img_id: 2356693
-org_cap: a person holds a silver cell phone in his hand, his fingers curled around it as he speaks into it with a goofy grin on his face.
-trg_cap: In the vast expanse of the desert, a person holds a silver cell phone in his hand, his fingers curled around it as he speaks into it with a goofy grin on his face.
-instruction: Change the background to desert.
-taskid: 116124

@@ -1,5 +1,0 @@
-org_img_id: 2326070
-org_cap: The bowl sat on the table, filled with a tangled mess of pasta and broccoli.
-trg_cap: The small bowl sat on the table, filled with a tangled mess of pasta and broccoli.
-instruction: Make the bowl smaller.
-taskid: 24794

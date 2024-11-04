@@ -1,5 +1,0 @@
-org_img_id: 2326167
-org_cap: a jumping black dog, its paws and its tail as it, with a person standing nearby.
-trg_cap: A jumping black dog, its paws and its tail as it, with a person standing nearby in front of a large aquarium.
-instruction: Change the background to aquarium.
-taskid: 360

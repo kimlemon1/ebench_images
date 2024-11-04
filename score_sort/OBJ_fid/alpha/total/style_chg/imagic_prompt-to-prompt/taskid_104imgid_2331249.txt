@@ -1,5 +1,0 @@
-org_img_id: 2331249
-org_cap: the scene features a black keyboard placed on a wooden desk, with a small gray computer mouse and a gray computer mouse button nearby.
-trg_cap: A Van Gogh style art features a scene with a black keyboard placed on a wooden desk, accompanied by a small gray computer mouse and a gray computer mouse button nearby.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 104

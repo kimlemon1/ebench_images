@@ -1,5 +1,0 @@
-org_img_id: 2347401
-org_cap: The black clock face is a dial with roman numerals and intricate carvings, surrounded by ornate gold filigree and a statue of a person holding a hammer.
-trg_cap: An ancient Egyptian-style artwork features a black clock face with Roman numerals and intricate carvings, surrounded by ornate gold filigree and a statue of a person holding a hammer.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 103854

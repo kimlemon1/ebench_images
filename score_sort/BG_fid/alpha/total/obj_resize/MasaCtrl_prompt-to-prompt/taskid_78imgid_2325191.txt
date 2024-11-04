@@ -1,5 +1,0 @@
-org_img_id: 2325191
-org_cap: the worn wooden bench, weathered to a soft green, leans against the brick wall, its slats slightly askew, with a few wisps of grass sprouting from the cracks.
-trg_cap: the worn wooden bench, large and weathered to a soft green, leans against the brick wall, its slats slightly askew, with a few wisps of grass sprouting from the cracks.
-instruction: Make the bench larger.
-taskid: 78

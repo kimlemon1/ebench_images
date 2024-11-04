@@ -1,5 +1,0 @@
-org_img_id: 2382136
-org_cap: Jumping, skateboarding person off the gray skateboard, his legs and his arms as he through the air, the gray skateboard gliding across the concrete path.
-trg_cap: Jumping, skateboarding person in front of the gray skateboard, his legs and his arms as he through the air, the gray skateboard gliding across the concrete path.
-instruction: Add a person in front of the skateboard.
-taskid: 74856

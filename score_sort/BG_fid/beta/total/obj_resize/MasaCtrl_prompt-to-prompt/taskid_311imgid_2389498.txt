@@ -1,5 +1,0 @@
-org_img_id: 2389498
-org_cap: person to lift a large refrigerator off a trailer.
-trg_cap: person to lift a large small refrigerator off a trailer.
-instruction: Make the refrigerator smaller.
-taskid: 311

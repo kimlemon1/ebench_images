@@ -1,5 +1,0 @@
-org_img_id: 2328098
-org_cap: a lone person sits under a black umbrella on the sandy beach, surrounded by the blue sky and the distant waves of the ocean.
-trg_cap: A lone person sits under a black umbrella on the sandy beach, on a chair, surrounded by the blue sky and the distant waves of the ocean.
-instruction: Add a chair on the umbrella.
-taskid: 3348

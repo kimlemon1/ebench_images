@@ -1,5 +1,0 @@
-org_img_id: 2356084
-org_cap: Person holds a large white umbrella in his office, surrounded by a plain background and a dog on a chair.
-trg_cap: Person holds a large white umbrella in his office, surrounded by a gym background and a dog on a chair.
-instruction: Change the background to gym.
-taskid: 30584

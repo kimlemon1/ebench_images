@@ -1,5 +1,0 @@
-org_img_id: 2315670
-org_cap: a single, vibrant broccoli sits atop a striped tablecloth, surrounded by a few yellow carrots and a scattering of leaves.
-trg_cap: A single, vibrant broccoli sits atop a striped tablecloth, surrounded by a few yellow carrots and a scattering of leaves, with a serene lakeside view in the background.
-instruction: Change the background to lake side.
-taskid: 384

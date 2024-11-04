@@ -1,5 +1,0 @@
-org_img_id: 2386850_1
-org_cap: person through a lush green meadow, his white shirt behind him as he after a majestic white person that under the warm sun.
-trg_cap: person through a dimly lit cave, his white shirt behind him as he after a majestic white person that under the warm sun.
-instruction: Change the background to cave.
-taskid: 44938

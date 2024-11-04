@@ -1,5 +1,0 @@
-org_img_id: 2343635
-org_cap: person rides a surfboard, his black wetsuit glistening in the sunlight.
-trg_cap: A person stands next to the surfboard, rides a surfboard, his black wetsuit glistening in the sunlight.
-instruction: Add a person next to the surfboard.
-taskid: 24403

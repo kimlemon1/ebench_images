@@ -1,5 +1,0 @@
-org_img_id: 2416699_1
-org_cap: a young man in a black shirt and pants stands next to a vintage bicycle with a large wheel and a basket attached, his hand resting on the handlebars, while a small brown dog with white patches at his feet.
-trg_cap: A Van Gogh style art depicts a young man in a black shirt and pants standing next to a vintage bicycle with a large wheel and a basket attached, his hand resting on the handlebars, while a small brown dog with white patches sits at his feet.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 41145

@@ -1,5 +1,0 @@
-org_img_id: 2383836
-org_cap: a person sits on a stone bench, wearing a white.
-trg_cap: A person sits on a stone bench, wearing a white, to the left of the frisbee.
-instruction: Add a person on the left side of the frisbee.
-taskid: 63870

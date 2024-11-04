@@ -1,5 +1,0 @@
-org_img_id: 2414462
-org_cap: The scene is focused on a black oven, situated in a modern kitchen with white cabinets, dark granite countertops, and a black island.
-trg_cap: The scene is focused on a black oven, situated in a modern kitchen with white cabinets, dark granite countertops, and a black island, with a clock behind the oven.
-instruction: Add a clock behind the oven.
-taskid: 22969

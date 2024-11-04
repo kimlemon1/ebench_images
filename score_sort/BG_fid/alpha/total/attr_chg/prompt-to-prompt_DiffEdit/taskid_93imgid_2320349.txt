@@ -1,5 +1,0 @@
-org_img_id: 2320349
-org_cap: A gray, striped cat lies on top of a worn brown suitcase, its paws and its fur.
-trg_cap: A yellow, striped cat lies on top of a worn brown suitcase, its paws and its fur.
-instruction: Change the color of the cat from gray to yellow.
-taskid: 93

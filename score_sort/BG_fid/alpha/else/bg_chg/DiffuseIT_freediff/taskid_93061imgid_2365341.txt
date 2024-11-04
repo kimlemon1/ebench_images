@@ -1,5 +1,0 @@
-org_img_id: 2365341
-org_cap: "Person, wearing a flannel shirt and jeans, on the edge of a skateboard ramp, his board at a 45-degree angle as he into a trick."
-trg_cap: Person, wearing a flannel shirt and jeans, on the edge of a skateboard ramp inside a cave, his board at a 45-degree angle as he into a trick.
-instruction: Change the background to cave.
-taskid: 93061

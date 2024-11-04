@@ -1,5 +1,0 @@
-org_img_id: 2319711
-org_cap: A class 66 locomotive hauls a colorful train of freight cars along the train tracks.
-trg_cap: A class 66 locomotive hauls a small, colorful train of freight cars along the train tracks.
-instruction: Make the train smaller.
-taskid: 44534

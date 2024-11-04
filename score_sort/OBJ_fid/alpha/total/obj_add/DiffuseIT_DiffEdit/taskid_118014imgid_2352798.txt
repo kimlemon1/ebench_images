@@ -1,5 +1,0 @@
-org_img_id: 2352798
-org_cap: a young person walks alone on the beach, carrying a white surfboard, the sun setting behind him casting a warm glow on the sandy shore.
-trg_cap: A young person walks alone on the beach, carrying a white surfboard, with another person under the surfboard, the sun setting behind him casting a warm glow on the sandy shore.
-instruction: Add a person under the surfboard.
-taskid: 118014

@@ -1,5 +1,0 @@
-org_img_id: 2359753
-org_cap: a standing person on the skate park, wearing a black tank top and distressed denim jeans, his hair messy and unkempt, a person by his side.
-trg_cap: A standing person on the skate park, wearing a black tank top and distressed denim jeans, his hair messy and unkempt, a person by his side, reminiscent of a scene from a hospital waiting room.
-instruction: Change the background to hospital.
-taskid: 33273

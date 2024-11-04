@@ -1,5 +1,0 @@
-org_img_id: 2340924
-org_cap: Person on his blue snowboard, his red jacket and bright blue pants a splash of color against the winter wonderland backdrop.
-trg_cap: Person on his blue snowboard, his red jacket and bright blue pants a splash of color against the winter wonderland backdrop, gliding down the snowy slope.
-instruction: Add a person on the snowboard.
-taskid: 78603

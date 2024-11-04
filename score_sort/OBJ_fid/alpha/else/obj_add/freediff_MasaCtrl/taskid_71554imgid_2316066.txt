@@ -1,5 +1,0 @@
-org_img_id: 2316066
-org_cap: Person, wearing a gray t-shirt and blue jeans, his feet deftly manipulating the skateboard.
-trg_cap: Person, wearing a gray t-shirt and blue jeans, his feet deftly manipulating the skateboard, is under the skateboard.
-instruction: Add a person under the skateboard.
-taskid: 71554

@@ -1,5 +1,0 @@
-org_img_id: 2416146
-org_cap: the woman's hand cradles the cell phone, her fingers wrapped around the cell phone as she types away with her thumbs.
-trg_cap: In the midst of a tropical jungle, the woman's hand cradles the cell phone, her fingers wrapped around the cell phone as she types away with her thumbs.
-instruction: Change the background to tropical jungle.
-taskid: 314

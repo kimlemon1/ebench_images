@@ -1,5 +1,0 @@
-org_img_id: 2382678
-org_cap: A sitting person skateboarding sits on a skateboard with a wooden pole in his hand, his legs and his feet, his eyes on the path ahead.
-trg_cap: A sitting person skateboarding sits on a large skateboard with a wooden pole in his hand, his legs and his feet, his eyes on the path ahead.
-instruction: Make the skateboard larger.
-taskid: 69574

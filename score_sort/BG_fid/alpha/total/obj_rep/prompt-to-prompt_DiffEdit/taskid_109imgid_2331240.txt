@@ -1,5 +1,0 @@
-org_img_id: 2331240
-org_cap: Person is challenging slopes of the ski course.
-trg_cap: a couch is sliding down slopes of the ski course.
-instruction: Replace the person with a couch.
-taskid: 109

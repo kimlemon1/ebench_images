@@ -1,5 +1,0 @@
-org_img_id: 2377944
-org_cap: a white surfing dog on a surfboard, its legs and its face, as if enjoying the ocean breeze.
-trg_cap: a black and white surfing dog on a surfboard, its legs and its face, as if enjoying the ocean breeze.
-instruction: Change the color of the dog from white to black and white.
-taskid: 102619

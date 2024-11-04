@@ -1,5 +1,0 @@
-org_img_id: 2320466
-org_cap: "a person in his mid-twenties with a ruggedly handsome face, wearing a black t-shirt and faded jeans, his legs crossed and his eyes on a smartphone in his hand, a pair of aviator sunglasses on his forehead, a small smile on his lips as he listens to music or a conversation on the phone."
-trg_cap: A person in his mid-twenties with a ruggedly handsome face, wearing a black t-shirt and faded jeans, his legs crossed and his eyes on a smartphone in his hand, a pair of aviator sunglasses on his forehead, a small smile on his lips as he listens to music or a conversation on the phone, sits against the backdrop of a vast desert landscape.
-instruction: Change the background to desert.
-taskid: 6859

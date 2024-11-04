@@ -1,5 +1,0 @@
-org_img_id: 2320327
-org_cap: a gray, sitting, adult cat on the roof of a vintage taxi cab, its fur glistening with raindrops.
-trg_cap: a large, gray, sitting, adult cat on the roof of a vintage taxi cab, its fur glistening with raindrops.
-instruction: Make the cat larger.
-taskid: 122137

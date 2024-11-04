@@ -1,5 +1,0 @@
-org_img_id: 2354953
-org_cap: a person holds a green cell phone with a blurry background of a concert stage.
-trg_cap: A grayscale photo shows a person holding a green cell phone against a blurry background of a concert stage.
-instruction: Change the style if the image to grey scale.
-taskid: 61573

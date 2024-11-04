@@ -1,5 +1,0 @@
-org_img_id: 2352683
-org_cap: person through the air, his green board splashing into the water as he a tricky trick.
-trg_cap: A cartoon-style art depicts a person soaring through the air, performing a tricky trick as his green board splashes into the water.
-instruction: Change the style if the image to cartoon style.
-taskid: 154

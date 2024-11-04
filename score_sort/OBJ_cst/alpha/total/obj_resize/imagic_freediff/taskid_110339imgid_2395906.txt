@@ -1,5 +1,0 @@
-org_img_id: 2395906
-org_cap: a skateboarder in a white helmet and green protective gear zooms down a paved road on his skateboard, the wheels spinning rapidly as he navigates a turn.
-trg_cap: a skateboarder in a white helmet and green protective gear zooms down a paved road on his small skateboard, the wheels spinning rapidly as he navigates a turn.
-instruction: Make the skateboard smaller.
-taskid: 110339

@@ -1,5 +1,0 @@
-org_img_id: 2341097
-org_cap: The toilet is a white toilet, surrounded by a small, blue and beige tile floor with a subtle pattern.
-trg_cap: The pop art style artwork features a white toilet surrounded by a small, blue and beige tile floor with a subtle pattern.
-instruction: Change the style if the image to pop art style.
-taskid: 419

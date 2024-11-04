@@ -1,0 +1,5 @@
+org_img_id: 2366922
+org_cap: a greyish-white bird with a distinctive greyish-white plumage and a long, pointed wing against a clear blue sky.
+trg_cap: An oil painting style art features a greyish-white bird with distinctive plumage and a long, pointed wing against a clear blue sky.
+instruction: Change the style if the image to oil painting style.
+taskid: 105613

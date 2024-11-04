@@ -1,5 +1,0 @@
-org_img_id: 2316506
-org_cap: a brown dog with a yellow frisbee on the grass, its fur slightly damp from the morning dew.
-trg_cap: A brown dog on the bed, his fur slightly damp from the morning dew.
-instruction: Replace the frisbee with a bed.
-taskid: 255

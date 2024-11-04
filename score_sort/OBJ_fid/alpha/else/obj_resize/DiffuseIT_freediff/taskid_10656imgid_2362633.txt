@@ -1,5 +1,0 @@
-org_img_id: 2362633
-org_cap: "a small, dark blue bird with a distinctive blue stripe on its head and a subtle sheen to its feathers on a small, grayish plant, its bright blue eyes fixed intently on something in the distance."
-trg_cap: a large, dark blue bird with a distinctive blue stripe on its head and a subtle sheen to its feathers on a small, grayish plant, its bright blue eyes fixed intently on something in the distance.
-instruction: Make the bird larger.
-taskid: 10656

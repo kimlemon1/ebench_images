@@ -1,5 +1,0 @@
-org_img_id: 2415100
-org_cap: a young person wearing green and blue clothing is riding a green skateboard across a striped crosswalk.
-trg_cap: a young person wearing gold and blue clothing is riding a gold skateboard across a striped crosswalk.
-instruction: Change the color of the skateboard from green to gold.
-taskid: 219

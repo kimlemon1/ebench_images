@@ -1,0 +1,5 @@
+org_img_id: 2403076
+org_cap: The toilet is a white, clean toilet with a chrome handle and a small rim around the edge.
+trg_cap: The toilet is a white, rusty toilet with a chrome handle and a small rim around the edge.
+instruction: Change the state of the toilet from clean to rusty.
+taskid: 20416

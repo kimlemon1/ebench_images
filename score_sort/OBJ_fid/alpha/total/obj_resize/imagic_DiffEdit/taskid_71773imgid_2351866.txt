@@ -1,5 +1,0 @@
-org_img_id: 2351866
-org_cap: a person holds a banana in their hand, the banana curved around their fingers with a few brown spots and a small, shiny streak on its surface.
-trg_cap: a person holds a small banana in their hand, the banana curved around their fingers with a few brown spots and a small, shiny streak on its surface.
-instruction: Make the banana smaller.
-taskid: 71773

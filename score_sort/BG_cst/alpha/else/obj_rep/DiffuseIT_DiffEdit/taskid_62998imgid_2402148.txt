@@ -1,5 +1,0 @@
-org_img_id: 2402148
-org_cap: Playing person stands on the mound, legs in a crouch, arm back and ready to unleash a fastball.
-trg_cap: Bird stands on the mound, legs in a crouch, arm back and ready to unleash its fastball.
-instruction: Replace the person with a bird.
-taskid: 62998

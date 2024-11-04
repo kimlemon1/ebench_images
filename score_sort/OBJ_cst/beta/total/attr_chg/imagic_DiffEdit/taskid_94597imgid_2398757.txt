@@ -1,0 +1,5 @@
+org_img_id: 2398757
+org_cap: a white airplane, against a grey sky with clouds.
+trg_cap: a pink airplane, against a grey sky with clouds.
+instruction: Change the color of the airplane from white to pink.
+taskid: 94597

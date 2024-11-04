@@ -1,5 +1,0 @@
-org_img_id: 2391428
-org_cap: a walking person across the grassy area, surrounded by pigeons, with a pink umbrella.
-trg_cap: a walking person across the grassy area, surrounded by pigeons, with a large pink umbrella.
-instruction: Make the umbrella larger.
-taskid: 4562

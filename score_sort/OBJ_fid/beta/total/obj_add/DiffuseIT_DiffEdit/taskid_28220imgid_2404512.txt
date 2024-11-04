@@ -1,5 +1,0 @@
-org_img_id: 2404512
-org_cap: a person in a black tank top and athletic shorts jumps high in the air, their legs splayed and arms outstretched, as they attempt to catch a yellow frisbee flying towards them.
-trg_cap: A person in a black tank top and athletic shorts jumps high in the air, their legs splayed and arms outstretched, as they attempt to catch a yellow frisbee flying towards them, while another person stands in front of the frisbee.
-instruction: Add a person in front of the frisbee.
-taskid: 28220

@@ -1,5 +1,0 @@
-org_img_id: 2383721
-org_cap: standing person at the edge of a crystal-clear blue river.
-trg_cap: standing person at the edge of a crystal-clear blue river, with the distant sound of music echoing from a nearby concert hall.
-instruction: Change the background to concert hall.
-taskid: 425

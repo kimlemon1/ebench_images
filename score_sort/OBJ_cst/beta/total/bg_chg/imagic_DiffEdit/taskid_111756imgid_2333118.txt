@@ -1,5 +1,0 @@
-org_img_id: 2333118
-org_cap: person stands on the tennis court, his white tennis outfit contrasting with the lush green grass beneath his feet. his racket is held, his eyes fixed on the ball as it soars towards him.
-trg_cap: Person stands on the tennis court, his white tennis outfit contrasting with the lush green grass beneath his feet. In the distance, the sounds of a bustling train station echo, with trains arriving and departing, and announcements crackling over the loudspeakers. His racket is held, his eyes fixed on the ball as it soars towards him.
-instruction: Change the background to train station.
-taskid: 111756

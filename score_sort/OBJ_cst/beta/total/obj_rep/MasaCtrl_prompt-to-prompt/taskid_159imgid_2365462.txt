@@ -1,5 +1,0 @@
-org_img_id: 2365462
-org_cap: a person on a black skateboard
-trg_cap: A toaster, toaster, its black skateboard spinning as it lands, a blur against the bright blue sky.
-instruction: Replace the person with a toaster.
-taskid: 159

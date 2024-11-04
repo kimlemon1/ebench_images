@@ -1,5 +1,0 @@
-org_img_id: 2408002
-org_cap: person holds an orange frisbee in his hand, wearing a pair of sunglasses and a red t-shirt with a faded logo.
-trg_cap: The person on the left side of the frisbee holds an orange frisbee in his hand, wearing a pair of sunglasses and a red t-shirt with a faded logo.
-instruction: Add a person on the left side of the frisbee.
-taskid: 98654

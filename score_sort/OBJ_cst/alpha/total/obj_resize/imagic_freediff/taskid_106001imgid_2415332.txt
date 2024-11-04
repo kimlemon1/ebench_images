@@ -1,0 +1,5 @@
+org_img_id: 2415332
+org_cap: person in a green and yellow snowboard jacket, with a white helmet and goggles, is on their snowboard.
+trg_cap: A large person in a green and yellow snowboard jacket, with a white helmet and goggles, is on their snowboard.
+instruction: Make the person larger.
+taskid: 106001

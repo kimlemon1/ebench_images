@@ -1,5 +1,0 @@
-org_img_id: 2320344
-org_cap: A brown horse, pulled by a person wearing a white shirt and a hat, is along the sandy beach by a person wearing a bright yellow shirt.
-trg_cap: A chocolate horse, pulled by a person wearing a white shirt and a hat, is along the sandy beach by a person wearing a bright yellow shirt.
-instruction: Change the color of the horse from brown to chocolate.
-taskid: 58

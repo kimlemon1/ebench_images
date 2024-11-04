@@ -1,5 +1,0 @@
-org_img_id: 2390555
-org_cap: A slice of pizza sits alone on a white plate, surrounded by a metal silver knife and a few crumbs.
-trg_cap: A slice of pizza sits alone on a white plate, surrounded by a metal stainless steel knife and a few crumbs.
-instruction: Change the material of the knife from silver to stainless steel.
-taskid: 114865

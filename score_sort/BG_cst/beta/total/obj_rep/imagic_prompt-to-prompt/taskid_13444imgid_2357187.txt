@@ -1,0 +1,5 @@
+org_img_id: 2357187
+org_cap: A white horse in a green meadow surrounded by rolling hills and a distant mountain range in the background.
+trg_cap: The truck in a green meadow surrounded by rolling hills and a distant mountain range in the background.
+instruction: Replace the horse with a truck.
+taskid: 13444

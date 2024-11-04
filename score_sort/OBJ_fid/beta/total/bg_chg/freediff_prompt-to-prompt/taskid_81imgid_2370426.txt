@@ -1,5 +1,0 @@
-org_img_id: 2370426
-org_cap: the black clock above the counter dominates the room, its ornate face and intricate details drawing the eye upwards.
-trg_cap: The black clock above the counter dominates the room, its ornate face and intricate details drawing the eye upwards, reminiscent of the towering trees in a pine forest.
-instruction: Change the background to pine forest.
-taskid: 81

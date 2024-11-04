@@ -1,5 +1,0 @@
-org_img_id: 2408244
-org_cap: surfing person rides a gray surfboard, his shirt and splashing water.
-trg_cap: A small surfing person rides a gray surfboard, his shirt and splashing water.
-instruction: Make the person smaller.
-taskid: 119697

@@ -1,5 +1,0 @@
-org_img_id: 2395026
-org_cap: The blue old bus, with its distinctive old-fashioned headlights and rounded body, stands proudly in the city square.
-trg_cap: The yellow old bus, with its distinctive old-fashioned headlights and rounded body, stands proudly in the city square.
-instruction: Change the color of the bus from blue to yellow.
-taskid: 54984

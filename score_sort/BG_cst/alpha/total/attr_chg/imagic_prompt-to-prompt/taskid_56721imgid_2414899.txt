@@ -1,5 +1,0 @@
-org_img_id: 2414899
-org_cap: the brown donut sit on a white plate, their bodies, with a sheen and a few cracks on the surface, and a sprinkle of blueberry seeds scattered across the top.
-trg_cap: the blue donut sit on a white plate, their bodies, with a sheen and a few cracks on the surface, and a sprinkle of blueberry seeds scattered across the top.
-instruction: Change the color of the donut from brown to blue.
-taskid: 56721

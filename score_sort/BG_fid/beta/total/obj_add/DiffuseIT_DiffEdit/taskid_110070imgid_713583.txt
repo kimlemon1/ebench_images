@@ -1,0 +1,5 @@
+org_img_id: 713583
+org_cap: A motorcyclist wearing a helmet and a rain jacket rides a motorcycle through the flooded street, navigating through the chest-deep water with caution.
+trg_cap: A motorcyclist wearing a helmet and a rain jacket rides a motorcycle through the flooded street, navigating through the chest-deep water with caution, while a car follows behind.
+instruction: Add a car behind the motorcycle.
+taskid: 110070

@@ -1,5 +1,0 @@
-org_img_id: 2396116
-org_cap: a person rides a white surfboard through the waves, his arms and legs splayed in a fluid motion as he carves through the water.
-trg_cap: A person rides a white surfboard through the waves, his arms and legs splayed in a fluid motion as he carves through the water, with another person next to the surfboard.
-instruction: Add a person next to the surfboard.
-taskid: 41766

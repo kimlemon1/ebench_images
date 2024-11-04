@@ -1,5 +1,0 @@
-org_img_id: 2365211
-org_cap: a striped zebra with black and white stripes, its long neck and legs as it grazes on the green grass.
-trg_cap: a small striped zebra with black and white stripes, its long neck and legs as it grazes on the green grass.
-instruction: Make the zebra smaller.
-taskid: 223

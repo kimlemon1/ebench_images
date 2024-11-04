@@ -1,0 +1,5 @@
+org_img_id: 2339005
+org_cap: "Person at a wooden table, wearing a blue shirt and glasses, with a laptop in front of him and a cup of coffee and a can of soda nearby, his eyes on the screen."
+trg_cap: He sat at a wooden table, with a laptop in front of him and a cup of coffee and a can of soda nearby.
+instruction: Replace the person with a laptop.
+taskid: 95554

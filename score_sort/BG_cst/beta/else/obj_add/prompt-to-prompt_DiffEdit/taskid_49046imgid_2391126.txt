@@ -1,5 +1,0 @@
-org_img_id: 2391126
-org_cap: The clock tower features a pointed roof with a decorative finial at the top, and a white clock.
-trg_cap: The clock tower features a pointed roof with a decorative finial at the top, and a white clock, next to which is a sports ball.
-instruction: Add a sports ball next to the clock.
-taskid: 49046

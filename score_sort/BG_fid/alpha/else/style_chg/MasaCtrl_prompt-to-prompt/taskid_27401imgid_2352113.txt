@@ -1,5 +1,0 @@
-org_img_id: 2352113
-org_cap: person his arms above his head, his person held in his right hand, his white person his person, his person his person, his eyes on the person him.
-trg_cap: A graffiti art depicts a person with arms above his head, holding a white figure in his right hand, with his eyes focused on the figure.
-instruction: Change the style if the image to graffiti art.
-taskid: 27401

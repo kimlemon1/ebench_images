@@ -1,5 +1,0 @@
-org_img_id: 2373918
-org_cap: a sleek black cat with a shiny coat and piercing green eyes sits on the edge of a worn stone wall, its tail as it its surroundings.
-trg_cap: A grayscale photo features a sleek black cat with a shiny coat and piercing green eyes sitting on the edge of a worn stone wall, its tail blending with its surroundings.
-instruction: Change the style if the image to grey scale.
-taskid: 83254

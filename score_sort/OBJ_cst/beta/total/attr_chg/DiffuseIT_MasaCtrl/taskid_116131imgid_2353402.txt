@@ -1,5 +1,0 @@
-org_img_id: 2353402
-org_cap: A green train chugs along the green train track, its wheels clicking on the green train as it disappears into the distance, surrounded by a lush tapestry of greenery and colorful flowers, with the tranquil waters of the green train glinting in the sunlight.
-trg_cap: A black and white train chugs along the black and white train track, its wheels clicking on the black and white train as it disappears into the distance, surrounded by a lush tapestry of black and whiteery and colorful flowers, with the tranquil waters of the black and white train glinting in the sunlight.
-instruction: Change the color of the train from green to black and white.
-taskid: 116131

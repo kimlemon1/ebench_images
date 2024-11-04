@@ -1,5 +1,0 @@
-org_img_id: 2348617
-org_cap: the small living room features a worn-out couch, a glass coffee table, and a tv mounted on the wall.
-trg_cap: The small living room features a worn-out couch, a glass coffee table, and an apple.
-instruction: Replace the tv with a apple.
-taskid: 96859

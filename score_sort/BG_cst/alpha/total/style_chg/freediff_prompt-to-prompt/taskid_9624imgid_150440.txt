@@ -1,5 +1,0 @@
-org_img_id: 150440
-org_cap: A black, open laptop sits on a black desk, surrounded by various electronic devices and accessories, including a white speaker, a black phone, and a stack of white earbuds.
-trg_cap: A grayscale photo features a black, open laptop on a black desk, surrounded by various electronic devices and accessories, including a white speaker, a black phone, and a stack of white earbuds.
-instruction: Change the style if the image to grey scale.
-taskid: 9624

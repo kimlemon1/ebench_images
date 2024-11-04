@@ -1,0 +1,5 @@
+org_img_id: 2362786
+org_cap: Person, clad in a black wetsuit and hood, off the crest of a wave, his surfboard as he a smooth aerial maneuver.
+trg_cap: Person, clad in a black wetsuit and hood, off the crest of a wave, his surfboard behind him as he a smooth aerial maneuver.
+instruction: Add a surfboard behind the person.
+taskid: 104973

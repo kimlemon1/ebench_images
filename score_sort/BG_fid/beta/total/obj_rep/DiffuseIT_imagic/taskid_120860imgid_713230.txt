@@ -1,0 +1,5 @@
+org_img_id: 713230
+org_cap: the room features a vintage tv sitting on a wooden console table, surrounded by a mix of modern and vintage decorative items, including a colorful rug, a geometric-patterned side table, and a few framed photographs.
+trg_cap: The room features a vintage dining table, surrounded by a mix of modern and vintage decorative items, including a colorful rug, a geometric-patterned side table, and several framed photographs.
+instruction: Replace the tv with a dining table.
+taskid: 120860

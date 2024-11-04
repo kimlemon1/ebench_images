@@ -1,5 +1,0 @@
-org_img_id: 2316506
-org_cap: a brown dog with a yellow frisbee on the grass, its fur slightly damp from the morning dew.
-trg_cap: a brown dog with a small yellow frisbee on the grass, its fur slightly damp from the morning dew.
-instruction: Make the frisbee smaller.
-taskid: 257

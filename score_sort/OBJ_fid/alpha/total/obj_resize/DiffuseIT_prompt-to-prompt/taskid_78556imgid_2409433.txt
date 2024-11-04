@@ -1,5 +1,0 @@
-org_img_id: 2409433
-org_cap: the plate features a crispy fried chicken breast, served atop a bed of steamed broccoli with a drizzle of creamy mac and cheese.
-trg_cap: the plate features a crispy fried chicken breast, served atop a bed of large steamed broccoli with a drizzle of creamy mac and cheese.
-instruction: Make the broccoli larger.
-taskid: 78556

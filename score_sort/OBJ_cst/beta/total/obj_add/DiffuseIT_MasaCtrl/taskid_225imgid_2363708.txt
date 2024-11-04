@@ -1,5 +1,0 @@
-org_img_id: 2363708
-org_cap: the black dog sits beside a skateboard, who sits cross-legged on a wooden ramp with a skateboard at his feet.
-trg_cap: The black dog sits beside a skateboard, with a couch behind the dog, who sits cross-legged on a wooden ramp with a skateboard at his feet.
-instruction: Add a couch behind the dog.
-taskid: 225

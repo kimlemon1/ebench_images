@@ -1,0 +1,5 @@
+org_img_id: 2338781
+org_cap: A turboprop airplane, specifically a bombardier q, flies overhead with a blue sky and white clouds in the background, while other airplanes and airplanes are visible in the distance.
+trg_cap: The graffiti art features a turboprop airplane, specifically a Bombardier Q, flying overhead against a backdrop of blue sky and white clouds, with other airplanes visible in the distance.
+instruction: Change the style if the image to graffiti art.
+taskid: 98399

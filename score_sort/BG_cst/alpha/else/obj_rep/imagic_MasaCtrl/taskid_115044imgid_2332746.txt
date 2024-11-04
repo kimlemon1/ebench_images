@@ -1,5 +1,0 @@
-org_img_id: 2332746
-org_cap: A silver airplane flies across a bright blue sky.
-trg_cap: A suitcase flies across a bright blue sky.
-instruction: Replace the airplane with a suitcase.
-taskid: 115044

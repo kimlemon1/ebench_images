@@ -1,5 +1,0 @@
-org_img_id: 2365502
-org_cap: A standing, young, blond, smiling person in a white tennis outfit holds a tennis racket on a lush green tennis court, playing.
-trg_cap: A small, standing, young, blond, smiling person in a white tennis outfit holds a tennis racket on a lush green tennis court, playing.
-instruction: Make the person smaller.
-taskid: 4806

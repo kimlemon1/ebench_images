@@ -1,5 +1,0 @@
-org_img_id: 2372088
-org_cap: The train is a gray train with a gray livery, featuring a gray nose and a gray roof, with a gray level of gray windows and gray doors along its length.
-trg_cap: The train is a small gray train with a gray livery, featuring a gray nose and a gray roof, with a gray level of gray windows and gray doors along its length.
-instruction: Make the train smaller.
-taskid: 15933

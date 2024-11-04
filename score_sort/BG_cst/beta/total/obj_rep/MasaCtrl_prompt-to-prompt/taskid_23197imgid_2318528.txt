@@ -1,5 +1,0 @@
-org_img_id: 2318528
-org_cap: A surfing person rides a blue surfboard, her bright pink swimsuit and orange rash guard visible.
-trg_cap: A surfing umbrella rides its blue surfboard.
-instruction: Replace the person with a umbrella.
-taskid: 23197

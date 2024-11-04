@@ -1,5 +1,0 @@
-org_img_id: 2365462
-org_cap: a person on a black skateboard.
-trg_cap: a person on a pink skateboard.
-instruction: Change the color of the skateboard from black to pink.
-taskid: 166

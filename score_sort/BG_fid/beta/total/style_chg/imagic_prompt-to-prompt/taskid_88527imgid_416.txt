@@ -1,5 +1,0 @@
-org_img_id: 416
-org_cap: the waitress carefully balanced the tray of food and drinks as she made her way to the table, the clear glass vase on the tray catching the light as she moved.
-trg_cap: A pop art style artwork depicts a waitress carefully balancing a tray of food and drinks, with a clear glass vase on the tray catching the light as she makes her way to the table.
-instruction: Change the style if the image to pop art style.
-taskid: 88527

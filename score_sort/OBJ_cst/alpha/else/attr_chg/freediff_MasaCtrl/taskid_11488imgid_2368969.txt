@@ -1,5 +1,0 @@
-org_img_id: 2368969
-org_cap: a woman holds a ripe, yellow banana in her hand, her fingers wrapped around the ripe, yellow banana as she takes a bite, her eyes closed in satisfaction.
-trg_cap: a woman holds a unripe, yellow banana in her hand, her fingers wrapped around the unripe, yellow banana as she takes a bite, her eyes closed in satisfaction.
-instruction: Change the state of the banana from ripe to unripe.
-taskid: 11488

@@ -1,5 +1,0 @@
-org_img_id: 2372282
-org_cap: On the table, a plate holds a piece of chicken, surrounded by roasted potatoes and broccoli, with a fork and knife placed neatly beside it.
-trg_cap: On the table, a plate holds a piece of chicken, surrounded by roasted potatoes and broccoli, with a fork and large knife placed neatly beside it.
-instruction: Make the knife larger.
-taskid: 50663

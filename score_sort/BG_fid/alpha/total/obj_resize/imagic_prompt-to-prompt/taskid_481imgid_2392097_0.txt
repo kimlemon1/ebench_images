@@ -1,5 +1,0 @@
-org_img_id: 2392097_0
-org_cap: a running black horse in a sandy enclosure, its mane in the wind.
-trg_cap: a small running black horse in a sandy enclosure, its mane in the wind.
-instruction: Make the horse smaller.
-taskid: 481

@@ -1,0 +1,5 @@
+org_img_id: 2323132
+org_cap: The blue motorcycle zooms around the track, its orange wheels spinning rapidly as it takes a sharp turn.
+trg_cap: The mosaic art contains a blue motorcycle zooming around the track, its orange wheels spinning rapidly as it takes a sharp turn.
+instruction: Change the style if the image to mosaic art.
+taskid: 11720

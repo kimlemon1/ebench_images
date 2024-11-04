@@ -1,5 +1,0 @@
-org_img_id: 2363237
-org_cap: person sits on a black snowboard, adjusting his gloves and looking down at the mountain.
-trg_cap: person sits on a pink snowboard, adjusting his gloves and looking down at the mountain.
-instruction: Change the color of the snowboard from black to pink.
-taskid: 6095

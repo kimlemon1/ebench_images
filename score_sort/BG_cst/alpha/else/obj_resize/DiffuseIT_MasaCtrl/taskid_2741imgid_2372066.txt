@@ -1,5 +1,0 @@
-org_img_id: 2372066
-org_cap: a bright red double-decker bus, with its distinctive square corners and rounded edges, is parked alongside a sleek black taxi cab.
-trg_cap: a small, bright red double-decker bus, with its distinctive square corners and rounded edges, is parked alongside a sleek black taxi cab.
-instruction: Make the bus smaller.
-taskid: 2741

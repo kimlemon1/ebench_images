@@ -1,5 +1,0 @@
-org_img_id: 1592692
-org_cap: A person in her mid-30s with bright red hair and wearing a striped sweater, black leggings, and black boots, stands outside a shop, holding a smartphone.
-trg_cap: A small person in her mid-30s with bright red hair and wearing a striped sweater, black leggings, and black boots, stands outside a shop, holding a smartphone.
-instruction: Make the person smaller.
-taskid: 77003

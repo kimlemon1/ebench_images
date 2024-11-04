@@ -1,0 +1,5 @@
+org_img_id: 2388838
+org_cap: a group of people sat at a table, each person holding a slice of pizza and a tablet computer, surrounded by colorful decorations and a bright atmosphere.
+trg_cap: A group of people sat at a table, each person holding a slice of pizza and a tablet computer, with a bowl under the pizza, surrounded by colorful decorations and a bright atmosphere.
+instruction: Add a bowl under the pizza.
+taskid: 15544

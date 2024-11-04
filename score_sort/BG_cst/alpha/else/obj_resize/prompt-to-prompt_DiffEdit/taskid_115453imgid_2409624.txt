@@ -1,5 +1,0 @@
-org_img_id: 2409624
-org_cap: The swinging, blond person swings her racket, her hair tied back in a ponytail and her tennis dress fluttering, playing.
-trg_cap: The swinging, small blond person swings her racket, her hair tied back in a ponytail and her tennis dress fluttering, playing.
-instruction: Make the person smaller.
-taskid: 115453

@@ -1,5 +1,0 @@
-org_img_id: 2368460
-org_cap: A wood bowl holds four apples, their pale yellow skin glistening in the light, arranged neatly in a circular pattern on the wooden surface.
-trg_cap: A small wood bowl holds four apples, their pale yellow skin glistening in the light, arranged neatly in a circular pattern on the wooden surface.
-instruction: Make the bowl smaller.
-taskid: 51469

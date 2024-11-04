@@ -1,5 +1,0 @@
-org_img_id: 3548
-org_cap: A white bowl sits on a table, containing a small amount of cereal with a few flakes scattered around the white bowl.
-trg_cap: An ancient Egyptian-style artwork depicts a white bowl sitting on a table, containing a small amount of cereal with a few flakes scattered around it.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 37008

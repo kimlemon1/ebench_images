@@ -1,5 +1,0 @@
-org_img_id: 2342885
-org_cap: A stainless steel truck with a green logo and a shiny metallic finish is driving down the highway.
-trg_cap: A small stainless steel truck with a green logo and a shiny metallic finish is driving down the highway.
-instruction: Make the truck smaller.
-taskid: 57025

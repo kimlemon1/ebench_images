@@ -1,0 +1,5 @@
+org_img_id: 2379516
+org_cap: A giraffe stands in the enclosure, with a patchy brown and white coat and a goofy expression on its face.
+trg_cap: A large giraffe stands in the enclosure, with a patchy brown and white coat and a goofy expression on its face.
+instruction: Make the giraffe larger.
+taskid: 22328

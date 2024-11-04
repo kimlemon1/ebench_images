@@ -1,5 +1,0 @@
-org_img_id: 107899
-org_cap: Person holds a red snowboard.
-trg_cap: A small person holds a red snowboard.
-instruction: Make the person smaller.
-taskid: 389

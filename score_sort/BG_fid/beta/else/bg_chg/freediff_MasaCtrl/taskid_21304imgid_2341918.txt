@@ -1,5 +1,0 @@
-org_img_id: 2341918
-org_cap: a person, person, his red snowboard as he, his red snowboard.
-trg_cap: A person, person, his red snowboard as he, his red snowboard, in the vast expanse of the desert.
-instruction: Change the background to desert.
-taskid: 21304

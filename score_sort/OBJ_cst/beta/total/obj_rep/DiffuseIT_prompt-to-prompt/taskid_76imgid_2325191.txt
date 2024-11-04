@@ -1,5 +1,0 @@
-org_img_id: 2325191
-org_cap: the worn wooden bench, weathered to a soft green, leans against the brick wall, its slats slightly askew, with a few wisps of grass sprouting from the cracks.
-trg_cap: The dining table leans against the brick wall, with a few wisps of grass sprouting from its cracks.
-instruction: Replace the bench with a dining table.
-taskid: 76

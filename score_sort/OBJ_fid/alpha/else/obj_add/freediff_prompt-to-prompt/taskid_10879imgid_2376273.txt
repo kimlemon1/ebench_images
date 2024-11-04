@@ -1,5 +1,0 @@
-org_img_id: 2376273
-org_cap: person holds a yellow frisbee in the moonlit evening, the frisbee spinning slowly as he gestures with a triumphant grin.
-trg_cap: The person, standing on a grassy hill, holds a yellow frisbee in the moonlit evening, the frisbee spinning slowly as he gestures with a triumphant grin.
-instruction: Add a person on the frisbee.
-taskid: 10879

@@ -1,5 +1,0 @@
-org_img_id: 2331556
-org_cap: Person, wearing a yellow life jacket and a red rash guard, is on his kiteboard, his arms and legs splayed above the turquoise waters.
-trg_cap: Person, wearing a yellow life jacket and a red rash guard, is on his kiteboard, his arms and legs splayed above the turquoise waters, with the kite soaring above him.
-instruction: Add a kite above the person.
-taskid: 91289

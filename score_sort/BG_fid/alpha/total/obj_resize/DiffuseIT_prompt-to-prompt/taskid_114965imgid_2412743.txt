@@ -1,0 +1,5 @@
+org_img_id: 2412743
+org_cap: a skateboarder in his mid-30s, wearing a white helmet and black protective gear, rides a skateboard with bright green wheels and a yellow stripe, his legs bent and feet flexed as he turns a corner.
+trg_cap: a skateboarder in his mid-30s, wearing a white helmet and black protective gear, rides a large skateboard with bright green wheels and a yellow stripe, his legs bent and feet flexed as he turns a corner.
+instruction: Make the skateboard larger.
+taskid: 114965

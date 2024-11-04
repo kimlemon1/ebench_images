@@ -1,5 +1,0 @@
-org_img_id: 2331245
-org_cap: The ornate clock is a stunning example of 18th-century craftsmanship, featuring intricate gold filigree and delicate carvings of mythological creatures on its pedestal.
-trg_cap: The ornate wine glass is a stunning example of 18th-century craftsmanship, featuring intricate gold filigree and delicate carvings of mythological creatures on the pedestal.
-instruction: Replace the clock with a wine glass.
-taskid: 105

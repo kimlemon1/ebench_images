@@ -1,5 +1,0 @@
-org_img_id: 2349508
-org_cap: A metal fork lies on a plate, next to a slice of toast with butter and a fried egg, and a pile of forks.
-trg_cap: A metal fork lies on a plate, next to a slice of toast with butter and a fried egg, and a pile of forks, all set against the backdrop of a snow field.
-instruction: Change the background to snow field.
-taskid: 72150

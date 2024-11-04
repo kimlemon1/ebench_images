@@ -1,5 +1,0 @@
-org_img_id: 2395644
-org_cap: The orange bus travels down the street with its body and headlights, its wheels rolling smoothly over the pavement.
-trg_cap: The teal bus travels down the street with its body and headlights, its wheels rolling smoothly over the pavement.
-instruction: Change the color of the bus from orange to teal.
-taskid: 72981

@@ -1,5 +1,0 @@
-org_img_id: 2381497
-org_cap: A black bench sits alone on a frosty winter morning, its intricate metalwork adorned with a light dusting of snow and ice crystals, surrounded by the barren trees and rocky coastline.
-trg_cap: A small black bench sits alone on a frosty winter morning, its intricate metalwork adorned with a light dusting of snow and ice crystals, surrounded by the barren trees and rocky coastline.
-instruction: Make the bench smaller.
-taskid: 43

@@ -1,5 +1,0 @@
-org_img_id: 2403340
-org_cap: A standing, eating, grazing, black, dirty, striped zebra in a sun-drenched savannah, its zebra glistening in the afternoon light.
-trg_cap: A standing, eating, grazing, black, dirty, white zebra in a sun-drenched savannah, its zebra glistening in the afternoon light.
-instruction: Change the color of the zebra from striped to white.
-taskid: 44549

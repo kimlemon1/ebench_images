@@ -1,5 +1,0 @@
-org_img_id: 2379634
-org_cap: a red couch sits against a white wall, with a blue wood chair in front of it and a gray tv mounted on the wall above.
-trg_cap: An oil painting style art features a red couch against a white wall, with a blue wood chair in front of it and a gray TV mounted on the wall above.
-instruction: Change the style if the image to oil painting style.
-taskid: 54658

@@ -1,0 +1,5 @@
+org_img_id: 2402037
+org_cap: The kitchen features a stainless steel, black oven and a stainless steel microwave situated above a black granite countertop.
+trg_cap: The kitchen features a stainless steel, black oven and a stainless steel microwave situated above a black granite countertop.
+instruction: Change the state of the microwave from off to on.
+taskid: 16404

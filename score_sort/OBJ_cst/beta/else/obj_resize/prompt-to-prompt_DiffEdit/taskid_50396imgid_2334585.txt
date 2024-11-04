@@ -1,5 +1,0 @@
-org_img_id: 2334585
-org_cap: a bright yellow train with a yellow and orange stripe pattern, standing on the railway platform with its doors open.
-trg_cap: a small, bright yellow train with a yellow and orange stripe pattern, standing on the railway platform with its doors open.
-instruction: Make the train smaller.
-taskid: 50396

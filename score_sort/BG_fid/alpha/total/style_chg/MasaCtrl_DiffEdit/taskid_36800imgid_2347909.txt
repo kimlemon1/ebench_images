@@ -1,5 +1,0 @@
-org_img_id: 2347909
-org_cap: a gray cat sits on the windowsill, looking out at the snowflakes outside.
-trg_cap: A Van Gogh style art depicts a gray cat sitting on the windowsill, looking out at the snowflakes outside.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 36800

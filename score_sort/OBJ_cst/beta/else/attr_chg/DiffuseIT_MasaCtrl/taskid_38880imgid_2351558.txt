@@ -1,5 +1,0 @@
-org_img_id: 2351558
-org_cap: Young person his racket to hit a forehand shot in a tennis match.
-trg_cap: Young person his racket to hit a forehand shot in a tennis match.
-instruction: Change the state of the person from young to elderly.
-taskid: 38880

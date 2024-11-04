@@ -1,5 +1,0 @@
-org_img_id: 2363218
-org_cap: broccoli and green beans sit on a plate alongside a glass of red wine and a dish of lasagna.
-trg_cap: small broccoli and green beans sit on a plate alongside a glass of red wine and a dish of lasagna.
-instruction: Make the broccoli smaller.
-taskid: 42278

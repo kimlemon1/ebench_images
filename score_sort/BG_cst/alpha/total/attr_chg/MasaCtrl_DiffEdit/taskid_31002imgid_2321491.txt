@@ -1,5 +1,0 @@
-org_img_id: 2321491
-org_cap: The bus is a gray bus.
-trg_cap: The bus is a blue bus.
-instruction: Change the color of the bus from gray to blue.
-taskid: 31002

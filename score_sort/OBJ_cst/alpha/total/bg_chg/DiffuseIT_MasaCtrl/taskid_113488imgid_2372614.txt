@@ -1,5 +1,0 @@
-org_img_id: 2372614
-org_cap: Eating person throws a frisbee, arm and hand the disc.
-trg_cap: In a bustling train station, an eating person throws a frisbee, arm and hand the disc.
-instruction: Change the background to train station.
-taskid: 113488

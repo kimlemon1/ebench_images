@@ -1,5 +1,0 @@
-org_img_id: 2373190
-org_cap: Snowboarding person carves the snow-covered mountain on white snowboard, jacket and goggles a blur as navigates the terrain.
-trg_cap: Snowboarding person carves the snow-covered mountain on gold snowboard, jacket and goggles a blur as navigates the terrain.
-instruction: Change the color of the snowboard from white to gold.
-taskid: 101270

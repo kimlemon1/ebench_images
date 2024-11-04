@@ -1,5 +1,0 @@
-org_img_id: 107899
-org_cap: Person holds a red snowboard.
-trg_cap: A mosaic art depicts a person holding a red snowboard.
-instruction: Change the style if the image to mosaic art.
-taskid: 390

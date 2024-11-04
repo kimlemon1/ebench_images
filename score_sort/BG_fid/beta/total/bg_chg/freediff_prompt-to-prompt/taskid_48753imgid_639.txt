@@ -1,5 +1,0 @@
-org_img_id: 639
-org_cap: a person holds a black backpack and wears a t-shirt with a graphic print of a famous rock band's tour schedule.
-trg_cap: In a library, a person holds a black backpack and wears a t-shirt with a graphic print of a famous rock band's tour schedule.
-instruction: Change the background to library.
-taskid: 48753

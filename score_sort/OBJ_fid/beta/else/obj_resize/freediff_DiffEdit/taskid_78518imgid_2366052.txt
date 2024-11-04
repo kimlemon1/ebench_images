@@ -1,5 +1,0 @@
-org_img_id: 2366052
-org_cap: a vendor pulls a cart filled with crates of juicy oranges, their vibrant orange color and slight sheen catching the eye of passersby.
-trg_cap: a vendor pulls a cart filled with crates of small, juicy oranges, their vibrant orange color and slight sheen catching the eye of passersby.
-instruction: Make the orange smaller.
-taskid: 78518

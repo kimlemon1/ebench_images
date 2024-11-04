@@ -1,5 +1,0 @@
-org_img_id: 2361668
-org_cap: A white, striped zebra is standing, resting, and grazing while eating on grass in a sunny enclosure.
-trg_cap: A white, white zebra is standing, resting, and grazing while eating on grass in a sunny enclosure.
-instruction: Change the color of the zebra from striped to white.
-taskid: 88593

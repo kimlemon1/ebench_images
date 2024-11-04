@@ -1,5 +1,0 @@
-org_img_id: 2336668
-org_cap: a colorful kite with a rainbow of colors and a long tail flies high above the wooden pier, with seagulls and beachgoers visible in the background.
-trg_cap: A colorful kite with a rainbow of colors and a long tail flies high above the wooden pier, with seagulls and a vineyard visible in the background.
-instruction: Change the background to vineyard.
-taskid: 47824

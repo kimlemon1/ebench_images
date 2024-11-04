@@ -1,5 +1,0 @@
-org_img_id: 2347685
-org_cap: a skateboarder leaps through the air, his black skateboard flying above his head as he lands smoothly on the concrete floor, surrounded by a backdrop of colorful graffiti and a seated companion watching with a mix of excitement and concern.
-trg_cap: A skateboarder leaps through the air, his black skateboard flying above his head as he lands smoothly on the concrete floor, narrowly avoiding a person standing in front of him, surrounded by a backdrop of colorful graffiti and a seated companion watching with a mix of excitement and concern.
-instruction: Add a person in front of the skateboard.
-taskid: 46725

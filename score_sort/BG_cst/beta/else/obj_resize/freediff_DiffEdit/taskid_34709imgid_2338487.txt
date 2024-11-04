@@ -1,5 +1,0 @@
-org_img_id: 2338487
-org_cap: The green bus has a sleek, aerodynamic design with a curved front and a sloping roof, featuring a large green logo on the side and a stripe running along the middle.
-trg_cap: The small green bus has a sleek, aerodynamic design with a curved front and a sloping roof, featuring a large green logo on the side and a stripe running along the middle.
-instruction: Make the bus smaller.
-taskid: 34709
