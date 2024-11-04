@@ -1,0 +1,5 @@
+org_img_id: 2391074
+org_cap: smiling person at a red tie, surrounded by a plate of pasta and a slice of pizza.
+trg_cap: A Van Gogh style art features a smiling person in a red tie, surrounded by a plate of pasta and a slice of pizza.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 99770

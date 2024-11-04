@@ -1,0 +1,5 @@
+org_img_id: 1428
+org_cap: A white car drives along the riverbank, passing beneath the stone wall and ornate buildings.
+trg_cap: A large white car drives along the riverbank, passing beneath the stone wall and ornate buildings.
+instruction: Make the car larger.
+taskid: 86893

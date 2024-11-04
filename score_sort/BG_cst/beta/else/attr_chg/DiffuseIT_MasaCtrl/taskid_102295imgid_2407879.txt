@@ -1,0 +1,5 @@
+org_img_id: 2407879
+org_cap: A green truck sits on the dock, its tires and wheels gleaming in the evening light.
+trg_cap: A teal truck sits on the dock, its tires and wheels gleaming in the evening light.
+instruction: Change the color of the truck from green to teal.
+taskid: 102295

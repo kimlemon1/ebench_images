@@ -1,0 +1,5 @@
+org_img_id: 2365229
+org_cap: a person's hand holds a slice of brown pizza.
+trg_cap: a person's hand holds a slice of large brown pizza.
+instruction: Make the pizza larger.
+taskid: 31006

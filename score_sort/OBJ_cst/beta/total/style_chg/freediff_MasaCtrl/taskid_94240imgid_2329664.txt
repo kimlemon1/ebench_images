@@ -1,0 +1,5 @@
+org_img_id: 2329664
+org_cap: a white airplane flies across a bright blue sky with a few wispy clouds.
+trg_cap: An ancient Egyptian-style artwork depicts a white airplane flying across a bright blue sky with a few wispy clouds.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 94240

@@ -1,0 +1,5 @@
+org_img_id: 2398076
+org_cap: a white bowl sits on a table, filled with a piece of cooked salmon, a handful of steamed broccoli, and a dollop of creamy yogurt.
+trg_cap: a small white bowl sits on a table, filled with a piece of cooked salmon, a handful of steamed broccoli, and a dollop of creamy yogurt.
+instruction: Make the bowl smaller.
+taskid: 28846

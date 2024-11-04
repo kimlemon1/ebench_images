@@ -1,0 +1,5 @@
+org_img_id: 150347
+org_cap: The scene is dominated by a circular desk with a laptop and black keyboard at its center, surrounded by a sea of papers, pens, and other office supplies, with a black office chair in the corner and a window with a view of the outside world.
+trg_cap: The scene is dominated by a circular desk with a laptop and black keyboard at its center, a TV next to the keyboard, surrounded by a sea of papers, pens, and other office supplies, with a black office chair in the corner and a window with a view of the outside world.
+instruction: Add a tv next to the keyboard.
+taskid: 28588

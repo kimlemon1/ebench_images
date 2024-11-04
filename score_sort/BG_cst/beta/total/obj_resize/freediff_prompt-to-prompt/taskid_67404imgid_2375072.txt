@@ -1,0 +1,5 @@
+org_img_id: 2375072
+org_cap: a pink - helmeted person on a skateboard, her long hair behind her as she a smooth path through the park.
+trg_cap: a pink - helmeted person on a small skateboard, her long hair behind her as she a smooth path through the park.
+instruction: Make the skateboard smaller.
+taskid: 67404

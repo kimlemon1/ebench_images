@@ -1,0 +1,5 @@
+org_img_id: 28
+org_cap: a white coffee table with a smooth, curved edge holds a white vase, surrounded by a mix of framed black and white photographs, a small, ornate metal sculpture, and a few throw pillows in a vibrant orange color.
+trg_cap: The pop art style piece features a white coffee table with a smooth, curved edge holding a white vase, surrounded by a mix of framed black and white photographs, a small, ornate metal sculpture, and a few throw pillows in a vibrant orange color.
+instruction: Change the style if the image to pop art style.
+taskid: 118246

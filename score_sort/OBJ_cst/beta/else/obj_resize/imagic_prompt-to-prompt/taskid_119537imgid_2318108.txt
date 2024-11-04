@@ -1,0 +1,5 @@
+org_img_id: 2318108
+org_cap: a white bus with a cream-colored roof and a distinctive curved front, adorned with the logo of the bus company and a row of windows on either side.
+trg_cap: a small white bus with a cream-colored roof and a distinctive curved front, adorned with the logo of the bus company and a row of windows on either side.
+instruction: Make the bus smaller.
+taskid: 119537

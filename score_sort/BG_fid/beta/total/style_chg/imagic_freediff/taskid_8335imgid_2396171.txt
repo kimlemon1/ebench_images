@@ -1,0 +1,5 @@
+org_img_id: 2396171
+org_cap: a person stands in front of a black tv on, holding a controller and wearing a headset, surrounded by scattered game controllers, empty snack packets, and a messy room.
+trg_cap: The mosaic art depicts a person standing in front of a black TV, holding a controller and wearing a headset, surrounded by scattered game controllers, empty snack packets, and a messy room.
+instruction: Change the style if the image to mosaic art.
+taskid: 8335

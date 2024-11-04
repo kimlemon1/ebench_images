@@ -1,0 +1,5 @@
+org_img_id: 2413076
+org_cap: Surfing, the crouched, wet, smiling person rides the waves on her white surfboard, her dark hair as she across the ocean.
+trg_cap: Surfing across a snow field, the crouched, wet, smiling person rides the waves on her white surfboard, her dark hair flowing as she glides across the ocean.
+instruction: Change the background to snow field.
+taskid: 12721

@@ -1,0 +1,5 @@
+org_img_id: 1592671
+org_cap: The room features a silver TV in the corner, surrounded by a few pieces of furniture and some decorative items.
+trg_cap: The room features a silver TV in the corner, with a chair next to it, surrounded by a few pieces of furniture and some decorative items.
+instruction: Add a chair next to the tv.
+taskid: 104340

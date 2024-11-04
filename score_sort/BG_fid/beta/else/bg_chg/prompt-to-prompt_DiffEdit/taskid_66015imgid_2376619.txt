@@ -1,0 +1,5 @@
+org_img_id: 2376619
+org_cap: Person, his body contorted in a twisted pose, over the snow-covered mountains.
+trg_cap: Person, his body contorted in a twisted pose, over the vibrant coral reefs of the aquarium.
+instruction: Change the background to aquarium.
+taskid: 66015

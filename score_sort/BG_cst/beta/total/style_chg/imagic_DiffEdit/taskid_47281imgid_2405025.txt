@@ -1,0 +1,5 @@
+org_img_id: 2405025
+org_cap: A surfing, surfing, surfing, surfing, surfing person in a wetsuit rides a surfboard down a wave.
+trg_cap: An oil painting style artwork depicts a person in a wetsuit riding a surfboard down a wave.
+instruction: Change the style if the image to oil painting style.
+taskid: 47281

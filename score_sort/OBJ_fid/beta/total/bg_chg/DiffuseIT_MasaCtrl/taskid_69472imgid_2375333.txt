@@ -1,0 +1,5 @@
+org_img_id: 2375333
+org_cap: An adult giraffe is standing and eating, its neck and legs, its fur blending with the surroundings.
+trg_cap: An adult giraffe is standing and eating, its neck and legs, its fur blending with the surroundings of the stadium.
+instruction: Change the background to stadium.
+taskid: 69472

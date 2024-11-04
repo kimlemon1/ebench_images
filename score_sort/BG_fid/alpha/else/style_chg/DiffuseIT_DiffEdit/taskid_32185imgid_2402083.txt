@@ -1,0 +1,5 @@
+org_img_id: 2402083
+org_cap: Smiling, the standing person stands in the living room, with a puzzle on it, and a luggage bag.
+trg_cap: An ancient Egyptian-style artwork depicts a smiling person standing in the living room with a puzzle and a luggage bag.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 32185

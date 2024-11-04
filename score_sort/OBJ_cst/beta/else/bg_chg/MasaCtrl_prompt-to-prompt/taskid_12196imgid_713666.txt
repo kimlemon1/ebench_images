@@ -1,0 +1,5 @@
+org_img_id: 713666
+org_cap: The white bus is a model with a livery, featuring a curved front, chrome bumpers, and a distinctive rounded roof.
+trg_cap: The white bus, reminiscent of a cozy living room with its warm and inviting atmosphere, is a model with a livery, featuring a curved front, chrome bumpers, and a distinctive rounded roof.
+instruction: Change the background to living room.
+taskid: 12196

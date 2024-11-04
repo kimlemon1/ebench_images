@@ -1,0 +1,5 @@
+org_img_id: 2393411
+org_cap: a red steam train chugs along the red train, its wheels clicking rhythmically on the red train.
+trg_cap: An oil painting style art depicts a red steam train chugging along the red train, its wheels clicking rhythmically.
+instruction: Change the style if the image to oil painting style.
+taskid: 61429

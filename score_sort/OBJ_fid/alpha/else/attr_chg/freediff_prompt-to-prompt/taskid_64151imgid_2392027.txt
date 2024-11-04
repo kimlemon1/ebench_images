@@ -1,0 +1,5 @@
+org_img_id: 2392027
+org_cap: A standing, patterned, white, striped, grazing zebra on the green grass, its stripes glistening in the sunlight.
+trg_cap: A standing, white, white, striped, grazing zebra on the green grass, its stripes glistening in the sunlight.
+instruction: Change the color of the zebra from patterned to white.
+taskid: 64151

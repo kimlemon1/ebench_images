@@ -1,0 +1,5 @@
+org_img_id: 2329772
+org_cap: Person stands against the chain - linked fence, wearing a black hat and a gray shirt with a baseball bat over his shoulder, his eyes on the field.
+trg_cap: Person stands against the chain-linked fence of the concert hall, wearing a black hat and a gray shirt with a baseball bat over his shoulder, his eyes on the field.
+instruction: Change the background to concert hall.
+taskid: 38789

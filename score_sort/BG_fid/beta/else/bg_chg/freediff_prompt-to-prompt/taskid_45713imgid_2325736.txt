@@ -1,0 +1,5 @@
+org_img_id: 2325736
+org_cap: person is seen with a determined look on his face.
+trg_cap: The person is seen with a determined look on his face, standing in front of a large aquarium filled with colorful fish and coral.
+instruction: Change the background to aquarium.
+taskid: 45713

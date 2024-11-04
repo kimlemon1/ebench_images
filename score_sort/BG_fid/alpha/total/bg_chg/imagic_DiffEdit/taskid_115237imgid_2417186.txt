@@ -1,0 +1,5 @@
+org_img_id: 2417186
+org_cap: a navy blue blazer with a white shirt and a blue necktie.
+trg_cap: a navy blue blazer with a white shirt and a blue necktie, standing out against the sandy hues of the desert.
+instruction: Change the background to desert.
+taskid: 115237

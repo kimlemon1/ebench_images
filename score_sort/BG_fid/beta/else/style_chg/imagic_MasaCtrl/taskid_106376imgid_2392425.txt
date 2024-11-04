@@ -1,0 +1,5 @@
+org_img_id: 2392425
+org_cap: a person rides a skateboard down a road with a faint outline of a bike lane in the background.
+trg_cap: A graffiti art piece depicts a person riding a skateboard down a road with a faint outline of a bike lane in the background.
+instruction: Change the style if the image to graffiti art.
+taskid: 106376

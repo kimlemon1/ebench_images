@@ -1,0 +1,5 @@
+org_img_id: 2373085
+org_cap: The blue, rectangular-shaped bus with a rounded front and rear, and a flat roof, is parked on the sidewalk in front of a historic red-brick church with a white stone fade and a rounded dome.
+trg_cap: The train is parked on the sidewalk in front of a historic red-brick church with a white stone fade and a rounded dome.
+instruction: Replace the bus with a train.
+taskid: 17239

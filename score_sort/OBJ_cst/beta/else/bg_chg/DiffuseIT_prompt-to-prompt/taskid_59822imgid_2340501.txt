@@ -1,0 +1,5 @@
+org_img_id: 2340501
+org_cap: Playing person, her legs and her feet as she for a shot in the tennis match.
+trg_cap: Playing person, her legs and her feet as she for a shot in the tennis match, surrounded by the vibrant colors and serene ambiance of the aquarium.
+instruction: Change the background to aquarium.
+taskid: 59822

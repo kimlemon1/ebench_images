@@ -1,0 +1,5 @@
+org_img_id: 2399071
+org_cap: a black bicycle, leaning against a palm tree.
+trg_cap: a black bicycle, leaning against a palm tree, with a boat next to it.
+instruction: Add a boat next to the bicycle.
+taskid: 8553

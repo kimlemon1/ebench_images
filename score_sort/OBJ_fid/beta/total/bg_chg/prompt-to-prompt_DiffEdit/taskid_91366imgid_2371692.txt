@@ -1,0 +1,5 @@
+org_img_id: 2371692
+org_cap: a giraffe stands tall, its long neck and legs, with a distinctive coat of brown and white stripes, and a pair of large brown eyes.
+trg_cap: A giraffe stands tall in the living room, its long neck and legs, with a distinctive coat of brown and white stripes, and a pair of large brown eyes.
+instruction: Change the background to living room.
+taskid: 91366

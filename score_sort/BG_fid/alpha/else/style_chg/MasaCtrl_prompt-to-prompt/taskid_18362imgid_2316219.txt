@@ -1,0 +1,5 @@
+org_img_id: 2316219
+org_cap: a white bicycle with a chrome handlebar and a basket on the front, parked next to a vintage car with a shiny black finish and chrome wheels.
+trg_cap: An oil painting style art features a white bicycle with a chrome handlebar and a basket on the front, parked next to a vintage car with a shiny black finish and chrome wheels.
+instruction: Change the style if the image to oil painting style.
+taskid: 18362

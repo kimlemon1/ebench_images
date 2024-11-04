@@ -1,0 +1,5 @@
+org_img_id: 2416821
+org_cap: a clear glass vase with a purple ribbon wrapped around its neck holds a bouquet of artificial flowers, including a bright yellow sunflower, in the middle of a sterile office desk.
+trg_cap: A Van Gogh style art piece features a clear glass vase with a purple ribbon wrapped around its neck, holding a bouquet of artificial flowers, including a bright yellow sunflower, on the middle of a sterile office desk.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 22842

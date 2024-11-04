@@ -1,0 +1,5 @@
+org_img_id: 2379598
+org_cap: a white horse with a flowing red flag in its mouth onto the pitch, its mane and tail in the wind as it in a display of horse pride.
+trg_cap: a large white horse with a flowing red flag in its mouth onto the pitch, its mane and tail in the wind as it in a display of horse pride.
+instruction: Make the horse larger.
+taskid: 24972

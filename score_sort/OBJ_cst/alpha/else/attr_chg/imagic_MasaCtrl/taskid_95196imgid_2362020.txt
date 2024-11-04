@@ -1,0 +1,5 @@
+org_img_id: 2362020
+org_cap: a yellow banana and a lemon sit on a white plate, next to a metal silver knife, on a wooden table.
+trg_cap: a yellow banana and a lemon sit on a white plate, next to a steel silver knife, on a wooden table.
+instruction: Change the material of the knife from metal to steel.
+taskid: 95196

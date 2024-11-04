@@ -1,0 +1,5 @@
+org_img_id: 2377263
+org_cap: a black laptop sits on a sleek, curved stand, its screen glowing softly in the dimly lit office. a white cup rests beside the black laptop, its aroma wafting up to mingle with the scent of freshly brewed code.
+trg_cap: A black tv sits on a sleek, curved stand. A white cup rests beside the black tv, its aroma wafting up to mingle with the scent of freshly brewed coffee.
+instruction: Replace the laptop with a tv.
+taskid: 31959

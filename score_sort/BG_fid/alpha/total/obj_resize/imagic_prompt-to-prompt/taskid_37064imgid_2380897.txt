@@ -1,0 +1,5 @@
+org_img_id: 2380897
+org_cap: A blue bus navigates through the snowy streets, its wheels spinning on the icy pavement as it makes its way to its next stop.
+trg_cap: A large blue bus navigates through the snowy streets, its wheels spinning on the icy pavement as it makes its way to its next stop.
+instruction: Make the bus larger.
+taskid: 37064

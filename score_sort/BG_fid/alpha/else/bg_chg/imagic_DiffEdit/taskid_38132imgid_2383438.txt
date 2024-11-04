@@ -1,0 +1,5 @@
+org_img_id: 2383438
+org_cap: a blue airplane, parked at the gate, awaiting its next destination.
+trg_cap: A blue airplane, parked at the gate by the lakeside, awaiting its next destination.
+instruction: Change the background to lake side.
+taskid: 38132

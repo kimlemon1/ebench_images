@@ -1,0 +1,5 @@
+org_img_id: 2405976
+org_cap: a silver train glides smoothly along the tracks, its wheels clicking in unison as it hurtles towards its destination.
+trg_cap: a dark blue train glides smoothly along the tracks, its wheels clicking in unison as it hurtles towards its destination.
+instruction: Change the color of the train from silver to dark blue.
+taskid: 21765

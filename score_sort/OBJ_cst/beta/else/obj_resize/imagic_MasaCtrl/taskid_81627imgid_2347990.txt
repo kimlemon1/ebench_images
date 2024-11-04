@@ -1,0 +1,5 @@
+org_img_id: 2347990
+org_cap: Standing person on the beach, holding a surfboard with a yellow and green design featuring skulls and bones.
+trg_cap: Standing small person on the beach, holding a surfboard with a yellow and green design featuring skulls and bones.
+instruction: Make the person smaller.
+taskid: 81627

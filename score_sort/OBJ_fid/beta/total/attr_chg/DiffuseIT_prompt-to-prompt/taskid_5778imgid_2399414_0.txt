@@ -1,0 +1,5 @@
+org_img_id: 2399414_0
+org_cap: A white pizza sat on a white plate, surrounded by a candle's warm glow and a glass of water on the table.
+trg_cap: A brown pizza sat on a brown plate, surrounded by a candle's warm glow and a glass of water on the table.
+instruction: Change the color of the pizza from white to brown.
+taskid: 5778

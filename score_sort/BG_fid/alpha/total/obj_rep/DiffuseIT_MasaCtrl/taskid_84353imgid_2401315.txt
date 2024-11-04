@@ -1,0 +1,5 @@
+org_img_id: 2401315
+org_cap: A blue bus with the words "elf tyrrell" written on it.
+trg_cap: A blue oven with the words "elf tyrrell" written on it.
+instruction: Replace the bus with a oven.
+taskid: 84353

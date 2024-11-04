@@ -1,0 +1,5 @@
+org_img_id: 498301
+org_cap: the scene features a large flat-screen tv mounted on a wall, flanked by a shelving unit and various electronic devices, including a gaming console, a computer, and a collection of video games and accessories.
+trg_cap: The cartoon-style art features a scene with a large flat-screen TV mounted on a wall, flanked by a shelving unit and various electronic devices, including a gaming console, a computer, and a collection of video games and accessories.
+instruction: Change the style if the image to cartoon style.
+taskid: 84096

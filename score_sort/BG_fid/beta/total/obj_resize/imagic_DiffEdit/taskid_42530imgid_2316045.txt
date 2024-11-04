@@ -1,0 +1,5 @@
+org_img_id: 2316045
+org_cap: A motorcycle person, person, performs a daring stunt, with his motorcycle, against a bright blue sky.
+trg_cap: A motorcycle person, person, performs a daring stunt, with his large motorcycle, against a bright blue sky.
+instruction: Make the motorcycle larger.
+taskid: 42530

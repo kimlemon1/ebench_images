@@ -1,0 +1,5 @@
+org_img_id: 2365128
+org_cap: A person lies on the sidewalk, his head on his arm and his eyes, his body, surrounded by the quiet streets and buildings of a small town.
+trg_cap: A person lies on the sidewalk, his head on his arm and his eyes, his body, surrounded by the quiet streets and buildings of a small town, as if he were resting in the comfort of a living room.
+instruction: Change the background to living room.
+taskid: 7607

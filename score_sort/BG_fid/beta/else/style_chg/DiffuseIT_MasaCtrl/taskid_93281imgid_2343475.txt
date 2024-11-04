@@ -1,0 +1,5 @@
+org_img_id: 2343475
+org_cap: a bright orange cat sits on the windowsill, its fur fluffed up against the cool morning air, its eyes fixed on the tile roof opposite, its tail back and forth.
+trg_cap: A Van Gogh style art features a bright orange cat sitting on the windowsill, its fur fluffed up against the cool morning air, eyes fixed on the tile roof opposite, and tail swaying back and forth.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 93281

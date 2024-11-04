@@ -1,0 +1,5 @@
+org_img_id: 2359667
+org_cap: the clock tower features intricate carvings of people, with flags and bunting draped across the facade.
+trg_cap: The clock tower features intricate carvings of people, with a person located under the clock, and flags and bunting draped across the facade.
+instruction: Add a person under the clock.
+taskid: 79172

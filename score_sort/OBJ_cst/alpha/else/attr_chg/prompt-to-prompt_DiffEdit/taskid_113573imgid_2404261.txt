@@ -1,0 +1,5 @@
+org_img_id: 2404261
+org_cap: kneeling person on the blue surfboard, the paddle in his hands.
+trg_cap: kneeling person on the light blue surfboard, the paddle in his hands.
+instruction: Change the color of the surfboard from blue to light blue.
+taskid: 113573

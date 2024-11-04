@@ -1,0 +1,5 @@
+org_img_id: 2389518
+org_cap: a large, propeller-driven airplane soars overhead, its wingspan stretching across the sky as it flies in a gentle arc over the bustling cityscape below.
+trg_cap: An oil painting style art depicts a large, propeller-driven airplane soaring overhead, its wingspan stretching across the sky as it flies in a gentle arc over the bustling cityscape below.
+instruction: Change the style if the image to oil painting style.
+taskid: 10635

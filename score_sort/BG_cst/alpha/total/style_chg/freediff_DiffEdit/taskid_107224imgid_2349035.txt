@@ -1,0 +1,5 @@
+org_img_id: 2349035
+org_cap: The pink, upside down, transparent, clear wine glass is a wine glass, resting on a wine glass.
+trg_cap: A pencil sketch art features a pink, upside down, transparent wine glass resting on another wine glass.
+instruction: Change the style if the image to pencil sketch.
+taskid: 107224

@@ -1,0 +1,5 @@
+org_img_id: 2397469
+org_cap: A black, striped zebra, grazing and eating on a green meadow, its stripes glistening in the sunlight.
+trg_cap: A striped, striped zebra, grazing and eating on a green meadow, its stripes glistening in the sunlight.
+instruction: Change the color of the zebra from black to striped.
+taskid: 4029

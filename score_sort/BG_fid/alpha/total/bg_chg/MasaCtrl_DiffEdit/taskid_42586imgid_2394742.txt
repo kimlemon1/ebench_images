@@ -1,0 +1,5 @@
+org_img_id: 2394742
+org_cap: A blue train sits on the platform, its blue train gleaming in the sunlight, with a blue train running along its blue train and a blue train to its blue train.
+trg_cap: A blue train sits on the platform, its blue train gleaming in the sunlight, with a blue train running along its blue train and a blue train to its blue train, all set against the backdrop of a vast cave.
+instruction: Change the background to cave.
+taskid: 42586

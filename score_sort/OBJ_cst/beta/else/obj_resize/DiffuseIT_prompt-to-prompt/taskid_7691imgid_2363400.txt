@@ -1,0 +1,5 @@
+org_img_id: 2363400
+org_cap: Person on white skis, her silver suit glistening.
+trg_cap: Person on large white skis, her silver suit glistening.
+instruction: Make the skis larger.
+taskid: 7691

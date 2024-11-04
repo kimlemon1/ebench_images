@@ -1,0 +1,5 @@
+org_img_id: 2366934
+org_cap: a middle - aged person with a worn face and tired eyes sits on the ground, surrounded by tools and scraps of metal, person hands as person the bolts on a rusty bicycle wheel.
+trg_cap: A mosaic art depicts a middle-aged person with a worn face and tired eyes sitting on the ground, surrounded by tools and scraps of metal, as they handle the bolts on a rusty bicycle wheel.
+instruction: Change the style if the image to mosaic art.
+taskid: 27595

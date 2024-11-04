@@ -1,0 +1,5 @@
+org_img_id: 2370987
+org_cap: a plate of cake sits in front of me, topped with a swirl of yellow frosting and sprinkled with crunchy cookie crumbs, surrounded by a halo of warm light.
+trg_cap: A large plate of cake sits in front of me, topped with a swirl of yellow frosting and sprinkled with crunchy cookie crumbs, surrounded by a halo of warm light.
+instruction: Make the cake larger.
+taskid: 70785

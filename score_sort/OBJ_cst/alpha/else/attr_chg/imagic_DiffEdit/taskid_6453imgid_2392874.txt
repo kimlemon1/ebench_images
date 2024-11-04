@@ -1,0 +1,5 @@
+org_img_id: 2392874
+org_cap: The sink is a white ceramic sink with a chrome faucet and a black granite countertop.
+trg_cap: The sink is a blue ceramic sink with a chrome faucet and a black granite countertop.
+instruction: Change the color of the sink from white to blue.
+taskid: 6453

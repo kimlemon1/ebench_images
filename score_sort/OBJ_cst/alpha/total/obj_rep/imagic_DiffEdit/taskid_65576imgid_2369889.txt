@@ -1,0 +1,5 @@
+org_img_id: 2369889
+org_cap: a young person on a bed, surrounded by dorm room essentials like a silver laptop, a patchwork quilt, wearing glasses and a t-shirt.
+trg_cap: A suitcase, surrounded by dorm room essentials like a silver laptop and a patchwork quilt.
+instruction: Replace the person with a suitcase.
+taskid: 65576

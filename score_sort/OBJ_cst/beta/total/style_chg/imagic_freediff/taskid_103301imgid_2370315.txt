@@ -1,0 +1,5 @@
+org_img_id: 2370315
+org_cap: Jumping, riding person is a person with a kiteboard.
+trg_cap: An oil painting style artwork features a person jumping and riding with a kiteboard.
+instruction: Change the style if the image to oil painting style.
+taskid: 103301

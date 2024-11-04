@@ -1,0 +1,5 @@
+org_img_id: 2376510
+org_cap: a person sits at a desk, fingers flying across the keyboard as they type away, with a giant glazed donut lodged in their mouth.
+trg_cap: A person sits at a desk, fingers flying across the keyboard as they type away, with a giant glazed donut lodged in their mouth and an apple next to the donut.
+instruction: Add a apple next to the donut.
+taskid: 8252

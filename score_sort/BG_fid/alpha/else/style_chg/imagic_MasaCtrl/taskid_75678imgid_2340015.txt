@@ -1,0 +1,5 @@
+org_img_id: 2340015
+org_cap: A black cat sits on top of a music speaker, its paws around the edge and its tail, sitting and staring.
+trg_cap: A Van Gogh style art features a black cat sitting on top of a music speaker, its paws around the edge and its tail, as it stares intently.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 75678

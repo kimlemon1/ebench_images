@@ -1,0 +1,5 @@
+org_img_id: 2337327
+org_cap: A white vase sits on a table, adorned with a ribbon and surrounded by scattered yellow petals.
+trg_cap: A graffiti art piece depicts a white vase sitting on a table, adorned with a ribbon and surrounded by scattered yellow petals.
+instruction: Change the style if the image to graffiti art.
+taskid: 68738

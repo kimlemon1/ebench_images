@@ -1,0 +1,5 @@
+org_img_id: 2343264
+org_cap: person's worn jeans and faded black t-shirt are scrunched up around his ankles as he balances on one foot, his other foot above the skateboard.
+trg_cap: A Van Gogh style art depicts a person balancing on one foot with his worn jeans and faded black t-shirt scrunched up around his ankles, while his other foot hovers above the skateboard.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 32926

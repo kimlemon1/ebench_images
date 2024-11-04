@@ -1,0 +1,5 @@
+org_img_id: 2368765
+org_cap: A young gray elephant is seen walking and running on a dirt road, its legs as it explores its surroundings.
+trg_cap: A young cat is seen walking and running on its dirt road.
+instruction: Replace the elephant with a cat.
+taskid: 108915

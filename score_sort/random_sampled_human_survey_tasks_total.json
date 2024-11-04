@@ -4108,243 +4108,243 @@
     "OBJ_fid": {
         "obj_add": [
             {
-                "51760": {
-                    "org_img_id": "2399558",
-                    "org_cap": "The dark glass table top reflects the light from the window, casting a subtle glow on the white keyboard and surrounding office equipment.",
-                    "trg_cap": "The dark glass table top reflects the light from the window, casting a subtle glow on the white keyboard, the TV to the left of the keyboard, and surrounding office equipment.",
-                    "instruction": "Add a tv on the left side of the keyboard."
+                "57271": {
+                    "org_img_id": "2357917",
+                    "org_cap": "a plate of grilled salmon, served with steamed cauliflower, asparagus, and cooked carrot, garnished with fresh parsley and lemon wedges.",
+                    "trg_cap": "a plate of grilled salmon, served with steamed cauliflower, asparagus, and cooked carrot topped with broccoli, garnished with fresh parsley and lemon wedges.",
+                    "instruction": "Add a broccoli on the carrot."
                 }
             },
             {
-                "110911": {
-                    "org_img_id": "2324837",
-                    "org_cap": "The teddy bear sat on the bed, its soft fur and button eyes gazing up at the window where a vintage camera hung from the sill.",
-                    "trg_cap": "The teddy bear sat on the bed to its left, its soft fur and button eyes gazing up at the window where a vintage camera hung from the sill.",
-                    "instruction": "Add a bed on the left side of the teddy bear."
+                "118300": {
+                    "org_img_id": "2406807",
+                    "org_cap": "The kitchen features a black microwave, flanked by cabinets and a black microwave, with a wooden floor and a black granite countertop.",
+                    "trg_cap": "The kitchen features a black microwave with a bottle on top, flanked by cabinets and a black microwave, with a wooden floor and a black granite countertop.",
+                    "instruction": "Add a bottle on the microwave."
                 }
             },
             {
-                "62687": {
-                    "org_img_id": "2339690",
-                    "org_cap": "a lone snowboarder, clad in a warm orange jumpsuit and wearing a black beanie, walks down the mountain with a green backpack slung over his shoulder.",
-                    "trg_cap": "A lone snowboarder, clad in a warm orange jumpsuit and wearing a black beanie, walks down the mountain with a green backpack slung over his shoulder, while a person in front of him leads the way.",
-                    "instruction": "Add a person in front of the backpack."
+                "91545": {
+                    "org_img_id": "2387479",
+                    "org_cap": "A young person sits on a cart with a large metal container attached to the back.",
+                    "trg_cap": "A young person sits on a cart with a large metal container attached to the back, with a teddy bear next to them.",
+                    "instruction": "Add a teddy bear next to the person."
                 }
             },
             {
-                "97992": {
-                    "org_img_id": "2411562",
-                    "org_cap": "a young person wearing a red athletic jersey and red athletic shorts walks down the sidewalk, carrying a black backpack.",
-                    "trg_cap": "A young person wearing a red athletic jersey and red athletic shorts walks down the sidewalk, carrying a black backpack, while another person is in front of the backpack.",
-                    "instruction": "Add a person in front of the backpack."
+                "6365": {
+                    "org_img_id": "2317745",
+                    "org_cap": "The scene is a small, modern living room with a white chair and a minimalist desk in the center, surrounded by a beige carpet and a plain white wall.",
+                    "trg_cap": "The scene is a small, modern living room with a white chair and a minimalist desk in the center, a dining table in front of the chair, surrounded by a beige carpet and a plain white wall.",
+                    "instruction": "Add a dining table in front of the chair."
                 }
             },
             {
-                "59654": {
-                    "org_img_id": "2341309",
-                    "org_cap": "A yellow surfboard glides through the turquoise waters as a person in their mid-twenties carves through the waves, their arms and legs moving in perfect sync as they ride the swell.",
-                    "trg_cap": "A yellow surfboard glides through the turquoise waters as a person in their mid-twenties, positioned confidently on the board, carves through the waves, their arms and legs moving in perfect sync as they ride the swell.",
-                    "instruction": "Add a person on the surfboard."
+                "73022": {
+                    "org_img_id": "2356589",
+                    "org_cap": "a collection of personal care items and travel essentials lies scattered on a bed, including toothbrush, toothpaste, shampoo, conditioner, razors, shaving cream, hairbrush, hair ties, a comb, a hair dryer, a curling iron, a, a hair clip and a cup.",
+                    "trg_cap": "a collection of personal care items and travel essentials lies scattered on a bed, including toothbrush, toothpaste, shampoo, conditioner, razors, shaving cream, hairbrush, hair ties, a comb, a hair dryer, a curling iron, a, a hair clip, a cup and a cell phone next to the cup.",
+                    "instruction": "Add a cell phone on the left side of the cup."
                 }
             },
             {
-                "116873": {
-                    "org_img_id": "2324357",
-                    "org_cap": "a person in his mid-twenties with a toned physique and a strong physique is shown in mid-air, his arms and legs splayed out in a dynamic pose as he throws a frisbee with incredible force and precision.",
-                    "trg_cap": "A person in his mid-twenties with a toned physique and a strong physique is shown in mid-air, his arms and legs splayed out in a dynamic pose as he throws a frisbee with incredible force and precision, while another person is positioned under the frisbee.",
-                    "instruction": "Add a person under the frisbee."
+                "95270": {
+                    "org_img_id": "2255",
+                    "org_cap": "The black fire hydrant is situated on a sidewalk, flanked by a row of yellow flowers in planters and surrounded by a patch of grass, with a yellow curb and a pedestrian crossing sign nearby.",
+                    "trg_cap": "The black fire hydrant is situated on a sidewalk, flanked by a row of yellow flowers in planters and surrounded by a patch of grass, with a yellow curb and a pedestrian crossing sign nearby, and a bus is behind the fire hydrant.",
+                    "instruction": "Add a bus behind the fire hydrant."
                 }
             },
             {
-                "32243": {
-                    "org_img_id": "2364436",
-                    "org_cap": "A skateboarder in a hoodie and jeans rides down a ramp at night, his skateboard glowing with a neon light as he performs a trick on the concrete ramp.",
-                    "trg_cap": "A skateboarder in a hoodie and jeans rides down a ramp at night, his skateboard glowing with a neon light as he performs a trick on the concrete ramp, with a person standing behind him.",
-                    "instruction": "Add a person behind the skateboard."
+                "104973": {
+                    "org_img_id": "2362786",
+                    "org_cap": "Person, clad in a black wetsuit and hood, off the crest of a wave, his surfboard as he a smooth aerial maneuver.",
+                    "trg_cap": "Person, clad in a black wetsuit and hood, off the crest of a wave, his surfboard behind him as he a smooth aerial maneuver.",
+                    "instruction": "Add a surfboard behind the person."
                 }
             },
             {
-                "106262": {
-                    "org_img_id": "150457",
-                    "org_cap": "a worn wooden chair sits in a dimly lit room, with a black keyboard placed neatly on a small wooden desk, surrounded by scattered papers and tools.",
-                    "trg_cap": "A worn wooden chair sits in a dimly lit room, with a black keyboard placed neatly on a small wooden desk, a TV on the keyboard, surrounded by scattered papers and tools.",
-                    "instruction": "Add a tv on the keyboard."
+                "13576": {
+                    "org_img_id": "2387950",
+                    "org_cap": "A brown, resting dog is on the back seat of a green car.",
+                    "trg_cap": "A brown, resting dog is on the back seat of a green car, and a truck is in front of the dog.",
+                    "instruction": "Add a truck in front of the dog."
                 }
             },
             {
-                "116870": {
-                    "org_img_id": "2324357",
-                    "org_cap": "a person in his mid-twenties with a toned physique and a strong physique is shown in mid-air, his arms and legs splayed out in a dynamic pose as he throws a frisbee with incredible force and precision.",
-                    "trg_cap": "A person in his mid-twenties with a toned physique and a strong physique is shown in mid-air, his arms and legs splayed out in a dynamic pose as he throws a frisbee with incredible force and precision, while another person stands in front of the frisbee.",
-                    "instruction": "Add a person in front of the frisbee."
+                "47587": {
+                    "org_img_id": "2362121",
+                    "org_cap": "The banana is a yellow, curved banana with a few brown spots and a slight green stem at the top.",
+                    "trg_cap": "The banana is a yellow, curved banana with a few brown spots and a slight green stem at the top, and the sink is located behind the banana.",
+                    "instruction": "Add a sink behind the banana."
                 }
             },
             {
-                "105663": {
-                    "org_img_id": "2373150",
-                    "org_cap": "A standing person stands on a paddleboard, glistening in the sunlight as the waves the board.",
-                    "trg_cap": "A standing person stands on a paddleboard, with a surfboard strapped to their back, glistening in the sunlight as the waves the board.",
-                    "instruction": "Add a surfboard on the person."
+                "40153": {
+                    "org_img_id": "2415063",
+                    "org_cap": "A brown horse stands alone in a lush green meadow, surrounded by blooming flowers and towering pine trees, its coat in the soft sunlight.",
+                    "trg_cap": "A brown horse stands alone in a lush green meadow, surrounded by blooming flowers and towering pine trees, its coat in the soft sunlight, with an elephant on its right side.",
+                    "instruction": "Add a elephant on the right side of the horse."
                 }
             },
             {
-                "110815": {
-                    "org_img_id": "2399134",
-                    "org_cap": "person holds a sports ball in his gloved hand, his eyes fixed intently on the action unfolding around him.",
-                    "trg_cap": "Person stands under the sports ball, holding it in his gloved hand, his eyes fixed intently on the action unfolding around him.",
-                    "instruction": "Add a person under the sports ball."
+                "102091": {
+                    "org_img_id": "2409511",
+                    "org_cap": "a standing person down the sidewalk, under the awning of a storefront with a sign reading \"image productions\" in bold letters.",
+                    "trg_cap": "a standing person down the sidewalk, with a horse in front of them, under the awning of a storefront with a sign reading \"image productions\" in bold letters.",
+                    "instruction": "Add a horse in front of the person."
                 }
             },
             {
-                "110820": {
-                    "org_img_id": "2399134",
-                    "org_cap": "person holds a sports ball in his gloved hand, his eyes fixed intently on the action unfolding around him.",
-                    "trg_cap": "The person stands next to the sports ball, holding it in his gloved hand, his eyes fixed intently on the action unfolding around him.",
-                    "instruction": "Add a person next to the sports ball."
+                "41714": {
+                    "org_img_id": "2398217",
+                    "org_cap": "A gray laptop sits atop a table, with a white keyboard and glass surface below, flanked by a flat-screen tv and bookshelves in the background.",
+                    "trg_cap": "A gray laptop sits atop a table, with a book in front of the white keyboard and glass surface below, flanked by a flat-screen tv and bookshelves in the background.",
+                    "instruction": "Add a book in front of the keyboard."
                 }
             },
             {
-                "69708": {
-                    "org_img_id": "2373591",
-                    "org_cap": "the scene is focused on a remote lying on a worn, striped couch, with a lazy cat stretched out beside it, its paws curled around the remote and its eyes closed in a peaceful slumber.",
-                    "trg_cap": "The scene is focused on a remote lying on a worn, striped couch, with a lazy cat stretched out in front of it, its paws curled around the remote and its eyes closed in a peaceful slumber.",
-                    "instruction": "Add a cat in front of the remote."
+                "112943": {
+                    "org_img_id": "2326613",
+                    "org_cap": "a brown dog, the street.",
+                    "trg_cap": "a brown dog, a skateboard next to the dog, the street.",
+                    "instruction": "Add a skateboard next to the dog."
                 }
             },
             {
-                "116869": {
-                    "org_img_id": "2324357",
-                    "org_cap": "a person in his mid-twenties with a toned physique and a strong physique is shown in mid-air, his arms and legs splayed out in a dynamic pose as he throws a frisbee with incredible force and precision.",
-                    "trg_cap": "A person in his mid-twenties with a toned physique and a strong physique is shown in mid-air, his arms and legs splayed out in a dynamic pose as he throws a frisbee with incredible force and precision, while another person is behind the frisbee.",
-                    "instruction": "Add a person behind the frisbee."
+                "36538": {
+                    "org_img_id": "2345532",
+                    "org_cap": "a white dog on the deck of a small wooden boat, with a person beside it, both gazing out at the calm waters of a river.",
+                    "trg_cap": "a white dog on the deck of a small wooden boat, with a person beside it, both gazing out at the calm waters of a river, and a horse standing behind the dog.",
+                    "instruction": "Add a horse behind the dog."
                 }
             },
             {
-                "106656": {
-                    "org_img_id": "1520",
-                    "org_cap": "The cluttered office desk is dominated by a white keyboard, surrounded by scattered papers, a vase filled with wilting flowers, and a tangled mess of cords and wires.",
-                    "trg_cap": "The cluttered office desk is dominated by a white keyboard, surrounded by scattered papers, a TV in front of the vase filled with wilting flowers, and a tangled mess of cords and wires.",
-                    "instruction": "Add a tv in front of the vase."
+                "63181": {
+                    "org_img_id": "2327436",
+                    "org_cap": "a person with the sound of raindrops hitting the pavement and the distant hum of traffic in the background.",
+                    "trg_cap": "a person with the sound of raindrops hitting the pavement and the distant hum of traffic in the background, standing next to a bus by the umbrella.",
+                    "instruction": "Add a bus next to the umbrella."
                 }
             },
             {
-                "104993": {
-                    "org_img_id": "2363430",
-                    "org_cap": "a young girl with freckled skin and bright blue eyes, wearing glasses and a blue shirt, holds a small donut in her hand, her fingers wrapped around the donut as she sits on the grass.",
-                    "trg_cap": "A young girl with freckled skin and bright blue eyes, wearing glasses and a blue shirt, holds a small donut in her hand, her fingers wrapped around the donut as she sits on the grass, with a person standing in front of her.",
-                    "instruction": "Add a person in front of the donut."
+                "20283": {
+                    "org_img_id": "2385950",
+                    "org_cap": "A surfing person carves through the waves with precision and style, his green wetsuit glistening in the sunlight as he performs a flawless aerial, his board flying through the air as he rotates mid-air, the ocean spray and wind his hair.",
+                    "trg_cap": "A surfing person carves through the waves with precision and style, his green wetsuit glistening in the sunlight as he performs a flawless aerial, his board flying through the air next to him as he rotates mid-air, the ocean spray and wind his hair.",
+                    "instruction": "Add a surfboard next to the person."
                 }
             },
             {
-                "54603": {
-                    "org_img_id": "2380724",
-                    "org_cap": "A kneeling person in a truck is a flat tire on the side of the road, with a tow person parked nearby and a few cars in the background.",
-                    "trg_cap": "A kneeling person in a truck is a flat tire on the side of the road, with a tow person parked nearby and a few cars in the background, and the truck is on the shoulder of the road.",
-                    "instruction": "Add a truck on the person."
+                "102688": {
+                    "org_img_id": "2331640",
+                    "org_cap": "a yellow bus, driven by a person wearing a uniform, navigates through the cobblestone streets of a historic city center.",
+                    "trg_cap": "A motorcycle is in front of a yellow bus, driven by a person wearing a uniform, as it navigates through the cobblestone streets of a historic city center.",
+                    "instruction": "Add a motorcycle in front of the bus."
                 }
             },
             {
-                "4162": {
-                    "org_img_id": "61550",
-                    "org_cap": "the kitchen features a sleek, black granite countertop with a white backsplash and stainless steel appliances, including a modern oven.",
-                    "trg_cap": "The kitchen features a sleek, black granite countertop with a white backsplash and stainless steel appliances, including a modern oven, with a chair next to the oven.",
-                    "instruction": "Add a chair next to the oven."
+                "22394": {
+                    "org_img_id": "2416023",
+                    "org_cap": "The yellow couch sat against the wall, with an open laptop perched on the armrest.",
+                    "trg_cap": "The yellow couch sat against the wall, with an open laptop perched on the armrest and a cat sitting on the laptop.",
+                    "instruction": "Add a cat on the laptop."
                 }
             },
             {
-                "69525": {
-                    "org_img_id": "18",
-                    "org_cap": "a person sits at a desk with a white keyboard and a shelf above them, holding a book and a small, round object.",
-                    "trg_cap": "a person sits at a desk with a white keyboard and a tv next to it, and a shelf above them, holding a book and a small, round object.",
-                    "instruction": "Add a tv next to the keyboard."
+                "78907": {
+                    "org_img_id": "2415775",
+                    "org_cap": "a person sits at a desk, munching on a white cup.",
+                    "trg_cap": "A person sits at a desk, munching on a white cup, with a bottle on the cup.",
+                    "instruction": "Add a bottle on the cup."
                 }
             },
             {
-                "64539": {
-                    "org_img_id": "2360244",
-                    "org_cap": "The living room features a comfortable couch, a wooden tv stand, and a small table with a person's toy on it, with a person on the couch and a person on the floor.",
-                    "trg_cap": "The living room features a comfortable couch, a wooden tv stand, a chair behind the tv, and a small table with a person's toy on it, with a person on the couch and a person on the floor.",
-                    "instruction": "Add a chair behind the tv."
+                "73127": {
+                    "org_img_id": "2323235",
+                    "org_cap": "a woman sits in a taxi, holding a cell phone in her hand, her fingers typing away as she gazes out the window at the cityscape.",
+                    "trg_cap": "a woman sits in a taxi, holding a cell phone in her hand, with a couch on the left side of the cell phone, her fingers typing away as she gazes out the window at the cityscape.",
+                    "instruction": "Add a couch on the left side of the cell phone."
                 }
             },
             {
-                "113860": {
-                    "org_img_id": "2410753",
-                    "org_cap": "The scene features a wooden desk with a gray keyboard and a black laptop on, surrounded by a few scattered items like a phone, a clock, and a small toy.",
-                    "trg_cap": "The scene features a wooden desk with a gray keyboard and a black laptop on, with a TV on the keyboard, surrounded by a few scattered items like a phone, a clock, and a small toy.",
-                    "instruction": "Add a tv on the keyboard."
+                "46639": {
+                    "org_img_id": "2396449",
+                    "org_cap": "person sits at a table on a boat, holding a white cup and wearing a gray sweater and glasses.",
+                    "trg_cap": "Person sits at a table on a boat, holding a white cup with a cake on it and wearing a gray sweater and glasses.",
+                    "instruction": "Add a cake on the cup."
                 }
             },
             {
-                "83038": {
-                    "org_img_id": "2326960",
-                    "org_cap": "a person wearing a backpack with a person sitting inside.",
-                    "trg_cap": "a person wearing a backpack with a person sitting inside, with a bicycle on the left side of the backpack.",
-                    "instruction": "Add a bicycle on the left side of the backpack."
+                "71977": {
+                    "org_img_id": "2361231",
+                    "org_cap": "A woman is sitting and smiling while holding a knife in front of four cakes.",
+                    "trg_cap": "A woman is sitting and smiling while holding a knife in front of four cakes, with dining table under the knife",
+                    "instruction": "Add a dining table under the knife."
                 }
             },
             {
-                "32245": {
-                    "org_img_id": "2364436",
-                    "org_cap": "A skateboarder in a hoodie and jeans rides down a ramp at night, his skateboard glowing with a neon light as he performs a trick on the concrete ramp.",
-                    "trg_cap": "A skateboarder in a hoodie and jeans rides down a ramp at night, his skateboard glowing with a neon light as he performs a trick on the concrete ramp, with a person lying underneath the skateboard.",
-                    "instruction": "Add a person under the skateboard."
+                "96718": {
+                    "org_img_id": "2373997",
+                    "org_cap": "a wooden table with a glass top, supporting a laptop, white keyboard, and a few books, surrounded by bookshelves and a few decorative items.",
+                    "trg_cap": "a wooden table with a glass top, supporting a laptop, a white keyboard with a cup behind it, and a few books, surrounded by bookshelves and a few decorative items.",
+                    "instruction": "Add a cup behind the keyboard."
                 }
             },
             {
-                "27674": {
-                    "org_img_id": "2349514",
-                    "org_cap": "A person blows out candles on a red cake, surrounded by a table setting with plates, forks, and glasses.",
-                    "trg_cap": "A person blows out candles on a red cake, surrounded by a table setting with plates, forks, glasses, and a cup behind the cake.",
-                    "instruction": "Add a cup behind the cake."
+                "65352": {
+                    "org_img_id": "1705",
+                    "org_cap": "The scene features a black chair, placed on a polished wood floor, with a gray laptop sitting on the chair's armrest.",
+                    "trg_cap": "The scene features a black chair, placed on a polished wood floor, with a gray laptop sitting on the chair's armrest and a book next to the laptop.",
+                    "instruction": "Add a book next to the laptop."
                 }
             },
             {
-                "64547": {
-                    "org_img_id": "2360244",
-                    "org_cap": "The living room features a comfortable couch, a wooden tv stand, and a small table with a person's toy on it, with a person on the couch and a person on the floor.",
-                    "trg_cap": "The living room features a comfortable couch, a wooden tv stand with a book behind it, and a small table with a person's toy on it, with a person on the couch and a person on the floor.",
-                    "instruction": "Add a book behind the tv."
+                "73599": {
+                    "org_img_id": "2342558",
+                    "org_cap": "a table with a wooden table top and a few wine glasses sits in a cozy room with a warm glow, surrounded by lush greenery and a few wine bottles, with a group of people, including person, seated around the table, each holding a wine glass and smiling at the camera.",
+                    "trg_cap": "A table with a wooden table top and a few wine glasses sits in a cozy room with a warm glow, surrounded by lush greenery and a few wine bottles, with a bowl on the bottle, and a group of people, including person, seated around the table, each holding a wine glass and smiling at the camera.",
+                    "instruction": "Add a bowl on the bottle."
                 }
             },
             {
-                "18113": {
-                    "org_img_id": "150508",
-                    "org_cap": "The living room features a small dining table with a glass top, surrounded by a comfortable seating area with a couch and chairs, with a white refrigerator.",
-                    "trg_cap": "The living room features a small dining table with a glass top, surrounded by a comfortable seating area with a couch and chairs, with a white refrigerator topped by a microwave.",
-                    "instruction": "Add a microwave on the refrigerator."
+                "77671": {
+                    "org_img_id": "2359078",
+                    "org_cap": "the bathroom features a sleek, modern sink with a wooden countertop and a glass wall separating the shower area.",
+                    "trg_cap": "The bathroom features a sleek, modern sink with a bowl in the center, a wooden countertop, and a glass wall separating the shower area.",
+                    "instruction": "Add a bowl in the sink."
                 }
             },
             {
-                "75296": {
-                    "org_img_id": "2381568",
-                    "org_cap": "The microwave is a stainless steel microwave with a sleek design, situated above the kitchen counter and flanked by a sink and stove.",
-                    "trg_cap": "The microwave is a stainless steel microwave with a sleek design, situated above the kitchen counter and flanked by a sink and stove, with an oven located directly underneath.",
-                    "instruction": "Add a oven under the microwave."
+                "39771": {
+                    "org_img_id": "2397698",
+                    "org_cap": "Skiing person through the snow-covered slopes on her skis, her legs and arms as she the mountain.",
+                    "trg_cap": "Skiing person through the snow-covered slopes on her skis, her legs and arms as she the mountain, with a backpack strapped to her front.",
+                    "instruction": "Add a backpack in front of the person."
                 }
             },
             {
-                "30422": {
-                    "org_img_id": "407",
-                    "org_cap": "The desk features a black keyboard, surrounded by empty space and a few scattered objects like a can of soda and a stack of papers.",
-                    "trg_cap": "The desk features a black keyboard, on which sits a TV, surrounded by empty space and a few scattered objects like a can of soda and a stack of papers.",
-                    "instruction": "Add a tv on the keyboard."
+                "25491": {
+                    "org_img_id": "3886",
+                    "org_cap": "A white car is turning left at the roundabout.",
+                    "trg_cap": "A white car is turning left at the roundabout, with a giraffe on its left side.",
+                    "instruction": "Add a giraffe on the left side of the car."
                 }
             },
             {
-                "12257": {
-                    "org_img_id": "2337378",
-                    "org_cap": "A laptop sits on a cluttered desk, surrounded by papers, pens, and a worn-out chair.",
-                    "trg_cap": "A laptop sits on a cluttered desk, with a book in front of it, surrounded by papers, pens, and a worn-out chair.",
-                    "instruction": "Add a book in front of the laptop."
+                "100496": {
+                    "org_img_id": "2388880",
+                    "org_cap": "A single black cell phone lies on the floor, its screen cracked and its casing worn.",
+                    "trg_cap": "A single black cell phone lies on the floor, its screen cracked and its casing worn, with a book underneath it.",
+                    "instruction": "Add a book under the cell phone."
                 }
             },
             {
-                "70619": {
-                    "org_img_id": "2384646",
-                    "org_cap": "a person is seen crouched down next to a fire hydrant, wearing a yellow vest and holding a tool, with a cityscape visible in the background.",
-                    "trg_cap": "A person is seen crouched down next to a fire hydrant, wearing a yellow vest and holding a tool, with a truck in front of the fire hydrant and a cityscape visible in the background.",
-                    "instruction": "Add a truck in front of the fire hydrant."
+                "94724": {
+                    "org_img_id": "2354503",
+                    "org_cap": "a woman sits at a wooden table, holding a white cell phone and smiling at the camera.",
+                    "trg_cap": "A woman sits at a wooden table, holding a white cell phone and smiling at the camera, with a book under the cell phone.",
+                    "instruction": "Add a book under the cell phone."
                 }
             }
         ],

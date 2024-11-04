@@ -1,0 +1,5 @@
+org_img_id: 2371015
+org_cap: a bronze statue of a person atop a clock tower, her right arm with a lantern and her left hand with a clock face with intricate details and numerals.
+trg_cap: a bronze statue of a donut atop a clock tower, its right arm with a lantern and its left hand with a clock face with intricate details and numerals.
+instruction: Replace the person with a donut.
+taskid: 102034

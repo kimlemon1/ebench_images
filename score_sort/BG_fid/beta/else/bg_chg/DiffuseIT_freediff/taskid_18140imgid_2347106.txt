@@ -1,0 +1,5 @@
+org_img_id: 2347106
+org_cap: The white tv is mounted on a sleek, white adjustable arm, allowing it to be tilted and swiveled to the perfect viewing angle.
+trg_cap: In the restaurant, the white TV is mounted on a sleek, white adjustable arm, allowing it to be tilted and swiveled to the perfect viewing angle.
+instruction: Change the background to restaurant.
+taskid: 18140

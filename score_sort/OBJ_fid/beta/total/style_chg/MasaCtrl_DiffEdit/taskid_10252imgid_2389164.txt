@@ -1,0 +1,5 @@
+org_img_id: 2389164
+org_cap: A white airplane glides smoothly through the sky at sunset, its propeller spinning lazily as it soars above a misty mountain range.
+trg_cap: A cartoon-style art depicts a white airplane gliding smoothly through the sky at sunset, its propeller spinning lazily as it soars above a misty mountain range.
+instruction: Change the style if the image to cartoon style.
+taskid: 10252

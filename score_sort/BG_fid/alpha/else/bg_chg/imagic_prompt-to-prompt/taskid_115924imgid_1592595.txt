@@ -1,0 +1,5 @@
+org_img_id: 1592595
+org_cap: a blue bus with a sleek design, featuring a curved front and a flat roof, with a chrome grille and led headlights.
+trg_cap: A blue bus with a sleek design, featuring a curved front and a flat roof, with a chrome grille and LED headlights, stands against the backdrop of a mountain top.
+instruction: Change the background to mountain top.
+taskid: 115924

@@ -1,0 +1,5 @@
+org_img_id: 2319515
+org_cap: a red train chugs along the train, its wheels clicking on the train as it passes through a lush green train dotted with grazing train and train.
+trg_cap: A red train chugs along the track, its wheels clicking on the rails as it passes through a lush green landscape dotted with grazing animals and caves.
+instruction: Change the background to cave.
+taskid: 87277

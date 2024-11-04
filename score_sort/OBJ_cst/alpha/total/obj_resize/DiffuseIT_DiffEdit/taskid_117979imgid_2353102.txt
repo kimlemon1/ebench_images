@@ -1,0 +1,5 @@
+org_img_id: 2353102
+org_cap: The person beside the aircraft, wearing a bright yellow vest and holding a tablet computer, with the plane's nose and cockpit visible behind them.
+trg_cap: The large person beside the aircraft, wearing a bright yellow vest and holding a tablet computer, with the plane's nose and cockpit visible behind them.
+instruction: Make the person larger.
+taskid: 117979

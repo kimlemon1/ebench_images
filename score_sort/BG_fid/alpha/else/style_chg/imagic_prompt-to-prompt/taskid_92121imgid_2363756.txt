@@ -1,0 +1,5 @@
+org_img_id: 2363756
+org_cap: a person across a rainy city street, an umbrella and a gray shirt and dark pants.
+trg_cap: A cartoon-style artwork depicts a person in a gray shirt and dark pants holding an umbrella while crossing a rainy city street.
+instruction: Change the style if the image to cartoon style.
+taskid: 92121

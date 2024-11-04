@@ -1,0 +1,5 @@
+org_img_id: 2381338
+org_cap: The scene features a white desk with a white keyboard at its center, flanked by two black ergonomic office chairs.
+trg_cap: The scene features a white desk at the center, flanked by two black ergonomic office knives.
+instruction: Replace the keyboard with a knife.
+taskid: 25937

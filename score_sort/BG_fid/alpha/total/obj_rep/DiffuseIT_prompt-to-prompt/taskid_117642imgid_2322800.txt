@@ -1,0 +1,5 @@
+org_img_id: 2322800
+org_cap: A eaten, glazed, white donut is held in a person's hand.
+trg_cap: A teddy bear is held in their hand.
+instruction: Replace the donut with a teddy bear.
+taskid: 117642

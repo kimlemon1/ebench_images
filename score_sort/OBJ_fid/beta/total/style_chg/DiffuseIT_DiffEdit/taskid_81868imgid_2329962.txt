@@ -1,0 +1,5 @@
+org_img_id: 2329962
+org_cap: a blue single-deck bus with a silver trim and a distinctive design, parked at a bus stop with a pedestrian crossing nearby.
+trg_cap: The graffiti art features a blue single-deck bus with a silver trim and a distinctive design, parked at a bus stop with a pedestrian crossing nearby.
+instruction: Change the style if the image to graffiti art.
+taskid: 81868

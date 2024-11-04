@@ -1,0 +1,5 @@
+org_img_id: 2316964
+org_cap: a person performs a daring motorcycle stunt, with his bike, his body in a dramatic arc above the trees.
+trg_cap: a large person performs a daring motorcycle stunt, with his bike, his body in a dramatic arc above the trees.
+instruction: Make the person larger.
+taskid: 68310

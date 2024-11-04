@@ -1,0 +1,5 @@
+org_img_id: 2334585
+org_cap: a bright yellow train with a yellow and orange stripe pattern, standing on the railway platform with its doors open.
+trg_cap: A bright yellow train with a yellow and orange stripe pattern, standing on the railway platform with its doors open, is set against the lush backdrop of a tropical jungle.
+instruction: Change the background to tropical jungle.
+taskid: 50395

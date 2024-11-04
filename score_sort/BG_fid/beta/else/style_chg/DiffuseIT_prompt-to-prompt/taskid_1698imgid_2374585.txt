@@ -1,0 +1,5 @@
+org_img_id: 2374585
+org_cap: A person holds a toothbrush in front of a white bird's beak, with the bird looking at her.
+trg_cap: A Van Gogh style artwork depicts a person holding a toothbrush in front of a white bird's beak, with the bird looking at her.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 1698

@@ -1,0 +1,5 @@
+org_img_id: 2345633
+org_cap: An eating person stood in the orchard, holding an apple in her hands.
+trg_cap: A small eating person stood in the orchard, holding an apple in her hands.
+instruction: Make the person smaller.
+taskid: 99349

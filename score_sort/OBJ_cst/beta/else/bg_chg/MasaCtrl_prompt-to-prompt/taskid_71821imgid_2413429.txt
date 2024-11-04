@@ -1,0 +1,5 @@
+org_img_id: 2413429
+org_cap: The scene features a desktop computer with a black keyboard, a black tower computer, a white desk, and a few framed photographs on the wall.
+trg_cap: The scene features a desktop computer with a black keyboard, a black tower computer, a white desk, and a few framed photographs on the wall, set against the backdrop of a gym with exercise equipment and weights.
+instruction: Change the background to gym.
+taskid: 71821

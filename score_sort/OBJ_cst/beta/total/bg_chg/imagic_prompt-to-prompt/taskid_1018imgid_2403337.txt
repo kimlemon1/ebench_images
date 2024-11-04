@@ -1,0 +1,5 @@
+org_img_id: 2403337
+org_cap: Standing person on the sidewalk in front of a suburban house, with a green luggage tag.
+trg_cap: Standing person on the sidewalk in front of a suburban house, with a green luggage tag, overlooking a vineyard in the distance.
+instruction: Change the background to vineyard.
+taskid: 1018

@@ -1,0 +1,5 @@
+org_img_id: 2368097
+org_cap: Young person in snowshoes, sunglasses on forehead, snowsuit against the cold, and hat over ears.
+trg_cap: Young person in snowshoes, sunglasses on forehead, snowsuit against the cold, and hat over ears.
+instruction: Change the state of the person from young to adult.
+taskid: 93948

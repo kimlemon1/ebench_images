@@ -1,0 +1,5 @@
+org_img_id: 2350355
+org_cap: The blue clock tower stands tall with its red dome and intricate stone carvings.
+trg_cap: The art, in a watercolor painting style, features a blue clock tower standing tall with its red dome and intricate stone carvings.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 60910

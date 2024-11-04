@@ -1,0 +1,5 @@
+org_img_id: 2374097
+org_cap: A black dog with a tail is drinking water from a toilet bowl.
+trg_cap: A mosaic art depicts a black dog with a tail drinking water from a toilet bowl.
+instruction: Change the style if the image to mosaic art.
+taskid: 52807

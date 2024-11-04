@@ -1,0 +1,5 @@
+org_img_id: 2384057
+org_cap: A large clock face dominates the facade of the building, its bright yellow numbers and hands illuminated against the dark red brick exterior.
+trg_cap: The pop art style artwork features a large clock face that dominates the facade of the building, with its bright yellow numbers and hands illuminated against the dark red brick exterior.
+instruction: Change the style if the image to pop art style.
+taskid: 35469

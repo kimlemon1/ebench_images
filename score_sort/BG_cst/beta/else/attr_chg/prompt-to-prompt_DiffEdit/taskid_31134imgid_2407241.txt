@@ -1,0 +1,5 @@
+org_img_id: 2407241
+org_cap: a white truck.
+trg_cap: a striped truck.
+instruction: Change the color of the truck from white to striped.
+taskid: 31134

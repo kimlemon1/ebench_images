@@ -1,0 +1,5 @@
+org_img_id: 2392239
+org_cap: The green bus is a double-decker, with a green livery and a distinctive rounded front.
+trg_cap: The small green bus is a double-decker, with a green livery and a distinctive rounded front.
+instruction: Make the bus smaller.
+taskid: 92564

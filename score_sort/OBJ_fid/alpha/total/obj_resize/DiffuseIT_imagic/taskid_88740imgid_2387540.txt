@@ -1,0 +1,5 @@
+org_img_id: 2387540
+org_cap: The baseball bat is a white wood baseball bat with a distinctive curve and a textured grip.
+trg_cap: The baseball bat is a large white wood baseball bat with a distinctive curve and a textured grip.
+instruction: Make the baseball bat larger.
+taskid: 88740

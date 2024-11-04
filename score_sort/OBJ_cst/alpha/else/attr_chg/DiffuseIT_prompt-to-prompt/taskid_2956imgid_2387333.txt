@@ -1,0 +1,5 @@
+org_img_id: 2387333
+org_cap: Playing person swings a yellow plastic baseball bat, sending a ball flying through the air amidst a backdrop of crunchy autumn leaves.
+trg_cap: Playing person swings a silver plastic baseball bat, sending a ball flying through the air amidst a backdrop of crunchy autumn leaves.
+instruction: Change the color of the baseball bat from yellow to silver.
+taskid: 2956

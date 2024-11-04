@@ -1,0 +1,5 @@
+org_img_id: 2328898
+org_cap: person rides a surfboard, her long hair behind her as she through the waves, her black wetsuit with sea spray.
+trg_cap: A person rides a surfboard, her long hair behind her as she glides through the waves, her black wetsuit with sea spray, while the distant sounds of animals from the nearby zoo echo in the background.
+instruction: Change the background to zoo.
+taskid: 84701

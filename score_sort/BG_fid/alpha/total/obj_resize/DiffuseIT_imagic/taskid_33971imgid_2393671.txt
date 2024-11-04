@@ -1,0 +1,5 @@
+org_img_id: 2393671
+org_cap: a sleek black cat with a fluffy tail and piercing green eyes sits on a windowsill, gazing out at a bright blue sky with puffy white clouds across it.
+trg_cap: a small, sleek black cat with a fluffy tail and piercing green eyes sits on a windowsill, gazing out at a bright blue sky with puffy white clouds across it.
+instruction: Make the cat smaller.
+taskid: 33971

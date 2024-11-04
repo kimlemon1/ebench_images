@@ -1,0 +1,5 @@
+org_img_id: 2010
+org_cap: The black backpack lay on the floor, its straps and surface telling a story of adventure and travel.
+trg_cap: The black backpack lay on the floor, its straps and surface telling a story of adventure and travel, next to a chair.
+instruction: Add a chair next to the backpack.
+taskid: 58727

@@ -1,0 +1,5 @@
+org_img_id: 2315941
+org_cap: An apple sits alone on a pink plate, its red apple reflecting the soft light of the room.
+trg_cap: An apple sits alone on a pink plate, its brown apple reflecting the soft light of the room.
+instruction: Change the color of the apple from red to brown.
+taskid: 110702

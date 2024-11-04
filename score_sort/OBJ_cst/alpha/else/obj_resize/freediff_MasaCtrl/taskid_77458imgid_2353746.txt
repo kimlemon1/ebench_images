@@ -1,0 +1,5 @@
+org_img_id: 2353746
+org_cap: a white dress shirt with a maroon necktie is worn by a person.
+trg_cap: a white dress shirt with a small maroon necktie is worn by a person.
+instruction: Make the tie smaller.
+taskid: 77458

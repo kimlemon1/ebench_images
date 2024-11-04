@@ -1,0 +1,5 @@
+org_img_id: 2344598
+org_cap: a train with a bright blue livery and distinctive logo on the side, carrying passengers in trains with tinted windows and a train at the front.
+trg_cap: A train with a bright blue livery and distinctive logo on the side, carrying passengers in trains with tinted windows and a train at the front, emerged from the darkness of a cave.
+instruction: Change the background to cave.
+taskid: 57774

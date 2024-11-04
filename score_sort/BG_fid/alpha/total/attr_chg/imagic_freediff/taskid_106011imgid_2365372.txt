@@ -1,0 +1,5 @@
+org_img_id: 2365372
+org_cap: A red train glides smoothly along the platform, its wheels humming softly as it comes to a stop.
+trg_cap: A purple train glides smoothly along the platform, its wheels humming softly as it comes to a stop.
+instruction: Change the color of the train from red to purple.
+taskid: 106011

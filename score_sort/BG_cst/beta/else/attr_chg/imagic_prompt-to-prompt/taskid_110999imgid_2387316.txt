@@ -1,0 +1,5 @@
+org_img_id: 2387316
+org_cap: The metal, white stop sign features the word "stop" written in the local language, featuring the script and characters used by the ethnic group.
+trg_cap: The metal, red stop sign features the word "stop" written in the local language, featuring the script and characters used by the ethnic group.
+instruction: Change the color of the stop sign from white to red.
+taskid: 110999

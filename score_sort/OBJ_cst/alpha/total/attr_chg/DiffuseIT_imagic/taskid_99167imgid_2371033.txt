@@ -1,0 +1,5 @@
+org_img_id: 2371033
+org_cap: A red stop sign stands alone in the desert landscape, with a clear blue sky and distant mountains visible in the background.
+trg_cap: A black stop sign stands alone in the desert landscape, with a clear blue sky and distant mountains visible in the background.
+instruction: Change the color of the stop sign from red to black.
+taskid: 99167

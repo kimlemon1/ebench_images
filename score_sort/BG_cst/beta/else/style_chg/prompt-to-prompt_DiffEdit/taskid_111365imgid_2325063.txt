@@ -1,0 +1,5 @@
+org_img_id: 2325063
+org_cap: the clock features a bold, geometric design with a circular clock surrounded by a chrome metal frame, adorned with a stylized sunburst pattern and a prominent hour and minute hand.
+trg_cap: The cartoon-style art features a bold, geometric design with a circular clock surrounded by a chrome metal frame, adorned with a stylized sunburst pattern and prominent hour and minute hands.
+instruction: Change the style if the image to cartoon style.
+taskid: 111365

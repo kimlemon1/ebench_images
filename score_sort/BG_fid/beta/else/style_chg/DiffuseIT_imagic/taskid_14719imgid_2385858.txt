@@ -1,0 +1,5 @@
+org_img_id: 2385858
+org_cap: a person holds a bowl in a kitchen with a white microwave.
+trg_cap: A Van Gogh style artwork depicts a person holding a bowl in a kitchen with a white microwave.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 14719

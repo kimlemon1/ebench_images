@@ -1,0 +1,5 @@
+org_img_id: 2326537
+org_cap: a small, yellow-beaked bird with bright, curious eyes and a distinctive black and white striped head, on a human hand, at a crumb.
+trg_cap: The mosaic art depicts a small, yellow-beaked bird with bright, curious eyes and a distinctive black and white striped head, perched on a human hand at a crumb.
+instruction: Change the style if the image to mosaic art.
+taskid: 43991

@@ -1,0 +1,5 @@
+org_img_id: 2362121
+org_cap: The banana is a yellow, curved banana with a few brown spots and a slight green stem at the top.
+trg_cap: The banana is a yellow, curved banana with a few brown spots and a slight green stem at the top, and the sink is located behind the banana.
+instruction: Add a sink behind the banana.
+taskid: 47587

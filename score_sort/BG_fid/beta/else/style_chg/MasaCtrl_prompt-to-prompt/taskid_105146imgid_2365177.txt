@@ -1,0 +1,5 @@
+org_img_id: 2365177
+org_cap: a young person with a messy haircut and worn-out clothes sat on a streetlamp, his bare feet under his legs, and his eyes on the small phone in his hand.
+trg_cap: An oil painting style art depicts a young person with a messy haircut and worn-out clothes sitting on a streetlamp, his bare feet tucked under his legs, and his eyes focused on the small phone in his hand.
+instruction: Change the style if the image to oil painting style.
+taskid: 105146

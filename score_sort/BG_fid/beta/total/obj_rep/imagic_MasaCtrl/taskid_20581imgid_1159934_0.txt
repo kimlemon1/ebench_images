@@ -1,0 +1,5 @@
+org_img_id: 1159934_0
+org_cap: the beige sofa sits against a white wall, with a rectangular laptop open on a glass coffee table in front of it.
+trg_cap: The beige sofa sits against a white wall, with a chair in front of the sofa.
+instruction: Replace the laptop with a chair.
+taskid: 20581

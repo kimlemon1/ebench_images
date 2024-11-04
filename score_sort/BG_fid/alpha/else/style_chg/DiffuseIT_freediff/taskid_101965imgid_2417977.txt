@@ -1,0 +1,5 @@
+org_img_id: 2417977
+org_cap: A woman in a black coat and hat stands on the platform, waving goodbye to an orange train as it prepares to depart the station.
+trg_cap: The mosaic art depicts a woman in a black coat and hat standing on the platform, waving goodbye to an orange train as it prepares to depart the station.
+instruction: Change the style if the image to mosaic art.
+taskid: 101965

@@ -1,0 +1,5 @@
+org_img_id: 2385070
+org_cap: The blue couch sits against a wall, surrounded by a few framed artworks and a glass coffee table.
+trg_cap: The purple couch sits against a wall, surrounded by a few framed artworks and a glass coffee table.
+instruction: Change the color of the couch from blue to purple.
+taskid: 108649

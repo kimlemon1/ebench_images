@@ -1,0 +1,5 @@
+org_img_id: 2387178
+org_cap: A black striped zebra stands on a green grassy field, its stripes in the sunlight, with a curious bird hovering nearby.
+trg_cap: A striped striped zebra stands on a green grassy field, its stripes in the sunlight, with a curious bird hovering nearby.
+instruction: Change the color of the zebra from black to striped.
+taskid: 53455

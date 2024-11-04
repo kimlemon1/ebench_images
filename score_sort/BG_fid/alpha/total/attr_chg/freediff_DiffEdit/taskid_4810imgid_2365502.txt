@@ -1,0 +1,5 @@
+org_img_id: 2365502
+org_cap: A standing, young, blond, smiling person in a white tennis outfit holds a tennis racket on a lush green tennis court, playing.
+trg_cap: A standing, elderly, blond, smiling person in a white tennis outfit holds a tennis racket on a lush green tennis court, playing.
+instruction: Change the state of the person from young to elderly.
+taskid: 4810

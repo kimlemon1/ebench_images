@@ -1,0 +1,5 @@
+org_img_id: 2328232
+org_cap: a white airplane with a purple stripe on its side and a set of landing lights on its nose is parked on the tarmac, its engines covered with a canvas, and a luggage cart is parked nearby.
+trg_cap: An oil painting style art depicts a white airplane with a purple stripe on its side and a set of landing lights on its nose, parked on the tarmac with its engines covered by a canvas, while a luggage cart is parked nearby.
+instruction: Change the style if the image to oil painting style.
+taskid: 116137

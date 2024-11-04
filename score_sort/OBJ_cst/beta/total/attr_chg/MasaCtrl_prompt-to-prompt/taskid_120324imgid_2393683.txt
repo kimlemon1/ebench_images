@@ -1,0 +1,5 @@
+org_img_id: 2393683
+org_cap: young, blond person away from the tennis court, his racket and a shirt with the words "aces" printed on it.
+trg_cap: adult, blond person away from the tennis court, his racket and a shirt with the words "aces" printed on it.
+instruction: Change the state of the person from young to adult.
+taskid: 120324

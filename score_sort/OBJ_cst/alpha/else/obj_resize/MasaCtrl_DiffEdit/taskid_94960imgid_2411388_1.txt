@@ -1,0 +1,5 @@
+org_img_id: 2411388_1
+org_cap: the person's legs moved swiftly as they glided across the snow in their orange skis.
+trg_cap: the person's legs moved swiftly as they glided across the snow in their large orange skis.
+instruction: Make the skis larger.
+taskid: 94960

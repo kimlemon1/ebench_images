@@ -1,0 +1,5 @@
+org_img_id: 2378595
+org_cap: The black baseball bat is a piece of wood with a handle and a head.
+trg_cap: The large black baseball bat is a piece of wood with a handle and a head.
+instruction: Make the baseball bat larger.
+taskid: 96078

@@ -1,0 +1,5 @@
+org_img_id: 2357324
+org_cap: the elephant is a bright blue color with intricate patterns on its body, and its trunk is adorned with a yellow stripe.
+trg_cap: The umbrella.
+instruction: Replace the elephant with a umbrella.
+taskid: 45839

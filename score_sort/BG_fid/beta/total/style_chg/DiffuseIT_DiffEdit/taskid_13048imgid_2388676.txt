@@ -1,0 +1,5 @@
+org_img_id: 2388676
+org_cap: The open, off laptop sits on a desk, surrounded by a few scattered items like a small speaker and a cup, with a plain white chair tucked neatly underneath.
+trg_cap: A cartoon-style art depicts an open, off laptop sitting on a desk surrounded by a few scattered items like a small speaker and a cup, with a plain white chair tucked neatly underneath.
+instruction: Change the style if the image to cartoon style.
+taskid: 13048

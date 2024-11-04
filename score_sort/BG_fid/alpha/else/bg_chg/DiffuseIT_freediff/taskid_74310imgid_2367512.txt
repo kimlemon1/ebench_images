@@ -1,0 +1,5 @@
+org_img_id: 2367512
+org_cap: a large, fluffy dog with a distinctive brindle coat and a thick, wrinkled neck on the sidewalk, its ears in the breeze as it the air and a group of people nearby.
+trg_cap: a large, fluffy dog with a distinctive brindle coat and a thick, wrinkled neck on the sidewalk, its ears in the breeze as it the air and a group of people nearby, all set against the backdrop of a vast, arid desert landscape.
+instruction: Change the background to desert.
+taskid: 74310

@@ -1,0 +1,5 @@
+org_img_id: 2357073
+org_cap: A white airplane flies through the grey sky, its engines roaring as it banks and turns in a smooth, steady motion.
+trg_cap: A cartoon-style artwork depicts a white airplane flying through the grey sky, its engines roaring as it banks and turns in a smooth, steady motion.
+instruction: Change the style if the image to cartoon style.
+taskid: 10977

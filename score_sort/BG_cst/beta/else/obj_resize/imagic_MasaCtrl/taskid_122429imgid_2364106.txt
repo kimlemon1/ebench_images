@@ -1,0 +1,5 @@
+org_img_id: 2364106
+org_cap: A baseball-themed cake features a chocolate base shaped like a baseball mitt, with white frosting and fondant details, including a cake logo and stitching.
+trg_cap: A small baseball-themed cake features a chocolate base shaped like a baseball mitt, with white frosting and fondant details, including a cake logo and stitching.
+instruction: Make the cake smaller.
+taskid: 122429

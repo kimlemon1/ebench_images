@@ -1,0 +1,5 @@
+org_img_id: 2416023
+org_cap: The yellow couch sat against the wall, with an open laptop perched on the armrest.
+trg_cap: The yellow couch sat against the wall, with an open laptop perched on the armrest and a cat sitting on the laptop.
+instruction: Add a cat on the laptop.
+taskid: 22394

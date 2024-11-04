@@ -1,0 +1,5 @@
+org_img_id: 2318549
+org_cap: a freight train carrying train cars filled with various goods rumbles along the tracks.
+trg_cap: A freight train carrying train cars filled with various goods rumbles along the tracks through a dimly lit cave.
+instruction: Change the background to cave.
+taskid: 85628

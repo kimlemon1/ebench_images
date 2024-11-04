@@ -1,0 +1,5 @@
+org_img_id: 2361581
+org_cap: the blue bus with a shiny exterior and a large glass window on the side is parked at the roadside, with a mountainous terrain visible in the background.
+trg_cap: The blue bus with a shiny exterior and a large glass window on the side is parked at the roadside, with a snow field visible in the background.
+instruction: Change the background to snow field.
+taskid: 6349

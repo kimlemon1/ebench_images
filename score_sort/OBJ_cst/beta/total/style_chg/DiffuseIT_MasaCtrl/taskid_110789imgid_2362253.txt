@@ -1,0 +1,5 @@
+org_img_id: 2362253
+org_cap: A dark blue airplane flies across a bright blue sky with a small black bird flying alongside it.
+trg_cap: A grayscale photo depicts a dark blue airplane flying across a bright blue sky with a small black bird alongside it.
+instruction: Change the style if the image to grey scale.
+taskid: 110789

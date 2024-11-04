@@ -1,0 +1,5 @@
+org_img_id: 2387950
+org_cap: A brown, resting dog is on the back seat of a green car.
+trg_cap: A brown, resting dog is on the back seat of a green car, and a truck is in front of the dog.
+instruction: Add a truck in front of the dog.
+taskid: 13576

@@ -1,0 +1,5 @@
+org_img_id: 2409511
+org_cap: a standing person down the sidewalk, under the awning of a storefront with a sign reading "image productions" in bold letters.
+trg_cap: a standing person down the sidewalk, with a horse in front of them, under the awning of a storefront with a sign reading "image productions" in bold letters.
+instruction: Add a horse in front of the person.
+taskid: 102091

@@ -1,0 +1,5 @@
+org_img_id: 2379638
+org_cap: a young girl holds a blue toothbrush in her hand, with a toothpaste-covered bristle and a few strands of her dark hair caught in the toothbrush's fibers.
+trg_cap: a young girl holds a pink toothbrush in her hand, with a toothpaste-covered bristle and a few strands of her dark hair caught in the toothbrush's fibers.
+instruction: Change the color of the toothbrush from blue to pink.
+taskid: 54672

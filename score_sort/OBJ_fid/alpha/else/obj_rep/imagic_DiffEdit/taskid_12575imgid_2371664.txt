@@ -1,0 +1,5 @@
+org_img_id: 2371664
+org_cap: a middle-aged person in worn clothing and a hat, accompanied by a group of person and person, their horns and ears visible as they graze on the sandy shore.
+trg_cap: An elephant, accompanied by a group of elephant and elephant, its horns and ears visible as they graze on the sandy shore.
+instruction: Replace the person with a elephant.
+taskid: 12575

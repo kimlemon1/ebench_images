@@ -1,0 +1,5 @@
+org_img_id: 2324357
+org_cap: a person in his mid-twenties with a toned physique and a strong physique is shown in mid-air, his arms and legs splayed out in a dynamic pose as he throws a frisbee with incredible force and precision.
+trg_cap: A person in his mid-twenties with a toned physique and a strong physique is shown in mid-air, his arms and legs splayed out in a dynamic pose as he throws a frisbee with incredible force and precision, while another person is behind the frisbee.
+instruction: Add a person behind the frisbee.
+taskid: 116869
