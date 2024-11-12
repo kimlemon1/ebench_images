@@ -1,5 +1,0 @@
-org_img_id: 2392473
-org_cap: Snowboarding person on their snowboard.
-trg_cap: Snowboarding person on their snowboard at the beach.
-instruction: Change the background to beach.
-taskid: 102119

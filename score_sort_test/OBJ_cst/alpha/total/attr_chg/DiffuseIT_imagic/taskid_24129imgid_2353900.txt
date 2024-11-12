@@ -1,0 +1,5 @@
+org_img_id: 2353900
+org_cap: a black kite soaring through the sky against a blue background with fluffy white clouds and a suburban landscape in the distance.
+trg_cap: a purple kite soaring through the sky against a blue background with fluffy white clouds and a suburban landscape in the distance.
+instruction: Change the color of the kite from black to purple.
+taskid: 24129

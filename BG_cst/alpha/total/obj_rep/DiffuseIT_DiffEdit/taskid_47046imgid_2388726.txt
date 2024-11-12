@@ -1,5 +1,0 @@
-org_img_id: 2388726
-org_cap: a brown dog walking across the sandy dunes of a desert landscape.
-trg_cap: An orange.
-instruction: Replace the dog with a orange.
-taskid: 47046

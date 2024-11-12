@@ -1,5 +1,0 @@
-org_img_id: 2340063
-org_cap: A striped zebra stands in a sandy enclosure, its black and white stripes in the sunlight, its ears and its tail.
-trg_cap: A grey scale photo shows a striped zebra standing in a sandy enclosure, its black and white stripes illuminated by the sunlight, with its ears and tail visible.
-instruction: Change the style if the image to grey scale.
-taskid: 14055

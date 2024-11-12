@@ -1,5 +1,0 @@
-org_img_id: 2356430
-org_cap: Person, wearing a helmet and a blue shirt, is seen on his car on the winding road.
-trg_cap: Sports ball is seen on its car on the winding road.
-instruction: Replace the person with a sports ball.
-taskid: 31776

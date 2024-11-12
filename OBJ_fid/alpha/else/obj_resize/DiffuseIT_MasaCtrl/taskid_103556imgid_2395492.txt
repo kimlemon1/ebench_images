@@ -1,5 +1,0 @@
-org_img_id: 2395492
-org_cap: A slice of sliced pizza sits on a white plate, accompanied by a glass of cola and a napkin.
-trg_cap: A slice of large sliced pizza sits on a white plate, accompanied by a glass of cola and a napkin.
-instruction: Make the pizza larger.
-taskid: 103556

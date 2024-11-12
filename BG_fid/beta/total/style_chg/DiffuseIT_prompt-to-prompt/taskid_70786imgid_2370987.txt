@@ -1,5 +1,0 @@
-org_img_id: 2370987
-org_cap: a plate of cake sits in front of me, topped with a swirl of yellow frosting and sprinkled with crunchy cookie crumbs, surrounded by a halo of warm light.
-trg_cap: A watercolor painting style art depicts a plate of cake sitting in front of me, topped with a swirl of yellow frosting and sprinkled with crunchy cookie crumbs, surrounded by a halo of warm light.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 70786

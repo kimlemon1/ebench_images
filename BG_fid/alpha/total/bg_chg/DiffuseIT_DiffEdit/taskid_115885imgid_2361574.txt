@@ -1,5 +1,0 @@
-org_img_id: 2361574
-org_cap: A person with a prosthetic leg and wearing a red jacket and snow pants, is seen through a winter forest, with snow-covered trees and a blanket of fresh snow on the ground.
-trg_cap: A person with a prosthetic leg and wearing a red jacket and snow pants, is seen through a winter forest, with snow-covered trees and a blanket of fresh snow on the ground, as if viewed through the glass of an aquarium.
-instruction: Change the background to aquarium.
-taskid: 115885

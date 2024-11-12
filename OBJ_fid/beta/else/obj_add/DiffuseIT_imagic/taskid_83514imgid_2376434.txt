@@ -1,5 +1,0 @@
-org_img_id: 2376434
-org_cap: the clock face is a square with rounded edges, featuring bold black numerals and a bright blue hour hand.
-trg_cap: The clock face is a square with rounded edges, featuring bold black numerals and a bright blue hour hand, with a truck located on the right side of the clock.
-instruction: Add a truck on the right side of the clock.
-taskid: 83514

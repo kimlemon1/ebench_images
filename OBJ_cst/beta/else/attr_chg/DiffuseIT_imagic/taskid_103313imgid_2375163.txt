@@ -1,5 +1,0 @@
-org_img_id: 2375163
-org_cap: A brown cat sits on the windowsill, its piercing green eyes on the autumnal trees outside, its fur in the fading light of day.
-trg_cap: A red cat sits on the windowsill, its piercing green eyes on the autumnal trees outside, its fur in the fading light of day.
-instruction: Change the color of the cat from brown to red.
-taskid: 103313

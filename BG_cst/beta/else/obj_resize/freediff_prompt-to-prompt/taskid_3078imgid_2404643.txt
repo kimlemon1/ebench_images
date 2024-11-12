@@ -1,5 +1,0 @@
-org_img_id: 2404643
-org_cap: A green necktie sits neatly knotted around a white dress shirt, against a backdrop of worn stone stairs and a cityscape.
-trg_cap: A large green necktie sits neatly knotted around a white dress shirt, against a backdrop of worn stone stairs and a cityscape.
-instruction: Make the tie larger.
-taskid: 3078

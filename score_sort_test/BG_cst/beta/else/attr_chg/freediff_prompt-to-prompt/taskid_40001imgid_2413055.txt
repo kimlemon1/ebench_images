@@ -1,0 +1,5 @@
+org_img_id: 2413055
+org_cap: The gray tv sits atop a black wooden console table with a screen displaying a tv show on, accompanied by a small speaker and a remote control.
+trg_cap: The black tv sits atop a black wooden console table with a screen displaying a tv show on, accompanied by a small speaker and a remote control.
+instruction: Change the color of the tv from gray to black.
+taskid: 40001

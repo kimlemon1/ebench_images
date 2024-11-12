@@ -1,0 +1,5 @@
+org_img_id: 2324849
+org_cap: blue airplane stands on a grassy field surrounded by a sea of purple flowers.
+trg_cap: tan airplane stands on a grassy field surrounded by a sea of purple flowers.
+instruction: Change the color of the airplane from blue to tan.
+taskid: 75848

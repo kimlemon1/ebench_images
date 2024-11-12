@@ -1,5 +1,0 @@
-org_img_id: 2380874
-org_cap: Driving person leans into a turn, motorcycle's tires screeching in protest as he navigates the track.
-trg_cap: Driving person leans into a turn, motorcycle's tires screeching in protest as he navigates the track in the stadium.
-instruction: Change the background to stadium.
-taskid: 6087

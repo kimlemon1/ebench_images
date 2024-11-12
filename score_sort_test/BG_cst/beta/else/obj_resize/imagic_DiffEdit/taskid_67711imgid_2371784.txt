@@ -1,0 +1,5 @@
+org_img_id: 2371784
+org_cap: the bus is a white, air-conditioned bus with a silver stripe running along its sides, featuring a rounded front and rear, with a flat roof and a rear door that swings open to allow passengers to board.
+trg_cap: The bus is a small, white, air-conditioned bus with a silver stripe running along its sides, featuring a rounded front and rear, with a flat roof and a rear door that swings open to allow passengers to board.
+instruction: Make the bus smaller.
+taskid: 67711

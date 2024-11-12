@@ -1,5 +1,0 @@
-org_img_id: 2417728
-org_cap: The scene shows a person lying on a bed, with a gray plastic cell phone in their hand and a pillow under their head.
-trg_cap: The scene shows a person lying on a bed, with a large gray plastic cell phone in their hand and a pillow under their head.
-instruction: Make the cell phone larger.
-taskid: 18131

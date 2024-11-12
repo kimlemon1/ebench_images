@@ -1,5 +1,0 @@
-org_img_id: 2359674
-org_cap: a black bear on a branch of a pine tree, bear fur matted and dirty, bear eyes half-closed in a relaxed pose.
-trg_cap: In an art gallery, a black bear on a branch of a pine tree, bear fur matted and dirty, bear eyes half-closed in a relaxed pose, is captured in a striking painting.
-instruction: Change the background to art gallery.
-taskid: 118171

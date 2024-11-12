@@ -1,5 +1,0 @@
-org_img_id: 2365534
-org_cap: "Person a horse out of a wooden barn with a metal roof, the horse wearing a halter and the barn surrounded by a wooden fence."
-trg_cap: Person a horse out of a wooden barn with a metal roof, the horse wearing a halter and the barn surrounded by a wooden fence, with a motorcycle under the person.
-instruction: Add a motorcycle under the person.
-taskid: 72915

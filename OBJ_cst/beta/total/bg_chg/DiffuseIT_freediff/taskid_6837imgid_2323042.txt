@@ -1,5 +1,0 @@
-org_img_id: 2323042
-org_cap: a surfing person, his board across the water.
-trg_cap: A surfing person, his board across the water, who spends his off-season training in the gym.
-instruction: Change the background to gym.
-taskid: 6837

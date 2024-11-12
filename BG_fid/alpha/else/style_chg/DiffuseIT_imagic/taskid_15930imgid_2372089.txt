@@ -1,5 +1,0 @@
-org_img_id: 2372089
-org_cap: The white bowl contains a medley of fruit, including juicy oranges and crisp grapes, served alongside a flaky, buttery croissant.
-trg_cap: A grey scale photo features a white bowl containing a medley of fruit, including juicy oranges and crisp grapes, served alongside a flaky, buttery croissant.
-instruction: Change the style if the image to grey scale.
-taskid: 15930

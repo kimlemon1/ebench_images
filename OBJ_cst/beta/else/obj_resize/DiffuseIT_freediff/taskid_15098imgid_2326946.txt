@@ -1,5 +1,0 @@
-org_img_id: 2326946
-org_cap: person at the kitchen counter, wearing a green apron and holding a sponge and soap dispenser, surrounded by the warm glow of the kitchen lighting.
-trg_cap: large person at the kitchen counter, wearing a green apron and holding a sponge and soap dispenser, surrounded by the warm glow of the kitchen lighting.
-instruction: Make the person larger.
-taskid: 15098

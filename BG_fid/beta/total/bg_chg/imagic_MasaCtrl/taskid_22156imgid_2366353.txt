@@ -1,5 +1,0 @@
-org_img_id: 2366353
-org_cap: a person in a casual outfit kicks a ball to a playful dog, who, as a few passersby watch with smiles.
-trg_cap: A person in a casual outfit kicks a ball to a playful dog, who, as a few passersby watch with smiles, in the midst of a vast desert landscape.
-instruction: Change the background to desert.
-taskid: 22156

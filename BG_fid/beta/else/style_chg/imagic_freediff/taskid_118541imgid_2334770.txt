@@ -1,5 +1,0 @@
-org_img_id: 2334770
-org_cap: the stop sign is a gray octagon with white lettering and a red border.
-trg_cap: An oil painting style art features a stop sign that is a gray octagon with white lettering and a red border.
-instruction: Change the style if the image to oil painting style.
-taskid: 118541

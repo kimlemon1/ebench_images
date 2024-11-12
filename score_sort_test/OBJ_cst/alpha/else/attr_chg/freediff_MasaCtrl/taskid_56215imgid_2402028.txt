@@ -1,0 +1,5 @@
+org_img_id: 2402028
+org_cap: The broken wood baseball bat swings in a smooth arc, its surface worn and weathered from countless games and practices.
+trg_cap: The unbroken wood baseball bat swings in a smooth arc, its surface worn and weathered from countless games and practices.
+instruction: Change the state of the baseball bat from broken to unbroken.
+taskid: 56215

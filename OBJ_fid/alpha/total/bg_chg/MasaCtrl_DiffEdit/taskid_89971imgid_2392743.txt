@@ -1,5 +1,0 @@
-org_img_id: 2392743
-org_cap: a black cell phone lies limp in a person's hand.
-trg_cap: A black cell phone lies limp in a person's hand, as colorful fish swim gracefully in the aquarium nearby.
-instruction: Change the background to aquarium.
-taskid: 89971

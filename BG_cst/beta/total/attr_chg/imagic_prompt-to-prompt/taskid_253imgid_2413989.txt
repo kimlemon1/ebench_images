@@ -1,5 +1,0 @@
-org_img_id: 2413989
-org_cap: A yellow bus travels down the high street, its headlights illuminating the historic buildings and quaint shops as it approaches the medieval church tower.
-trg_cap: A pink bus travels down the high street, its headlights illuminating the historic buildings and quaint shops as it approaches the medieval church tower.
-instruction: Change the color of the bus from yellow to pink.
-taskid: 253

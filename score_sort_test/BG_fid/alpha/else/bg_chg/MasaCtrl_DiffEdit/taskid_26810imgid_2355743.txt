@@ -1,0 +1,5 @@
+org_img_id: 2355743
+org_cap: A standing person stands alone on a grassy field, holding a kite with a red and white striped tail.
+trg_cap: A standing person stands alone on a desert field, holding a kite with a red and white striped tail.
+instruction: Change the background to desert.
+taskid: 26810

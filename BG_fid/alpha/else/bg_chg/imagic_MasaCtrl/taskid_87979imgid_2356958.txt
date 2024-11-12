@@ -1,5 +1,0 @@
-org_img_id: 2356958
-org_cap: A white truck features a giant sandwich with the brand name prominently displayed.
-trg_cap: In a tropical jungle, a white truck features a giant sandwich with the brand name prominently displayed.
-instruction: Change the background to tropical jungle.
-taskid: 87979

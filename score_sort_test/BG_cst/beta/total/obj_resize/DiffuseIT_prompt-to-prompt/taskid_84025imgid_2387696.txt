@@ -1,0 +1,5 @@
+org_img_id: 2387696
+org_cap: "a playing bear with a thick coat and a snout that is slightly curved upwards, with a smaller playing bear that is slightly smaller and has a slightly more pointed snout."
+trg_cap: "a large playing bear with a thick coat and a snout that is slightly curved upwards, with a smaller playing bear that is slightly smaller and has a slightly more pointed snout."
+instruction: Make the bear larger.
+taskid: 84025

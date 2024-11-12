@@ -1,5 +1,0 @@
-org_img_id: 2358922
-org_cap: The laptop sits on a wooden desk, its keyboard gleaming in the soft light on.
-trg_cap: The laptop sits unlit a wooden desk, its keyboard gleaming in the soft light unlit.
-instruction: Change the state of the laptop from on to unlit.
-taskid: 35420

@@ -1,0 +1,5 @@
+org_img_id: 2355924
+org_cap: The bus is a red bus with a distinctive square front and rear lights, a curved roofline, and a distinctive rounded bonnet.
+trg_cap: The bus is a small red bus with a distinctive square front and rear lights, a curved roofline, and a distinctive rounded bonnet.
+instruction: Make the bus smaller.
+taskid: 51689

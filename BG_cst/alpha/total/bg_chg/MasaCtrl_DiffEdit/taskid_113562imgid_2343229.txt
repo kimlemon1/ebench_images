@@ -1,5 +1,0 @@
-org_img_id: 2343229
-org_cap: The toilet is a vintage-style porcelain fixture with a black and white geometric tile surround, featuring a chrome toilet handle and a small, rectangular sink with a single faucet.
-trg_cap: The toilet, reminiscent of the facilities found in historic zoo buildings, is a vintage-style porcelain fixture with a black and white geometric tile surround, featuring a chrome toilet handle and a small, rectangular sink with a single faucet.
-instruction: Change the background to zoo.
-taskid: 113562

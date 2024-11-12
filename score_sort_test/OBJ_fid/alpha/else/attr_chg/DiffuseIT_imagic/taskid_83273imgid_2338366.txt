@@ -1,0 +1,5 @@
+org_img_id: 2338366
+org_cap: a gray train chugs along the gray train, its wheels clicking and whistling as it moves.
+trg_cap: a purple train chugs along the purple train, its wheels clicking and whistling as it moves.
+instruction: Change the color of the train from gray to purple.
+taskid: 83273

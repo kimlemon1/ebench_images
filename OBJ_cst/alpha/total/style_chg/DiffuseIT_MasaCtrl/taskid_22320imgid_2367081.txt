@@ -1,5 +1,0 @@
-org_img_id: 2367081
-org_cap: person in a red jacket and black hat is skiing down a snowy mountain, her skis over the powder as she the turns.
-trg_cap: A cartoon-style art depicts a person in a red jacket and black hat skiing down a snowy mountain, her skis gliding over the powder as she turns.
-instruction: Change the style if the image to cartoon style.
-taskid: 22320

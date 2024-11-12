@@ -1,0 +1,5 @@
+org_img_id: 2341691
+org_cap: A wet person down the rain-soaked street, their silhouette illuminated only by the faint glow of a black umbrella.
+trg_cap: A dry person down the rain-soaked street, their silhouette illuminated only by the faint glow of a black umbrella.
+instruction: Change the state of the person from wet to dry.
+taskid: 61014

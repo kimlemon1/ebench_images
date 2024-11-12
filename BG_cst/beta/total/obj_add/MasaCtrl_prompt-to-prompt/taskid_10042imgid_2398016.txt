@@ -1,5 +1,0 @@
-org_img_id: 2398016
-org_cap: The medieval clock tower stands tall, its stone fade adorned with intricate carvings and a brown face at its peak, covered in a blanket of fresh snow.
-trg_cap: The medieval clock tower stands tall, its stone fade adorned with intricate carvings and a brown face at its peak, covered in a blanket of fresh snow, with a bottle situated on the right side of the clock.
-instruction: Add a bottle on the right side of the clock.
-taskid: 10042

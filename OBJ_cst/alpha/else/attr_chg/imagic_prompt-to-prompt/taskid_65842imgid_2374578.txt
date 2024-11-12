@@ -1,5 +1,0 @@
-org_img_id: 2374578
-org_cap: The scene features a brown chocolate cake with a lit candle in the center, surrounded by glasses and a plate on a wooden coffee table.
-trg_cap: The scene features a purple chocolate cake with a lit candle in the center, surrounded by glasses and a plate on a wooden coffee table.
-instruction: Change the color of the cake from brown to purple.
-taskid: 65842

@@ -1,5 +1,0 @@
-org_img_id: 2386069_1
-org_cap: a young person with curly brown hair and a bright smile takes a big bite of a juicy sandwich, the crispy sandwich and savory sandwich a perfect match for her eager taste buds.
-trg_cap: A young person with curly brown hair and a bright smile takes a big bite of a juicy sandwich, the crispy sandwich and savory sandwich a perfect match for her eager taste buds, with a small bird perched on top of the sandwich.
-instruction: Add a bird on the sandwich.
-taskid: 77571

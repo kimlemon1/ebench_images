@@ -1,5 +1,0 @@
-org_img_id: 2412329
-org_cap: The motorcycle is a green motorcycle with a rider wearing a bright green and yellow racing suit, his helmet and gloves a matching vibrant green, as he leans into a turn with his knees bent and his weight shifted forward.
-trg_cap: The motorcycle is a small green motorcycle with a rider wearing a bright green and yellow racing suit, his helmet and gloves a matching vibrant green, as he leans into a turn with his knees bent and his weight shifted forward.
-instruction: Make the motorcycle smaller.
-taskid: 55165

@@ -1,5 +1,0 @@
-org_img_id: 2346187
-org_cap: a young person wearing a white t-shirt with a design on it and gray shorts, carrying a black backpack and holding a small object in his hand, is standing on a crosswalk, looking down at the ground.
-trg_cap: A young person wearing a white t-shirt with a design on it and gray shorts, carrying a black backpack with a chair next to it and holding a small object in his hand, is standing on a crosswalk, looking down at the ground.
-instruction: Add a chair next to the backpack.
-taskid: 31272

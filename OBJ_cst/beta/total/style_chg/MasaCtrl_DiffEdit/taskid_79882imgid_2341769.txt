@@ -1,5 +1,0 @@
-org_img_id: 2341769
-org_cap: The clock on the station building is a black clock.
-trg_cap: An ancient Egyptian-style artwork features a black clock on the station building.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 79882

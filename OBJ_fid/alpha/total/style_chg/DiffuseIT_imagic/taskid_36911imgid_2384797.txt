@@ -1,5 +1,0 @@
-org_img_id: 2384797
-org_cap: a skating person in a helmet and protective gear on a skateboard, his knees and his feet.
-trg_cap: The pop art style artwork features a person in a helmet and protective gear skating on a skateboard, highlighting his knees and feet.
-instruction: Change the style if the image to pop art style.
-taskid: 36911

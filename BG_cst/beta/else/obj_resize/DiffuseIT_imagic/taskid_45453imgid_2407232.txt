@@ -1,5 +1,0 @@
-org_img_id: 2407232
-org_cap: The white microwave sits on a countertop in a kitchen, its exterior gleaming in the light, with a display and a door with a handle.
-trg_cap: The large white microwave sits on a countertop in a kitchen, its exterior gleaming in the light, with a display and a door with a handle.
-instruction: Make the microwave larger.
-taskid: 45453

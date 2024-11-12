@@ -1,5 +1,0 @@
-org_img_id: 2365623
-org_cap: a large banana tree stands tall, its thick trunk and sturdy branches supporting a cluster of green, unripe banana, each one and nestled among the lush green leaves.
-trg_cap: a large banana tree stands tall, its thick trunk and sturdy branches supporting a cluster of green, unripe large banana, each one and nestled among the lush green leaves.
-instruction: Make the banana larger.
-taskid: 61956

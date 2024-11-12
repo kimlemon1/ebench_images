@@ -1,5 +1,0 @@
-org_img_id: 2335876
-org_cap: A blue airplane with a distinctive nose and wing design lands on the runway, its tires screeching as it comes to a stop.
-trg_cap: The cartoon-style art features a blue airplane with a distinctive nose and wing design landing on the runway, its tires screeching as it comes to a stop.
-instruction: Change the style if the image to cartoon style.
-taskid: 41353

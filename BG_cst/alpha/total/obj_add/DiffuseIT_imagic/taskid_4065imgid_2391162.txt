@@ -1,5 +1,0 @@
-org_img_id: 2391162
-org_cap: A white clock hangs on a white brick wall, surrounded by a window frame with yellow blinds.
-trg_cap: A white clock hangs on a white brick wall, surrounded by a window frame with yellow blinds, with a cat sitting under the clock.
-instruction: Add a cat under the clock.
-taskid: 4065

@@ -1,5 +1,0 @@
-org_img_id: 2399931_1
-org_cap: a giraffe stands tall, its long neck and legs stretching towards the sky, its standing zebra, as a standing zebra nearby.
-trg_cap: A Van Gogh style art features a tall giraffe with its long neck and legs stretching towards the sky, standing alongside a nearby zebra.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 37275

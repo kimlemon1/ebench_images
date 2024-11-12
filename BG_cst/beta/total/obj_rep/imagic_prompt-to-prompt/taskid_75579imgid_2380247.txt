@@ -1,5 +1,0 @@
-org_img_id: 2380247
-org_cap: a silver airplane soars through the sky, its wings stretched wide and its engines roaring loudly as it leaves a trail of white clouds behind it.
-trg_cap: A cow soars through the sky.
-instruction: Replace the airplane with a cow.
-taskid: 75579

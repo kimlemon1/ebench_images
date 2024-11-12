@@ -1,5 +1,0 @@
-org_img_id: 2355912
-org_cap: An orange bus, driven by a person, travels down a tree-lined street with a mix of old and new buildings, including a historic clock tower and modern shops and restaurants.
-trg_cap: An orange bus, driven by a person, with a banana on board, travels down a tree-lined street with a mix of old and new buildings, including a historic clock tower and modern shops and restaurants.
-instruction: Add a banana on the bus.
-taskid: 120466

@@ -1,5 +1,0 @@
-org_img_id: 2415262_0
-org_cap: a person holds a glazed donut with a big smile on their face.
-trg_cap: A person holds a glazed donut with a big smile on their face, and a dog is on the left side of the donut.
-instruction: Add a dog on the left side of the donut.
-taskid: 46839

@@ -1,5 +1,0 @@
-org_img_id: 2378753
-org_cap: The scene features a modern office workstation with a curved wooden desk, a laptop with a closed lid, a desktop computer with multiple monitors, a phone, and various office supplies and papers scattered across the desk.
-trg_cap: An oil painting style art depicts a modern office workstation with a curved wooden desk, featuring a laptop with a closed lid, a desktop computer with multiple monitors, a phone, and various office supplies and papers scattered across the desk.
-instruction: Change the style if the image to oil painting style.
-taskid: 95003

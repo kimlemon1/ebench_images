@@ -1,5 +1,0 @@
-org_img_id: 2401204
-org_cap: a gray cat with a fur and a expression on the hood of a grey car, its paws and its tail in the morning rain.
-trg_cap: A gray cat with a fur and a expression on the hood of a grey car, its paws and its tail in the morning rain, parked outside a bustling concert hall.
-instruction: Change the background to concert hall.
-taskid: 52217

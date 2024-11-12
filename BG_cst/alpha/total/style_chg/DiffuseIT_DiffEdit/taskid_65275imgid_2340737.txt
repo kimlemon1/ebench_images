@@ -1,5 +1,0 @@
-org_img_id: 2340737
-org_cap: a standing person across a green grassy hill, his arms and legs as he after a flying disc.
-trg_cap: A grayscale photo depicts a person standing across a green grassy hill, with his arms and legs extended as he reaches for a flying disc.
-instruction: Change the style if the image to grey scale.
-taskid: 65275

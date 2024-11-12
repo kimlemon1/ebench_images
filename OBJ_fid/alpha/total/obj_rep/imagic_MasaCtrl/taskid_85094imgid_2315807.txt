@@ -1,5 +1,0 @@
-org_img_id: 2315807
-org_cap: a train carrying multiple train cars and a train, with the train's bright orange and yellow stripes visible as it chugs along the train tracks.
-trg_cap: "a tv, with its bright orange and yellow stripes visible as it chugs along."
-instruction: Replace the train with a tv.
-taskid: 85094

@@ -1,5 +1,0 @@
-org_img_id: 2398682
-org_cap: an gray airplane, its engines roaring as it soars through the sky, leaving a trail of white smoke behind.
-trg_cap: A gray airplane, its engines roaring as it soars through the sky above the sandy beach, leaving a trail of white smoke behind.
-instruction: Change the background to beach.
-taskid: 69447

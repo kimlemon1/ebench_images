@@ -1,5 +1,0 @@
-org_img_id: 2332271
-org_cap: a black car drives by a green fire hydrant on a street lined with trees in autumn colors.
-trg_cap: a black car drives by a small green fire hydrant on a street lined with trees in autumn colors.
-instruction: Make the fire hydrant smaller.
-taskid: 108025

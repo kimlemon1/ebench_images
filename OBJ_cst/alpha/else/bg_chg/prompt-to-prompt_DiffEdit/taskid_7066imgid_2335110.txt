@@ -1,5 +1,0 @@
-org_img_id: 2335110
-org_cap: a person pours a rich, crimson liquid from a bottle into a glass, the amber bottle flowing smoothly as the person's hand moves in a gentle arc.
-trg_cap: In a bustling stadium, a person pours a rich, crimson liquid from a bottle into a glass, the amber bottle flowing smoothly as the person's hand moves in a gentle arc.
-instruction: Change the background to stadium.
-taskid: 7066

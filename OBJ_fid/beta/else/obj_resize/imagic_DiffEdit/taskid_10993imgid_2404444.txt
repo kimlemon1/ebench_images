@@ -1,5 +1,0 @@
-org_img_id: 2404444
-org_cap: Person stands on the sandy beach, wearing a gray t-shirt and holding a shiny red bicycle with white tires, its chrome handlebars gleaming in the sunlight.
-trg_cap: A small person stands on the sandy beach, wearing a gray t-shirt and holding a shiny red bicycle with white tires, its chrome handlebars gleaming in the sunlight.
-instruction: Make the person smaller.
-taskid: 10993

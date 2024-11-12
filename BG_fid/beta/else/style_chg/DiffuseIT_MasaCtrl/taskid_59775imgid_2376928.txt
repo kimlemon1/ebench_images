@@ -1,5 +1,0 @@
-org_img_id: 2376928
-org_cap: a young person in a worn-out shirt and shorts, with a determined look on his face, is with a brown cow, as the person with a makeshift halter made of rope and wood.
-trg_cap: A grey scale photo depicts a young person in a worn-out shirt and shorts, with a determined look on his face, standing with a brown cow, using a makeshift halter made of rope and wood.
-instruction: Change the style if the image to grey scale.
-taskid: 59775

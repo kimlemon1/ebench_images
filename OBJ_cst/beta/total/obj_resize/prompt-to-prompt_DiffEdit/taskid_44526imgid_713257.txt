@@ -1,5 +1,0 @@
-org_img_id: 713257
-org_cap: a slice of cake, adorned with candles and a sprinkle of green sprinkles, sits on a table, with a person holding it in the background.
-trg_cap: a large slice of cake, adorned with candles and a sprinkle of green sprinkles, sits on a table, with a person holding it in the background.
-instruction: Make the cake larger.
-taskid: 44526

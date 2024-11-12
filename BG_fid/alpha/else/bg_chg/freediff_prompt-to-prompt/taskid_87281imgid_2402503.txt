@@ -1,5 +1,0 @@
-org_img_id: 2402503
-org_cap: a blue truck with wooden planks on its deck and a worn-out wooden ramp at the back, with a few rusty metal bars and a faded logo on the side.
-trg_cap: A blue truck with wooden planks on its deck and a worn-out wooden ramp at the back, with a few rusty metal bars and a faded gym logo on the side.
-instruction: Change the background to gym.
-taskid: 87281

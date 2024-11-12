@@ -1,5 +1,0 @@
-org_img_id: 2376095
-org_cap: The black train chugs along the tracks, puffing out white clouds of smoke as it navigates the rural landscape.
-trg_cap: A graffiti art piece depicts a black train chugging along the tracks, puffing out white clouds of smoke as it navigates the rural landscape.
-instruction: Change the style if the image to graffiti art.
-taskid: 98561

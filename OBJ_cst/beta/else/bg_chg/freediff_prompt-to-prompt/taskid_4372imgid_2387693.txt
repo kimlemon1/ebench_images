@@ -1,5 +1,0 @@
-org_img_id: 2387693
-org_cap: a purple bus.
-trg_cap: a purple bus on a grass field.
-instruction: Change the background to grass field.
-taskid: 4372

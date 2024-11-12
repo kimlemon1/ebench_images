@@ -1,5 +1,0 @@
-org_img_id: 2321126
-org_cap: a young person across a grassy lawn, a colorful kite with a kite behind him.
-trg_cap: a young person across a sandy desert, a colorful kite with a kite behind him.
-instruction: Change the background to desert.
-taskid: 69552

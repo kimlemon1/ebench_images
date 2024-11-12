@@ -1,5 +1,0 @@
-org_img_id: 2319406_0
-org_cap: an open bus and a tree standing tall beside it.
-trg_cap: an open large bus and a tree standing tall beside it.
-instruction: Make the bus larger.
-taskid: 51428

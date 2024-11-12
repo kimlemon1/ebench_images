@@ -1,5 +1,0 @@
-org_img_id: 2385998
-org_cap: A person holds a black cell phone in front of a colorful concert stage, with a crowd of people dancing and cheering in the background.
-trg_cap: A person holds a black cell phone in front of a colorful concert stage, with a banana on the left side of the cell phone, and a crowd of people dancing and cheering in the background.
-instruction: Add a banana on the left side of the cell phone.
-taskid: 68805

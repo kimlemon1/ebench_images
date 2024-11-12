@@ -1,5 +1,0 @@
-org_img_id: 2315400
-org_cap: an array of green broccoli florets, surrounded by juicy red tomatoes, crunchy green beans, and sweet corn, all arranged artfully on a rustic wooden table.
-trg_cap: an array of green broccoli florets, surrounded by juicy red tomatoes, crunchy green beans, and sweet corn, all arranged artfully on a rustic wooden table set against the backdrop of a bustling stadium.
-instruction: Change the background to stadium.
-taskid: 94827

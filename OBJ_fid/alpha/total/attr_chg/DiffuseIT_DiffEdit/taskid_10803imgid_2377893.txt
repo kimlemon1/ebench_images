@@ -1,5 +1,0 @@
-org_img_id: 2377893
-org_cap: The uncooked pizza is topped with a medley of ingredients, including green peppers, tomatoes, and mushrooms, all arranged artfully on a gray stone surface.
-trg_cap: The toasted pizza is topped with a medley of ingredients, including green peppers, tomatoes, and mushrooms, all arranged artfully on a gray stone surface.
-instruction: Change the state of the pizza from uncooked to toasted.
-taskid: 10803

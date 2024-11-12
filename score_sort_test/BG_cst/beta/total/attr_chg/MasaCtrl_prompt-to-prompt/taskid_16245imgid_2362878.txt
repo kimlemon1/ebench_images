@@ -1,0 +1,5 @@
+org_img_id: 2362878
+org_cap: A black laptop sits open on a desk, surrounded by papers and notes.
+trg_cap: A black laptop sits open off a desk, surrounded by papers and notes.
+instruction: Change the state of the laptop from on to off.
+taskid: 16245

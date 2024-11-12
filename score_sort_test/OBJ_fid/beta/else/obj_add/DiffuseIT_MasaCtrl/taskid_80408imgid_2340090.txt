@@ -1,0 +1,5 @@
+org_img_id: 2340090
+org_cap: person proudly holds up an orange frisbee on the beach.
+trg_cap: person proudly holds up an orange frisbee on the beach, with a dog underneath.
+instruction: Add a dog under the frisbee.
+taskid: 80408

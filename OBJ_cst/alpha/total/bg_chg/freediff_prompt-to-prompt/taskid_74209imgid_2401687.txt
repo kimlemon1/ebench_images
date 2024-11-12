@@ -1,5 +1,0 @@
-org_img_id: 2401687
-org_cap: a slice of sliced pizza, served on a white paper plate.
-trg_cap: A slice of sliced pizza, served on a white paper plate, was enjoyed by travelers at the bustling train station.
-instruction: Change the background to train station.
-taskid: 74209

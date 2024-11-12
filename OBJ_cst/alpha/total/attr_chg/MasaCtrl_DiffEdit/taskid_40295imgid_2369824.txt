@@ -1,5 +1,0 @@
-org_img_id: 2369824
-org_cap: The ceramic, clean, closed toilet is a bowl with a seat and a handle on the side.
-trg_cap: The ivory, clean, closed toilet is a bowl with a seat and a handle on the side.
-instruction: Change the material of the toilet from ceramic to ivory.
-taskid: 40295

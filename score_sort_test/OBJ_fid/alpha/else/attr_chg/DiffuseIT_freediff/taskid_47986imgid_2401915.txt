@@ -1,0 +1,5 @@
+org_img_id: 2401915
+org_cap: a striped, white, walking zebra, surrounded by green leaves and branches.
+trg_cap: a striped, gray, walking zebra, surrounded by green leaves and branches.
+instruction: Change the color of the zebra from white to gray.
+taskid: 47986

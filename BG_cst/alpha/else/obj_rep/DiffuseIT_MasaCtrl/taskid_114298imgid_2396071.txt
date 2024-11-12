@@ -1,5 +1,0 @@
-org_img_id: 2396071
-org_cap: A black traffic light stands on the seaside promenade, its arrow pointing upwards, surrounded by a cityscape with colorful buildings and a bustling street scene.
-trg_cap: A black book stands on the seaside promenade, surrounded by a cityscape with colorful buildings and bustling street scenes.
-instruction: Replace the traffic light with a book.
-taskid: 114298

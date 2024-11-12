@@ -1,5 +1,0 @@
-org_img_id: 2377113
-org_cap: a surfer carries a surfboard, with surfboard's wooden surface and fiberglass fins, across the sandy beach.
-trg_cap: a surfer carries a small surfboard, with surfboard's wooden surface and fiberglass fins, across the sandy beach.
-instruction: Make the surfboard smaller.
-taskid: 103495

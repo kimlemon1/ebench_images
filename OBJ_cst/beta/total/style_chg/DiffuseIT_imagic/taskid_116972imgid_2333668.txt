@@ -1,5 +1,0 @@
-org_img_id: 2333668
-org_cap: person, wearing a blue jacket and bright blue hat, with a large backpack strapped to his backpack, and a confident smile on his face.
-trg_cap: A pencil sketch art depicts a person wearing a blue jacket and bright blue hat, with a large backpack strapped to his back and a confident smile on his face.
-instruction: Change the style if the image to pencil sketch.
-taskid: 116972

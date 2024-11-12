@@ -1,5 +1,0 @@
-org_img_id: 2403999
-org_cap: The blue clock stands tall with its face and flags fluttering in the wind.
-trg_cap: The blue clock stands tall with its face and flags fluttering in the wind, with a traffic light located behind it.
-instruction: Add a traffic light behind the clock.
-taskid: 70122

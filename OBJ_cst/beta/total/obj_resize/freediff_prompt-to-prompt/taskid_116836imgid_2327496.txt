@@ -1,5 +1,0 @@
-org_img_id: 2327496
-org_cap: a person stands in front of a tv, holding a controller and wearing a headset, while another person sits on a couch, holding a bowl of popcorn and watching the tv screen.
-trg_cap: a person stands in front of a large tv, holding a controller and wearing a headset, while another person sits on a couch, holding a bowl of popcorn and watching the tv screen.
-instruction: Make the tv larger.
-taskid: 116836

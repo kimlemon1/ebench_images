@@ -1,5 +1,0 @@
-org_img_id: 2385904
-org_cap: a white teddy bear, sitting on a rusty metal railing.
-trg_cap: a gray teddy bear, sitting on a rusty metal railing.
-instruction: Change the color of the teddy bear from white to gray.
-taskid: 31896

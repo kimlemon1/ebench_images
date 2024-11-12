@@ -1,5 +1,0 @@
-org_img_id: 2406418
-org_cap: The clock hangs from the ceiling, its white clock bearing the numbers and a white clock with a patina.
-trg_cap: The clock hangs from the ceiling, its white clock bearing the numbers and a white clock with a patina, reminiscent of the rustic charm found in a countryside farm.
-instruction: Change the background to country side farm.
-taskid: 67743

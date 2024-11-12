@@ -1,5 +1,0 @@
-org_img_id: 2403067
-org_cap: a person stands in front of a black tv with a fireplace behind them, wearing a gray shirt and jeans, and holding a remote control.
-trg_cap: a persunlit stands in frunlitt of a black tv with a fireplace behind them, wearing a gray shirt and jeans, and holding a remote cunlittrol.
-instruction: Change the state of the tv from on to unlit.
-taskid: 42070

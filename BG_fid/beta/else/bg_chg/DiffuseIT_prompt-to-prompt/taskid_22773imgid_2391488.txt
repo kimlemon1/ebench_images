@@ -1,5 +1,0 @@
-org_img_id: 2391488
-org_cap: person walks his brown dog along the street, with the brown dog around a fire hydrant.
-trg_cap: Person walks his brown dog along the street, with the brown dog around a fire hydrant, surrounded by the lush greenery and vibrant flora of a tropical jungle.
-instruction: Change the background to tropical jungle.
-taskid: 22773

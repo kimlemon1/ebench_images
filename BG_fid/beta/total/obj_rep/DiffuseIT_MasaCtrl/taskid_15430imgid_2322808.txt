@@ -1,5 +1,0 @@
-org_img_id: 2322808
-org_cap: a purple bus.
-trg_cap: a oven
-instruction: Replace the bus with a oven.
-taskid: 15430

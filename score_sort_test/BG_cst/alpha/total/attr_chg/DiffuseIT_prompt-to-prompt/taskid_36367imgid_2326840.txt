@@ -1,0 +1,5 @@
+org_img_id: 2326840
+org_cap: The bus is a white bus with a sleek design, featuring a curved front, tinted windows, and a distinctive logo on the side.
+trg_cap: The bus is a brown bus with a sleek design, featuring a curved front, tinted windows, and a distinctive logo on the side.
+instruction: Change the color of the bus from white to brown.
+taskid: 36367

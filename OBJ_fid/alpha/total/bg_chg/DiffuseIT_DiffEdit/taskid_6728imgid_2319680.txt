@@ -1,5 +1,0 @@
-org_img_id: 2319680
-org_cap: The room features a brown chair and a coffee table in front of a black, off tv.
-trg_cap: The room features a brown chair and a coffee table in front of a black, off TV, with a view of a mountain top in the background.
-instruction: Change the background to mountain top.
-taskid: 6728

@@ -1,5 +1,0 @@
-org_img_id: 2316700
-org_cap: a bright yellow train stands on the platform, its rusty wheels and faded paint job a testament to its years of service, with a worn-out door and a slightly crooked chimney.
-trg_cap: A bright yellow bed stands on the platform, with a worn-out door and a slightly crooked chimney.
-instruction: Replace the train with a bed.
-taskid: 100309

@@ -1,5 +1,0 @@
-org_img_id: 2363969
-org_cap: person throws a pitch on the mound.
-trg_cap: A pencil sketch depicts a person throwing a pitch on the mound.
-instruction: Change the style if the image to pencil sketch.
-taskid: 71956

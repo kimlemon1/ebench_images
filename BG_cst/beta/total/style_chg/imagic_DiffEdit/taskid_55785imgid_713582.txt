@@ -1,5 +1,0 @@
-org_img_id: 713582
-org_cap: a person, person, off the concrete bench, his orange skateboard out from under his feet as he through the air, surrounded by vibrant graffiti and urban decay.
-trg_cap: A Van Gogh style artwork depicts a person flying through the air, having launched off a concrete bench with his orange skateboard out from under his feet, surrounded by vibrant graffiti and urban decay.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 55785

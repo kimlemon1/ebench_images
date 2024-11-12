@@ -1,5 +1,0 @@
-org_img_id: 2329513
-org_cap: the worn wooden table features a large, dark brown bowl sitting in the center, surrounded by a worn wooden floor.
-trg_cap: A pop art style artwork features a worn wooden table with a large, dark brown bowl sitting in the center, surrounded by a worn wooden floor.
-instruction: Change the style if the image to pop art style.
-taskid: 82247

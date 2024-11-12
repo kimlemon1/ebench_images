@@ -1,5 +1,0 @@
-org_img_id: 2323404
-org_cap: the bathroom features a modern sink with a curved design and a wooden cabinet above it.
-trg_cap: The bathroom features a modern giraffe and a wooden cabinet above the giraffe.
-instruction: Replace the sink with a giraffe.
-taskid: 64979

@@ -1,5 +1,0 @@
-org_img_id: 2334995
-org_cap: a young person with red hair and freckles is sitting in a window seat, holding a black cell phone and scrolling through it with his fingers.
-trg_cap: a young person with red hair and freckles is sitting in a window seat, holding a black cell phone and scrolling through it with his fingers, with a pizza next to the cell phone.
-instruction: Add a pizza next to the cell phone.
-taskid: 53227

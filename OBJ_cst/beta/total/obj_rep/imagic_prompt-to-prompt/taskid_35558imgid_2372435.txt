@@ -1,5 +1,0 @@
-org_img_id: 2372435
-org_cap: Person stands on the grassy field, wearing a bright orange tank top and short blue shorts, her long blonde hair tied back in a ponytail, her eyes squinting against the sun.
-trg_cap: The bottle stands on the grassy field.
-instruction: Replace the person with a bottle.
-taskid: 35558

@@ -1,5 +1,0 @@
-org_img_id: 2406499
-org_cap: The white toilet is a fixture with a bowl and handles.
-trg_cap: The cream colored toilet is a fixture with a bowl and handles.
-instruction: Change the color of the toilet from white to cream colored.
-taskid: 54311

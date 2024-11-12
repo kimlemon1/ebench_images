@@ -1,5 +1,0 @@
-org_img_id: 2325820
-org_cap: A delicate cup sits on a tablecloth, surrounded by a silver tray, a cup with a gold rim, and a few utensils, with a slice of sandwich and a few lettuce leaves in the center.
-trg_cap: A delicate cup sits on a tablecloth, surrounded by a silver tray, a cup with a gold rim containing an orange, and a few utensils, with a slice of sandwich and a few lettuce leaves in the center.
-instruction: Add a orange in the cup.
-taskid: 36170

@@ -1,5 +1,0 @@
-org_img_id: 2381826
-org_cap: the scene features a sleek, wooden desk with a curved edge, topped with a white keyboard and a small, white computer.
-trg_cap: The scene features a sleek, wooden desk with a curved edge, topped with a small, white sports ball.
-instruction: Replace the keyboard with a sports ball.
-taskid: 98960

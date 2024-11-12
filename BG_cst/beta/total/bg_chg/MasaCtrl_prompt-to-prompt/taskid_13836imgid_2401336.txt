@@ -1,5 +1,0 @@
-org_img_id: 2401336
-org_cap: motorcyclist expertly navigates the turns on his green motorcycle.
-trg_cap: In the gym, the motorcyclist expertly navigates the turns on his green motorcycle.
-instruction: Change the background to gym.
-taskid: 13836

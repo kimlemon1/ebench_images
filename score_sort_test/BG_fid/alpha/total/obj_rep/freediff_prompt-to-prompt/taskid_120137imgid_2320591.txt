@@ -1,0 +1,5 @@
+org_img_id: 2320591
+org_cap: person wears a black t-shirt with the logo of a band or artist on it, and an orange necktie around his neck.
+trg_cap: Truck wears a black t-shirt with the logo of a band or artist on it, and a black necktie.
+instruction: Replace the person with a truck.
+taskid: 120137

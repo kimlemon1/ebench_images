@@ -1,5 +1,0 @@
-org_img_id: 2316928
-org_cap: person rides a wave on his surfboard, his black surfboard glistening with water as he through the surfboard.
-trg_cap: Baseball bat rides a wave on its surfboard, its black surfboard glistening with water as it through the surfboard.
-instruction: Replace the person with a baseball bat.
-taskid: 15650

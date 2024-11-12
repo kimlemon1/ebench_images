@@ -1,5 +1,0 @@
-org_img_id: 2390805
-org_cap: a bright yellow train car sits on the train, its rusty train and faded paint job telling a story of years of use, with scratches and scuffs covering its surface.
-trg_cap: The mosaic art features a bright yellow train car sitting on the tracks, its rusty frame and faded paint job telling a story of years of use, with scratches and scuffs covering its surface.
-instruction: Change the style if the image to mosaic art.
-taskid: 89126

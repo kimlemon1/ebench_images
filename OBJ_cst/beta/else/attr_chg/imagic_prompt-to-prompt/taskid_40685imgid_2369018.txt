@@ -1,5 +1,0 @@
-org_img_id: 2369018
-org_cap: a young person in a red shirt throws a green frisbee into the air, his arm cocked back and his eyes fixed on the green frisbee as it arcs towards the sandy beach.
-trg_cap: a young person in a red shirt throws a black frisbee into the air, his arm cocked back and his eyes fixed on the black frisbee as it arcs towards the sandy beach.
-instruction: Change the color of the frisbee from green to black.
-taskid: 40685

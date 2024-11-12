@@ -1,5 +1,0 @@
-org_img_id: 2406341
-org_cap: The scene is focused on a small, white bathroom with a white toilet and a shower, with a door leading out of the room.
-trg_cap: An oil painting style art depicts a small, white bathroom featuring a white toilet, a shower, and a door leading out of the room.
-instruction: Change the style if the image to oil painting style.
-taskid: 5953

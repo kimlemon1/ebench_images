@@ -1,5 +1,0 @@
-org_img_id: 2349589
-org_cap: a person walks along the beach, holding a colorful kite and wearing a white shirt and shorts.
-trg_cap: a person walks along the beach, holding a dark blue kite and wearing a white shirt and shorts.
-instruction: Change the color of the kite from colorful to dark blue.
-taskid: 26391

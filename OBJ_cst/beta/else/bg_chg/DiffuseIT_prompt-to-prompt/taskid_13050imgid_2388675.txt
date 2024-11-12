@@ -1,5 +1,0 @@
-org_img_id: 2388675
-org_cap: Surfing person is shown in mid-air on his surfboard, his arms and legs splayed out as he rides the waves.
-trg_cap: A surfing person is shown in mid-air on his surfboard, his arms and legs splayed out as he rides the waves, with a picturesque countryside farm visible in the background.
-instruction: Change the background to country side farm.
-taskid: 13050

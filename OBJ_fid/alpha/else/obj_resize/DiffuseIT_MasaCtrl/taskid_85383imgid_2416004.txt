@@ -1,5 +1,0 @@
-org_img_id: 2416004
-org_cap: the bench is a weathered, rusty metal structure with a worn wooden slat seat, situated beneath a withered deciduous tree with sparse, yellowing leaves and a few scrawny branches.
-trg_cap: The bench is a large, weathered, rusty metal structure with a worn wooden slat seat, situated beneath a withered deciduous tree with sparse, yellowing leaves and a few scrawny branches.
-instruction: Make the bench larger.
-taskid: 85383

@@ -1,5 +1,0 @@
-org_img_id: 2404244
-org_cap: The toilet is a dirty white porcelain toilet with a single handle and a seat.
-trg_cap: The toilet is a clean white porcelain toilet with a single handle and a seat.
-instruction: Change the state of the toilet from dirty to clean.
-taskid: 90240

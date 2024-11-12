@@ -1,5 +1,0 @@
-org_img_id: 2354239
-org_cap: A white boat with a yellow oar rests on the sandy beach, its hull weathered and worn from years of exposure to the elements.
-trg_cap: A striped boat with a yellow oar rests on the sandy beach, its hull weathered and worn from years of exposure to the elements.
-instruction: Change the color of the boat from white to striped.
-taskid: 753

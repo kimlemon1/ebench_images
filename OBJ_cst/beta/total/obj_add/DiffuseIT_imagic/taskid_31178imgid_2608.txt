@@ -1,5 +1,0 @@
-org_img_id: 2608
-org_cap: a small trailer park with a mix of old and newer mobile homes, including a worn-out truck parked in front of a weathered trailer with a patchwork of colors and a rusty truck parked nearby.
-trg_cap: a small trailer park with a mix of old and newer mobile homes, including a worn-out truck parked in front of a weathered trailer with a patchwork of colors and a rusty truck parked nearby, with a bottle next to the truck.
-instruction: Add a bottle next to the truck.
-taskid: 31178

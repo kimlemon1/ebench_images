@@ -1,5 +1,0 @@
-org_img_id: 2365462
-org_cap: a person on a black skateboard
-trg_cap: a small person, person, his black skateboard spinning as he lands, his black and blue attire a blur against the bright blue sky.
-instruction: Make the person smaller.
-taskid: 161

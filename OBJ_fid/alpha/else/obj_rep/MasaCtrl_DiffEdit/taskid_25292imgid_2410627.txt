@@ -1,5 +1,0 @@
-org_img_id: 2410627
-org_cap: a green sports ball is being swung by a person wearing a yellow hat and sunglasses, with a tennis racket in hand.
-trg_cap: A knife is being swung by someone wearing a yellow hat and sunglasses, with a tennis racket in hand.
-instruction: Replace the sports ball with a knife.
-taskid: 25292

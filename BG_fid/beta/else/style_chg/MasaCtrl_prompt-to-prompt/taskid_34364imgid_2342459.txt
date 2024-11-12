@@ -1,5 +1,0 @@
-org_img_id: 2342459
-org_cap: A standing, walking, staring giraffe stands alone on a dusty dirt road, its neck and legs as it surveys its surroundings under a bright blue sky with a few puffy white clouds.
-trg_cap: A pencil sketch art depicts a standing, walking, staring giraffe alone on a dusty dirt road, surveying its surroundings under a bright blue sky with a few puffy white clouds.
-instruction: Change the style if the image to pencil sketch.
-taskid: 34364

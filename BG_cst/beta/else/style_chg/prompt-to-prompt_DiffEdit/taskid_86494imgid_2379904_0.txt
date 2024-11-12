@@ -1,5 +1,0 @@
-org_img_id: 2379904_0
-org_cap: the scene features a large, dark gray wall with a sleek, modern design, adorned with a large, flat screen tv mounted horizontally, flanked by two tall, slender windows with white curtains, and a minimalist, low-profile coffee table in front of a plush, white sofa.
-trg_cap: The grayscale photo features a large, dark gray wall with a sleek, modern design, adorned with a horizontally mounted flat-screen TV, flanked by two tall, slender windows with white curtains, and a minimalist, low-profile coffee table in front of a plush, white sofa.
-instruction: Change the style if the image to grey scale.
-taskid: 86494

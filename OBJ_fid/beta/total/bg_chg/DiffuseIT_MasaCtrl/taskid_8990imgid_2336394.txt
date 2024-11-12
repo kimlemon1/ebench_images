@@ -1,5 +1,0 @@
-org_img_id: 2336394
-org_cap: a young person in a black jacket and blue jeans swings a tennis racket, hitting a yellow tennis ball with a forehand stroke against the backdrop of a tennis court fence.
-trg_cap: A young person in a black jacket and blue jeans swings a tennis racket, hitting a yellow tennis ball with a forehand stroke against the backdrop of a lakeside.
-instruction: Change the background to lake side.
-taskid: 8990

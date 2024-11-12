@@ -1,5 +1,0 @@
-org_img_id: 2366230
-org_cap: a large, fluffy dog lies on a worn, faded rug, surrounded by the quiet stillness of a morning room.
-trg_cap: A watercolor painting style art depicts a large, fluffy dog lying on a worn, faded rug, surrounded by the quiet stillness of a morning room.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 54465

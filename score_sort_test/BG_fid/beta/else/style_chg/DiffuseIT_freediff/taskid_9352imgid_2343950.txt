@@ -1,0 +1,5 @@
+org_img_id: 2343950
+org_cap: a solitary person stands against a worn brick wall, a red balloon and dressed in a crisp suit, his eyes in contemplation.
+trg_cap: A Van Gogh style art depicts a solitary person in a crisp suit, standing against a worn brick wall with a red balloon, his eyes in contemplation.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 9352

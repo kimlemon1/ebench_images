@@ -1,5 +1,0 @@
-org_img_id: 2406944
-org_cap: a blue frisbee flies through the air as a white dog to catch it, its paws barely touching the grass as it in mid-air.
-trg_cap: a blue frisbee flies through the air as a red dog to catch it, its paws barely touching the grass as it in mid-air.
-instruction: Change the color of the dog from white to red.
-taskid: 75397

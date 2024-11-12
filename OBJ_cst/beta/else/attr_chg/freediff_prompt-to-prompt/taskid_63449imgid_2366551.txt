@@ -1,5 +1,0 @@
-org_img_id: 2366551
-org_cap: A white bird stands on a gravel driveway, its long legs bent in a relaxed pose, its head and neck feathers glistening in the sunlight.
-trg_cap: A red bird stands on a gravel driveway, its long legs bent in a relaxed pose, its head and neck feathers glistening in the sunlight.
-instruction: Change the color of the bird from white to red.
-taskid: 63449

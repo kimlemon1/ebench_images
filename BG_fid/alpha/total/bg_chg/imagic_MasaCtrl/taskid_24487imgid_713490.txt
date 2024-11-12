@@ -1,5 +1,0 @@
-org_img_id: 713490
-org_cap: a high-speed train, with a sleek white body and red stripes, stands at the train, its wheels and doors gleaming in the morning sunlight.
-trg_cap: A high-speed train, with a sleek white body and red stripes, stands at the train, its wheels and doors gleaming in the morning sunlight, as the sound of waves crashing on the nearby beach fills the air.
-instruction: Change the background to beach.
-taskid: 24487

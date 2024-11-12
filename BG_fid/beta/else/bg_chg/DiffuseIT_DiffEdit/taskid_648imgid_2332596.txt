@@ -1,5 +1,0 @@
-org_img_id: 2332596
-org_cap: a young person in a raincoat and rain boots under a bright blue sky with a colorful umbrella, water splashing down from above.
-trg_cap: a young person in a raincoat and rain boots under a bright blue sky with a colorful umbrella, water splashing down from above, in a pine forest.
-instruction: Change the background to pine forest.
-taskid: 648

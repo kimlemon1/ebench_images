@@ -1,5 +1,0 @@
-org_img_id: 2350363
-org_cap: A white cat and a white cat sit on the windowsill, surrounded by festive decorations and tiny wooden figures.
-trg_cap: A large white cat and a large white cat sit on the windowsill, surrounded by festive decorations and tiny wooden figures.
-instruction: Make the cat larger.
-taskid: 102175

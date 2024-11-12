@@ -1,0 +1,5 @@
+org_img_id: 2363072
+org_cap: The white, open toilet is a space with a single sink and a toilet, adorned with a yellow sign that reads "person" in bold letters.
+trg_cap: The white, down toilet is a space with a single sink and a toilet, adorned with a yellow sign that reads "person" in bold letters.
+instruction: Change the state of the toilet from open to down.
+taskid: 117338

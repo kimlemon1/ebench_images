@@ -1,5 +1,0 @@
-org_img_id: 2332888
-org_cap: The kitchen features a white microwave, sink, and refrigerator.
-trg_cap: The kitchen features a book, a sink, and a refrigerator.
-instruction: Replace the microwave with a book.
-taskid: 101221

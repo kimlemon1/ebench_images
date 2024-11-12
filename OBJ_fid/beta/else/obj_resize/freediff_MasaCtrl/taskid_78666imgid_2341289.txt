@@ -1,5 +1,0 @@
-org_img_id: 2341289
-org_cap: A ripe, yellow banana lies in a white bowl, accompanied by a slice of ham and a few blueberries.
-trg_cap: A ripe, small yellow banana lies in a white bowl, accompanied by a slice of ham and a few blueberries.
-instruction: Make the banana smaller.
-taskid: 78666

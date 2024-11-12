@@ -1,5 +1,0 @@
-org_img_id: 2388276
-org_cap: Standing, smiling, wet, person stands on a paddleboard in the ocean, his arms and his legs, as he.
-trg_cap: Standing, smiling, dry, person stands on a paddleboard in the ocean, his arms and his legs, as he.
-instruction: Change the state of the person from wet to dry.
-taskid: 33779

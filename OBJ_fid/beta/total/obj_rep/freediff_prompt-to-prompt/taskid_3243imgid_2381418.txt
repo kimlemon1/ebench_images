@@ -1,5 +1,0 @@
-org_img_id: 2381418
-org_cap: person dribbles the sports ball down the field.
-trg_cap: They dribble the pizza.
-instruction: Replace the sports ball with a pizza.
-taskid: 3243

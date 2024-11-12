@@ -1,5 +1,0 @@
-org_img_id: 2414965
-org_cap: The black tv is placed on a floor with a carpet, next to a wooden dresser with a wooden top and drawers.
-trg_cap: The large black tv is placed on a floor with a carpet, next to a wooden dresser with a wooden top and drawers.
-instruction: Make the tv larger.
-taskid: 66797

@@ -1,5 +1,0 @@
-org_img_id: 2358542
-org_cap: a sleepy person lies in a cozy bed, surrounded by plush toys and soft blankets, with a bottle by their side.
-trg_cap: A pencil sketch art depicts a sleepy person lying in a cozy bed, surrounded by plush toys and soft blankets, with a bottle by their side.
-instruction: Change the style if the image to pencil sketch.
-taskid: 86083

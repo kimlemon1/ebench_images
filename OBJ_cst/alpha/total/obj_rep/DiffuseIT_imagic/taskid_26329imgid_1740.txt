@@ -1,5 +1,0 @@
-org_img_id: 1740
-org_cap: The person sat behind the wheel of the car, wearing a white blouse and her hair in a ponytail.
-trg_cap: The spoon sat behind the wheel of the car.
-instruction: Replace the person with a spoon.
-taskid: 26329

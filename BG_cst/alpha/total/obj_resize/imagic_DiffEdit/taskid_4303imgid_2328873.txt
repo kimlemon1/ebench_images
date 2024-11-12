@@ -1,5 +1,0 @@
-org_img_id: 2328873
-org_cap: A middle-aged person with a worn face and a worn-out coat behind a stall, surrounded by a pyramid of freshly harvested tangerines and oranges, their bright orange and yellow peels glistening in the morning sunlight.
-trg_cap: A large, middle-aged person with a worn face and a worn-out coat behind a stall, surrounded by a pyramid of freshly harvested tangerines and oranges, their bright orange and yellow peels glistening in the morning sunlight.
-instruction: Make the person larger.
-taskid: 4303

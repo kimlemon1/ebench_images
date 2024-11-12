@@ -1,5 +1,0 @@
-org_img_id: 2336535
-org_cap: a small, rectangular tv sits on a white shelf above a mini-fridge, with a microwave oven below it, and a few inches of empty space between the tv and the fridge.
-trg_cap: a small, rectangular tv, measuring 24 inches, sits on a white shelf above a mini-fridge, with a microwave oven below it, and a few inches of empty space between the tv and the fridge.
-instruction: Make the tv smaller.
-taskid: 40972

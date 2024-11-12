@@ -1,5 +1,0 @@
-org_img_id: 2363861
-org_cap: a person throws a frisbee into the water, and a jumping black dog off the dock to catch it, its paws into the lake as it through the air to retrieve the flying disc.
-trg_cap: a person throws a frisbee into the water, and a jumping brown dog off the dock to catch it, its paws into the lake as it through the air to retrieve the flying disc.
-instruction: Change the color of the dog from black to brown.
-taskid: 98527

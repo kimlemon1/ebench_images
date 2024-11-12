@@ -1,5 +1,0 @@
-org_img_id: 2336352
-org_cap: A white cow stands in a green meadow, its spots glistening in the sunlight, its ears and its tail.
-trg_cap: A large white cow stands in a green meadow, its spots glistening in the sunlight, its ears and its tail.
-instruction: Make the cow larger.
-taskid: 6912

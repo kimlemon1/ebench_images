@@ -1,5 +1,0 @@
-org_img_id: 2404036
-org_cap: The ornate clock tower stands tall, its gold clock face gleaming in the sunlight, surrounded by pedestrians and vehicles moving along the bustling street.
-trg_cap: A grey scale photo captures the ornate clock tower standing tall with its gold clock face gleaming in the sunlight, surrounded by pedestrians and vehicles moving along the bustling street.
-instruction: Change the style if the image to grey scale.
-taskid: 32005

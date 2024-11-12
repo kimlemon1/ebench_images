@@ -1,5 +1,0 @@
-org_img_id: 2368280
-org_cap: a vintage steam train rumbles along the train, its black train and bright orange train chugging along the countryside, the sound of its whistle echoing through the fields and the rustic stone wall alongside the train.
-trg_cap: a vintage steam train rumbles along the train, its small black train and bright orange train chugging along the countryside, the sound of its whistle echoing through the fields and the rustic stone wall alongside the train.
-instruction: Make the train smaller.
-taskid: 115191

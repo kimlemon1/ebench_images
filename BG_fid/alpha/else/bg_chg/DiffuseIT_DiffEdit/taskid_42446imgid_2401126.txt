@@ -1,5 +1,0 @@
-org_img_id: 2401126
-org_cap: Playing person swings his racket, his arm cocked back at a slight angle as he unleashes a forehand shot, his headband and shirt a blur as he moves around the court.
-trg_cap: Playing person swings his racket, his arm cocked back at a slight angle as he unleashes a forehand shot, his headband and shirt a blur as he moves around the court in the gym.
-instruction: Change the background to gym.
-taskid: 42446

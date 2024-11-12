@@ -1,5 +1,0 @@
-org_img_id: 2326997
-org_cap: a lone person stands on the beach, wearing a red coat and holding a smartphone, in front of a bright red bench.
-trg_cap: A lone person stands on the beach, wearing a red coat and holding a smartphone, in front of a bright red bench, with a bustling seaside restaurant in the background.
-instruction: Change the background to restaurant.
-taskid: 27417

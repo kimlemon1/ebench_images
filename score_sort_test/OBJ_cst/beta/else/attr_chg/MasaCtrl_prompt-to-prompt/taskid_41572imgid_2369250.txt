@@ -1,0 +1,5 @@
+org_img_id: 2369250
+org_cap: a patterned tie.
+trg_cap: a dotted tie.
+instruction: Change the color of the tie from patterned to dotted.
+taskid: 41572

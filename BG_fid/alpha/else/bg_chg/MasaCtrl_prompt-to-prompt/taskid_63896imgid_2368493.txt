@@ -1,5 +1,0 @@
-org_img_id: 2368493
-org_cap: Blue skis soar through the sky, their tips and tails as they launch off the ramp and glide effortlessly towards the distant landing zone.
-trg_cap: Blue skis soar through the sky, their tips and tails as they launch off the ramp and glide effortlessly towards the distant landing zone, the cavernous walls of the cave echoing the rush of air.
-instruction: Change the background to cave.
-taskid: 63896

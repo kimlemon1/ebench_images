@@ -1,5 +1,0 @@
-org_img_id: 2351958
-org_cap: a woman in her mid-twenties with a slender build and long blonde hair stands in a black tank top and jeans, holding a white remote.
-trg_cap: A woman in her mid-twenties with a slender build and long blonde hair stands in a black tank top and jeans, holding a white remote, with a TV behind it.
-instruction: Add a tv behind the remote.
-taskid: 26396

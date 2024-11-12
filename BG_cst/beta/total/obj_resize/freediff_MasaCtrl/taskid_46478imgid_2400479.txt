@@ -1,5 +1,0 @@
-org_img_id: 2400479
-org_cap: a black steam train, with a gleaming brass locomotive, chugging along the tracks, puffing out white clouds of steam.
-trg_cap: a small black steam train, with a gleaming brass locomotive, chugging along the tracks, puffing out white clouds of steam.
-instruction: Make the train smaller.
-taskid: 46478

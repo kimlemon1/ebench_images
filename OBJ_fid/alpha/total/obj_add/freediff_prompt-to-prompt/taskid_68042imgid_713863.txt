@@ -1,5 +1,0 @@
-org_img_id: 713863
-org_cap: a skateboarder leaps off a staircase, his skateboard flying off his feet as he lands a trick.
-trg_cap: A skateboarder leaps off a staircase, his skateboard flying off his feet as he lands a trick, with a handbag on the left side of the skateboard.
-instruction: Add a handbag on the left side of the skateboard.
-taskid: 68042

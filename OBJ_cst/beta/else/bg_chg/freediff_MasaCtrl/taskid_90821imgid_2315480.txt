@@ -1,5 +1,0 @@
-org_img_id: 2315480
-org_cap: the clock is a large, ornate clock with intricate details and a bronze finish, situated atop a historic building with a faded sign reading "for sale" in the background.
-trg_cap: The clock is a large, ornate clock with intricate details and a bronze finish, situated atop a historic building with a faded sign reading "for sale" in the background, set against a vast desert landscape.
-instruction: Change the background to desert.
-taskid: 90821

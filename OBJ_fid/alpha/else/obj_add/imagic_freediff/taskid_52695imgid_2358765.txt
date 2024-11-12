@@ -1,5 +1,0 @@
-org_img_id: 2358765
-org_cap: A light brown car drives on the road, passing a directional sign pointing to rue de paule.
-trg_cap: A light brown car drives on the road, passing a directional sign pointing to rue de paule, with a zebra next to the car.
-instruction: Add a zebra next to the car.
-taskid: 52695

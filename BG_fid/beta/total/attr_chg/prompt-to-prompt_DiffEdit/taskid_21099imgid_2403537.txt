@@ -1,5 +1,0 @@
-org_img_id: 2403537
-org_cap: a brown dog on a green grassy field, holding a pink sports ball in its mouth.
-trg_cap: a brown dog on a green grassy field, holding a clear sports ball in its mouth.
-instruction: Change the color of the sports ball from pink to clear.
-taskid: 21099

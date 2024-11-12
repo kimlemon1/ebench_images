@@ -1,5 +1,0 @@
-org_img_id: 2379284
-org_cap: a small, brown bird with a distinctive beak and bright, curious eyes across the sandy beach, leaving tiny footprints in the soft sand.
-trg_cap: a small, brown bird with a distinctive beak and bright, curious eyes across the sandy beach, leaving tiny footprints in the soft sand, next to a colorful umbrella.
-instruction: Add a umbrella next to the bird.
-taskid: 109148

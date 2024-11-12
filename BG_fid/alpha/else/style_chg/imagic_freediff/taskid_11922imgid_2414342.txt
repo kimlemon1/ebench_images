@@ -1,5 +1,0 @@
-org_img_id: 2414342
-org_cap: a young, smiling, blond person at a table, surrounded by party decorations and a colorful birthday cake with a dinosaur on top.
-trg_cap: An ancient Egyptian-style artwork depicts a young, smiling blond person at a table, surrounded by party decorations and a colorful birthday cake with a dinosaur on top.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 11922

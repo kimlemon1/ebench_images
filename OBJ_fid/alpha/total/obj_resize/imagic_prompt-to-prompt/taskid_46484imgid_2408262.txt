@@ -1,5 +1,0 @@
-org_img_id: 2408262
-org_cap: A red airplane taxis down the runway with its engines roaring, leaving a trail of smoke and noise behind it.
-trg_cap: A small red airplane taxis down the runway with its engines roaring, leaving a trail of smoke and noise behind it.
-instruction: Make the airplane smaller.
-taskid: 46484

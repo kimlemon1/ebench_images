@@ -1,5 +1,0 @@
-org_img_id: 2370378
-org_cap: The scene is focused on a single desktop computer with a wooden table and a white keyboard.
-trg_cap: The scene is focused on a single desktop computer with a wooden cup.
-instruction: Replace the keyboard with a cup.
-taskid: 62075

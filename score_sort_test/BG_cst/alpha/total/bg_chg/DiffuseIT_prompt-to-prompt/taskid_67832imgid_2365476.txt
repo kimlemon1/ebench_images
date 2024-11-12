@@ -1,0 +1,5 @@
+org_img_id: 2365476
+org_cap: A weathered elderly person with a worn green jacket and a wooden cane on a lush green meadow, surrounded by grazing cows and goats, with a small white church with a red dome in the background.
+trg_cap: A weathered elderly person with a worn green jacket and a wooden cane on a lush green meadow, surrounded by grazing cows and goats, with a small airport in the background.
+instruction: Change the background to airport.
+taskid: 67832

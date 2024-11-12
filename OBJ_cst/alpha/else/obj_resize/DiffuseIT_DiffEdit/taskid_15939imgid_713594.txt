@@ -1,5 +1,0 @@
-org_img_id: 713594
-org_cap: A free mall ride bus sits at a bus stop, its wheels and doors visible, with people walking around it in the city street.
-trg_cap: A large free mall ride bus sits at a bus stop, its wheels and doors visible, with people walking around it in the city street.
-instruction: Make the bus larger.
-taskid: 15939

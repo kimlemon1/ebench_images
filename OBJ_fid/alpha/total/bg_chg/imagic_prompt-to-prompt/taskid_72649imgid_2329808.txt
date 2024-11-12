@@ -1,5 +1,0 @@
-org_img_id: 2329808
-org_cap: The clock is a wooden, rectangular clock with a rounded top and a flat, rectangular face featuring roman numerals and a small, circular clock with a brass bezel.
-trg_cap: The clock, set against the rugged backdrop of a cave, is a wooden, rectangular clock with a rounded top and a flat, rectangular face featuring roman numerals and a small, circular clock with a brass bezel.
-instruction: Change the background to cave.
-taskid: 72649

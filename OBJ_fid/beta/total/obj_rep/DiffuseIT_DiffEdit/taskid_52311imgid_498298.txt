@@ -1,5 +1,0 @@
-org_img_id: 498298
-org_cap: a person held a blue donut, her eyes fixed on the blue donut.
-trg_cap: A person held a bird, their eyes fixed on the bird.
-instruction: Replace the donut with a bird.
-taskid: 52311

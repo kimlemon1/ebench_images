@@ -1,5 +1,0 @@
-org_img_id: 2359094
-org_cap: The living room features a blue couch, surrounded by wicker chairs and a coffee table, with a large wooden beam running across the ceiling.
-trg_cap: The living room, perched atop a mountain, features a blue couch, surrounded by wicker chairs and a coffee table, with a large wooden beam running across the ceiling.
-instruction: Change the background to mountain top.
-taskid: 84055

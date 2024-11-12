@@ -1,5 +1,0 @@
-org_img_id: 2342254
-org_cap: a lone surfer, his silhouette defined against the warm glow of sunset on the ocean horizon, rides the waves with effortless style, his surfboard gliding smoothly across the water as he carves a path through the foamy surf.
-trg_cap: A lone surfer, their silhouette defined against the warm glow of sunset on the ocean horizon, rides the waves with effortless style, their banana as they carve a path through the foamy surf.
-instruction: Replace the surfboard with a banana.
-taskid: 52489

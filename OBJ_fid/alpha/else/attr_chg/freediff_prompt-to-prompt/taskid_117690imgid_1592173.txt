@@ -1,5 +1,0 @@
-org_img_id: 1592173
-org_cap: passengers wait at the platform, surrounded by digital displays and a white clock above the departure board.
-trg_cap: passengers wait at the platform, surrounded by digital displays and a orange clock above the departure board.
-instruction: Change the color of the clock from white to orange.
-taskid: 117690

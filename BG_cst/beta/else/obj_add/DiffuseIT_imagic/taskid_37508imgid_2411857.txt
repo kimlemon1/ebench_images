@@ -1,5 +1,0 @@
-org_img_id: 2411857
-org_cap: standing person rides a paddleboard, legs stretched out in front of him, surfing.
-trg_cap: standing person rides a paddleboard, legs stretched out in front of him, with skis next to him, surfing.
-instruction: Add a skis next to the person.
-taskid: 37508

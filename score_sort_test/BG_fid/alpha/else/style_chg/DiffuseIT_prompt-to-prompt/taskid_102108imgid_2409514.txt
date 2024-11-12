@@ -1,0 +1,5 @@
+org_img_id: 2409514
+org_cap: The red couch is, and its cushions are slightly indented, giving it a cozy and inviting appearance.
+trg_cap: An oil painting style art features a red couch with slightly indented cushions, giving it a cozy and inviting appearance.
+instruction: Change the style if the image to oil painting style.
+taskid: 102108

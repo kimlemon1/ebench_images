@@ -1,5 +1,0 @@
-org_img_id: 2366318
-org_cap: a person sitting on a stone wall, his feet in worn leather boots, and his hands together on his cell phone.
-trg_cap: An umbrella.
-instruction: Replace the person with a umbrella.
-taskid: 65216

@@ -1,5 +1,0 @@
-org_img_id: 2323528
-org_cap: "a giant wooden bear, crafted from snow-covered branches and adorned with a vintage camera, in the middle of a snow-covered yard."
-trg_cap: a giant wooden toilet in the middle of the snow-covered yard.
-instruction: Replace the bear with a toilet.
-taskid: 70275

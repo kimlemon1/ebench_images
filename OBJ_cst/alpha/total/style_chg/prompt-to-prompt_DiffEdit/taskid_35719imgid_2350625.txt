@@ -1,5 +1,0 @@
-org_img_id: 2350625
-org_cap: a bunch of yellow banana, some apples, a few yellow banana, a box of bread, a bag of salad mix, a container of stuffing, and a bag of salt.
-trg_cap: The pop art style artwork contains a bunch of yellow bananas, some apples, a few more yellow bananas, a box of bread, a bag of salad mix, a container of stuffing, and a bag of salt.
-instruction: Change the style if the image to pop art style.
-taskid: 35719

@@ -1,5 +1,0 @@
-org_img_id: 2384963
-org_cap: person's bright yellow tennis dress clings to her curves, her ponytail with each movement of her racket.
-trg_cap: In the bustling airport terminal, the person's bright yellow tennis dress clings to her curves, her ponytail swaying with each movement of her racket.
-instruction: Change the background to airport.
-taskid: 73949

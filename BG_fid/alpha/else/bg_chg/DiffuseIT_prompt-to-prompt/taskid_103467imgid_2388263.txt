@@ -1,5 +1,0 @@
-org_img_id: 2388263
-org_cap: A brown running dog runs across the sandy beach, a green frisbee held tightly in its jaws.
-trg_cap: A brown running dog runs across the sandy beach of a stadium, a green frisbee held tightly in its jaws.
-instruction: Change the background to stadium.
-taskid: 103467

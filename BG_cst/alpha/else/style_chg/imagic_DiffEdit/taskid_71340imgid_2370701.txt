@@ -1,5 +1,0 @@
-org_img_id: 2370701
-org_cap: The gray keyboard is a rectangle with a subtle curve and a subtle glow emanating from the keys.
-trg_cap: The cartoon-style art features a gray keyboard, which is a rectangle with a subtle curve and a subtle glow emanating from the keys.
-instruction: Change the style if the image to cartoon style.
-taskid: 71340

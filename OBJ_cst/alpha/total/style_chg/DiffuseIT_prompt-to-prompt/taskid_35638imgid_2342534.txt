@@ -1,5 +1,0 @@
-org_img_id: 2342534
-org_cap: The scene features a circular, brown vase with a decorative rim and a flat bottom, sitting on a small, black ottoman in front of a white wall.
-trg_cap: The ancient Egyptian-style art features a scene with a circular, brown vase with a decorative rim and a flat bottom, sitting on a small, black ottoman in front of a white wall.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 35638

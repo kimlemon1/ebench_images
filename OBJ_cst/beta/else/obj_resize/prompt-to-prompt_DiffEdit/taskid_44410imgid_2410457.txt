@@ -1,5 +1,0 @@
-org_img_id: 2410457
-org_cap: Under the orange umbrella, umbrella and others sat in a small wooden boat, navigating through the rain-soaked waters.
-trg_cap: Under the small orange umbrella, umbrella and others sat in a small wooden boat, navigating through the rain-soaked waters.
-instruction: Make the umbrella smaller.
-taskid: 44410

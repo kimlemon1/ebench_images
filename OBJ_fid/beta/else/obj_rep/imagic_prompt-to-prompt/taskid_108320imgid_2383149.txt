@@ -1,5 +1,0 @@
-org_img_id: 2383149
-org_cap: The white ceramic toilet is a model with a rounded seat and a subtle rim, featuring a small LED light at its base.
-trg_cap: The white ceramic fork is a model, featuring a small LED light at the base.
-instruction: Replace the toilet with a fork.
-taskid: 108320

@@ -1,0 +1,5 @@
+org_img_id: 2368893
+org_cap: The scene features a worn, beige-colored armchair with a floral pattern and a sturdy wooden frame, situated in front of a black tv.
+trg_cap: The scene features a worn, beige-colored armchair with a floral pattern and a sturdy wooden frame, situated in front of a black TV, with a couch located under the TV.
+instruction: Add a couch under the tv.
+taskid: 115865

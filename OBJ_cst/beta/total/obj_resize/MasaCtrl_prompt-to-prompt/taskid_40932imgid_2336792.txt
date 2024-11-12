@@ -1,5 +1,0 @@
-org_img_id: 2336792
-org_cap: a little girl in a blue dress and holding a pink umbrella stands alone on a green grassy area, with a rocky coastline and waves crashing in the background.
-trg_cap: a little girl in a blue dress and holding a large pink umbrella stands alone on a green grassy area, with a rocky coastline and waves crashing in the background.
-instruction: Make the umbrella larger.
-taskid: 40932

@@ -1,5 +1,0 @@
-org_img_id: 2318245
-org_cap: A blue metal bench adorns a sidewalk, surrounded by planters filled with colorful flowers.
-trg_cap: A large blue metal bench adorns a sidewalk, surrounded by planters filled with colorful flowers.
-instruction: Make the bench larger.
-taskid: 6592

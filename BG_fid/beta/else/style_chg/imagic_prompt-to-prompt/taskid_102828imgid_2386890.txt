@@ -1,5 +1,0 @@
-org_img_id: 2386890
-org_cap: The open, silver laptop sat on a desk, surrounded by a gray bowl of cereal and scattered papers.
-trg_cap: An ancient Egyptian-style artwork features an open silver laptop on a desk, surrounded by a gray bowl of cereal and scattered papers.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 102828

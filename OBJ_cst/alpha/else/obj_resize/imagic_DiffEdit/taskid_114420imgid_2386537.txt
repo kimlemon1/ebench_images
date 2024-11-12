@@ -1,5 +1,0 @@
-org_img_id: 2386537
-org_cap: The bus is a white bus featuring a logo on the side and a destination sign above the rear wheels.
-trg_cap: The bus is a small white bus featuring a logo on the side and a destination sign above the rear wheels.
-instruction: Make the bus smaller.
-taskid: 114420

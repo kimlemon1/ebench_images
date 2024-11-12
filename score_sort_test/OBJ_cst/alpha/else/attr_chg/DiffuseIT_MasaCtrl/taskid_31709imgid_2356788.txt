@@ -1,0 +1,5 @@
+org_img_id: 2356788
+org_cap: a purple bus parked at a bus stop in front of a modern, green-roofed building.
+trg_cap: a light blue bus parked at a bus stop in front of a modern, green-roofed building.
+instruction: Change the color of the bus from purple to light blue.
+taskid: 31709

@@ -1,5 +1,0 @@
-org_img_id: 2399264
-org_cap: The toilet is a white toilet with a yellow-green tile surround and a small, rectangular sink above it.
-trg_cap: The toilet is a large, white toilet with a yellow-green tile surround and a small, rectangular sink above it.
-instruction: Make the toilet larger.
-taskid: 91420

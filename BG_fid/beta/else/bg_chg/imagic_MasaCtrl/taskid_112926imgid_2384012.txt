@@ -1,5 +1,0 @@
-org_img_id: 2384012
-org_cap: a person wearing a helmet and a backpack rode a motorcycle with a basket full of plastic containers and a small bag attached to the back through the city streets at night.
-trg_cap: A person wearing a helmet and a backpack rode a motorcycle with a basket full of plastic containers and a small bag attached to the back through the city streets at night, with the sound of waves crashing on the nearby beach.
-instruction: Change the background to beach.
-taskid: 112926

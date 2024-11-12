@@ -1,0 +1,5 @@
+org_img_id: 2361946
+org_cap: The couch is a brown couch situated in a cozy room with large windows that frame a lush tree outside.
+trg_cap: The couch is a large brown couch situated in a cozy room with large windows that frame a lush tree outside.
+instruction: Make the couch larger.
+taskid: 22722

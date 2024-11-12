@@ -1,5 +1,0 @@
-org_img_id: 2411499
-org_cap: A wood boat lies beached on the sandy shore, with pebbles and shells scattered around its base.
-trg_cap: A grey scale photo shows a wood boat beached on the sandy shore, with pebbles and shells scattered around its base.
-instruction: Change the style if the image to grey scale.
-taskid: 63716

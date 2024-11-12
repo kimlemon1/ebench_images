@@ -1,5 +1,0 @@
-org_img_id: 2318071
-org_cap: a person riding a running horse at a beach.
-trg_cap: A watercolor painting style art of a person riding a running horse at a beach.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 54180

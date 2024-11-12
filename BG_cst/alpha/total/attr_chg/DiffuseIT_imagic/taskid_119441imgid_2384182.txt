@@ -1,5 +1,0 @@
-org_img_id: 2384182
-org_cap: The scene features a minimalist living room with a brown wood bench and a geometric coffee table, surrounded by a warm glow of sunlight filtering through benches.
-trg_cap: The scene features a minimalist living room with a dark blue wood bench and a geometric coffee table, surrounded by a warm glow of sunlight filtering through benches.
-instruction: Change the color of the bench from brown to dark blue.
-taskid: 119441

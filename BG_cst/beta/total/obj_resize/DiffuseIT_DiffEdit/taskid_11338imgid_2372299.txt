@@ -1,5 +1,0 @@
-org_img_id: 2372299
-org_cap: a group of people in their 30s and 40s gathered in a cozy living room, surrounded by comfortable furniture and soft lighting, with a large flat screen tv at the center, where they were playing a video game, their movements and reactions captured in a snapshot of laughter, excitement, and friendly competition.
-trg_cap: a group of people in their 30s and 40s gathered in a cozy living room, surrounded by comfortable furniture and soft lighting, with a large 65-inch flat screen tv at the center, where they were playing a video game, their movements and reactions captured in a snapshot of laughter, excitement, and friendly competition.
-instruction: Make the tv larger.
-taskid: 11338

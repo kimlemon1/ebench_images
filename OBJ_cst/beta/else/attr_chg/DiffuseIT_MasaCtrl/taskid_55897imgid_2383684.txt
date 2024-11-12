@@ -1,5 +1,0 @@
-org_img_id: 2383684
-org_cap: The worn, brown wood bench is situated in front of a brick building with a faded sign reading "butternut" in bold, red letters.
-trg_cap: The undamaged, brown wood bench is situated in front of a brick building with a faded sign reading "butternut" in bold, red letters.
-instruction: Change the state of the bench from worn to undamaged.
-taskid: 55897

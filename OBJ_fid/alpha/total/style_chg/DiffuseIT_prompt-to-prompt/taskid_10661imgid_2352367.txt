@@ -1,5 +1,0 @@
-org_img_id: 2352367
-org_cap: a person on a horse in a green meadow.
-trg_cap: An ancient Egyptian-style artwork depicts a person on a horse in a green meadow.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 10661

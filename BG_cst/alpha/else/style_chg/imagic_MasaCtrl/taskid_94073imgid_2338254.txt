@@ -1,5 +1,0 @@
-org_img_id: 2338254
-org_cap: Person next to a white car with a surfboard and wetsuit on the roof, with a beach towel and surfboard bag at his feet.
-trg_cap: A graffiti art depicts a person next to a white car with a surfboard and wetsuit on the roof, and a beach towel and surfboard bag at his feet.
-instruction: Change the style if the image to graffiti art.
-taskid: 94073

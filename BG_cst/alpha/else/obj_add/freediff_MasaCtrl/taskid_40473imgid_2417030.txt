@@ -1,5 +1,0 @@
-org_img_id: 2417030
-org_cap: A zebra stands tall in a sunlit savannah, its black and white stripes glistening in the golden light, its ears and its tail as it surveys its surroundings with a curious gaze.
-trg_cap: A zebra stands tall in a sunlit savannah, its black and white stripes glistening in the golden light, its ears and its tail as it surveys its surroundings with a curious gaze, while an elephant stands in front of it.
-instruction: Add a elephant in front of the zebra.
-taskid: 40473

@@ -1,5 +1,0 @@
-org_img_id: 2355032
-org_cap: a smiling person holds a ripe banana in his hand, with a friendly gaze and a relaxed expression.
-trg_cap: A smiling person holds a ripe banana in his hand, with a friendly gaze and a relaxed expression, standing in a pine forest.
-instruction: Change the background to pine forest.
-taskid: 99540

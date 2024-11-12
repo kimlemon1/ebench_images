@@ -1,5 +1,0 @@
-org_img_id: 2340519
-org_cap: a person waiting, sitting on a surfboard on the beach, with the waves crashing in the background.
-trg_cap: a large person waiting, sitting on a surfboard on the beach, with the waves crashing in the background.
-instruction: Make the person larger.
-taskid: 35305

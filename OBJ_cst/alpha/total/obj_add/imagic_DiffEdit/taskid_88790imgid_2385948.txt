@@ -1,5 +1,0 @@
-org_img_id: 2385948
-org_cap: Snowboarding person on his snowboard, goggles and helmet a blur.
-trg_cap: Snowboarding person on his snowboard, goggles and helmet a blur, with a bowl next to him.
-instruction: Add a bowl next to the person.
-taskid: 88790

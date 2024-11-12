@@ -1,5 +1,0 @@
-org_img_id: 2390912
-org_cap: The old town clock features a white face with roman numerals and a decorative ironwork surround.
-trg_cap: The old town clock, located near the sandy shores and gentle waves of the beach, features a white face with roman numerals and a decorative ironwork surround.
-instruction: Change the background to beach.
-taskid: 32675

@@ -1,5 +1,0 @@
-org_img_id: 2392732
-org_cap: a large, old-fashioned clock hangs from the ceiling, its face a circular expanse of worn, black metal with roman numerals and a subtle glow emanating from the hour and minute hands.
-trg_cap: A large, old-fashioned bench hangs from the ceiling.
-instruction: Replace the clock with a bench.
-taskid: 106709

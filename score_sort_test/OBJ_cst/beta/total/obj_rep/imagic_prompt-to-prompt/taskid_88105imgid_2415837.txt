@@ -1,0 +1,5 @@
+org_img_id: 2415837
+org_cap: a white, city bus with a flat, rectangular front and a curved roof, sporting a faded advertisement for a local business on its side, rumbles down the road.
+trg_cap: A white train rumbles down the tracks.
+instruction: Replace the bus with a train.
+taskid: 88105

@@ -1,0 +1,5 @@
+org_img_id: 2409299
+org_cap: A wet surfing person stands on a surfboard, his legs bent and his arms outstretched, his face set in an expression.
+trg_cap: A dry surfing person stands on a surfboard, his legs bent and his arms outstretched, his face set in an expression.
+instruction: Change the state of the person from wet to dry.
+taskid: 3750

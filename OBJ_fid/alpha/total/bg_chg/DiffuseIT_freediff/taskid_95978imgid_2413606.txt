@@ -1,5 +1,0 @@
-org_img_id: 2413606
-org_cap: a person with a blue necktie and a frantic expression.
-trg_cap: A person with a blue necktie and a frantic expression stood amidst the rolling fields of a countryside farm.
-instruction: Change the background to country side farm.
-taskid: 95978

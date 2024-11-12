@@ -1,5 +1,0 @@
-org_img_id: 2412222_0
-org_cap: Young person to adjust the bolts on his skateboard, his jeans ripped and worn from countless skate sessions, his sneakers scuffed and dusty.
-trg_cap: Young person to adjust the bolts on his skateboard, his jeans ripped and worn from countless skate sessions, his sneakers scuffed and dusty, as he stands on the edge of a vast snow field.
-instruction: Change the background to snow field.
-taskid: 35931

@@ -1,5 +1,0 @@
-org_img_id: 2385489
-org_cap: a gray cat lying on a colorful rug, its paws around a shiny black shoe with a chunky heel.
-trg_cap: A gray cat lying on a colorful rug amidst ancient ruins, its paws around a shiny black shoe with a chunky heel.
-instruction: Change the background to ancient ruins.
-taskid: 39980

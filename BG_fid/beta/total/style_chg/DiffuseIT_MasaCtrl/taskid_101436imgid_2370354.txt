@@ -1,5 +1,0 @@
-org_img_id: 2370354
-org_cap: a giraffe bends its neck to drink from a small rocky pool, its legs splayed around the edge of the water, its long eyelashes in the bright sunlight.
-trg_cap: A cartoon style art depicts a giraffe bending its neck to drink from a small rocky pool, its legs splayed around the edge of the water and its long eyelashes highlighted in the bright sunlight.
-instruction: Change the style if the image to cartoon style.
-taskid: 101436

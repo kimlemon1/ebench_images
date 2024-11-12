@@ -1,5 +1,0 @@
-org_img_id: 2348604
-org_cap: Person, wearing a bright orange jacket and matching pants, stands on a snow-covered slope, her skis across the powder as she a gentle turn.
-trg_cap: A large person, wearing a bright orange jacket and matching pants, stands on a snow-covered slope, her skis across the powder as she a gentle turn.
-instruction: Make the person larger.
-taskid: 55560

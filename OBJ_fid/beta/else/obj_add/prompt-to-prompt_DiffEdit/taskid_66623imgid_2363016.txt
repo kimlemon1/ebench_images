@@ -1,5 +1,0 @@
-org_img_id: 2363016
-org_cap: The kitchen features a black oven, a white microwave, and a white toaster.
-trg_cap: The kitchen features a black oven, a white microwave, and a white toaster located under the microwave.
-instruction: Add a toaster under the microwave.
-taskid: 66623

@@ -1,5 +1,0 @@
-org_img_id: 2335256
-org_cap: Person her racket to hit a forehand shot in the tennis match.
-trg_cap: At the airport, Person her racket to hit a forehand shot in the tennis match.
-instruction: Change the background to airport.
-taskid: 2075

@@ -1,5 +1,0 @@
-org_img_id: 2376885
-org_cap: Surfing person rides a surfboard through the waves, her hair behind her as she balances and turns.
-trg_cap: A grey scale photo shows a surfing person riding a surfboard through the waves, her hair flowing behind her as she balances and turns.
-instruction: Change the style if the image to grey scale.
-taskid: 19317

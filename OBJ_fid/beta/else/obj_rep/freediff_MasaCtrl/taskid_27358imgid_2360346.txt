@@ -1,5 +1,0 @@
-org_img_id: 2360346
-org_cap: Person is a young person with a rugged build and a messy blond hair, wearing a red rash guard and a pair of board shorts, across the lake.
-trg_cap: Cell phone, across the lake.
-instruction: Replace the person with a cell phone.
-taskid: 27358

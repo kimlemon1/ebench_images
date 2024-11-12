@@ -1,5 +1,0 @@
-org_img_id: 2417768
-org_cap: a middle-aged woman with a white bandana on her head and a warm smile on her face is shown tossing a white frisbee on a beach.
-trg_cap: a middle-aged woman with a white bandana on her head and a warm smile on her face is shown tossing a white frisbee on a beach, with a dog behind the frisbee.
-instruction: Add a dog behind the frisbee.
-taskid: 94859

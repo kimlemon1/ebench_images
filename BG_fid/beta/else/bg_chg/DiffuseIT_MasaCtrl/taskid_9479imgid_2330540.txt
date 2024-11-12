@@ -1,5 +1,0 @@
-org_img_id: 2330540
-org_cap: a row of buses and white cars navigated through the morning traffic, their headlights illuminating the misty morning air as they inched forward in unison.
-trg_cap: A row of buses and white cars navigated through the morning traffic, their headlights illuminating the misty morning air as they inched forward in unison, with a vast grass field stretching out beside the road.
-instruction: Change the background to grass field.
-taskid: 9479

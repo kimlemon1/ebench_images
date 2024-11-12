@@ -1,0 +1,5 @@
+org_img_id: 2378315
+org_cap: A pink kite is standing upright in a lush green grassy area, with a distant crowd of people visible in the background.
+trg_cap: A purple kite is standing upright in a lush green grassy area, with a distant crowd of people visible in the background.
+instruction: Change the color of the kite from pink to purple.
+taskid: 92038

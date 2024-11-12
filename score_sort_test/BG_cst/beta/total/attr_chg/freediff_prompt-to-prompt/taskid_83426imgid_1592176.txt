@@ -1,0 +1,5 @@
+org_img_id: 1592176
+org_cap: a brown dog, at a street market.
+trg_cap: a white dog, at a street market.
+instruction: Change the color of the dog from brown to white.
+taskid: 83426

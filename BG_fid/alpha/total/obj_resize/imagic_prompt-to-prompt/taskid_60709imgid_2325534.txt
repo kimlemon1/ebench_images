@@ -1,5 +1,0 @@
-org_img_id: 2325534
-org_cap: A cup sat on a table, accompanied by a book and a cup with a slice of apple and a packet of crisps.
-trg_cap: A small cup sat on a table, accompanied by a book and a cup with a slice of apple and a packet of crisps.
-instruction: Make the cup smaller.
-taskid: 60709

@@ -1,5 +1,0 @@
-org_img_id: 2388922
-org_cap: a ruggedly dressed person with a thick beard and a truckers hat rode a motorcycle with a trailer attached to the back, carrying a large bundle of camping gear and sleeping bags.
-trg_cap: A ruggedly dressed person with a thick beard and a trucker's hat rode a motorcycle with a trailer attached to the back, carrying a large bundle of camping gear and sleeping bags, as they made their way toward the entrance of a remote cave.
-instruction: Change the background to cave.
-taskid: 104045

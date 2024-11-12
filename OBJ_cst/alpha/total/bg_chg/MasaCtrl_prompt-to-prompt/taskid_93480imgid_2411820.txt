@@ -1,5 +1,0 @@
-org_img_id: 2411820
-org_cap: the skateboard is an upside down skateboard.
-trg_cap: The skateboard is an upside down skateboard on a grass field.
-instruction: Change the background to grass field.
-taskid: 93480

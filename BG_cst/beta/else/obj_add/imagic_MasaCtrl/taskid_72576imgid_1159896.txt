@@ -1,5 +1,0 @@
-org_img_id: 1159896
-org_cap: a young person down the road, an umbrella and a vintage bicycle with a rusty chain and worn tires.
-trg_cap: a young person down the road, a chair in front of the umbrella, an umbrella and a vintage bicycle with a rusty chain and worn tires.
-instruction: Add a chair in front of the umbrella.
-taskid: 72576

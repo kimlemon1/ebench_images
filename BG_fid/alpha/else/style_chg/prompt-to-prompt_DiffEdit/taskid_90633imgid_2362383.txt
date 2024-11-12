@@ -1,5 +1,0 @@
-org_img_id: 2362383
-org_cap: "a lone person on the pebble beach, wearing a black jacket and jeans, with a guitar over their shoulder, at the grey stone pier and the misty sea beyond."
-trg_cap: A Van Gogh style art depicts a lone person on the pebble beach, wearing a black jacket and jeans, with a guitar over their shoulder, at the grey stone pier with the misty sea beyond.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 90633

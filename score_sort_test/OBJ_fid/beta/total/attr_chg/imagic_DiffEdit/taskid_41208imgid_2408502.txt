@@ -1,0 +1,5 @@
+org_img_id: 2408502
+org_cap: A white stop sign stands alone on a dusty road, with a vibrant rainbow stretching across the sky above.
+trg_cap: A red stop sign stands alone on a dusty road, with a vibrant rainbow stretching across the sky above.
+instruction: Change the color of the stop sign from white to red.
+taskid: 41208

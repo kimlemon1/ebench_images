@@ -1,0 +1,5 @@
+org_img_id: 2395499
+org_cap: A slice of eaten pizza is left on the plate, with a few crumbs scattered around the edge and a small piece missing from the center.
+trg_cap: A slice of uneaten pizza is left on the plate, with a few crumbs scattered around the edge and a small piece missing from the center.
+instruction: Change the state of the pizza from eaten to uneaten.
+taskid: 103545

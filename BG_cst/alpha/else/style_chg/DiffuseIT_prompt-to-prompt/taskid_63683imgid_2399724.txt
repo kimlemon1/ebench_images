@@ -1,5 +1,0 @@
-org_img_id: 2399724
-org_cap: a smiling young person, wearing a hat with a brim, across a lush green grassy area, a kite string in his hand.
-trg_cap: A grayscale photo features a smiling young person wearing a brimmed hat, holding a kite string, standing across a lush green grassy area.
-instruction: Change the style if the image to grey scale.
-taskid: 63683

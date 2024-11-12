@@ -1,5 +1,0 @@
-org_img_id: 2362182
-org_cap: person on a bicycle on a dirt road, with a stop sign visible in the rearview mirror.
-trg_cap: person on a bicycle on a bed on a dirt road, with a stop sign visible in the rearview mirror.
-instruction: Add a bed under the person.
-taskid: 44013

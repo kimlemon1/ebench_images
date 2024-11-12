@@ -1,5 +1,0 @@
-org_img_id: 2386915
-org_cap: the clock displayed a score of 2-6 in favor of tennis player.
-trg_cap: The clock, with an orange on its left side, displayed a score of 2-6 in favor of the tennis player.
-instruction: Add a orange on the left side of the clock.
-taskid: 92999

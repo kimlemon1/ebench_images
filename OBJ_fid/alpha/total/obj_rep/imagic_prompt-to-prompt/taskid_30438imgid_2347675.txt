@@ -1,5 +1,0 @@
-org_img_id: 2347675
-org_cap: A person in a kitchen, wearing jeans and a sweater, with a toaster and microwave on the counter in front of her.
-trg_cap: A knife in a kitchen, with a toaster and microwave on the counter in front of it.
-instruction: Replace the person with a knife.
-taskid: 30438

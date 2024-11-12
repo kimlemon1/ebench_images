@@ -1,0 +1,5 @@
+org_img_id: 2358937
+org_cap: The refrigerator is a white refrigerator with a slightly worn finish and a faint scratch on the door handle.
+trg_cap: The refrigerator is a tan refrigerator with a slightly worn finish and a faint scratch on the door handle.
+instruction: Change the color of the refrigerator from white to tan.
+taskid: 3176

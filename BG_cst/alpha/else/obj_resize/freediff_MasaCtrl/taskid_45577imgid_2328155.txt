@@ -1,5 +1,0 @@
-org_img_id: 2328155
-org_cap: Person rides a surfboard with a bright orange wetsuit and a yellow rash guard, her blonde hair tied back in a ponytail, her eyes fixed on the wave.
-trg_cap: A small person rides a surfboard with a bright orange wetsuit and a yellow rash guard, her blonde hair tied back in a ponytail, her eyes fixed on the wave.
-instruction: Make the person smaller.
-taskid: 45577

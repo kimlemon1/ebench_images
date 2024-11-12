@@ -1,5 +1,0 @@
-org_img_id: 2402354_1
-org_cap: A raw carrot lies on a white cutting board, next to a shiny black knife.
-trg_cap: A raw carrot lies on a white cutting board, next to a shiny black knife, with a pine forest in the background.
-instruction: Change the background to pine forest.
-taskid: 8268

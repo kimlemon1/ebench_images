@@ -1,5 +1,0 @@
-org_img_id: 2354826
-org_cap: person wears a helmet and goggles, his face scrunched up in concentration.
-trg_cap: A Van Gogh style art depicts a person wearing a helmet and goggles, with his face scrunched up in concentration.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 16066

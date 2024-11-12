@@ -1,5 +1,0 @@
-org_img_id: 2323011
-org_cap: a black digital camera with a long lens lies on a wooden table, next to a black cell phone.
-trg_cap: a black digital camera with a long lens lies on a wooden table, next to a small black cell phone.
-instruction: Make the cell phone smaller.
-taskid: 33975

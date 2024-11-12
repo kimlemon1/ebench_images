@@ -1,5 +1,0 @@
-org_img_id: 2393851
-org_cap: A blue bus navigates through a snow-covered city street at night, its headlights illuminating the swirling snowflakes and casting a warm glow over the deserted pavement.
-trg_cap: An ancient Egyptian-style artwork depicts a blue bus navigating through a snow-covered city street at night, its headlights illuminating the swirling snowflakes and casting a warm glow over the deserted pavement.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 44817

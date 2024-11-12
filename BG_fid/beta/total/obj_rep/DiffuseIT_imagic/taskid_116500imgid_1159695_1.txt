@@ -1,5 +1,0 @@
-org_img_id: 1159695_1
-org_cap: The couch is a black, low-to-the-ground piece of furniture with a smooth, flat surface and a slightly curved back, situated in the center of the room.
-trg_cap: The giraffe is situated in the center of the room.
-instruction: Replace the couch with a giraffe.
-taskid: 116500

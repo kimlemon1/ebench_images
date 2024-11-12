@@ -1,5 +1,0 @@
-org_img_id: 2318071
-org_cap: a person riding a running horse at a beach.
-trg_cap: a bird riding a running horse at a beach.
-instruction: Replace the person with a bird.
-taskid: 54176

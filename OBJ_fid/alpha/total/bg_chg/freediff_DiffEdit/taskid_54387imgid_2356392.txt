@@ -1,5 +1,0 @@
-org_img_id: 2356392
-org_cap: A large brown bear in the grass, its fur matted and dirty, its eyes on a picnic table in the distance.
-trg_cap: A large brown bear in the grass near the beach, its fur matted and dirty, its eyes on a picnic table in the distance.
-instruction: Change the background to beach.
-taskid: 54387

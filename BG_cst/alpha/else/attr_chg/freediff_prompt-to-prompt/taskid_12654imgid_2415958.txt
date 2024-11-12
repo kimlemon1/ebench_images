@@ -1,5 +1,0 @@
-org_img_id: 2415958
-org_cap: a gray, black, and white cow on a green grassy field, its legs under its body, and its head on the ground, with a calm and peaceful expression.
-trg_cap: a gray, black, and white cow on a green grassy field, its legs under its body, and its head on the ground, with a calm and peaceful expression.
-instruction: Change the color of the cow from black and white to brown.
-taskid: 12654

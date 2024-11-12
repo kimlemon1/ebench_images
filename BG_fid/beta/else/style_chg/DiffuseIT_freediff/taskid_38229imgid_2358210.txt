@@ -1,5 +1,0 @@
-org_img_id: 2358210
-org_cap: An orange kite floats gently above the calm waters of the sea, its string held taut by a person standing on the shore.
-trg_cap: An ancient Egyptian-style artwork depicts an orange kite floating gently above the calm waters of the sea, its string held taut by a person standing on the shore.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 38229

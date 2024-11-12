@@ -1,5 +1,0 @@
-org_img_id: 2330574
-org_cap: person rides a surfboard through the waves, his arms and legs splayed as he carves a smooth arc through the water.
-trg_cap: A pencil sketch art depicts a person riding a surfboard through the waves, with his arms and legs splayed as he carves a smooth arc through the water.
-instruction: Change the style if the image to pencil sketch.
-taskid: 21851

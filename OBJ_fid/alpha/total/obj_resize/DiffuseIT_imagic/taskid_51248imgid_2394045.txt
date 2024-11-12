@@ -1,5 +1,0 @@
-org_img_id: 2394045
-org_cap: a group of people sit on a blue bench, surrounded by a stone wall and a concrete floor, with a bicycle leaning against the wall and a few rocks scattered around.
-trg_cap: a group of people sit on a small blue bench, surrounded by a stone wall and a concrete floor, with a bicycle leaning against the wall and a few rocks scattered around.
-instruction: Make the bench smaller.
-taskid: 51248

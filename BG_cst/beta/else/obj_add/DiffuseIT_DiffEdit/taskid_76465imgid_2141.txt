@@ -1,5 +1,0 @@
-org_img_id: 2141
-org_cap: The kitchen features a large black granite countertop with a red clock and situated at the breakfast nook.
-trg_cap: The kitchen features a large black granite countertop with a red clock and a bicycle next to the clock, situated at the breakfast nook.
-instruction: Add a bicycle next to the clock.
-taskid: 76465

@@ -1,5 +1,0 @@
-org_img_id: 2315456
-org_cap: a delicate, red rose blooms in a clear glass vase, surrounded by scattered sheet music and notes.
-trg_cap: A delicate, red rose blooms in the bowl, surrounded by scattered sheet music and notes.
-instruction: Replace the vase with a bowl.
-taskid: 82564

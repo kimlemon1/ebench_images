@@ -1,5 +1,0 @@
-org_img_id: 2348907
-org_cap: A motorcycle with an orange and white color scheme sits on a rocky outcropping, surrounded by a mountainous landscape with a clear blue sky above.
-trg_cap: A graffiti art piece features a motorcycle with an orange and white color scheme sitting on a rocky outcropping, surrounded by a mountainous landscape with a clear blue sky above.
-instruction: Change the style if the image to graffiti art.
-taskid: 83839

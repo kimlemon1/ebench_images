@@ -1,5 +1,0 @@
-org_img_id: 2392001
-org_cap: a young person with a smooth, sun-kissed skin and a messy, sandy hair sits on the beach, wearing a bright blue rash guard and a shiny surfboard.
-trg_cap: a small young person with a smooth, sun-kissed skin and a messy, sandy hair sits on the beach, wearing a bright blue rash guard and a shiny surfboard.
-instruction: Make the person smaller.
-taskid: 114058

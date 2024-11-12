@@ -1,5 +1,0 @@
-org_img_id: 2362790
-org_cap: A brown cow stands in front of a barn door as it gazes calmly out at the viewer.
-trg_cap: A cartoon-style artwork features a brown cow standing in front of a barn door, gazing calmly at the viewer.
-instruction: Change the style if the image to cartoon style.
-taskid: 63841

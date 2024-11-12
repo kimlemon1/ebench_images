@@ -1,5 +1,0 @@
-org_img_id: 2377822
-org_cap: a white cat on the windowsill of a rustic barn, its paws on the wooden frame.
-trg_cap: a black and white cat on the windowsill of a rustic barn, its paws on the wooden frame.
-instruction: Change the color of the cat from white to black and white.
-taskid: 54067

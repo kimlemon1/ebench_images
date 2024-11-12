@@ -1,5 +1,0 @@
-org_img_id: 2357965
-org_cap: a small, reddish-brown horse with a fluffy mane and tail across a green meadow, its hooves up small clouds of dust as it towards a distant patch of tall grass.
-trg_cap: a small, reddish-brown horse with a fluffy mane and tail trots across a green meadow, its hooves kicking up small clouds of dust as it heads towards a distant patch of tall grass.
-instruction: Make the horse smaller.
-taskid: 13691

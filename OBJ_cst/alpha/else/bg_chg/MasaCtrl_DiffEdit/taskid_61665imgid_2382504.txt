@@ -1,5 +1,0 @@
-org_img_id: 2382504
-org_cap: a person is playing fetch with a frisbee in a sunny green meadow.
-trg_cap: A person is playing fetch with a frisbee in a sunny green meadow near a bustling restaurant.
-instruction: Change the background to restaurant.
-taskid: 61665

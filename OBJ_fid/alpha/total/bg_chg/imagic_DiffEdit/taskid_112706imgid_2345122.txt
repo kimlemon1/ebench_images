@@ -1,5 +1,0 @@
-org_img_id: 2345122
-org_cap: a lone person in an orange vest beside a stop sign on a desolate desert road, surrounded by sparse vegetation and a vast expanse of dry earth.
-trg_cap: a lone person in an orange vest beside a stop sign on a desolate desert road, surrounded by dense tropical foliage and the vibrant greenery of a lush jungle.
-instruction: Change the background to tropical jungle.
-taskid: 112706

@@ -1,5 +1,0 @@
-org_img_id: 2375342
-org_cap: person stands proudly in front of a vibrant cake, adorned with colorful fruit slices and a bright yellow candle in the center.
-trg_cap: Person stands proudly in front of a vibrant cake, adorned with colorful fruit slices and a bright yellow candle in the center, with a picturesque lakeside view in the background.
-instruction: Change the background to lake side.
-taskid: 25528

@@ -1,5 +1,0 @@
-org_img_id: 2396923
-org_cap: a young person stands on the water, holding a person with its sail in the wind as he adjusts the boom with his hand.
-trg_cap: A young person stands on the water, holding a person with its sail in the wind as he adjusts the boom with his hand, with ancient ruins looming in the background.
-instruction: Change the background to ancient ruins.
-taskid: 110196

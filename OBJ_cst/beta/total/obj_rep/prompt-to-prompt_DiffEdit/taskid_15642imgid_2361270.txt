@@ -1,5 +1,0 @@
-org_img_id: 2361270
-org_cap: a perfectly cooked pizza with a crispy crust, topped with a vibrant medley of roasted vegetables including cherry tomatoes, bell peppers, and zucchini, adorned with a sprinkle of mozzarella cheese and a drizzle of olive oil, all set against a rustic wooden board.
-trg_cap: A perfectly cooked couch, all set against a rustic wooden board.
-instruction: Replace the pizza with a couch.
-taskid: 15642

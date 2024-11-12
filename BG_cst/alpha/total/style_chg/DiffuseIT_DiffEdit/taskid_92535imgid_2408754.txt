@@ -1,5 +1,0 @@
-org_img_id: 2408754
-org_cap: A blue bus navigates through the busy streets, with pedestrians and cars moving around it.
-trg_cap: A mosaic art depicts a blue bus navigating through busy streets, with pedestrians and cars moving around it.
-instruction: Change the style if the image to mosaic art.
-taskid: 92535

@@ -1,5 +1,0 @@
-org_img_id: 2322790
-org_cap: An unpeeled, ripe, yellow banana lies next to a pair of colorful sneakers with bright red laces, surrounded by a few scattered socks and a small glass filled with a vibrant orange liquid.
-trg_cap: An peeled, ripe, yellow banana lies next to a pair of colorful sneakers with bright red laces, surrounded by a few scattered socks and a small glass filled with a vibrant orange liquid.
-instruction: Change the state of the banana from unpeeled to peeled.
-taskid: 15685

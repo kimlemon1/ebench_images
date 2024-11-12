@@ -1,5 +1,0 @@
-org_img_id: 2370055
-org_cap: A surfing person rides a surfboard down a whitewater wave, her arms and legs bent in a smooth arc as she through the churning water.
-trg_cap: A surfing person rides a surfboard down a whitewater wave, her arms and legs bent in a smooth arc as she glides through the churning water, with the vast desert landscape stretching out in the background.
-instruction: Change the background to desert.
-taskid: 85752

@@ -1,5 +1,0 @@
-org_img_id: 2389517
-org_cap: "a lone person stands on a snow - covered mountain peak, silhouette stark against the bright blue winter sky with a sun shining brightly in the background, their skis and poles at the ready."
-trg_cap: a lone person stands on a snow-covered mountain peak, silhouette stark against the bright blue winter sky with a sun shining brightly in the background, their skis and poles at the ready, with a pair of scissors on the right side of the person.
-instruction: Add a scissors on the right side of the person.
-taskid: 109478

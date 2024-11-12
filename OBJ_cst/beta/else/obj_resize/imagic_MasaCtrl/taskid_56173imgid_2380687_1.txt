@@ -1,5 +1,0 @@
-org_img_id: 2380687_1
-org_cap: a skateboarder in ripped jeans and a worn-out t-shirt pedals his black skateboard down a street, with a curious greyhound trotting alongside him.
-trg_cap: a skateboarder in ripped jeans and a worn-out t-shirt pedals his small black skateboard down a street, with a curious greyhound trotting alongside him.
-instruction: Make the skateboard smaller.
-taskid: 56173

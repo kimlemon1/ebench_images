@@ -1,5 +1,0 @@
-org_img_id: 2375051
-org_cap: A walking elephant on a sandy shore at sunset, its body silhouetted against a vibrant orange sky, with a small bird perched on its back.
-trg_cap: An ancient Egyptian-style artwork depicts a walking elephant on a sandy shore at sunset, its body silhouetted against a vibrant orange sky, with a small bird perched on its back.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 40978

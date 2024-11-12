@@ -1,5 +1,0 @@
-org_img_id: 2315459
-org_cap: person sits next to person at a table, with an open silver laptop in front of them.
-trg_cap: Person sits next to person at a table in an airport lounge, with an open silver laptop in front of them.
-instruction: Change the background to airport.
-taskid: 82555

@@ -1,5 +1,0 @@
-org_img_id: 2321574_0
-org_cap: The slice of sliced chocolate cake is brown, with a texture and a sheen, topped with a generous dollop of whipped cream and a sprinkle of chocolate shavings.
-trg_cap: The slice of kite is topped with a generous dollop of whipped cream and a sprinkle of chocolate shavings.
-instruction: Replace the cake with a kite.
-taskid: 4789

@@ -1,5 +1,0 @@
-org_img_id: 2412300
-org_cap: The playing person swings his racket, the strings of his tennis racket biting into the clay as he unleashes a forehand.
-trg_cap: The playing person swings his racket, the strings of his tennis racket biting into the clay of the desert court as he unleashes a forehand.
-instruction: Change the background to desert.
-taskid: 72956

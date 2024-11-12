@@ -1,5 +1,0 @@
-org_img_id: 2405841
-org_cap: Smiling person sitting on a toilet in a cell with peeling green walls and a worn-out floor.
-trg_cap: An umbrella is sitting on a toilet in a cell with peeling green walls and a worn-out floor.
-instruction: Replace the person with a umbrella.
-taskid: 101634

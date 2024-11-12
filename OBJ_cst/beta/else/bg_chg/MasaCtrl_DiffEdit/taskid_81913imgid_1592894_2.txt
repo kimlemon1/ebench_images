@@ -1,5 +1,0 @@
-org_img_id: 1592894_2
-org_cap: For the birthday celebration, I sat at a table surrounded by candles, a slice of cake with bright pink frosting and colorful sprinkles, and a glass of juice, feeling grateful for the special day.
-trg_cap: For the birthday celebration in a grand concert hall, I sat at a table surrounded by candles, a slice of cake with bright pink frosting and colorful sprinkles, and a glass of juice, feeling grateful for the special day.
-instruction: Change the background to concert hall.
-taskid: 81913

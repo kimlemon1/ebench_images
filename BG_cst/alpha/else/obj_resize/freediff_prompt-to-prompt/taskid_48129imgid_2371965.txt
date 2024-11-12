@@ -1,5 +1,0 @@
-org_img_id: 2371965
-org_cap: A black dog is on its hind legs, at a refrigerator filled with snacks and treats.
-trg_cap: A large black dog is on its hind legs, at a refrigerator filled with snacks and treats.
-instruction: Make the dog larger.
-taskid: 48129

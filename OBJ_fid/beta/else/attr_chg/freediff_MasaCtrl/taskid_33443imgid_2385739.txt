@@ -1,5 +1,0 @@
-org_img_id: 2385739
-org_cap: a young person wearing casual clothing, including a t-shirt and shorts, runs in the park, holding a white frisbee, while another person stands nearby, watching him with a relaxed expression.
-trg_cap: a young person wearing casual clothing, including a t-shirt and shorts, runs in the park, holding a red frisbee, while another person stands nearby, watching him with a relaxed expression.
-instruction: Change the color of the frisbee from white to red.
-taskid: 33443

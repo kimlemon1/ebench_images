@@ -1,5 +1,0 @@
-org_img_id: 2396123
-org_cap: Surfing person rides a yellow surfboard through the waves, his muscles as he the surface.
-trg_cap: Surfing person rides a yellow surfboard through the waves, his muscles as he the surface, with a chair on the left side of the surfboard.
-instruction: Add a chair on the left side of the surfboard.
-taskid: 83086

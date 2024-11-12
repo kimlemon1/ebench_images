@@ -1,0 +1,5 @@
+org_img_id: 2391126
+org_cap: The clock tower features a pointed roof with a decorative finial at the top, and a white clock.
+trg_cap: The clock tower features a pointed roof with a decorative finial at the top, and a white clock with a person on it.
+instruction: Add a person on the clock.
+taskid: 49050

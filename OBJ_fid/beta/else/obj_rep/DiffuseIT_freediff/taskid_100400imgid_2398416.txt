@@ -1,5 +1,0 @@
-org_img_id: 2398416
-org_cap: A skateboarder walks by, carrying a yellow skateboard, while a bicycle with a white frame and yellow flowers in its basket rides alongside.
-trg_cap: A microwave walks by, while a bicycle with a white frame and yellow flowers in the basket rides alongside.
-instruction: Replace the skateboard with a microwave.
-taskid: 100400

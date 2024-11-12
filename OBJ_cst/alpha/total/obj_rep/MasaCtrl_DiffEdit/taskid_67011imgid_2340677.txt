@@ -1,5 +1,0 @@
-org_img_id: 2340677
-org_cap: A laptop sits on a table, with a beer glass and a black keyboard in front of it.
-trg_cap: A stop sign sits on a table, with a beer glass in front of the sign.
-instruction: Replace the laptop with a stop sign.
-taskid: 67011

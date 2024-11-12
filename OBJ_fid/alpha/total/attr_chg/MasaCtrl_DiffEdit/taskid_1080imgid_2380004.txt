@@ -1,5 +1,0 @@
-org_img_id: 2380004
-org_cap: person sits at a table, holding a glass of wine and taking a sip as she gazes at a cut pizza in front of her.
-trg_cap: person sits at a table, holding a glass of wine and taking a sip as she gazes at a uncut pizza in front of her.
-instruction: Change the state of the pizza from cut to uncut.
-taskid: 1080

@@ -1,0 +1,5 @@
+org_img_id: 2349634
+org_cap: A single yellow, ripe banana lies on a blue carpet, its yellow, ripe banana glistening in the dim light, the yellow, ripe banana reflecting the surrounding colors.
+trg_cap: A single rotten, ripe banana lies on a blue carpet, its rotten, ripe banana glistening in the dim light, the rotten, ripe banana reflecting the surrounding colors.
+instruction: Change the color of the banana from yellow to rotten.
+taskid: 48621

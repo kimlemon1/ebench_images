@@ -1,5 +1,0 @@
-org_img_id: 2395156
-org_cap: a gray train with a gray freight train behind it, chugging along the tracks on a sunny day.
-trg_cap: a dark blue train with a dark blue freight train behind it, chugging along the tracks on a sunny day.
-instruction: Change the color of the train from gray to dark blue.
-taskid: 52333

@@ -1,5 +1,0 @@
-org_img_id: 2361308
-org_cap: person his racket to hit a forehand shot in a tennis match.
-trg_cap: small person his racket to hit a forehand shot in a tennis match.
-instruction: Make the person smaller.
-taskid: 57901

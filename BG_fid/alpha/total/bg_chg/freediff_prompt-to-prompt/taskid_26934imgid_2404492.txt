@@ -1,5 +1,0 @@
-org_img_id: 2404492
-org_cap: The scene features a wood and iron bench situated under a lamppost, flanked by lush greenery and vibrant flowers, with a charming antique shop and clock tower visible in the background.
-trg_cap: The scene features a wood and iron bench situated under a lamppost, flanked by lush greenery and vibrant flowers, with the entrance to a mysterious cave visible in the background.
-instruction: Change the background to cave.
-taskid: 26934

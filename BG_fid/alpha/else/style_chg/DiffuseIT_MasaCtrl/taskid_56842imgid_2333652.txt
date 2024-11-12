@@ -1,5 +1,0 @@
-org_img_id: 2333652
-org_cap: Person on a motorcycle wearing a camouflage shirt, black gloves, and black boots with green camouflage pants.
-trg_cap: A graffiti art depicts a person on a motorcycle wearing a camouflage shirt, black gloves, black boots, and green camouflage pants.
-instruction: Change the style if the image to graffiti art.
-taskid: 56842

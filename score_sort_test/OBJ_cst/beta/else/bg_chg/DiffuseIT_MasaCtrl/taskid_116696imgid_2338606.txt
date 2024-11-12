@@ -1,0 +1,5 @@
+org_img_id: 2338606
+org_cap: A blue car is parked on the side of the runway, with its lights flashing as it waits for the cargo plane to taxi to a stop behind it.
+trg_cap: A blue car is parked on the side of the runway, with its lights flashing as it waits for the cargo plane to taxi to a stop behind it, against the backdrop of a sprawling grass field.
+instruction: Change the background to grass field.
+taskid: 116696

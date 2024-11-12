@@ -1,0 +1,5 @@
+org_img_id: 2378785
+org_cap: a standing, gray, walking bird with a beak that's slightly crooked and a gaze on the sandy beach.
+trg_cap: a standing, black and white, walking bird with a beak that's slightly crooked and a gaze on the sandy beach.
+instruction: Change the color of the bird from gray to black and white.
+taskid: 6102

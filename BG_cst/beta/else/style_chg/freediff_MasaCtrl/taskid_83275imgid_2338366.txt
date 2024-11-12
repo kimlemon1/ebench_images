@@ -1,5 +1,0 @@
-org_img_id: 2338366
-org_cap: a gray train chugs along the gray train, its wheels clicking and whistling as it moves.
-trg_cap: A pencil sketch art depicts a gray train chugging along the tracks, its wheels clicking and whistling as it moves.
-instruction: Change the style if the image to pencil sketch.
-taskid: 83275

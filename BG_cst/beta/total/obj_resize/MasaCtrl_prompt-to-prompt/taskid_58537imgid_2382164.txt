@@ -1,5 +1,0 @@
-org_img_id: 2382164
-org_cap: The white face glows softly in the night, its numerals and hands illuminated by a warm, golden light, while the surrounding streets are bathed in a soft, moonlit glow.
-trg_cap: The small white face glows softly in the night, its numerals and hands illuminated by a warm, golden light, while the surrounding streets are bathed in a soft, moonlit glow.
-instruction: Make the clock smaller.
-taskid: 58537

@@ -1,0 +1,5 @@
+org_img_id: 2399282
+org_cap: person, dressed in a black snowsuit and goggles, on the snow-covered mountain, her skis across the powdery surface.
+trg_cap: An oil painting depicts a person dressed in a black snowsuit and goggles on a snow-covered mountain, with her skis gliding across the powdery surface.
+instruction: Change the style if the image to oil painting style.
+taskid: 3403

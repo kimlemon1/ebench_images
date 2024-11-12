@@ -1,5 +1,0 @@
-org_img_id: 2352095
-org_cap: a metal train chugging along the tracks with a gentle hum.
-trg_cap: a wood train chugging along the tracks with a gentle hum.
-instruction: Change the material of the train from metal to wood.
-taskid: 18366

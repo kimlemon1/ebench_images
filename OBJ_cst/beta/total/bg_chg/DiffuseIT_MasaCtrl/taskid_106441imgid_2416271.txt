@@ -1,5 +1,0 @@
-org_img_id: 2416271
-org_cap: a person holds a green frisbee with a circular logo in the center, his bare chest and stomach visible as he stands among a crowd of people gathered around a water slide.
-trg_cap: A person holds a green frisbee with a circular logo in the center, his bare chest and stomach visible as he stands among a crowd of people gathered around a water slide by the lakeside.
-instruction: Change the background to lake side.
-taskid: 106441

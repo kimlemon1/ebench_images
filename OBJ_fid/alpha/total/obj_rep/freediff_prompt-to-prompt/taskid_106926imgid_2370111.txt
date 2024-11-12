@@ -1,5 +1,0 @@
-org_img_id: 2370111
-org_cap: The clock face is a black clock with roman numerals and ornate details, set against a warm, earthy brown background.
-trg_cap: The toothbrush is set against a warm, earthy brown background.
-instruction: Replace the clock with a toothbrush.
-taskid: 106926

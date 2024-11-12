@@ -1,5 +1,0 @@
-org_img_id: 2337618
-org_cap: person in a blue jacket and snow pants down the snow-covered slope, his skis a trail of powder in his wake.
-trg_cap: A grey scale photo shows a person in a blue jacket and snow pants skiing down a snow-covered slope, leaving a trail of powder in their wake.
-instruction: Change the style if the image to grey scale.
-taskid: 86332

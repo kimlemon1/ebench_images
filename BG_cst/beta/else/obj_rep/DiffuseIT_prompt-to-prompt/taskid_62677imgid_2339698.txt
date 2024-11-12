@@ -1,5 +1,0 @@
-org_img_id: 2339698
-org_cap: a person sits on a motorcycle, with a dog behind them, wearing a helmet, and crossing a crosswalk as traffic flows around them.
-trg_cap: A person sits on a motorcycle, with a backpack, and crossing a crosswalk as traffic flows around him or her.
-instruction: Replace the dog with a backpack.
-taskid: 62677

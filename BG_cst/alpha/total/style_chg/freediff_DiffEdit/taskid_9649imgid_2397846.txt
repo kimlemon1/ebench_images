@@ -1,5 +1,0 @@
-org_img_id: 2397846
-org_cap: A young person sits on a stone bench, a hat and a shirt, with a dry and dusty landscape stretching out behind them.
-trg_cap: A pencil sketch art depicts a young person wearing a hat and a shirt sitting on a stone bench, with a dry and dusty landscape stretching out behind them.
-instruction: Change the style if the image to pencil sketch.
-taskid: 9649

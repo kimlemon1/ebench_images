@@ -1,5 +1,0 @@
-org_img_id: 713198
-org_cap: The couch is a red couch with a warm, golden color.
-trg_cap: The couch is a red couch with a warm, golden color, and the cat is in front of the couch.
-instruction: Add a cat in front of the couch.
-taskid: 99654

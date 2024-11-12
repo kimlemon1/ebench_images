@@ -1,5 +1,0 @@
-org_img_id: 2395726
-org_cap: person carves through the fresh powder on his white snowboard, his bright orange jacket and bright red hat a splash of color against the winter wonderland.
-trg_cap: In the living room, a person carves through the fresh powder on his white snowboard, his bright orange jacket and bright red hat a splash of color against the winter wonderland.
-instruction: Change the background to living room.
-taskid: 63974

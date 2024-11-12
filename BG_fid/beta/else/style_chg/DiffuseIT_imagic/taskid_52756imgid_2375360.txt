@@ -1,5 +1,0 @@
-org_img_id: 2375360
-org_cap: a walking person down a misty mountain trail.
-trg_cap: A Van Gogh style art depicts a walking person down a misty mountain trail.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 52756

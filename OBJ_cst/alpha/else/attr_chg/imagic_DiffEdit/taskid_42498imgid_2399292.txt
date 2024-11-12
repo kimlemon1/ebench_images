@@ -1,5 +1,0 @@
-org_img_id: 2399292
-org_cap: A lone person sits on a brown bench, surrounded by flooded boats and trees, with a gray sky looming in the background.
-trg_cap: A lone person sits on a white bench, surrounded by flooded boats and trees, with a gray sky looming in the background.
-instruction: Change the color of the bench from brown to white.
-taskid: 42498

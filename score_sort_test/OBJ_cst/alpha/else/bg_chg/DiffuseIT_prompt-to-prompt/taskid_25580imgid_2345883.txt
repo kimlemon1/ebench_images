@@ -1,0 +1,5 @@
+org_img_id: 2345883
+org_cap: A person in a gray uniform sprays water onto the floor of a dirty garage, creating a misty atmosphere.
+trg_cap: A person in a gray uniform sprays water onto the floor of a dirty garage near the lakeside, creating a misty atmosphere.
+instruction: Change the background to lake side.
+taskid: 25580

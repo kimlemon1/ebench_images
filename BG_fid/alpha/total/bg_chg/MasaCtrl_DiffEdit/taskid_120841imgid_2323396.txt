@@ -1,5 +1,0 @@
-org_img_id: 2323396
-org_cap: a skateboarder in his mid-30s, wearing a black t-shirt and jeans, rides a skateboard with bright orange wheels, balancing on one foot while the other foot is on the skateboard.
-trg_cap: In the background of a bustling aquarium, a skateboarder in his mid-30s, wearing a black t-shirt and jeans, rides a skateboard with bright orange wheels, balancing on one foot while the other foot is on the skateboard.
-instruction: Change the background to aquarium.
-taskid: 120841

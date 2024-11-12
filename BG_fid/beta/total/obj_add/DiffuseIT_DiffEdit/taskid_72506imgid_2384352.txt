@@ -1,5 +1,0 @@
-org_img_id: 2384352
-org_cap: a white plate holds a colorful salad of red apple, crunchy walnuts, and shredded celery, topped with a dollop of creamy mayonnaise and garnished with a black spatula.
-trg_cap: A white plate holds a colorful salad of a donut in front of a red apple, crunchy walnuts, and shredded celery, topped with a dollop of creamy mayonnaise and garnished with a black spatula.
-instruction: Add a donut in front of the apple.
-taskid: 72506

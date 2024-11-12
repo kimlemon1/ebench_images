@@ -1,5 +1,0 @@
-org_img_id: 2391086
-org_cap: a yellow container holds a triangular sandwich with crusty bread, sliced cheese, and a few grapes, accompanied by a small glass jar containing a tomato soup, and a basket with a few slices of sandwich, a hard-boiled egg, and a handful of olives.
-trg_cap: A yellow container holds a triangular boat, a few grapes, accompanied by a small glass jar containing some tomato soup, and a basket with a few slices of bread, a hard-boiled egg, and a handful of olives.
-instruction: Replace the sandwich with a boat.
-taskid: 51515

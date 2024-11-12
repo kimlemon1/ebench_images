@@ -1,5 +1,0 @@
-org_img_id: 2379352
-org_cap: a white horse with a wooden carriage and a rider wearing a traditional hat and clothing at a street corner, surrounded by colorful colonial architecture and a yellow building in the background.
-trg_cap: a brown horse with a wooden carriage and a rider wearing a traditional hat and clothing at a street corner, surrounded by colorful colonial architecture and a yellow building in the background.
-instruction: Change the color of the horse from white to brown.
-taskid: 1212

@@ -1,5 +1,0 @@
-org_img_id: 2317745
-org_cap: The scene is a small, modern living room with a white chair and a minimalist desk in the center, surrounded by a beige carpet and a plain white wall.
-trg_cap: The scene is a small, modern living room with a blue chair and a minimalist desk in the center, surrounded by a beige carpet and a plain blue wall.
-instruction: Change the color of the chair from white to blue.
-taskid: 6377

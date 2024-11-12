@@ -1,5 +1,0 @@
-org_img_id: 2376197
-org_cap: Person, wearing a black helmet and a protective gear, sits astride a motorcycle on the edge of a circular trampoline, his legs and feet on the pedals, his eyes on the horizon.
-trg_cap: Broccoli sits astride a motorcycle on the edge of a circular trampoline.
-instruction: Replace the person with a broccoli.
-taskid: 96007

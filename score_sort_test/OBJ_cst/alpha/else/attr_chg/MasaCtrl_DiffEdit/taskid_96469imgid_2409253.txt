@@ -1,0 +1,5 @@
+org_img_id: 2409253
+org_cap: A brown horse stands in the center of a circular arena, her coat glistening in the light, her legs strong and muscular, her mane and tail in the breeze.
+trg_cap: A yellow horse stands in the center of a circular arena, her coat glistening in the light, her legs strong and muscular, her mane and tail in the breeze.
+instruction: Change the color of the horse from brown to yellow.
+taskid: 96469

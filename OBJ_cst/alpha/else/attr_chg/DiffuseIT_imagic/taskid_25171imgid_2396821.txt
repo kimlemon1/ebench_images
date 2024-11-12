@@ -1,5 +1,0 @@
-org_img_id: 2396821
-org_cap: a black walking horse, its hooves leaving gentle prints in the fresh powder, while a rider in a bright green jacket and matching hat sits astride the horse, holding the reins and wearing a gentle smile.
-trg_cap: a chocolate walking horse, its hooves leaving gentle prints in the fresh powder, while a rider in a bright green jacket and matching hat sits astride the horse, holding the reins and wearing a gentle smile.
-instruction: Change the color of the horse from black to chocolate.
-taskid: 25171

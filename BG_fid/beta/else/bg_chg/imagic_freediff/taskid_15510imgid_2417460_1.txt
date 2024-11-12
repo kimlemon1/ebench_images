@@ -1,5 +1,0 @@
-org_img_id: 2417460_1
-org_cap: The skateboard is a black skateboard with a rusty metal wheel and a worn-out grip tape.
-trg_cap: In the stadium, the skateboard is a black skateboard with a rusty metal wheel and a worn-out grip tape.
-instruction: Change the background to stadium.
-taskid: 15510

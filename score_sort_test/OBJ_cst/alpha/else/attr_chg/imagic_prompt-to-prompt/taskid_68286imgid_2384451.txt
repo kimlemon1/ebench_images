@@ -1,0 +1,5 @@
+org_img_id: 2384451
+org_cap: A black giraffe stands tall, its standing fur, with a distinctive dark stripe running along its back.
+trg_cap: A patterned giraffe stands tall, its standing fur, with a distinctive dark stripe running along its back.
+instruction: Change the color of the giraffe from black to patterned.
+taskid: 68286

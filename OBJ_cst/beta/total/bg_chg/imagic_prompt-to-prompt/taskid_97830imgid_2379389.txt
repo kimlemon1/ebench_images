@@ -1,5 +1,0 @@
-org_img_id: 2379389
-org_cap: A colorful yellow kite soars above the turbulent waves, its kite flapping wildly as it rides the gusts of wind.
-trg_cap: A colorful yellow kite soars above the turbulent waves, its kite flapping wildly as it rides the gusts of wind, while in the distance, the rolling hills of the countryside farm stretch out under a clear blue sky.
-instruction: Change the background to country side farm.
-taskid: 97830

@@ -1,5 +1,0 @@
-org_img_id: 2325747
-org_cap: a young person in a green and white snowboarding outfit, wearing a green hat and goggles, with a determined expression on their face.
-trg_cap: An ancient Egyptian-style artwork features a young person in a green and white snowboarding outfit, wearing a green hat and goggles, with a determined expression on their face.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 90720

@@ -1,5 +1,0 @@
-org_img_id: 2373491
-org_cap: person, wearing a grey t-shirt and jeans, his skateboard as he.
-trg_cap: In the desert, the person, wearing a grey t-shirt and jeans, his skateboard as he.
-instruction: Change the background to desert.
-taskid: 36855

@@ -1,5 +1,0 @@
-org_img_id: 2408836
-org_cap: a lone rider on a walking horse along the stormy beach, the wind whipping his hair back as the rain lashes down around him.
-trg_cap: A lone rider on a walking horse along the stormy beach, the wind whipping his hair back as the rain lashes down around him, is depicted in a painting hanging in the living room.
-instruction: Change the background to living room.
-taskid: 89779

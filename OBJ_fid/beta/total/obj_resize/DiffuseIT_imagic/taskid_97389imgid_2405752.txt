@@ -1,5 +1,0 @@
-org_img_id: 2405752
-org_cap: The eating person sat at the table with a plate of food in front of them, including slices of meat and vegetables.
-trg_cap: The large eating person sat at the table with a plate of food in front of them, including slices of meat and vegetables.
-instruction: Make the person larger.
-taskid: 97389

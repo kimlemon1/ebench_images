@@ -1,5 +1,0 @@
-org_img_id: 2380604
-org_cap: A brown dog on the floor in front of a white toilet, surrounded by the clean lines and surfaces of a modern bathroom.
-trg_cap: A brown dog on the floor in front of a white toilet, with a truck in front of the dog, surrounded by the clean lines and surfaces of a modern bathroom.
-instruction: Add a truck in front of the dog.
-taskid: 60258

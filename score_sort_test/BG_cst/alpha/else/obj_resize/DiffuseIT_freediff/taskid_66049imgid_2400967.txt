@@ -1,0 +1,5 @@
+org_img_id: 2400967
+org_cap: a person stands in front of an open oven, holding a baking sheet with freshly baked bagels.
+trg_cap: a person stands in front of a small open oven, holding a baking sheet with freshly baked bagels.
+instruction: Make the oven smaller.
+taskid: 66049

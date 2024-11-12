@@ -1,5 +1,0 @@
-org_img_id: 2362164
-org_cap: a small child holds a white frisbee in their chubby little hands, the white frisbee spinning in the warm sunlight.
-trg_cap: A small child holds a white frisbee in their chubby little hands, the white frisbee spinning in the warm sunlight, as planes take off and land in the distance at the bustling airport.
-instruction: Change the background to airport.
-taskid: 81011

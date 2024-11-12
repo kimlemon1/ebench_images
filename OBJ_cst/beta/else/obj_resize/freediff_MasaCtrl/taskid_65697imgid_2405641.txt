@@ -1,5 +1,0 @@
-org_img_id: 2405641
-org_cap: a small wooden boat with a worn wooden boat and a patchwork of colorful fabrics and belongings tied to its deck, carrying a person and a small child.
-trg_cap: a small wooden boat, approximately 10 feet long, with a worn wooden boat and a patchwork of colorful fabrics and belongings tied to its deck, carrying a person and a small child.
-instruction: Make the boat smaller.
-taskid: 65697

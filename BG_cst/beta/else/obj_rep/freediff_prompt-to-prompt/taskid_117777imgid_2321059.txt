@@ -1,5 +1,0 @@
-org_img_id: 2321059
-org_cap: A black, wet dog lies on a wooden picnic table, its fur with water and its paws, with a relaxed expression on its face.
-trg_cap: A baseball bat lies on a wooden picnic table.
-instruction: Replace the dog with a baseball bat.
-taskid: 117777

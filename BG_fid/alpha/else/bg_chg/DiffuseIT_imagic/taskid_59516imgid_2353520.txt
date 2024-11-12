@@ -1,5 +1,0 @@
-org_img_id: 2353520
-org_cap: a person in his mid-twenties, wearing a white t-shirt and faded blue jeans, the skateboard looming in the background.
-trg_cap: a person in his mid-twenties, wearing a white t-shirt and faded blue jeans, the skateboard looming in the background against a snow field.
-instruction: Change the background to snow field.
-taskid: 59516

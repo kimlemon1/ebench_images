@@ -1,0 +1,5 @@
+org_img_id: 2371197
+org_cap: a person wears a gray vest over a white dress shirt, with a blue necktie and a patterned gray vest.
+trg_cap: a person wears a gray vest over a white dress shirt, with a green necktie and a patterned gray vest.
+instruction: Change the color of the tie from blue to green.
+taskid: 29819

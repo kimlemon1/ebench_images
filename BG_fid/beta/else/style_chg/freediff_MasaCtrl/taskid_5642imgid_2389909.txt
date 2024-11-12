@@ -1,5 +1,0 @@
-org_img_id: 2389909
-org_cap: a skateboarder's foot is planted firmly on the top step of a stone staircase, with the skateboard's wheels spinning wildly as he jumps and lands on the next step below.
-trg_cap: The pop art style artwork depicts a skateboarder's foot planted firmly on the top step of a stone staircase, with the skateboard's wheels spinning wildly as he jumps and lands on the next step below.
-instruction: Change the style if the image to pop art style.
-taskid: 5642

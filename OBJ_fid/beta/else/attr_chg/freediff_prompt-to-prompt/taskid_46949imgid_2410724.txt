@@ -1,5 +1,0 @@
-org_img_id: 2410724
-org_cap: a red truck and a black car are parked alongside a row of colorful food trucks, with a glass skyscraper looming in the background.
-trg_cap: a red truck and a navy car are parked alongside a row of colorful food trucks, with a glass skyscraper looming in the background.
-instruction: Change the color of the car from black to navy.
-taskid: 46949

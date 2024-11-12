@@ -1,5 +1,0 @@
-org_img_id: 2328461
-org_cap: a black dog with an orange frisbee down a grassy path.
-trg_cap: a black dog with an orange frisbee down a grassy path, with a person in front of the frisbee.
-instruction: Add a person in front of the frisbee.
-taskid: 86372

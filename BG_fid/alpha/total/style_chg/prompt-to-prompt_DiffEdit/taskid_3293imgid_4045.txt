@@ -1,5 +1,0 @@
-org_img_id: 4045
-org_cap: The sink is a white, ceramic, porcelain sink with a single faucet handle and a small, rectangular mirror above it, surrounded by blue, ceramic tiles.
-trg_cap: The art, in a watercolor painting style, features a white, ceramic porcelain sink with a single faucet handle and a small rectangular mirror above it, surrounded by blue ceramic tiles.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 3293

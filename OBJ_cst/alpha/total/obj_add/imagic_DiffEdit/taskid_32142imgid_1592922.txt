@@ -1,5 +1,0 @@
-org_img_id: 1592922
-org_cap: Cat on the couch, surrounded by three people in white socks, each holding a video game controller.
-trg_cap: Cat on the couch, with a suitcase on it, surrounded by three people in white socks, each holding a video game controller.
-instruction: Add a suitcase on the cat.
-taskid: 32142

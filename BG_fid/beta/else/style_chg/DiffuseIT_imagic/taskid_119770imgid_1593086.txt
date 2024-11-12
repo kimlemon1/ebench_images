@@ -1,5 +1,0 @@
-org_img_id: 1593086
-org_cap: Person, wearing a bright blue snowboard suit and a yellow helmet, off a snowboard ramp, his snowboard out from under his feet as he on the snow.
-trg_cap: An oil painting style artwork depicts a person wearing a bright blue snowboard suit and a yellow helmet, launching off a snowboard ramp with his snowboard out from under his feet as he lands on the snow.
-instruction: Change the style if the image to oil painting style.
-taskid: 119770

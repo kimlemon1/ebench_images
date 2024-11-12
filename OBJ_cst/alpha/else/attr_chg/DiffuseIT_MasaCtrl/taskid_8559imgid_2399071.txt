@@ -1,5 +1,0 @@
-org_img_id: 2399071
-org_cap: a black bicycle, leaning against a palm tree.
-trg_cap: a red bicycle, leaning against a palm tree.
-instruction: Change the color of the bicycle from black to red.
-taskid: 8559

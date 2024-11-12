@@ -1,5 +1,0 @@
-org_img_id: 2407415
-org_cap: The blue bus is, with, and has a distinctive curved front and rear ends.
-trg_cap: The tan bus is, with, and has a distinctive curved front and rear ends.
-instruction: Change the color of the bus from blue to tan.
-taskid: 112720

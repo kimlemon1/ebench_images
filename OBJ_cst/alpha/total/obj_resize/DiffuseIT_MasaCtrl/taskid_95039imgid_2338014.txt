@@ -1,5 +1,0 @@
-org_img_id: 2338014
-org_cap: a white car is parked in front of a grey wall with a large, orange bicycle wheel and handlebars painted on it, with a bold, black outline and a smaller, white bicycle seat in the center.
-trg_cap: a large, white car is parked in front of a grey wall with a large, orange bicycle wheel and handlebars painted on it, with a bold, black outline and a smaller, white bicycle seat in the center.
-instruction: Make the car larger.
-taskid: 95039

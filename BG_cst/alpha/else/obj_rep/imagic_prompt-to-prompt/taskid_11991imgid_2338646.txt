@@ -1,5 +1,0 @@
-org_img_id: 2338646
-org_cap: a class 37 train hauling a freight train along the train tracks.
-trg_cap: A Class 37 hauls a freight along the zebra.
-instruction: Replace the train with a zebra.
-taskid: 11991

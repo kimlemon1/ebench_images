@@ -1,5 +1,0 @@
-org_img_id: 2415932
-org_cap: Person, wearing an orange wetsuit, his hands grasping the base of the windsurfer.
-trg_cap: Small person, wearing an orange wetsuit, his hands grasping the base of the windsurfer.
-instruction: Make the person smaller.
-taskid: 117640

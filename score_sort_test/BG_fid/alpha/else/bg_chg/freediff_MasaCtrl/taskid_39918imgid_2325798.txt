@@ -1,0 +1,5 @@
+org_img_id: 2325798
+org_cap: person wears a striped shirt and has a subtle smile on his face.
+trg_cap: Person wears a striped shirt and has a subtle smile on his face, standing in front of a pine forest.
+instruction: Change the background to pine forest.
+taskid: 39918

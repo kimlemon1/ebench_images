@@ -1,5 +1,0 @@
-org_img_id: 2417130
-org_cap: Person is on his skateboard, his knees bent and his arms outstretched.
-trg_cap: The small person is on his skateboard, his knees bent and his arms outstretched.
-instruction: Make the person smaller.
-taskid: 96507

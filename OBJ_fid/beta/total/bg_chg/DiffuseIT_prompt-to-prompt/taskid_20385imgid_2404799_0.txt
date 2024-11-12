@@ -1,5 +1,0 @@
-org_img_id: 2404799_0
-org_cap: a standing brown horse with a rider wearing red leg wraps and sitting in the saddle, with a calm and focused expression.
-trg_cap: A standing brown horse with a rider wearing red leg wraps and sitting in the saddle, with a calm and focused expression, is set against the backdrop of a cave.
-instruction: Change the background to cave.
-taskid: 20385

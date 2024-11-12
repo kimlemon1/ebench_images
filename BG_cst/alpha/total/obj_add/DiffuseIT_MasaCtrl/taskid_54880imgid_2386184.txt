@@ -1,5 +1,0 @@
-org_img_id: 2386184
-org_cap: a lone person on a chrome, green motorcycle the winding mountain road, the wind through their hair as they a sharp turn.
-trg_cap: a lone person on a chrome, green motorcycle with a banana on the left side the winding mountain road, the wind through their hair as they a sharp turn.
-instruction: Add a banana on the left side of the motorcycle.
-taskid: 54880

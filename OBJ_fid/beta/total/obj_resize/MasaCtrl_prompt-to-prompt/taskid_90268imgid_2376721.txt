@@ -1,5 +1,0 @@
-org_img_id: 2376721
-org_cap: a young woman with curly brown hair and glasses, wearing a beige sweater and a blue scarf, sits on a bench, holding a red bowl and eating a brown chocolate glazed donut.
-trg_cap: a young woman with curly brown hair and glasses, wearing a beige sweater and a blue scarf, sits on a bench, holding a red bowl and eating a small brown chocolate glazed donut.
-instruction: Make the donut smaller.
-taskid: 90268

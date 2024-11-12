@@ -1,5 +1,0 @@
-org_img_id: 2332881
-org_cap: Person, wearing a red rash guard and blue wetsuit, surfs the waves, his board splashing water and foam.
-trg_cap: Person, wearing a red rash guard and blue wetsuit, surfs the waves, his board splashing water and foam, as if riding through an exhibit in a museum dedicated to the art of surfing.
-instruction: Change the background to museum.
-taskid: 95468

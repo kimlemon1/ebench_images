@@ -1,5 +1,0 @@
-org_img_id: 2349514
-org_cap: A person blows out candles on a red cake, surrounded by a table setting with plates, forks, and glasses.
-trg_cap: A person blows out candles on a cream colored cake, surrounded by a table setting with plates, forks, and glasses.
-instruction: Change the color of the cake from red to cream colored.
-taskid: 27687

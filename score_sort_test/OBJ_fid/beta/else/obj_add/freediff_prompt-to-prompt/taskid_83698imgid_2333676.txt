@@ -1,0 +1,5 @@
+org_img_id: 2333676
+org_cap: hot dog.
+trg_cap: hot dog. Cup is behind the hot dog.
+instruction: Add a cup behind the hot dog.
+taskid: 83698

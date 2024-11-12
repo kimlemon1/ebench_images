@@ -1,5 +1,0 @@
-org_img_id: 2366640
-org_cap: a pink-clad dog, wearing a matching pink life jacket, rides a surfboard, its fur flapping in the wind.
-trg_cap: a large, pink-clad dog, wearing a matching pink life jacket, rides a surfboard, its fur flapping in the wind.
-instruction: Make the dog larger.
-taskid: 74182

@@ -1,5 +1,0 @@
-org_img_id: 2341762
-org_cap: a young person with a white bat in hand.
-trg_cap: a young person with a gold bat in hand.
-instruction: Change the color of the baseball bat from white to gold.
-taskid: 104019

@@ -1,5 +1,0 @@
-org_img_id: 2326560
-org_cap: a small boy with a striped shirt and a messy mop of hair reaches out to grab a slice of pizza from a red plate, his chubby fingers closing around the pizza edge.
-trg_cap: A small boy with a striped shirt and a messy mop of hair reaches out to grab a slice of pizza from a red plate, his chubby fingers closing around the pizza edge, with a bottle sitting next to the pizza.
-instruction: Add a bottle next to the pizza.
-taskid: 74518

@@ -1,5 +1,0 @@
-org_img_id: 2343092
-org_cap: young person skateboarding rides a skateboard, the sun casting a warm glow over the pavement and the trees rustling in the gentle breeze.
-trg_cap: young person skateboarding rides a skateboard, the dim light casting shadows over the cave walls and the echoes of dripping water resonating in the cool air.
-instruction: Change the background to cave.
-taskid: 28979

@@ -1,5 +1,0 @@
-org_img_id: 2315842
-org_cap: The ornate clock tower stands tall, its intricate carvings and gilded details gleaming in the soft light, with the clock at its center, featuring the iconic image of monarch.
-trg_cap: A Van Gogh style art piece features an ornate clock tower standing tall, its intricate carvings and gilded details gleaming in the soft light, with the clock at its center showcasing the iconic image of a monarch.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 68359

@@ -1,5 +1,0 @@
-org_img_id: 2405313
-org_cap: A brown teddy bear perches on a branch of a maple tree, surrounded by lush green leaves and a misty morning atmosphere.
-trg_cap: A graffiti art piece features a brown teddy bear perched on a branch of a maple tree, surrounded by lush green leaves and a misty morning atmosphere.
-instruction: Change the style if the image to graffiti art.
-taskid: 6992

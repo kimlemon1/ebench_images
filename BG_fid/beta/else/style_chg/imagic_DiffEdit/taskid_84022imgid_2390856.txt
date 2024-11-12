@@ -1,5 +1,0 @@
-org_img_id: 2390856
-org_cap: The white boat glides effortlessly across the turquoise waters, with person at the helm, the wind through their hair as they navigate the white boat.
-trg_cap: The pop art style artwork depicts a white boat gliding effortlessly across turquoise waters, with a person at the helm, the wind through their hair as they navigate.
-instruction: Change the style if the image to pop art style.
-taskid: 84022

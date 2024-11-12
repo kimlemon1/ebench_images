@@ -1,5 +1,0 @@
-org_img_id: 2323190
-org_cap: a small person in a bright yellow shirt and blue jeans, his eyes on a colorful kite soaring above him.
-trg_cap: A grey scale photo features a small person in a bright yellow shirt and blue jeans, his eyes on a colorful kite soaring above him.
-instruction: Change the style if the image to grey scale.
-taskid: 118189

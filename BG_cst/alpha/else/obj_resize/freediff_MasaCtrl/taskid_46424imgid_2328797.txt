@@ -1,5 +1,0 @@
-org_img_id: 2328797
-org_cap: a middle-aged woman sits on an old wood bench, wearing a blue raincoat and holding a small umbrella, with a row of parked cars behind her and a patch of grass in front.
-trg_cap: a middle-aged woman sits on a large old wood bench, wearing a blue raincoat and holding a small umbrella, with a row of parked cars behind her and a patch of grass in front.
-instruction: Make the bench larger.
-taskid: 46424

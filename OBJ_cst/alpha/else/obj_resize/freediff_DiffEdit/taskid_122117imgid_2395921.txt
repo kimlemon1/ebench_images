@@ -1,5 +1,0 @@
-org_img_id: 2395921
-org_cap: "hand grasped the tennis racket, fingers around the handle as the playing person his arm to generate power and precision in his shot."
-trg_cap: A large hand grasped the tennis racket, fingers around the handle as the large playing person his large arm to generate power and precision in his shot.
-instruction: Make the person larger.
-taskid: 122117

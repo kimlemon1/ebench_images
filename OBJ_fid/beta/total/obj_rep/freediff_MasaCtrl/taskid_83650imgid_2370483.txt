@@ -1,5 +1,0 @@
-org_img_id: 2370483
-org_cap: the tv is a flat screen with a wooden frame, sitting on a coffee table in front of a bookshelf filled with dvds and cds.
-trg_cap: The bench is sitting on a coffee table in front of a bookshelf filled with DVDs and CDs.
-instruction: Replace the tv with a bench.
-taskid: 83650

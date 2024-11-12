@@ -1,0 +1,5 @@
+org_img_id: 2356157
+org_cap: A gray tabby cat is on the edge of a flat screen television, its front paws in mid-air.
+trg_cap: A tabby tabby cat is on the edge of a flat screen television, its front paws in mid-air.
+instruction: Change the color of the cat from gray to tabby.
+taskid: 55345

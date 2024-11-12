@@ -1,5 +1,0 @@
-org_img_id: 2396817
-org_cap: a woman holds a yellow umbrella above her head, its curved edge dripping with rainwater as she stands in the middle of a rain-soaked street.
-trg_cap: A woman holds a yellow couch above her head as she stands in the middle of a rain-soaked street.
-instruction: Replace the umbrella with a couch.
-taskid: 108426

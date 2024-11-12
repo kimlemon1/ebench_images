@@ -1,5 +1,0 @@
-org_img_id: 3826
-org_cap: a yellow fire hydrant sits alone on the grassy median of a city street, surrounded by freshly cut green grass and a few scattered leaves.
-trg_cap: The cartoon-style art depicts a yellow fire hydrant sitting alone on the grassy median of a city street, surrounded by freshly cut green grass and a few scattered leaves.
-instruction: Change the style if the image to cartoon style.
-taskid: 120357

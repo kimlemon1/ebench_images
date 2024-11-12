@@ -1,5 +1,0 @@
-org_img_id: 1051
-org_cap: the sleek, modern bar features a minimalist design with a long, curved counter and a row of stools, illuminated by a subtle led lighting system, with a single red vase perched on the edge, adding a touch of sophistication to the space.
-trg_cap: the sleek, modern bar features a minimalist design with a long, curved counter and a row of stools, illuminated by a subtle led lighting system, with a single blue vase perched on the edge, adding a touch of sophistication to the space.
-instruction: Change the color of the vase from red to blue.
-taskid: 36023

@@ -1,0 +1,5 @@
+org_img_id: 2375384
+org_cap: The clock tower features a striking yellow finial atop its stone facade, with intricate stone carvings and ornate details adorning its walls.
+trg_cap: The clock tower features a striking yellow finial atop its stone facade, with intricate stone carvings and ornate details adorning its walls, and a book located behind the clock.
+instruction: Add a book behind the clock.
+taskid: 77839

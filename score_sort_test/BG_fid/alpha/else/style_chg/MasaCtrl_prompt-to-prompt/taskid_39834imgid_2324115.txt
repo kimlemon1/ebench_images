@@ -1,0 +1,5 @@
+org_img_id: 2324115
+org_cap: a lone person sits on a worn wooden bench, its brown slats weathered to a soft patina, with a subtle curve to its backrest and a flat bench that seems to sag slightly under the weight of their presence.
+trg_cap: The art, in a watercolor painting style, depicts a lone person sitting on a worn wooden bench, its brown slats weathered to a soft patina, with a subtle curve to its backrest and a flat seat that seems to sag slightly under the weight of their presence.
+instruction: Change the style if the image to watercolor painting style.
+taskid: 39834

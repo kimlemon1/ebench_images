@@ -1,5 +1,0 @@
-org_img_id: 2401357
-org_cap: a woman in her 20s, wearing jeans and a casual top, stands in a living room with a tv on the wall, holding a video game controller and dancing to a virtual boxing match on the tv on.
-trg_cap: a woman in her 20s, wearing jeans and a casual top, stands in a living room with a tv off the wall, holding a video game cofftroller and dancing to a virtual boxing match off the tv off.
-instruction: Change the state of the tv from on to off.
-taskid: 94400

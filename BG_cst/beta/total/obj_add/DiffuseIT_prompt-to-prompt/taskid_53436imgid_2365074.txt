@@ -1,5 +1,0 @@
-org_img_id: 2365074
-org_cap: "a person with a ruggedly handsome face and a messy mop of dark hair, clad in a worn-out rash guard and board shorts, on a surfboard, his muscles beneath his skin."
-trg_cap: a person with a ruggedly handsome face and a messy mop of dark hair, clad in a worn-out rash guard and board shorts, on a surfboard, with a vase in front of him, his muscles beneath his skin.
-instruction: Add a vase in front of the person.
-taskid: 53436

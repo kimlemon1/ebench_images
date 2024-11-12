@@ -1,5 +1,0 @@
-org_img_id: 760
-org_cap: A white car is parked on the side of a narrow, cobblestone street lined with colorful flags and banners, with a few pedestrians walking by, including a couple holding hands and smiling.
-trg_cap: A white car is parked on the side of a narrow, cobblestone street lined with colorful flags and banners, with a few pedestrians walking by, including a couple holding hands and smiling, all set against the backdrop of a serene lakeside.
-instruction: Change the background to lake side.
-taskid: 37036

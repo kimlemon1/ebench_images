@@ -1,5 +1,0 @@
-org_img_id: 2410518
-org_cap: brunette person surfing on his wet surfboard, his muscles beneath his skin as he the curl.
-trg_cap: brunette person surfing on his wet surfboard, his muscles beneath his skin as he the curl, reminiscent of the strength and resilience often seen in the dedicated staff of a bustling hospital.
-instruction: Change the background to hospital.
-taskid: 45417

@@ -1,5 +1,0 @@
-org_img_id: 2345391
-org_cap: the orange cat in a red bag, its bright eyes fixed on something outside.
-trg_cap: the dining table, its bright surface reflecting something outside.
-instruction: Replace the cat with a dining table.
-taskid: 110265

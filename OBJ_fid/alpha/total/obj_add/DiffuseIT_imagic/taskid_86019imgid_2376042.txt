@@ -1,5 +1,0 @@
-org_img_id: 2376042
-org_cap: The sink is a white sink with a chrome faucet and a small shelf above it.
-trg_cap: The sink is a white sink with a chrome faucet and a small shelf above it, with a toothbrush on the sink.
-instruction: Add a toothbrush on the sink.
-taskid: 86019

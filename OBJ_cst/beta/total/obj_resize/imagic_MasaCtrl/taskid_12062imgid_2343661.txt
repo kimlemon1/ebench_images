@@ -1,5 +1,0 @@
-org_img_id: 2343661
-org_cap: Surfing person rides the blue surfboard, her arms and legs.
-trg_cap: Surfing person rides the small blue surfboard, her arms and legs.
-instruction: Make the surfboard smaller.
-taskid: 12062

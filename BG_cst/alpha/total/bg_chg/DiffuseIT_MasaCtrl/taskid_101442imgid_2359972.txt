@@ -1,5 +1,0 @@
-org_img_id: 2359972
-org_cap: A giraffe stands in a grassy enclosure, its neck and legs visible, its fur blending with the surroundings, eating.
-trg_cap: A giraffe stands in a grassy enclosure, its neck and legs visible, its fur blending with the surroundings, eating, while a gym can be seen in the background.
-instruction: Change the background to gym.
-taskid: 101442

@@ -1,5 +1,0 @@
-org_img_id: 2406460
-org_cap: a person reaches for a bowl filled with fruit salad and drinks at a bowl with a bowl and a few snacks.
-trg_cap: a person reaches for a bowl filled with fruit salad and drinks at a bowl with a bowl and a few snacks, with a banana next to the bowl.
-instruction: Add a banana next to the bowl.
-taskid: 110052

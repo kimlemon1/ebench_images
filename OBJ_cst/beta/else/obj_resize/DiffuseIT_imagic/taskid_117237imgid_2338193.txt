@@ -1,5 +1,0 @@
-org_img_id: 2338193
-org_cap: a blond person, a white surfboard, his red rash guard and white surfboard with sea spray as he a turn.
-trg_cap: a large blond person, a white surfboard, his red rash guard and white surfboard with sea spray as he a turn.
-instruction: Make the person larger.
-taskid: 117237

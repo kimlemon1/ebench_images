@@ -1,5 +1,0 @@
-org_img_id: 2380042
-org_cap: The scene features a vintage-inspired living room with a red plastic chair, a wooden tv stand holding a black tv, and a few decorative items like a vintage-style lamp and some colorful throw pillows.
-trg_cap: The scene features a vintage-inspired living room with a small red plastic chair, a wooden tv stand holding a black tv, and a few decorative items like a vintage-style lamp and some colorful throw pillows.
-instruction: Make the chair smaller.
-taskid: 33324

@@ -1,5 +1,0 @@
-org_img_id: 2361287
-org_cap: a small child sits on a kitchen counter, holding a bunch of ripe, yellow bananas with both hands, her tiny legs dangling in the air.
-trg_cap: An ancient Egyptian-style artwork depicts a small child sitting on a kitchen counter, holding a bunch of ripe, yellow bananas with both hands, her tiny legs dangling in the air.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 88290

@@ -1,5 +1,0 @@
-org_img_id: 2406796
-org_cap: the bed in the bedroom features a wooden headboard with a subtle curve, adorned with a vintage photograph of a person.
-trg_cap: The bed in the bedroom features a wooden headboard with a subtle curve, adorned with a vintage photograph of a person, with a kite above the person.
-instruction: Add a kite above the person.
-taskid: 108664

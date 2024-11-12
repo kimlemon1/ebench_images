@@ -1,5 +1,0 @@
-org_img_id: 2369567
-org_cap: a plate with a few slices of orange, drizzled with honey and sprinkled with cinnamon.
-trg_cap: In the bustling train station, a plate with a few slices of orange, drizzled with honey and sprinkled with cinnamon, offered a moment of sweetness amidst the travelers' hurried pace.
-instruction: Change the background to train station.
-taskid: 108861

@@ -1,5 +1,0 @@
-org_img_id: 2339940
-org_cap: A slice of yellow pizza sits on a plate, accompanied by a can of soda.
-trg_cap: A slice of white pizza sits on a plate, accompanied by a can of soda.
-instruction: Change the color of the pizza from yellow to white.
-taskid: 43203

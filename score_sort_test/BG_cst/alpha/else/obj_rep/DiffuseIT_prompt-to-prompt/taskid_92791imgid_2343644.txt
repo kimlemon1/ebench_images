@@ -1,0 +1,5 @@
+org_img_id: 2343644
+org_cap: A middle-aged man with a round face and a balding head sits in a small inflatable boat, wearing a black shirt and holding a paddle, with a calm lake in the background.
+trg_cap: A middle-aged man with a round face and a balding head sits on a horse, wearing a black shirt and holding a paddle, with a calm lake in the background.
+instruction: Replace the boat with a horse.
+taskid: 92791

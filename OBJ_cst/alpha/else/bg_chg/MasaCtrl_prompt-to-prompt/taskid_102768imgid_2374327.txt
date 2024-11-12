@@ -1,5 +1,0 @@
-org_img_id: 2374327
-org_cap: A skateboarder jumps off a yellow fire hydrant, landing smoothly on his skateboard.
-trg_cap: In a stadium, a skateboarder jumps off a yellow fire hydrant, landing smoothly on his skateboard.
-instruction: Change the background to stadium.
-taskid: 102768

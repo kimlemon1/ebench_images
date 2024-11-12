@@ -1,5 +1,0 @@
-org_img_id: 2328107
-org_cap: a brown jumping dog, its paws as it chases a white owl flying overhead.
-trg_cap: a tan jumping dog, its paws as it chases a white owl flying overhead.
-instruction: Change the color of the dog from brown to tan.
-taskid: 102555

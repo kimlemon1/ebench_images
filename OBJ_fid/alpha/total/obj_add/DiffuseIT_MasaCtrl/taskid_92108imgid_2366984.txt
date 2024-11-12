@@ -1,5 +1,0 @@
-org_img_id: 2366984
-org_cap: the small, stainless steel sink is situated above a granite countertop in a compact kitchenette.
-trg_cap: The small, stainless steel sink, with a bowl situated on it, is above a granite countertop in a compact kitchenette.
-instruction: Add a bowl on the sink.
-taskid: 92108

@@ -1,5 +1,0 @@
-org_img_id: 2324690
-org_cap: a woman in a yellow swimsuit stands alone on the sandy beach, gazing out at the calm waters where a surfboard lies abandoned in the distance.
-trg_cap: A pencil sketch art depicts a woman in a yellow swimsuit standing alone on the sandy beach, gazing out at the calm waters where a surfboard lies abandoned in the distance.
-instruction: Change the style if the image to pencil sketch.
-taskid: 10371

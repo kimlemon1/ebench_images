@@ -1,5 +1,0 @@
-org_img_id: 2363423
-org_cap: Person is flying a bright yellow kite with a red tail, in a lush green lawn surrounded by tall trees and a basketball hoop in the distance.
-trg_cap: Person is flying a bright yellow kite with a red tail, in a lush green lawn surrounded by tall trees and a basketball hoop in the distance, adjacent to a gym.
-instruction: Change the background to gym.
-taskid: 2442

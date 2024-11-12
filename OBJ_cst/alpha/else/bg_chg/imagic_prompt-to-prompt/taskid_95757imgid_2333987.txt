@@ -1,5 +1,0 @@
-org_img_id: 2333987
-org_cap: a bus travels along a rural road, its bright blue body gleaming in the winter sunlight as it carries passengers to their destinations.
-trg_cap: A bus travels along a rural road, its bright blue body gleaming in the winter sunlight like the vibrant hues of an aquarium, as it carries passengers to their destinations.
-instruction: Change the background to aquarium.
-taskid: 95757

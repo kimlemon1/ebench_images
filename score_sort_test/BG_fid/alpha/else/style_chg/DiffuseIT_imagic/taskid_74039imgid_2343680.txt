@@ -1,0 +1,5 @@
+org_img_id: 2343680
+org_cap: a young woman wearing a white tank top and jeans, with a white helmet and goggles, sits astride a white motorcycle, her legs crossed and her hands gripping the handlebars.
+trg_cap: An oil painting style art depicts a young woman wearing a white tank top and jeans, with a white helmet and goggles, sitting astride a white motorcycle, her legs crossed and her hands gripping the handlebars.
+instruction: Change the style if the image to oil painting style.
+taskid: 74039

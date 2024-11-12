@@ -1,5 +1,0 @@
-org_img_id: 2407916
-org_cap: a worn - faced woman in her 60s sits at a table, holding a clear plastic bottle with a label and cap, her eyes fixed intently on the contents as she takes a sip.
-trg_cap: An ancient Egyptian-style artwork depicts a worn-faced woman in her 60s sitting at a table, holding a clear plastic bottle with a label and cap, her eyes fixed intently on the contents as she takes a sip.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 93439

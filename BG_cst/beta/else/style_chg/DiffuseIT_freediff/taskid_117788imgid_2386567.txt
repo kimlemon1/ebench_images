@@ -1,5 +1,0 @@
-org_img_id: 2386567
-org_cap: The black motorcycle zooms around the track.
-trg_cap: A watercolor painting style art features a black motorcycle zooming around the track.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 117788

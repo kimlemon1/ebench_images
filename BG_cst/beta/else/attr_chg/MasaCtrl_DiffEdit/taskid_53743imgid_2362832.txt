@@ -1,5 +1,0 @@
-org_img_id: 2362832
-org_cap: A white plastic spoon rests in a bowl of cereal, next to a banana and a glass of orange juice on a colorful tablecloth.
-trg_cap: A white ceramic spoon rests in a bowl of cereal, next to a banana and a glass of orange juice on a colorful tablecloth.
-instruction: Change the material of the spoon from plastic to ceramic.
-taskid: 53743

@@ -1,5 +1,0 @@
-org_img_id: 2403495
-org_cap: A brown teddy bear sits on a motorcycle, wearing a sweater and holding a badge with a logo.
-trg_cap: A large brown teddy bear sits on a motorcycle, wearing a sweater and holding a badge with a logo.
-instruction: Make the teddy bear larger.
-taskid: 57600

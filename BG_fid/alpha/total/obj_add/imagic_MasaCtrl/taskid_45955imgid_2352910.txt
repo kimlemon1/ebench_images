@@ -1,5 +1,0 @@
-org_img_id: 2352910
-org_cap: a large flat screen television hangs on the wall above a small desk with a laptop and various electronic devices, surrounded by a few decorative items and a water bottle.
-trg_cap: a large flat screen television hangs on the wall above a small desk with a laptop, a keyboard behind the water bottle, and various electronic devices, surrounded by a few decorative items and a water bottle.
-instruction: Add a keyboard behind the bottle.
-taskid: 45955

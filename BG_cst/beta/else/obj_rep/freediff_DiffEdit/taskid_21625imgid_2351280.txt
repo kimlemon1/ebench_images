@@ -1,5 +1,0 @@
-org_img_id: 2351280
-org_cap: The snowboarder's green snowboard slices through the powder, his legs bent at the knees and his arms extended in a fluid motion, the green and orange hues of his attire a blur as he carves through the mountain.
-trg_cap: The snowboarder's cake slices through the powder, their legs bent at the knees and their arms extended in a fluid motion, the green and orange hues of their attire a blur as they carve through the mountain.
-instruction: Replace the snowboard with a cake.
-taskid: 21625

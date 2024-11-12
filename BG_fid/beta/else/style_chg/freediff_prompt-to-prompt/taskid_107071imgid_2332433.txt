@@ -1,5 +1,0 @@
-org_img_id: 2332433
-org_cap: A cell phone sits on a white desk, next to a silver laptop computer with a silver keyboard.
-trg_cap: An ancient Egyptian-style artwork depicts a cell phone sitting on a white desk next to a silver laptop computer with a silver keyboard.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 107071

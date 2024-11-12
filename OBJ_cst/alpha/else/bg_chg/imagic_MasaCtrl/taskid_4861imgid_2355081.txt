@@ -1,5 +1,0 @@
-org_img_id: 2355081
-org_cap: person stands on a snowboard, wearing a black jacket and snow pants, with goggles and a beanie to protect against the winter weather.
-trg_cap: In a concert hall, a person stands on a snowboard, wearing a black jacket and snow pants, with goggles and a beanie to protect against the winter weather.
-instruction: Change the background to concert hall.
-taskid: 4861

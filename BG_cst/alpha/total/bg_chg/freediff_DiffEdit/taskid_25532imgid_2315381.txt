@@ -1,5 +1,0 @@
-org_img_id: 2315381
-org_cap: The bronze statue depicts a majestic horse with a rider, its sleek body and mane in the sunlight, while ornate stone balustrades adorn the surrounding palace facade.
-trg_cap: The bronze statue depicts a majestic horse with a rider, its sleek body and mane in the sunlight, while ornate stone balustrades adorn the surrounding palace facade, set against the backdrop of a snow field.
-instruction: Change the background to snow field.
-taskid: 25532

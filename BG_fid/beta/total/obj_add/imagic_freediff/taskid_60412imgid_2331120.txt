@@ -1,5 +1,0 @@
-org_img_id: 2331120
-org_cap: "Person, wearing a wetsuit and a surfboard under his arm, is seen in mid-air as he performs an aerial maneuver while riding a wave on the ocean."
-trg_cap: Person, wearing a wetsuit and a surfboard under his arm, is seen in mid-air as he performs an aerial maneuver while riding a wave on the ocean, with a sports ball in front of him.
-instruction: Add a sports ball in front of the person.
-taskid: 60412

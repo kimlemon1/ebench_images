@@ -1,5 +1,0 @@
-org_img_id: 2417805
-org_cap: a red vase hangs on the kitchen door, its neck and body a gentle curve that catches the morning light streaming through the window.
-trg_cap: a orange vase hangs on the kitchen door, its neck and body a gentle curve that catches the morning light streaming through the window.
-instruction: Change the color of the vase from red to orange.
-taskid: 97935

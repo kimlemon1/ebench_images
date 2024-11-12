@@ -1,5 +1,0 @@
-org_img_id: 2372451
-org_cap: a person on skis, their legs and arms above the mountain landscape.
-trg_cap: a person on skis, their legs and arms above the mountain landscape, with a backpack underneath them.
-instruction: Add a backpack under the person.
-taskid: 8220

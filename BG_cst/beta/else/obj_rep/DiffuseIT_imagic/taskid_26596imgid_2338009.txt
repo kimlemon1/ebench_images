@@ -1,5 +1,0 @@
-org_img_id: 2338009
-org_cap: a small, gray dog with a white patch on its forehead down a dusty street, its paws on the asphalt as it around a corner.
-trg_cap: A small apple down a dusty street, its paws on the asphalt as it rounds a corner.
-instruction: Replace the dog with a apple.
-taskid: 26596

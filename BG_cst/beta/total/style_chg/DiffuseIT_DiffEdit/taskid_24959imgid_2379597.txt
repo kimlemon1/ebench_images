@@ -1,5 +1,0 @@
-org_img_id: 2379597
-org_cap: A golden-brown bear sits on a bed of leaves, its fur in the warm sunlight that filters through the trees.
-trg_cap: A watercolor painting style art depicts a golden-brown bear sitting on a bed of leaves, its fur illuminated by the warm sunlight filtering through the trees.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 24959

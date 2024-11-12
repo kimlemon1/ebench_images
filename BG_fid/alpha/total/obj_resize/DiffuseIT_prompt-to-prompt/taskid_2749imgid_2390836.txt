@@ -1,5 +1,0 @@
-org_img_id: 2390836
-org_cap: A black bird on a wooden bench, surrounded by tall grasses and dry reeds.
-trg_cap: A large black bird on a wooden bench, surrounded by tall grasses and dry reeds.
-instruction: Make the bird larger.
-taskid: 2749

@@ -1,5 +1,0 @@
-org_img_id: 2393625
-org_cap: a skateboarder leaps through the air, his red skateboard flying as he performs a trick, his legs and arms splayed in a dynamic pose.
-trg_cap: a skateboarder leaps through the air, his striped skateboard flying as he performs a trick, his legs and arms splayed in a dynamic pose.
-instruction: Change the color of the skateboard from red to striped.
-taskid: 113589

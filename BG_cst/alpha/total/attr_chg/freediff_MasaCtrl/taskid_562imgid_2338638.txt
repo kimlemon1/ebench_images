@@ -1,5 +1,0 @@
-org_img_id: 2338638
-org_cap: A blue bird perches on a wooden bird feeder, its feathers glistening in the morning sunlight, its eyes scanning the surrounding branches.
-trg_cap: A yellow bird perches on a wooden bird feeder, its feathers glistening in the morning sunlight, its eyes scanning the surrounding branches.
-instruction: Change the color of the bird from blue to yellow.
-taskid: 562

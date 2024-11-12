@@ -1,5 +1,0 @@
-org_img_id: 2389718
-org_cap: a young person, skating and skateboarding, his skateboard flying out from under his feet in the skate park.
-trg_cap: a large young person, skating and skateboarding, his skateboard flying out from under his feet in the skate park.
-instruction: Make the person larger.
-taskid: 67643

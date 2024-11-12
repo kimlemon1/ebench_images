@@ -1,5 +1,0 @@
-org_img_id: 2334765
-org_cap: The steel, wood, metal bench sat alone on the sidewalk, its intricate design and ornate details weathered to a soft, matte finish.
-trg_cap: The small steel, wood, metal bench sat alone on the sidewalk, its intricate design and ornate details weathered to a soft, matte finish.
-instruction: Make the bench smaller.
-taskid: 30846

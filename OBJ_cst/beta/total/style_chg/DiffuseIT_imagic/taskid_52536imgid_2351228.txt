@@ -1,5 +1,0 @@
-org_img_id: 2351228
-org_cap: A green boat floats gently on the calm waters of the bay, its hull and mast reflected in the stillness, surrounded by the majestic snow-capped mountains in the distance.
-trg_cap: An ancient Egyptian-style artwork depicts a green boat floating gently on the calm waters of the bay, its hull and mast reflected in the stillness, surrounded by majestic snow-capped mountains in the distance.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 52536

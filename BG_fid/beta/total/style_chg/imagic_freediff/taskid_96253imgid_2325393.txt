@@ -1,5 +1,0 @@
-org_img_id: 2325393
-org_cap: The young person stood next to the car.
-trg_cap: A pencil sketch art depicts a young person standing next to a car.
-instruction: Change the style if the image to pencil sketch.
-taskid: 96253

@@ -1,5 +1,0 @@
-org_img_id: 2346714_0
-org_cap: Person, dressed in a bright red jacket and matching pants, stands on the snowy mountain, his skis through the powder as he the breathtaking view.
-trg_cap: Traffic light stands on the snowy mountain, its skis through the powder as it the breathtaking view.
-instruction: Replace the person with a traffic light.
-taskid: 36175

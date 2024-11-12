@@ -1,5 +1,0 @@
-org_img_id: 2381560
-org_cap: a person in his mid-twenties, wearing a black t-shirt and faded blue jeans, his eyes fixed on the concrete and his board at the ready.
-trg_cap: A person in his mid-twenties, wearing a black t-shirt and faded blue jeans, his eyes fixed on the concrete and his board at the ready, stood against the backdrop of a vast desert landscape.
-instruction: Change the background to desert.
-taskid: 122049

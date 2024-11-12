@@ -1,5 +1,0 @@
-org_img_id: 2345003
-org_cap: the fork lies next to a sandwich with a fried egg on top, surrounded by a fork of crispy fries.
-trg_cap: the fork lies next to a sandwich with a fried egg on top, surrounded by a small fork of crispy fries.
-instruction: Make the fork smaller.
-taskid: 12833

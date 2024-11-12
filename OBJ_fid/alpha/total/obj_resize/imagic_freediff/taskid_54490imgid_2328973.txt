@@ -1,5 +1,0 @@
-org_img_id: 2328973
-org_cap: a person in an orange vest is holding a hose and spraying water onto a fire hydrant on a snowy street.
-trg_cap: a person in an orange vest is holding a hose and spraying water onto a small fire hydrant on a snowy street.
-instruction: Make the fire hydrant smaller.
-taskid: 54490

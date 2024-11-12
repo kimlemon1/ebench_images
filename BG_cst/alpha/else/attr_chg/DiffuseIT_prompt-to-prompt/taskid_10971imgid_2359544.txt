@@ -1,5 +1,0 @@
-org_img_id: 2359544
-org_cap: A person sitting on a bench, with a red fire hydrant nearby.
-trg_cap: A person sitting on a bench, with a gold fire hydrant nearby.
-instruction: Change the color of the fire hydrant from red to gold.
-taskid: 10971

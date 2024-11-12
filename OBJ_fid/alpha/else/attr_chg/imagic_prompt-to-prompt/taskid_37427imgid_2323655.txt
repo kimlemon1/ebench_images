@@ -1,5 +1,0 @@
-org_img_id: 2323655
-org_cap: person holds a silver cell phone in his hand, wearing a striped shirt and glasses.
-trg_cap: person holds a red cell phone in his hand, wearing a striped shirt and glasses.
-instruction: Change the color of the cell phone from silver to red.
-taskid: 37427

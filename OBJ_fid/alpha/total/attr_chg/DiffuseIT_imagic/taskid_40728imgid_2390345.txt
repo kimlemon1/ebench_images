@@ -1,5 +1,0 @@
-org_img_id: 2390345
-org_cap: a young person holds a glazed donut in his hand, his fingers wrapped around the glazed donut as he gives a sly grin.
-trg_cap: a young person holds a unglazed donut in his hand, his fingers wrapped around the unglazed donut as he gives a sly grin.
-instruction: Change the state of the donut from glazed to unglazed.
-taskid: 40728

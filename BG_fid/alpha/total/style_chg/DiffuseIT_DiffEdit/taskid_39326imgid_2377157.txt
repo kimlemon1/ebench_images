@@ -1,5 +1,0 @@
-org_img_id: 2377157
-org_cap: Person is in a green field, wearing a red shirt, while a brown dog catches the disc in mid-air.
-trg_cap: A Van Gogh style artwork depicts a person in a green field wearing a red shirt, while a brown dog catches a disc in mid-air.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 39326

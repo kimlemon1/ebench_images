@@ -1,5 +1,0 @@
-org_img_id: 2375930
-org_cap: the little girl in a pink dress and red hair is holding a donut in her hand, her fingers wrapped around the donut as she takes a big bite.
-trg_cap: the little girl in a pink dress and red hair is holding a small donut in her hand, her fingers wrapped around the donut as she takes a big bite.
-instruction: Make the donut smaller.
-taskid: 100141

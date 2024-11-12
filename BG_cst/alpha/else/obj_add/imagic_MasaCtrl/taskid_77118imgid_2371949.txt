@@ -1,5 +1,0 @@
-org_img_id: 2371949
-org_cap: the person holds a cell phone in her hand, her fingers curled around it as she talks on the cell phone.
-trg_cap: The person holds a cell phone in her hand, her fingers curled around it as she talks on the cell phone, with a keyboard located behind the cell phone.
-instruction: Add a keyboard behind the cell phone.
-taskid: 77118

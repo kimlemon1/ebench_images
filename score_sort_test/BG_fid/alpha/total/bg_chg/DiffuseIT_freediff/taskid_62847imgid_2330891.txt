@@ -1,0 +1,5 @@
+org_img_id: 2330891
+org_cap: The scene features a black keyboard situated atop a wooden desk with a slight incline, flanked by a pair of headphones and a stack of colorful markers.
+trg_cap: The scene features a black keyboard situated atop a wooden desk with a slight incline, flanked by a pair of headphones and a stack of colorful markers, set against the serene backdrop of a lakeside view.
+instruction: Change the background to lake side.
+taskid: 62847

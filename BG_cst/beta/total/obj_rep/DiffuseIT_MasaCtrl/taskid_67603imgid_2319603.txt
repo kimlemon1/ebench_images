@@ -1,5 +1,0 @@
-org_img_id: 2319603
-org_cap: A colorful kite flies high in the clear blue sky.
-trg_cap: A kite flies high in the clear blue sky.
-instruction: Replace the kite with a tie.
-taskid: 67603

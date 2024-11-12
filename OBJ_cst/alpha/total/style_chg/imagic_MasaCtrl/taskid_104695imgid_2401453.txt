@@ -1,5 +1,0 @@
-org_img_id: 2401453
-org_cap: A person stands alone on the beach, with the dark clouds and rough sea in the background.
-trg_cap: A mosaic art depicts a person standing alone on the beach, with dark clouds and a rough sea in the background.
-instruction: Change the style if the image to mosaic art.
-taskid: 104695

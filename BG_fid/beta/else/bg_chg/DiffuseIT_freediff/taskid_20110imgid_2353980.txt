@@ -1,5 +1,0 @@
-org_img_id: 2353980
-org_cap: a black motorcycle with a sleek design and chrome accents sits parked next to a vintage airplane, its propeller gleaming in the sunlight.
-trg_cap: A black motorcycle with a sleek design and chrome accents sits parked next to a vintage airplane, its propeller gleaming in the sunlight, against the backdrop of a dense pine forest.
-instruction: Change the background to pine forest.
-taskid: 20110

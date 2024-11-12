@@ -1,0 +1,5 @@
+org_img_id: 2368365
+org_cap: a young person sits at a table, wearing a bright pink hat and holding a carrot stick in her hand, with a blue laptop in front of her.
+trg_cap: The pop art style artwork depicts a young person sitting at a table, wearing a bright pink hat and holding a carrot stick in her hand, with a blue laptop in front of her.
+instruction: Change the style if the image to pop art style.
+taskid: 42270

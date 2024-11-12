@@ -1,5 +1,0 @@
-org_img_id: 2400515
-org_cap: The clock is a white clock standing tall on a stone pedestal in front of a brick building.
-trg_cap: The baseball glove is standing tall on a stone pedestal in front of a brick building.
-instruction: Replace the clock with a baseball glove.
-taskid: 28338

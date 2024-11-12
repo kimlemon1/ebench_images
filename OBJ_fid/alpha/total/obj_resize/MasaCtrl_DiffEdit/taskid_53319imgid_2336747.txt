@@ -1,5 +1,0 @@
-org_img_id: 2336747
-org_cap: person holds a parking meter in his hand, wearing a gray shirt and glasses, standing next to a car with a parking meter.
-trg_cap: person holds a large parking meter in his hand, wearing a gray shirt and glasses, standing next to a car with a parking meter.
-instruction: Make the parking meter larger.
-taskid: 53319

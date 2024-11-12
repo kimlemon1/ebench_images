@@ -1,5 +1,0 @@
-org_img_id: 2362742
-org_cap: person in a hotel room, wearing a leopard print robe, and looking relaxed.
-trg_cap: small person in a hotel room, wearing a leopard print robe, and looking relaxed.
-instruction: Make the person smaller.
-taskid: 43005

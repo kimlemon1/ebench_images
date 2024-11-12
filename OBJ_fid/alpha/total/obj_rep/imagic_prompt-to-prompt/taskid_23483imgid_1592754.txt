@@ -1,5 +1,0 @@
-org_img_id: 1592754
-org_cap: a single-decker bus with a cream and blue livery, sporting a distinctive rounded front and rear, and sporting a yellow and black stripe along its sides, is seen driving away from the camera.
-trg_cap: "A single-decker parking meter is seen driving away from it."
-instruction: Replace the bus with a parking meter.
-taskid: 23483

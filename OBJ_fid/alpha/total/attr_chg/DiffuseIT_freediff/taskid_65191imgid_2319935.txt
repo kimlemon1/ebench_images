@@ -1,5 +1,0 @@
-org_img_id: 2319935
-org_cap: A man is standing in the shallow lakeshore with his arm around a woman’s shoulder, next to a wooden boat.
-trg_cap: A man is standing in the shallow lakeshore with his arm around a woman’s shoulder, next to a rubber boat.
-instruction: Change the material of the boat from wood to rubber.
-taskid: 65191

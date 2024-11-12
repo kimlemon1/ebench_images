@@ -1,5 +1,0 @@
-org_img_id: 2345115
-org_cap: The microwave is a black microwave with a stainless steel exterior and a digital display screen.
-trg_cap: The graffiti art features a black microwave with a stainless steel exterior and a digital display screen.
-instruction: Change the style if the image to graffiti art.
-taskid: 75130

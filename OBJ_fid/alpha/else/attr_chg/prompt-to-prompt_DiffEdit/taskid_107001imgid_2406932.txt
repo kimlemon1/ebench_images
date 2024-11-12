@@ -1,5 +1,0 @@
-org_img_id: 2406932
-org_cap: A brown dog runs through a lawn, its brown fur flapping as it chases after a flying frisbee, its brown paws pounding the grass.
-trg_cap: A black dog runs through a lawn, its black fur flapping as it chases after a flying frisbee, its black paws pounding the grass.
-instruction: Change the color of the dog from brown to black.
-taskid: 107001

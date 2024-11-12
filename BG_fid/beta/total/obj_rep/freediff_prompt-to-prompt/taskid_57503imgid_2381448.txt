@@ -1,5 +1,0 @@
-org_img_id: 2381448
-org_cap: a green bird with reddish legs and feet, yellow eyes, and a distinctive black stripe on its head, its long, pointed beak and slender neck, its feathers a warm orange-red with white and black stripes.
-trg_cap: a green bicycle.
-instruction: Replace the bird with a bicycle.
-taskid: 57503

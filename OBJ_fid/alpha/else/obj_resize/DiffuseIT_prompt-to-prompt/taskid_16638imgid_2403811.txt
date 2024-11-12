@@ -1,5 +1,0 @@
-org_img_id: 2403811
-org_cap: a young person on the edge of a road, on a skateboard with wheels in the warm sunset light, surrounded by the blurred shapes of moving cars and the soft glow of streetlights.
-trg_cap: a young person on the edge of a road, on a skateboard with wheels in the warm sunset light, surrounded by the blurred shapes of large moving cars and the soft glow of streetlights.
-instruction: Make the car larger.
-taskid: 16638

@@ -1,5 +1,0 @@
-org_img_id: 2373291
-org_cap: a young person with a blue backpack stands on a green grassy hill, looking up at a kite flying high in the sky.
-trg_cap: A young person with a blue backpack stands on a green grassy hill, looking up at a kite flying high in the sky, while the aroma of delicious dishes wafts from a nearby restaurant.
-instruction: Change the background to restaurant.
-taskid: 8117

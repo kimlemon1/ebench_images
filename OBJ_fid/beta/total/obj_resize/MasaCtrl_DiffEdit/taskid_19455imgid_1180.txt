@@ -1,5 +1,0 @@
-org_img_id: 1180
-org_cap: The refrigerator in the kitchen is a yellow refrigerator with a wooden cabinet and a glass door, standing against a wall with a floral wallpaper and a wooden countertop.
-trg_cap: The refrigerator in the kitchen is a large yellow refrigerator with a wooden cabinet and a glass door, standing against a wall with a floral wallpaper and a wooden countertop.
-instruction: Make the refrigerator larger.
-taskid: 19455

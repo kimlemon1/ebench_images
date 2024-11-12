@@ -1,5 +1,0 @@
-org_img_id: 2413332
-org_cap: standing person rides a white surfboard, feet surfing gripping the.
-trg_cap: standing person rides a large white surfboard, feet surfing gripping the.
-instruction: Make the surfboard larger.
-taskid: 7540

@@ -1,5 +1,0 @@
-org_img_id: 2362040
-org_cap: Wet surfing person rides an orange surfboard through a wave, arms and legs splayed, green rash guard and black wetsuit glistening with spray.
-trg_cap: The mosaic art depicts a wet surfing person riding an orange surfboard through a wave, with arms and legs splayed, wearing a green rash guard and a black wetsuit glistening with spray.
-instruction: Change the style if the image to mosaic art.
-taskid: 117049

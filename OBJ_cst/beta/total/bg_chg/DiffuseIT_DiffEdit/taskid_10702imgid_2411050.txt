@@ -1,5 +1,0 @@
-org_img_id: 2411050
-org_cap: Person, wearing black clothing and a gray sweater, his skateboard wheels spinning on the stone steps.
-trg_cap: Person, wearing black clothing and a gray sweater, his skateboard wheels spinning on the stone steps in the living room.
-instruction: Change the background to living room.
-taskid: 10702

@@ -1,5 +1,0 @@
-org_img_id: 2341484
-org_cap: person on a snowy mountain slope, wearing a bright blue jacket and goggles, with white skis.
-trg_cap: person on a snowy mountain slope, wearing a bright blue jacket and goggles, with purple skis.
-instruction: Change the color of the skis from white to purple.
-taskid: 89840

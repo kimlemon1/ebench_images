@@ -1,5 +1,0 @@
-org_img_id: 2322650
-org_cap: A white vase sits on a red tablecloth, adorned with a single, bright orange flower and a matching white vase.
-trg_cap: A transparent vase sits on a red tablecloth, adorned with a single, bright orange flower and a matching transparent vase.
-instruction: Change the color of the vase from white to transparent.
-taskid: 70193

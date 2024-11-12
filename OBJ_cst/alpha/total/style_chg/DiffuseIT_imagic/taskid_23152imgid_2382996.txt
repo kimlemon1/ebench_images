@@ -1,5 +1,0 @@
-org_img_id: 2382996
-org_cap: Surfing person surfs the waves, his arms and legs in perfect sync as he carves through the whitewater, his board through the air as he executes a flawless aerial.
-trg_cap: A cartoon-style art depicts a surfing person carving through the whitewater with arms and legs in perfect sync, executing a flawless aerial as his board soars through the air.
-instruction: Change the style if the image to cartoon style.
-taskid: 23152

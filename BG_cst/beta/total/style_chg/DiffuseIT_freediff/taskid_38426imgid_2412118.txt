@@ -1,5 +1,0 @@
-org_img_id: 2412118
-org_cap: a lone cyclist, wearing a backpack, pedals a bicycle down a busy city street lined with buses and cars.
-trg_cap: A pencil sketch art depicts a lone cyclist wearing a backpack, pedaling a bicycle down a busy city street lined with buses and cars.
-instruction: Change the style if the image to pencil sketch.
-taskid: 38426

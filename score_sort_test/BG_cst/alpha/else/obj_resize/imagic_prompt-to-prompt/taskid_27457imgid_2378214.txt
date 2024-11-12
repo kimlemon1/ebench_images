@@ -1,0 +1,5 @@
+org_img_id: 2378214
+org_cap: A blue standing bird lands on a blue bowl, its wings, its beak into the blue bowl to gather seeds.
+trg_cap: A small blue standing bird lands on a blue bowl, its wings, its beak into the blue bowl to gather seeds.
+instruction: Make the bird smaller.
+taskid: 27457

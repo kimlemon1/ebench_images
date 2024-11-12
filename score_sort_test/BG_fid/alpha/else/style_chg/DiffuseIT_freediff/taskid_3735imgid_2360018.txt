@@ -1,0 +1,5 @@
+org_img_id: 2360018
+org_cap: an eaten yellow apple with a chunk taken out of it, next to a small orange with a bite taken out of it.
+trg_cap: The art, in a pop art style, features an eaten yellow apple with a chunk taken out of it next to a small orange with a bite taken out of it.
+instruction: Change the style if the image to pop art style.
+taskid: 3735

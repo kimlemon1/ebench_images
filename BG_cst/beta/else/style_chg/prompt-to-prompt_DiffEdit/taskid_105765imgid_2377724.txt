@@ -1,5 +1,0 @@
-org_img_id: 2377724
-org_cap: a fluffy orange cat stretches out on top of a black plastic tv, its tail curled around the and its paws resting on the remote control.
-trg_cap: A graffiti art piece features a fluffy orange cat stretching out on top of a black plastic TV, its tail curled around and its paws resting on the remote control.
-instruction: Change the style if the image to graffiti art.
-taskid: 105765

@@ -1,0 +1,5 @@
+org_img_id: 2405754
+org_cap: A brown cat on a kitchen table, surrounded by empty food packaging, crumbs, and a brown bottle.
+trg_cap: A brown cat on a kitchen table, surrounded by empty food packaging, crumbs, a brown bottle, and a bed next to the bottle.
+instruction: Add a bed next to the bottle.
+taskid: 97365

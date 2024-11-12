@@ -1,5 +1,0 @@
-org_img_id: 150556
-org_cap: the room features a large flat-screen tv mounted on the wall above a comfortable couch, with a glass coffee table in front of it and a vase of flowers on the table.
-trg_cap: The room, located in a cozy countryside farmhouse, features a large flat-screen TV mounted on the wall above a comfortable couch, with a glass coffee table in front of it and a vase of freshly picked wildflowers from the surrounding fields on the table.
-instruction: Change the background to country side farm.
-taskid: 39457

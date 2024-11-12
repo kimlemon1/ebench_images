@@ -1,5 +1,0 @@
-org_img_id: 2385974
-org_cap: A pink bus is parked in a designated bay, surrounded by bicycle racks and a concrete wall.
-trg_cap: A small pink bus is parked in a designated bay, surrounded by bicycle racks and a concrete wall.
-instruction: Make the bus smaller.
-taskid: 101401

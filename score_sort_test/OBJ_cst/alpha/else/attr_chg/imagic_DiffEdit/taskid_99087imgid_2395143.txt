@@ -1,0 +1,5 @@
+org_img_id: 2395143
+org_cap: A fork lies upside down on a white plate, next to a slice of banana bread and a glass of orange juice.
+trg_cap: A fork lies upright on a white plate, next to a slice of banana bread and a glass of orange juice.
+instruction: Change the state of the fork from upside down to upright.
+taskid: 99087

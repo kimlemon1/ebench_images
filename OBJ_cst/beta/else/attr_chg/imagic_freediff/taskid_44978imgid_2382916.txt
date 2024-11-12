@@ -1,5 +1,0 @@
-org_img_id: 2382916
-org_cap: a colorful bouquet of pink, yellow, and orange roses fills a clear glass vase, sitting on a wooden table with a warm, golden glow.
-trg_cap: a colorful bouquet of pink, yellow, and orange roses fills a brown glass vase, sitting on a wooden table with a warm, golden glow.
-instruction: Change the color of the vase from clear to brown.
-taskid: 44978

@@ -1,5 +1,0 @@
-org_img_id: 2400235
-org_cap: Standing person in the middle of a modern office, with a pug on its hind legs in front of him, with big brown eyes.
-trg_cap: Standing remote in the middle of a modern office, with a pug on its hind legs in front, with big brown eyes.
-instruction: Replace the person with a remote.
-taskid: 114362

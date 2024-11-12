@@ -1,5 +1,0 @@
-org_img_id: 2321796
-org_cap: A train, with a bright blue livery and a distinctive nose cone, approaches the station platform at a moderate speed.
-trg_cap: In the living room, a train, with a bright blue livery and a distinctive nose cone, approaches the station platform at a moderate speed.
-instruction: Change the background to living room.
-taskid: 86276

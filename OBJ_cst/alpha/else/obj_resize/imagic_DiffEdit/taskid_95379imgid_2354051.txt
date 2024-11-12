@@ -1,5 +1,0 @@
-org_img_id: 2354051
-org_cap: a young person, wearing a yellow shirt and brown shorts, barefoot along the beach, a yellow frisbee.
-trg_cap: a young person, wearing a yellow shirt and brown shorts, barefoot along the beach, a large yellow frisbee.
-instruction: Make the frisbee larger.
-taskid: 95379

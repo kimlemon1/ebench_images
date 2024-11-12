@@ -1,5 +1,0 @@
-org_img_id: 2364457
-org_cap: a young person with a cheerful face and a messy pink dress sits at a table, holding a slice of sliced pizza.
-trg_cap: a young person with a cheerful face and a messy pink dress sits at a table, holding a slice of whole pizza.
-instruction: Change the state of the pizza from sliced to whole.
-taskid: 8520

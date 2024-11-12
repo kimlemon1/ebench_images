@@ -1,5 +1,0 @@
-org_img_id: 2389563
-org_cap: a silver metal statue of a horse on a table, its sleek body and legs rendered in intricate detail, with a small plaque at its base bearing the inscription "winner on the way".
-trg_cap: A silver metal statue of a horse on a table by the lakeside, its sleek body and legs rendered in intricate detail, with a small plaque at its base bearing the inscription "winner on the way".
-instruction: Change the background to lake side.
-taskid: 98140

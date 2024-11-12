@@ -1,5 +1,0 @@
-org_img_id: 2351795
-org_cap: a slice of chocolate cake sits on a pink paper plate, with a slice missing and a few crumbs scattered around cake.
-trg_cap: A slice of dog sits on a pink paper plate, with a slice missing and a few crumbs scattered around it.
-instruction: Replace the cake with a dog.
-taskid: 119754

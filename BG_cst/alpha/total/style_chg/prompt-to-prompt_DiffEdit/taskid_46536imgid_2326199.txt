@@ -1,5 +1,0 @@
-org_img_id: 2326199
-org_cap: the old truck, with its rusty body and worn tires, sits abandoned in a dusty field, its engine silent and still.
-trg_cap: A pencil sketch art depicts an old truck with its rusty body and worn tires, sitting abandoned in a dusty field, its engine silent and still.
-instruction: Change the style if the image to pencil sketch.
-taskid: 46536

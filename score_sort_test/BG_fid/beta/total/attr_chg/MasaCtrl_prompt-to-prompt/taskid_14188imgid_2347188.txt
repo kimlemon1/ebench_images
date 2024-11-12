@@ -1,0 +1,5 @@
+org_img_id: 2347188
+org_cap: A standing black striped zebra stands under a tree, its stripes glistening in the sunlight.
+trg_cap: A standing beige striped zebra stands under a tree, its stripes glistening in the sunlight.
+instruction: Change the color of the zebra from black to beige.
+taskid: 14188

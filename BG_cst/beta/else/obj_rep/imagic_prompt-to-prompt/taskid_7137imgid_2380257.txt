@@ -1,5 +1,0 @@
-org_img_id: 2380257
-org_cap: Skateboarding person wears a shirt, has hair, and a skateboard with a worn-out wheel and a faded logo.
-trg_cap: Skateboarding dog with its skateboard with a worn-out wheel and a faded logo.
-instruction: Replace the person with a dog.
-taskid: 7137

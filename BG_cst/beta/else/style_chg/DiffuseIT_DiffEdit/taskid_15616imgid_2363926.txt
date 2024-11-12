@@ -1,5 +1,0 @@
-org_img_id: 2363926
-org_cap: a steam train with a distinctive cowcatcher and a long, curved chimney, pulling a vintage passenger train with wooden cars and a train at the front.
-trg_cap: The pop art style artwork features a steam train with a distinctive cowcatcher and a long, curved chimney, pulling a vintage passenger train with wooden cars and a train at the front.
-instruction: Change the style if the image to pop art style.
-taskid: 15616

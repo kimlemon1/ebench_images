@@ -1,5 +1,0 @@
-org_img_id: 2363546
-org_cap: person on a single bed in a small, dimly lit room with yellow walls and a metal frame bed, wearing a worn-out t-shirt and sweatpants, with a glass of water in one hand and a book in the other, surrounded by cluttered furniture and dusty decorations.
-trg_cap: In a small, dimly lit room with yellow walls and a metal frame bed, located in the heart of a vast desert, a person lies on a single bed, wearing a worn-out t-shirt and sweatpants, with a glass of water in one hand and a book in the other, surrounded by cluttered furniture and dusty decorations.
-instruction: Change the background to desert.
-taskid: 34028

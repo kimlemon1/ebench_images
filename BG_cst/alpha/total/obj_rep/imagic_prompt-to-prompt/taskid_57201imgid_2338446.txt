@@ -1,5 +1,0 @@
-org_img_id: 2338446
-org_cap: a skier in a bright yellow and blue outfit flies down the mountain on skis, their legs bent and arms outstretched as they soar through the air.
-trg_cap: A giraffe in a bright yellow and blue outfit flies down the mountain, its legs bent and arms outstretched as it soars through the air.
-instruction: Replace the skis with a giraffe.
-taskid: 57201

@@ -1,0 +1,5 @@
+org_img_id: 2381240
+org_cap: The scene features a worn wooden desk with a black keyboard and a sleek, silver laptop computer, both positioned neatly on the desktop.
+trg_cap: The scene features a worn wooden desk with a sleek, silver laptop computer, both positioned neatly on it.
+instruction: Replace the keyboard with a tv.
+taskid: 20268

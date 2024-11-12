@@ -1,5 +1,0 @@
-org_img_id: 2340159
-org_cap: A laptop sits on a wooden table, surrounded by various decorative items including balls, frames, and other knick-knacks, against a rich red wall.
-trg_cap: A laptop sits on a wooden table, surrounded by various decorative items including balls, frames, and other knick-knacks, with a view of a lush pine forest in the background.
-instruction: Change the background to pine forest.
-taskid: 23154

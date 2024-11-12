@@ -1,5 +1,0 @@
-org_img_id: 2375983
-org_cap: A brown teddy bear lies on a bed, surrounded by white pillows and a cityscape visible through the window.
-trg_cap: A brown teddy bear lies on a bed, surrounded by white pillows and an aquarium visible through the window.
-instruction: Change the background to aquarium.
-taskid: 54700

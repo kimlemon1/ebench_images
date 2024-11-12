@@ -1,5 +1,0 @@
-org_img_id: 2319518
-org_cap: a lone person stands on the frozen lake, holding a brightly colored kite with a bold design and a long tail, kite's strings flapping gently in the winter breeze as kite drifts lazily across the snow-covered ice.
-trg_cap: a lone person stands on the frozen lake, holding a large, brightly colored kite with a bold design and a long tail, kite's strings flapping gently in the winter breeze as kite drifts lazily across the snow-covered ice.
-instruction: Make the kite larger.
-taskid: 87270

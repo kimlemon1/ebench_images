@@ -1,5 +1,0 @@
-org_img_id: 2401216
-org_cap: Sliding person on his snowboard, his jacket and pants a blur on the mountain.
-trg_cap: A watercolor painting style art depicts a person sliding on a snowboard, with their jacket and pants a blur on the mountain.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 120529

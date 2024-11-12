@@ -1,5 +1,0 @@
-org_img_id: 2401791
-org_cap: a brown horse with a carriage, ridden by a person in a black hat and coat.
-trg_cap: A brown horse with a carriage, ridden by a person in a black hat and coat, moved gracefully past the large aquarium filled with colorful fish.
-instruction: Change the background to aquarium.
-taskid: 1099

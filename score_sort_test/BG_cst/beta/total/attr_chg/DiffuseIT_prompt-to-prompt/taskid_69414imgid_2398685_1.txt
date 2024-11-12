@@ -1,0 +1,5 @@
+org_img_id: 2398685_1
+org_cap: The sink is a white sink with a chrome faucet and a black granite countertop.
+trg_cap: The sink is a light blue sink with a chrome faucet and a black granite countertop.
+instruction: Change the color of the sink from white to light blue.
+taskid: 69414

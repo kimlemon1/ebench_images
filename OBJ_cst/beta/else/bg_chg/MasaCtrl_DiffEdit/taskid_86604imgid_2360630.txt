@@ -1,5 +1,0 @@
-org_img_id: 2360630
-org_cap: A snowboarding and skiing person flies down a snow-covered mountain, his snowboard over the powder as he a series of jumps and tricks.
-trg_cap: A snowboarding and skiing person flies down a snow-covered mountain, his snowboard over the powder as he performs a series of jumps and tricks, with the vibrant greenery of a tropical jungle visible in the distance.
-instruction: Change the background to tropical jungle.
-taskid: 86604

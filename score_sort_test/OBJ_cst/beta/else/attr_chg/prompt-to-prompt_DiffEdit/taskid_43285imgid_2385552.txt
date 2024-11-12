@@ -1,0 +1,5 @@
+org_img_id: 2385552
+org_cap: Skateboarding black skateboard with a helmet, wearing a shirt and jeans.
+trg_cap: Skateboarding orange skateboard with a helmet, wearing a shirt and jeans.
+instruction: Change the color of the skateboard from black to orange.
+taskid: 43285

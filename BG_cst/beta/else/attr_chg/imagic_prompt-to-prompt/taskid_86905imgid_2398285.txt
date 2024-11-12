@@ -1,5 +1,0 @@
-org_img_id: 2398285
-org_cap: The toilet is a white toilet with a chrome handle and a narrow, rectangular pedestal sink above it.
-trg_cap: The toilet is a dark brown toilet with a chrome handle and a narrow, rectangular pedestal sink above it.
-instruction: Change the color of the toilet from white to dark brown.
-taskid: 86905

@@ -1,5 +1,0 @@
-org_img_id: 2396982
-org_cap: a train crosses a train over a tranquil train, its bright blue and green colors reflecting off the calm trains as it glides effortlessly towards its train.
-trg_cap: A Van Gogh style art features a train crossing over a tranquil scene, its bright blue and green colors reflecting off the calm surroundings as it glides effortlessly towards its destination.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 108576

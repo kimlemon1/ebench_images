@@ -1,5 +1,0 @@
-org_img_id: 2406014
-org_cap: a skateboarder leaps off a ramp, his green skateboard flying out from his feet as he lands smoothly on the concrete, surrounded by the urban landscape of a skatepark.
-trg_cap: The art, in a watercolor painting style, depicts a skateboarder leaping off a ramp, his green skateboard flying out from his feet as he lands smoothly on the concrete, surrounded by the urban landscape of a skatepark.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 29898

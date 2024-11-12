@@ -1,5 +1,0 @@
-org_img_id: 2374407
-org_cap: The fire hydrant is a rusty, red metal cylinder with a white cap and a small, worn handle.
-trg_cap: The fire hydrant is a rusty, red metal cylinder with a white cap and a small, worn handle, standing amidst the tall trees of a pine forest.
-instruction: Change the background to pine forest.
-taskid: 119208

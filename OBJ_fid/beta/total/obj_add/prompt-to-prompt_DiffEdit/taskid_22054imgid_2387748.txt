@@ -1,5 +1,0 @@
-org_img_id: 2387748
-org_cap: the room features a black tv mounted on the wall, accompanied by a white chair placed in the center of the floor, surrounded by a simple, wooden coffee table and a few, scattered, wooden floorboards.
-trg_cap: The room features a black TV mounted on the wall, with a laptop in front of it, accompanied by a white chair placed in the center of the floor, surrounded by a simple, wooden coffee table and a few, scattered, wooden floorboards.
-instruction: Add a laptop in front of the tv.
-taskid: 22054

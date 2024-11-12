@@ -1,5 +1,0 @@
-org_img_id: 2334884
-org_cap: a wooden bench with a curved design, resembling a skateboard ramp, sits in a city square at night, illuminated by purple and blue lights, with two people lounging on the bench, their legs stretched out in a relaxed position.
-trg_cap: A wooden bench with a curved design, resembling a skateboard ramp, sits in a city square at night, illuminated by purple and blue lights, with two people lounging on the bench, their legs stretched out in a relaxed position, as the nearby hospital's windows cast a soft glow in the background.
-instruction: Change the background to hospital.
-taskid: 89120

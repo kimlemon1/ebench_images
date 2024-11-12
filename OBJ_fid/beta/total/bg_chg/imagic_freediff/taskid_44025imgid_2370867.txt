@@ -1,5 +1,0 @@
-org_img_id: 2370867
-org_cap: The small bathroom features a white, clean toilet mounted on a tree trunk, a single gray sink, and a few decorative touches like a small, round mirror and a few pieces of driftwood.
-trg_cap: The small bathroom, reminiscent of an airport lounge with its sleek design, features a white, clean toilet mounted on a tree trunk, a single gray sink, and a few decorative touches like a small, round mirror and a few pieces of driftwood.
-instruction: Change the background to airport.
-taskid: 44025

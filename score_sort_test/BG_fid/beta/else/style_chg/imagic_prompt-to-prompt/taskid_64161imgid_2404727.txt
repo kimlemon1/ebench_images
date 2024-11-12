@@ -1,0 +1,5 @@
+org_img_id: 2404727
+org_cap: a person walks under a black umbrella, with another person walking alongside, both bundled up against the winter weather with coats and scarves.
+trg_cap: A Van Gogh style art depicts a person walking under a black umbrella alongside another person, both bundled up in coats and scarves against the winter weather.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 64161

@@ -1,5 +1,0 @@
-org_img_id: 2368756
-org_cap: gray elephants ride through the river, their skin glistening in the sunlight as they splash through the water, their ears in the breeze.
-trg_cap: white elephants ride through the river, their skin glistening in the sunlight as they splash through the water, their ears in the breeze.
-instruction: Change the color of the elephant from gray to white.
-taskid: 69281

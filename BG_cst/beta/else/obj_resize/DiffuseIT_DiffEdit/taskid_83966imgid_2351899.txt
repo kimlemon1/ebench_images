@@ -1,5 +1,0 @@
-org_img_id: 2351899
-org_cap: a person with a bright blue tennis racket in hand hitting a forehand shot on a sunny day with a bright blue tennis court in the background.
-trg_cap: a small person with a bright blue tennis racket in hand hitting a forehand shot on a sunny day with a bright blue tennis court in the background.
-instruction: Make the person smaller.
-taskid: 83966

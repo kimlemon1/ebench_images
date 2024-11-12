@@ -1,5 +1,0 @@
-org_img_id: 2396909
-org_cap: A bespectacled person in a white shirt and hat at the person's chair, a racket and at the scoreboard.
-trg_cap: A large, bespectacled person in a white shirt and hat at the person's chair, a racket and at the scoreboard.
-instruction: Make the person larger.
-taskid: 77495

@@ -1,5 +1,0 @@
-org_img_id: 2335899
-org_cap: baseball player swings his wood bat with a confident swing.
-trg_cap: baseball player swings his small wood bat with a confident swing.
-instruction: Make the baseball bat smaller.
-taskid: 97448

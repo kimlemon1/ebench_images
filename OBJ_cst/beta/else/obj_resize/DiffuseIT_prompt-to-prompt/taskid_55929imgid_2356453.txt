@@ -1,5 +1,0 @@
-org_img_id: 2356453
-org_cap: a young person with a purple backpack and a black hat runs down the street on a skateboard, his long legs pumping as he goes.
-trg_cap: a young person with a large purple backpack and a black hat runs down the street on a skateboard, his long legs pumping as he goes.
-instruction: Make the backpack larger.
-taskid: 55929

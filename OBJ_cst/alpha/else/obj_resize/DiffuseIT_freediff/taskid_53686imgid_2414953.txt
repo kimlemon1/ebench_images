@@ -1,5 +1,0 @@
-org_img_id: 2414953
-org_cap: A blue, old, open toilet has been repurposed as a planter, with colorful flowers and herbs sprouting out of its toilet and seat.
-trg_cap: A large, blue, old, open toilet has been repurposed as a planter, with colorful flowers and herbs sprouting out of its toilet and seat.
-instruction: Make the toilet larger.
-taskid: 53686

@@ -1,5 +1,0 @@
-org_img_id: 2324713
-org_cap: The bus features a bright blue and yellow exterior with a cartoon character, person, wearing a football helmet and holding a slice of pizza, with the words "i'm an open wide receiver!" written in bold letters across the side panel.
-trg_cap: The small bus features a bright blue and yellow exterior with a cartoon character, person, wearing a football helmet and holding a slice of pizza, with the words "i'm an open wide receiver!" written in bold letters across the side panel.
-instruction: Make the bus smaller.
-taskid: 8890

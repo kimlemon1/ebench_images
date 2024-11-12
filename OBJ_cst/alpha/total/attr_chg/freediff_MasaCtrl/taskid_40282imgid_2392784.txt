@@ -1,5 +1,0 @@
-org_img_id: 2392784
-org_cap: The open, black laptop sits on a metal, black chair in front of a large window, with a cityscape visible outside, and a bookshelf and decorative vase on a metal, black chair.
-trg_cap: The open, black laptop sits on a pine, black chair in front of a large window, with a cityscape visible outside, and a bookshelf and decorative vase on a pine, black chair.
-instruction: Change the material of the chair from metal to pine.
-taskid: 40282

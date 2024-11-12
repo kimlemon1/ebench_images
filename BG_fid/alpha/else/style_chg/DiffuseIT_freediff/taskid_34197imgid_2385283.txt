@@ -1,5 +1,0 @@
-org_img_id: 2385283
-org_cap: Standing, skiing, person through the snow-covered forest, wearing a jumpsuit and snowshoes, her breath visible in the crisp winter air.
-trg_cap: A pop art style artwork depicts a person standing and skiing through a snow-covered forest, wearing a jumpsuit and snowshoes, with her breath visible in the crisp winter air.
-instruction: Change the style if the image to pop art style.
-taskid: 34197

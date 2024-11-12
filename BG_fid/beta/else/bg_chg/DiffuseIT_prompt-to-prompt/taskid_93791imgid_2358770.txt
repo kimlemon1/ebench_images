@@ -1,5 +1,0 @@
-org_img_id: 2358770
-org_cap: a train with a green train and multiple trains, including passenger trains with windows and a freight train with a flatbed, chugs along the coastal train, passing by a palm tree-lined train.
-trg_cap: A train with a green train and multiple trains, including passenger trains with windows and a freight train with a flatbed, chugs along the coastal train, passing by a gym.
-instruction: Change the background to gym.
-taskid: 93791

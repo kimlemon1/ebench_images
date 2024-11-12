@@ -1,5 +1,0 @@
-org_img_id: 2386780
-org_cap: A bespectacled person in front of a black bicycle, wearing a fedora hat, a brown suit with a patterned vest, and a cane, surrounded by lush greenery and a white picket fence.
-trg_cap: A bespectacled person in front of a brown bicycle, wearing a fedora hat, a brown suit with a patterned vest, and a cane, surrounded by lush greenery and a white picket fence.
-instruction: Change the color of the bicycle from black to brown.
-taskid: 60014

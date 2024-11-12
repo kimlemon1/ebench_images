@@ -1,5 +1,0 @@
-org_img_id: 2356374
-org_cap: A red bus travels down the main street, with shoppers and pedestrians walking along the sidewalk and passing by the clock tower on the left.
-trg_cap: A red bus travels down the main street, with shoppers and pedestrians walking along the sidewalk and passing by the clock tower on the left, while the shimmering lake glistens in the background.
-instruction: Change the background to lake side.
-taskid: 26992

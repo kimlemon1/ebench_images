@@ -1,5 +1,0 @@
-org_img_id: 2338782
-org_cap: A person on a skateboard, wearing green pants and black shoes, with a black t-shirt and green and black gloves, against a blue wall.
-trg_cap: The cat on a skateboard against a blue wall.
-instruction: Replace the person with a cat.
-taskid: 98400

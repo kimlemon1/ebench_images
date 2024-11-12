@@ -1,5 +1,0 @@
-org_img_id: 1592303
-org_cap: the scene features a gray cell phone placed on a wooden desk, surrounded by various electronic devices, including a computer, speakers, and a phone, with a cluttered background of papers, cds, and other knick-knacks.
-trg_cap: The scene features a gray truck, surrounded by various electronic devices, including a computer, speakers, and a phone, with a cluttered background of papers, CDs, and other knick-knacks.
-instruction: Replace the cell phone with a truck.
-taskid: 106987

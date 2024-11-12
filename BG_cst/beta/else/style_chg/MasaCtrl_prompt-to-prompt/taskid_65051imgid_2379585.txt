@@ -1,5 +1,0 @@
-org_img_id: 2379585
-org_cap: Person stands in the park, holding a frisbee and wearing a blue hat and jeans, with a bright yellow disc above his outstretched hand.
-trg_cap: A cartoon style art depicts a person standing in the park, wearing a blue hat and jeans, holding a frisbee with a bright yellow disc above his outstretched hand.
-instruction: Change the style if the image to cartoon style.
-taskid: 65051

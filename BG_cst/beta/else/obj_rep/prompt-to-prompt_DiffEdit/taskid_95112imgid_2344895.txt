@@ -1,5 +1,0 @@
-org_img_id: 2344895
-org_cap: a young person in a bright blue jacket, wearing a blue hat and goggles, is carving through the snow on a black snowboard, with the mountain and trees in the background.
-trg_cap: A young person in a bright blue jacket, wearing a blue hat and goggles, is carving through the snow on a cow, with mountains and trees in the background.
-instruction: Replace the snowboard with a cow.
-taskid: 95112

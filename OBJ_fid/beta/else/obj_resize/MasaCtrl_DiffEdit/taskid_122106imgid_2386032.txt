@@ -1,5 +1,0 @@
-org_img_id: 2386032
-org_cap: A white dog with a tail lies on a soft blue blanket, its snout inches from a book titled "flamingo", its ears as it listens to its owner reading aloud.
-trg_cap: A large white dog with a tail lies on a soft blue blanket, its snout inches from a book titled "flamingo", its ears as it listens to its owner reading aloud.
-instruction: Make the dog larger.
-taskid: 122106

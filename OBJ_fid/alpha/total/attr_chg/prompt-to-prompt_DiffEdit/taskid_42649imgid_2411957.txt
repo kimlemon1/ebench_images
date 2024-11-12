@@ -1,5 +1,0 @@
-org_img_id: 2411957
-org_cap: A black train rumbles through the night, its headlights illuminating the dark landscape as it hauls a long string of cars behind it.
-trg_cap: A tan train rumbles through the night, its headlights illuminating the dark landscape as it hauls a long string of cars behind it.
-instruction: Change the color of the train from black to tan.
-taskid: 42649

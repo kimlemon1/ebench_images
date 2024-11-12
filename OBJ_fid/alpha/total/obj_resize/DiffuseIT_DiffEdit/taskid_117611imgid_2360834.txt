@@ -1,5 +1,0 @@
-org_img_id: 2360834
-org_cap: The vase is a clear glass cylinder with a rounded body and a flared mouth, sitting on a black tablecloth.
-trg_cap: The vase is a small clear glass cylinder with a rounded body and a flared mouth, sitting on a black tablecloth.
-instruction: Make the vase smaller.
-taskid: 117611

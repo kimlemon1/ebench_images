@@ -1,5 +1,0 @@
-org_img_id: 2378328
-org_cap: Person on a grassy lawn, with a frisbee in their hand, with a plate in the other hand, and a fence in the background.
-trg_cap: Large person on a grassy lawn, with a frisbee in their hand, with a plate in the other hand, and a fence in the background.
-instruction: Make the person larger.
-taskid: 20663

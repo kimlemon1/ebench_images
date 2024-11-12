@@ -1,5 +1,0 @@
-org_img_id: 2347898
-org_cap: Person, wearing a yellow helmet and a white and yellow racing suit, with a yellow stripe on his helmet and a determined expression on his face.
-trg_cap: Person, wearing a yellow helmet and a white and yellow racing suit, with a yellow stripe on his helmet and a determined expression on his face, stands in a living room.
-instruction: Change the background to living room.
-taskid: 73508

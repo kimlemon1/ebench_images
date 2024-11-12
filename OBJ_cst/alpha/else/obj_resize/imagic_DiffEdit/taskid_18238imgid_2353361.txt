@@ -1,5 +1,0 @@
-org_img_id: 2353361
-org_cap: a little girl sits on a bed, surrounded by toys and a book.
-trg_cap: a little girl sits on a bed, surrounded by toys and a small book.
-instruction: Make the book smaller.
-taskid: 18238

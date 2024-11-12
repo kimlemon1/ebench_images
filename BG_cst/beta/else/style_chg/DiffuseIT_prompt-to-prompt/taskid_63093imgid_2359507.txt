@@ -1,5 +1,0 @@
-org_img_id: 2359507
-org_cap: a skateboarder in his mid-30s with a rugged beard and a messy mop of hair, wearing a black helmet and a pair of ripped jeans, glides effortlessly across the pavement on his bright green skateboard.
-trg_cap: The mosaic art features a skateboarder in his mid-30s with a rugged beard and a messy mop of hair, wearing a black helmet and a pair of ripped jeans, gliding effortlessly across the pavement on his bright green skateboard.
-instruction: Change the style if the image to mosaic art.
-taskid: 63093

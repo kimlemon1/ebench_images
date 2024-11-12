@@ -1,5 +1,0 @@
-org_img_id: 2354743
-org_cap: The sink is a white sink with a chrome faucet and a single handle.
-trg_cap: The sink is a gray sink with a chrome faucet and a single handle.
-instruction: Change the color of the sink from white to gray.
-taskid: 101999

@@ -1,5 +1,0 @@
-org_img_id: 2383019
-org_cap: a standing black cow in a field surrounded by golden yellow aspen trees and a distant mountain range in the background.
-trg_cap: a standing black cow in a gym surrounded by golden yellow aspen trees and a distant mountain range in the background.
-instruction: Change the background to gym.
-taskid: 58961

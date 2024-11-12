@@ -1,5 +1,0 @@
-org_img_id: 285710
-org_cap: the dog, a muscular brown and white dog with a distinctive white patch on its forehead, across a messy bed, its paws and its snout on a rumpled orange blanket.
-trg_cap: The pop art style piece features a muscular brown and white dog with a distinctive white patch on its forehead, sprawled across a messy bed with its paws and snout on a rumpled orange blanket.
-instruction: Change the style if the image to pop art style.
-taskid: 4436

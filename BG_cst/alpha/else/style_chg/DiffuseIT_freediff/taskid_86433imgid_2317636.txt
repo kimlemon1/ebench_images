@@ -1,5 +1,0 @@
-org_img_id: 2317636
-org_cap: a wet, brown, running dog on the beach, its paws in the waves as it after a yellow tennis ball.
-trg_cap: A graffiti art piece depicts a wet, brown dog running on the beach, its paws in the waves as it chases a yellow tennis ball.
-instruction: Change the style if the image to graffiti art.
-taskid: 86433

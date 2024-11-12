@@ -1,5 +1,0 @@
-org_img_id: 2319474
-org_cap: The baseball bat, worn and weathered from countless swings, stood upright in the batter's box, its worn leather wrapping and scuffed wooden handle a testament to the countless battles it had seen.
-trg_cap: The baseball bat, worn and weathered from countless swings, stood upright in the batter's box, its worn leather wrapping and scuffed wooden handle a testament to the countless battles it had seen, now displayed as a cherished artifact in the museum.
-instruction: Change the background to museum.
-taskid: 8165

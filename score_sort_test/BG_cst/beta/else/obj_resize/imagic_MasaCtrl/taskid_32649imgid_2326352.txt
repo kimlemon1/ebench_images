@@ -1,0 +1,5 @@
+org_img_id: 2326352
+org_cap: A white bus awaits its passengers with a cheerful driver standing outside, adjusting the bouquet tied to the front door.
+trg_cap: A small white bus awaits its passengers with a cheerful driver standing outside, adjusting the bouquet tied to the front door.
+instruction: Make the bus smaller.
+taskid: 32649

@@ -1,5 +1,0 @@
-org_img_id: 2316818
-org_cap: The kitchen features a small refrigerator with a stainless steel door and a trash can in the corner.
-trg_cap: The kitchen features a large refrigerator with a stainless steel door and a trash can in the corner.
-instruction: Make the refrigerator larger.
-taskid: 79058

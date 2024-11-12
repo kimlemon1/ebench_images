@@ -1,5 +1,0 @@
-org_img_id: 2391559
-org_cap: a brown dog with a tail and a goofy grin peeks out from behind a window, its ears in the wind.
-trg_cap: a large brown dog with a tail and a goofy grin peeks out from behind a window, its ears in the wind.
-instruction: Make the dog larger.
-taskid: 119614

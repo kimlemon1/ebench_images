@@ -1,0 +1,5 @@
+org_img_id: 2400324
+org_cap: The electric locomotive, with its bright green body and gleaming headlights, chugs along the tracks, hauling an old green train.
+trg_cap: The electric locomotive, with its bright green body and gleaming headlights, chugs along the tracks, hauling an new green train.
+instruction: Change the state of the train from old to new.
+taskid: 27015

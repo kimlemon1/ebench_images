@@ -1,5 +1,0 @@
-org_img_id: 286019
-org_cap: a senior citizen, dressed in casual athletic wear with a bright orange fleece and a hat, sits on a white, ornate bench, surrounded by fall foliage with vibrant red and yellow leaves.
-trg_cap: a senior citizen, dressed in casual athletic wear with a bright orange fleece and a hat, sits on a small, white, ornate bench, surrounded by fall foliage with vibrant red and yellow leaves.
-instruction: Make the bench smaller.
-taskid: 84432

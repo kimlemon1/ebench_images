@@ -1,5 +1,0 @@
-org_img_id: 2322795
-org_cap: The white clock face adorns the ceiling, its intricate details and angelic figures frozen in time, a testament to the era's opulence and craftsmanship.
-trg_cap: The granite clock face adorns the ceiling, its intricate details and angelic figures frozen in time, a testament to the era's opulence and craftsmanship.
-instruction: Change the color of the clock from white to granite.
-taskid: 5098

@@ -1,5 +1,0 @@
-org_img_id: 2399451
-org_cap: A large black bear on a fallen tree trunk, its fur a dark brown color, with a few berries and leaves scattered around bear.
-trg_cap: A Van Gogh style art features a large black bear with dark brown fur on a fallen tree trunk, surrounded by a few scattered berries and leaves.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 82719

@@ -1,5 +1,0 @@
-org_img_id: 2401176
-org_cap: a person rides a bicycle with a flat tire, wearing a black t-shirt and a baseball cap with a curved brim, over a crosswalk with a yellow line and a parked car in the background.
-trg_cap: The mosaic art depicts a person riding a bicycle with a flat tire, wearing a black t-shirt and a baseball cap with a curved brim, over a crosswalk with a yellow line and a parked car in the background.
-instruction: Change the style if the image to mosaic art.
-taskid: 59049

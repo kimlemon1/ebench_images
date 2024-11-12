@@ -1,5 +1,0 @@
-org_img_id: 2335471
-org_cap: a bright red double-decker bus with a large billboard advertising fashion brand is parked on the side of the road.
-trg_cap: A clock is parked on its side of the road.
-instruction: Replace the bus with a clock.
-taskid: 54642

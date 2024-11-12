@@ -1,5 +1,0 @@
-org_img_id: 2381525
-org_cap: a snowboarder in a blue jacket and orange snowboard jumps off a snowbank, his boots leaving a trail in the fresh powder as he flies through the air, his orange snowboard spinning in a blur of motion.
-trg_cap: a snowboarder in a blue jacket and brown snowboard jumps off a snowbank, his boots leaving a trail in the fresh powder as he flies through the air, his brown snowboard spinning in a blur of motion.
-instruction: Change the color of the snowboard from orange to brown.
-taskid: 47696

@@ -1,5 +1,0 @@
-org_img_id: 2368909
-org_cap: a black cow in a green meadow, wearing a metal tag around its neck.
-trg_cap: a small black cow in a green meadow, wearing a metal tag around its neck.
-instruction: Make the cow smaller.
-taskid: 98385

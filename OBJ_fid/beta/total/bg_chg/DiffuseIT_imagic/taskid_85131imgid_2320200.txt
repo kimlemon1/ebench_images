@@ -1,5 +1,0 @@
-org_img_id: 2320200
-org_cap: The room features a comfortable bed with a wooden headboard, a desk with a chair, and a TV mounted on the wall.
-trg_cap: The room, located near the bustling airport, features a comfortable bed with a wooden headboard, a desk with a chair, and a TV mounted on the wall.
-instruction: Change the background to airport.
-taskid: 85131

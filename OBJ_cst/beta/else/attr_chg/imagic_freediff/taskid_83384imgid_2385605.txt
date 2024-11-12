@@ -1,5 +1,0 @@
-org_img_id: 2385605
-org_cap: A brown tabby cat lies on its back in front of a laptop, its paws and its body.
-trg_cap: A brown black cat lies on its back in front of a laptop, its paws and its body.
-instruction: Change the color of the cat from tabby to black.
-taskid: 83384

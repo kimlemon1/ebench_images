@@ -1,5 +1,0 @@
-org_img_id: 2409283
-org_cap: A gray metal bench sits in a small park or garden, with a brown bird sitting on the edge, its beak pointed slightly upwards as it gazes intently at something in the distance.
-trg_cap: A gray metal bench sits in a small park or garden, with a brown bird sitting on the edge, its beak pointed slightly upwards as it gazes intently at something in the distance, while an airplane flies below the bird.
-instruction: Add a airplane under the bird.
-taskid: 121899

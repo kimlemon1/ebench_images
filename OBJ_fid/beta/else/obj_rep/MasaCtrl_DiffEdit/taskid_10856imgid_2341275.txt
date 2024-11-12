@@ -1,5 +1,0 @@
-org_img_id: 2341275
-org_cap: "Snowboard on his snowboard, his red jacket and snowboard as he performs a trick on the snowy hill."
-trg_cap: Toothbrush on his red jacket as he performs a trick on the snowy hill.
-instruction: Replace the snowboard with a toothbrush.
-taskid: 10856

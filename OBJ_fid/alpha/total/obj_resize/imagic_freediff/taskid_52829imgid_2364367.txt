@@ -1,5 +1,0 @@
-org_img_id: 2364367
-org_cap: a lone person walks down a city street, carrying a shopping bag and wearing a white shirt and blue pants, with a bus parked at the curb and a white line on the asphalt.
-trg_cap: a lone person walks down a city street, carrying a shopping bag and wearing a white shirt and blue pants, with a large bus parked at the curb and a white line on the asphalt.
-instruction: Make the bus larger.
-taskid: 52829

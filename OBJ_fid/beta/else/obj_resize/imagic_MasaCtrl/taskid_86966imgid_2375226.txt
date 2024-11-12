@@ -1,5 +1,0 @@
-org_img_id: 2375226
-org_cap: Person and i sit on the back of a elephant, its skin glistening in the sunlight, its tusks gleaming with a sheen, through the lush jungle terrain.
-trg_cap: Person and i sit on the back of a large elephant, its skin glistening in the sunlight, its tusks gleaming with a sheen, through the lush jungle terrain.
-instruction: Make the elephant larger.
-taskid: 86966

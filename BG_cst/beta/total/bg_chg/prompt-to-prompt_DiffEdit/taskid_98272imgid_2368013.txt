@@ -1,5 +1,0 @@
-org_img_id: 2368013
-org_cap: person holds a giant hot dog with relish and mustard, his face smeared with condiments and sporting a goofy grin.
-trg_cap: In the hospital cafeteria, the person holds a giant hot dog with relish and mustard, his face smeared with condiments and sporting a goofy grin.
-instruction: Change the background to hospital.
-taskid: 98272

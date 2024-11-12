@@ -1,5 +1,0 @@
-org_img_id: 2398228
-org_cap: Crouched, person rides a skateboard with a yellow stripe on the asphalt road.
-trg_cap: Crouched, person rides a skateboard with a yellow stripe on the asphalt road through the desert.
-instruction: Change the background to desert.
-taskid: 18688

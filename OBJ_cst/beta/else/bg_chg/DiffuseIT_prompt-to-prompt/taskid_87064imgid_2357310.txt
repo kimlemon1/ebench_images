@@ -1,5 +1,0 @@
-org_img_id: 2357310
-org_cap: a person sits in front of a laptop, typing on the keyboard with their fingers flying across the screen as they gaze intently at the digital map unfolding on the laptop's screen.
-trg_cap: A person sits in front of a laptop, typing on the keyboard with their fingers flying across the screen as they gaze intently at the digital map unfolding on the laptop's screen, surrounded by the vast expanse of a snow field.
-instruction: Change the background to snow field.
-taskid: 87064

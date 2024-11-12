@@ -1,5 +1,0 @@
-org_img_id: 1592428
-org_cap: a teddy bear sits on a black chair, its soft fur and stitched seams visible, with a faint scent of fabric softener lingering in the air.
-trg_cap: An oil painting style art depicts a teddy bear sitting on a black chair, its soft fur and stitched seams visible, with a faint scent of fabric softener lingering in the air.
-instruction: Change the style if the image to oil painting style.
-taskid: 53502

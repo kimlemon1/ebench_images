@@ -1,5 +1,0 @@
-org_img_id: 2406158
-org_cap: a skateboarder leaps through the air, his white skateboard spinning and flipping.
-trg_cap: A skateboarder leaps through the air, his white skateboard spinning and flipping, with a person positioned underneath.
-instruction: Add a person under the skateboard.
-taskid: 117433

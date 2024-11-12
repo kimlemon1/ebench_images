@@ -1,5 +1,0 @@
-org_img_id: 2389596
-org_cap: Young, playing person dribbles the ball across the grassy field, eyes fixed on the goal as he navigates the opposing team's defense.
-trg_cap: A small, young, playing person dribbles the ball across the grassy field, eyes fixed on the goal as he navigates the opposing team's defense.
-instruction: Make the person smaller.
-taskid: 5011

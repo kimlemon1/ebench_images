@@ -1,5 +1,0 @@
-org_img_id: 2327275
-org_cap: a middle-aged person sat on a wooden bench, surrounded by a flock of pigeons pecking at crumbs scattered on the grass.
-trg_cap: a middle-aged person sat on a small wooden bench, surrounded by a flock of pigeons pecking at crumbs scattered on the grass.
-instruction: Make the bench smaller.
-taskid: 9377

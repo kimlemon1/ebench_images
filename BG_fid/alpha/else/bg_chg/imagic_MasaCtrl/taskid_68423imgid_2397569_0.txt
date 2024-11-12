@@ -1,5 +1,0 @@
-org_img_id: 2397569_0
-org_cap: The bus is a white, air-conditioned, 12-meter long bus with a green stripe running along its sides, featuring a large glass window and a curved roof.
-trg_cap: The bus, reminiscent of a spacious living room with its comfortable seating and ambient lighting, is a white, air-conditioned, 12-meter long bus with a green stripe running along its sides, featuring a large glass window and a curved roof.
-instruction: Change the background to living room.
-taskid: 68423

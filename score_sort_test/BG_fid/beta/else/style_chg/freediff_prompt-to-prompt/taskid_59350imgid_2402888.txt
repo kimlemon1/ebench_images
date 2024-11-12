@@ -1,0 +1,5 @@
+org_img_id: 2402888
+org_cap: a rugged person, person, a brown horse, its mane as he his hat in a gesture of respect.
+trg_cap: An ancient Egyptian-style artwork features a rugged person and a brown horse, with its mane, as he tips his hat in a gesture of respect.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 59350

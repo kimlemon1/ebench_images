@@ -1,5 +1,0 @@
-org_img_id: 2360664
-org_cap: "person on a snowboard, wearing a helmet and a bright yellow snowsuit with a blue snowboard in the background."
-trg_cap: "truck on a snowboard, with a blue one in the background."
-instruction: Replace the person with a truck.
-taskid: 99102

@@ -1,5 +1,0 @@
-org_img_id: 2399801
-org_cap: a white dog runs alongside a cow with a black and white striped hide, both traversing a lush green meadow.
-trg_cap: a gold dog runs alongside a cow with a black and gold striped hide, both traversing a lush green meadow.
-instruction: Change the color of the dog from white to gold.
-taskid: 83669

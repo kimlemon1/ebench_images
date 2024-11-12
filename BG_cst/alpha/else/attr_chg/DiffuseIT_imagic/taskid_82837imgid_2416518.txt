@@ -1,5 +1,0 @@
-org_img_id: 2416518
-org_cap: A slice of chocolate cake sat on a plate, topped with a dollop of creamy butter and surrounded by the pages of a worn novel.
-trg_cap: A slice of cream colored cake sat on a plate, topped with a dollop of creamy butter and surrounded by the pages of a worn novel.
-instruction: Change the color of the cake from chocolate to cream colored.
-taskid: 82837

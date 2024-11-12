@@ -1,5 +1,0 @@
-org_img_id: 2374988
-org_cap: The gold clock is set against a blue glass and steel backdrop.
-trg_cap: The gold clock is set against a blue glass and steel backdrop with a pine forest in the background.
-instruction: Change the background to pine forest.
-taskid: 119351

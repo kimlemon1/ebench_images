@@ -1,0 +1,5 @@
+org_img_id: 2368623
+org_cap: a baby elephant, its trunk curled and its ears flapping.
+trg_cap: a elderly elephant, its trunk curled and its ears flapping.
+instruction: Change the state of the elephant from baby to elderly.
+taskid: 6337

@@ -1,5 +1,0 @@
-org_img_id: 2343699
-org_cap: An old, elderly person is sitting in a brown, wood chair, her eyes on a large, brightly lit cake with candles.
-trg_cap: An old, elderly person is sitting in a large, brown, wood chair, her eyes on a large, brightly lit cake with candles.
-instruction: Make the chair larger.
-taskid: 600

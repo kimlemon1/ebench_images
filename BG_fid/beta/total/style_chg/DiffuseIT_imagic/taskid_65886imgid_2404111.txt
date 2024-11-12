@@ -1,5 +1,0 @@
-org_img_id: 2404111
-org_cap: The rusty red fire hydrant stood tall amidst the autumnal foliage, its metal surface weathered to a warm patina, surrounded by a carpet of crunchy leaves.
-trg_cap: The mosaic art contains a rusty red fire hydrant standing tall amidst the autumnal foliage, its metal surface weathered to a warm patina and surrounded by a carpet of crunchy leaves.
-instruction: Change the style if the image to mosaic art.
-taskid: 65886

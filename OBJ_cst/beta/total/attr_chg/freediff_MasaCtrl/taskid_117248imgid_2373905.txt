@@ -1,5 +1,0 @@
-org_img_id: 2373905
-org_cap: a brown cow in a sunny field, its ears and its tail.
-trg_cap: a gray cow in a sunny field, its ears and its tail.
-instruction: Change the color of the cow from brown to gray.
-taskid: 117248

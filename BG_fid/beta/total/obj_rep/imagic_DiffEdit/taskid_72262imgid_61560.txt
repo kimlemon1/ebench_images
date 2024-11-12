@@ -1,5 +1,0 @@
-org_img_id: 61560
-org_cap: Person on the beach, wearing a black wetsuit and a surfboard, with waves crashing in the background.
-trg_cap: Parking meter on the beach, with their waves crashing in the background.
-instruction: Replace the person with a parking meter.
-taskid: 72262

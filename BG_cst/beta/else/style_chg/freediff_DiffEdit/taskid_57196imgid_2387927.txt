@@ -1,5 +1,0 @@
-org_img_id: 2387927
-org_cap: a delicate, antique cup sits on a ornate, vintage tea table, surrounded by a floral patterned teapot and matching saucer, with a plate of sweet treats and a steaming cup of coffee beside it.
-trg_cap: An oil painting style art features a delicate, antique cup on an ornate, vintage tea table, surrounded by a floral patterned teapot and matching saucer, with a plate of sweet treats and a steaming cup of coffee beside it.
-instruction: Change the style if the image to oil painting style.
-taskid: 57196

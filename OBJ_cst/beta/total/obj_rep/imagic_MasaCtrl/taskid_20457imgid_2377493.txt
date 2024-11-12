@@ -1,5 +1,0 @@
-org_img_id: 2377493
-org_cap: The bathroom features a single white sink and a single-handle faucet.
-trg_cap: The bathroom features a single-handle faucet.
-instruction: Replace the sink with a refrigerator.
-taskid: 20457

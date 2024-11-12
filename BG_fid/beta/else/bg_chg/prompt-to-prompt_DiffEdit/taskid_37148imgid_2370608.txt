@@ -1,5 +1,0 @@
-org_img_id: 2370608
-org_cap: The sink was a white sink with a single faucet handle and a blue, mosaic-patterned shower curtain hanging from a metal rod.
-trg_cap: The sink was a white sink with a single faucet handle and a blue, mosaic-patterned shower curtain hanging from a metal rod, located in the gym's locker room.
-instruction: Change the background to gym.
-taskid: 37148

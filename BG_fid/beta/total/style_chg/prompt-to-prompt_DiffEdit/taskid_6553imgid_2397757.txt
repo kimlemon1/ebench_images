@@ -1,5 +1,0 @@
-org_img_id: 2397757
-org_cap: a slice of moist chocolate cake with creamy frosting and colorful sprinkles on top is held in a person's hand.
-trg_cap: An ancient Egyptian-style artwork depicts a slice of moist chocolate cake with creamy frosting and colorful sprinkles on top, held in a person's hand.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 6553

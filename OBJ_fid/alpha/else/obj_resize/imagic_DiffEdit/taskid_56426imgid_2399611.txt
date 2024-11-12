@@ -1,5 +1,0 @@
-org_img_id: 2399611
-org_cap: A polar bear, its bear fluffed and its paws, a large beach bear.
-trg_cap: A small polar bear, its bear fluffed and its paws, a large beach bear.
-instruction: Make the bear smaller.
-taskid: 56426

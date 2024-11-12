@@ -1,0 +1,5 @@
+org_img_id: 2409777
+org_cap: A yellow fire hydrant stands alone on a dusty construction site, surrounded by wooden barriers and a backdrop of half-built buildings.
+trg_cap: A silver fire hydrant stands alone on a dusty construction site, surrounded by wooden barriers and a backdrop of half-built buildings.
+instruction: Change the color of the fire hydrant from yellow to silver.
+taskid: 72291

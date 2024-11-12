@@ -1,5 +1,0 @@
-org_img_id: 2413332
-org_cap: standing person rides a white surfboard, feet surfing gripping the.
-trg_cap: Standing person rides a white surfboard, feet surfing gripping the, in a museum exhibit showcasing the history of surfing.
-instruction: Change the background to museum.
-taskid: 7531

@@ -1,5 +1,0 @@
-org_img_id: 2391935
-org_cap: young person a horse across a dusty, grassy field.
-trg_cap: young person a horse across a dusty, grassy field in a desert.
-instruction: Change the background to desert.
-taskid: 84293

@@ -1,5 +1,0 @@
-org_img_id: 2343308
-org_cap: the bus is a sleek, hybrid bus with a bright green and white striped livery, featuring a prominent logo on the side and a distinctive curved front end.
-trg_cap: The bus is a sleek, hybrid bus with a bright green and white striped livery, featuring a prominent logo on the side and a distinctive curved front end, standing out against the arid desert backdrop.
-instruction: Change the background to desert.
-taskid: 94947

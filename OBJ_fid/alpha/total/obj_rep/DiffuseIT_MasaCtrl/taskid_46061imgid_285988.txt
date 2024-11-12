@@ -1,5 +1,0 @@
-org_img_id: 285988
-org_cap: a rugged cowboy on a brown horse around the dusty arena, lasso in hand, as the crowd cheers and cameras capture the thrilling scene.
-trg_cap: A rugged cowboy on a spoon, lasso in hand, as the crowd cheers and cameras capture the thrilling scene.
-instruction: Replace the horse with a spoon.
-taskid: 46061

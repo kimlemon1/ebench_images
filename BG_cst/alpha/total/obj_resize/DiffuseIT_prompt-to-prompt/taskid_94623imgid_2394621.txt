@@ -1,5 +1,0 @@
-org_img_id: 2394621
-org_cap: a person in their mid-twenties with short brown hair and a red t-shirt holds a controller in each hand, standing in front of a computer monitor displaying a tv with a video game in progress.
-trg_cap: a person in their mid-twenties with short brown hair and a red t-shirt holds a controller in each hand, standing in front of a computer monitor displaying a small tv with a video game in progress.
-instruction: Make the tv smaller.
-taskid: 94623

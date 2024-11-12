@@ -1,5 +1,0 @@
-org_img_id: 2355734
-org_cap: A gray tabby cat, looking up, sat on the sidewalk, its fur in a relaxed pose, next to a parked scooter with a yellow license plate.
-trg_cap: A large gray tabby cat, looking up, sat on the sidewalk, its fur in a relaxed pose, next to a parked scooter with a yellow license plate.
-instruction: Make the cat larger.
-taskid: 70206

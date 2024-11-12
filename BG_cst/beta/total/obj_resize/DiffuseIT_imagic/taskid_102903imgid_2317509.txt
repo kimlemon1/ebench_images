@@ -1,5 +1,0 @@
-org_img_id: 2317509
-org_cap: airplane, a sleek and modern airplane with a bright blue and white livery, taxis down the runway with a roar of engines and a burst of speed.
-trg_cap: airplane, a large, sleek and modern airplane with a bright blue and white livery, taxis down the runway with a roar of engines and a burst of speed.
-instruction: Make the airplane larger.
-taskid: 102903

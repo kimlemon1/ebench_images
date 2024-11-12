@@ -1,5 +1,0 @@
-org_img_id: 2404817
-org_cap: a young person holds a blue toothbrush and a brown plastic cup.
-trg_cap: a young person holds a blue toothbrush and a brown porcelain cup.
-instruction: Change the material of the cup from plastic to porcelain.
-taskid: 47095

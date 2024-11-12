@@ -1,5 +1,0 @@
-org_img_id: 2400827
-org_cap: a large, dark metal baking sheet lies flat on a stainless steel counter, topped with a perfectly formed pizza, adorned with vibrant red bell peppers and green olives, arranged in a decorative pattern.
-trg_cap: A large, dark metal baking sheet lies flat on a stainless steel counter, topped with a perfectly formed pizza, adorned with vibrant red bell peppers and green olives, arranged in a decorative pattern, as the sound of waves crashing on the nearby beach fills the air.
-instruction: Change the background to beach.
-taskid: 32109

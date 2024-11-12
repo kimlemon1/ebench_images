@@ -1,5 +1,0 @@
-org_img_id: 2367715
-org_cap: the bathroom featured a modern, sleek toilet with a low-profile design, situated in front of a large, granite countertop with a single sink and a large mirror above.
-trg_cap: The bathroom, located in a library, featured a modern, sleek toilet with a low-profile design, situated in front of a large, granite countertop with a single sink and a large mirror above.
-instruction: Change the background to library.
-taskid: 32092

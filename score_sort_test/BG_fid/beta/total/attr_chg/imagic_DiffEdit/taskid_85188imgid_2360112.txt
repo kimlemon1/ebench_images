@@ -1,0 +1,5 @@
+org_img_id: 2360112
+org_cap: A blue airplane flies down the runway, its engines roaring as it gains speed and lifts off the ground.
+trg_cap: A dotted airplane flies down the runway, its engines roaring as it gains speed and lifts off the ground.
+instruction: Change the color of the airplane from blue to dotted.
+taskid: 85188

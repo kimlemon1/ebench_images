@@ -1,5 +1,0 @@
-org_img_id: 2328511
-org_cap: a weathered wooden bench sits beneath the sprawling branches of a palm tree, its worn surface and rustic design blending seamlessly into the serene coastal landscape.
-trg_cap: A frisbee sits beneath the sprawling branches of a palm tree, blending seamlessly into its serene coastal landscape.
-instruction: Replace the bench with a frisbee.
-taskid: 115390

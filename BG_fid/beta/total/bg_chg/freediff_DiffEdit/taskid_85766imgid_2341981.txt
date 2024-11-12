@@ -1,5 +1,0 @@
-org_img_id: 2341981
-org_cap: airplane, a sleek and modern airplane with a curved fuselage, swept wings, and a distinctive tail fin, taxis down the runway with its engines roaring, leaving a trail of smoke and noise in its wake.
-trg_cap: airplane, a sleek and modern airplane with a curved fuselage, swept wings, and a distinctive tail fin, taxis down the runway with its engines roaring, leaving a trail of smoke and noise in its wake, much like a fish gliding through the water in an aquarium, leaving ripples behind.
-instruction: Change the background to aquarium.
-taskid: 85766

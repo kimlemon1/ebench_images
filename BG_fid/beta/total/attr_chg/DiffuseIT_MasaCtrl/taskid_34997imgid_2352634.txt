@@ -1,5 +1,0 @@
-org_img_id: 2352634
-org_cap: A black cat sits on a rusty railing, its fur glistening in the sunlight.
-trg_cap: A white cat sits on a rusty railing, its fur glistening in the sunlight.
-instruction: Change the color of the cat from black to white.
-taskid: 34997

@@ -1,0 +1,5 @@
+org_img_id: 2411562
+org_cap: a young person wearing a red athletic jersey and red athletic shorts walks down the sidewalk, carrying a black backpack.
+trg_cap: A young person wearing a red athletic jersey and red athletic shorts walks down the sidewalk, carrying a black backpack, while another person is in front of the backpack.
+instruction: Add a person in front of the backpack.
+taskid: 97992

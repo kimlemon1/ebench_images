@@ -1,5 +1,0 @@
-org_img_id: 2385797
-org_cap: The black, unlit traffic light is a box with a top and a series of buttons and lights on its front, surrounded by a decorative metal frame with a flower pot attached to it.
-trg_cap: The pop art style artwork features a black, unlit traffic light, designed as a box with a top and a series of buttons and lights on its front, surrounded by a decorative metal frame with a flower pot attached to it.
-instruction: Change the style if the image to pop art style.
-taskid: 61368

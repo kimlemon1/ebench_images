@@ -1,5 +1,0 @@
-org_img_id: 2332582
-org_cap: Person stands on the person's mound, wearing a baseball cap and a baseball glove, with a focused expression on his face.
-trg_cap: A graffiti art depicts a person standing on a mound, wearing a baseball cap and a baseball glove, with a focused expression on their face.
-instruction: Change the style if the image to graffiti art.
-taskid: 68336

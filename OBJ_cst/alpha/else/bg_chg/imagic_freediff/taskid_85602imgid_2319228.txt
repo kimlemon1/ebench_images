@@ -1,5 +1,0 @@
-org_img_id: 2319228
-org_cap: A banana and a banana sit on a plate, with a banana resembling a face with a smile.
-trg_cap: A banana and a banana sit on a plate, with a banana resembling a face with a smile, set against the backdrop of a pine forest.
-instruction: Change the background to pine forest.
-taskid: 85602

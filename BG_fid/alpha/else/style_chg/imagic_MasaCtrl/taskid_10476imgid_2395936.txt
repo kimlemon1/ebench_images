@@ -1,5 +1,0 @@
-org_img_id: 2395936
-org_cap: a lone rider on a gray walking horse down the street, flanked by a white truck parked at the curb.
-trg_cap: An oil painting style artwork depicts a lone rider on a gray walking horse down the street, flanked by a white truck parked at the curb.
-instruction: Change the style if the image to oil painting style.
-taskid: 10476

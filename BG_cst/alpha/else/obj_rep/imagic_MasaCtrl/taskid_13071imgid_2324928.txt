@@ -1,5 +1,0 @@
-org_img_id: 2324928
-org_cap: a young woman with a green shirt and a bright smile holds a silver cell phone in her hand, taking a selfie with a serious expression.
-trg_cap: A young woman with a green shirt and a bright smile holds a truck, taking a selfie with her serious expression.
-instruction: Replace the cell phone with a truck.
-taskid: 13071

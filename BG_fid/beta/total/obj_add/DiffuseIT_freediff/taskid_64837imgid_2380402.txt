@@ -1,5 +1,0 @@
-org_img_id: 2380402
-org_cap: A surfing person rides a surfboard through a wave, his arms and legs lying as he rides through the water.
-trg_cap: A surfing person rides a surfboard through a wave, his arms and legs lying as he rides through the water, with a skateboard behind him.
-instruction: Add a skateboard behind the person.
-taskid: 64837

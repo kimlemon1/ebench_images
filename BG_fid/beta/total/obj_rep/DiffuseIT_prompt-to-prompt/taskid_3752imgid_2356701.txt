@@ -1,5 +1,0 @@
-org_img_id: 2356701
-org_cap: The brown dog's face is framed by a ring, with a gap at the top where its ears.
-trg_cap: The laptop's face is framed by a ring, with a gap at the top where its ears are.
-instruction: Replace the dog with a laptop.
-taskid: 3752

@@ -1,5 +1,0 @@
-org_img_id: 2315842
-org_cap: The ornate clock tower stands tall, its intricate carvings and gilded details gleaming in the soft light, with the clock at its center, featuring the iconic image of monarch.
-trg_cap: The ornate clock tower stands tall, its intricate carvings and gilded details gleaming in the soft light, with the clock at its center, featuring the iconic image of monarch, and a chair on the right side of the clock.
-instruction: Add a chair on the right side of the clock.
-taskid: 68353

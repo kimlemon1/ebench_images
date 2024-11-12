@@ -1,5 +1,0 @@
-org_img_id: 2407864
-org_cap: a standing person in front of a colorful fruit stand, surrounded by a pyramid of fruits, including oranges, apples, and exotic fruits, with a few flowers and leaves scattered around the base, adding a pop of color to the already vibrant display.
-trg_cap: a standing person in front of a colorful fruit stand, with a surfboard positioned in front of them, surrounded by a pyramid of fruits, including oranges, apples, and exotic fruits, with a few flowers and leaves scattered around the base, adding a pop of color to the already vibrant display.
-instruction: Add a surfboard in front of the person.
-taskid: 110683

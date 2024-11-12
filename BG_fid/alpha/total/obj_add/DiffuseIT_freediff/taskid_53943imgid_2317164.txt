@@ -1,5 +1,0 @@
-org_img_id: 2317164
-org_cap: bear, wearing a backpack and holding a camera, as a massive grizzly bear him on a mountain trail.
-trg_cap: bear, wearing a backpack and holding a camera, as a massive grizzly bear him on a mountain trail, with a boat behind the bear.
-instruction: Add a boat behind the bear.
-taskid: 53943

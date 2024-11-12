@@ -1,5 +1,0 @@
-org_img_id: 498281
-org_cap: a gray cat on a red suitcase, surrounded by clothes and other travel items.
-trg_cap: a white cat on a red suitcase, surrounded by clothes and other travel items.
-instruction: Change the color of the cat from gray to white.
-taskid: 116073

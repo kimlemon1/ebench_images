@@ -1,5 +1,0 @@
-org_img_id: 2326735
-org_cap: a majestic elephant with a grayish brown skin, large ears, and a long trunk, with a person sitting on it, wearing a bright orange hat.
-trg_cap: "a cat with a person sitting on the cat, wearing a bright orange hat."
-instruction: Replace the elephant with a cat.
-taskid: 37568

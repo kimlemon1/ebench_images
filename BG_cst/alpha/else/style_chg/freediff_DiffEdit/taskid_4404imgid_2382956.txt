@@ -1,5 +1,0 @@
-org_img_id: 2382956
-org_cap: a red train chugging along the tracks with a train of red goods.
-trg_cap: A Van Gogh style art features a red train chugging along the tracks with a train of red goods.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 4404

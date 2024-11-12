@@ -1,5 +1,0 @@
-org_img_id: 2316342
-org_cap: person sits on a snowboard, wearing a yellow snowsuit with a blue hat and goggles, and a bright orange snowboard with a cartoon character on it.
-trg_cap: They sit on a stop sign, wearing a yellow snowsuit with a blue hat and goggles.
-instruction: Replace the snowboard with a stop sign.
-taskid: 14227

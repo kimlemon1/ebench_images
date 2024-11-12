@@ -1,5 +1,0 @@
-org_img_id: 2394645
-org_cap: The kitchen features a stainless steel, silver refrigerator, situated against a warm, golden brown wall with a subtle texture.
-trg_cap: The kitchen features a chrome, silver refrigerator, situated against a warm, golden brown wall with a subtle texture.
-instruction: Change the material of the refrigerator from stainless steel to chrome.
-taskid: 114637

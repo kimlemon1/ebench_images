@@ -1,5 +1,0 @@
-org_img_id: 2394736
-org_cap: person rides a surfboard, his long hair in the wind as he carves through a wave with a stroke.
-trg_cap: An ancient Egyptian-style artwork depicts a person riding a surfboard, his long hair flowing in the wind as he carves through a wave with a stroke.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 3509

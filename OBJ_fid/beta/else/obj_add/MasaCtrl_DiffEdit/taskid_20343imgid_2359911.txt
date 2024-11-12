@@ -1,5 +1,0 @@
-org_img_id: 2359911
-org_cap: a brown dog with a worn, fluffy coat in the back of a rusty, white pickup truck, surrounded by a jumble of luggage, clothes, and camping gear.
-trg_cap: a brown dog with a worn, fluffy coat in the back of a rusty, white pickup truck, lying on a couch, surrounded by a jumble of luggage, clothes, and camping gear.
-instruction: Add a couch under the dog.
-taskid: 20343

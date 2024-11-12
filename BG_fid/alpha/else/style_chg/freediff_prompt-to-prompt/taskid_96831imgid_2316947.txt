@@ -1,5 +1,0 @@
-org_img_id: 2316947
-org_cap: Person sits in a red sweater and jeans, her legs and ankles as she in a leather recliner, surrounded by the warm glow of a cozy living room.
-trg_cap: A Van Gogh style art depicts a person sitting in a leather recliner, wearing a red sweater and jeans, with her legs and ankles visible, surrounded by the warm glow of a cozy living room.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 96831

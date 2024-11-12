@@ -1,5 +1,0 @@
-org_img_id: 2361933
-org_cap: the scene shows a person in a kitchen, surrounded by cooking utensils and ingredients, with a large pot of macaroni and cheese on the stove and a baking sheet with cherry tomatoes and cauliflower.
-trg_cap: The scene shows a person in a kitchen, surrounded by cooking utensils and ingredients, with a large pot of macaroni and cheese on the stove and a baking sheet with cherry tomatoes and cauliflower, set against the backdrop of a bustling stadium.
-instruction: Change the background to stadium.
-taskid: 1314

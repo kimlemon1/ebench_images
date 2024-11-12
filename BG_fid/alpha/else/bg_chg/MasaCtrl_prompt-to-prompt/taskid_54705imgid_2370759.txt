@@ -1,5 +1,0 @@
-org_img_id: 2370759
-org_cap: The black cup sat next to a laptop with a keyboard and a tablet device.
-trg_cap: In the vineyard, the black cup sat next to a laptop with a keyboard and a tablet device.
-instruction: Change the background to vineyard.
-taskid: 54705

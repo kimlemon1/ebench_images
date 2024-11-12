@@ -1,5 +1,0 @@
-org_img_id: 2391223
-org_cap: a class 156 orange train speeding along the tracks with its doors open and passengers waving goodbye.
-trg_cap: a class 156 striped train speeding along the tracks with its doors open and passengers waving goodbye.
-instruction: Change the color of the train from orange to striped.
-taskid: 88756

@@ -1,5 +1,0 @@
-org_img_id: 2416910
-org_cap: the bus is a yellow bus.
-trg_cap: The art is a watercolor painting style featuring a yellow bus.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 85600

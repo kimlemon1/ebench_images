@@ -1,5 +1,0 @@
-org_img_id: 2372654
-org_cap: the clock tower features a gold-plated finial atop a domed structure with intricate stone carvings and stained glass windows.
-trg_cap: The clock tower features a gold-plated finial atop a domed structure with intricate stone carvings and stained glass windows, with a train located in front of the clock.
-instruction: Add a train in front of the clock.
-taskid: 53132

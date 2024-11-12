@@ -1,5 +1,0 @@
-org_img_id: 2403182
-org_cap: a black bird on a wooden bench, its feathers blending with the rustic surroundings, from a throne-like seat.
-trg_cap: A black bird on a wooden bench, its feathers blending with the rustic surroundings, from a throne-like seat, with an apple in front of it.
-instruction: Add a apple in front of the bird.
-taskid: 83409

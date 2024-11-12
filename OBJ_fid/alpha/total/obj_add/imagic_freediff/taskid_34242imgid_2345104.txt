@@ -1,5 +1,0 @@
-org_img_id: 2345104
-org_cap: a person wearing a green t-shirt and black shorts rides a skateboard with a yellow wheel and a brown grip tape.
-trg_cap: a person wearing a green t-shirt and black shorts rides a skateboard with a yellow wheel and a brown grip tape, with a bear sitting on the front of the skateboard.
-instruction: Add a bear on the skateboard.
-taskid: 34242

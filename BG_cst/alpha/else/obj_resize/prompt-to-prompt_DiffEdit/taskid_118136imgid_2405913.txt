@@ -1,5 +1,0 @@
-org_img_id: 2405913
-org_cap: A skating person, on the concrete floor, his gray skateboard through the air as he a series of tricks, his black hoodie and pants a blur.
-trg_cap: A skating person, on the concrete floor, his small gray skateboard through the air as he a series of tricks, his black hoodie and pants a blur.
-instruction: Make the skateboard smaller.
-taskid: 118136

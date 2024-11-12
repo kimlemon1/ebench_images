@@ -1,5 +1,0 @@
-org_img_id: 2415922
-org_cap: Person, wearing a black jersey with a purple logo on the chest, and a pair of cycling shorts with a white stripe running down the side, her hair tied back in a ponytail and a pair of sunglasses perched on her forehead.
-trg_cap: Chair.
-instruction: Replace the person with a chair.
-taskid: 94103

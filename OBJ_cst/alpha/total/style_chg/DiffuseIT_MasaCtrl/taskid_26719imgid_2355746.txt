@@ -1,5 +1,0 @@
-org_img_id: 2355746
-org_cap: the glow of the stainless steel oven and the rustic charm of the bowl in the kitchen create a cozy atmosphere.
-trg_cap: A grey scale photo captures the cozy atmosphere created by the glow of the stainless steel oven and the rustic charm of the bowl in the kitchen.
-instruction: Change the style if the image to grey scale.
-taskid: 26719

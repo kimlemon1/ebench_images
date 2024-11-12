@@ -1,0 +1,5 @@
+org_img_id: 2347081
+org_cap: A living room with a tiled floor, a turned off black TV in the corner, wooden coffe table, and open wooden doors with white and pink curtains.
+trg_cap: A living room with a tiled floor, a turned off blue TV in the corner, wooden coffe table, and open wooden doors with white and pink curtains.
+instruction: Change the color of the tv from black to blue.
+taskid: 97703

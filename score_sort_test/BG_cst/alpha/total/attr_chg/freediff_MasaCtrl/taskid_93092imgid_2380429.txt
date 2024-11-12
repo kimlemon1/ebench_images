@@ -1,0 +1,5 @@
+org_img_id: 2380429
+org_cap: the person blows out the candles on the white cake.
+trg_cap: the person blows out the candles on the cream colored cake.
+instruction: Change the color of the cake from white to cream colored.
+taskid: 93092

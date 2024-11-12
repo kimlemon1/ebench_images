@@ -1,5 +1,0 @@
-org_img_id: 2400037
-org_cap: motorcycle, person, in a red leather jacket and helmet, a pink motorcycle.
-trg_cap: The mosaic art contains a motorcycle, a person in a red leather jacket and helmet, and a pink motorcycle.
-instruction: Change the style if the image to mosaic art.
-taskid: 32734

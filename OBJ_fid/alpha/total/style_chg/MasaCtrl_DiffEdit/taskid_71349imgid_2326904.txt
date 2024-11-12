@@ -1,5 +1,0 @@
-org_img_id: 2326904
-org_cap: a brown and tan dog, with a fluffy coat and floppy ears, leaps into the air to catch a frisbee.
-trg_cap: A grey scale photo shows a brown and tan dog with a fluffy coat and floppy ears leaping into the air to catch a frisbee.
-instruction: Change the style if the image to grey scale.
-taskid: 71349

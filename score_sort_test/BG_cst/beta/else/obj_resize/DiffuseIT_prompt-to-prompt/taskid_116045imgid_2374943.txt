@@ -1,0 +1,5 @@
+org_img_id: 2374943
+org_cap: The vase is a golden, heart-shaped vase with a worn, textured surface and a small, rusty lid on top.
+trg_cap: The vase is a small, golden, heart-shaped vase with a worn, textured surface and a small, rusty lid on top.
+instruction: Make the vase smaller.
+taskid: 116045

@@ -1,5 +1,0 @@
-org_img_id: 2366926
-org_cap: a juicy hot dog topped with melted cheese and served on a square plate with a side of crispy fries.
-trg_cap: a large, juicy hot dog topped with melted cheese and served on a square plate with a side of crispy fries.
-instruction: Make the hot dog larger.
-taskid: 89615

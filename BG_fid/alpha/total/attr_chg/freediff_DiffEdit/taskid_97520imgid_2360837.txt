@@ -1,5 +1,0 @@
-org_img_id: 2360837
-org_cap: A green bench with wood and metal sits on the grassy riverbank, inviting passersby to rest and take in the tranquil views of the river.
-trg_cap: A green bench with steel and metal sits on the grassy riverbank, inviting passersby to rest and take in the tranquil views of the river.
-instruction: Change the material of the bench from wood to steel.
-taskid: 97520

@@ -1,5 +1,0 @@
-org_img_id: 2321620
-org_cap: a black cat, its whiskers, its surroundings.
-trg_cap: The mosaic art contains a black cat, its whiskers, and its surroundings.
-instruction: Change the style if the image to mosaic art.
-taskid: 43265

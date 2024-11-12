@@ -1,5 +1,0 @@
-org_img_id: 2417956
-org_cap: a person sits in a gray armchair, wearing gray leggings and a gray sweater, with a red cushion behind their back, holding a book and typing on a laptop.
-trg_cap: A person sits in a gray armchair, wearing gray leggings and a gray sweater, with a red cushion behind their back, holding a book and typing on a laptop, with a dog in front of the laptop.
-instruction: Add a dog in front of the laptop.
-taskid: 6293

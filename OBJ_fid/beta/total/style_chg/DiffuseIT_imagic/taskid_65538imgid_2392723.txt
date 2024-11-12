@@ -1,5 +1,0 @@
-org_img_id: 2392723
-org_cap: a black, old boat, floating on the calm waters of a lake.
-trg_cap: A pencil sketch depicts a black, old boat floating on the calm waters of a lake.
-instruction: Change the style if the image to pencil sketch.
-taskid: 65538

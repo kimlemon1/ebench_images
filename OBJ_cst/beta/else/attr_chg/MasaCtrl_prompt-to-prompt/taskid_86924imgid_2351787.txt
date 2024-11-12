@@ -1,5 +1,0 @@
-org_img_id: 2351787
-org_cap: a middle - aged person with a round face and a big smile is blowing out candles on an orange cake.
-trg_cap: a middle - aged person with a round face and a big smile is blowing out candles on an brown cake.
-instruction: Change the color of the cake from orange to brown.
-taskid: 86924

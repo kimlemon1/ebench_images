@@ -1,0 +1,5 @@
+org_img_id: 2359898
+org_cap: The black refrigerator is an appliance with a flat, glossy surface and a subtle glow emanating from the LED lights on the front.
+trg_cap: The orange refrigerator is an appliance with a flat, glossy surface and a subtle glow emanating from the LED lights on the front.
+instruction: Change the color of the refrigerator from black to orange.
+taskid: 29261

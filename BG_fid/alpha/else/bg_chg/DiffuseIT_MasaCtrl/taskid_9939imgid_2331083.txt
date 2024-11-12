@@ -1,5 +1,0 @@
-org_img_id: 2331083
-org_cap: The white toilet is a unit with a seat and a tank in the center, surrounded by wooden flooring.
-trg_cap: The white toilet is a unit with a seat and a tank in the center, surrounded by wooden flooring, set against the backdrop of a pine forest.
-instruction: Change the background to pine forest.
-taskid: 9939

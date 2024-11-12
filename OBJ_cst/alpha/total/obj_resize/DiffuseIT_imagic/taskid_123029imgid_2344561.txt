@@ -1,5 +1,0 @@
-org_img_id: 2344561
-org_cap: The clock is a large, circular structure with intricate details and a bright blue color, suspended from the ceiling of the grand, high-ceilinged train station.
-trg_cap: The clock is a large, circular structure, measuring six feet in diameter, with intricate details and a bright blue color, suspended from the ceiling of the grand, high-ceilinged train station.
-instruction: Make the clock larger.
-taskid: 123029

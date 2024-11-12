@@ -1,5 +1,0 @@
-org_img_id: 2334185
-org_cap: a giraffe stands tall, its long neck and legs blending into the arid landscape, its reddish brown coat in the sunlight, its long eyelashes framing its large, dark eyes.
-trg_cap: A teddy bear stands tall.
-instruction: Replace the giraffe with a teddy bear.
-taskid: 33339

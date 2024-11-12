@@ -1,5 +1,0 @@
-org_img_id: 2360710
-org_cap: the old clock hangs from the wooden beams of the train station, its worn face and rusty hands a testament to the countless journeys it has witnessed over the years.
-trg_cap: The old clock hangs from the wooden beams of the train station, its worn face and rusty hands a testament to the countless journeys it has witnessed over the years, with a traffic light positioned next to it.
-instruction: Add a traffic light next to the clock.
-taskid: 52207

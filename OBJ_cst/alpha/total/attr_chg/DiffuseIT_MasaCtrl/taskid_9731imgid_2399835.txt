@@ -1,5 +1,0 @@
-org_img_id: 2399835
-org_cap: A brown tabby striped cat lies on a pair of jeans, its paws and its whiskers as it gazes up at a person sitting on the couch.
-trg_cap: A brown white striped cat lies on a pair of jeans, its paws and its whiskers as it gazes up at a person sitting on the couch.
-instruction: Change the color of the cat from tabby to white.
-taskid: 9731

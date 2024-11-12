@@ -1,5 +1,0 @@
-org_img_id: 2322065
-org_cap: "a small person on a toilet, wearing a pair of worn-out pajamas and a person's book in his chubby little hands."
-trg_cap: An ancient Egyptian-style artwork depicts a small person on a toilet, wearing worn-out pajamas and holding a book in their chubby little hands.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 22642

@@ -1,5 +1,0 @@
-org_img_id: 2373931
-org_cap: Person navigates the twists and turns of the track on his green motorcycle.
-trg_cap: An oil painting style art depicts a person navigating the twists and turns of the track on his green motorcycle.
-instruction: Change the style if the image to oil painting style.
-taskid: 12185

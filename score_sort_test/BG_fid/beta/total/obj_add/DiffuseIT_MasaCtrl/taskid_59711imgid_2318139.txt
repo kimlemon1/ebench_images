@@ -1,0 +1,5 @@
+org_img_id: 2318139
+org_cap: a small child sits at a wooden table, wearing a bright yellow sundress and holding a cup with a colorful design on the side.
+trg_cap: A small child sits at a wooden table, wearing a bright yellow sundress and holding a cup with a colorful design on the side, with a pizza in front of the cup.
+instruction: Add a pizza in front of the cup.
+taskid: 59711

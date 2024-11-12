@@ -1,5 +1,0 @@
-org_img_id: 2350386
-org_cap: The tie is a piece of dark fabric, tied in a knot at the neck of a man wearing a crisp, black suit with a white shirt and a patterned, green necktie.
-trg_cap: The tie is a large piece of dark fabric, tied in a knot at the neck of a man wearing a crisp, black suit with a white shirt and a patterned, green necktie.
-instruction: Make the tie larger.
-taskid: 95734

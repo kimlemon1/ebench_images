@@ -1,5 +1,0 @@
-org_img_id: 4943
-org_cap: person stands in front of a flag, wearing a necktie with a floral pattern in shades of blue and white.
-trg_cap: person stands in front of a flag, wearing a large necktie with a floral pattern in shades of blue and white.
-instruction: Make the tie larger.
-taskid: 40626

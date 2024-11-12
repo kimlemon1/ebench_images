@@ -1,5 +1,0 @@
-org_img_id: 2318933
-org_cap: a person swings a baseball bat with a worn grip and a baseball bat, the ball flying off the end as he takes a powerful swing.
-trg_cap: a person swings a small baseball bat with a worn grip and a baseball bat, the ball flying off the end as he takes a powerful swing.
-instruction: Make the baseball bat smaller.
-taskid: 95185

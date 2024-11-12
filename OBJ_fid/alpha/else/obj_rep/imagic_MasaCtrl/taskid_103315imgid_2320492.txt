@@ -1,5 +1,0 @@
-org_img_id: 2320492
-org_cap: the old train rumbles along the old train, its exterior bearing the scars of countless journeys, its wheels screeching in protest as it rounds a bend.
-trg_cap: The old car, its wheels screeching in protest as they round a bend.
-instruction: Replace the train with a car.
-taskid: 103315

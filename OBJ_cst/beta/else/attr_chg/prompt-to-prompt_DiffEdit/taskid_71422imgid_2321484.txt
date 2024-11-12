@@ -1,5 +1,0 @@
-org_img_id: 2321484
-org_cap: A white bowl sits on a simple, rectangular table in a plain, white bathroom, with a toilet in the background and a bowl in the foreground.
-trg_cap: A gold bowl sits on a simple, rectangular table in a plain, gold bathroom, with a toilet in the background and a bowl in the foreground.
-instruction: Change the color of the bowl from white to gold.
-taskid: 71422

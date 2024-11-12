@@ -1,5 +1,0 @@
-org_img_id: 2410979
-org_cap: American person in the outfield, his hand as he the ball over the fence.
-trg_cap: American small person in the outfield, his hand as he the ball over the fence.
-instruction: Make the person smaller.
-taskid: 64428

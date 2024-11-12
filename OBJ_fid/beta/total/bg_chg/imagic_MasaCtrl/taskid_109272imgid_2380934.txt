@@ -1,5 +1,0 @@
-org_img_id: 2380934
-org_cap: A standing black striped zebra stands under a tree, its stripes in the sunlight, with a subtle mist in the background.
-trg_cap: A standing black striped zebra stands under a tree, its stripes in the sunlight, with a subtle mist in the background of a beach.
-instruction: Change the background to beach.
-taskid: 109272

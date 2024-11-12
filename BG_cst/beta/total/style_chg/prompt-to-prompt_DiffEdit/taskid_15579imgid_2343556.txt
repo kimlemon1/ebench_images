@@ -1,5 +1,0 @@
-org_img_id: 2343556
-org_cap: a person in his mid-twenties, wearing a gray sweatshirt and jeans, as he stands on a dimly lit street with worn stone pavement and ancient buildings looming in the background.
-trg_cap: The art, in a watercolor painting style, depicts a person in his mid-twenties wearing a gray sweatshirt and jeans, standing on a dimly lit street with worn stone pavement and ancient buildings looming in the background.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 15579

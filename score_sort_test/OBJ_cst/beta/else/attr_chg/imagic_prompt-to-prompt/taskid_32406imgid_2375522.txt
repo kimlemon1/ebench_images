@@ -1,0 +1,5 @@
+org_img_id: 2375522
+org_cap: For the scene, I see a person wearing a black tie and standing in a room with a couch and a black tie.
+trg_cap: For the scene, I see a person wearing a green tie and standing in a room with a couch and a green tie.
+instruction: Change the color of the tie from black to green.
+taskid: 32406

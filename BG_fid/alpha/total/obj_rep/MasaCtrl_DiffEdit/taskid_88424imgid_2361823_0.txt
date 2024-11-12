@@ -1,5 +1,0 @@
-org_img_id: 2361823_0
-org_cap: person holds a book titled "i am america" with a person on the cover.
-trg_cap: Clock holds a book titled "I Am America" with someone on the cover.
-instruction: Replace the person with a clock.
-taskid: 88424

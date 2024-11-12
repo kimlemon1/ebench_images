@@ -1,0 +1,5 @@
+org_img_id: 94
+org_cap: a red plate with a small orange slice, some grapes, and a few shrimp sits on a tablecloth, next to a silver fork and a knife with a rounded tip.
+trg_cap: A red plate with a small orange slice, some grapes, and a few shrimp sits on a tablecloth, next to a silver fork and a knife with a rounded tip, overlooking a serene lakeside view.
+instruction: Change the background to lake side.
+taskid: 54481

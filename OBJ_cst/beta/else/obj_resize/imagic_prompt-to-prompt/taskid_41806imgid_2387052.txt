@@ -1,5 +1,0 @@
-org_img_id: 2387052
-org_cap: "a large brown bear stands on its hind legs, its fur matted and dirty, its eyes on the river below."
-trg_cap: A large brown bear, standing over 8 feet tall and weighing around 1,000 pounds, stands on its hind legs, its fur matted and dirty, its eyes on the river below.
-instruction: Make the bear larger.
-taskid: 41806

@@ -1,5 +1,0 @@
-org_img_id: 2333051
-org_cap: An airplane, with its bright blue and yellow livery, sits on the tarmac, its engines covered, and its landing gear retracted, awaiting its next destination.
-trg_cap: A small airplane, with its bright blue and yellow livery, sits on the tarmac, its engines covered, and its landing gear retracted, awaiting its next destination.
-instruction: Make the airplane smaller.
-taskid: 89658

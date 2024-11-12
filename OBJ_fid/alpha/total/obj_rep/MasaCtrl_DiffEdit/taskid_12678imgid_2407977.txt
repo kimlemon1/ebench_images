@@ -1,5 +1,0 @@
-org_img_id: 2407977
-org_cap: Person, dressed in a black wetsuit.
-trg_cap: Dog.
-instruction: Replace the person with a dog.
-taskid: 12678

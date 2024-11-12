@@ -1,5 +1,0 @@
-org_img_id: 2345858
-org_cap: a person, person, his wood skateboard flying out from under his feet as he lands, his eyes fixed intently on the concrete below.
-trg_cap: a person, person, his plastic skateboard flying out from under his feet as he lands, his eyes fixed intently on the concrete below.
-instruction: Change the material of the skateboard from wood to plastic.
-taskid: 116905

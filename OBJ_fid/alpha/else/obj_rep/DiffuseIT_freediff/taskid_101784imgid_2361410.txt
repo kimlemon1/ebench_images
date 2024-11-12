@@ -1,5 +1,0 @@
-org_img_id: 2361410
-org_cap: Playing person in the infield, his hand a thrown ball as the sun shines down on the green grass and the white chalk lines.
-trg_cap: Playing elephant in the infield, he catches a thrown ball as the sun shines down on the green grass and the white chalk lines.
-instruction: Replace the person with a elephant.
-taskid: 101784

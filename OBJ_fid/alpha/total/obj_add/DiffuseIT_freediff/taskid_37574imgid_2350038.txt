@@ -1,5 +1,0 @@
-org_img_id: 2350038
-org_cap: a person in a white jersey falls to the ground as he tries to control a white sports ball.
-trg_cap: A person in a white jersey falls to the ground as he tries to control a white sports ball with an elephant on top of it.
-instruction: Add a elephant on the sports ball.
-taskid: 37574

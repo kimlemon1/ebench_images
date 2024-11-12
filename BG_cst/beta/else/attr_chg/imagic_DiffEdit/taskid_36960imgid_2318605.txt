@@ -1,5 +1,0 @@
-org_img_id: 2318605
-org_cap: person rides a blue wood skateboard through a, her knees bent and her arms extended as she navigates the curves.
-trg_cap: person rides a blue plastic skateboard through a, her knees bent and her arms extended as she navigates the curves.
-instruction: Change the material of the skateboard from wood to plastic.
-taskid: 36960

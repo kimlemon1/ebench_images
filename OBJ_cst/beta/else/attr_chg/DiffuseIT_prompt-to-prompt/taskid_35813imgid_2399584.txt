@@ -1,5 +1,0 @@
-org_img_id: 2399584
-org_cap: a white cat on a shelf.
-trg_cap: a tabby cat on a shelf.
-instruction: Change the color of the cat from white to tabby.
-taskid: 35813

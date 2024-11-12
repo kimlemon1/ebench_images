@@ -1,5 +1,0 @@
-org_img_id: 2364137
-org_cap: "person throws a fastball, his arm at a 90-degree angle as he releases the ball."
-trg_cap: A Van Gogh style art depicts a person throwing a fastball, his arm at a 90-degree angle as he releases the ball.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 93508

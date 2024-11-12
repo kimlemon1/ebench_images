@@ -1,0 +1,5 @@
+org_img_id: 2356589
+org_cap: a collection of personal care items and travel essentials lies scattered on a bed, including toothbrush, toothpaste, shampoo, conditioner, razors, shaving cream, hairbrush, hair ties, a comb, a hair dryer, a curling iron, a, a hair clip and a cup.
+trg_cap: a collection of personal care items and travel essentials lies scattered on a bed, including toothbrush, toothpaste, shampoo, conditioner, razors, shaving cream, hairbrush, hair ties, a comb, a hair dryer, a curling iron, a, a hair clip, a cup and a cell phone next to the cup.
+instruction: Add a cell phone on the left side of the cup.
+taskid: 73022

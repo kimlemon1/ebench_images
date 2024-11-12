@@ -1,5 +1,0 @@
-org_img_id: 2397483
-org_cap: A black train approaches the intersection under the elevated train tracks, with the words "rudy's warehouse" visible on the side of a nearby building.
-trg_cap: A black bed approaches the intersection, with the words "Rudy's Warehouse" visible on the side of a nearby building.
-instruction: Replace the train with a bed.
-taskid: 31596

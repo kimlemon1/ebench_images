@@ -1,5 +1,0 @@
-org_img_id: 2383496
-org_cap: Standing person in front of a large tray filled with freshly baked croissants, wearing a jumpsuit and holding a spatula in his hand.
-trg_cap: A pencil sketch depicts a person wearing a jumpsuit and holding a spatula, standing in front of a large tray filled with freshly baked croissants.
-instruction: Change the style if the image to pencil sketch.
-taskid: 70813

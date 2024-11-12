@@ -1,5 +1,0 @@
-org_img_id: 2319015
-org_cap: "Person, wearing a t-shirt with a skull and crossbones design, on the grass, with a kite with a skull and crossbones design on the sail."
-trg_cap: Small person, wearing a t-shirt with a skull and crossbones design, on the grass, with a kite with a skull and crossbones design on the sail.
-instruction: Make the person smaller.
-taskid: 82832

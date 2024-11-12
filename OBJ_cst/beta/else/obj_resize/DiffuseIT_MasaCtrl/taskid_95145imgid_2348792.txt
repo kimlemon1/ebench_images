@@ -1,5 +1,0 @@
-org_img_id: 2348792
-org_cap: a skier in a bright, striped suit zooms down a snowy slope, his skis carving through the powder with a blur of speed and precision.
-trg_cap: a skier in a bright, striped suit zooms down a snowy slope, his large skis carving through the powder with a blur of speed and precision.
-instruction: Make the skis larger.
-taskid: 95145

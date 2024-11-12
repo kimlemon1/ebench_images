@@ -1,5 +1,0 @@
-org_img_id: 2362458
-org_cap: "Person on a horse loaded with bundles of hay, wearing a worn denim shirt and a faded hat, his weathered face creased by the sun and his eyes against the bright light."
-trg_cap: Bird on its horse loaded with bundles of hay.
-instruction: Replace the person with a bird.
-taskid: 76032

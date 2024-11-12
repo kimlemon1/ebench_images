@@ -1,5 +1,0 @@
-org_img_id: 2406540
-org_cap: the white clock face above the entrance is a dial with roman numerals and details, surrounded by a decorative archway with intricate stone carvings.
-trg_cap: The white clock face above the entrance is a dial with roman numerals and details, surrounded by a decorative archway with intricate stone carvings, and next to it is a bicycle.
-instruction: Add a bicycle next to the clock.
-taskid: 89106

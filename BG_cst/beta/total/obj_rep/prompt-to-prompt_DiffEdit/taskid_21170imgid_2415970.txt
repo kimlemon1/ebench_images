@@ -1,5 +1,0 @@
-org_img_id: 2415970
-org_cap: a person holds a cell phone to capture a moment of a live music performance at an outdoor festival, with a crowd of people in the background and a bright sunset sky above.
-trg_cap: The person holds a surfboard at an outdoor festival, with a crowd of people in the background and a bright sunset sky above.
-instruction: Replace the cell phone with a surfboard.
-taskid: 21170

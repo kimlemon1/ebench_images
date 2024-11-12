@@ -1,5 +1,0 @@
-org_img_id: 2366676
-org_cap: A black dog leaps into the air, catching a frisbee in mid-flight.
-trg_cap: A white dog leaps into the air, catching a frisbee in mid-flight.
-instruction: Change the color of the dog from black to white.
-taskid: 86587

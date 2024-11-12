@@ -1,0 +1,5 @@
+org_img_id: 2390706
+org_cap: person holds a wood surfboard in his hands, wearing a casual outfit and standing in a sunny outdoor setting.
+trg_cap: person holds a metal surfboard in his hands, wearing a casual outfit and standing in a sunny outdoor setting.
+instruction: Change the material of the surfboard from wood to metal.
+taskid: 36611

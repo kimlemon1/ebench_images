@@ -1,5 +1,0 @@
-org_img_id: 2352944
-org_cap: a person in a white tank top and blue jeans is through the air, his skateboard as he on the concrete ramp.
-trg_cap: The mosaic art depicts a person in a white tank top and blue jeans soaring through the air on his skateboard above a concrete ramp.
-instruction: Change the style if the image to mosaic art.
-taskid: 58623

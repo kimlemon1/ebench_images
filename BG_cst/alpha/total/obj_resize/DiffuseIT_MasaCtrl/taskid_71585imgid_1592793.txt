@@ -1,5 +1,0 @@
-org_img_id: 1592793
-org_cap: a skateboarder performs a handstand on his skateboard on the beach.
-trg_cap: A skateboarder performs a handstand on his large skateboard on the beach.
-instruction: Make the skateboard larger.
-taskid: 71585

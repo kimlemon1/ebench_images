@@ -1,0 +1,5 @@
+org_img_id: 2329692
+org_cap: the kitchen features a laptop sitting on a chrome stool, adjacent to a microwave on the counter.
+trg_cap: The kitchen features a laptop sitting on a chrome stool, adjacent to a keyboard.
+instruction: Replace the microwave with a keyboard.
+taskid: 116748

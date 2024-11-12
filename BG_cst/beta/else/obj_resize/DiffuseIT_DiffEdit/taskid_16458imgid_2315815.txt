@@ -1,5 +1,0 @@
-org_img_id: 2315815
-org_cap: a teddy bear sat on a lap, wearing a pink vest with a shiny badge and holding a small flashlight.
-trg_cap: A large teddy bear sat on a lap, wearing a pink vest with a shiny badge and holding a small flashlight.
-instruction: Make the teddy bear larger.
-taskid: 16458

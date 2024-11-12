@@ -1,5 +1,0 @@
-org_img_id: 2329389
-org_cap: a brown cat on the hood of a car, its paws against the smooth surface.
-trg_cap: a orange cat on the hood of a car, its paws against the smooth surface.
-instruction: Change the color of the cat from brown to orange.
-taskid: 70184

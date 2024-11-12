@@ -1,5 +1,0 @@
-org_img_id: 2401254
-org_cap: skating, jumping person, his legs splayed in mid-air as the green skateboard glides across the concrete floor.
-trg_cap: skating, jumping person, his legs splayed in mid-air as the red skateboard glides across the concrete floor.
-instruction: Change the color of the skateboard from green to red.
-taskid: 20167

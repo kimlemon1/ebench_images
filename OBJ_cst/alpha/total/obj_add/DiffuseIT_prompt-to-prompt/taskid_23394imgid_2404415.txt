@@ -1,5 +1,0 @@
-org_img_id: 2404415
-org_cap: A surfing Caucasian person is seen on a surfboard, his eyes on the wave, his muscles beneath his skin.
-trg_cap: A surfing Caucasian person is seen on a surfboard, his eyes on the wave, his muscles beneath his skin, with a boat on the right side of the person.
-instruction: Add a boat on the right side of the person.
-taskid: 23394

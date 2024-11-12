@@ -1,5 +1,0 @@
-org_img_id: 2376434
-org_cap: the clock face is a square with rounded edges, featuring bold black numerals and a bright blue hour hand.
-trg_cap: The clock face is a square with rounded edges, featuring bold black numerals and a bright blue hour hand, with a bench located behind the clock.
-instruction: Add a bench behind the clock.
-taskid: 83517

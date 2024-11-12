@@ -1,0 +1,5 @@
+org_img_id: 2337838
+org_cap: a bald man with a warm smile and a subtle stubble wears a black vest over a white shirt, accompanied by a black necktie with a subtle pattern and a white dress shirt underneath.
+trg_cap: An oil painting style art features a bald man with a warm smile and subtle stubble, wearing a black vest over a white dress shirt, accompanied by a black necktie with a subtle pattern.
+instruction: Change the style if the image to oil painting style.
+taskid: 76312

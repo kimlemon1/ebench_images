@@ -1,5 +1,0 @@
-org_img_id: 2345144
-org_cap: a skiing person, their skis leaving a trail of fresh powder in their wake.
-trg_cap: A mosaic art depicts a skiing person with their skis leaving a trail of fresh powder in their wake.
-instruction: Change the style if the image to mosaic art.
-taskid: 115562

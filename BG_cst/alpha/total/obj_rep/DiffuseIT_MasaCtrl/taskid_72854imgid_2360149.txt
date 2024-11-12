@@ -1,5 +1,0 @@
-org_img_id: 2360149
-org_cap: a red bus with a sleek design and curved windows glides smoothly along the elevated track, its wheels spinning silently as it approaches the next stop.
-trg_cap: A red stop sign glides smoothly along the elevated track, the wheels spinning silently as it approaches the next stop.
-instruction: Replace the bus with a stop sign.
-taskid: 72854

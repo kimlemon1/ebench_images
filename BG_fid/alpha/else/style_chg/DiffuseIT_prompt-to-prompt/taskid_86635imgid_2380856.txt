@@ -1,5 +1,0 @@
-org_img_id: 2380856
-org_cap: a white, walking cow with a yoke and ropes tied to its horns by a person wearing a plaid shirt and jeans, walking along a city street.
-trg_cap: A grayscale photo depicts a white cow with a yoke and ropes tied to its horns, being led by a person in a plaid shirt and jeans along a city street.
-instruction: Change the style if the image to grey scale.
-taskid: 86635

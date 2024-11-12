@@ -1,5 +1,0 @@
-org_img_id: 2396214
-org_cap: The couch is a comfortable, worn-in piece of furniture with a floral pattern and a sturdy wooden frame.
-trg_cap: The couch, reminiscent of the waiting area in an old train station, is a comfortable, worn-in piece of furniture with a floral pattern and a sturdy wooden frame.
-instruction: Change the background to train station.
-taskid: 105055

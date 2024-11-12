@@ -1,5 +1,0 @@
-org_img_id: 2417086
-org_cap: a person in a wetsuit holds an orange surfboard, with waves crashing in the background.
-trg_cap: a person in a wetsuit holds an black surfboard, with waves crashing in the background.
-instruction: Change the color of the surfboard from orange to black.
-taskid: 5299

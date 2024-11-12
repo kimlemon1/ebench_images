@@ -1,5 +1,0 @@
-org_img_id: 2337828
-org_cap: A blue kite is soaring above the calm waters of the ocean at sunset, with a lone person standing waist-deep in the water, holding the kite string.
-trg_cap: A black and white kite is soaring above the calm waters of the ocean at sunset, with a lone person standing waist-deep in the water, holding the kite string.
-instruction: Change the color of the kite from blue to black and white.
-taskid: 62069

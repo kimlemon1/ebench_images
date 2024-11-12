@@ -1,5 +1,0 @@
-org_img_id: 2326818
-org_cap: A young person in a red rash guard rides through a wave on a white surfboard, his arms and legs as he through the whitewater.
-trg_cap: A young person in a red rash guard rides through a wave on a white surfboard, his arms and legs toned from hours spent training in the gym as he maneuvers through the whitewater.
-instruction: Change the background to gym.
-taskid: 21443

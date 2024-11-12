@@ -1,5 +1,0 @@
-org_img_id: 2346764
-org_cap: a large brown bear stands alone in the middle of a fast - flowing river, bear fur matted and wet, bear eyes fixed on something in the distance.
-trg_cap: A large brown bear stands alone in the middle of a fast-flowing river, bear fur matted and wet, bear eyes fixed on something in the distance, with the countryside farm visible on the riverbank.
-instruction: Change the background to country side farm.
-taskid: 102201

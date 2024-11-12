@@ -1,5 +1,0 @@
-org_img_id: 2324164
-org_cap: surfing person rides a wave on a sunny day, his wetsuit glistening with sea spray, his hair in the ocean breeze.
-trg_cap: A small surfing person rides a wave on a sunny day, his wetsuit glistening with sea spray, his hair in the ocean breeze.
-instruction: Make the person smaller.
-taskid: 23603

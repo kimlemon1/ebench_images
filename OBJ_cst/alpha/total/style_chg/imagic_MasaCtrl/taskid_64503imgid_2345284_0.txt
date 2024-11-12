@@ -1,5 +1,0 @@
-org_img_id: 2345284_0
-org_cap: A white cat is low to the ground, its tail as it the porcelain toilet bowl.
-trg_cap: An ancient Egyptian-style artwork depicts a white cat low to the ground, its tail near the porcelain toilet bowl.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 64503

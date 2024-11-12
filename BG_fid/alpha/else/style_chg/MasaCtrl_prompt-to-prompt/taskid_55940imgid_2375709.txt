@@ -1,5 +1,0 @@
-org_img_id: 2375709
-org_cap: a middle-aged person with a weathered face and worn hands, dressed in a simple white shirt and worn trousers, to sweep the cobblestone street with a worn wooden broom.
-trg_cap: The cartoon-style art depicts a middle-aged person with a weathered face and worn hands, dressed in a simple white shirt and worn trousers, sweeping the cobblestone street with a worn wooden broom.
-instruction: Change the style if the image to cartoon style.
-taskid: 55940

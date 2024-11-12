@@ -1,5 +1,0 @@
-org_img_id: 1159875
-org_cap: A person holds a pink umbrella, standing on the stairs of a brick building with a worn stone façade.
-trg_cap: A person holds a dotted umbrella, standing on the stairs of a brick building with a worn stone façade.
-instruction: Change the color of the umbrella from pink to dotted.
-taskid: 51513

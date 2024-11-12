@@ -1,5 +1,0 @@
-org_img_id: 2397705
-org_cap: the sink is a small, square sink with a curved edge, situated in a corner of the bathroom, and features a single faucet and a small storage compartment for toiletries.
-trg_cap: The suitcase is situated in a corner of the bathroom, and it features a single faucet and a small storage compartment for toiletries.
-instruction: Replace the sink with a suitcase.
-taskid: 99696

@@ -1,5 +1,0 @@
-org_img_id: 2405234
-org_cap: The scene is focused on a warm and inviting dining room with a wooden table, adorned with a colorful tablecloth, a pink plastic cup, and a plate of steaming hot mac and cheese, with a cup sitting next to it.
-trg_cap: The scene is focused on a warm and inviting dining room with a wooden table, adorned with a colorful tablecloth, a orange plastic cup, and a plate of steaming hot mac and cheese, with a cup sitting next to it.
-instruction: Change the color of the cup from pink to orange.
-taskid: 11831

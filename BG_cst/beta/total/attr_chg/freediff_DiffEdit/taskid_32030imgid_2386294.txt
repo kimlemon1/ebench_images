@@ -1,5 +1,0 @@
-org_img_id: 2386294
-org_cap: the silver train stands on the platform, its silver train gleaming in the sunlight, supported by silver train and topped with a silver train that shelters the waiting passengers.
-trg_cap: the red train stands on the platform, its red train gleaming in the sunlight, supported by red train and topped with a red train that shelters the waiting passengers.
-instruction: Change the color of the train from silver to red.
-taskid: 32030

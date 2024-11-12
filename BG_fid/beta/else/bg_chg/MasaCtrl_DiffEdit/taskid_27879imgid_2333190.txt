@@ -1,5 +1,0 @@
-org_img_id: 2333190
-org_cap: Person on his surfboard, his black wetsuit glistening in the golden light of sunset.
-trg_cap: Person on his surfboard, his black wetsuit glistening in the golden light of sunset, with a vast snow field stretching out behind him.
-instruction: Change the background to snow field.
-taskid: 27879

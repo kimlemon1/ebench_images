@@ -1,5 +1,0 @@
-org_img_id: 2345768
-org_cap: a high-speed train with bright red livery and gleaming wheels glides smoothly along the coastal train, its sleek design and vibrant color a striking contrast to the serene blue waters and lush greenery of the surrounding landscape.
-trg_cap: The art, in a watercolor painting style, features a high-speed train with bright red livery and gleaming wheels gliding smoothly along the coastal track, its sleek design and vibrant color strikingly contrasting with the serene blue waters and lush greenery of the surrounding landscape.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 51620

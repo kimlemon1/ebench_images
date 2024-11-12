@@ -1,5 +1,0 @@
-org_img_id: 2384275
-org_cap: baseball player swings a black baseball bat.
-trg_cap: baseball player swings a silver baseball bat.
-instruction: Change the color of the baseball bat from black to silver.
-taskid: 49099

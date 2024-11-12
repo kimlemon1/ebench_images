@@ -1,5 +1,0 @@
-org_img_id: 2379411
-org_cap: The black laptop sat on the table, surrounded by cups and saucers, with a steaming cup of coffee and a plate of pastry crumbs.
-trg_cap: The horse sat on the table, surrounded by cups and saucers, with a steaming cup of coffee and a plate of pastry crumbs.
-instruction: Replace the laptop with a horse.
-taskid: 26509

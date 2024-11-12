@@ -1,5 +1,0 @@
-org_img_id: 2340782
-org_cap: a giraffe stands tall, its long neck and legs, with a distinctive pattern of dark brown and white stripes covering its body.
-trg_cap: A pop art style artwork features a giraffe standing tall, with its long neck and legs, and a distinctive pattern of dark brown and white stripes covering its body.
-instruction: Change the style if the image to pop art style.
-taskid: 73628

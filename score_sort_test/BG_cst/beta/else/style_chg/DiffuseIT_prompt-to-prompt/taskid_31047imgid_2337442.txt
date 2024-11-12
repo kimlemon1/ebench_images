@@ -1,0 +1,5 @@
+org_img_id: 2337442
+org_cap: a small, single-engine airplane with a red and white striped body and a small propeller at the front, flying steadily in a clear blue sky with a few wispy clouds.
+trg_cap: A Van Gogh style art piece features a small, single-engine airplane with a red and white striped body and a small propeller at the front, flying steadily in a clear blue sky with a few wispy clouds.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 31047

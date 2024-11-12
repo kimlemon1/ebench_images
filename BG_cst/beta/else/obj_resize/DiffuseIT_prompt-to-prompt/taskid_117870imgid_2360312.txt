@@ -1,5 +1,0 @@
-org_img_id: 2360312
-org_cap: A large black bear lies on a rocky outcropping, bear fur matted and dirty, bear paws scratched and worn, bear eyes sunken and tired.
-trg_cap: A small black bear lies on a rocky outcropping, bear fur matted and dirty, bear paws scratched and worn, bear eyes sunken and tired.
-instruction: Make the bear smaller.
-taskid: 117870

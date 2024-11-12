@@ -1,5 +1,0 @@
-org_img_id: 2380486
-org_cap: a silhouette of a person holds an orange kite, with a blurred background of a beach or a field.
-trg_cap: a silhouette of a person holds an speckled kite, with a blurred background of a beach or a field.
-instruction: Change the color of the kite from orange to speckled.
-taskid: 68685

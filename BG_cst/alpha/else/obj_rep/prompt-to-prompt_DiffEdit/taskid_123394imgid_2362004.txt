@@ -1,5 +1,0 @@
-org_img_id: 2362004
-org_cap: Swinging, the person swings his racket, his shirt and hat a blur as he dashes across the tennis court, his shoes against the bright green surface.
-trg_cap: Swinging, the hair drier swings its racket, its shirt and hat a blur as it dashes across the tennis court, its shoes against the bright green surface.
-instruction: Replace the person with a hair drier.
-taskid: 123394

@@ -1,0 +1,5 @@
+org_img_id: 2413726
+org_cap: A person stands under an umbrella, with a gray umbrella providing shade from the rain.
+trg_cap: A person stands under an umbrella, with a gray umbrella providing shade from the rain, in the midst of a vast desert landscape.
+instruction: Change the background to desert.
+taskid: 18352

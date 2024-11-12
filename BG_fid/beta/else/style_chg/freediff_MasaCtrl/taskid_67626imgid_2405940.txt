@@ -1,5 +1,0 @@
-org_img_id: 2405940
-org_cap: A red truck navigates the city streets with ease.
-trg_cap: A grey scale photo shows a red truck navigating the city streets with ease.
-instruction: Change the style if the image to grey scale.
-taskid: 67626

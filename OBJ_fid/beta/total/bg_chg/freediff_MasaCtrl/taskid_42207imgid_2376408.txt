@@ -1,5 +1,0 @@
-org_img_id: 2376408
-org_cap: The sink is a white sink with a wooden cabinet door and a single faucet handle.
-trg_cap: The sink, reminiscent of a snow field with its pristine white surface, is a white sink with a wooden cabinet door and a single faucet handle.
-instruction: Change the background to snow field.
-taskid: 42207

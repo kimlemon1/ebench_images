@@ -1,5 +1,0 @@
-org_img_id: 2359628
-org_cap: a brown teddy bear with a bow tie and a pair of black and white vans sneakers sits on a table, its paws tucked under its body and its head held high.
-trg_cap: A brown teddy bear with a bow tie and a pair of black and white vans sneakers sits on a table in a dimly lit cave, its paws tucked under its body and its head held high.
-instruction: Change the background to cave.
-taskid: 83004

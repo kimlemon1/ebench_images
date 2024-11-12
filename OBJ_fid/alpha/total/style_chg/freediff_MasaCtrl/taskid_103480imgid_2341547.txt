@@ -1,5 +1,0 @@
-org_img_id: 2341547
-org_cap: The small, worn-out toilet has a cracked ceramic bowl, a rusty showerhead, and a torn shower curtain, with a mop and bucket leaning against the wall.
-trg_cap: The mosaic art contains a small, worn-out toilet with a cracked ceramic bowl, a rusty showerhead, a torn shower curtain, and a mop and bucket leaning against the wall.
-instruction: Change the style if the image to mosaic art.
-taskid: 103480

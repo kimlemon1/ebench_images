@@ -1,0 +1,5 @@
+org_img_id: 2385873
+org_cap: a white truck and a rusty corrugated metal shed in the background.
+trg_cap: a white truck and a rusty corrugated metal shed in the background of a space station.
+instruction: Change the background to space station.
+taskid: 41990

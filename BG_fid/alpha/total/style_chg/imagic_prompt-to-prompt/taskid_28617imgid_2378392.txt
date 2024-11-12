@@ -1,5 +1,0 @@
-org_img_id: 2378392
-org_cap: a person in his mid-twenties stands on a grassy field at night, wearing a black t-shirt and shorts, his eyes fixed intently on a white frisbee.
-trg_cap: The pop art style artwork depicts a person in his mid-twenties standing on a grassy field at night, wearing a black t-shirt and shorts, with his eyes fixed intently on a white frisbee.
-instruction: Change the style if the image to pop art style.
-taskid: 28617

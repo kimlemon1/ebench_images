@@ -1,5 +1,0 @@
-org_img_id: 2393987
-org_cap: blue motorcycle, person, his helmet and gloves a blur.
-trg_cap: blue motorcycle, person, his helmet and gloves a blur, sped past the bustling restaurant.
-instruction: Change the background to restaurant.
-taskid: 9275

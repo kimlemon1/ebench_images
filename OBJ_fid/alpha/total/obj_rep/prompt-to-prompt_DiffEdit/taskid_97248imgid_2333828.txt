@@ -1,5 +1,0 @@
-org_img_id: 2333828
-org_cap: A pink bicycle leans against the wall of a train station, next to a turquoise train with a faded logo and a rusty whistle.
-trg_cap: A kite leans against the wall of a train station, next to a turquoise train with a faded logo and a rusty whistle.
-instruction: Replace the bicycle with a kite.
-taskid: 97248

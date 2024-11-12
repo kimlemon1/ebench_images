@@ -1,5 +1,0 @@
-org_img_id: 2326658
-org_cap: a group of people sit on a wood bench, under the shade of a tree, as a white boat glides by on the water below.
-trg_cap: A group of people sit on a cell phone, under the shade of a tree, as a white boat glides by on the water below.
-instruction: Replace the bench with a cell phone.
-taskid: 35137

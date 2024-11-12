@@ -1,5 +1,0 @@
-org_img_id: 2364595
-org_cap: The scene features a brown bench situated in a lush green meadow surrounded by towering pine trees and a distant mountain range, with a clear blue sky above and a few wispy clouds drifting lazily across it.
-trg_cap: The scene features a clock surrounded by towering pine trees and a distant mountain range, with a clear blue sky above and a few wispy clouds drifting lazily across the sky.
-instruction: Replace the bench with a clock.
-taskid: 50962

@@ -1,5 +1,0 @@
-org_img_id: 2415440
-org_cap: a person in his mid-twenties, wearing a bright orange life jacket and a pair of water shoes, is seen on the water, his board across the surface of the lake.
-trg_cap: A dog is seen on the water, its board across the surface of the lake.
-instruction: Replace the person with a dog.
-taskid: 33768

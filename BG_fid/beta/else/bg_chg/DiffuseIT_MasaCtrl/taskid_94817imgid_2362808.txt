@@ -1,5 +1,0 @@
-org_img_id: 2362808
-org_cap: a person wearing a gray sweatshirt and black cycling shorts rides a sleek, silver bicycle with a distinctive white stripe along its frame, a black backpack over their shoulder.
-trg_cap: In the midst of a lush tropical jungle, a person wearing a gray sweatshirt and black cycling shorts rides a sleek, silver bicycle with a distinctive white stripe along its frame, a black backpack over their shoulder.
-instruction: Change the background to tropical jungle.
-taskid: 94817

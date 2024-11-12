@@ -1,5 +1,0 @@
-org_img_id: 2405634
-org_cap: surfing person rides a blue surfboard through a wave, arms and legs extended as he carves through the water.
-trg_cap: surfing person rides a black surfboard through a wave, arms and legs extended as he carves through the water.
-instruction: Change the color of the surfboard from blue to black.
-taskid: 58909

@@ -1,5 +1,0 @@
-org_img_id: 2378433
-org_cap: walking black bear, bear fur matted and dirty, bear eyes fixed intently on the surrounding trees.
-trg_cap: walking black bear, bear fur matted and dirty, bear eyes fixed intently on the surrounding trees, with a car parked next to the bear.
-instruction: Add a car next to the bear.
-taskid: 13776

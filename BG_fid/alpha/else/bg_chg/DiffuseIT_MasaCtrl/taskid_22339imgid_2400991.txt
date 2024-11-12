@@ -1,5 +1,0 @@
-org_img_id: 2400991
-org_cap: a grizzled old man with a worn hat and a scruffy beard sat on a rocky outcropping, his worn jeans and faded denim jacket a testament to a life spent on the water, his eyes squinting against the bright sunlight as he gazed out at the sleek yachts and sailboats docked in the marina, his loyal brown dog by his side.
-trg_cap: A grizzled old man with a worn hat and a scruffy beard sat on a rocky outcropping, his worn jeans and faded denim jacket a testament to a life spent on the water, his eyes squinting against the bright sunlight as he gazed out at the distant mountain peaks, his loyal brown dog by his side.
-instruction: Change the background to mountain top.
-taskid: 22339

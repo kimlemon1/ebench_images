@@ -1,5 +1,0 @@
-org_img_id: 2393140
-org_cap: a majestic black horse with a gleaming coat and a flowing mane across the green grass, its hooves the earth as it a ball in a game of polo.
-trg_cap: A majestic black horse with a gleaming coat and a flowing mane galloped across the green grass of the tropical jungle, its hooves pounding the earth as it chased a ball in a game of polo.
-instruction: Change the background to tropical jungle.
-taskid: 71282

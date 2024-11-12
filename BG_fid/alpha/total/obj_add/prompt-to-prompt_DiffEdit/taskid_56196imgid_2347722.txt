@@ -1,5 +1,0 @@
-org_img_id: 2347722
-org_cap: a person bending through the turquoise waters, his surfboard surfing in the sunlight as he the waves.
-trg_cap: a person bending through the turquoise waters, his surfboard surfing in the sunlight as he the waves, with a cow in front of him.
-instruction: Add a cow in front of the person.
-taskid: 56196

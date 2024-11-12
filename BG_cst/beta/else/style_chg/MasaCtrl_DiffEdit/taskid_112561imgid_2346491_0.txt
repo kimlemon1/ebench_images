@@ -1,5 +1,0 @@
-org_img_id: 2346491_0
-org_cap: the scene features a wooden desk with a silver keyboard at its center, surrounded by a cluster of computer components, including a sleek computer tower, a pair of speakers, and a small stack of cds.
-trg_cap: The grayscale photo features a wooden desk with a silver keyboard at its center, surrounded by a cluster of computer components, including a sleek computer tower, a pair of speakers, and a small stack of CDs.
-instruction: Change the style if the image to grey scale.
-taskid: 112561

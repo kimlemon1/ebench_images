@@ -1,5 +1,0 @@
-org_img_id: 2330383
-org_cap: a person in casual clothing walks away from a white airplane on the tarmac, its engines and propellers silent as it waits for its next flight.
-trg_cap: An ancient Egyptian-style artwork depicts a person in casual clothing walking away from a white airplane on the tarmac, its engines and propellers silent as it waits for its next flight.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 26072

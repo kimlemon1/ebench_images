@@ -1,5 +1,0 @@
-org_img_id: 1159530
-org_cap: "Person on a worn couch, wearing a gray sweater and jeans, with a tv and various electronic devices scattered around the cluttered living room."
-trg_cap: Small person on a worn couch, wearing a gray sweater and jeans, with a tv and various electronic devices scattered around the cluttered living room.
-instruction: Make the person smaller.
-taskid: 42979

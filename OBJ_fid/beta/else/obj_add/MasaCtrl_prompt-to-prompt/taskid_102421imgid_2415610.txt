@@ -1,5 +1,0 @@
-org_img_id: 2415610
-org_cap: the singer, dressed in a black suit and necktie, performs on stage with a drummer in the background.
-trg_cap: The singer, dressed in a black suit and necktie, with a refrigerator on the right side of the tie, performs on stage with a drummer in the background.
-instruction: Add a refrigerator on the right side of the tie.
-taskid: 102421

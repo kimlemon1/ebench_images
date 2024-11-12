@@ -1,5 +1,0 @@
-org_img_id: 2411382
-org_cap: The toilet is a space with a ceramic sink, a clean, white, open toilet, and a showerhead attached to the wall, surrounded by dark brown and beige tiles with a small, rectangular mirror above the sink.
-trg_cap: An oil painting style art depicts a toilet space featuring a ceramic sink, a clean, white, open toilet, and a showerhead attached to the wall, all surrounded by dark brown and beige tiles, with a small rectangular mirror above the sink.
-instruction: Change the style if the image to oil painting style.
-taskid: 94977

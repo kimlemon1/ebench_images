@@ -1,5 +1,0 @@
-org_img_id: 2352671
-org_cap: the red train rumbles along the red train, its wheels clicking on the red train as it chugs along, its red train adorned with intricate carvings and its red train puffing out white clouds of steam.
-trg_cap: A graffiti art piece depicts a red train rumbling along, its wheels clicking as it chugs forward, adorned with intricate carvings and puffing out white clouds of steam.
-instruction: Change the style if the image to graffiti art.
-taskid: 88344

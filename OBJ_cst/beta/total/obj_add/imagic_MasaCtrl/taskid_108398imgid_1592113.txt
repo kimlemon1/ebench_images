@@ -1,5 +1,0 @@
-org_img_id: 1592113
-org_cap: a person in his mid-30s, wearing a light gray shirt and jeans, walks down the platform, holding a folder and typing on his phone, with the train in the background.
-trg_cap: a person in his mid-30s, wearing a light gray shirt and jeans, walks down the platform, holding a folder and typing on his phone, with the train in the background, where a bench is located inside.
-instruction: Add a bench in the train.
-taskid: 108398

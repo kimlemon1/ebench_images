@@ -1,5 +1,0 @@
-org_img_id: 2387679
-org_cap: The bus is a black bus, featuring a faded logo on the side and a rusty bumper.
-trg_cap: The bus is a large black bus, featuring a faded logo on the side and a rusty bumper.
-instruction: Make the bus larger.
-taskid: 84786

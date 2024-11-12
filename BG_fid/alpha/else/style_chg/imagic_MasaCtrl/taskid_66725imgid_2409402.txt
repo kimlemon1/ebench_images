@@ -1,5 +1,0 @@
-org_img_id: 2409402
-org_cap: the sandwich is a golden - brown, crispy sandwich topped with a generous serving of juicy fish, served alongside a side of fresh green salad.
-trg_cap: A graffiti art depicts a golden-brown, crispy sandwich topped with a generous serving of juicy fish, served alongside a side of fresh green salad.
-instruction: Change the style if the image to graffiti art.
-taskid: 66725

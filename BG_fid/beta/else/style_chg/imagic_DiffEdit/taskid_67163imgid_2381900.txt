@@ -1,5 +1,0 @@
-org_img_id: 2381900
-org_cap: A standing person in a kitchen, surrounded by the remnants of a meal.
-trg_cap: An oil painting depicts a person standing in a kitchen, surrounded by the remnants of a meal.
-instruction: Change the style if the image to oil painting style.
-taskid: 67163

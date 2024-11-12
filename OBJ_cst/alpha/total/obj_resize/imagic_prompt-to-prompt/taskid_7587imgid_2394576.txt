@@ -1,5 +1,0 @@
-org_img_id: 2394576
-org_cap: A person in a full-body wetsuit, with a blue hood and black booties, rides a surfboard down a wave, her arms and legs as she through the water.
-trg_cap: A small person in a full-body wetsuit, with a blue hood and black booties, rides a surfboard down a wave, her arms and legs as she through the water.
-instruction: Make the person smaller.
-taskid: 7587

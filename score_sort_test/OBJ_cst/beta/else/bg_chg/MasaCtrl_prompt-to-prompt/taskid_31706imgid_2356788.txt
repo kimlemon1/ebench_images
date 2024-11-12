@@ -1,0 +1,5 @@
+org_img_id: 2356788
+org_cap: a purple bus parked at a bus stop in front of a modern, green-roofed building.
+trg_cap: A purple bus parked at a bus stop in front of a modern, green-roofed building near the beach.
+instruction: Change the background to beach.
+taskid: 31706

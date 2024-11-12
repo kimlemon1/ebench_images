@@ -1,5 +1,0 @@
-org_img_id: 2390887
-org_cap: A white boat glides smoothly along the tranquil riverbank, its wake rippling the water as it carries a handful of passengers beneath the blooming cherry blossom trees.
-trg_cap: A white boat glides smoothly along the tranquil riverbank, its wake rippling the water as it carries a handful of passengers beneath the blooming cherry blossom trees, while an airplane soars high above.
-instruction: Add a airplane above the boat.
-taskid: 63822

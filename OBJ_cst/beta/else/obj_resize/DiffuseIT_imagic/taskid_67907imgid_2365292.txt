@@ -1,5 +1,0 @@
-org_img_id: 2365292
-org_cap: person, dressed in a black wetsuit, rides a wave on the turbulent ocean.
-trg_cap: A large person, dressed in a black wetsuit, rides a wave on the turbulent ocean.
-instruction: Make the person larger.
-taskid: 67907

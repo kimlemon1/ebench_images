@@ -1,5 +1,0 @@
-org_img_id: 2383994
-org_cap: A concrete stone bench sits alone on the beach, its weathered surface bearing the scars of countless suns and storms, with a faint green tint from the surrounding bench.
-trg_cap: A concrete stone hair drier sits alone on the beach, with a faint green tint from the surrounding one.
-instruction: Replace the bench with a hair drier.
-taskid: 86109

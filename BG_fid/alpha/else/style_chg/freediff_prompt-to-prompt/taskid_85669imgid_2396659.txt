@@ -1,5 +1,0 @@
-org_img_id: 2396659
-org_cap: person slides a perfectly cooked pizza onto a wooden peel, the melted mozzarella and tomato sauce glistening in the warm light of the pizza oven.
-trg_cap: A Van Gogh style art depicts a person sliding a perfectly cooked pizza onto a wooden peel, with the melted mozzarella and tomato sauce glistening in the warm light of the pizza oven.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 85669

@@ -1,0 +1,5 @@
+org_img_id: 2319039
+org_cap: the red necktie worn by the person is a slim, rectangular piece of fabric with a subtle sheen, tied in a simple knot and sitting neatly against the grey suit.
+trg_cap: The cartoon style art features a person wearing a grey suit with a slim, rectangular red necktie that has a subtle sheen, tied in a simple knot and sitting neatly against the suit.
+instruction: Change the style if the image to cartoon style.
+taskid: 109157

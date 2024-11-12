@@ -1,5 +1,0 @@
-org_img_id: 2395338
-org_cap: A brown teddy bear sits on the dashboard of a bright red car, its eyes staring straight ahead, its paw holding a radio antenna.
-trg_cap: A cartoon-style artwork features a brown teddy bear sitting on the dashboard of a bright red car, its eyes staring straight ahead and its paw holding a radio antenna.
-instruction: Change the style if the image to cartoon style.
-taskid: 30063

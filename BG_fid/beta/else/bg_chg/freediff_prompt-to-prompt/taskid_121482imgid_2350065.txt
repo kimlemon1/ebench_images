@@ -1,5 +1,0 @@
-org_img_id: 2350065
-org_cap: surfing, surfing, surfing person rides a white surfboard through a turbulent sea of blue water, his wetsuit glistening with spray.
-trg_cap: In the gym, a surfing, surfing, surfing person rides a white surfboard through a turbulent sea of blue water, his wetsuit glistening with spray.
-instruction: Change the background to gym.
-taskid: 121482

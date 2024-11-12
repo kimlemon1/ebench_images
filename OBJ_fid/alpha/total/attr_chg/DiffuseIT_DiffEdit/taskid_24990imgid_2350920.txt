@@ -1,5 +1,0 @@
-org_img_id: 2350920
-org_cap: A blue vase sits on a wooden table, surrounded by lush greenery and colorful flowers, including pink roses and purple blooms.
-trg_cap: A light brown vase sits on a wooden table, surrounded by lush greenery and colorful flowers, including pink roses and purple blooms.
-instruction: Change the color of the vase from blue to light brown.
-taskid: 24990

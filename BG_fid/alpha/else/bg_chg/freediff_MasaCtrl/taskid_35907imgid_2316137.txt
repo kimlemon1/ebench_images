@@ -1,5 +1,0 @@
-org_img_id: 2316137
-org_cap: a hunter holds a bird in his gloved hand, standing beside his brown dog.
-trg_cap: A hunter holds a bird in his gloved hand, standing beside his brown dog, as they prepare to enter a restaurant known for its game-inspired dishes.
-instruction: Change the background to restaurant.
-taskid: 35907

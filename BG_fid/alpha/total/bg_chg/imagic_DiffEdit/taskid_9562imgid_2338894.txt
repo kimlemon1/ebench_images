@@ -1,5 +1,0 @@
-org_img_id: 2338894
-org_cap: a person in a black wetsuit rides a wave on the ocean, his arms and legs as he through the water.
-trg_cap: A person in a black wetsuit rides a wave on the ocean, his arms and legs moving as he navigates through the water, with the roar of a stadium crowd echoing in the background.
-instruction: Change the background to stadium.
-taskid: 9562

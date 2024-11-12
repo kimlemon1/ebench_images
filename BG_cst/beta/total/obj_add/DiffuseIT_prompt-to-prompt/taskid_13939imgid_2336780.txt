@@ -1,5 +1,0 @@
-org_img_id: 2336780
-org_cap: a green double-decker bus with a sleek, futuristic design and a solar panel roof, glides smoothly along the road, its wheels humming softly as it approaches the intersection.
-trg_cap: a green double-decker bus with a sleek, futuristic design and a solar panel roof, glides smoothly along the road, its wheels humming softly as it approaches the intersection, with a bottle situated underneath.
-instruction: Add a bottle under the bus.
-taskid: 13939

@@ -1,5 +1,0 @@
-org_img_id: 2368862
-org_cap: a black and white horse in a dirty alleyway, its legs caked with mud and its coat matted with dirt and debris.
-trg_cap: The art, in a pop art style, features a black and white horse in a dirty alleyway, its legs caked with mud and its coat matted with dirt and debris.
-instruction: Change the style if the image to pop art style.
-taskid: 2998

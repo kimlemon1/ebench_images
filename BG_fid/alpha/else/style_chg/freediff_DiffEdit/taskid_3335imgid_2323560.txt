@@ -1,5 +1,0 @@
-org_img_id: 2323560
-org_cap: a brown bird with a black head and wings, and a distinctive white stripe above its beak, on a rusty pipe.
-trg_cap: A Van Gogh style art piece features a brown bird with a black head and wings, a distinctive white stripe above its beak, perched on a rusty pipe.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 3335

@@ -1,5 +1,0 @@
-org_img_id: 2327675
-org_cap: a middle-aged person with a makeshift trailer attached, carrying a small bundle of blankets and a beach umbrella.
-trg_cap: A middle-aged person with a makeshift trailer attached, carrying a small bundle of blankets and a beach umbrella, stood in the middle of a vast grass field.
-instruction: Change the background to grass field.
-taskid: 49543

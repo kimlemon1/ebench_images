@@ -1,5 +1,0 @@
-org_img_id: 2374825
-org_cap: A white truck drives down a street, its headlights illuminating the foggy morning air as it approaches a stoplight at the intersection with a street sign reading "garden" in bold letters, with a distant skyline visible in the haze.
-trg_cap: A white truck drives down a street, its headlights illuminating the foggy morning air as it approaches a stoplight at the intersection with a street sign reading "garden" in bold letters, with a distant skyline of a space station visible in the haze.
-instruction: Change the background to space station.
-taskid: 6867

@@ -1,5 +1,0 @@
-org_img_id: 2366404
-org_cap: A locomotive, with its bright yellow and green livery, chugs along the tracks, hauling a train of metal yellow freight cars behind it.
-trg_cap: A locomotive, with its bright yellow and green livery, chugs along the tracks, hauling a train of wood yellow freight cars behind it.
-instruction: Change the material of the train from metal to wood.
-taskid: 84866

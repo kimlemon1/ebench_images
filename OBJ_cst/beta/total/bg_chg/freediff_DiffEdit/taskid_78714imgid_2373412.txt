@@ -1,5 +1,0 @@
-org_img_id: 2373412
-org_cap: The brown wood baseball bat swings through the air with a loud crack, its worn smooth from countless swings.
-trg_cap: The brown wood baseball bat swings through the air with a loud crack, its worn smooth from countless swings, reminiscent of the sterile, polished surfaces found in a hospital.
-instruction: Change the background to hospital.
-taskid: 78714

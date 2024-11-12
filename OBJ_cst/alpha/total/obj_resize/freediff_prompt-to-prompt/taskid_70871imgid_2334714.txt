@@ -1,5 +1,0 @@
-org_img_id: 2334714
-org_cap: a woman in her mid-twenties with curly brown hair and a warm smile sits on a green bench, her hand gently petting a black cat.
-trg_cap: a woman in her mid-twenties with curly brown hair and a warm smile sits on a green bench, her hand gently petting a large black cat.
-instruction: Make the cat larger.
-taskid: 70871

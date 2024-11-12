@@ -1,5 +1,0 @@
-org_img_id: 2337923
-org_cap: Person off the edge of the concrete wall, his board against the stone as he a smooth ollie, his legs and his arms in a fluid motion.
-trg_cap: Small person off the edge of the concrete wall, his board against the stone as he a smooth ollie, his legs and his arms in a fluid motion.
-instruction: Make the person smaller.
-taskid: 85145

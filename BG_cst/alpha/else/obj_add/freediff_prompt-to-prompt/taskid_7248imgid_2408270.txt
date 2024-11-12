@@ -1,5 +1,0 @@
-org_img_id: 2408270
-org_cap: Resting, smiling, sitting person on the ground, surrounded by the rusty, old bus with a faded green paint job, and a few scattered branches and leaves.
-trg_cap: Resting, smiling, sitting person on the ground, surrounded by the rusty, old bus with a faded green paint job, and a few scattered branches and leaves, with an airplane flying overhead.
-instruction: Add a airplane above the person.
-taskid: 7248

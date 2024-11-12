@@ -1,0 +1,5 @@
+org_img_id: 2360892
+org_cap: a large military transport airplane, with a distinctive curved wing and a fuselage painted in a camouflage pattern, soars through the sky at a high altitude, its engines roaring loudly as it banks and turns in a smooth, controlled motion.
+trg_cap: A Van Gogh style art depicts a large military transport airplane with a distinctive curved wing and a fuselage painted in a camouflage pattern, soaring through the sky at a high altitude, its engines roaring loudly as it banks and turns in a smooth, controlled motion.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 12511

@@ -1,5 +1,0 @@
-org_img_id: 2320540
-org_cap: person throws a frisbee with a joyful expression on his face, his bright pink and blue striped pants as he to catch the disc.
-trg_cap: Boat throws a frisbee, his bright pink and blue striped pants as he tries to catch the disc.
-instruction: Replace the person with a boat.
-taskid: 30988

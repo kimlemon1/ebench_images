@@ -1,5 +1,0 @@
-org_img_id: 61585
-org_cap: person's slender fingers across the tennis racket, her blonde ponytail with each motion as she served the ball with a swing, her bright yellow tennis dress in the breeze.
-trg_cap: The small person's slender fingers across the tennis racket, her blonde ponytail with each motion as she served the ball with a swing, her bright yellow tennis dress in the breeze.
-instruction: Make the person smaller.
-taskid: 87584

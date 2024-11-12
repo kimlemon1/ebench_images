@@ -1,5 +1,0 @@
-org_img_id: 3636
-org_cap: a person in a denim jacket holds a plate of birdseed, with a flock of birds on his shoulders and head, their bright green and yellow feathers a vibrant contrast to the urban landscape behind.
-trg_cap: a person in a denim jacket holds a plate of birdseed, with a flock of birds on his shoulders and head, their bright green and yellow feathers a vibrant contrast to the urban landscape behind, and a bear standing next to the bird.
-instruction: Add a bear next to the bird.
-taskid: 119143

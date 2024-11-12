@@ -1,5 +1,0 @@
-org_img_id: 2380399
-org_cap: The skateboard is a brown wood skateboard, its wheels slightly scuffed and its trucks slightly bent.
-trg_cap: The horse, his wheels slightly scuffed and his trucks slightly bent.
-instruction: Replace the skateboard with a horse.
-taskid: 61592

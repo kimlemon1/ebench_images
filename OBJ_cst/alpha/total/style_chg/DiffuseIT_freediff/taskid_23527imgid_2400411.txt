@@ -1,5 +1,0 @@
-org_img_id: 2400411
-org_cap: The bench is a blue wood bench with a woven bench cushion in a striped pattern, adorned with a few potted flowers and a small, decorative vase.
-trg_cap: The art, in a watercolor painting style, features a blue wood bench with a woven bench cushion in a striped pattern, adorned with a few potted flowers and a small, decorative vase.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 23527

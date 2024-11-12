@@ -1,5 +1,0 @@
-org_img_id: 2355495
-org_cap: a person holds a plate with a skewer of grilled meat and vegetables, surrounded by a colorful bowl and a bowl.
-trg_cap: a person holds a plate with a skewer of grilled meat and vegetables, surrounded by a white bowl and a bowl.
-instruction: Change the color of the bowl from colorful to white.
-taskid: 38687

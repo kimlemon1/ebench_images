@@ -1,0 +1,5 @@
+org_img_id: 2341010
+org_cap: a blue airplane, piloted by a person wearing a leather helmet and goggles, soaring through the clear blue sky.
+trg_cap: a black airplane, piloted by a person wearing a leather helmet and goggles, soaring through the clear black sky.
+instruction: Change the color of the airplane from blue to black.
+taskid: 28101

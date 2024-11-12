@@ -1,5 +1,0 @@
-org_img_id: 2412295
-org_cap: person rides a surfboard through a wave, his long hair as he performs a turn.
-trg_cap: A Van Gogh style artwork depicts a person riding a surfboard through a wave, his long hair flowing as he performs a turn.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 51939

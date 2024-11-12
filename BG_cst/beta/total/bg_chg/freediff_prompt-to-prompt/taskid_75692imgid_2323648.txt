@@ -1,5 +1,0 @@
-org_img_id: 2323648
-org_cap: The white laptop sits on a desk in the center of the room, surrounded by a few decorative items and a plush rug.
-trg_cap: The white laptop sits on a desk in the center of the room, surrounded by a few decorative items and a plush rug, with large windows offering a breathtaking view of the mountain top.
-instruction: Change the background to mountain top.
-taskid: 75692

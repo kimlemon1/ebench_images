@@ -1,5 +1,0 @@
-org_img_id: 285767
-org_cap: The toilet is a plastic cup with a yellow handle and a flat, smooth surface.
-trg_cap: In the vineyard, the toilet is a plastic cup with a yellow handle and a flat, smooth surface.
-instruction: Change the background to vineyard.
-taskid: 90875

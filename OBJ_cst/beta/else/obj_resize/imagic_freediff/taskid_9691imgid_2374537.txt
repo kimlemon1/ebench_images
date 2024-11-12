@@ -1,5 +1,0 @@
-org_img_id: 2374537
-org_cap: Person stands on a snow-capped mountain peak, wearing a bright yellow ski suit and holding a pair of skis with a grin on his face.
-trg_cap: A small person stands on a snow-capped mountain peak, wearing a bright yellow ski suit and holding a pair of skis with a grin on his face.
-instruction: Make the person smaller.
-taskid: 9691

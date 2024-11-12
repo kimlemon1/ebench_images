@@ -1,5 +1,0 @@
-org_img_id: 2319446
-org_cap: a person in a white shirt and white pants rides a jet ski through the water, his red life jacket visible as he performs a trick, his arms and legs as he carves through the waves.
-trg_cap: A dog rides a jet ski through the water.
-instruction: Replace the person with a dog.
-taskid: 105635

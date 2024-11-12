@@ -1,5 +1,0 @@
-org_img_id: 2377820
-org_cap: person, wearing a red wetsuit and holding a surfboard, with a determined expression.
-trg_cap: The mosaic art depicts a person wearing a red wetsuit and holding a surfboard, with a determined expression.
-instruction: Change the style if the image to mosaic art.
-taskid: 54063

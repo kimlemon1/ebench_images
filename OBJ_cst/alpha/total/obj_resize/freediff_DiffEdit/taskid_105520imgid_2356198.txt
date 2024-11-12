@@ -1,5 +1,0 @@
-org_img_id: 2356198
-org_cap: a curious cat with piercing blue eyes and a fluffy grey coat sits on the floor.
-trg_cap: a curious small cat with piercing blue eyes and a fluffy grey coat sits on the floor.
-instruction: Make the cat smaller.
-taskid: 105520

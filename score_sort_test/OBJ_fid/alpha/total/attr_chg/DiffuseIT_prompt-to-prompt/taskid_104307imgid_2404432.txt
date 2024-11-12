@@ -1,0 +1,5 @@
+org_img_id: 2404432
+org_cap: The toilet is a sleek, marble-finished enclosure with a pedestal sink and a porcelain, white toilet, surrounded by a seat and a frame.
+trg_cap: The toilet is a sleek, marble-finished enclosure with a pedestal sink and a metal, white toilet, surrounded by a seat and a frame.
+instruction: Change the material of the toilet from porcelain to metal.
+taskid: 104307

@@ -1,5 +1,0 @@
-org_img_id: 2355781
-org_cap: A white train chugs along the tracks, its wheels clicking rhythmically on the rails.
-trg_cap: A Van Gogh style art depicts a white train chugging along the tracks, its wheels clicking rhythmically on the rails.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 25231

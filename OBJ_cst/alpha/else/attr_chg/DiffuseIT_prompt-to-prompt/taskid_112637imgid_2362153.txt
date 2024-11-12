@@ -1,5 +1,0 @@
-org_img_id: 2362153
-org_cap: the tabby cat, its fur glistening in the warm sunlight that streams through the open doorway, illuminating the dust motes dancing in the air.
-trg_cap: the dark brown cat, its fur glistening in the warm sunlight that streams through the open doorway, illuminating the dust motes dancing in the air.
-instruction: Change the color of the cat from tabby to dark brown.
-taskid: 112637

@@ -1,5 +1,0 @@
-org_img_id: 2378475
-org_cap: a brown jumping dog.
-trg_cap: A brown jumping dog at the airport.
-instruction: Change the background to airport.
-taskid: 66239

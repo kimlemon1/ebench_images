@@ -1,5 +1,0 @@
-org_img_id: 2336381
-org_cap: a white flying bird over the blue ocean waters.
-trg_cap: A white flying bird over the blue ocean waters, with the countryside farm visible in the distance.
-instruction: Change the background to country side farm.
-taskid: 9838

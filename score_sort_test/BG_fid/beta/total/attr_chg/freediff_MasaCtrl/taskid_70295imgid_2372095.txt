@@ -1,0 +1,5 @@
+org_img_id: 2372095
+org_cap: A white cup of coffee and a plate with a few savory pies sat on a rustic wooden table, surrounded by the warm glow of a sunny afternoon.
+trg_cap: A clear cup of coffee and a plate with a few savory pies sat on a rustic wooden table, surrounded by the warm glow of a sunny afternoon.
+instruction: Change the color of the cup from white to clear.
+taskid: 70295

@@ -1,5 +1,0 @@
-org_img_id: 2364875
-org_cap: a skateboarder in a bright yellow shirt and baggy pants jumps off a ramp, his black skateboard flying off his feet as he lands smoothly on the concrete floor.
-trg_cap: A skateboarder in a bright yellow shirt and baggy pants jumps off a ramp, his black skateboard flying off his feet as he lands smoothly on the concrete floor, with a bottle on the left side of the skateboard.
-instruction: Add a bottle on the left side of the skateboard.
-taskid: 75533

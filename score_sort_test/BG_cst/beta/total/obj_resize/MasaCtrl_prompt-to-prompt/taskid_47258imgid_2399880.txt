@@ -1,0 +1,5 @@
+org_img_id: 2399880
+org_cap: a young boy in a winter coat and scarf stands in a fast food restaurant, wearing a red necktie.
+trg_cap: a young boy in a winter coat and scarf stands in a fast food restaurant, wearing a large red necktie.
+instruction: Make the tie larger.
+taskid: 47258

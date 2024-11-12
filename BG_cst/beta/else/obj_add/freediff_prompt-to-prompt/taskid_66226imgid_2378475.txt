@@ -1,5 +1,0 @@
-org_img_id: 2378475
-org_cap: a brown jumping dog.
-trg_cap: a brown jumping dog with an umbrella on it.
-instruction: Add a umbrella on the dog.
-taskid: 66226

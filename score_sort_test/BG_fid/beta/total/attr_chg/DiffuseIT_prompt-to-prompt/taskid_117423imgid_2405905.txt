@@ -1,0 +1,5 @@
+org_img_id: 2405905
+org_cap: A metal, yellow traffic light stands upright against a brick wall, its traffic lights facing upwards.
+trg_cap: A steel, yellow traffic light stands upright against a brick wall, its traffic lights facing upwards.
+instruction: Change the material of the traffic light from metal to steel.
+taskid: 117423

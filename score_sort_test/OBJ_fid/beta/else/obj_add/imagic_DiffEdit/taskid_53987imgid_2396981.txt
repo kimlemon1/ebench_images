@@ -1,0 +1,5 @@
+org_img_id: 2396981
+org_cap: Here is the brown bottle.
+trg_cap: Here is the brown bottle, and the cow is behind it.
+instruction: Add a cow behind the bottle.
+taskid: 53987

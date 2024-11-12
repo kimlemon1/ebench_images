@@ -1,0 +1,5 @@
+org_img_id: 2399824
+org_cap: a person stands beside a gray fire hydrant, wearing a yellow jacket and holding a plastic bag.
+trg_cap: a person stands beside a tan fire hydrant, wearing a yellow jacket and holding a plastic bag.
+instruction: Change the color of the fire hydrant from gray to tan.
+taskid: 11077

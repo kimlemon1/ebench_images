@@ -1,5 +1,0 @@
-org_img_id: 2405425
-org_cap: The cozy reading nook features a black leather chair, surrounded by bookshelves filled with a mix of classic and modern literature, with a plaid blanket draped over the back of the chair and a few favorite books scattered about.
-trg_cap: The pop art style piece features a cozy reading nook with a black leather chair surrounded by bookshelves filled with a mix of classic and modern literature, a plaid blanket draped over the back of the chair, and a few favorite books scattered about.
-instruction: Change the style if the image to pop art style.
-taskid: 23519

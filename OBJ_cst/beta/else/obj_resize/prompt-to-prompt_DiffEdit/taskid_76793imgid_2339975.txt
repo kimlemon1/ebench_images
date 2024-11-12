@@ -1,5 +1,0 @@
-org_img_id: 2339975
-org_cap: The kitchen area features a wooden floor, a metal refrigerator, and a kitchen counter with a sink and cabinets.
-trg_cap: The kitchen area features a wooden floor, a small metal refrigerator, and a kitchen counter with a sink and cabinets.
-instruction: Make the refrigerator smaller.
-taskid: 76793

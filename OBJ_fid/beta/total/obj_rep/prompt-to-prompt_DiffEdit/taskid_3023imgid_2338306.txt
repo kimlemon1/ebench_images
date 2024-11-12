@@ -1,5 +1,0 @@
-org_img_id: 2338306
-org_cap: a lone person, clad in a wetsuit and sunglasses, on a person, his silhouette stark against the turbulent sea and sky.
-trg_cap: a lone train on a train, its silhouette stark against the turbulent sea and sky.
-instruction: Replace the person with a train.
-taskid: 3023

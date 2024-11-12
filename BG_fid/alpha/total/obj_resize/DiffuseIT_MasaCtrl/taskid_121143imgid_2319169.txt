@@ -1,5 +1,0 @@
-org_img_id: 2319169
-org_cap: A middle-aged person with a rugged face and a grey beard sat astride a sleek motorcycle, wearing a black leather jacket and a helmet with a silver visor, his grey hair sticking out from under the helmet.
-trg_cap: A large, middle-aged person with a rugged face and a grey beard sat astride a sleek motorcycle, wearing a black leather jacket and a helmet with a silver visor, his grey hair sticking out from under the helmet.
-instruction: Make the person larger.
-taskid: 121143

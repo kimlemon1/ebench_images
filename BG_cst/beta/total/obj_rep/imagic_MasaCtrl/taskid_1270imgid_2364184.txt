@@ -1,5 +1,0 @@
-org_img_id: 2364184
-org_cap: Person, wearing a black wetsuit, rides a wave on his surfboard.
-trg_cap: Snowboard rides a wave on his surfboard.
-instruction: Replace the person with a snowboard.
-taskid: 1270

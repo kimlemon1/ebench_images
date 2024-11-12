@@ -1,5 +1,0 @@
-org_img_id: 2390597
-org_cap: a small, chubby toddler sits in a high chair, wearing a pink onesie and a white bib, with a pink bowl in front of her.
-trg_cap: The mosaic art depicts a small, chubby toddler sitting in a high chair, wearing a pink onesie and a white bib, with a pink bowl in front of her.
-instruction: Change the style if the image to mosaic art.
-taskid: 31554

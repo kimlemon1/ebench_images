@@ -1,5 +1,0 @@
-org_img_id: 2331190
-org_cap: The laptop sits on a white desk, flanked by a keyboard and a small tray with a pen holder, a paperweight, and a stack of papers.
-trg_cap: A Van Gogh style art depicts a laptop sitting on a white desk, flanked by a keyboard and a small tray with a pen holder, a paperweight, and a stack of papers.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 43843

@@ -1,5 +1,0 @@
-org_img_id: 2387012
-org_cap: a brown, jumping horse with a rider, person, in a black and white striped jacket and hat, over a red and white striped hurdle on a sunny day.
-trg_cap: a black, jumping horse with a rider, person, in a black and white striped jacket and hat, over a red and white striped hurdle on a sunny day.
-instruction: Change the color of the horse from brown to black.
-taskid: 40072

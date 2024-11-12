@@ -1,5 +1,0 @@
-org_img_id: 2322674
-org_cap: person through the snow on a pair of worn skis, her bright yellow jacket a splash of color against the winter wonderland.
-trg_cap: person through the snow on a pair of worn skis, her bright yellow jacket a splash of color against the backdrop of the space station.
-instruction: Change the background to space station.
-taskid: 38747

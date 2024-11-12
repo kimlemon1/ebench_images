@@ -1,0 +1,5 @@
+org_img_id: 174
+org_cap: The bed is a wood bed with a striped bedspread and a wooden headboard.
+trg_cap: The bed is a iron bed with a striped bedspread and a ironen headboard.
+instruction: Change the material of the bed from wood to iron.
+taskid: 108854

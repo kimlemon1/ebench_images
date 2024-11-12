@@ -1,5 +1,0 @@
-org_img_id: 2369783
-org_cap: a white dog on a scooter in a store window.
-trg_cap: a white dog on a scooter in a store window with a sports ball under the dog.
-instruction: Add a sports ball under the dog.
-taskid: 41418

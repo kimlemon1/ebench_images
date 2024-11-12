@@ -1,5 +1,0 @@
-org_img_id: 2409011
-org_cap: a person in a bright orange vest and a yellow hard hat stands beside a bicycle with a trailer attached, at a dump truck.
-trg_cap: A cartoon-style art features a person in a bright orange vest and a yellow hard hat standing beside a bicycle with a trailer attached, next to a dump truck.
-instruction: Change the style if the image to cartoon style.
-taskid: 81633

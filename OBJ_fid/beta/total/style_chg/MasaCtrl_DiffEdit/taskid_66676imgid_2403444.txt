@@ -1,5 +1,0 @@
-org_img_id: 2403444
-org_cap: person on his back in the ocean, his person-clad body on the waves as he up at the cloudy sky with a contented expression.
-trg_cap: A graffiti art depicts a person on his back in the ocean, his body clad in clothing as he looks up at the cloudy sky with a contented expression.
-instruction: Change the style if the image to graffiti art.
-taskid: 66676

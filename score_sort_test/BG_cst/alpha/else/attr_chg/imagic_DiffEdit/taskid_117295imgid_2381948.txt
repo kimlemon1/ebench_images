@@ -1,0 +1,5 @@
+org_img_id: 2381948
+org_cap: the bus is a white bus with a rear door with a window above it.
+trg_cap: the bus is a colorful bus with a rear door with a window above it.
+instruction: Change the color of the bus from white to colorful.
+taskid: 117295

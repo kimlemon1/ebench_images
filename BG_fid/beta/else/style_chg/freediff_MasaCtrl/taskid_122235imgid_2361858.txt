@@ -1,5 +1,0 @@
-org_img_id: 2361858
-org_cap: "Person on a bed, wearing a purple and blue striped shirt and glasses, with an open black laptop in front of him."
-trg_cap: A grey scale photo shows a person on a bed, wearing a purple and blue striped shirt and glasses, with an open black laptop in front of him.
-instruction: Change the style if the image to grey scale.
-taskid: 122235

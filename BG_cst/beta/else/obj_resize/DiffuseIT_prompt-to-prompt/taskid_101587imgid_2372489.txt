@@ -1,5 +1,0 @@
-org_img_id: 2372489
-org_cap: the billboard features a blue clock with the numbers and hands visible, with the words "potion" written in bold letters around the edge.
-trg_cap: The billboard features a large blue clock with the numbers and hands visible, with the words "potion" written in bold letters around the edge.
-instruction: Make the clock larger.
-taskid: 101587

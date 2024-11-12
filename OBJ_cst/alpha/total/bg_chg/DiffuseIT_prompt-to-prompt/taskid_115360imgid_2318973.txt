@@ -1,5 +1,0 @@
-org_img_id: 2318973
-org_cap: The bowl contains a steaming hot soup of creamy coconut milk, rich and savory with chunks of succulent shrimp, juicy chicken, and crunchy vegetables, garnished with a sprinkle of fresh cilantro and a dash of red pepper flakes.
-trg_cap: On a mountaintop, the bowl contains a steaming hot soup of creamy coconut milk, rich and savory with chunks of succulent shrimp, juicy chicken, and crunchy vegetables, garnished with a sprinkle of fresh cilantro and a dash of red pepper flakes.
-instruction: Change the background to mountain top.
-taskid: 115360

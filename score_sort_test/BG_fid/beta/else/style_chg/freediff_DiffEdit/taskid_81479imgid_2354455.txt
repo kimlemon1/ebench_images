@@ -1,0 +1,5 @@
+org_img_id: 2354455
+org_cap: The exterior features a decorative iron railing with a rusty black clock and intricate green metalwork in the shape of interlocking squares.
+trg_cap: A Van Gogh style art features an exterior with a decorative iron railing, a rusty black clock, and intricate green metalwork in the shape of interlocking squares.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 81479

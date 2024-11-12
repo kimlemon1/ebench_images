@@ -1,5 +1,0 @@
-org_img_id: 2387223
-org_cap: A gray keyboard sits atop a wooden desk, next to a white ceramic empty skateboard and a skateboard.
-trg_cap: A gray keyboard sits atop a wooden desk, next to a white ceramic cup with a toothbrush and an empty skateboard and a skateboard.
-instruction: Add a toothbrush on the cup.
-taskid: 24169

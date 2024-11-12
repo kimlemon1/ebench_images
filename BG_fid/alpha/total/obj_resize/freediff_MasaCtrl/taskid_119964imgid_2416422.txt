@@ -1,5 +1,0 @@
-org_img_id: 2416422
-org_cap: a white dog sits on the sidewalk, wearing a black harness.
-trg_cap: a white dog sits on the sidewalk, wearing a black harness, next to a small fire hydrant.
-instruction: Make the fire hydrant smaller.
-taskid: 119964

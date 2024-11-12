@@ -1,5 +1,0 @@
-org_img_id: 2379548
-org_cap: the clock face is a circular dial with roman numerals and intricate stone carvings surrounding it, set against a brick facade with ornate stone arches and windows.
-trg_cap: The clock face is a circular dial with roman numerals and intricate stone carvings surrounding it, set against a brick facade with ornate stone arches and windows, with a bus located directly under the clock.
-instruction: Add a bus under the clock.
-taskid: 114044

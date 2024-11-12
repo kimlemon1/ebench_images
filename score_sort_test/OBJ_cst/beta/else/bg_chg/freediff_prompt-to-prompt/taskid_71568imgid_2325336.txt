@@ -1,0 +1,5 @@
+org_img_id: 2325336
+org_cap: The vase is a brown glass vase with a rustic, distressed label featuring the logo and name of the beer, surrounded by a bouquet of fresh flowers, including pink roses and greenery.
+trg_cap: The vase is a brown glass vase with a rustic, distressed label featuring the logo and name of the beer, surrounded by a bouquet of fresh flowers, including pink roses and greenery, set against a background of a snow field.
+instruction: Change the background to snow field.
+taskid: 71568

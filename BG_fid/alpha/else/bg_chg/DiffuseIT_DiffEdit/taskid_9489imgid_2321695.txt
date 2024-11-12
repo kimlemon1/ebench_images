@@ -1,5 +1,0 @@
-org_img_id: 2321695
-org_cap: The clock on the yellow building features intricate details, including ornate hands and a decorative face surrounded by carved stone and ornate metalwork.
-trg_cap: The clock on the yellow building, which overlooks the serene lakeside, features intricate details, including ornate hands and a decorative face surrounded by carved stone and ornate metalwork.
-instruction: Change the background to lake side.
-taskid: 9489

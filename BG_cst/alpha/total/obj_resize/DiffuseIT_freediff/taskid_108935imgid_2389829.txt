@@ -1,5 +1,0 @@
-org_img_id: 2389829
-org_cap: A standing person rides a skateboarding person down a winding street, his orange wheels as he the curves.
-trg_cap: A small standing person rides a skateboarding person down a winding street, his orange wheels as he the curves.
-instruction: Make the person smaller.
-taskid: 108935

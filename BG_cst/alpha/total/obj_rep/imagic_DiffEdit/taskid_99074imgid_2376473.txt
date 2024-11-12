@@ -1,5 +1,0 @@
-org_img_id: 2376473
-org_cap: a bear with a distinctive yellow and brown coloration on its fur, with its front paws and its claws.
-trg_cap: a bus with its front and rear wheels and its claws.
-instruction: Replace the bear with a bus.
-taskid: 99074

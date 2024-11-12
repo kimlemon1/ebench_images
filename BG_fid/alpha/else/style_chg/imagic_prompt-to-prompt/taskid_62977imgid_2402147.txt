@@ -1,5 +1,0 @@
-org_img_id: 2402147
-org_cap: a person in a yellow vest is on the railway tracks, a cable and the train's wheels.
-trg_cap: An oil painting style artwork depicts a person in a yellow vest on the railway tracks, alongside a cable and the train's wheels.
-instruction: Change the style if the image to oil painting style.
-taskid: 62977

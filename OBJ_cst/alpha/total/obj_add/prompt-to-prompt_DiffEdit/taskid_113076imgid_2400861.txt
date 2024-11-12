@@ -1,5 +1,0 @@
-org_img_id: 2400861
-org_cap: The toilet is a space with a porcelain white toilet, situated in a room with wooden flooring and walls painted a light yellow color.
-trg_cap: The toilet is a space with a porcelain white toilet, situated in a room with wooden flooring and walls painted a light yellow color, with a bed located behind the toilet.
-instruction: Add a bed behind the toilet.
-taskid: 113076

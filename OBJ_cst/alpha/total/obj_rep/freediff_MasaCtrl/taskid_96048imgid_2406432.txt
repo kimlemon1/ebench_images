@@ -1,5 +1,0 @@
-org_img_id: 2406432
-org_cap: a black metal motorcycle parked outside a modern building with a neon sign, surrounded by urban scenery with graffiti and concrete walls.
-trg_cap: A train is parked outside a modern building with a neon sign, surrounded by urban scenery with graffiti and concrete walls.
-instruction: Replace the motorcycle with a train.
-taskid: 96048

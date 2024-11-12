@@ -1,5 +1,0 @@
-org_img_id: 2372152
-org_cap: A person holds an orange cell phone over a plate of food, his hand hovering inches above the plate as he considers whether to take a bite.
-trg_cap: A cartoon-style art depicts a person holding an orange cell phone over a plate of food, his hand hovering inches above the plate as he considers whether to take a bite.
-instruction: Change the style if the image to cartoon style.
-taskid: 23553

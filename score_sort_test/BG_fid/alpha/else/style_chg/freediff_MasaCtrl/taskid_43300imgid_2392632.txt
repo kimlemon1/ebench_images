@@ -1,0 +1,5 @@
+org_img_id: 2392632
+org_cap: a skateboarder in a gray sweatshirt and dark pants jumps off a wall, his skateboard flying out from his feet as he lands with a smooth roll on the pavement below.
+trg_cap: The graffiti art depicts a skateboarder in a gray sweatshirt and dark pants jumping off a wall, his skateboard flying out from his feet as he lands with a smooth roll on the pavement below.
+instruction: Change the style if the image to graffiti art.
+taskid: 43300

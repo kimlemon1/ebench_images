@@ -1,5 +1,0 @@
-org_img_id: 2393940
-org_cap: the clock tower stands tall and proud, its stone facade illuminated by soft, golden light, with intricate carvings and ornate details visible in the evening glow, while the adjacent modern building looms large in the background, its sleek glass and steel exterior a stark contrast to the clock's ancient charm.
-trg_cap: The clock tower stands tall and proud, its stone facade illuminated by soft, golden light, with intricate carvings and ornate details visible in the evening glow, while the adjacent modern building looms large in the background, its sleek glass and steel exterior a stark contrast to the clock's ancient charm, and a truck is parked behind the clock.
-instruction: Add a truck behind the clock.
-taskid: 70912

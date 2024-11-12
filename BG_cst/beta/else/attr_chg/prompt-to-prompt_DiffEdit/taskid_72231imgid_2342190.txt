@@ -1,5 +1,0 @@
-org_img_id: 2342190
-org_cap: a vibrant orange carrot and a few bunches of green broccoli sit on the kitchen counter.
-trg_cap: a vibrant orange carrot and a few bunches of white broccoli sit on the kitchen counter.
-instruction: Change the color of the broccoli from green to white.
-taskid: 72231

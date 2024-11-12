@@ -1,5 +1,0 @@
-org_img_id: 2372999
-org_cap: a small, white cup with a delicate handle and a saucer rests on a wooden table, accompanied by a laptop computer with a closed lid, and a silver spoon lies across the saucer.
-trg_cap: A toilet rests on a wooden table, accompanied by a laptop computer with its lid closed, and a silver spoon lies across the saucer.
-instruction: Replace the cup with a toilet.
-taskid: 47663

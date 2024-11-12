@@ -1,5 +1,0 @@
-org_img_id: 2366787
-org_cap: A red train chugs along the tracks, its wheels clicking on the rails as it carries passengers on a scenic route.
-trg_cap: A striped train chugs along the tracks, its wheels clicking on the rails as it carries passengers on a scenic route.
-instruction: Change the color of the train from red to striped.
-taskid: 97542

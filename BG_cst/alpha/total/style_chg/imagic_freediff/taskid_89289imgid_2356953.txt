@@ -1,5 +1,0 @@
-org_img_id: 2356953
-org_cap: A person wearing a white sweat suit and a white bandana over their face, with a pair of white cycling shoes and a white helmet, a road bike down a city street.
-trg_cap: The graffiti art depicts a person wearing a white sweat suit, a white bandana over their face, white cycling shoes, and a white helmet, riding a road bike down a city street.
-instruction: Change the style if the image to graffiti art.
-taskid: 89289

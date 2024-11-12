@@ -1,5 +1,0 @@
-org_img_id: 2399439
-org_cap: Person rode his motorcycle, wearing a green jersey and helmet, on the dirt track.
-trg_cap: Person rode his small motorcycle, wearing a green jersey and helmet, on the dirt track.
-instruction: Make the motorcycle smaller.
-taskid: 86226

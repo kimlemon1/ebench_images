@@ -1,5 +1,0 @@
-org_img_id: 1160039
-org_cap: A skateboard is carried by a person wearing black and white clothing, with a logo on their shirt and sneakers on their feet.
-trg_cap: A small skateboard is carried by a person wearing black and white clothing, with a logo on their shirt and sneakers on their feet.
-instruction: Make the skateboard smaller.
-taskid: 90647

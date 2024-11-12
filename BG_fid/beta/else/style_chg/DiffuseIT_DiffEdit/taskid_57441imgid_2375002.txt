@@ -1,5 +1,0 @@
-org_img_id: 2375002
-org_cap: The clock face is circular with a diameter of approximately 3 feet, featuring large numerals and hour markers in a traditional style, surrounded by a decorative metal frame with intricate details and a subtle curvature to blend with the brick wall it is mounted on.
-trg_cap: The pencil sketch art depicts a circular clock face with a diameter of approximately 3 feet, featuring large numerals and hour markers in a traditional style, surrounded by a decorative metal frame with intricate details and a subtle curvature to blend with the brick wall it is mounted on.
-instruction: Change the style if the image to pencil sketch.
-taskid: 57441

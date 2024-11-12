@@ -1,5 +1,0 @@
-org_img_id: 2403165
-org_cap: a walking person with a skateboard under his arm, with the cityscape visible in the background.
-trg_cap: a walking person with a skateboard under his arm and a laptop on his left side, with the cityscape visible in the background.
-instruction: Add a laptop on the left side of the person.
-taskid: 83618

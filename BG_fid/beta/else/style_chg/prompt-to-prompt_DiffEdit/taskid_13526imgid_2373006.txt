@@ -1,5 +1,0 @@
-org_img_id: 2373006
-org_cap: the bed features a sleek, modern design with a minimalist headboard and a soft, white bed, adorned with a subtle, shimmering trim along the edges.
-trg_cap: An ancient Egypt-style art piece features a sleek, modern bed design with a minimalist headboard and a soft, white bed adorned with a subtle, shimmering trim along the edges.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 13526

@@ -1,5 +1,0 @@
-org_img_id: 2376449
-org_cap: a skateboarder holds an orange skateboard, wearing a black shirt and blue jeans, with a helmet and knee pads.
-trg_cap: A skateboarder holds an orange skateboard, wearing a black shirt and blue jeans, with a helmet and knee pads, set against the backdrop of a pine forest.
-instruction: Change the background to pine forest.
-taskid: 100002

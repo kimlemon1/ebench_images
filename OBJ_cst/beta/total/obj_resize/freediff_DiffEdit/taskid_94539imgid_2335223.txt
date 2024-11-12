@@ -1,5 +1,0 @@
-org_img_id: 2335223
-org_cap: a person a small bicycle the flooded streets at night.
-trg_cap: a small person a small bicycle the flooded streets at night.
-instruction: Make the person smaller.
-taskid: 94539

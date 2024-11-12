@@ -1,5 +1,0 @@
-org_img_id: 2367153
-org_cap: a sleek and fluffy cat sits atop a laptop, its paws around the keyboard and its tail around the screen, as if trying to get a better view of the digital world.
-trg_cap: An ancient Egyptian-style artwork depicts a sleek and fluffy cat sitting atop a laptop, its paws around the keyboard and its tail around the screen, as if trying to get a better view of the digital world.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 42133

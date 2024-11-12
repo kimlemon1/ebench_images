@@ -1,5 +1,0 @@
-org_img_id: 2404443
-org_cap: A yellow surfboard stands upright in the shallow water, with a walking person, as the waves gently lap at his feet.
-trg_cap: The mosaic art depicts a yellow surfboard standing upright in the shallow water, with a person walking as the waves gently lap at his feet.
-instruction: Change the style if the image to mosaic art.
-taskid: 11004

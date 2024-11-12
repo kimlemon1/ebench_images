@@ -1,0 +1,5 @@
+org_img_id: 2371715
+org_cap: A horse with a wooden cart and harness, adorned with yellow and brown decorations, on the sidewalk, its reins held by a person in a bright yellow shirt.
+trg_cap: A graffiti art piece depicts a horse with a wooden cart and harness, adorned with yellow and brown decorations, on the sidewalk, its reins held by a person in a bright yellow shirt.
+instruction: Change the style if the image to graffiti art.
+taskid: 23671

@@ -1,5 +1,0 @@
-org_img_id: 2368945
-org_cap: a skateboarder in his 40s, wearing a helmet and knee pads, crouches low to the ground, his eyes fixed on the road ahead as he prepares to turn a corner.
-trg_cap: A skateboarder in his 40s, wearing a helmet and knee pads, crouches low to the ground in a gym, his eyes fixed on the road ahead as he prepares to turn a corner.
-instruction: Change the background to gym.
-taskid: 44441

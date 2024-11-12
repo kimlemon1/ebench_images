@@ -1,5 +1,0 @@
-org_img_id: 2384374
-org_cap: organization leader, dressed in a purple tie and a suit, stands at a podium, gesturing enthusiastically as he speaks to an audience.
-trg_cap: organization leader, dressed in a large purple tie and a suit, stands at a podium, gesturing enthusiastically as he speaks to an audience.
-instruction: Make the tie larger.
-taskid: 101523

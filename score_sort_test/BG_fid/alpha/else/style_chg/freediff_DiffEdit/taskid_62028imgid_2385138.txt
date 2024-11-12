@@ -1,0 +1,5 @@
+org_img_id: 2385138
+org_cap: A young, blond person sitting on a wooden bench, with a scrunched up expression on their face.
+trg_cap: A Van Gogh style art depicts a young, blond person sitting on a wooden bench with a scrunched up expression on their face.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 62028

@@ -1,5 +1,0 @@
-org_img_id: 2394810
-org_cap: a black fire hydrant stands upright, its cap and black fire hydrant rusting in the urban landscape, surrounded by litter and debris.
-trg_cap: A small black fire hydrant stands upright, its cap and black fire hydrant rusting in the urban landscape, surrounded by litter and debris.
-instruction: Make the fire hydrant smaller.
-taskid: 11085

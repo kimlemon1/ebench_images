@@ -1,5 +1,0 @@
-org_img_id: 2379690
-org_cap: The green car features a sleek chrome grille, gleaming silver headlights, and a sturdy bumper with a chrome strip.
-trg_cap: The pop art style artwork features a green car with a sleek chrome grille, gleaming silver headlights, and a sturdy bumper with a chrome strip.
-instruction: Change the style if the image to pop art style.
-taskid: 79629

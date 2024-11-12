@@ -1,5 +1,0 @@
-org_img_id: 2390259
-org_cap: The white clock hangs from the ceiling, its clock adorned with roman numerals and a worn leather strap.
-trg_cap: The white clock hangs from the ceiling, its clock adorned with roman numerals and a worn leather strap, with a bench on the right side.
-instruction: Add a bench on the right side of the clock.
-taskid: 116775

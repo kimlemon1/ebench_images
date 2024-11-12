@@ -1,5 +1,0 @@
-org_img_id: 2352226
-org_cap: The microwave is a white microwave.
-trg_cap: The microwave is a small white microwave.
-instruction: Make the microwave smaller.
-taskid: 110415

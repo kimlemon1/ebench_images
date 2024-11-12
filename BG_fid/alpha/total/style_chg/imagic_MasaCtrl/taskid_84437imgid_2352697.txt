@@ -1,5 +1,0 @@
-org_img_id: 2352697
-org_cap: the scene features a rectangular desk with a keyboard at its center, surrounded by various office supplies and a few framed photographs.
-trg_cap: The mosaic art features a scene with a rectangular desk at its center, adorned with a keyboard, various office supplies, and a few framed photographs.
-instruction: Change the style if the image to mosaic art.
-taskid: 84437

@@ -1,5 +1,0 @@
-org_img_id: 2367998
-org_cap: The wood baseball bat stood tall in the pitcher's hand, its grip and wood telling the story of countless games played and innings pitched.
-trg_cap: The plastic baseball bat stood tall in the pitcher's hand, its grip and plastic telling the story of countless games played and innings pitched.
-instruction: Change the material of the baseball bat from wood to plastic.
-taskid: 88672

@@ -1,5 +1,0 @@
-org_img_id: 2401688
-org_cap: a person in a bright orange jacket and goggles carves through fresh powder on skis, leaving a trail of perfectly groomed snow in their wake as they expertly navigate the mountain.
-trg_cap: A graffiti art depicts a person in a bright orange jacket and goggles carving through fresh powder on skis, leaving a trail of perfectly groomed snow in their wake as they expertly navigate the mountain.
-instruction: Change the style if the image to graffiti art.
-taskid: 74203

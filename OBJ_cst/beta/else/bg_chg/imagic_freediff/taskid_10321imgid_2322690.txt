@@ -1,5 +1,0 @@
-org_img_id: 2322690
-org_cap: a giraffe stands in the grass, its long neck bent.
-trg_cap: A giraffe stands in the grass of a stadium, its long neck bent.
-instruction: Change the background to stadium.
-taskid: 10321

@@ -1,5 +1,0 @@
-org_img_id: 2327566
-org_cap: A orange boat cuts through the churning turquoise waters of the river, with a paddler's arm and hand visible as they steer the boat through the whitewater rapids.
-trg_cap: A cartoon-style art depicts an orange boat cutting through the churning turquoise waters of the river, with a paddler's arm and hand visible as they steer the boat through the whitewater rapids.
-instruction: Change the style if the image to cartoon style.
-taskid: 113064

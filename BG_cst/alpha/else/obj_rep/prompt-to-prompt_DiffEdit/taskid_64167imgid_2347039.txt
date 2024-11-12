@@ -1,5 +1,0 @@
-org_img_id: 2347039
-org_cap: A gray laptop sits on a desk, its casing and keyboard reflecting the soft light of the room.
-trg_cap: A gray person sits at a desk.
-instruction: Replace the laptop with a person.
-taskid: 64167

@@ -1,5 +1,0 @@
-org_img_id: 2364049
-org_cap: a blue diesel-powered city bus with a curved front, rounded windows, and a flat roof, parked in a designated bus stop with a yellow line on the ground.
-trg_cap: A grey scale photo features a blue diesel-powered city bus with a curved front, rounded windows, and a flat roof, parked at a designated bus stop with a yellow line on the ground.
-instruction: Change the style if the image to grey scale.
-taskid: 65962

@@ -1,5 +1,0 @@
-org_img_id: 2363435
-org_cap: A person lies on a metal silver bench, with a backpack and a few scattered toys nearby.
-trg_cap: A person lies on a metal silver bench, with a backpack and a few scattered toys nearby, in the outdoor seating area of a bustling restaurant.
-instruction: Change the background to restaurant.
-taskid: 86671

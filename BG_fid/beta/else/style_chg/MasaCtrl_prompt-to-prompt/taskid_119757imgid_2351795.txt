@@ -1,5 +1,0 @@
-org_img_id: 2351795
-org_cap: a slice of chocolate cake sits on a pink paper plate, with a slice missing and a few crumbs scattered around cake.
-trg_cap: A pencil sketch depicts a slice of chocolate cake with a piece missing and a few crumbs scattered around, all on a pink paper plate.
-instruction: Change the style if the image to pencil sketch.
-taskid: 119757

@@ -1,5 +1,0 @@
-org_img_id: 2391247
-org_cap: a white bird with a shape and bird on a sandy beach, its wings as it walks towards the waves.
-trg_cap: a white bird with a shape and bird on a sandy beach, its wings as it walks towards the waves, with a fork on the right side of the bird.
-instruction: Add a fork on the right side of the bird.
-taskid: 7940

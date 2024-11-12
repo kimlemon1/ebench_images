@@ -1,5 +1,0 @@
-org_img_id: 2381004
-org_cap: young skateboarder, down a winding path lined with trees and flowers, the sun casting a warm glow over the scene, black skateboard.
-trg_cap: young skateboarder, down a winding path lined with trees and flowers, the sun casting a warm glow over the scene, black skateboard, with a fire hydrant on the left side of the skateboard.
-instruction: Add a fire hydrant on the left side of the skateboard.
-taskid: 5976

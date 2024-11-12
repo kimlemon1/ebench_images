@@ -1,5 +1,0 @@
-org_img_id: 2375965
-org_cap: The refrigerator sits on a wooden table in the center of the room, surrounded by a few framed photographs and a small stack of books.
-trg_cap: The small refrigerator sits on a wooden table in the center of the room, surrounded by a few framed photographs and a small stack of books.
-instruction: Make the refrigerator smaller.
-taskid: 87437

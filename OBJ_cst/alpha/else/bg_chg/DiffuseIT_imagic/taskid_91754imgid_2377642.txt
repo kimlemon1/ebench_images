@@ -1,5 +1,0 @@
-org_img_id: 2377642
-org_cap: Person, wearing a helmet and knee pads, her legs in tandem on the sleek, silver skis.
-trg_cap: Person, wearing a helmet and knee pads, her legs in tandem on the sleek, silver skis, glided gracefully through the rows of the lush vineyard.
-instruction: Change the background to vineyard.
-taskid: 91754

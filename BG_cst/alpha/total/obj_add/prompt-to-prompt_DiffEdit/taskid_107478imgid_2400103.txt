@@ -1,5 +1,0 @@
-org_img_id: 2400103
-org_cap: A gray laptop lies open on a white bed, the blue keyboard in the dimly lit room.
-trg_cap: A gray laptop lies open on a white bed, the blue keyboard in the dimly lit room, with a TV resting on the keyboard.
-instruction: Add a tv on the keyboard.
-taskid: 107478

@@ -1,5 +1,0 @@
-org_img_id: 2395898
-org_cap: A red stop sign stands on the stop sign, while an airplane soars into the sky at sunset, its engines roaring as it takes off into the evening darkness.
-trg_cap: A black stop sign stands on the stop sign, while an airplane soars into the sky at sunset, its engines roaring as it takes off into the evening darkness.
-instruction: Change the color of the stop sign from red to black.
-taskid: 100697

@@ -1,5 +1,0 @@
-org_img_id: 2405425
-org_cap: The cozy reading nook features a black leather chair, surrounded by bookshelves filled with a mix of classic and modern literature, with a plaid blanket draped over the back of the chair and a few favorite books scattered about.
-trg_cap: The cozy reading nook features a gold leather chair, surrounded by bookshelves filled with a mix of classic and modern literature, with a plaid blanket draped over the back of the chair and a few favorite books scattered about.
-instruction: Change the color of the chair from black to gold.
-taskid: 23518

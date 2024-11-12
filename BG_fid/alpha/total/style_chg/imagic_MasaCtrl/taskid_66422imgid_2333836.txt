@@ -1,5 +1,0 @@
-org_img_id: 2333836
-org_cap: a bnsf train rumbles along the tracks, its train engines chugging as it hauls a long string of train cars across the landscape.
-trg_cap: A Van Gogh style art depicts a BNSF train rumbling along the tracks, its engines chugging as it hauls a long string of train cars across the landscape.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 66422

@@ -1,5 +1,0 @@
-org_img_id: 2324772
-org_cap: a boy with a white remote, wearing a t-shirt with a cartoon character on it, and holding it up to his ear with his head tilted back.
-trg_cap: a boy with a small white remote, wearing a t-shirt with a cartoon character on it, and holding it up to his ear with his head tilted back.
-instruction: Make the remote smaller.
-taskid: 36115

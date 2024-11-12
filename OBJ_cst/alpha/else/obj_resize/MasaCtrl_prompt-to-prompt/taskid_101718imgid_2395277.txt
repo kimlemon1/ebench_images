@@ -1,5 +1,0 @@
-org_img_id: 2395277
-org_cap: A blue truck is parked on a dirt road, with a standing gray dog nearby.
-trg_cap: A small blue truck is parked on a dirt road, with a standing gray dog nearby.
-instruction: Make the truck smaller.
-taskid: 101718

@@ -1,5 +1,0 @@
-org_img_id: 1592264
-org_cap: a young person sits in a red chair and stares at a tv off in the room.
-trg_cap: a young person sits in a tan chair and stares at a tv off in the room.
-instruction: Change the color of the chair from red to tan.
-taskid: 100567

@@ -1,5 +1,0 @@
-org_img_id: 2409291
-org_cap: The train is a blue, broken, rusty train with a front and a rear, sporting a stripe and a roof, with a series of windows and a door on each side.
-trg_cap: A Van Gogh style art features a blue, broken, rusty train with a front and a rear, sporting a stripe and a roof, and adorned with a series of windows and a door on each side.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 35378

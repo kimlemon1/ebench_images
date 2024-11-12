@@ -1,0 +1,5 @@
+org_img_id: 2334819
+org_cap: a person sits at a table, surrounded by the warm glow of a laptop screen and the soft light of a nearby lamp, with a cup of coffee and a plate of fruit nearby.
+trg_cap: A person sits at a table, surrounded by the warm glow of a laptop screen and the soft light of a nearby lamp, with a keyboard next to the laptop, and a cup of coffee and a plate of fruit nearby.
+instruction: Add a keyboard next to the laptop.
+taskid: 51639

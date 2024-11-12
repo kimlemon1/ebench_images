@@ -1,5 +1,0 @@
-org_img_id: 2405679
-org_cap: The bus is a blue bus.
-trg_cap: The bus is a blue bus on a grass field.
-instruction: Change the background to grass field.
-taskid: 25598

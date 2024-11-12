@@ -1,5 +1,0 @@
-org_img_id: 2374590
-org_cap: a person in a green t-shirt and jeans is seen, his skateboard off the ramp, his legs and arms against the backdrop of a concrete wall and industrial buildings.
-trg_cap: a small person in a green t-shirt and jeans is seen, his skateboard off the ramp, his legs and arms against the backdrop of a concrete wall and industrial buildings.
-instruction: Make the person smaller.
-taskid: 40541

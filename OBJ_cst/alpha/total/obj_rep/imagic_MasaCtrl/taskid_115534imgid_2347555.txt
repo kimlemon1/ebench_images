@@ -1,5 +1,0 @@
-org_img_id: 2347555
-org_cap: a person holds a green frisbee in their hand, with the green frisbee above their palm as the sun sets in the background.
-trg_cap: A person holds a bicycle in his or her hand as the sun sets in the background.
-instruction: Replace the frisbee with a bicycle.
-taskid: 115534

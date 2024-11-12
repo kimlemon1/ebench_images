@@ -1,0 +1,5 @@
+org_img_id: 2368577
+org_cap: a middle-aged person in a brown suit and tie on a city street, his eyes on his phone through the autumn foliage.
+trg_cap: a middle-aged person in a brown suit and tie on a city street, his eyes on his phone through the glass walls of an aquarium.
+instruction: Change the background to aquarium.
+taskid: 26876

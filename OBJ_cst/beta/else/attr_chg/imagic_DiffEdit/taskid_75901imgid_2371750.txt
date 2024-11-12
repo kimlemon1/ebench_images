@@ -1,5 +1,0 @@
-org_img_id: 2371750
-org_cap: A white airplane is parked at the gate, as seen through a large window in the airport terminal.
-trg_cap: A dark blue airplane is parked at the gate, as seen through a large window in the airport terminal.
-instruction: Change the color of the airplane from white to dark blue.
-taskid: 75901

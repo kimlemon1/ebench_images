@@ -1,5 +1,0 @@
-org_img_id: 2414290
-org_cap: Person cuts the cake with a flourish, while person looks on with a warm smile.
-trg_cap: Person cuts the cake with a flourish by the lakeside, while person looks on with a warm smile.
-instruction: Change the background to lake side.
-taskid: 32213

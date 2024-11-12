@@ -1,5 +1,0 @@
-org_img_id: 2338867
-org_cap: person rides a bicycle with a bright orange frame and a helmet with a visor.
-trg_cap: A person rides a bicycle with a bright orange frame and a helmet with a visor through the countryside farm.
-instruction: Change the background to country side farm.
-taskid: 92598

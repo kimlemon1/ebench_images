@@ -1,5 +1,0 @@
-org_img_id: 2403706
-org_cap: The scene features a green metal bench situated between two twisted, gnarled tree trunks, with a sandy beach stretching out behind them.
-trg_cap: The scene features a green leather bench situated between two twisted, gnarled tree trunks, with a sandy beach stretching out behind them.
-instruction: Change the material of the bench from metal to leather.
-taskid: 37001

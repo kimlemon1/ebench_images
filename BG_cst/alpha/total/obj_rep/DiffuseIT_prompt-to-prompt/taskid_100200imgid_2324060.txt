@@ -1,5 +1,0 @@
-org_img_id: 2324060
-org_cap: A young person stands alone on a grassy lawn, holding a colorful kite with a bright rainbow tail and a circular shape.
-trg_cap: A cup stands alone on a grassy lawn, holding a colorful kite with a bright rainbow tail and a circular shape.
-instruction: Replace the person with a cup.
-taskid: 100200

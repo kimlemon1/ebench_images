@@ -1,5 +1,0 @@
-org_img_id: 2365705
-org_cap: person stands on a rocky beach, wearing a black tank top and shorts, his abs flexing, his eyes fixed on the wind-filled sail as it dances in the breeze.
-trg_cap: The mosaic art depicts a person standing on a rocky beach, wearing a black tank top and shorts, with his abs flexing and his eyes fixed on the wind-filled sail as it dances in the breeze.
-instruction: Change the style if the image to mosaic art.
-taskid: 65690

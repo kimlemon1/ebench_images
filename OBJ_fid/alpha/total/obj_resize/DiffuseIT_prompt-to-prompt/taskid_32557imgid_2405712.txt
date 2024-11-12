@@ -1,5 +1,0 @@
-org_img_id: 2405712
-org_cap: a green locomotive with a distinctive rounded nose and a long, curved roof, painted with a faded green livery and sporting a bright green stripe running along its sides, chugs along the tracks, hauling a long train of freight cars behind it.
-trg_cap: a green locomotive with a distinctive rounded nose and a long, curved roof, painted with a faded green livery and sporting a bright green stripe running along its sides, chugs along the tracks, hauling a small train of freight cars behind it.
-instruction: Make the train smaller.
-taskid: 32557

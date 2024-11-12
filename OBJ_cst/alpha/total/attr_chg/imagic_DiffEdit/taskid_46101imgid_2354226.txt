@@ -1,5 +1,0 @@
-org_img_id: 2354226
-org_cap: A plate in front of a person holds a grilled sandwich.
-trg_cap: A plate in front of a person holds a fresh sandwich.
-instruction: Change the state of the sandwich from grilled to fresh.
-taskid: 46101

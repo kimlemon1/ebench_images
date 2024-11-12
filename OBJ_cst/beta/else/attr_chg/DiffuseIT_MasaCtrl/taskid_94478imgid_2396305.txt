@@ -1,5 +1,0 @@
-org_img_id: 2396305
-org_cap: The room features a black couch, positioned against a wall with large windows that frame the lush greenery outside, complemented by a simple wooden coffee table and a few scattered books and papers.
-trg_cap: The room features a purple couch, positioned against a wall with large windows that frame the lush greenery outside, complemented by a simple wooden coffee table and a few scattered books and papers.
-instruction: Change the color of the couch from black to purple.
-taskid: 94478

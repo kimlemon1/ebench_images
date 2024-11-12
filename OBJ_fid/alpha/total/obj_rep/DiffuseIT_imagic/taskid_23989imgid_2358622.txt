@@ -1,5 +1,0 @@
-org_img_id: 2358622
-org_cap: person drives a tractor, pulling a trailer with a walking black cow on it, as the cow across the field.
-trg_cap: "The person drives a tractor, pulling a trailer with a backpack on it, as they drive across the field."
-instruction: Replace the cow with a backpack.
-taskid: 23989

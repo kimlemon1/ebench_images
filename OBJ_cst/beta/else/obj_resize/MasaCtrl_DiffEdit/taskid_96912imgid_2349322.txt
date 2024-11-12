@@ -1,5 +1,0 @@
-org_img_id: 2349322
-org_cap: a bright red fire hydrant stands tall against a stone wall, its fire hydrant gleaming in the sunlight.
-trg_cap: a bright red fire hydrant stands tall against a stone wall, its small fire hydrant gleaming in the sunlight.
-instruction: Make the fire hydrant smaller.
-taskid: 96912

@@ -1,5 +1,0 @@
-org_img_id: 2365364
-org_cap: The room features a large stone fireplace with a black TV above it, surrounded by wooden paneling and a plush leather sofa, with a coffee table and bookshelves adding a cozy touch.
-trg_cap: The room features a large stone fireplace with a black TV above it, behind which sits a decorative vase, surrounded by wooden paneling and a plush leather sofa, with a coffee table and bookshelves adding a cozy touch.
-instruction: Add a vase behind the tv.
-taskid: 64779

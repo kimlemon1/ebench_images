@@ -1,5 +1,0 @@
-org_img_id: 2365515
-org_cap: the worn, avocado-green chair sat in the corner of the cozy living room, its vinyl upholstery cracked and faded, surrounded by the warm glow of twinkling lights and the soft hum of the holiday season.
-trg_cap: The worn, avocado-green chair sat in the corner of the cozy living room, its vinyl upholstery cracked and faded, surrounded by the gentle bubbling of the aquarium and the soft hum of the holiday season.
-instruction: Change the background to aquarium.
-taskid: 118918

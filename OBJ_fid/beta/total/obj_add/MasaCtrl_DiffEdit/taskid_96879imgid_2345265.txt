@@ -1,5 +1,0 @@
-org_img_id: 2345265
-org_cap: Person on a couch, surrounded by a tv, a coffee table, and a few pieces of artwork, with a window to the left and a door to the right.
-trg_cap: Person on a couch, surrounded by a tv with a refrigerator underneath, a coffee table, and a few pieces of artwork, with a window to the left and a door to the right.
-instruction: Add a refrigerator under the tv.
-taskid: 96879

@@ -1,0 +1,5 @@
+org_img_id: 2367535
+org_cap: a young person holds a yellow umbrella, its curved shape and sturdy handle evident as they walk along a city street.
+trg_cap: a young person holds a clear umbrella, its curved shape and sturdy handle evident as they walk along a city street.
+instruction: Change the color of the umbrella from yellow to clear.
+taskid: 45273

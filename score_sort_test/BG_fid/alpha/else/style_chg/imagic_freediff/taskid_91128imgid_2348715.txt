@@ -1,0 +1,5 @@
+org_img_id: 2348715
+org_cap: a person, person, his black skateboard off the ramp, his eyes fixed intently on the concrete beneath him.
+trg_cap: An ancient Egyptian-style artwork depicts a person on a black skateboard off the ramp, his eyes fixed intently on the concrete beneath him.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 91128

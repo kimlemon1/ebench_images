@@ -1,5 +1,0 @@
-org_img_id: 497938
-org_cap: Person stands, wearing black skis and a warm, fleecy jacket, with a look on his face, against the backdrop of a snow-covered mountain range.
-trg_cap: "The parking meter stands against the backdrop of a snow-covered mountain range."
-instruction: Replace the person with a parking meter.
-taskid: 114561

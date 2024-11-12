@@ -1,5 +1,0 @@
-org_img_id: 2411812
-org_cap: The desktop computer features a sleek, silver aluminum enclosure with a flat, rectangular screen and a white keyboard.
-trg_cap: The desktop computer features a sleek, silver aluminum enclosure with a flat, rectangular screen and a brown keyboard.
-instruction: Change the color of the keyboard from white to brown.
-taskid: 116228

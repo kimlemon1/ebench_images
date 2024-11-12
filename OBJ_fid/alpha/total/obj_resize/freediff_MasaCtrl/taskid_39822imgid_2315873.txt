@@ -1,5 +1,0 @@
-org_img_id: 2315873
-org_cap: A gray cat lies on a floral couch, its paws and its eyes in a peaceful slumber.
-trg_cap: A small gray cat lies on a floral couch, its paws and its eyes in a peaceful slumber.
-instruction: Make the cat smaller.
-taskid: 39822

@@ -1,5 +1,0 @@
-org_img_id: 2352480
-org_cap: A surfing person rides a surfboard down a wave, their hair as they perform a turn and then jump off the board, into the churning water.
-trg_cap: A surfing person rides a surfboard down a wave, their hair reminiscent of a gymnast's grace as they perform a turn and then jump off the board, into the churning water.
-instruction: Change the background to gym.
-taskid: 40128

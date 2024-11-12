@@ -1,5 +1,0 @@
-org_img_id: 2346779
-org_cap: A black cat sits on a worn wooden bench, its fur in the morning dew, its eyes into a sly gaze.
-trg_cap: A black handbag sits on a worn wooden bench.
-instruction: Replace the cat with a handbag.
-taskid: 45178

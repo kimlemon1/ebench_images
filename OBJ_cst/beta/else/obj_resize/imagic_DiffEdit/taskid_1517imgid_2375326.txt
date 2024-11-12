@@ -1,5 +1,0 @@
-org_img_id: 2375326
-org_cap: A red stop sign stands alone on a roadside, its red stop sign and red stop sign against the blue sky and rolling hills in the background.
-trg_cap: A red stop sign stands alone on a roadside, its small red stop sign and small red stop sign against the blue sky and rolling hills in the background.
-instruction: Make the stop sign smaller.
-taskid: 1517

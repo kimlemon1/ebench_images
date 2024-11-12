@@ -1,5 +1,0 @@
-org_img_id: 2342254
-org_cap: a lone surfer, his silhouette defined against the warm glow of sunset on the ocean horizon, rides the waves with effortless style, his surfboard gliding smoothly across the water as he carves a path through the foamy surf.
-trg_cap: A lone surfer, his silhouette defined against the warm glow of sunset on the ocean horizon, rides the waves with effortless style, his surfboard gliding smoothly across the water as he carves a path through the foamy surf, while a vast grass field stretches out behind him, adding a serene contrast to the dynamic scene.
-instruction: Change the background to grass field.
-taskid: 52490

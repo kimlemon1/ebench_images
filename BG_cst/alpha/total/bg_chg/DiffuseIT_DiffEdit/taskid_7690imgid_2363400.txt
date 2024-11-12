@@ -1,5 +1,0 @@
-org_img_id: 2363400
-org_cap: Person on white skis, her silver suit glistening.
-trg_cap: Person on white skis, her silver suit glistening, as she glides past the massive aquarium tanks.
-instruction: Change the background to aquarium.
-taskid: 7690

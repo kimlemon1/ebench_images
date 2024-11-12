@@ -1,5 +1,0 @@
-org_img_id: 2352808
-org_cap: A person sitting alone on a bench, wearing a shirt and shorts, with an expression on his face at a group of geese waddling around on the lake's edge.
-trg_cap: A small person sitting alone on a bench, wearing a shirt and shorts, with an expression on his face at a group of geese waddling around on the lake's edge.
-instruction: Make the person smaller.
-taskid: 81665

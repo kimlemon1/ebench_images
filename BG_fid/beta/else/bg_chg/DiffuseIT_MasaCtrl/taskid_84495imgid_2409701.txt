@@ -1,5 +1,0 @@
-org_img_id: 2409701
-org_cap: a person holds a clear, plastic cup in one hand and a black phone in the other, his eyes fixed on the screen as he texts or checks his messages.
-trg_cap: At a bustling train station, a person holds a clear, plastic cup in one hand and a black phone in the other, his eyes fixed on the screen as he texts or checks his messages.
-instruction: Change the background to train station.
-taskid: 84495

@@ -1,0 +1,5 @@
+org_img_id: 2334498
+org_cap: "a majestic brown horse with a gleaming harness and ornate brass bells adorns its neck in front of a medieval-style stone wall."
+trg_cap: An oil painting style art features a majestic brown horse with a gleaming harness and ornate brass bells adorning its neck in front of a medieval-style stone wall.
+instruction: Change the style if the image to oil painting style.
+taskid: 86320

@@ -1,5 +1,0 @@
-org_img_id: 2402076
-org_cap: "a ruggedly handsome person in his mid-30s with a thick beard and a mop of curly brown hair, dressed in a fitted white shirt and a black vest with a tartan pattern, his eyes on his phone, a pair of bagpipes slung over his shoulder."
-trg_cap: a ruggedly handsome person in his mid-30s with a thick beard and a mop of curly brown hair, dressed in a fitted white shirt and a black vest with a tartan pattern, his eyes on his phone, a pair of bagpipes slung over his shoulder, standing in a snow field.
-instruction: Change the background to snow field.
-taskid: 72794

@@ -1,5 +1,0 @@
-org_img_id: 2391701
-org_cap: A standing, eating, black, grazing zebra on a hillside, its stripes glistening in the sunlight on the lush green grass.
-trg_cap: A standing, eating, gray, grazing zebra on a hillside, its stripes glistening in the sunlight on the lush green grass.
-instruction: Change the color of the zebra from black to gray.
-taskid: 51276

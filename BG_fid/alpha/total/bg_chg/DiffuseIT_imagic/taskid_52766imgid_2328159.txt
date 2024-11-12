@@ -1,5 +1,0 @@
-org_img_id: 2328159
-org_cap: a blue and white boeing 737-800 airplane is parked on the tarmac, its fuselage gleaming in the sunlight, with a slight sheen on the wings and a subtle curve to the tail section.
-trg_cap: A blue and white Boeing 737-800 airplane is parked on the tarmac, its fuselage gleaming in the sunlight, with a slight sheen on the wings and a subtle curve to the tail section, reminiscent of the sleek design of modern gym equipment.
-instruction: Change the background to gym.
-taskid: 52766

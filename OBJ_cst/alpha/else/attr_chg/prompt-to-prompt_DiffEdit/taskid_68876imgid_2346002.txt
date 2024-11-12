@@ -1,5 +1,0 @@
-org_img_id: 2346002
-org_cap: The chair is a brown chair with a sturdy wooden frame and a soft, cushioned seat.
-trg_cap: The chair is a pastel chair with a sturdy wooden frame and a soft, cushioned seat.
-instruction: Change the color of the chair from brown to pastel.
-taskid: 68876

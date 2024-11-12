@@ -1,5 +1,0 @@
-org_img_id: 3590
-org_cap: A white bowl sits on a table, containing a small amount of cereal and a spoon.
-trg_cap: A light blue bowl sits on a table, containing a small amount of cereal and a spoon.
-instruction: Change the color of the bowl from white to light blue.
-taskid: 57021

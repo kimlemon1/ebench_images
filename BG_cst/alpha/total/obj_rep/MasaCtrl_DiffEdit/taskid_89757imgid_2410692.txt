@@ -1,5 +1,0 @@
-org_img_id: 2410692
-org_cap: A smiling Asian person on the beach, surrounded by a few white coconuts.
-trg_cap: A vase on the beach, surrounded by a few white coconuts.
-instruction: Replace the person with a vase.
-taskid: 89757

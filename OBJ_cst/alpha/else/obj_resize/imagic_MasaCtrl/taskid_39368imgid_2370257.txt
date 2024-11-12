@@ -1,5 +1,0 @@
-org_img_id: 2370257
-org_cap: A person in his teenage years, wearing a white t-shirt and plaid flannel shirt, jeans, and a pair of skateboard wheels attached to his board, is shown, the camera capturing a blurred image of the road and trees.
-trg_cap: A small person in his teenage years, wearing a white t-shirt and plaid flannel shirt, jeans, and a pair of skateboard wheels attached to his board, is shown, the camera capturing a blurred image of the road and trees.
-instruction: Make the person smaller.
-taskid: 39368

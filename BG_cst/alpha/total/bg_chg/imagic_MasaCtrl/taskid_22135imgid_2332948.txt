@@ -1,5 +1,0 @@
-org_img_id: 2332948
-org_cap: The slice of cake is a rich, velvety brown, with a swirl of creamy white frosting and a sprinkle of edible gold dust on top.
-trg_cap: In the bustling urban city, the slice of cake is a rich, velvety brown, with a swirl of creamy white frosting and a sprinkle of edible gold dust on top.
-instruction: Change the background to urban city.
-taskid: 22135

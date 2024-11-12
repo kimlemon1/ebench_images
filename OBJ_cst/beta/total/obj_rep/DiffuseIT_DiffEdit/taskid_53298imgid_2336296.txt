@@ -1,5 +1,0 @@
-org_img_id: 2336296
-org_cap: A rainbow-colored umbrella sat upright on the sandy beach, providing shade for a family of four.
-trg_cap: A vase sat upright on the sandy beach, providing shade for them.
-instruction: Replace the umbrella with a vase.
-taskid: 53298

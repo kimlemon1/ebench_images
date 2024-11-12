@@ -1,5 +1,0 @@
-org_img_id: 2356430
-org_cap: Person, wearing a helmet and a blue shirt, is seen on his car on the winding road.
-trg_cap: Person, wearing a helmet and a blue shirt, is seen on his car on the winding road, with a teddy bear on the hood.
-instruction: Add a teddy bear on the car.
-taskid: 31784

@@ -1,5 +1,0 @@
-org_img_id: 2331041
-org_cap: A lone gray motorcycle sits at the edge of a rugged mountain road, surrounded by towering rock formations and a sparse scattering of trees.
-trg_cap: A lone gray motorcycle, with a backpack resting on its seat, sits at the edge of a rugged mountain road, surrounded by towering rock formations and a sparse scattering of trees.
-instruction: Add a backpack on the motorcycle.
-taskid: 115475

@@ -1,5 +1,0 @@
-org_img_id: 2347068
-org_cap: a yellow skateboard glides along the asphalt road, its yellow wheels spinning in a blur as the rider's legs flex and extend to maintain speed and balance.
-trg_cap: a small yellow skateboard glides along the asphalt road, its yellow wheels spinning in a blur as the rider's legs flex and extend to maintain speed and balance.
-instruction: Make the skateboard smaller.
-taskid: 9060

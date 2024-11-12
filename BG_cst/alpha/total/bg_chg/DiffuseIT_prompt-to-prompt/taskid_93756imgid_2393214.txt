@@ -1,5 +1,0 @@
-org_img_id: 2393214
-org_cap: a person waded out of the water, carrying a yellow surfboard.
-trg_cap: A person waded out of the water, carrying a yellow surfboard, as the sound of trains arriving and departing filled the air from the nearby train station.
-instruction: Change the background to train station.
-taskid: 93756

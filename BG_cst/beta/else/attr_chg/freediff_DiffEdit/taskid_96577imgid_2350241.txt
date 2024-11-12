@@ -1,5 +1,0 @@
-org_img_id: 2350241
-org_cap: Person rides a white surfboard, his blue rash guard glistening with ocean spray.
-trg_cap: Person rides a striped surfboard, his blue rash guard glistening with ocean spray.
-instruction: Change the color of the surfboard from white to striped.
-taskid: 96577

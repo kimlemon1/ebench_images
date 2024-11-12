@@ -1,5 +1,0 @@
-org_img_id: 2416597
-org_cap: A white bus navigates through a bustling city street lined with tall buildings and busy streets.
-trg_cap: A yellow bus navigates through a bustling city street lined with tall buildings and busy streets.
-instruction: Change the color of the bus from white to yellow.
-taskid: 86770

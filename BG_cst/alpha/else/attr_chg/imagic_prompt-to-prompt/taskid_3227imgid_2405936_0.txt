@@ -1,5 +1,0 @@
-org_img_id: 2405936_0
-org_cap: A full white cup sits on a table, next to a flaky, buttery croissant topped with a generous helping of bright red poppy seeds.
-trg_cap: A full brown cup sits on a table, next to a flaky, buttery croissant topped with a generous helping of bright red poppy seeds.
-instruction: Change the color of the cup from white to brown.
-taskid: 3227

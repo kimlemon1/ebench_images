@@ -1,5 +1,0 @@
-org_img_id: 2380402
-org_cap: A surfing person rides a surfboard through a wave, his arms and legs lying as he rides through the water.
-trg_cap: A surfing banana rides its surfboard through a wave.
-instruction: Replace the person with a banana.
-taskid: 64841

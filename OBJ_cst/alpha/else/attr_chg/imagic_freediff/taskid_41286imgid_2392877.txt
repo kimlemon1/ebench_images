@@ -1,5 +1,0 @@
-org_img_id: 2392877
-org_cap: A baby elephant eating stands in the shade of a tree, its gray skin glistening in the sunlight, its ears in the breeze.
-trg_cap: A adult elephant eating stands in the shade of a tree, its gray skin glistening in the sunlight, its ears in the breeze.
-instruction: Change the state of the elephant from baby to adult.
-taskid: 41286

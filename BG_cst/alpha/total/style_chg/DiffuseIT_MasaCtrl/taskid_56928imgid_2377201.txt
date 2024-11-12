@@ -1,5 +1,0 @@
-org_img_id: 2377201
-org_cap: A yellow bus pulls up to the bus stop.
-trg_cap: An ancient Egyptian-style artwork depicts a yellow bus pulling up to the bus stop.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 56928

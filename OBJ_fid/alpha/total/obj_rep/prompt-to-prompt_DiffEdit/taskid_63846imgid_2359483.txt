@@ -1,5 +1,0 @@
-org_img_id: 2359483
-org_cap: A brown cat on the edge of a white sink, surrounded by a cluttered sink with old-fashioned posters and vintage sink.
-trg_cap: A brown toilet, surrounded by a cluttered sink with old-fashioned posters and a vintage sink.
-instruction: Replace the cat with a toilet.
-taskid: 63846

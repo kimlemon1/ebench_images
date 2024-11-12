@@ -1,5 +1,0 @@
-org_img_id: 2397094
-org_cap: A standing person walks down the street under a black umbrella.
-trg_cap: A large standing person walks down the street under a black umbrella.
-instruction: Make the person larger.
-taskid: 89814

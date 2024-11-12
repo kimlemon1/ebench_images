@@ -1,5 +1,0 @@
-org_img_id: 2371282
-org_cap: person swings his bat, the crack of the wood echoing through the stadium as the ball soars over the outfield wall.
-trg_cap: A graffiti art depicts a person swinging his bat, the crack of the wood echoing through the stadium as the ball soars over the outfield wall.
-instruction: Change the style if the image to graffiti art.
-taskid: 83595

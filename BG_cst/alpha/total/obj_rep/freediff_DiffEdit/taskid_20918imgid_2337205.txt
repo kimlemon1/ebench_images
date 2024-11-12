@@ -1,5 +1,0 @@
-org_img_id: 2337205
-org_cap: a small puppy is lying on the grass, with a bottle in its mouth, and its paws are splayed out to the sides.
-trg_cap: A small puppy is lying on the grass, and its paws are splayed out to the sides.
-instruction: Replace the bottle with a umbrella.
-taskid: 20918

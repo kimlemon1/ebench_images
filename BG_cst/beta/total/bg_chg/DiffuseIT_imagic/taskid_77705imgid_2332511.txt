@@ -1,5 +1,0 @@
-org_img_id: 2332511
-org_cap: A plate with a piece of slow cooked pork, surrounded by steamed green beans and crusty bread, sits on a rustic wooden table with a wine glass and steel fork beside it.
-trg_cap: A plate with a piece of slow cooked pork, surrounded by steamed green beans and crusty bread, sits on a rustic wooden table with a wine glass and steel fork beside it, in a hospital cafeteria setting.
-instruction: Change the background to hospital.
-taskid: 77705

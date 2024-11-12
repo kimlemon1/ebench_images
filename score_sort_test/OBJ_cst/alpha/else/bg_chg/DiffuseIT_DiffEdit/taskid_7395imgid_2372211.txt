@@ -1,0 +1,5 @@
+org_img_id: 2372211
+org_cap: a person wearing a white shirt with suspenders and green pants is standing on a skateboard, holding a sign and smiling.
+trg_cap: A person wearing a white shirt with suspenders and green pants is standing on a skateboard, holding a sign and smiling, inside a space station.
+instruction: Change the background to space station.
+taskid: 7395

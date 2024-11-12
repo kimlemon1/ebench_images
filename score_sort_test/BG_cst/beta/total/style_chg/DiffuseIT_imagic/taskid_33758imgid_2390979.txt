@@ -1,0 +1,5 @@
+org_img_id: 2390979
+org_cap: The room is illuminated by a warm yellow light, with a silver laptop sitting on a table surrounded by four black chairs with wooden legs, and a ceiling fan spinning slowly above.
+trg_cap: A graffiti art piece depicts a room illuminated by a warm yellow light, featuring a silver laptop on a table surrounded by four black chairs with wooden legs, and a ceiling fan spinning slowly above.
+instruction: Change the style if the image to graffiti art.
+taskid: 33758

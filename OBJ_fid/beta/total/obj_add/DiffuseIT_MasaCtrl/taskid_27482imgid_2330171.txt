@@ -1,5 +1,0 @@
-org_img_id: 2330171
-org_cap: a person in the rain, a black umbrella, while a white dog runs alongside, its fur getting wet and muddy.
-trg_cap: a person in the rain, a black umbrella, with a bottle on their left side, while a white dog runs alongside, its fur getting wet and muddy.
-instruction: Add a bottle on the left side of the person.
-taskid: 27482

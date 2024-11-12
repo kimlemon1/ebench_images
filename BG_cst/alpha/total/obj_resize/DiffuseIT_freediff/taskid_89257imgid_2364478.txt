@@ -1,5 +1,0 @@
-org_img_id: 2364478
-org_cap: A gray elephant stands in a clearing, its gray skin mottled with scars and scratches, its tusks long and curved, its ears in the breeze.
-trg_cap: A small gray elephant stands in a clearing, its gray skin mottled with scars and scratches, its tusks long and curved, its ears in the breeze.
-instruction: Make the elephant smaller.
-taskid: 89257

@@ -1,5 +1,0 @@
-org_img_id: 2330674
-org_cap: person, clad in a gray jacket and goggles, stands on the snow-covered slopes, her red skis down the mountain.
-trg_cap: Person, who spends hours training in the gym to build strength and endurance, clad in a gray jacket and goggles, stands on the snow-covered slopes, her red skis down the mountain.
-instruction: Change the background to gym.
-taskid: 123059

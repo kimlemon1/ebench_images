@@ -1,5 +1,0 @@
-org_img_id: 2379000
-org_cap: A white boat is speeding across the calm waters of the bay, leaving a trail of white foam in its wake.
-trg_cap: A white car is parked on the shore in front of the bay, and a white boat is speeding across the calm waters of the bay, leaving a trail of white foam in its wake.
-instruction: Add a car in front of the boat.
-taskid: 79713

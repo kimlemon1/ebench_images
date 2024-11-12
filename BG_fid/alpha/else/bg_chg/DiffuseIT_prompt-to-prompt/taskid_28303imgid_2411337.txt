@@ -1,5 +1,0 @@
-org_img_id: 2411337
-org_cap: A kite soars through the clear blue sky, its blue kite rippling and flapping in the gentle breeze as it glides effortlessly across the horizon.
-trg_cap: A kite soars through the clear blue sky above the countryside farm, its blue kite rippling and flapping in the gentle breeze as it glides effortlessly across the horizon.
-instruction: Change the background to country side farm.
-taskid: 28303

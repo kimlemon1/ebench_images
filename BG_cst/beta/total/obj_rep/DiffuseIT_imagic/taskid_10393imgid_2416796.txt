@@ -1,5 +1,0 @@
-org_img_id: 2416796
-org_cap: The scene features a brown dog on a bed, covered in a floral sheet with a subtle floral pattern, and surrounded by a faint scent of old books and worn fabric.
-trg_cap: The scene features scissors, covered in a floral sheet with a subtle floral pattern, and surrounded by a faint scent of old books and worn fabric.
-instruction: Replace the dog with a scissors.
-taskid: 10393

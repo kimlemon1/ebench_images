@@ -1,5 +1,0 @@
-org_img_id: 2384015
-org_cap: The rusty boat is tied to a worn-out train carriage, with wooden slats and rusty wheels, standing still on the tracks.
-trg_cap: The rusty boat is tied to a worn-out train carriage, with wooden slats and rusty wheels, standing still on the tracks, as if it were a forgotten piece of decor in an old-fashioned living room.
-instruction: Change the background to living room.
-taskid: 88885

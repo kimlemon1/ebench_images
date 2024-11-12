@@ -1,0 +1,5 @@
+org_img_id: 2323128
+org_cap: a lone person sits astride a black horse, its wooden frame creaking, the person's worn denim and faded hat with the arid landscape.
+trg_cap: A lone person sits astride a bench, their worn denim and faded hat with the arid landscape.
+instruction: Replace the horse with a bench.
+taskid: 79975

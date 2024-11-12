@@ -1,5 +1,0 @@
-org_img_id: 2406044
-org_cap: The clock tower features a blue clock with a prominent central bell, surrounded by ornate stonework and gothic arches.
-trg_cap: The clock tower features a blue clock with a prominent central bell, surrounded by ornate stonework and gothic arches, with a book located behind the clock.
-instruction: Add a book behind the clock.
-taskid: 116827

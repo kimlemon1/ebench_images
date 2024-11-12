@@ -1,5 +1,0 @@
-org_img_id: 2403602
-org_cap: A bicycle with a folding frame, leaning against the platform edge, its wheels and handlebars gleaming in the station's fluorescent lighting.
-trg_cap: A small bicycle with a folding frame, leaning against the platform edge, its wheels and handlebars gleaming in the station's fluorescent lighting.
-instruction: Make the bicycle smaller.
-taskid: 71062

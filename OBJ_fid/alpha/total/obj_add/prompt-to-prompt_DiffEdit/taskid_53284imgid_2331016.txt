@@ -1,5 +1,0 @@
-org_img_id: 2331016
-org_cap: a small steam train chugs along a winding train, surrounded by a lush green train dotted with train and a wooden train in the train.
-trg_cap: A small steam train chugs along a winding train, surrounded by a lush green train dotted with train and a wooden train in the train, with a boat behind the train.
-instruction: Add a boat behind the train.
-taskid: 53284

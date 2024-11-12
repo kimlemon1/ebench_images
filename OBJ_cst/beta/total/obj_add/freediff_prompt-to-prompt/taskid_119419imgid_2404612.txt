@@ -1,5 +1,0 @@
-org_img_id: 2404612
-org_cap: The white clock face stands out against the warm glow of the stained glass windows above, its circular shape and roman numerals a testament to the station's rich history.
-trg_cap: The white clock face stands out against the warm glow of the stained glass windows above, its circular shape and roman numerals a testament to the station's rich history, with skis positioned next to the clock.
-instruction: Add a skis next to the clock.
-taskid: 119419

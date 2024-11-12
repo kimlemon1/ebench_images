@@ -1,5 +1,0 @@
-org_img_id: 2404122
-org_cap: a lone person trudges up the snow-covered mountain trail, wearing a gray backpack and carrying a pair of skis over their shoulder.
-trg_cap: a lone person trudges up the snow-covered mountain trail, wearing a beige backpack and carrying a pair of skis over their shoulder.
-instruction: Change the color of the backpack from gray to beige.
-taskid: 1067

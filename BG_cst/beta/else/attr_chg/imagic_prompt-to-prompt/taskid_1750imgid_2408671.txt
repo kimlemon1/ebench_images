@@ -1,5 +1,0 @@
-org_img_id: 2408671
-org_cap: A skateboarder leaps into the air, his black skateboard flying out from under his feet as he spins and flips in a blur of movement, his helmet and protective gear a stark contrast to the colorful graffiti and street art that surrounds him.
-trg_cap: A skateboarder leaps into the air, his pink skateboard flying out from under his feet as he spins and flips in a blur of movement, his helmet and protective gear a stark contrast to the colorful graffiti and street art that surrounds him.
-instruction: Change the color of the skateboard from black to pink.
-taskid: 1750

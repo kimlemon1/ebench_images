@@ -1,0 +1,5 @@
+org_img_id: 2316980
+org_cap: a black dog with a distinctive collar trots alongside its owner, a person dressed in winter gear and wearing a warm hat and scarf, as they walk across the snow-covered landscape.
+trg_cap: A black dog with a distinctive collar trots alongside its owner, a person dressed in winter gear and wearing a warm hat and scarf, as they walk across the snow-covered landscape near the hospital.
+instruction: Change the background to hospital.
+taskid: 46807

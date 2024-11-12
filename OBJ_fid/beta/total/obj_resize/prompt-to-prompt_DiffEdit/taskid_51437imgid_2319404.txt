@@ -1,5 +1,0 @@
-org_img_id: 2319404
-org_cap: The sleek, stainless steel refrigerator stands tall against the white tile backsplash, while the wooden kitchen island and sink create a warm, inviting contrast.
-trg_cap: The sleek, small stainless steel refrigerator stands tall against the white tile backsplash, while the wooden kitchen island and sink create a warm, inviting contrast.
-instruction: Make the refrigerator smaller.
-taskid: 51437

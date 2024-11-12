@@ -1,5 +1,0 @@
-org_img_id: 2412411
-org_cap: person rides a surfboard, his arms and legs extended as he carves through the waves.
-trg_cap: person rides a surfboard, his arms and legs extended as he carves through the waves, with a sink on his right side.
-instruction: Add a sink on the right side of the person.
-taskid: 19644

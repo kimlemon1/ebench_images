@@ -1,5 +1,0 @@
-org_img_id: 2390571
-org_cap: The blue clock tower rises above the bustling streets, its intricate stone carvings and golden accents gleaming in the sunlight as pedestrians and cars pass by with a blur of activity.
-trg_cap: The green clock tower rises above the bustling streets, its intricate stone carvings and golden accents gleaming in the sunlight as pedestrians and cars pass by with a blur of activity.
-instruction: Change the color of the clock from blue to green.
-taskid: 115416

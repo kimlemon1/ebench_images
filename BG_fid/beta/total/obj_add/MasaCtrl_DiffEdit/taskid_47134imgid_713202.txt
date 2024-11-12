@@ -1,5 +1,0 @@
-org_img_id: 713202
-org_cap: Person on a snow-covered slope, wearing a bright green jacket, orange pants, and bright orange ski boots, with a backpack over his shoulder and a determined look on his face.
-trg_cap: Person on a snow-covered slope, wearing a bright green jacket, orange pants, and bright orange ski boots, with a backpack over his shoulder containing a dog and a determined look on his face.
-instruction: Add a dog in the backpack.
-taskid: 47134

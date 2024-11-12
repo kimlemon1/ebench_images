@@ -1,5 +1,0 @@
-org_img_id: 2406288
-org_cap: a person holds a silver cell phone in their hand, displaying a screen with a text message conversation on it.
-trg_cap: A mosaic art depicts a person holding a silver cell phone in their hand, displaying a screen with a text message conversation.
-instruction: Change the style if the image to mosaic art.
-taskid: 24880

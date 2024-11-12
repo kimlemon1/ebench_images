@@ -1,5 +1,0 @@
-org_img_id: 2395684
-org_cap: A running dog with a tail and ears runs alongside a walking person on a skateboard, both moving at a moderate pace along a quiet city street lined with trees and colorful buildings.
-trg_cap: A running dog with a tail and ears runs alongside a walking person on a skateboard, both moving at a moderate pace along a quiet city street lined with trees and colorful buildings, with a book behind the dog.
-instruction: Add a book behind the dog.
-taskid: 13055

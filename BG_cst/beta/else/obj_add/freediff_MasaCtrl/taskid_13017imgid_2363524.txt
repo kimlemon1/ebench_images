@@ -1,5 +1,0 @@
-org_img_id: 2363524
-org_cap: A white bus travels down the street, its wheels rolling over the asphalt as it approaches the intersection.
-trg_cap: A white bus travels down the street, its wheels rolling over the asphalt as it approaches the intersection, with a person following behind.
-instruction: Add a person behind the bus.
-taskid: 13017

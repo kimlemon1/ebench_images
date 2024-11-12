@@ -1,5 +1,0 @@
-org_img_id: 2407626
-org_cap: A white fire hydrant stands on a concrete curb, surrounded by a small patch of grass and a worn asphalt road.
-trg_cap: A large white fire hydrant stands on a concrete curb, surrounded by a small patch of grass and a worn asphalt road.
-instruction: Make the fire hydrant larger.
-taskid: 42684

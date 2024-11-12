@@ -1,0 +1,5 @@
+org_img_id: 2412372
+org_cap: The sink is topped with a white sink, finished in a warm, reddish brown color.
+trg_cap: The sink is topped with a light blue sink, finished in a warm, reddish brown color.
+instruction: Change the color of the sink from white to light blue.
+taskid: 118721

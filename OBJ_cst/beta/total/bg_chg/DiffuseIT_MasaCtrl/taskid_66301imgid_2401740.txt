@@ -1,5 +1,0 @@
-org_img_id: 2401740
-org_cap: a stainless steel thermos, a clear glass container filled with steaming hot food, a bunch of bananas, an orange orange, and a few mussels sit on a wooden table.
-trg_cap: On a wooden table in the middle of a vast desert, a stainless steel thermos, a clear glass container filled with steaming hot food, a bunch of bananas, an orange orange, and a few mussels sit.
-instruction: Change the background to desert.
-taskid: 66301

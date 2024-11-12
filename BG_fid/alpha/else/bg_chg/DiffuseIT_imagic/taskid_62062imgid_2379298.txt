@@ -1,5 +1,0 @@
-org_img_id: 2379298
-org_cap: a small, single-engine propeller airplane with a light gray body and a distinctive curved wing, flying steadily in a clear blue sky with a few wispy clouds.
-trg_cap: a small, single-engine propeller airplane with a light gray body and a distinctive curved wing, flying steadily over a lush tropical jungle in a clear blue sky with a few wispy clouds.
-instruction: Change the background to tropical jungle.
-taskid: 62062

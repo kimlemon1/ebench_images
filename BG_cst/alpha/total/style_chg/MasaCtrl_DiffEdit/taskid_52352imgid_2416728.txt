@@ -1,5 +1,0 @@
-org_img_id: 2416728
-org_cap: For a moment, I sat at a table, sipping from a bottle of water, with a slice of pizza in front of me, the crust crispy and the cheese melted in perfect harmony.
-trg_cap: A Van Gogh style art depicts a moment where I sit at a table, sipping from a bottle of water, with a slice of pizza in front of me, the crust crispy and the cheese melted in perfect harmony.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 52352

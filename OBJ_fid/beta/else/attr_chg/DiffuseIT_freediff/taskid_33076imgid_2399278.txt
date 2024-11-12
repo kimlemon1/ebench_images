@@ -1,5 +1,0 @@
-org_img_id: 2399278
-org_cap: riding person surfs a white surfboard through a wave, arms and legs bent as through the white surfboard.
-trg_cap: riding person surfs a red surfboard through a wave, arms and legs bent as through the red surfboard.
-instruction: Change the color of the surfboard from white to red.
-taskid: 33076

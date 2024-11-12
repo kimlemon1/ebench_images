@@ -1,5 +1,0 @@
-org_img_id: 2365702
-org_cap: a rider on a brown horse along the sandy beach, the wind blowing through his hair as he approaches the rocky coastline.
-trg_cap: a rider on a brown horse along the sandy beach, the wind blowing through his hair as he approaches the rocky coastline, with a truck next to the horse.
-instruction: Add a truck next to the horse.
-taskid: 119672

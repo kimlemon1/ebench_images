@@ -1,5 +1,0 @@
-org_img_id: 713238
-org_cap: a person in a white t-shirt and blue shorts runs towards a white frisbee, which is being thrown by another person wearing a yellow shirt and holding a frisbee in their hand.
-trg_cap: The person in a white t-shirt and blue shorts runs towards the laptop.
-instruction: Replace the frisbee with a laptop.
-taskid: 21665

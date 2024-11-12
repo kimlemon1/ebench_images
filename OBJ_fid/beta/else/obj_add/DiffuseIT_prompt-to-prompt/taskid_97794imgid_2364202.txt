@@ -1,5 +1,0 @@
-org_img_id: 2364202
-org_cap: A scruffy black dog with a worn-out collar and a patchy coat sits on the porch with a curious expression.
-trg_cap: A scruffy black dog with a worn-out collar and a patchy coat sits on the porch with a curious expression, under which is a car.
-instruction: Add a car under the dog.
-taskid: 97794

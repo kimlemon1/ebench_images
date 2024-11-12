@@ -1,5 +1,0 @@
-org_img_id: 2358663
-org_cap: a standing dog, in the crystal clear waters of a turquoise pool.
-trg_cap: a small standing dog, in the crystal clear waters of a turquoise pool.
-instruction: Make the dog smaller.
-taskid: 76297

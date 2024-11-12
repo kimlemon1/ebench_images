@@ -1,5 +1,0 @@
-org_img_id: 2341992
-org_cap: person holds a toothbrush with a green handle and a white head.
-trg_cap: person holds a toothbrush with a green handle and a white head, with a cup on the left side of the toothbrush.
-instruction: Add a cup on the left side of the toothbrush.
-taskid: 57322

@@ -1,5 +1,0 @@
-org_img_id: 2401431
-org_cap: The grand white clock tower dominates the interior of the shopping arcade, its architecture drawing the eye upwards as shoppers and diners mingle below.
-trg_cap: The grand white clock tower dominates the interior of the shopping arcade, its architecture drawing the eye upwards as shoppers and diners mingle below, with a bench situated directly in front of the clock.
-instruction: Add a bench in front of the clock.
-taskid: 23647

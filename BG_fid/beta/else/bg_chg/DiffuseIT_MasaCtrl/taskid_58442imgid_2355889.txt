@@ -1,5 +1,0 @@
-org_img_id: 2355889
-org_cap: The clock tower stands tall, its clock adorned with a white clock, surrounded by a rustic stone base and topped with a curved roof.
-trg_cap: The clock tower stands tall against a backdrop of a snow field, its clock adorned with a white clock, surrounded by a rustic stone base and topped with a curved roof.
-instruction: Change the background to snow field.
-taskid: 58442

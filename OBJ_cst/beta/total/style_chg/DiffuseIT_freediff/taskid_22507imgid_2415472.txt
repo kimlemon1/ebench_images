@@ -1,5 +1,0 @@
-org_img_id: 2415472
-org_cap: The scene is set in a cozy living room with a tv on, surrounded by a worn-out couch and a wooden coffee table.
-trg_cap: The art, in a Van Gogh style, depicts a cozy living room scene with a TV on, surrounded by a worn-out couch and a wooden coffee table.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 22507

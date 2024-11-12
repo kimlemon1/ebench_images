@@ -1,5 +1,0 @@
-org_img_id: 2412876
-org_cap: person wears a helmet and knee pads as he rides his skateboard down the sidewalk, his long hair behind him.
-trg_cap: An oil painting style artwork depicts a person wearing a helmet and knee pads, riding a skateboard down the sidewalk with long hair flowing behind him.
-instruction: Change the style if the image to oil painting style.
-taskid: 40105

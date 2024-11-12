@@ -1,5 +1,0 @@
-org_img_id: 2360413
-org_cap: a white airplane with a blue sky and white clouds in the background.
-trg_cap: a small white airplane with a blue sky and white clouds in the background.
-instruction: Make the airplane smaller.
-taskid: 6856

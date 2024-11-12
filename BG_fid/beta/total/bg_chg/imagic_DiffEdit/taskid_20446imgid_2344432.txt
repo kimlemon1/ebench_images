@@ -1,5 +1,0 @@
-org_img_id: 2344432
-org_cap: a person with a lean build and messy brown hair, wearing a faded surfboard-inspired t-shirt and board shorts, rides a surfboard with a bright yellow fin.
-trg_cap: A person with a lean build and messy brown hair, wearing a faded surfboard-inspired t-shirt and board shorts, rides a surfboard with a bright yellow fin on a grass field.
-instruction: Change the background to grass field.
-taskid: 20446

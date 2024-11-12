@@ -1,0 +1,5 @@
+org_img_id: 2354820
+org_cap: skating person onto the white skateboard, legs and feet as he himself off the.
+trg_cap: An oil painting style artwork depicts a person skating on a white skateboard, capturing their legs and feet as they lift off.
+instruction: Change the style if the image to oil painting style.
+taskid: 102563

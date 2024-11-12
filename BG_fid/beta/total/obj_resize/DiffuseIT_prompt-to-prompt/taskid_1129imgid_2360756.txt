@@ -1,5 +1,0 @@
-org_img_id: 2360756
-org_cap: Person sits on a wooden chair, her legs under her, her hands a person in her lap.
-trg_cap: Small person sits on a wooden chair, her legs under her, her hands a person in her lap.
-instruction: Make the person smaller.
-taskid: 1129

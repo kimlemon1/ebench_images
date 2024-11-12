@@ -1,0 +1,5 @@
+org_img_id: 2407898
+org_cap: The open silver laptop sits on a desk, surrounded by various electronic devices and cords, with a keyboard and mouse at the ready, and a window with a view of a winter landscape outside.
+trg_cap: The open pink laptop sits on a desk, surrounded by various electronic devices and cords, with a keyboard and mouse at the ready, and a window with a view of a winter landscape outside.
+instruction: Change the color of the laptop from silver to pink.
+taskid: 62897

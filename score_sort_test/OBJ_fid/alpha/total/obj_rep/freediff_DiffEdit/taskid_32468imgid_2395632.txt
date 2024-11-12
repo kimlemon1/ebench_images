@@ -1,0 +1,5 @@
+org_img_id: 2395632
+org_cap: A splashing, swimming dog jumps into the water, in the pool.
+trg_cap: The bird jumps into the water, in the pool.
+instruction: Replace the dog with a bird.
+taskid: 32468

@@ -1,5 +1,0 @@
-org_img_id: 2379687
-org_cap: person dribbles the white sports ball down the field, his eyes fixed on the goal.
-trg_cap: Person dribbles the white sports ball down the field, his eyes fixed on the goal, as if navigating through an art gallery filled with masterpieces.
-instruction: Change the background to art gallery.
-taskid: 38480

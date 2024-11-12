@@ -1,5 +1,0 @@
-org_img_id: 2376062
-org_cap: a white dog on a bed with a red and gray striped duvet, surrounded by pillows and a red throw.
-trg_cap: A white dog on a bed with a red and gray striped duvet, surrounded by pillows and a red throw, set against the backdrop of a stadium.
-instruction: Change the background to stadium.
-taskid: 77736

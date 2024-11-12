@@ -1,5 +1,0 @@
-org_img_id: 2323235
-org_cap: a woman sits in a taxi, holding a cell phone in her hand, her fingers typing away as she gazes out the window at the cityscape.
-trg_cap: A woman sits in a taxi, holding a cell phone in her hand with a remote on the left side of the cell phone, her fingers typing away as she gazes out the window at the cityscape.
-instruction: Add a remote on the left side of the cell phone.
-taskid: 73120

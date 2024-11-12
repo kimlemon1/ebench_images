@@ -1,5 +1,0 @@
-org_img_id: 2411547
-org_cap: A red boat lies half-buried in the sandy beach, surrounded by scattered gray pebbles and shells.
-trg_cap: The red surfboard, surrounded by scattered gray pebbles and shells.
-instruction: Replace the boat with a surfboard.
-taskid: 118418

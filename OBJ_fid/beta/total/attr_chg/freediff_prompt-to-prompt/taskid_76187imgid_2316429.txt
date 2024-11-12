@@ -1,5 +1,0 @@
-org_img_id: 2316429
-org_cap: a pink dog on a tennis court, surrounded by a racket, tennis balls, and a blue plastic bottle.
-trg_cap: a colorful dog on a tennis court, surrounded by a racket, tennis balls, and a blue plastic bottle.
-instruction: Change the color of the dog from pink to colorful.
-taskid: 76187

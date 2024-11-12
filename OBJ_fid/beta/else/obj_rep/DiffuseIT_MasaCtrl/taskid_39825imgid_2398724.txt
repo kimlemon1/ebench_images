@@ -1,5 +1,0 @@
-org_img_id: 2398724
-org_cap: The room features a large window with a view, a brown couch, a wooden coffee table, and a tv off.
-trg_cap: The room features a large window with a view, a brown couch, a wooden coffee table, and an umbrella.
-instruction: Replace the tv with a umbrella.
-taskid: 39825

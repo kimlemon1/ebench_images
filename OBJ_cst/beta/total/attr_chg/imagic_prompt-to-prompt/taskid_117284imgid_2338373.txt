@@ -1,5 +1,0 @@
-org_img_id: 2338373
-org_cap: The cup is a white cup filled with a generous portion of succulent lobster meat.
-trg_cap: The cup is a green cup filled with a generous portion of succulent lobster meat.
-instruction: Change the color of the cup from white to green.
-taskid: 117284

@@ -1,5 +1,0 @@
-org_img_id: 2358063
-org_cap: a walking person down the street, a blue, striped umbrella.
-trg_cap: a walking person down the street, a small, blue, striped umbrella.
-instruction: Make the umbrella smaller.
-taskid: 113207

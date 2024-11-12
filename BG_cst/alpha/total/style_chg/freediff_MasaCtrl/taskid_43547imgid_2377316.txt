@@ -1,5 +1,0 @@
-org_img_id: 2377316
-org_cap: the scene is focused on a vintage clock with a worn wooden frame and a circular face featuring roman numerals and a subtle glow emanating from the numerals.
-trg_cap: A Van Gogh style art piece features a scene focused on a vintage clock with a worn wooden frame and a circular face adorned with Roman numerals, from which a subtle glow emanates.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 43547

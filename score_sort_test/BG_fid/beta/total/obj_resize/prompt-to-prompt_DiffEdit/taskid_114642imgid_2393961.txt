@@ -1,0 +1,5 @@
+org_img_id: 2393961
+org_cap: a brown horse on the cobblestone street, its hooves on the pavement as it a gleaming black carriage with a golden emblem on the door.
+trg_cap: a large brown horse on the cobblestone street, its hooves on the pavement as it a gleaming black carriage with a golden emblem on the door.
+instruction: Make the horse larger.
+taskid: 114642

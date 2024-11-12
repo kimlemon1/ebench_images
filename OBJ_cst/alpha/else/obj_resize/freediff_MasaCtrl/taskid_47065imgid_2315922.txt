@@ -1,5 +1,0 @@
-org_img_id: 2315922
-org_cap: the clock face on the facade of the building is a large, circular clock with roman numerals and ornate details, surrounded by a decorative archway and topped with a small dome.
-trg_cap: The clock face on the facade of the building is a small, circular clock with roman numerals and ornate details, surrounded by a decorative archway and topped with a small dome.
-instruction: Make the clock smaller.
-taskid: 47065

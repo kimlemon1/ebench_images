@@ -1,5 +1,0 @@
-org_img_id: 2388414
-org_cap: a little girl with a messy blonde ponytail and a smudge of chocolate on her cheek sat at a table, her eyes fixed on a slice of cake with pink frosting and sprinkles.
-trg_cap: A little girl with a messy blonde ponytail and a smudge of chocolate on her cheek sat at a table, her eyes fixed on a slice of cake with pink frosting and sprinkles, where a small cow figurine was perched.
-instruction: Add a cow on the cake.
-taskid: 48945

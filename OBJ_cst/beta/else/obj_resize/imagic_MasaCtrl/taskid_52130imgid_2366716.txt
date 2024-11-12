@@ -1,5 +1,0 @@
-org_img_id: 2366716
-org_cap: Standing person on a blue tarpaulin, with orange snowboard and goggles.
-trg_cap: Standing large person on a blue tarpaulin, with orange snowboard and goggles.
-instruction: Make the person larger.
-taskid: 52130

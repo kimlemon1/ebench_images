@@ -1,0 +1,5 @@
+org_img_id: 2377057
+org_cap: A class 90 locomotive hauls a blue train through the snowy countryside.
+trg_cap: A class 90 locomotive hauls a blue train through the desert countryside.
+instruction: Change the background to desert.
+taskid: 86472

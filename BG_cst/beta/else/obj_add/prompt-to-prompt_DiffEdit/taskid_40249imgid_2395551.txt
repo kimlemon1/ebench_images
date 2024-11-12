@@ -1,5 +1,0 @@
-org_img_id: 2395551
-org_cap: a small person with bright red hair and a mischievous grin holds a red apple in his chubby little hands.
-trg_cap: a small person with bright red hair and a mischievous grin holds a red apple in his chubby little hands, with a banana peeking out from behind the apple.
-instruction: Add a banana behind the apple.
-taskid: 40249

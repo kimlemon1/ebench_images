@@ -1,5 +1,0 @@
-org_img_id: 2415904
-org_cap: person, wearing a blue swimsuit and a life jacket, rides a jet ski across the lake, her long hair as she the water.
-trg_cap: A person, who regularly trains at the gym, wearing a blue swimsuit and a life jacket, rides a jet ski across the lake, her long hair trailing behind her as she skims the water.
-instruction: Change the background to gym.
-taskid: 25088

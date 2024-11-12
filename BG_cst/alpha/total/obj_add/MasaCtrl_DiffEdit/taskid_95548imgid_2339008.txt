@@ -1,5 +1,0 @@
-org_img_id: 2339008
-org_cap: The bathroom features a toilet with a sleek, modern design, a sink with a chrome faucet, and a sink with a glass door.
-trg_cap: The bathroom features a toilet with a sleek, modern design, a sink with a chrome faucet, and a sink with a glass door, where a sports ball is located.
-instruction: Add a sports ball in the sink.
-taskid: 95548

@@ -1,5 +1,0 @@
-org_img_id: 2372735
-org_cap: a person sits on a person with a shell design, on a dusty trail with a few rocks and pebbles scattered around.
-trg_cap: A person sits on a person with a shell design, on a dusty trail with a few rocks and pebbles scattered around, with the towering structure of a stadium in the background.
-instruction: Change the background to stadium.
-taskid: 83476

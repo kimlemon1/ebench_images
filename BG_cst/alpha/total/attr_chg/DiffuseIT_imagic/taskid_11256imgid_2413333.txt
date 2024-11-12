@@ -1,5 +1,0 @@
-org_img_id: 2413333
-org_cap: An umbrella, blue, colorful, and rainbow colored, stands upright on the sidewalk, its metal ribs bent slightly from the wind, as raindrops glisten on its surface.
-trg_cap: An umbrella, blue, light blue, and rainbow colored, stands upright on the sidewalk, its metal ribs bent slightly from the wind, as raindrops glisten on its surface.
-instruction: Change the color of the umbrella from colorful to light blue.
-taskid: 11256

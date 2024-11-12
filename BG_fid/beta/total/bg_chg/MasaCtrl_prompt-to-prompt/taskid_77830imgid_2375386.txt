@@ -1,5 +1,0 @@
-org_img_id: 2375386
-org_cap: an orange cat lying and sitting in a small gift box surrounded by crumpled up wrapping paper and torn gift tags.
-trg_cap: An orange cat lying and sitting in a small gift box surrounded by crumpled up wrapping paper and torn gift tags at a bustling train station.
-instruction: Change the background to train station.
-taskid: 77830

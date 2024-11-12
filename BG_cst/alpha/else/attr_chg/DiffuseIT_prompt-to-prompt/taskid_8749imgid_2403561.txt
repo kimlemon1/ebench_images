@@ -1,5 +1,0 @@
-org_img_id: 2403561
-org_cap: a lone stormtrooper stands proudly, holding a blue paper umbrella, its edges fluttering in the breeze as it stands tall against a white background.
-trg_cap: a lone stormtrooper stands proudly, holding a blue plastic umbrella, its edges fluttering in the breeze as it stands tall against a white background.
-instruction: Change the material of the umbrella from paper to plastic.
-taskid: 8749

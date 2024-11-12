@@ -1,5 +1,0 @@
-org_img_id: 2396113
-org_cap: Surfing, surfing, surfing, surfing, surfing person rides a wooden surfboard with a bright green fin and a neon pink leash, his hair tied back in a ponytail, and his wetsuit with sea spray.
-trg_cap: A pop art style artwork features a surfing person riding a wooden surfboard with a bright green fin and a neon pink leash, his hair tied back in a ponytail, and his wetsuit adorned with sea spray.
-instruction: Change the style if the image to pop art style.
-taskid: 41788

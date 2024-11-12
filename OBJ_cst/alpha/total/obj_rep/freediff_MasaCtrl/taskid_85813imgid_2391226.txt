@@ -1,5 +1,0 @@
-org_img_id: 2391226
-org_cap: a brown boat is tied to a trailer on a sunny day.
-trg_cap: A hot dog is tied to a trailer on a sunny day.
-instruction: Replace the boat with a hot dog.
-taskid: 85813

@@ -1,5 +1,0 @@
-org_img_id: 2325350
-org_cap: a man in a navy blue suit with a pink tie and a crisp white shirt stands alongside a woman in a fitted dress with a bold floral print, both holding cups of coffee and engaged in a friendly conversation.
-trg_cap: a man in a navy blue suit with a dark blue tie and a crisp white shirt stands alongside a woman in a fitted dress with a bold floral print, both holding cups of coffee and engaged in a friendly conversation.
-instruction: Change the color of the tie from pink to dark blue.
-taskid: 42547

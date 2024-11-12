@@ -1,5 +1,0 @@
-org_img_id: 2335858
-org_cap: A blue bird around a banana tree, its wings as it a ripe banana from the bunch.
-trg_cap: A black bird around a banana tree, its wings as it a ripe banana from the bunch.
-instruction: Change the color of the bird from blue to black.
-taskid: 39720

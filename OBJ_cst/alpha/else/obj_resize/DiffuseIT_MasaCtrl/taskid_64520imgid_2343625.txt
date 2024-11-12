@@ -1,5 +1,0 @@
-org_img_id: 2343625
-org_cap: a brown dog in a plastic dog bed surrounded by toys and treats.
-trg_cap: a small brown dog in a plastic dog bed surrounded by toys and treats.
-instruction: Make the dog smaller.
-taskid: 64520

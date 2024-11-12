@@ -1,5 +1,0 @@
-org_img_id: 2356938
-org_cap: A white bus sits on the tarmac, its wheels and doors gleaming in the bright sunlight.
-trg_cap: A pop art style artwork features a white bus sitting on the tarmac, its wheels and doors gleaming in the bright sunlight.
-instruction: Change the style if the image to pop art style.
-taskid: 92927

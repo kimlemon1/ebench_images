@@ -1,5 +1,0 @@
-org_img_id: 2337043
-org_cap: A striped zebra on a rocky outcropping at sunset.
-trg_cap: A bottle on a rocky outcropping at sunset.
-instruction: Replace the zebra with a bottle.
-taskid: 25583

@@ -1,0 +1,5 @@
+org_img_id: 2358850
+org_cap: The bus is an orange bus with a cracked windshield, its wheels and tires worn down from years of use.
+trg_cap: The bus is an beige bus with a cracked windshield, its wheels and tires worn down from years of use.
+instruction: Change the color of the bus from orange to beige.
+taskid: 114594

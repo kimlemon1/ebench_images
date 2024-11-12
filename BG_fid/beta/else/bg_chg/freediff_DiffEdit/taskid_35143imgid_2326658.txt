@@ -1,5 +1,0 @@
-org_img_id: 2326658
-org_cap: a group of people sit on a wood bench, under the shade of a tree, as a white boat glides by on the water below.
-trg_cap: A group of people sit on a wood bench, under the shade of a tree, on a mountain top, as a white boat glides by on the water below.
-instruction: Change the background to mountain top.
-taskid: 35143

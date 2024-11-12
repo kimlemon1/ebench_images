@@ -1,5 +1,0 @@
-org_img_id: 2326679
-org_cap: a vibrant bouquet of marigolds and other flowers lines the walkway, while a few people ride bicycles and stroll along the path, passing by a weathered bench.
-trg_cap: A vibrant bouquet of marigolds and other flowers lines the walkway, while a few people ride bicycles and stroll along the path, passing by a weathered bench, behind which stands an umbrella.
-instruction: Add a umbrella behind the bench.
-taskid: 114345

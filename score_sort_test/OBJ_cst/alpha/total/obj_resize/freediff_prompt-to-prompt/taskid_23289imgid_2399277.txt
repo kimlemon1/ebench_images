@@ -1,0 +1,5 @@
+org_img_id: 2399277
+org_cap: the bed is a plush, rectangular bed with a soft, velvety headboard and footboard, adorned with intricate, geometric patterns in a rich, dark wood tone, and topped with a crisp, white duvet and a few, strategically placed pillows.
+trg_cap: The bed is a large, plush, rectangular bed with a soft, velvety headboard and footboard, adorned with intricate, geometric patterns in a rich, dark wood tone, and topped with a crisp, white duvet and a few, strategically placed pillows.
+instruction: Make the bed larger.
+taskid: 23289

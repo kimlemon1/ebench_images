@@ -1,5 +1,0 @@
-org_img_id: 2315718
-org_cap: a small dog in a leather jacket and sunglasses rode a motorcycle, surrounded by a crowd of people cheering and taking pictures.
-trg_cap: A small dog in a leather jacket and sunglasses rode a motorcycle, surrounded by a crowd of people cheering and taking pictures, with a boat in the background.
-instruction: Add a boat behind the dog.
-taskid: 112524

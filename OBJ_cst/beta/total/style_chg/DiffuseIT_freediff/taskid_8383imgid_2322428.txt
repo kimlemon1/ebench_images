@@ -1,5 +1,0 @@
-org_img_id: 2322428
-org_cap: Person stands beside his blue truck, wearing a yellow vest and holding a tool, with the steel bridge looming large in the background.
-trg_cap: A watercolor painting depicts a person standing beside a blue truck, wearing a yellow vest and holding a tool, with a steel bridge looming large in the background.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 8383

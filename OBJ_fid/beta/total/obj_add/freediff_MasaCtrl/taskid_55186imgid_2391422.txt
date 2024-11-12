@@ -1,5 +1,0 @@
-org_img_id: 2391422
-org_cap: Skating, skateboarding person on his pink skateboard, on a concrete ramp in a dimly lit underground parking garage.
-trg_cap: Skating, skateboarding person on his pink skateboard, on a concrete ramp in a dimly lit underground parking garage, with a bench in front of the skateboard.
-instruction: Add a bench in front of the skateboard.
-taskid: 55186

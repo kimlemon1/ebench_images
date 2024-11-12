@@ -1,5 +1,0 @@
-org_img_id: 2323887
-org_cap: The sink is a white sink with a single faucet handle and a surface.
-trg_cap: The sink is a black sink with a single faucet handle and a surface.
-instruction: Change the color of the sink from white to black.
-taskid: 34941

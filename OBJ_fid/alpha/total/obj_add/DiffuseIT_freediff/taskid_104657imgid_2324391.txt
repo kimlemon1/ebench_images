@@ -1,5 +1,0 @@
-org_img_id: 2324391
-org_cap: "a person in a snowboard, with a colorful snowboard and a determined expression."
-trg_cap: a person in a snowboard, with a colorful snowboard and a determined expression, with an airplane above the person.
-instruction: Add a airplane above the person.
-taskid: 104657

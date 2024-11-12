@@ -1,5 +1,0 @@
-org_img_id: 2364511
-org_cap: the bench is a weathered, wooden, rectangular bench with a flat back and a slightly curved top, situated beneath the sprawling branches of a large, crimson-leafed tree.
-trg_cap: The bench is a weathered, wooden, rectangular bench with a flat back and a slightly curved top, situated beneath the sprawling branches of a large, crimson-leafed tree, overlooking rows of grapevines in a picturesque vineyard.
-instruction: Change the background to vineyard.
-taskid: 54915

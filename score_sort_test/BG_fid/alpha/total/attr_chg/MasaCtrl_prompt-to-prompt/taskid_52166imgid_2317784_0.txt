@@ -1,0 +1,5 @@
+org_img_id: 2317784_0
+org_cap: A white, full cup sits on a wooden table, next to a slice of pepperoni pizza with a piece broken off.
+trg_cap: A blue, full cup sits on a wooden table, next to a slice of pepperoni pizza with a piece broken off.
+instruction: Change the color of the cup from white to blue.
+taskid: 52166

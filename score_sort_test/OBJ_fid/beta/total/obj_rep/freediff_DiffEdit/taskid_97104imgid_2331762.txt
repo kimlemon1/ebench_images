@@ -1,0 +1,5 @@
+org_img_id: 2331762
+org_cap: a high-speed train with a bright orange livery glides smoothly along the train, its sleek train and gleaming train reflecting the bright blue sky above.
+trg_cap: A high-speed zebra glides smoothly along the zebra, its sleek and gleaming body reflecting the bright blue sky above.
+instruction: Replace the train with a zebra.
+taskid: 97104

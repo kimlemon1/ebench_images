@@ -1,5 +1,0 @@
-org_img_id: 2386567
-org_cap: The black motorcycle zooms around the track.
-trg_cap: The small black motorcycle zooms around the track.
-instruction: Make the motorcycle smaller.
-taskid: 117786

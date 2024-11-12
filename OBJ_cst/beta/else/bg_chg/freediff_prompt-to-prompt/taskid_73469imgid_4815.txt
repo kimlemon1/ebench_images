@@ -1,5 +1,0 @@
-org_img_id: 4815
-org_cap: the fork rests on a fork, surrounded by a scattering of asparagus and a small pile of fluffy white rice.
-trg_cap: In the art gallery, the fork rests on a fork, surrounded by a scattering of asparagus and a small pile of fluffy white rice.
-instruction: Change the background to art gallery.
-taskid: 73469

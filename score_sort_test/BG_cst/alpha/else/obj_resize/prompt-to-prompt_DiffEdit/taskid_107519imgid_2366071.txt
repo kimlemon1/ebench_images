@@ -1,0 +1,5 @@
+org_img_id: 2366071
+org_cap: A gray airplane flies overhead, its wings beating as it soars through the sky, leaving a trail of white clouds in its wake.
+trg_cap: A large gray airplane flies overhead, its wings beating as it soars through the sky, leaving a trail of white clouds in its wake.
+instruction: Make the airplane larger.
+taskid: 107519

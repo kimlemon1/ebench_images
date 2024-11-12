@@ -1,5 +1,0 @@
-org_img_id: 2360189
-org_cap: A white cow stands in a green field, its cow and cow evident, with a rustic wooden fence and a cloudy sky in the background.
-trg_cap: The graffiti art depicts a white cow standing in a green field, with its cow and cow evident, set against a rustic wooden fence and a cloudy sky in the background.
-instruction: Change the style if the image to graffiti art.
-taskid: 20624

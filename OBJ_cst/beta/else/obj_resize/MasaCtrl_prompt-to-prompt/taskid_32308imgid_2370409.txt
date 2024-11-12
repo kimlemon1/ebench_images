@@ -1,5 +1,0 @@
-org_img_id: 2370409
-org_cap: a blond person on a stone bench, her legs and her hands, her eyes on her phone as she to a conversation with a person.
-trg_cap: a small blond person on a stone bench, her legs and her hands, her eyes on her phone as she to a conversation with a person.
-instruction: Make the person smaller.
-taskid: 32308

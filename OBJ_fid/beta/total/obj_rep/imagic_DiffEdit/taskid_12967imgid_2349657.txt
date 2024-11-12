@@ -1,5 +1,0 @@
-org_img_id: 2349657
-org_cap: person in a cowboy hat and a yellow shirt with a blue frisbee, running and spinning on a grassy field.
-trg_cap: A person in a cowboy hat and a yellow shirt, running and spinning a fire hydrant on a grassy field.
-instruction: Replace the frisbee with a fire hydrant.
-taskid: 12967

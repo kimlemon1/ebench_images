@@ -1,5 +1,0 @@
-org_img_id: 2339995
-org_cap: a yellow bus with a faded paint job and rusty wheels, sporting a hand-painted advertisement for a local synagogue on its side.
-trg_cap: A graffiti art piece features a yellow bus with a faded paint job and rusty wheels, sporting a hand-painted advertisement for a local synagogue on its side.
-instruction: Change the style if the image to graffiti art.
-taskid: 51817

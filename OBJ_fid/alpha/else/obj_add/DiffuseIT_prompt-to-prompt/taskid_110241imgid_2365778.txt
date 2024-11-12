@@ -1,5 +1,0 @@
-org_img_id: 2365778
-org_cap: a person through the air, their skis leaving a trail of powder behind as they over the snow - covered mountain.
-trg_cap: a person through the air, their skis leaving a trail of powder behind as they over the snow-covered mountain, with a horse beneath them.
-instruction: Add a horse under the person.
-taskid: 110241

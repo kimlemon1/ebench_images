@@ -1,5 +1,0 @@
-org_img_id: 2328816
-org_cap: The white clock reads 2.
-trg_cap: The red clock reads 2.
-instruction: Change the color of the clock from white to red.
-taskid: 88902

@@ -1,5 +1,0 @@
-org_img_id: 2364853
-org_cap: the teddy bear is a small, soft, and cuddly teddy bear with a pale green color and a sweet, innocent expression.
-trg_cap: The teddy bear is a small-sized, soft, and cuddly teddy bear with a pale green color and a sweet, innocent expression.
-instruction: Make the teddy bear smaller.
-taskid: 104295

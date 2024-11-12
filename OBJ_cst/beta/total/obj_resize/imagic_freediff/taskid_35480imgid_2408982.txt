@@ -1,5 +1,0 @@
-org_img_id: 2408982
-org_cap: a young person, kneeling, dressed in a baseball uniform and wearing a baseball cap, with his glove, his eyes on a ball.
-trg_cap: a large young person, kneeling, dressed in a baseball uniform and wearing a baseball cap, with his glove, his eyes on a ball.
-instruction: Make the person larger.
-taskid: 35480

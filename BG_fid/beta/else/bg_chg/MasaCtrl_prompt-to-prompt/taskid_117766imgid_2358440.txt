@@ -1,5 +1,0 @@
-org_img_id: 2358440
-org_cap: Person his racket to hit a forehand shot in a tennis match.
-trg_cap: Person his racket to hit a forehand shot in a tennis match in the living room.
-instruction: Change the background to living room.
-taskid: 117766

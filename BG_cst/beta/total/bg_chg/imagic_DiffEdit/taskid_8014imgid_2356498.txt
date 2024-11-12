@@ -1,5 +1,0 @@
-org_img_id: 2356498
-org_cap: the clock is a large, ornate clock with a copper face and intricate details, suspended from the side of a historic building.
-trg_cap: The clock is a large, ornate clock with a copper face and intricate details, suspended from the side of a historic building overlooking a picturesque beach.
-instruction: Change the background to beach.
-taskid: 8014

@@ -1,5 +1,0 @@
-org_img_id: 2320133
-org_cap: The vase is a white vase, sitting on a kitchen table.
-trg_cap: The person is sitting on the kitchen table.
-instruction: Replace the vase with a person.
-taskid: 3994

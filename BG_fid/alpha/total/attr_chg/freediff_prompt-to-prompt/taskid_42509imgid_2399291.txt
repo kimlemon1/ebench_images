@@ -1,5 +1,0 @@
-org_img_id: 2399291
-org_cap: Sitting, wet person rides a blue surfboard, his rash guard and blue surfboard splashing and spraying.
-trg_cap: Sitting, wet person rides a light brown surfboard, his rash guard and light brown surfboard splashing and spraying.
-instruction: Change the color of the surfboard from blue to light brown.
-taskid: 42509

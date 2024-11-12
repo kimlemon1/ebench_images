@@ -1,5 +1,0 @@
-org_img_id: 2375323
-org_cap: A yellow fire hydrant stands tall on the sidewalk, its yellow fire hydrant adorned with a cap and valve, surrounded by the gentle hum of urban activity.
-trg_cap: A Van Gogh style art piece features a yellow fire hydrant standing tall on the sidewalk, adorned with a cap and valve, surrounded by the gentle hum of urban activity.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 1530

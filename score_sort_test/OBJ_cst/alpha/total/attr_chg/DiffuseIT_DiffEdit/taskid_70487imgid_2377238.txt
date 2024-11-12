@@ -1,0 +1,5 @@
+org_img_id: 2377238
+org_cap: A white, walking zebra stands on a green grassy plain, its stripes in the sunlight, with a small patch of grass beneath its hooves and a nearby watering hole visible in the background.
+trg_cap: A black, walking zebra stands on a green grassy plain, its stripes in the sunlight, with a small patch of grass beneath its hooves and a nearby watering hole visible in the background.
+instruction: Change the color of the zebra from white to black.
+taskid: 70487

@@ -1,5 +1,0 @@
-org_img_id: 2400984
-org_cap: The red fire hydrant is a color, standing upright on a concrete base with a flat top.
-trg_cap: The small red fire hydrant is a color, standing upright on a concrete base with a flat top.
-instruction: Make the fire hydrant smaller.
-taskid: 90377

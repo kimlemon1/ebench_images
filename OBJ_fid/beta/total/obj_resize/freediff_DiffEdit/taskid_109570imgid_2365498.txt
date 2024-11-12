@@ -1,5 +1,0 @@
-org_img_id: 2365498
-org_cap: the woman in the green uniform stands at the sink, her gloved hands scrubbing away at the dishes.
-trg_cap: the woman in the green uniform stands at the large sink, her gloved hands scrubbing away at the dishes.
-instruction: Make the sink larger.
-taskid: 109570

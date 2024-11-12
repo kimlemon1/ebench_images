@@ -1,5 +1,0 @@
-org_img_id: 2322950
-org_cap: a bright red open-top bus with a colorful mural of cartoon characters and landmarks on its side, parked in front of a medieval-style stone building with a pointed roof.
-trg_cap: A bright red open-top bus with a colorful mural of cartoon characters and landmarks on its side, parked in front of a medieval-style stone building with a pointed roof, set against the backdrop of a mountain top.
-instruction: Change the background to mountain top.
-taskid: 107569

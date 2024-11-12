@@ -1,5 +1,0 @@
-org_img_id: 2356016
-org_cap: person rides his surfboard, his white wetsuit and black rash guard glistening with sea spray.
-trg_cap: A watercolor painting style art depicts a person riding his surfboard, his white wetsuit and black rash guard glistening with sea spray.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 103925

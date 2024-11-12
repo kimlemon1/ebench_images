@@ -1,5 +1,0 @@
-org_img_id: 2376318
-org_cap: surfing person rides a white surfboard through the waves, his across the water as he his weight to and speed.
-trg_cap: Surfing person rides a white surfboard through the waves, his across the water as he his weight to and speed, while the distant countryside farm provides a serene backdrop.
-instruction: Change the background to country side farm.
-taskid: 28364

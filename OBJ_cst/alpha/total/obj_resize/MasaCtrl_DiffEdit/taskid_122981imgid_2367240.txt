@@ -1,5 +1,0 @@
-org_img_id: 2367240
-org_cap: a plate with a white plate and a sliced, halved sandwich on it, accompanied by a side of french fries.
-trg_cap: a plate with a white plate and a small, sliced, halved sandwich on it, accompanied by a side of french fries.
-instruction: Make the sandwich smaller.
-taskid: 122981

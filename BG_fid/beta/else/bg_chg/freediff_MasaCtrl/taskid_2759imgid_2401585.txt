@@ -1,5 +1,0 @@
-org_img_id: 2401585
-org_cap: Surfing person, riding his board through the waves with a confident grin.
-trg_cap: Surfing person, riding his board through the waves with a confident grin, as the roar of the stadium crowd echoes in the background.
-instruction: Change the background to stadium.
-taskid: 2759

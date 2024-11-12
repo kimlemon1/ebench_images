@@ -1,5 +1,0 @@
-org_img_id: 2405085
-org_cap: a person with a brown horse, wearing a black hat and with gloved hands.
-trg_cap: The graffiti art depicts a person with a brown horse, wearing a black hat and gloves.
-instruction: Change the style if the image to graffiti art.
-taskid: 119171

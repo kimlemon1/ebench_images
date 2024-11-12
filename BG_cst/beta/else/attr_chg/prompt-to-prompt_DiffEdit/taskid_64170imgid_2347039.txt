@@ -1,5 +1,0 @@
-org_img_id: 2347039
-org_cap: A gray laptop sits on a desk, its casing and keyboard reflecting the soft light of the room.
-trg_cap: A pink laptop sits on a desk, its casing and keyboard reflecting the soft light of the room.
-instruction: Change the color of the laptop from gray to pink.
-taskid: 64170

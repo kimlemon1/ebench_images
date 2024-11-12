@@ -1,5 +1,0 @@
-org_img_id: 2411164
-org_cap: The pink glass vase sat on a worn, wooden dresser, adorned with a bouquet of white flowers and a delicate, lace doily.
-trg_cap: The maroon glass vase sat on a worn, wooden dresser, adorned with a bouquet of white flowers and a delicate, lace doily.
-instruction: Change the color of the vase from pink to maroon.
-taskid: 55479

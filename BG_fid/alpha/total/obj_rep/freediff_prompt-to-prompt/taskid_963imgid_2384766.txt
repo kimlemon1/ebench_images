@@ -1,5 +1,0 @@
-org_img_id: 2384766
-org_cap: "Person at a table, wearing a red shirt with a banana peel and a few grapes in front of him, his arms and legs adorned with tattoos."
-trg_cap: Toothbrush at a table, with a banana peel and a few grapes in front of it.
-instruction: Replace the person with a toothbrush.
-taskid: 963

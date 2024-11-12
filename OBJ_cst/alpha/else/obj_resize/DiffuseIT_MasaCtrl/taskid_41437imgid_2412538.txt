@@ -1,5 +1,0 @@
-org_img_id: 2412538
-org_cap: a blue bicycle with a rider pedaling slowly, sharing the road with a mix of cars, bicycles, and pedestrians crossing at the intersection.
-trg_cap: a large blue bicycle with a rider pedaling slowly, sharing the road with a mix of cars, bicycles, and pedestrians crossing at the intersection.
-instruction: Make the bicycle larger.
-taskid: 41437

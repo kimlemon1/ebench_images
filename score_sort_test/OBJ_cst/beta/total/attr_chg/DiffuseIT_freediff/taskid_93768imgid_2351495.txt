@@ -1,0 +1,5 @@
+org_img_id: 2351495
+org_cap: a black train puffing out white smoke as it chugs along the tracks.
+trg_cap: a green train puffing out white smoke as it chugs along the tracks.
+instruction: Change the color of the train from black to green.
+taskid: 93768

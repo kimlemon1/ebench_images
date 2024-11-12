@@ -1,5 +1,0 @@
-org_img_id: 2402421
-org_cap: The toilet is situated in a small, enclosed bathroom with a floral wallpaper and a tile floor.
-trg_cap: A cartoon style art depicts a toilet situated in a small, enclosed bathroom with floral wallpaper and a tile floor.
-instruction: Change the style if the image to cartoon style.
-taskid: 81854

@@ -1,5 +1,0 @@
-org_img_id: 2407325
-org_cap: Blond person swings her racket to hit a forehand shot in a match.
-trg_cap: Small blond person swings her racket to hit a forehand shot in a match.
-instruction: Make the person smaller.
-taskid: 21773

@@ -1,5 +1,0 @@
-org_img_id: 2350068
-org_cap: the clock face is a striking feature, with intricate black and white details forming a decorative border around the circular clock face, featuring roman numerals and ornate patterns.
-trg_cap: The graffiti art features a striking clock face with intricate black and white details forming a decorative border around the circular face, which includes Roman numerals and ornate patterns.
-instruction: Change the style if the image to graffiti art.
-taskid: 22792

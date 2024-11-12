@@ -1,0 +1,5 @@
+org_img_id: 2416176
+org_cap: a sleek, silver train glides along the elevated tracks, its rows of windows reflecting the gray, cloudy sky above.
+trg_cap: A sleek, silver train glides along the elevated tracks near the hospital, its rows of windows reflecting the gray, cloudy sky above.
+instruction: Change the background to hospital.
+taskid: 96349

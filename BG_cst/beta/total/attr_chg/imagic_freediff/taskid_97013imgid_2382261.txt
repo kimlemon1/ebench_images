@@ -1,5 +1,0 @@
-org_img_id: 2382261
-org_cap: a crouching, jumping person on a blue snowboard over a mountain with a rugged terrain and towering peaks in the background.
-trg_cap: a crouching, jumping person on a orange snowboard over a mountain with a rugged terrain and towering peaks in the background.
-instruction: Change the color of the snowboard from blue to orange.
-taskid: 97013

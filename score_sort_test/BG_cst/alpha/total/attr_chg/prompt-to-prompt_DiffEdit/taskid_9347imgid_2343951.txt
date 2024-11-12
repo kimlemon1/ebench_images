@@ -1,0 +1,5 @@
+org_img_id: 2343951
+org_cap: The black, open laptop sits on a wooden desk, surrounded by a bouquet of artificial flowers and a small potted plant, with a desktop computer and a few scattered wires and cords creating a cluttered yet cozy atmosphere.
+trg_cap: The black, closed laptop sits on a wooden desk, surrounded by a bouquet of artificial flowers and a small potted plant, with a desktop computer and a few scattered wires and cords creating a cluttered yet cozy atmosphere.
+instruction: Change the state of the laptop from open to closed.
+taskid: 9347

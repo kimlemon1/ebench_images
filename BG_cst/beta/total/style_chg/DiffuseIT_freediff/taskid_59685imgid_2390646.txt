@@ -1,5 +1,0 @@
-org_img_id: 2390646
-org_cap: a bronze statue of a cowboy riding a horse, with the horse's hooves and its mane, stands tall in the city square, surrounded by modern skyscrapers and bustling streets.
-trg_cap: An ancient Egyptian-style artwork features a bronze statue of a cowboy riding a horse, with the horse's hooves and mane, standing tall in the city square, surrounded by modern skyscrapers and bustling streets.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 59685

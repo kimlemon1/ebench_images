@@ -1,5 +1,0 @@
-org_img_id: 2319703
-org_cap: a person in a bright red jacket on a snow-covered slope, with a snowboard underfoot and a determined expression on their face.
-trg_cap: A person in a bright red jacket on a snow-covered slope, with a snowboard underfoot and a determined expression on their face, is visible through the large glass window of the aquarium, where colorful fish swim by in the background.
-instruction: Change the background to aquarium.
-taskid: 33954

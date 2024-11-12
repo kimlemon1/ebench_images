@@ -1,5 +1,0 @@
-org_img_id: 2405802
-org_cap: A white fire hydrant stands tall on a bed of golden leaves, its white fire hydrant adorned with a band and a handle.
-trg_cap: A white sandwich stands tall on a bed of golden leaves.
-instruction: Replace the fire hydrant with a sandwich.
-taskid: 78136

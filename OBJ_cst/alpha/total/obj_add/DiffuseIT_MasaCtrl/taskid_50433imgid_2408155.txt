@@ -1,5 +1,0 @@
-org_img_id: 2408155
-org_cap: a diesel train, with its train and train aligned on the train, chugs along the train, its train clicking on the train as it approaches the train.
-trg_cap: A diesel train, with its train and train aligned on the train, chugs along the train, its train clicking on the train as it approaches the train, with a car located in the train.
-instruction: Add a car in the train.
-taskid: 50433

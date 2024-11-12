@@ -1,5 +1,0 @@
-org_img_id: 2320971
-org_cap: "Person on a snow-covered mountain, wearing an orange jacket and snow pants, with a snowboard under his feet and a bright blue sky above, his silhouette cast against the snow and mountains."
-trg_cap: A small person on a snow-covered mountain, wearing an orange jacket and snow pants, with a snowboard under his feet and a bright blue sky above, his silhouette cast against the snow and mountains.
-instruction: Make the person smaller.
-taskid: 78676

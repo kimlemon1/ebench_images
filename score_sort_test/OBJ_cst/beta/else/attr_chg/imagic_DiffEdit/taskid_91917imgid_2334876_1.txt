@@ -1,0 +1,5 @@
+org_img_id: 2334876_1
+org_cap: a young woman with dark skin and a bright smile holds a yellow surfboard in the ocean, her braids dripping with seawater as she gazes out at the waves.
+trg_cap: a young woman with dark skin and a bright smile holds a orange surfboard in the ocean, her braids dripping with seawater as she gazes out at the waves.
+instruction: Change the color of the surfboard from yellow to orange.
+taskid: 91917

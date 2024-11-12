@@ -1,5 +1,0 @@
-org_img_id: 2341863
-org_cap: Person stands at the edge of the stage, his eyes fixed on the crowd as he manipulates the controls of his digital turntables.
-trg_cap: Hot dog stands at the edge of the stage as they manipulate the controls of their digital turntables.
-instruction: Replace the person with a hot dog.
-taskid: 31331

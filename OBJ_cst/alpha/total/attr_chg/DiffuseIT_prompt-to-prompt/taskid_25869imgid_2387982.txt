@@ -1,5 +1,0 @@
-org_img_id: 2387982
-org_cap: A red bus travels along a busy city street lined with tall buildings, parked cars, and pedestrians.
-trg_cap: A light blue bus travels along a busy city street lined with tall buildings, parked cars, and pedestrians.
-instruction: Change the color of the bus from red to light blue.
-taskid: 25869

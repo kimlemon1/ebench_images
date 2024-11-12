@@ -1,5 +1,0 @@
-org_img_id: 2355782
-org_cap: a person standing, waiting, as a train with a bright green livery and yellow stripes approaches the platform.
-trg_cap: A person standing, waiting, as a train with a bright green livery and yellow stripes approaches the platform, set against the backdrop of a countryside farm.
-instruction: Change the background to country side farm.
-taskid: 45246

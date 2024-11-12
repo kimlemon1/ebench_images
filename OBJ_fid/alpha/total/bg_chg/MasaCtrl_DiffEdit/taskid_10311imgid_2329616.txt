@@ -1,5 +1,0 @@
-org_img_id: 2329616
-org_cap: The toilet is small and circular, with a rim and a hole in the center, surrounded by a white porcelain seat and lid, with a roll of toilet paper and a few used sheets on the floor.
-trg_cap: The toilet is small and circular, with a rim and a hole in the center, surrounded by a white porcelain seat and lid, with a roll of toilet paper and a few used sheets on the floor, set against the serene backdrop of a lakeside view.
-instruction: Change the background to lake side.
-taskid: 10311

@@ -1,5 +1,0 @@
-org_img_id: 2378037
-org_cap: The white toilet is a bowl with a seat and a handle.
-trg_cap: The green toilet is a bowl with a seat and a handle.
-instruction: Change the color of the toilet from white to green.
-taskid: 97847

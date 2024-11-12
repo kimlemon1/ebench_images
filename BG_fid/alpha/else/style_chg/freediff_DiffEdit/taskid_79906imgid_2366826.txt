@@ -1,5 +1,0 @@
-org_img_id: 2366826
-org_cap: riding person skateboarding on his skateboard, legs stretched out in front of him as he the dimly lit underground parking garage.
-trg_cap: An oil painting style art depicts a person skateboarding with legs stretched out in front of him in a dimly lit underground parking garage.
-instruction: Change the style if the image to oil painting style.
-taskid: 79906

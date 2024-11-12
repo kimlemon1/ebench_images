@@ -1,5 +1,0 @@
-org_img_id: 2353614
-org_cap: a walking person down the road, a black backpack and a suitcase behind him, as cars whizz by and rain falls around him.
-trg_cap: A grayscale photo depicts a person walking down the road with a black backpack and a suitcase behind him, as cars whizz by and rain falls around him.
-instruction: Change the style if the image to grey scale.
-taskid: 95096

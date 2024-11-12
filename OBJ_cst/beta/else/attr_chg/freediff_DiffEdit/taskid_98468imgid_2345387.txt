@@ -1,5 +1,0 @@
-org_img_id: 2345387
-org_cap: A troupe of gray elephants in unison perform a choreographed routine, their bodies in perfect harmony.
-trg_cap: A troupe of white elephants in unison perform a choreographed routine, their bodies in perfect harmony.
-instruction: Change the color of the elephant from gray to white.
-taskid: 98468

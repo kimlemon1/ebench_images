@@ -1,5 +1,0 @@
-org_img_id: 2391021
-org_cap: a squatting old person, on the sidewalk, a cigarette and against a colorful wall.
-trg_cap: a squatting young person, on the sidewalk, a cigarette and against a colorful wall.
-instruction: Change the state of the person from old to young.
-taskid: 109375

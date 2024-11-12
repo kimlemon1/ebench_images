@@ -1,5 +1,0 @@
-org_img_id: 2365471
-org_cap: The black dog is a dog, on a plush toy bear with a teddy bear's head.
-trg_cap: The cartoon-style art features a black dog on a plush toy bear with a teddy bear's head.
-instruction: Change the style if the image to cartoon style.
-taskid: 67830

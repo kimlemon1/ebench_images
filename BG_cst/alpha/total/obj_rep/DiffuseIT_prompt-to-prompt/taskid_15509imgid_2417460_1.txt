@@ -1,5 +1,0 @@
-org_img_id: 2417460_1
-org_cap: The skateboard is a black skateboard with a rusty metal wheel and a worn-out grip tape.
-trg_cap: The hot dog is a hot dog.
-instruction: Replace the skateboard with a hot dog.
-taskid: 15509

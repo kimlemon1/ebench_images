@@ -1,5 +1,0 @@
-org_img_id: 2338624
-org_cap: Person walks along the beach, his long, wavy hair in the ocean breeze as he carries his surfboard, the sun setting behind him casting a warm glow over the waves.
-trg_cap: A small person walks along the beach, his long, wavy hair in the ocean breeze as he carries his surfboard, the sun setting behind him casting a warm glow over the waves.
-instruction: Make the person smaller.
-taskid: 39067

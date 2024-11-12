@@ -1,5 +1,0 @@
-org_img_id: 2324645
-org_cap: "a scruffy brown dog with a worn collar and a patchy white coat the hand of a weary-looking man in a faded green hat."
-trg_cap: A scruffy brown dog with a worn collar and a patchy white coat sat beside the hand of a weary-looking man in a faded green hat, both of them blending into the bustling background of the stadium.
-instruction: Change the background to stadium.
-taskid: 26334

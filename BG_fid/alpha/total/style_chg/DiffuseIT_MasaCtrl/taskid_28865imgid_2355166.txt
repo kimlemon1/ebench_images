@@ -1,5 +1,0 @@
-org_img_id: 2355166
-org_cap: a person in bright yellow rain boots and a red umbrella in the rain, around a merry-go-round.
-trg_cap: The mosaic art depicts a person in bright yellow rain boots and a red umbrella in the rain, around a merry-go-round.
-instruction: Change the style if the image to mosaic art.
-taskid: 28865

@@ -1,5 +1,0 @@
-org_img_id: 2354624
-org_cap: The blue clock face is with intricate stone carvings surrounding it, adorned with a delicate gold trim.
-trg_cap: The tan clock face is with intricate stone carvings surrounding it, adorned with a delicate gold trim.
-instruction: Change the color of the clock from blue to tan.
-taskid: 30404

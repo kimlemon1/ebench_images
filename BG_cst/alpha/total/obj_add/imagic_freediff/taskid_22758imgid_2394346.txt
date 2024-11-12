@@ -1,5 +1,0 @@
-org_img_id: 2394346
-org_cap: The black tv is mounted on a wall in the center of the room, surrounded by a dark gray couch and a wooden coffee table.
-trg_cap: The black TV is mounted on a wall in the center of the room, with a dog next to it, surrounded by a dark gray couch and a wooden coffee table.
-instruction: Add a dog next to the tv.
-taskid: 22758

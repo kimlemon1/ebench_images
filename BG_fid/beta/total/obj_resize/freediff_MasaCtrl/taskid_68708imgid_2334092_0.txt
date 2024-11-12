@@ -1,5 +1,0 @@
-org_img_id: 2334092_0
-org_cap: a person in a gray t-shirt and brown pants on a skateboard.
-trg_cap: a small person in a gray t-shirt and brown pants on a skateboard.
-instruction: Make the person smaller.
-taskid: 68708

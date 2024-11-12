@@ -1,5 +1,0 @@
-org_img_id: 2409384
-org_cap: the scene features a black keyboard with a metal tape wrapped around it, situated on a desk with a gray background.
-trg_cap: The scene features a sandwich, situated on the desk with a gray background.
-instruction: Replace the keyboard with a sandwich.
-taskid: 38662

@@ -1,5 +1,0 @@
-org_img_id: 2382421
-org_cap: The scene features a wooden coffee table with a bowl on it, surrounded by a few decorative items such as a bowl, a candle, and a small notebook.
-trg_cap: The grey scale photo features a wooden coffee table with a bowl on it, surrounded by decorative items such as a candle and a small notebook.
-instruction: Change the style if the image to grey scale.
-taskid: 67433

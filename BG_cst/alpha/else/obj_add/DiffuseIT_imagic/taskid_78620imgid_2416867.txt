@@ -1,5 +1,0 @@
-org_img_id: 2416867
-org_cap: A striped zebra stands in a grassy clearing, its black and white stripes glistening in the sunlight.
-trg_cap: A striped zebra stands in a grassy clearing, its black and white stripes glistening in the sunlight, with a bird nestled underneath it.
-instruction: Add a bird under the zebra.
-taskid: 78620

@@ -1,0 +1,5 @@
+org_img_id: 2359799
+org_cap: a white cat lying on a warm stone floor, its fur glistening in the sunlight, its eyes in a peaceful slumber.
+trg_cap: a striped cat lying on a warm stone floor, its fur glistening in the sunlight, its eyes in a peaceful slumber.
+instruction: Change the color of the cat from white to striped.
+taskid: 93700

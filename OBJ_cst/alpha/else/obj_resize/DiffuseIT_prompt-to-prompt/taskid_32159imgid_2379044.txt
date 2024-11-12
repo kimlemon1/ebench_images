@@ -1,5 +1,0 @@
-org_img_id: 2379044
-org_cap: male person throws a frisbee, his arm and his wrist as the disc through the air, the green grass and trees blurring together in a warm spring afternoon.
-trg_cap: large male person throws a frisbee, his arm and his wrist as the disc through the air, the green grass and trees blurring together in a warm spring afternoon.
-instruction: Make the person larger.
-taskid: 32159

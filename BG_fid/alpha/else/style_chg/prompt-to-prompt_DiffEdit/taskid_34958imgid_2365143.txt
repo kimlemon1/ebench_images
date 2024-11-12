@@ -1,5 +1,0 @@
-org_img_id: 2365143
-org_cap: The metal fire hydrant is a structure with a top and a bottom, painted a red, with a valve and handle on the side.
-trg_cap: The pencil sketch art depicts a metal fire hydrant, a structure with a top and a bottom, painted red, featuring a valve and handle on the side.
-instruction: Change the style if the image to pencil sketch.
-taskid: 34958

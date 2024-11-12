@@ -1,0 +1,5 @@
+org_img_id: 2414688
+org_cap: a person helps a young girl put on a black skateboard, with the girl standing on the black skateboard and the person holding her legs to ensure a proper fit.
+trg_cap: The mosaic art depicts a person helping a young girl put on a black skateboard, with the girl standing on it while the person holds her legs to ensure a proper fit.
+instruction: Change the style if the image to mosaic art.
+taskid: 104803

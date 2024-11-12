@@ -1,5 +1,0 @@
-org_img_id: 2355844
-org_cap: a black cat on the woven rug, her fur in the soft light that through the blinds.
-trg_cap: a black cat on the woven rug, a book resting on her back, her fur in the soft light that through the blinds.
-instruction: Add a book on the cat.
-taskid: 69217

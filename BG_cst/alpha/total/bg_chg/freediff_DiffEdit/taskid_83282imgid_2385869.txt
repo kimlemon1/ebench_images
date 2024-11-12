@@ -1,5 +1,0 @@
-org_img_id: 2385869
-org_cap: A clear vase sits on a metal table, containing a bouquet of pink and orange flowers with white centers, with a few stems poking out of the vase and some petals spilling onto the table.
-trg_cap: A clear vase sits on a metal table in a desert setting, containing a bouquet of pink and orange flowers with white centers, with a few stems poking out of the vase and some petals spilling onto the table.
-instruction: Change the background to desert.
-taskid: 83282

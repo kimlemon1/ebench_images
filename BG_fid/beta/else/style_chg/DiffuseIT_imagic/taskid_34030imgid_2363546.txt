@@ -1,5 +1,0 @@
-org_img_id: 2363546
-org_cap: person on a single bed in a small, dimly lit room with yellow walls and a metal frame bed, wearing a worn-out t-shirt and sweatpants, with a glass of water in one hand and a book in the other, surrounded by cluttered furniture and dusty decorations.
-trg_cap: The cartoon-style art depicts a person on a single metal frame bed in a small, dimly lit room with yellow walls, wearing a worn-out t-shirt and sweatpants, holding a glass of water in one hand and a book in the other, surrounded by cluttered furniture and dusty decorations.
-instruction: Change the style if the image to cartoon style.
-taskid: 34030

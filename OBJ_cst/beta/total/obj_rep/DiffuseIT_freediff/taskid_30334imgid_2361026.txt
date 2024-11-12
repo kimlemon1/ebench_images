@@ -1,5 +1,0 @@
-org_img_id: 2361026
-org_cap: A silver airplane with a curved wing and a pointed nose soars into the sky, its engines roaring as it gains speed and altitude.
-trg_cap: A silver banana soars into the sky.
-instruction: Replace the airplane with a banana.
-taskid: 30334

@@ -1,5 +1,0 @@
-org_img_id: 2374515
-org_cap: a standing, brown horse, eating and grazing in a sunlit meadow, surrounded by tall grasses and wildflowers, with a distant mountain range visible in the background.
-trg_cap: a standing, brown horse, with a dog behind it, eating and grazing in a sunlit meadow, surrounded by tall grasses and wildflowers, with a distant mountain range visible in the background.
-instruction: Add a dog behind the horse.
-taskid: 116256

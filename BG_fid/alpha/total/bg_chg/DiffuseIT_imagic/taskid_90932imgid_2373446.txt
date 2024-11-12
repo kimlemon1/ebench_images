@@ -1,5 +1,0 @@
-org_img_id: 2373446
-org_cap: a person in a bright yellow snow jacket and black pants, their snowboard leaving a trail of powder behind them over a snow-covered mountain.
-trg_cap: A person in a bright yellow snow jacket and black pants, their snowboard leaving a trail of powder behind them over a snow-covered mountain, stands out vividly against the lush greenery of a tropical jungle.
-instruction: Change the background to tropical jungle.
-taskid: 90932

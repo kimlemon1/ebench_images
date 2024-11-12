@@ -1,5 +1,0 @@
-org_img_id: 2413678
-org_cap: A standing person rides a white surfboard through a turbulent torrent of water, the fin slicing through the whitewater as the silhouette is against the misty veil of water.
-trg_cap: A standing person rides a white surfboard through a turbulent torrent of water, the fin slicing through the whitewater as the silhouette is against the misty veil of water, with a vast snow field stretching out in the background.
-instruction: Change the background to snow field.
-taskid: 27270

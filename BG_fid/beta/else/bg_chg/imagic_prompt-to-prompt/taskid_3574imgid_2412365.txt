@@ -1,5 +1,0 @@
-org_img_id: 2412365
-org_cap: green umbrella, ice cream truck, and people sitting on blankets in a park, enjoying food and company on a sunny day.
-trg_cap: green umbrella, ice cream truck, and people sitting on blankets in a cave, enjoying food and company on a sunny day.
-instruction: Change the background to cave.
-taskid: 3574

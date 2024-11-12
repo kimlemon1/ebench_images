@@ -1,5 +1,0 @@
-org_img_id: 2334124
-org_cap: a large gray elephant with a wrinkled skin and a long trunk on the sandy ground, its tusks visible, while a small brown baboon with a curious expression sits nearby.
-trg_cap: An oil painting style art features a large gray elephant with wrinkled skin and a long trunk on the sandy ground, its tusks visible, while a small brown baboon with a curious expression sits nearby.
-instruction: Change the style if the image to oil painting style.
-taskid: 2173

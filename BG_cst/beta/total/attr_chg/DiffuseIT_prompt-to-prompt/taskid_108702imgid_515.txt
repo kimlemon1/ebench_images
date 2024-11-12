@@ -1,5 +1,0 @@
-org_img_id: 515
-org_cap: The scene is focused on a black microwave in a kitchen, surrounded by a black granite countertop, a bookshelf filled with books, and a chair in the adjacent living area.
-trg_cap: The scene is focused on a tan microwave in a kitchen, surrounded by a tan granite countertop, a bookshelf filled with books, and a chair in the adjacent living area.
-instruction: Change the color of the microwave from black to tan.
-taskid: 108702

@@ -1,5 +1,0 @@
-org_img_id: 2337917
-org_cap: a white horse with a rider wearing a hat and a vest, in a horse - drawn carriage with wooden wheels and a yellow canopy.
-trg_cap: The pop art style artwork features a white horse with a rider wearing a hat and a vest, in a horse-drawn carriage with wooden wheels and a yellow canopy.
-instruction: Change the style if the image to pop art style.
-taskid: 16526

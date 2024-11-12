@@ -1,0 +1,5 @@
+org_img_id: 2395666
+org_cap: A standing giraffe stands in front of a feeding trough, its neck bent as it munches on hay and its eating giraffe in the breeze.
+trg_cap: A standing giraffe stands in front of a feeding trough, its neck bent as it munches on hay and its eating giraffe in the breeze, all within the unique environment of a space station.
+instruction: Change the background to space station.
+taskid: 42753

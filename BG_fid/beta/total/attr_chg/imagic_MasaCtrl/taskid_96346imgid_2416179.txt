@@ -1,5 +1,0 @@
-org_img_id: 2416179
-org_cap: A blue bus is driving along a quiet road, passing a stone entrance gate.
-trg_cap: A silver bus is driving along a quiet road, passing a stone entrance gate.
-instruction: Change the color of the bus from blue to silver.
-taskid: 96346

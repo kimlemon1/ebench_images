@@ -1,5 +1,0 @@
-org_img_id: 2405870
-org_cap: Kneeling person, on the snow-covered mountain with a snowboard at his feet.
-trg_cap: Kneeling oven, on the snow-covered mountain with a snowboard at its feet.
-instruction: Replace the person with a oven.
-taskid: 30783

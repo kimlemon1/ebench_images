@@ -1,5 +1,0 @@
-org_img_id: 2382447
-org_cap: A small regional airplane flies overhead, its white body and wings glistening in the bright sunlight as it soars through the clear blue sky.
-trg_cap: A small regional banana fly flies overhead.
-instruction: Replace the airplane with a banana.
-taskid: 41949

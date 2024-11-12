@@ -1,5 +1,0 @@
-org_img_id: 2335791_1
-org_cap: a worn paperback book lies open on a colorful bedspread, its pages dogeared and yellowed with age, next to a lazy ginger cat with bright green eyes and a fluffy orange coat, who is lazily sleeping on the bed.
-trg_cap: A pencil sketch art depicts a worn paperback book, its pages dogeared and yellowed with age, lying open on a colorful bedspread next to a lazy ginger cat with bright green eyes and a fluffy orange coat, who is sleeping on the bed.
-instruction: Change the style if the image to pencil sketch.
-taskid: 69992

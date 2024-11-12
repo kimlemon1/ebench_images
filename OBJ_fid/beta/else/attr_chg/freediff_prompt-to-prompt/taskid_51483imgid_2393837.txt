@@ -1,5 +1,0 @@
-org_img_id: 2393837
-org_cap: The resting, sleeping, orange cat is a ball of fur on a patchwork quilt.
-trg_cap: The resting, sleeping, calico cat is a ball of fur on a patchwork quilt.
-instruction: Change the color of the cat from orange to calico.
-taskid: 51483

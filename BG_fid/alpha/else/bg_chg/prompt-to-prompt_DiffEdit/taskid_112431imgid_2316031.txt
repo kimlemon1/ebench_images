@@ -1,5 +1,0 @@
-org_img_id: 2316031
-org_cap: surfing person executes a flawless surfing aerial.
-trg_cap: In the picturesque setting of a vineyard, a surfing person executes a flawless surfing aerial.
-instruction: Change the background to vineyard.
-taskid: 112431

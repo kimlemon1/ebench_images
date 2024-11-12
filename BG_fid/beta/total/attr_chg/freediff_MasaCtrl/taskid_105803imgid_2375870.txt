@@ -1,5 +1,0 @@
-org_img_id: 2375870
-org_cap: A standing adult giraffe stands alone in a rocky enclosure.
-trg_cap: A standing immature giraffe stands alone in a rocky enclosure.
-instruction: Change the state of the giraffe from adult to immature.
-taskid: 105803

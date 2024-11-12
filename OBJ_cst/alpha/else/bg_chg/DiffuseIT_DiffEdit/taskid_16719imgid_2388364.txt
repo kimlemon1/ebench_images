@@ -1,5 +1,0 @@
-org_img_id: 2388364
-org_cap: a juicy hot dog topped with relish and mustard, served on a white plate with a side of fries.
-trg_cap: A juicy hot dog topped with relish and mustard, served on a white plate with a side of fries, sits invitingly against the backdrop of a pristine snow field.
-instruction: Change the background to snow field.
-taskid: 16719

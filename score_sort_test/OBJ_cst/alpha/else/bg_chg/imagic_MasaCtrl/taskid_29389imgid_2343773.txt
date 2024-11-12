@@ -1,0 +1,5 @@
+org_img_id: 2343773
+org_cap: waiting person a baseball bat with a stance, her eyes on the ball as she a home run.
+trg_cap: In the art gallery, a waiting person held a baseball bat with a stance, her eyes on the ball as she a home run.
+instruction: Change the background to art gallery.
+taskid: 29389

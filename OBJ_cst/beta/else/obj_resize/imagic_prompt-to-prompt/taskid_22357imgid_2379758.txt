@@ -1,5 +1,0 @@
-org_img_id: 2379758
-org_cap: a person leaps through the air, his skateboard flying out from under his feet as he lands with a thud on the concrete ramp.
-trg_cap: a person leaps through the air, his large skateboard flying out from under his feet as he lands with a thud on the concrete ramp.
-instruction: Make the skateboard larger.
-taskid: 22357

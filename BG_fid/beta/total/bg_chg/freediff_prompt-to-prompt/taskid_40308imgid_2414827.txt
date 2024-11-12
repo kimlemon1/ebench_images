@@ -1,5 +1,0 @@
-org_img_id: 2414827
-org_cap: Blond person, his legs and feet as he on the gray skateboard on the concrete ramp.
-trg_cap: Blond person, his legs and feet as he on the gray skateboard on the concrete ramp in the living room.
-instruction: Change the background to living room.
-taskid: 40308

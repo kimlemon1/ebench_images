@@ -1,5 +1,0 @@
-org_img_id: 2413948_0
-org_cap: A red bicycle glides across the calm waters of the pond, its rider a blur as they pedal away from a curious blue heron wading in the shallow water.
-trg_cap: A brown bicycle glides across the calm waters of the pond, its rider a blur as they pedal away from a curious blue heron wading in the shallow water.
-instruction: Change the color of the bicycle from red to brown.
-taskid: 7758

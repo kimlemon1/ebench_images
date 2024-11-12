@@ -1,5 +1,0 @@
-org_img_id: 2341833
-org_cap: a small person in a gray onesie on a bed, with a curious expression on their face.
-trg_cap: a small person in a gray onesie on a bed, with a curious expression on their face.
-instruction: Change the color of the laptop from black to brown.
-taskid: 42821

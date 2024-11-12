@@ -1,0 +1,5 @@
+org_img_id: 2383795
+org_cap: A yellow fire hydrant stands tall, partially hidden by the branches of a tree, with a car parked in the background.
+trg_cap: A yellow fire hydrant stands tall, partially hidden by the branches of a tree, with a bus behind it and a car parked in the background.
+instruction: Add a bus behind the fire hydrant.
+taskid: 64242

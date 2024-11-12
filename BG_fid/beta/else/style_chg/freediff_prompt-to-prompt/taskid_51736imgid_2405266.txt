@@ -1,5 +1,0 @@
-org_img_id: 2405266
-org_cap: The white, empty sink in the bathroom is a sink with a chrome faucet and a small, rectangular mirror above it.
-trg_cap: A graffiti art piece features a white, empty bathroom sink with a chrome faucet and a small, rectangular mirror above it.
-instruction: Change the style if the image to graffiti art.
-taskid: 51736

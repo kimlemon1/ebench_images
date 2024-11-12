@@ -1,5 +1,0 @@
-org_img_id: 2398817
-org_cap: A black bird on a rocky outcropping, surrounded by lush greenery and scrubby rocks.
-trg_cap: "A remote sits on a rocky outcropping, surrounded by lush greenery and scrubby rocks."
-instruction: Replace the bird with a remote.
-taskid: 74799

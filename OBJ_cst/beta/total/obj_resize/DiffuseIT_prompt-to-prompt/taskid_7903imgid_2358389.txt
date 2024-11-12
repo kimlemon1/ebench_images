@@ -1,5 +1,0 @@
-org_img_id: 2358389
-org_cap: skiing person up the snow-covered mountain in green skis, wearing pants, their legs and arms in a slow, deliberate motion, with a red backpack.
-trg_cap: skiing person up the snow-covered mountain in large green skis, wearing pants, their legs and arms in a slow, deliberate motion, with a red backpack.
-instruction: Make the skis larger.
-taskid: 7903

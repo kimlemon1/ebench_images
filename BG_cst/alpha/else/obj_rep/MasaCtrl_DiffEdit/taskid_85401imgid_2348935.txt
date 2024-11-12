@@ -1,5 +1,0 @@
-org_img_id: 2348935
-org_cap: a skateboard with a black deck, white wheels, and black trucks, held by a person wearing black jeans and a black t-shirt with a graphic print of a fantasy creature on the front.
-trg_cap: A train held by someone wearing black jeans and a black t-shirt with a graphic print of a fantasy creature on the front.
-instruction: Replace the skateboard with a train.
-taskid: 85401

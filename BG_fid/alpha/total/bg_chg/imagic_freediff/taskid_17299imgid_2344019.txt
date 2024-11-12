@@ -1,5 +1,0 @@
-org_img_id: 2344019
-org_cap: A white airplane sits on the tarmac, its engines silent and still, surrounded by a sea of asphalt and concrete, with the distant hum of airport activity in the background.
-trg_cap: A white airplane sits on the tarmac, its engines silent and still, surrounded by a sea of asphalt and concrete, with the distant shimmer of a lakeside view in the background.
-instruction: Change the background to lake side.
-taskid: 17299

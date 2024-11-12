@@ -1,5 +1,0 @@
-org_img_id: 2328193_0
-org_cap: Person is a young person with a lean build and a mop of messy brown hair, wearing a red helmet and knee pads.
-trg_cap: A grayscale photo features a young person with a lean build and a mop of messy brown hair, wearing a red helmet and knee pads.
-instruction: Change the style if the image to grey scale.
-taskid: 123138

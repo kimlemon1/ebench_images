@@ -1,5 +1,0 @@
-org_img_id: 2386536
-org_cap: The ornate clock face features a black clock with roman numerals and intricate details, surrounded by ornate metalwork and colorful glass tiles.
-trg_cap: The ornate clock face features a black clock with roman numerals and intricate details, surrounded by ornate metalwork and colorful glass tiles, set against a backdrop of the arid desert landscape.
-instruction: Change the background to desert.
-taskid: 9794

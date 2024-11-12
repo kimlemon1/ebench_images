@@ -1,5 +1,0 @@
-org_img_id: 2383486
-org_cap: The toilet is a small, cramped space with a porcelain, white, open, raised toilet and a toilet seat, surrounded by faded, blue and white tiles with a geometric pattern.
-trg_cap: The toilet is a small, cramped space with a ceramic, white, open, raised toilet and a toilet seat, surrounded by faded, blue and white tiles with a geometric pattern.
-instruction: Change the material of the toilet from porcelain to ceramic.
-taskid: 2843

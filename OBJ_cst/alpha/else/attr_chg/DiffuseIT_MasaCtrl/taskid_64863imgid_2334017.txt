@@ -1,5 +1,0 @@
-org_img_id: 2334017
-org_cap: a person runs across the sandy beach, holding a green kite, its green kite flapping wildly in the wind as he tries to get it airborne.
-trg_cap: a person runs across the sandy beach, holding a orange kite, its orange kite flapping wildly in the wind as he tries to get it airborne.
-instruction: Change the color of the kite from green to orange.
-taskid: 64863

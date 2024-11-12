@@ -1,5 +1,0 @@
-org_img_id: 2383014
-org_cap: A person walks down the street, with raindrops glistening on their hair and shoulders.
-trg_cap: A large person walks down the street, with raindrops glistening on their hair and shoulders.
-instruction: Make the person larger.
-taskid: 1675

@@ -1,5 +1,0 @@
-org_img_id: 2395206
-org_cap: "Person takes a bite of a slice of pizza, cheese and tomato sauce from his fingers as he with a satisfied expression."
-trg_cap: The mosaic art depicts a person taking a bite of a slice of pizza, with cheese and tomato sauce on his fingers, as he wears a satisfied expression.
-instruction: Change the style if the image to mosaic art.
-taskid: 112610

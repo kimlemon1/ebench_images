@@ -1,5 +1,0 @@
-org_img_id: 2316180
-org_cap: a lone person in a black wetsuit stands on the beach, holding a surfboard.
-trg_cap: a lone large person in a black wetsuit stands on the beach, holding a surfboard.
-instruction: Make the person larger.
-taskid: 103562

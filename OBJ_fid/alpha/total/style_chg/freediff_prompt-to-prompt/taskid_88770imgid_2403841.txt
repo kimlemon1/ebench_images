@@ -1,5 +1,0 @@
-org_img_id: 2403841
-org_cap: an elephant in its natural habitat, its gray skin glistening in the sunlight, its ears as it walking along the road.
-trg_cap: A watercolor painting style art depicts an elephant in its natural habitat, its gray skin glistening in the sunlight as it walks along the road.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 88770

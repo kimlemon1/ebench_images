@@ -1,5 +1,0 @@
-org_img_id: 2404205
-org_cap: a white boat glides smoothly across the calm, turquoise waters.
-trg_cap: a large white boat glides smoothly across the calm, turquoise waters.
-instruction: Make the boat larger.
-taskid: 105946

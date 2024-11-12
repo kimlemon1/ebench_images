@@ -1,5 +1,0 @@
-org_img_id: 2387995
-org_cap: a person stands at a street corner, wearing a pink backpack and holding a shopping bag, with a small cat by their side.
-trg_cap: a person stands at a street corner, wearing a yellow backpack and holding a shopping bag, with a small cat by their side.
-instruction: Change the color of the backpack from pink to yellow.
-taskid: 101980

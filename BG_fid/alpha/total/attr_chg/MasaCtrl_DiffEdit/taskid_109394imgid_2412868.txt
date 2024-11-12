@@ -1,5 +1,0 @@
-org_img_id: 2412868
-org_cap: A yellow cat lies in a heap of shoes, its eyes on a black sneaker.
-trg_cap: A gray cat lies in a heap of shoes, its eyes on a black sneaker.
-instruction: Change the color of the cat from yellow to gray.
-taskid: 109394

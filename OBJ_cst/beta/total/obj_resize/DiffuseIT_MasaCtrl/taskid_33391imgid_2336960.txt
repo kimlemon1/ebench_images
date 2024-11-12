@@ -1,5 +1,0 @@
-org_img_id: 2336960
-org_cap: A person on a couch in a dimly lit living room, surrounded by a tv, a coffee table, and a few decorations, with a blank wall behind them.
-trg_cap: A large person on a couch in a dimly lit living room, surrounded by a tv, a coffee table, and a few decorations, with a blank wall behind them.
-instruction: Make the person larger.
-taskid: 33391

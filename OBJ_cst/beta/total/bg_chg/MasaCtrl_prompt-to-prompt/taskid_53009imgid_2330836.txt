@@ -1,5 +1,0 @@
-org_img_id: 2330836
-org_cap: a person in a bright red beanie and wearing a yellow shirt and gray pants, with a skateboard in hand, is shown on the concrete floor of a skate park.
-trg_cap: A person in a bright red beanie and wearing a yellow shirt and gray pants, with a skateboard in hand, is shown on the concrete floor of a concert hall.
-instruction: Change the background to concert hall.
-taskid: 53009

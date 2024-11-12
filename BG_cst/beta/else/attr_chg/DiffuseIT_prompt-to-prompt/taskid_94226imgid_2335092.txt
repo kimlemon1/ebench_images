@@ -1,5 +1,0 @@
-org_img_id: 2335092
-org_cap: a truck with a thick layer of snow covering its body sits in front of an orange truck, its truck gleaming against the winter landscape.
-trg_cap: a truck with a thick layer of snow covering its body sits in front of an beige truck, its truck gleaming against the winter landscape.
-instruction: Change the color of the truck from orange to beige.
-taskid: 94226

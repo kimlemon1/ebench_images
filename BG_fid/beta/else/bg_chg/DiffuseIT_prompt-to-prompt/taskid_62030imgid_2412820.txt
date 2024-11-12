@@ -1,5 +1,0 @@
-org_img_id: 2412820
-org_cap: "Person on a snow-covered slope, wearing a red jacket and snow pants, with a bright sun shining down and a snowboard in hand, with a smile on his face."
-trg_cap: Person in a library, wearing a red jacket and snow pants, with a bright sun shining down and a snowboard in hand, with a smile on his face.
-instruction: Change the background to library.
-taskid: 62030

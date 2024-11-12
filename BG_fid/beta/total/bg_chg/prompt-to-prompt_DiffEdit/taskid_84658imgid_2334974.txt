@@ -1,5 +1,0 @@
-org_img_id: 2334974
-org_cap: The bronze statue of a green bird perches atop the clock tower, its green patina glistening in the sunlight.
-trg_cap: The bronze statue of a green bird perches atop the clock tower, its green patina glistening in the sunlight against the backdrop of the arid desert landscape.
-instruction: Change the background to desert.
-taskid: 84658

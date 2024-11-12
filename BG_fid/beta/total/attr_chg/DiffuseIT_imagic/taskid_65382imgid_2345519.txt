@@ -1,5 +1,0 @@
-org_img_id: 2345519
-org_cap: a man's hand holds a gray cell phone, with a glass of water and a plate of food in the background.
-trg_cap: a man's hand holds a purple cell phone, with a glass of water and a plate of food in the background.
-instruction: Change the color of the cell phone from gray to purple.
-taskid: 65382

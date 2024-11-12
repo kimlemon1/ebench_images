@@ -1,5 +1,0 @@
-org_img_id: 2320533_0
-org_cap: a skateboard lies flat on the ground, its skateboard worn and scratched, with faded blue trucks and wheels attached, and a worn-out grip tape on the top.
-trg_cap: A graffiti art piece depicts a skateboard lying flat on the ground, its deck worn and scratched, with faded blue trucks and wheels attached, and a worn-out grip tape on top.
-instruction: Change the style if the image to graffiti art.
-taskid: 118650

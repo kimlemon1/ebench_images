@@ -1,5 +1,0 @@
-org_img_id: 2406805
-org_cap: the clock tower is a striking red brick structure with a golden sun shining through the clock face.
-trg_cap: The clock tower is a striking red brick structure with a golden sun shining through the clock face, and a cup is perched on top of the clock.
-instruction: Add a cup on the clock.
-taskid: 98725

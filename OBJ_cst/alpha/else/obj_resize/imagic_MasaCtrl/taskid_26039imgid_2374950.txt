@@ -1,5 +1,0 @@
-org_img_id: 2374950
-org_cap: A person stands alone on a wet street, holding an umbrella against the rain and gazing out at the cityscape.
-trg_cap: A person stands alone on a wet street, holding a large umbrella against the rain and gazing out at the cityscape.
-instruction: Make the umbrella larger.
-taskid: 26039

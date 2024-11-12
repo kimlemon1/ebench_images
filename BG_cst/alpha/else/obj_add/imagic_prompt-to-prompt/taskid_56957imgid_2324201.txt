@@ -1,5 +1,0 @@
-org_img_id: 2324201
-org_cap: a clear plastic bottle with a blue label and a cap sits alone on a weathered wooden bench, surrounded by worn concrete and overgrown vegetation.
-trg_cap: A clear plastic bottle with a blue label and a cap sits alone on a weathered wooden bench, with a banana in front of it, surrounded by worn concrete and overgrown vegetation.
-instruction: Add a banana in front of the bottle.
-taskid: 56957

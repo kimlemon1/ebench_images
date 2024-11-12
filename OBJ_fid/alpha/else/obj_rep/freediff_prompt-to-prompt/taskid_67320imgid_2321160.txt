@@ -1,5 +1,0 @@
-org_img_id: 2321160
-org_cap: a stop sign with bold black letters and a bright yellow background stands upright on a wooden pole, flanked by a few trees and a dirt path.
-trg_cap: An elephant stands upright on a wooden pole, flanked by several trees and a dirt path.
-instruction: Replace the stop sign with a elephant.
-taskid: 67320

@@ -1,5 +1,0 @@
-org_img_id: 2320373
-org_cap: A blue bowl sits on the counter, filled with various fruits including apples, bananas, and oranges, accompanied by a small electric bowl.
-trg_cap: A white bowl sits on the counter, filled with various fruits including apples, bananas, and oranges, accompanied by a small electric bowl.
-instruction: Change the color of the bowl from blue to white.
-taskid: 115762

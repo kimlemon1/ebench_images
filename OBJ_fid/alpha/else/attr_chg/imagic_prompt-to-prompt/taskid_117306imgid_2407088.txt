@@ -1,5 +1,0 @@
-org_img_id: 2407088
-org_cap: The toilet is a small, square room with black and white checkered tiles, a white toilet, and a small sink with a faucet and a few inches of counter space.
-trg_cap: The toilet is a small, square room with black and cream colored checkered tiles, a cream colored toilet, and a small sink with a faucet and a few inches of counter space.
-instruction: Change the color of the toilet from white to cream colored.
-taskid: 117306

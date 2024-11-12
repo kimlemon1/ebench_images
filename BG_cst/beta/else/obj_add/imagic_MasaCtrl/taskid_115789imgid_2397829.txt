@@ -1,5 +1,0 @@
-org_img_id: 2397829
-org_cap: A purple kite flies high above a sandy beach, with a rugged 4x4 vehicle parked on the shore in the background.
-trg_cap: A purple kite flies high above a sandy beach, with a clock on the right side of the kite and a rugged 4x4 vehicle parked on the shore in the background.
-instruction: Add a clock on the right side of the kite.
-taskid: 115789

@@ -1,0 +1,5 @@
+org_img_id: 2415775
+org_cap: a person sits at a desk, munching on a white cup.
+trg_cap: A person sits at a desk, munching on a white cup, with a bottle on the cup.
+instruction: Add a bottle on the cup.
+taskid: 78907

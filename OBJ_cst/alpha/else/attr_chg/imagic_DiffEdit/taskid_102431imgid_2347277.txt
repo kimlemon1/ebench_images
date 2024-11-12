@@ -1,5 +1,0 @@
-org_img_id: 2347277
-org_cap: The old-fashioned stove in the kitchen features a black oven with a chrome door handle and a worn, wooden floor.
-trg_cap: The old-fashioned stove in the kitchen features a gray oven with a chrome door handle and a worn, wooden floor.
-instruction: Change the color of the oven from black to gray.
-taskid: 102431

@@ -1,0 +1,5 @@
+org_img_id: 2316732
+org_cap: person on the railway platform, wearing a grey jacket and jeans, with a white stripe on the platform in front of him.
+trg_cap: large person on the railway platform, wearing a grey jacket and jeans, with a white stripe on the platform in front of him.
+instruction: Make the person larger.
+taskid: 51210

@@ -1,5 +1,0 @@
-org_img_id: 2379091
-org_cap: A white airplane descends onto the runway, its landing gear unfolding with a loud thud as it touches down on the asphalt.
-trg_cap: A mosaic art depicts a white airplane descending onto the runway, its landing gear unfolding with a loud thud as it touches down on the asphalt.
-instruction: Change the style if the image to mosaic art.
-taskid: 88062

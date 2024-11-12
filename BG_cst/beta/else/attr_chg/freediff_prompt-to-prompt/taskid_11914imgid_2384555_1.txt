@@ -1,5 +1,0 @@
-org_img_id: 2384555_1
-org_cap: A green knife lies on a wooden table, next to a small plate filled with grapes and a glass of red wine.
-trg_cap: A yellow knife lies on a wooden table, next to a small plate filled with grapes and a glass of red wine.
-instruction: Change the color of the knife from green to yellow.
-taskid: 11914

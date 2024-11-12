@@ -1,5 +1,0 @@
-org_img_id: 2323906
-org_cap: a high-speed train in a bright yellow livery, with a sleek and modern design, speeding along the tracks with a trail of smoke and steam behind it.
-trg_cap: a small high-speed train in a bright yellow livery, with a sleek and modern design, speeding along the tracks with a trail of smoke and steam behind it.
-instruction: Make the train smaller.
-taskid: 109031

@@ -1,5 +1,0 @@
-org_img_id: 2398429
-org_cap: a yellow truck parked on a street with orange cones and a concrete barrier.
-trg_cap: A yellow truck parked on a street with orange cones and a concrete barrier, near an art gallery.
-instruction: Change the background to art gallery.
-taskid: 24225

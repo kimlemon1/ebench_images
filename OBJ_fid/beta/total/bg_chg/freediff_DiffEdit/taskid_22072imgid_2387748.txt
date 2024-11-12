@@ -1,5 +1,0 @@
-org_img_id: 2387748
-org_cap: the room features a black tv mounted on the wall, accompanied by a white chair placed in the center of the floor, surrounded by a simple, wooden coffee table and a few, scattered, wooden floorboards.
-trg_cap: The room features a black TV mounted on the wall, accompanied by a white chair placed in the center of the floor, surrounded by a simple, wooden coffee table and a few, scattered, wooden floorboards, evoking the relaxed and airy atmosphere of a beachside retreat.
-instruction: Change the background to beach.
-taskid: 22072

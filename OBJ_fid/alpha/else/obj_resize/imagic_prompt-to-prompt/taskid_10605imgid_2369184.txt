@@ -1,5 +1,0 @@
-org_img_id: 2369184
-org_cap: the clock is a large, circular face with roman numerals and a decorative metal frame, suspended above a row of flower boxes and a cheerful awning.
-trg_cap: The clock is a small, large, circular face with roman numerals and a decorative metal frame, suspended above a row of flower boxes and a cheerful awning.
-instruction: Make the clock smaller.
-taskid: 10605

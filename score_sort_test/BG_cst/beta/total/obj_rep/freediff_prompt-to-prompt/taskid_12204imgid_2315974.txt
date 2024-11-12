@@ -1,0 +1,5 @@
+org_img_id: 2315974
+org_cap: The cat in a blue basket, surrounded by a soft, fluffy teddy bear with bright red eyes.
+trg_cap: The person, surrounded by a soft, fluffy teddy bear with its bright red eyes.
+instruction: Replace the cat with a person.
+taskid: 12204

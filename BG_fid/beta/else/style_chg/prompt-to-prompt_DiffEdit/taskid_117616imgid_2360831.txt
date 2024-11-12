@@ -1,5 +1,0 @@
-org_img_id: 2360831
-org_cap: "person on a couch, wearing a white blouse and jeans, with a laptop open on her lap and a cup of coffee on the coffee table in front of her."
-trg_cap: A watercolor painting depicts a person on a couch, wearing a white blouse and jeans, with a laptop open on her lap and a cup of coffee on the coffee table in front of her.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 117616

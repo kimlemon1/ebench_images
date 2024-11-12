@@ -1,5 +1,0 @@
-org_img_id: 2350355
-org_cap: The blue clock tower stands tall with its red dome and intricate stone carvings.
-trg_cap: The blue clock tower stands tall with its red dome and intricate stone carvings, nestled within the vast expanse of the ancient cave.
-instruction: Change the background to cave.
-taskid: 60906

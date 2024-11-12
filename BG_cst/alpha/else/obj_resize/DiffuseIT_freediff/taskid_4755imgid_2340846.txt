@@ -1,5 +1,0 @@
-org_img_id: 2340846
-org_cap: A white skateboard lies on the sidewalk, its wheels standing out against the gray concrete.
-trg_cap: A small white skateboard lies on the sidewalk, its wheels standing out against the gray concrete.
-instruction: Make the skateboard smaller.
-taskid: 4755

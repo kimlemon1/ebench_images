@@ -1,5 +1,0 @@
-org_img_id: 2416297
-org_cap: Person, with a ruggedly handsome face and a messy mop of hair, rides a surfboard through the foamy waves of the ocean, his muscles flexing as he pops up to his feet and balances, the sunlight casting a warm glow over his sun-kissed skin.
-trg_cap: Skateboard rides its surfboard through the foamy waves of the ocean.
-instruction: Replace the person with a skateboard.
-taskid: 25251

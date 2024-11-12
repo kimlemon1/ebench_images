@@ -1,5 +1,0 @@
-org_img_id: 2355624
-org_cap: A rotten, yellow banana lies next to a tall, white mug.
-trg_cap: A rotten, green banana lies next to a tall, white mug.
-instruction: Change the color of the banana from yellow to green.
-taskid: 82797

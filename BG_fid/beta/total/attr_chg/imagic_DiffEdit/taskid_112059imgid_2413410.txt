@@ -1,5 +1,0 @@
-org_img_id: 2413410
-org_cap: A yellow bus is driving along a quiet suburban street at sunset, with the sun casting a warm orange glow over the scene.
-trg_cap: A green bus is driving along a quiet suburban street at sunset, with the sun casting a warm orange glow over the scene.
-instruction: Change the color of the bus from yellow to green.
-taskid: 112059

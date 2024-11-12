@@ -1,5 +1,0 @@
-org_img_id: 2412406
-org_cap: "a person in mid-air, with their snowboard, against a bright blue sky with a few wispy clouds."
-trg_cap: The baseball glove, against a bright blue sky with a few wispy clouds.
-instruction: Replace the person with a baseball glove.
-taskid: 88053

@@ -1,5 +1,0 @@
-org_img_id: 2341185
-org_cap: A gray train glides smoothly over the stone arch bridge, its wheels clicking rhythmically on the tracks as it rounds the bend.
-trg_cap: A graffiti art depicts a gray train gliding smoothly over a stone arch bridge, its wheels clicking rhythmically on the tracks as it rounds the bend.
-instruction: Change the style if the image to graffiti art.
-taskid: 95817

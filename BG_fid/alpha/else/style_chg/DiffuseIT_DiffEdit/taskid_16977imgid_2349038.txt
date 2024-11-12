@@ -1,5 +1,0 @@
-org_img_id: 2349038
-org_cap: "Person, wearing a black t-shirt and a pair of skateboarding shoes, is seen in mid-air on his skateboard, his legs and his arms."
-trg_cap: A graffiti art depicts a person wearing a black t-shirt and a pair of skateboarding shoes, seen in mid-air on his skateboard with his legs and arms extended.
-instruction: Change the style if the image to graffiti art.
-taskid: 16977

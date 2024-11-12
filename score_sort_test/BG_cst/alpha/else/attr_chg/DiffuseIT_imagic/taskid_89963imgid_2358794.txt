@@ -1,0 +1,5 @@
+org_img_id: 2358794
+org_cap: A silver airplane soars through the clear blue sky, leaving a trail of white clouds behind it as it flies over a lush green tree with leaves rustling in the gentle breeze.
+trg_cap: A striped airplane soars through the clear blue sky, leaving a trail of white clouds behind it as it flies over a lush green tree with leaves rustling in the gentle breeze.
+instruction: Change the color of the airplane from silver to striped.
+taskid: 89963

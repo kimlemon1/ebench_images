@@ -1,5 +1,0 @@
-org_img_id: 2357697
-org_cap: A laptop sits on a desk, its screen glowing softly in the dimly lit room, surrounded by a few scattered papers and a small glass of water.
-trg_cap: A bear sits on the desk, surrounded by a few scattered papers and a small glass of water.
-instruction: Replace the laptop with a bear.
-taskid: 106743

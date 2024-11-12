@@ -1,0 +1,5 @@
+org_img_id: 2400821
+org_cap: The chrome, gray, stainless steel, wet toilet is a bowl, situated in a cramped, dimly lit bathroom with a single toilet paper holder and a small trash can.
+trg_cap: The ceramic, gray, stainless steel, wet toilet is a bowl, situated in a cramped, dimly lit bathroom with a single toilet paper holder and a small trash can.
+instruction: Change the material of the toilet from chrome to ceramic.
+taskid: 32126

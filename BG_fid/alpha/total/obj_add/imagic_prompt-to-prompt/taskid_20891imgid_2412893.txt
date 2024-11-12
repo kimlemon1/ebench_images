@@ -1,5 +1,0 @@
-org_img_id: 2412893
-org_cap: a small person in a grey hoodie and hoodie, with a mop of blonde hair and a few crumbs on their chin, holds a warm, sugary donut in their small hand.
-trg_cap: a small person in a grey hoodie and hoodie, with a mop of blonde hair and a few crumbs on their chin, holds a warm, sugary donut in their small hand, with a sports ball resting on top of the donut.
-instruction: Add a sports ball on the donut.
-taskid: 20891

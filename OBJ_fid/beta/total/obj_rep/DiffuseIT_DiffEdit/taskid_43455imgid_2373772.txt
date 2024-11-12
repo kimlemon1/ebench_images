@@ -1,5 +1,0 @@
-org_img_id: 2373772
-org_cap: surfing person's wet person, his arms and legs splayed as he carves a path through the turquoise waves.
-trg_cap: surfing surfboard, their arms and legs splayed as they carve a path through the turquoise waves.
-instruction: Replace the person with a surfboard.
-taskid: 43455

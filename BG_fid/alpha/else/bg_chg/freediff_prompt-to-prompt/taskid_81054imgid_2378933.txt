@@ -1,5 +1,0 @@
-org_img_id: 2378933
-org_cap: Person, his bright orange sunglasses and messy brown hair a blur.
-trg_cap: Person, his bright orange sunglasses and messy brown hair a blur against the backdrop of the countryside farm.
-instruction: Change the background to country side farm.
-taskid: 81054

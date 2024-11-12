@@ -1,5 +1,0 @@
-org_img_id: 2321930
-org_cap: a blue bus, parked at a bus stop with pedestrians waiting to board.
-trg_cap: The pop art style artwork features a blue bus parked at a bus stop with pedestrians waiting to board.
-instruction: Change the style if the image to pop art style.
-taskid: 117969

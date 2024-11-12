@@ -1,5 +1,0 @@
-org_img_id: 2415420
-org_cap: The sink is a white pedestal sink with a faucet.
-trg_cap: The sink is a beige pedestal sink with a faucet.
-instruction: Change the color of the sink from white to beige.
-taskid: 10117

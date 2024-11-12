@@ -1,5 +1,0 @@
-org_img_id: 2407230
-org_cap: her black sweatpants and white sneakers a testament to her athletic build and toned legs, her ponytail playing as she stared the ball with a fierce determination in her eyes.
-trg_cap: her small black sweatpants and white sneakers a testament to her athletic build and toned legs, her ponytail playing as she stared the ball with a fierce determination in her eyes.
-instruction: Make the person smaller.
-taskid: 45473

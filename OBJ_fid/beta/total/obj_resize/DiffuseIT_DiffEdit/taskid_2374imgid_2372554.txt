@@ -1,5 +1,0 @@
-org_img_id: 2372554
-org_cap: person rides a white surfboard, his blue rash guard glistening with water droplets.
-trg_cap: A small person rides a white surfboard, his blue rash guard glistening with water droplets.
-instruction: Make the person smaller.
-taskid: 2374

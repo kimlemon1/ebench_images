@@ -1,5 +1,0 @@
-org_img_id: 2372010
-org_cap: a person holds a cell phone, with a rectangular screen and rounded edges, in their hand, capturing a moment in time as they gaze out at the bustling street scene with colorful lanterns and festive decorations.
-trg_cap: A grayscale photo depicts a person holding a cell phone with a rectangular screen and rounded edges, capturing a moment in time as they gaze out at the bustling street scene with colorful lanterns and festive decorations.
-instruction: Change the style if the image to grey scale.
-taskid: 74220

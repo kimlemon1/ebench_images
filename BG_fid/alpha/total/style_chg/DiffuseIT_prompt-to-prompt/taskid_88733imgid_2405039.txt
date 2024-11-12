@@ -1,5 +1,0 @@
-org_img_id: 2405039
-org_cap: his skateboard bending across the wet pavement, his orange wheels skateboarding as he a sharp turn.
-trg_cap: A cartoon-style art depicts his skateboard bending across the wet pavement with its orange wheels as he makes a sharp turn.
-instruction: Change the style if the image to cartoon style.
-taskid: 88733

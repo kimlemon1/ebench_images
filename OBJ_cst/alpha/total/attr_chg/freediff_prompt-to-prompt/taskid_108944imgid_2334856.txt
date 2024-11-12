@@ -1,5 +1,0 @@
-org_img_id: 2334856
-org_cap: a young person rides a blue surfboard down the face of a wave, her arms and legs moving in unison as she carves through the water.
-trg_cap: a young person rides a cream colored surfboard down the face of a wave, her arms and legs moving in unison as she carves through the water.
-instruction: Change the color of the surfboard from blue to cream colored.
-taskid: 108944

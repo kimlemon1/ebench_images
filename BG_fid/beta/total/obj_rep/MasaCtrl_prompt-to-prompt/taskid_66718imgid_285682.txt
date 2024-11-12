@@ -1,5 +1,0 @@
-org_img_id: 285682
-org_cap: a black cat with a white patch on its forehead on top of a television, its paws a chunk of red meat.
-trg_cap: A black clock on top of a television, its hands a chunk of red meat.
-instruction: Replace the cat with a clock.
-taskid: 66718

@@ -1,0 +1,5 @@
+org_img_id: 2358172
+org_cap: The bed is a dark wooden bed with a subtle curve, adorned with colorful pillows and a few scattered cushions.
+trg_cap: The bed is a small dark wooden bed with a subtle curve, adorned with colorful pillows and a few scattered cushions.
+instruction: Make the bed smaller.
+taskid: 112092

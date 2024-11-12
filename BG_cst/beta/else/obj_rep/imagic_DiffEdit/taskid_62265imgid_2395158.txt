@@ -1,5 +1,0 @@
-org_img_id: 2395158
-org_cap: The yellow clock face is a circular face with roman numerals and intricate stone carvings surrounding it.
-trg_cap: The yellow horse has a circular face with intricate stone carvings surrounding it.
-instruction: Replace the clock with a horse.
-taskid: 62265

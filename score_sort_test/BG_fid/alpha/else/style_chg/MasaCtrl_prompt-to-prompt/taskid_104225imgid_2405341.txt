@@ -1,0 +1,5 @@
+org_img_id: 2405341
+org_cap: The person wore a dark necktie, tied in a dark knot around his white dress shirt.
+trg_cap: A Van Gogh style art depicts a person wearing a dark necktie, tied in a dark knot around his white dress shirt.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 104225

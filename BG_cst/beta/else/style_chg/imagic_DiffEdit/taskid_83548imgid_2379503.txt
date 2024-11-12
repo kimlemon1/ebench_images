@@ -1,5 +1,0 @@
-org_img_id: 2379503
-org_cap: A lone person in a bright yellow snowsuit and goggles at the top of a snow-covered mountain with a determined expression.
-trg_cap: A pencil sketch art depicts a lone person in a bright yellow snowsuit and goggles with a determined expression at the top of a snow-covered mountain.
-instruction: Change the style if the image to pencil sketch.
-taskid: 83548

@@ -1,5 +1,0 @@
-org_img_id: 2335199
-org_cap: The red train stands proudly in the train, its train adorned with intricate train and a faded red train job, its train and train gleaming in the morning train.
-trg_cap: The dark brown train stands proudly in the train, its train adorned with intricate train and a faded dark brown train job, its train and train gleaming in the morning train.
-instruction: Change the color of the train from red to dark brown.
-taskid: 114951

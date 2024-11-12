@@ -1,5 +1,0 @@
-org_img_id: 2356550
-org_cap: The microwave is a white microwave with a rounded door and a digital control panel.
-trg_cap: The mosaic art contains a white microwave with a rounded door and a digital control panel.
-instruction: Change the style if the image to mosaic art.
-taskid: 61628

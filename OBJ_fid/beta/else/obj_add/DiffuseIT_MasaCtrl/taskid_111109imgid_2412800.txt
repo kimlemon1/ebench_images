@@ -1,5 +1,0 @@
-org_img_id: 2412800
-org_cap: the snow - covered bench and the old clock stand amidst a winter wonderland of frosty shrubs and a blanket of white snow.
-trg_cap: The snow-covered bench, with a chair next to it, and the old clock stand amidst a winter wonderland of frosty shrubs and a blanket of white snow.
-instruction: Add a chair next to the bench.
-taskid: 111109

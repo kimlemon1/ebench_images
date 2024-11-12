@@ -1,0 +1,5 @@
+org_img_id: 2394592
+org_cap: a brown horse with a wooden cart attached to its harness, adorned with colorful decorations and a blue wheel, on the sandy riverbank.
+trg_cap: An oil painting style art depicts a brown horse with a wooden cart attached to its harness, adorned with colorful decorations and a blue wheel, on the sandy riverbank.
+instruction: Change the style if the image to oil painting style.
+taskid: 84522

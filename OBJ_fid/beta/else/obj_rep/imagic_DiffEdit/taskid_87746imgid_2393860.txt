@@ -1,5 +1,0 @@
-org_img_id: 2393860
-org_cap: A blue train chugs along the tracks, carrying a crowded train of people in bright colors, with the sun casting a warm glow over the lush greenery and rusty rails.
-trg_cap: A blue toothbrush chugs along the tracks, with the sun casting a warm glow over the lush greenery and rusty rails.
-instruction: Replace the train with a toothbrush.
-taskid: 87746

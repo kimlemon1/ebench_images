@@ -1,5 +1,0 @@
-org_img_id: 2345614
-org_cap: a creamy white yogurt sits atop a banana, with a drizzle of honey and a sprinkle of cinnamon, surrounded by a few walnuts.
-trg_cap: A creamy white yogurt sits atop a banana, with a drizzle of honey and a sprinkle of cinnamon, surrounded by a few walnuts, all set against the backdrop of a lush grass field.
-instruction: Change the background to grass field.
-taskid: 34159

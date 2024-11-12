@@ -1,5 +1,0 @@
-org_img_id: 2345683
-org_cap: The white stop sign is mounted on a tall pole surrounded by a sparse winter landscape with bare trees and a few scattered snowflakes.
-trg_cap: The blue stop sign is mounted on a tall pole surrounded by a sparse winter landscape with bare trees and a few scattered snowflakes.
-instruction: Change the color of the stop sign from white to blue.
-taskid: 54091

@@ -1,5 +1,0 @@
-org_img_id: 2364206
-org_cap: person at a table, wearing a red jacket, with a white bowl and a cup of orange juice in front of her.
-trg_cap: A person at a table, wearing a red jacket, with a white bowl and a cup of orange juice in front of her, aboard a space station.
-instruction: Change the background to space station.
-taskid: 97815

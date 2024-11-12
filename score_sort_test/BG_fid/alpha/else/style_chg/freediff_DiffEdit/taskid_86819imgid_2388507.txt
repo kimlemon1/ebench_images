@@ -1,0 +1,5 @@
+org_img_id: 2388507
+org_cap: a person holds a pink toothbrush, scrubbing their teeth with a look of disgust on their face.
+trg_cap: A graffiti art depicts a person holding a pink toothbrush, scrubbing their teeth with a look of disgust on their face.
+instruction: Change the style if the image to graffiti art.
+taskid: 86819

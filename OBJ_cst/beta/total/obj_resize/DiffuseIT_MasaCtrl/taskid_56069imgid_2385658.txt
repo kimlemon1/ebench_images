@@ -1,5 +1,0 @@
-org_img_id: 2385658
-org_cap: A large airplane soars through the sky at sunset, its wings and tail a dark silhouette against the vibrant orange and pink hues of the setting sun.
-trg_cap: A small airplane soars through the sky at sunset, its wings and tail a dark silhouette against the vibrant orange and pink hues of the setting sun.
-instruction: Make the airplane smaller.
-taskid: 56069

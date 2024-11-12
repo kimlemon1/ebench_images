@@ -1,5 +1,0 @@
-org_img_id: 2373290
-org_cap: The chair is a black chair.
-trg_cap: The chair is a black chair on the countryside farm.
-instruction: Change the background to country side farm.
-taskid: 8121

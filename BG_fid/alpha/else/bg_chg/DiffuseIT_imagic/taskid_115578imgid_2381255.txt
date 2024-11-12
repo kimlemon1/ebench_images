@@ -1,5 +1,0 @@
-org_img_id: 2381255
-org_cap: The stainless steel refrigerator is an appliance, standing against the wall in the kitchen.
-trg_cap: The stainless steel refrigerator is an appliance, standing against the wall in the kitchen, with a view of the sandy beach through the nearby window.
-instruction: Change the background to beach.
-taskid: 115578

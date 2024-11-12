@@ -1,5 +1,0 @@
-org_img_id: 2384176
-org_cap: surfing person's through a wave, his white surfboard legs as he attempts to regain balance after a maneuver.
-trg_cap: surfing person's through a wave, his light blue surfboard legs as he attempts to regain balance after a maneuver.
-instruction: Change the color of the surfboard from white to light blue.
-taskid: 108368

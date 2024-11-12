@@ -1,5 +1,0 @@
-org_img_id: 1545
-org_cap: The bed is a wood bed.
-trg_cap: The bed is a small wood bed.
-instruction: Make the bed smaller.
-taskid: 75661

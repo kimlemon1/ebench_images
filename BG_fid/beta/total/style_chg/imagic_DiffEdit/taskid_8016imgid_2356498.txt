@@ -1,5 +1,0 @@
-org_img_id: 2356498
-org_cap: the clock is a large, ornate clock with a copper face and intricate details, suspended from the side of a historic building.
-trg_cap: The cartoon-style art features a large, ornate clock with a copper face and intricate details, suspended from the side of a historic building.
-instruction: Change the style if the image to cartoon style.
-taskid: 8016

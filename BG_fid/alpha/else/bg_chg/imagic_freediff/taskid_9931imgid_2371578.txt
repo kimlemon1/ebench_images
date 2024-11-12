@@ -1,5 +1,0 @@
-org_img_id: 2371578
-org_cap: A black and white cow with a gentle gaze and a slow, deliberate gait down the road, its large hooves on the asphalt as it is led by a person wearing a bright yellow sundress and a big smile.
-trg_cap: A black and white cow with a gentle gaze and a slow, deliberate gait down the road, its large hooves on the asphalt as it is led by a person wearing a bright yellow sundress and a big smile, is depicted in a painting hanging in the living room.
-instruction: Change the background to living room.
-taskid: 9931

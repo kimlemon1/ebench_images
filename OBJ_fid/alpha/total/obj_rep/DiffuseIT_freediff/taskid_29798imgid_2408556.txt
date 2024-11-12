@@ -1,5 +1,0 @@
-org_img_id: 2408556
-org_cap: a lone person along the cobblestone street, a blue umbrella to themselves from the rain, as the medieval walls and bridge loom in the background.
-trg_cap: A lone zebra walks along the cobblestone street, as the medieval walls and bridge loom in the background.
-instruction: Replace the person with a zebra.
-taskid: 29798

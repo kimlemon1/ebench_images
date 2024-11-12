@@ -1,5 +1,0 @@
-org_img_id: 2365142
-org_cap: a middle-aged man with a gray backpack and a weathered face walks along the beach, his eyes fixed on the distant horizon as he gazes out at the sailboats and kites flying in the gentle breeze.
-trg_cap: A middle-aged man with a weathered face walks along the beach, his eyes fixed on the distant horizon as he gazes out at the sailboats and kites flying in the gentle bus.
-instruction: Replace the backpack with a bus.
-taskid: 34948

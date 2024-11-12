@@ -1,5 +1,0 @@
-org_img_id: 2389146
-org_cap: Standing person stands alone on the snowy lake shore, wearing a jacket and snowshoes, his breath visible in the chilly winter air.
-trg_cap: An ancient Egyptian-style artwork depicts a person standing alone on the snowy lake shore, wearing a jacket and snowshoes, with their breath visible in the chilly winter air.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 37384

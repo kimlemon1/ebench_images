@@ -1,5 +1,0 @@
-org_img_id: 2316210
-org_cap: a ceramic blue vase sits in a clear glass vase.
-trg_cap: a iron blue vase sits in a clear glass vase.
-instruction: Change the material of the vase from ceramic to iron.
-taskid: 2647

@@ -1,5 +1,0 @@
-org_img_id: 2362773
-org_cap: person sits on a yellow bench, a blue cardigan and a black skirt with a pair of flip flops, a bottle of water and a yellow hat.
-trg_cap: A person sits on a yellow bench, surrounded by the rolling fields of a countryside farm, wearing a blue cardigan and a black skirt with a pair of flip flops, a bottle of water, and a yellow hat.
-instruction: Change the background to country side farm.
-taskid: 31534

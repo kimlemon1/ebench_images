@@ -1,5 +1,0 @@
-org_img_id: 2318913
-org_cap: A blue, full, clear, plastic bottle with a label and a handle sits on a black suitcase, surrounded by a blurred background of a train station.
-trg_cap: A blue, full, purple, plastic bottle with a label and a handle sits on a black suitcase, surrounded by a blurred background of a train station.
-instruction: Change the color of the bottle from clear to purple.
-taskid: 67098

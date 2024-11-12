@@ -1,5 +1,0 @@
-org_img_id: 1592890
-org_cap: a young person in a striped hat and a bright smile rides an elephant, its trunk around a ball as the elephant's ears in excitement.
-trg_cap: A young person in a striped hat and a bright smile rides an elephant, its trunk around a ball as the elephant's ears flap in excitement, amidst the bustling backdrop of an airport.
-instruction: Change the background to airport.
-taskid: 81901

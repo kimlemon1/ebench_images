@@ -1,5 +1,0 @@
-org_img_id: 2341892
-org_cap: A ruggedly dressed person sits astride a sturdy brown horse, with a worn leather saddle and a rope halter around the horse's neck, against a bright blue sky with a few wispy clouds.
-trg_cap: The pencil sketch art depicts a ruggedly dressed person sitting astride a sturdy brown horse with a worn leather saddle and a rope halter around the horse's neck, set against a bright blue sky with a few wispy clouds.
-instruction: Change the style if the image to pencil sketch.
-taskid: 11944

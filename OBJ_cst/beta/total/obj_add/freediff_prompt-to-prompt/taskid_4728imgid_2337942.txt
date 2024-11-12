@@ -1,5 +1,0 @@
-org_img_id: 2337942
-org_cap: a young person with a messy brown haircut and a casual outfit sits on a couch, holding a sandwich with lettuce and tomato visible, and wearing a wristwatch with a digital display.
-trg_cap: a young person with a messy brown haircut and a casual outfit sits on a couch, holding a sandwich with lettuce and tomato visible, with a toaster behind the sandwich, and wearing a wristwatch with a digital display.
-instruction: Add a toaster behind the sandwich.
-taskid: 4728

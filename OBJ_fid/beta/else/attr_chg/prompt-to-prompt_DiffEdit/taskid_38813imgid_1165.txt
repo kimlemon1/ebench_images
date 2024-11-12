@@ -1,5 +1,0 @@
-org_img_id: 1165
-org_cap: The scene features a green bed, surrounded by white walls and a gray floor.
-trg_cap: The scene features a black bed, surrounded by white walls and a gray floor.
-instruction: Change the color of the bed from green to black.
-taskid: 38813

@@ -1,5 +1,0 @@
-org_img_id: 2408158
-org_cap: a white, walking horse with a rider wearing a purple shirt and a hat with a white band, in a dusty arena surrounded by a crowd of people in jeans and cowboy hats, with a few spectators standing on the outside of the arena looking in.
-trg_cap: a brown, walking horse with a rider wearing a purple shirt and a hat with a brown band, in a dusty arena surrounded by a crowd of people in jeans and cowboy hats, with a few spectators standing on the outside of the arena looking in.
-instruction: Change the color of the horse from white to brown.
-taskid: 50411

@@ -1,5 +1,0 @@
-org_img_id: 2371675
-org_cap: a small brown dog with a tail sits on the back of a white truck, wearing a collar with a shiny name tag, and at a grey sky with dark clouds and a green traffic light in the background.
-trg_cap: An ancient Egyptian-style artwork depicts a small brown dog with a tail sitting on the back of a white truck, wearing a collar with a shiny name tag, against a backdrop of a grey sky with dark clouds and a green traffic light.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 52193

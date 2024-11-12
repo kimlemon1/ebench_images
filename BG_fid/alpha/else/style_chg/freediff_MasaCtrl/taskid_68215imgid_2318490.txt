@@ -1,5 +1,0 @@
-org_img_id: 2318490
-org_cap: i bit into a warm, sugary donut with sprinkles on top.
-trg_cap: A Van Gogh style art piece depicts the moment I bite into a warm, sugary donut with sprinkles on top.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 68215

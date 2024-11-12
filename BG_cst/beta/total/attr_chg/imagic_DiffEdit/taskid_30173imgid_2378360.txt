@@ -1,5 +1,0 @@
-org_img_id: 2378360
-org_cap: a wet, blond person standing crouched and surfing on a surfboard.
-trg_cap: a dry, blond person standing crouched and surfing on a surfboard.
-instruction: Change the state of the person from wet to dry.
-taskid: 30173

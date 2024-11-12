@@ -1,5 +1,0 @@
-org_img_id: 2380952
-org_cap: skateboard person, as he lands on the concrete court.
-trg_cap: skateboard person, as he lands on the concrete court in the countryside farm.
-instruction: Change the background to country side farm.
-taskid: 85022

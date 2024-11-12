@@ -1,5 +1,0 @@
-org_img_id: 2387340
-org_cap: The porcelain ceramic white vase sat on the table, its smooth surface reflecting the light and adorned with a single sunflower.
-trg_cap: The porcelain ceramic transparent vase sat on the table, its smooth surface reflecting the light and adorned with a single sunflower.
-instruction: Change the color of the vase from white to transparent.
-taskid: 41881

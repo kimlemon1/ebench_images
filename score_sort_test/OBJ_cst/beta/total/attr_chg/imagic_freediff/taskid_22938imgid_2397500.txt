@@ -1,0 +1,5 @@
+org_img_id: 2397500
+org_cap: A white airplane standing on the runway with its engines and wheels visible, and a slight rain shower in the background.
+trg_cap: A brown airplane standing on the runway with its engines and wheels visible, and a slight rain shower in the background.
+instruction: Change the color of the airplane from white to brown.
+taskid: 22938

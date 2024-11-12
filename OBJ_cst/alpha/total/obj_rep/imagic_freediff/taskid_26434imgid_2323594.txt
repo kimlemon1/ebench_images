@@ -1,5 +1,0 @@
-org_img_id: 2323594
-org_cap: Person sits on a metal butterfly bench, wearing a pink shirt and jeans, with a relaxed expression on her face.
-trg_cap: The teddy bear sits on a metal butterfly bench.
-instruction: Replace the person with a teddy bear.
-taskid: 26434

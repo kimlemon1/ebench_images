@@ -1,5 +1,0 @@
-org_img_id: 2376187
-org_cap: a jumping person, his arm extended to catch a frisbee.
-trg_cap: A jumping person, his arm extended to catch a frisbee, on a sunny beach.
-instruction: Change the background to beach.
-taskid: 54783

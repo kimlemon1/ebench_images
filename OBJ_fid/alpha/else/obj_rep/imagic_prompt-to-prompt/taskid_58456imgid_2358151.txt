@@ -1,5 +1,0 @@
-org_img_id: 2358151
-org_cap: Person sits on a worn wooden bench, with a gentle smile on his weathered face.
-trg_cap: The bottle sits on a worn wooden bench.
-instruction: Replace the person with a bottle.
-taskid: 58456

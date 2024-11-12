@@ -1,5 +1,0 @@
-org_img_id: 2408524
-org_cap: The white analog clock face is a circular face with a copper exterior and a large glass dome above it, featuring intricate stone carvings and ornate details.
-trg_cap: The white analog clock face is a circular face with a copper exterior and a large glass dome above it, featuring intricate stone carvings and ornate details, with a banana located on the left side of the clock.
-instruction: Add a banana on the left side of the clock.
-taskid: 70212

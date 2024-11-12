@@ -1,5 +1,0 @@
-org_img_id: 2361460
-org_cap: a middle-aged person in a wetsuit rides a yellow surfboard down a wave, his arms and legs as he carves through the turquoise water.
-trg_cap: A grey scale photo shows a middle-aged person in a wetsuit riding a yellow surfboard down a wave, his arms and legs carving through the turquoise water.
-instruction: Change the style if the image to grey scale.
-taskid: 56460

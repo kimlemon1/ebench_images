@@ -1,0 +1,5 @@
+org_img_id: 2321237
+org_cap: The scene is focused on a brown dog on a pink couch, with a blanket and yoga mat nearby.
+trg_cap: An ancient Egyptian-style artwork features a scene focused on a brown dog on a pink couch, with a blanket and yoga mat nearby.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 87659

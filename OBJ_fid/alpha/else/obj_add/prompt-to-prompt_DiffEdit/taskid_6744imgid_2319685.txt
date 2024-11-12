@@ -1,5 +1,0 @@
-org_img_id: 2319685
-org_cap: the clock stands tall, its bright red and blue colors glistening in the sunlight, with intricate details of anchors, crowns, and other symbols painted on its facade.
-trg_cap: The clock stands tall, its bright red and blue colors glistening in the sunlight, with intricate details of anchors, crowns, and other symbols painted on its facade, while a bowl sits on the left side of the clock.
-instruction: Add a bowl on the left side of the clock.
-taskid: 6744

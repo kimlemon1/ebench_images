@@ -1,5 +1,0 @@
-org_img_id: 2403148
-org_cap: person, wearing a gray wetsuit, to balance herself on the surfboard as it glides across the waves.
-trg_cap: large person, wearing a gray wetsuit, to balance herself on the surfboard as it glides across the waves.
-instruction: Make the person larger.
-taskid: 101926

@@ -1,5 +1,0 @@
-org_img_id: 2359478
-org_cap: a chocolate cake with a yellow candle in the center sits on a silver tray, surrounded by a scattering of yellow flowers and a wine glass.
-trg_cap: a gray cake with a yellow candle in the center sits on a silver tray, surrounded by a scattering of yellow flowers and a wine glass.
-instruction: Change the color of the cake from chocolate to gray.
-taskid: 55798

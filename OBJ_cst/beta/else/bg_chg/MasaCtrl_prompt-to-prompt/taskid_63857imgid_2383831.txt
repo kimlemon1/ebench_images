@@ -1,5 +1,0 @@
-org_img_id: 2383831
-org_cap: The driving person drives a pair of draft horses, their brown coats glistening in the autumn sunlight, their hooves kicking up clouds of golden leaves.
-trg_cap: The driving person, who is delivering fresh produce to a nearby restaurant, drives a pair of draft horses, their brown coats glistening in the autumn sunlight, their hooves kicking up clouds of golden leaves.
-instruction: Change the background to restaurant.
-taskid: 63857

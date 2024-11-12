@@ -1,5 +1,0 @@
-org_img_id: 498053
-org_cap: The blue bus is a bright blue, with a cartoonish design featuring cartoon characters and bright colors, and has a big smile painted on the side.
-trg_cap: The blue bus, which transports young patients to the children's hospital, is a bright blue, with a cartoonish design featuring cartoon characters and bright colors, and has a big smile painted on the side.
-instruction: Change the background to hospital.
-taskid: 87486

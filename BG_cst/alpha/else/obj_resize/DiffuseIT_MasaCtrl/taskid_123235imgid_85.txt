@@ -1,5 +1,0 @@
-org_img_id: 85
-org_cap: The living room features a gray tv mounted on a wall, a gray chair, and a small coffee table in front of it.
-trg_cap: The living room features a gray tv mounted on a wall, a large gray chair, and a small coffee table in front of it.
-instruction: Make the chair larger.
-taskid: 123235

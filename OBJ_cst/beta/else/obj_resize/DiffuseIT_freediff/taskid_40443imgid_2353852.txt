@@ -1,5 +1,0 @@
-org_img_id: 2353852
-org_cap: a maroon bus adorned with a bright, red logo and a sign reading "big sightseeing tours" in bold, black letters.
-trg_cap: a large maroon bus adorned with a bright, red logo and a sign reading "big sightseeing tours" in bold, black letters.
-instruction: Make the bus larger.
-taskid: 40443

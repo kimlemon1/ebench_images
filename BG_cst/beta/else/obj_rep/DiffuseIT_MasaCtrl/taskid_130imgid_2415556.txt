@@ -1,5 +1,0 @@
-org_img_id: 2415556
-org_cap: a young person with a round face and a mop of curly hair in front of a globe, wearing a white shirt with a red tie and a pair of pants.
-trg_cap: The cat in front of a globe.
-instruction: Replace the person with a cat.
-taskid: 130

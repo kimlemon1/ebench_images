@@ -1,5 +1,0 @@
-org_img_id: 2382581
-org_cap: staring person wearing a shirt and a hat, his hair and features distinct and expressive.
-trg_cap: staring sheep, their hair and features distinct and expressive.
-instruction: Replace the person with a sheep.
-taskid: 65718

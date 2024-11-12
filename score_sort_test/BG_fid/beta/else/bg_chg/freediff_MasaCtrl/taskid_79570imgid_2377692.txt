@@ -1,0 +1,5 @@
+org_img_id: 2377692
+org_cap: A blue motorcycle is parked on the road next to the river.
+trg_cap: A blue motorcycle is parked on the road next to the desert.
+instruction: Change the background to desert.
+taskid: 79570

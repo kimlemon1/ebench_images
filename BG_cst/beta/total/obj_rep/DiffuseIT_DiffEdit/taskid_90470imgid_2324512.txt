@@ -1,5 +1,0 @@
-org_img_id: 2324512
-org_cap: the person sat at a table, fingers flying across the laptop keyboard.
-trg_cap: The person sat at a table, their fingers flying across the boat.
-instruction: Replace the laptop with a boat.
-taskid: 90470

@@ -1,5 +1,0 @@
-org_img_id: 2394532
-org_cap: The surfing, wet person is seen wearing a wetsuit, his arms and legs as he rides a boogie board down a large wave.
-trg_cap: A graffiti art depicts a surfing, wet person wearing a wetsuit, riding a boogie board down a large wave.
-instruction: Change the style if the image to graffiti art.
-taskid: 60987

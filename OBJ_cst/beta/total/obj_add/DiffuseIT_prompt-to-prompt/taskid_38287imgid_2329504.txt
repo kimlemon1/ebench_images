@@ -1,5 +1,0 @@
-org_img_id: 2329504
-org_cap: a yellow bus and a white car share the road with pedestrians and a pedestrian crossing, while a lone figure walks down the street, surrounded by modern buildings and streetlights.
-trg_cap: A yellow bus with a cat next to it and a white car share the road with pedestrians and a pedestrian crossing, while a lone figure walks down the street, surrounded by modern buildings and streetlights.
-instruction: Add a cat next to the bus.
-taskid: 38287

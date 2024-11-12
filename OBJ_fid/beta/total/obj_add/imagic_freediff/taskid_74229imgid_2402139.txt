@@ -1,5 +1,0 @@
-org_img_id: 2402139
-org_cap: Standing, surfing, crouched, person carves through a wave, board slicing through the water, arms and legs pumping in unison.
-trg_cap: Standing, surfing, crouched, person carves through a wave, board slicing through the water, arms and legs pumping in unison, with a clock on their left side.
-instruction: Add a clock on the left side of the person.
-taskid: 74229

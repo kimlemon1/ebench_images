@@ -1,5 +1,0 @@
-org_img_id: 2352324
-org_cap: A black, sleeping cat lies across a worn, beige couch, its fur matted and dusty, its eyes closed.
-trg_cap: A brown, sleeping cat lies across a worn, beige couch, its fur matted and dusty, its eyes closed.
-instruction: Change the color of the cat from black to brown.
-taskid: 115810

@@ -1,5 +1,0 @@
-org_img_id: 2351796
-org_cap: A clear glass vase sits on a wooden table, its rim slightly chipped and worn from years of use, surrounded by a scattering of crimson rose petals that have fallen from the bouquet placed in the vase.
-trg_cap: A small clear glass vase sits on a wooden table, its rim slightly chipped and worn from years of use, surrounded by a scattering of crimson rose petals that have fallen from the bouquet placed in the vase.
-instruction: Make the vase smaller.
-taskid: 66607

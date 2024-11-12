@@ -1,5 +1,0 @@
-org_img_id: 2359577
-org_cap: A yellow bus travels along the road, passing a person walking in the opposite direction.
-trg_cap: A yellow bus travels along the road by the lakeside, passing a person walking in the opposite direction.
-instruction: Change the background to lake side.
-taskid: 108202

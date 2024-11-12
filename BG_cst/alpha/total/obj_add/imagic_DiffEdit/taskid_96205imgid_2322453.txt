@@ -1,5 +1,0 @@
-org_img_id: 2322453
-org_cap: person in a red jacket and snow pants through the snow-covered forest, her skis across the frozen terrain as she the crisp winter morning.
-trg_cap: person in a red jacket and snow pants through the snow-covered forest, her skis across the frozen terrain as she the crisp winter morning, with an airplane flying above her in the clear sky.
-instruction: Add a airplane above the person.
-taskid: 96205

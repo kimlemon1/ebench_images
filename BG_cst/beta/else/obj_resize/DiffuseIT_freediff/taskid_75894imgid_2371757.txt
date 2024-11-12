@@ -1,5 +1,0 @@
-org_img_id: 2371757
-org_cap: A white bus splashes through a puddle of water on the road, its headlights reflecting off the wet asphalt.
-trg_cap: A large white bus splashes through a puddle of water on the road, its headlights reflecting off the wet asphalt.
-instruction: Make the bus larger.
-taskid: 75894

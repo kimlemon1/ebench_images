@@ -1,5 +1,0 @@
-org_img_id: 2355683
-org_cap: The little person sat on the porch, holding a white frisbee in her hands.
-trg_cap: The little person sat on the porch, holding a light blue frisbee in her hands.
-instruction: Change the color of the frisbee from white to light blue.
-taskid: 58238

@@ -1,5 +1,0 @@
-org_img_id: 2409410
-org_cap: The white skateboard is flying through the air, its wheels spinning wildly as it performs a trick.
-trg_cap: The white teddy bear, his wheels spinning wildly as he performs a trick.
-instruction: Replace the skateboard with a teddy bear.
-taskid: 107562

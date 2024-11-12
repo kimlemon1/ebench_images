@@ -1,5 +1,0 @@
-org_img_id: 2383251
-org_cap: Young person is posing in a grassy field, with a tree and a stone wall in the background.
-trg_cap: Large young person is posing in a grassy field, with a tree and a stone wall in the background.
-instruction: Make the person larger.
-taskid: 59616

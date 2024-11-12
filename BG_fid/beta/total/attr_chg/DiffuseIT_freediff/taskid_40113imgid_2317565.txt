@@ -1,5 +1,0 @@
-org_img_id: 2317565
-org_cap: A blue, colorful kite flies high in the sky, its string taut against the blue sky with puffy white clouds drifting lazily across it.
-trg_cap: A white, colorful kite flies high in the sky, its string taut against the white sky with puffy white clouds drifting lazily across it.
-instruction: Change the color of the kite from blue to white.
-taskid: 40113

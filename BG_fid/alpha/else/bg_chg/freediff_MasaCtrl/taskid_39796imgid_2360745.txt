@@ -1,5 +1,0 @@
-org_img_id: 2360745
-org_cap: a black commuter train rumbles along the tracks, its bright yellow and sleek a testament to the city's commitment to modern.
-trg_cap: A black commuter train rumbles along the tracks, its bright yellow and sleek a testament to the city's commitment to modern, as it passes by the large aquarium that houses a diverse array of marine life.
-instruction: Change the background to aquarium.
-taskid: 39796

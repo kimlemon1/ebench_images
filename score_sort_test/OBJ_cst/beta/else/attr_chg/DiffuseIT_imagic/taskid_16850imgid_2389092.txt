@@ -1,0 +1,5 @@
+org_img_id: 2389092
+org_cap: A blue frisbee floats on the water as a gray, wet dog wades into the lake, its fur with water, its eyes on the frisbee.
+trg_cap: A light blue frisbee floats on the water as a gray, wet dog wades into the lake, its fur with water, its eyes on the frisbee.
+instruction: Change the color of the frisbee from blue to light blue.
+taskid: 16850

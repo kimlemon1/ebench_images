@@ -1,5 +1,0 @@
-org_img_id: 2375063
-org_cap: "a person in a wetsuit with a surfboard and a determined expression is seen mid-air, with water splashing and foam surrounding him as he performs a trick."
-trg_cap: A person in a wetsuit with a surfboard and a determined expression is seen mid-air, with water splashing and foam surrounding him as he performs a trick, set against the unexpected backdrop of a bustling train station.
-instruction: Change the background to train station.
-taskid: 74275

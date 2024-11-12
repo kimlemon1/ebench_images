@@ -1,5 +1,0 @@
-org_img_id: 2408809
-org_cap: a white cat sitting atop a wooden table, surrounded by festive decorations and a tv playing holiday movies.
-trg_cap: a white cat sitting atop a wooden table, with a bird in front of it, surrounded by festive decorations and a tv playing holiday movies.
-instruction: Add a bird in front of the cat.
-taskid: 89220

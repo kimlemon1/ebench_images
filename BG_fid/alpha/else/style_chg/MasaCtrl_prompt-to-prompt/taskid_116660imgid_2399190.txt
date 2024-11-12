@@ -1,5 +1,0 @@
-org_img_id: 2399190
-org_cap: Posing person stands next to a small airplane, with a bright blue sky and a hangar in the background.
-trg_cap: A mosaic art depicts a posing person standing next to a small airplane, with a bright blue sky and a hangar in the background.
-instruction: Change the style if the image to mosaic art.
-taskid: 116660

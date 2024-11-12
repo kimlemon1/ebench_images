@@ -1,5 +1,0 @@
-org_img_id: 2350671
-org_cap: The clock face is a circular clock with roman numerals and intricate stone carvings surrounding it, set into the stone façade of a medieval church.
-trg_cap: The bear's face is a circular bear set into the stone façade of a medieval church.
-instruction: Replace the clock with a bear.
-taskid: 113779

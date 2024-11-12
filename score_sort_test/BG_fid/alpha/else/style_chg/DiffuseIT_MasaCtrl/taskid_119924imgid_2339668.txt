@@ -1,0 +1,5 @@
+org_img_id: 2339668
+org_cap: a person carries a black backpack.
+trg_cap: A graffiti art piece depicts a person carrying a black backpack.
+instruction: Change the style if the image to graffiti art.
+taskid: 119924

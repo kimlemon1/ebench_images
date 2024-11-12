@@ -1,5 +1,0 @@
-org_img_id: 2374644
-org_cap: "a person sits on a person with a red person above their head, shielding them from the person."
-trg_cap: In a living room, a person sits on a person with a red person above their head, shielding them from the person.
-instruction: Change the background to living room.
-taskid: 83317

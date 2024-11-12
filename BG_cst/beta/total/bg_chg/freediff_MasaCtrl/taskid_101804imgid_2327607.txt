@@ -1,5 +1,0 @@
-org_img_id: 2327607
-org_cap: The bus is a yellow, articulated bus with a flat front and a curved rear, featuring a large window and a door on the right side, illuminated by headlights and taillights, and surrounded by a concrete overpass.
-trg_cap: The bus is a yellow, articulated bus with a flat front and a curved rear, featuring a large window and a door on the right side, illuminated by headlights and taillights, and surrounded by a vineyard.
-instruction: Change the background to vineyard.
-taskid: 101804

@@ -1,5 +1,0 @@
-org_img_id: 2327436
-org_cap: a person with the sound of raindrops hitting the pavement and the distant hum of traffic in the background.
-trg_cap: a person with the sound of wind rustling through the desert sands and the distant call of a coyote in the background.
-instruction: Change the background to desert.
-taskid: 63198

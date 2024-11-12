@@ -1,5 +1,0 @@
-org_img_id: 2349548
-org_cap: a cup precariously balanced on the head of a sleepy golden retriever.
-trg_cap: A cup precariously balanced on the head of a sleepy golden retriever, who lay beside a large aquarium filled with colorful fish.
-instruction: Change the background to aquarium.
-taskid: 15753

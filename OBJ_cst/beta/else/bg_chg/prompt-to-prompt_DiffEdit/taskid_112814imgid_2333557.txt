@@ -1,5 +1,0 @@
-org_img_id: 2333557
-org_cap: a person in a black coat and red gloves holds a colorful kite with a red ribbon trailing behind it, flying high in the sky.
-trg_cap: In the aquarium, a person in a black coat and red gloves holds a colorful kite with a red ribbon trailing behind it, flying high in the sky.
-instruction: Change the background to aquarium.
-taskid: 112814

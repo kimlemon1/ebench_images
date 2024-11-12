@@ -1,5 +1,0 @@
-org_img_id: 2319436
-org_cap: a frail elderly woman lies in a hospital bed, wearing a pink nightgown and a hospital gown, with a tray of food in front of her, including a white cup.
-trg_cap: a frail elderly woman lies in a hospital bed, wearing a pink nightgown and a hospital gown, with a tray of food in front of her, including a blue cup.
-instruction: Change the color of the cup from white to blue.
-taskid: 114811

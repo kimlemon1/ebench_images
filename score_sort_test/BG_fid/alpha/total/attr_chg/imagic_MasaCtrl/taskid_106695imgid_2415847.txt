@@ -1,0 +1,5 @@
+org_img_id: 2415847
+org_cap: The blue motorcycle sits proudly against a backdrop of weathered garage doors and worn pavement.
+trg_cap: The red motorcycle sits proudly against a backdrop of weathered garage doors and worn pavement.
+instruction: Change the color of the motorcycle from blue to red.
+taskid: 106695

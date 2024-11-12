@@ -1,5 +1,0 @@
-org_img_id: 2349378
-org_cap: a jumping person, his skis bent at a sharp angle as he executes a daring trick on the snow-covered mountain.
-trg_cap: A graffiti art depicts a jumping person with his skis bent at a sharp angle as he executes a daring trick on the snow-covered mountain.
-instruction: Change the style if the image to graffiti art.
-taskid: 21747

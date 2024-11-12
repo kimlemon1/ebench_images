@@ -1,5 +1,0 @@
-org_img_id: 2361822
-org_cap: Person is on a green grassy field, wearing a yellow t-shirt and black sneakers, with a bright sun shining down and a yellow circle on their forehead.
-trg_cap: The small person is on a green grassy field, wearing a yellow t-shirt and black sneakers, with a bright sun shining down and a yellow circle on their forehead.
-instruction: Make the person smaller.
-taskid: 88434

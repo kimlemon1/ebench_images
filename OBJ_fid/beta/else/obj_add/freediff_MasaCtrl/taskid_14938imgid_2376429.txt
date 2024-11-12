@@ -1,5 +1,0 @@
-org_img_id: 2376429
-org_cap: a black cow on the lush green grass near a serene lake, its ears in the breeze as it on the sweet summer grass.
-trg_cap: a black cow on the lush green grass near a serene lake, its ears in the breeze as it on the sweet summer grass, with a horse standing behind it.
-instruction: Add a horse behind the cow.
-taskid: 14938

@@ -1,5 +1,0 @@
-org_img_id: 2376826
-org_cap: The clock tower stands tall and proud on the stone wall, its stone fade weathered to a warm beige, with a pointed roof and a large clock face at the top, surrounded by a blue sky with a few puffy white clouds.
-trg_cap: The clock tower stands tall and proud on the stone wall, its stone fade weathered to a warm beige, with a pointed roof and a large clock face at the top, surrounded by a blue sky with a few puffy white clouds, while an oven sits in front of the clock.
-instruction: Add a oven in front of the clock.
-taskid: 1339

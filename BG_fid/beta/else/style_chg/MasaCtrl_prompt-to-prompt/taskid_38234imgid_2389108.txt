@@ -1,5 +1,0 @@
-org_img_id: 2389108
-org_cap: a green train, with its green train and green train, glides smoothly along the green train, its green train clicking rhythmically as it approaches the green train.
-trg_cap: A cartoon-style art features a green train gliding smoothly along the tracks, its wheels clicking rhythmically as it approaches the station.
-instruction: Change the style if the image to cartoon style.
-taskid: 38234

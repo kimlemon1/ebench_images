@@ -1,5 +1,0 @@
-org_img_id: 2369645
-org_cap: The glazed chocolate donut sat on a crumpled paper towel, its sugary coating glistening in the morning light.
-trg_cap: The glazed chocolate donut sat on a crumpled paper towel on the coffee table, its sugary coating glistening in the morning light streaming through the living room window.
-instruction: Change the background to living room.
-taskid: 61193

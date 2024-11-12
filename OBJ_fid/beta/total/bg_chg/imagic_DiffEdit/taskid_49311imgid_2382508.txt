@@ -1,5 +1,0 @@
-org_img_id: 2382508
-org_cap: The fire hydrant is a tall, cylindrical structure with a bright red color and a distinctive pattern of small, white dots covering its surface, surrounded by a chain-link fence and some greenery.
-trg_cap: The fire hydrant is a tall, cylindrical structure with a bright red color and a distinctive pattern of small, white dots covering its surface, surrounded by a chain-link fence and some greenery, set against the backdrop of a sandy beach with the sound of waves crashing nearby.
-instruction: Change the background to beach.
-taskid: 49311

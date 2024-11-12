@@ -1,5 +1,0 @@
-org_img_id: 2354435
-org_cap: a white dog with black spots on a green lawn, surrounded by a frisbee and a few blades of grass.
-trg_cap: The graffiti art features a white dog with black spots on a green lawn, surrounded by a frisbee and a few blades of grass.
-instruction: Change the style if the image to graffiti art.
-taskid: 1465

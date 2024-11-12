@@ -1,5 +1,0 @@
-org_img_id: 2405518
-org_cap: The white stop sign is mounted on a pole at an angle.
-trg_cap: The mosaic art contains a white stop sign mounted on a pole at an angle.
-instruction: Change the style if the image to mosaic art.
-taskid: 86466

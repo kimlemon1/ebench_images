@@ -1,5 +1,0 @@
-org_img_id: 2332628
-org_cap: a teddy bear perched on a street sign, its soft fur fluffed out and its teddy bear eyes staring blankly into the distance.
-trg_cap: a large teddy bear perched on a street sign, its soft fur fluffed out and its teddy bear eyes staring blankly into the distance.
-instruction: Make the teddy bear larger.
-taskid: 113289

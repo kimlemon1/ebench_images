@@ -1,5 +1,0 @@
-org_img_id: 2396903
-org_cap: The scene is focused on a porcelain white sink with chrome faucet, surrounded by white tiles and a small mirror with a decorative frame, with a person in front of the sink.
-trg_cap: The scene is focused on a porcelain white sink with chrome faucet, surrounded by white tiles and a small mirror with a decorative frame, with a large person in front of the sink.
-instruction: Make the person larger.
-taskid: 77526

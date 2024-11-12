@@ -1,5 +1,0 @@
-org_img_id: 2376429
-org_cap: a black cow on the lush green grass near a serene lake, its ears in the breeze as it on the sweet summer grass.
-trg_cap: a black cow on the lush green grass near a serene lake, its ears in the breeze as it on the sweet summer grass, with a motorcycle next to it.
-instruction: Add a motorcycle next to the cow.
-taskid: 14942

@@ -1,5 +1,0 @@
-org_img_id: 2362031
-org_cap: a standing, black, sitting bird on a rocky outcropping, its feathers ruffled by the desert wind, its eyes with an air of quiet intelligence.
-trg_cap: a standing, small, black, sitting bird on a rocky outcropping, its feathers ruffled by the desert wind, its eyes with an air of quiet intelligence.
-instruction: Make the bird smaller.
-taskid: 26748

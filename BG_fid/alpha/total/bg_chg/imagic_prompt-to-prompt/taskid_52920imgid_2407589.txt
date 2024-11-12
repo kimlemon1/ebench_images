@@ -1,5 +1,0 @@
-org_img_id: 2407589
-org_cap: person holds a wine glass in his hand, wearing a bright orange hat and a warm smile.
-trg_cap: Person holds a wine glass in his hand, wearing a bright orange hat and a warm smile, standing by the lakeside.
-instruction: Change the background to lake side.
-taskid: 52920

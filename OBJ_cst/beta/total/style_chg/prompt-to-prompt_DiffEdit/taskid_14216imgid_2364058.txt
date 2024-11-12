@@ -1,5 +1,0 @@
-org_img_id: 2364058
-org_cap: the clock is a large, circular face with roman numerals and a decorative gold trim, suspended from a sturdy metal bracket attached to the exterior wall of a historic building.
-trg_cap: A Van Gogh style art piece features a large, circular clock with Roman numerals and a decorative gold trim, suspended from a sturdy metal bracket attached to the exterior wall of a historic building.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 14216

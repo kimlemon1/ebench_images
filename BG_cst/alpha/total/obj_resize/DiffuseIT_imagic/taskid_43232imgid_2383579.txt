@@ -1,5 +1,0 @@
-org_img_id: 2383579
-org_cap: the clock face is a intricate design featuring ornate gothic architecture with pointed arches and intricate stone carvings, centered around a large circular clock with roman numerals and delicate gold filigree.
-trg_cap: The clock face is a large intricate design featuring ornate gothic architecture with pointed arches and intricate stone carvings, centered around a large circular clock with roman numerals and delicate gold filigree.
-instruction: Make the clock larger.
-taskid: 43232

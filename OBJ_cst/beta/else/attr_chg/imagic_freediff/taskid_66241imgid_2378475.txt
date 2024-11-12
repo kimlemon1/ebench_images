@@ -1,5 +1,0 @@
-org_img_id: 2378475
-org_cap: a brown jumping dog.
-trg_cap: a gold jumping dog.
-instruction: Change the color of the dog from brown to gold.
-taskid: 66241

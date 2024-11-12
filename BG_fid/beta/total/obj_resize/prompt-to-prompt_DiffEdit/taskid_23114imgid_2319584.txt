@@ -1,5 +1,0 @@
-org_img_id: 2319584
-org_cap: a yellow apple, surrounded by a medley of juicy oranges, bananas, and other fruits.
-trg_cap: a small yellow apple, surrounded by a medley of juicy oranges, bananas, and other fruits.
-instruction: Make the apple smaller.
-taskid: 23114

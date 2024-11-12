@@ -1,5 +1,0 @@
-org_img_id: 2349423
-org_cap: The bouquet of daffodils fills a clear vase, their bright yellow petals and green stems arranged artfully amidst a bed of twigs and leaves on a stone windowsill.
-trg_cap: The bouquet of daffodils fills a clear vase, their bright yellow petals and green stems arranged artfully amidst a bed of twigs and leaves on a stone windowsill, with a couch situated to the right of the vase.
-instruction: Add a couch on the right side of the vase.
-taskid: 67169

@@ -1,5 +1,0 @@
-org_img_id: 2330660
-org_cap: The scene is a crowd of people watching a dog in a field.
-trg_cap: A Van Gogh style artwork depicts a scene of a crowd of people watching a dog in a field.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 11026

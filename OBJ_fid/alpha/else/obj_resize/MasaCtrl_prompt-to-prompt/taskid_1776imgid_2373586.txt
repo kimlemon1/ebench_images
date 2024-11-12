@@ -1,5 +1,0 @@
-org_img_id: 2373586
-org_cap: a rusty old truck, with a faded paint job and a cracked windshield, is parked on the rocky beach, its tires sinking into the sand as a lone figure in a worn denim jacket and scuffed boots wades into the choppy waters to retrieve a tangled fishing net.
-trg_cap: a small, rusty old truck, with a faded paint job and a cracked windshield, is parked on the rocky beach, its tires sinking into the sand as a lone figure in a worn denim jacket and scuffed boots wades into the choppy waters to retrieve a tangled fishing net.
-instruction: Make the truck smaller.
-taskid: 1776

@@ -1,5 +1,0 @@
-org_img_id: 2403060
-org_cap: a white horse a vintage tram filled with excited children and adults, while a little boy in a bright yellow shirt runs alongside, laughing and waving at the white horse.
-trg_cap: a beige horse a vintage tram filled with excited children and adults, while a little boy in a bright yellow shirt runs alongside, laughing and waving at the beige horse.
-instruction: Change the color of the horse from white to beige.
-taskid: 112957

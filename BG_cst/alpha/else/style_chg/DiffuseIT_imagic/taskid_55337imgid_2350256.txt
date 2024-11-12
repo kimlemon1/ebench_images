@@ -1,5 +1,0 @@
-org_img_id: 2350256
-org_cap: the bus is a white bus with a blue stripe running along its side, featuring a large window and a door with a handle.
-trg_cap: The mosaic art features a white bus with a blue stripe running along its side, a large window, and a door with a handle.
-instruction: Change the style if the image to mosaic art.
-taskid: 55337

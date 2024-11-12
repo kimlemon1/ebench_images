@@ -1,5 +1,0 @@
-org_img_id: 285818
-org_cap: the clock face on the tower of the church is a white clock with roman numerals and intricate carvings around the edges.
-trg_cap: The clock face on the tower of the church is a white clock with roman numerals and intricate carvings around the edges, with a bottle positioned in front of the clock.
-instruction: Add a bottle in front of the clock.
-taskid: 40642

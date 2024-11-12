@@ -1,5 +1,0 @@
-org_img_id: 2391039
-org_cap: "an baby elephant, its trunk curled around a large plastic bottle, the sun casting a warm glow over the rustic savannah landscape."
-trg_cap: A cartoon-style art features a baby elephant with its trunk curled around a large plastic bottle, as the sun casts a warm glow over the rustic savannah landscape.
-instruction: Change the style if the image to cartoon style.
-taskid: 68299

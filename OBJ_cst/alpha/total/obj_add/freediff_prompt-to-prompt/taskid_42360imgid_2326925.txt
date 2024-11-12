@@ -1,5 +1,0 @@
-org_img_id: 2326925
-org_cap: a skateboard with worn-out wheels and a faded graphic on the skateboard glides through the circular concrete bowl, its trucks spinning as it approaches the edge.
-trg_cap: A skateboard with worn-out wheels and a faded graphic on the skateboard glides through the circular concrete bowl, its trucks spinning as it approaches the edge, while a motorcycle is on the left side of the skateboard.
-instruction: Add a motorcycle on the left side of the skateboard.
-taskid: 42360

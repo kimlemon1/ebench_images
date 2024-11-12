@@ -1,5 +1,0 @@
-org_img_id: 2354491
-org_cap: A rusty bicycle leans against a weathered brick wall, its chrome handlebars gleaming in the sunlight, surrounded by a scattering of autumn leaves and a few forgotten cigarette butts.
-trg_cap: A pencil sketch art depicts a rusty bicycle leaning against a weathered brick wall, its chrome handlebars gleaming in the sunlight, surrounded by a scattering of autumn leaves and a few forgotten cigarette butts.
-instruction: Change the style if the image to pencil sketch.
-taskid: 25483

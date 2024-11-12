@@ -1,5 +1,0 @@
-org_img_id: 2354407
-org_cap: a walking cow on the beach, its ears in the sea breeze as it on the salty grass.
-trg_cap: The pop art style artwork features a walking cow on the beach, its ears catching the sea breeze as it moves on the salty grass.
-instruction: Change the style if the image to pop art style.
-taskid: 94775

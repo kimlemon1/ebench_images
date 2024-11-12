@@ -1,5 +1,0 @@
-org_img_id: 1178
-org_cap: The microwave sits on the counter, its stainless steel exterior gleaming in the morning light.
-trg_cap: The microwave sits on the counter, its stainless steel exterior gleaming in the morning light, with a banana resting on top.
-instruction: Add a banana on the microwave.
-taskid: 54145

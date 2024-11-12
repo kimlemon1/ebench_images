@@ -1,5 +1,0 @@
-org_img_id: 2376226
-org_cap: a brown cow down a dusty street lined with colorful buildings and brick walls.
-trg_cap: A grey scale photo shows a brown cow walking down a dusty street lined with colorful buildings and brick walls.
-instruction: Change the style if the image to grey scale.
-taskid: 77378

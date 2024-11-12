@@ -1,5 +1,0 @@
-org_img_id: 2320082
-org_cap: An old wooden boat lies beached on the shore, its wooden hull cracked and faded, its once-sturdy ropes now frayed and tangled, with a patch of green grass growing around its weathered wooden legs.
-trg_cap: An old woodeden boat lies beached on the shore, its woodeden hull cracked and faded, its once-sturdy ropes now frayed and tangled, with a patch of green grass growing around its weathered woodeden legs.
-instruction: Change the material of the boat from wood to wooded.
-taskid: 73893

@@ -1,5 +1,0 @@
-org_img_id: 2387910
-org_cap: A white, flying bird flies over a misty and serene lake, its wings beating as it glides across the water, leaving a trail of ripples in its wake.
-trg_cap: A white, flying bird flies over a misty and serene lake, its wings beating as it glides across the water, leaving a trail of ripples in its wake, while a sheep stands on the left side of the bird.
-instruction: Add a sheep on the left side of the bird.
-taskid: 57403

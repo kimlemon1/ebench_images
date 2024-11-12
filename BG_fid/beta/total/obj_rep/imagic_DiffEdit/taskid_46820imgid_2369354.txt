@@ -1,5 +1,0 @@
-org_img_id: 2369354
-org_cap: "a surfing person rides a surfboard as surfing persons and surfing persons fill the background."
-trg_cap: A dog rides a surfboard as dogs and they fill the background.
-instruction: Replace the person with a dog.
-taskid: 46820

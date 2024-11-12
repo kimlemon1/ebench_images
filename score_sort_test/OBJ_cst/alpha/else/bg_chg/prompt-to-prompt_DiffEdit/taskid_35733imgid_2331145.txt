@@ -1,0 +1,5 @@
+org_img_id: 2331145
+org_cap: A young person along the beach, a bright green surfboard.
+trg_cap: A young person from the gym along the beach, a bright green surfboard.
+instruction: Change the background to gym.
+taskid: 35733

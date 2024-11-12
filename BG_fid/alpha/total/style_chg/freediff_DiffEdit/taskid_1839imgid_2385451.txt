@@ -1,5 +1,0 @@
-org_img_id: 2385451
-org_cap: a white, walking cow across the sandy beach, its hooves in the warm sand.
-trg_cap: A watercolor painting style art depicts a white cow walking across the sandy beach, its hooves in the warm sand.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 1839

@@ -1,5 +1,0 @@
-org_img_id: 2320293
-org_cap: a small, blonde child sits at a table, staring longingly at a bowl of peas and carrots in front of them, their hand reaching out to grab a silver spoon.
-trg_cap: a small, blonde child sits at a table, staring longingly at a bowl of peas and carrots in front of them, their hand reaching out to grab a red spoon.
-instruction: Change the color of the spoon from silver to red.
-taskid: 120398

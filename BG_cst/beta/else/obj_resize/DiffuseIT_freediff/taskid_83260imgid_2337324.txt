@@ -1,5 +1,0 @@
-org_img_id: 2337324
-org_cap: a white dog out of a car window.
-trg_cap: a large white dog out of a car window.
-instruction: Make the dog larger.
-taskid: 83260

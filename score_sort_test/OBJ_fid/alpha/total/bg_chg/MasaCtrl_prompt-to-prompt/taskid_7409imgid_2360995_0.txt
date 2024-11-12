@@ -1,0 +1,5 @@
+org_img_id: 2360995_0
+org_cap: a young person in a white t-shirt with the words "class of 2019" printed on the back stands alone near a body of water, at a bird wading in the shallow water.
+trg_cap: A young person in a white t-shirt with the words "class of 2019" printed on the back stands alone near a body of water, at a bird wading in the shallow water, with the distant sounds of a concert hall in the background.
+instruction: Change the background to concert hall.
+taskid: 7409

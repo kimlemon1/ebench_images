@@ -1,5 +1,0 @@
-org_img_id: 2342900
-org_cap: a brown dog with a tail and ears stands on the sidewalk, looking up at its owners, a person and a person, who are standing on the corner of a street, waiting for the light to change.
-trg_cap: a large brown dog with a tail and ears stands on the sidewalk, looking up at its owners, a person and a person, who are standing on the corner of a street, waiting for the light to change.
-instruction: Make the dog larger.
-taskid: 20424

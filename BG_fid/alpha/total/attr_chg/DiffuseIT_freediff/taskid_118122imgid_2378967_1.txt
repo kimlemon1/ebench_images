@@ -1,5 +1,0 @@
-org_img_id: 2378967_1
-org_cap: a running brown dog, its paws in the foamy water.
-trg_cap: a running light brown dog, its paws in the foamy water.
-instruction: Change the color of the dog from brown to light brown.
-taskid: 118122

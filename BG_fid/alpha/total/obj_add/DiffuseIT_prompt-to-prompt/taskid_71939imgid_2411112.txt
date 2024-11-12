@@ -1,5 +1,0 @@
-org_img_id: 2411112
-org_cap: a walking, standing giraffe stands, its neck and legs visible as it through a dense forest filled with tall trees and lush green grass.
-trg_cap: a walking, standing giraffe stands, its neck and legs visible as it through a dense forest filled with tall trees and lush green grass, with a traffic light on its right side.
-instruction: Add a traffic light on the right side of the giraffe.
-taskid: 71939

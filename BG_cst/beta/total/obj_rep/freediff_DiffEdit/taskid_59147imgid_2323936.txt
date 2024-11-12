@@ -1,5 +1,0 @@
-org_img_id: 2323936
-org_cap: A skateboarder leaps off a concrete wall, his skateboard flying off his feet as he attempts a trick, his legs splayed in mid-air as he struggles to regain control.
-trg_cap: A spooner leaps off a concrete wall, their legs splayed in mid-air as they struggle to regain control.
-instruction: Replace the skateboard with a spoon.
-taskid: 59147

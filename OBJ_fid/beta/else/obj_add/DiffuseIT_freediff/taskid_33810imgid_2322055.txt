@@ -1,5 +1,0 @@
-org_img_id: 2322055
-org_cap: a person in a backpack, a no-parking sign and a row of parked cars.
-trg_cap: a cat in front of a backpack, a person in a backpack, a no-parking sign and a row of parked cars.
-instruction: Add a cat in front of the backpack.
-taskid: 33810

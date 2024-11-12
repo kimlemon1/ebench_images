@@ -1,0 +1,5 @@
+org_img_id: 2414437
+org_cap: a young woman lies on a bed, surrounded by a psychedelic wallpaper featuring geometric shapes and white cats, with a beside her.
+trg_cap: A pop art style artwork features a young woman lying on a bed, surrounded by psychedelic wallpaper with geometric shapes and white cats beside her.
+instruction: Change the style if the image to pop art style.
+taskid: 15068

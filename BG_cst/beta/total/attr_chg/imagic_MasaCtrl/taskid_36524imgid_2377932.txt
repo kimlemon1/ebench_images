@@ -1,5 +1,0 @@
-org_img_id: 2377932
-org_cap: a white dog on a rainy day, wearing a collar and a hat, while a person in a gray t-shirt and jeans sat next to him on a bench, both of them gazing up at the rain-soaked sky.
-trg_cap: a orange dog on a rainy day, wearing a collar and a hat, while a person in a gray t-shirt and jeans sat next to him on a bench, both of them gazing up at the rain-soaked sky.
-instruction: Change the color of the dog from white to orange.
-taskid: 36524

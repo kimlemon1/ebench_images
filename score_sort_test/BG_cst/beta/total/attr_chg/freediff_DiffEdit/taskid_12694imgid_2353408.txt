@@ -1,0 +1,5 @@
+org_img_id: 2353408
+org_cap: a bearded man sits astride a black horse, its mane and tail as it in a circular motion, its eyes with a fierce intensity.
+trg_cap: a bearded man sits astride a light brown horse, its mane and tail as it in a circular motion, its eyes with a fierce intensity.
+instruction: Change the color of the horse from black to light brown.
+taskid: 12694

@@ -1,5 +1,0 @@
-org_img_id: 713908
-org_cap: The microwave sits on a countertop, its stainless steel exterior gleaming in the morning light, with a small door and a digital display panel above it.
-trg_cap: The large microwave sits on a countertop, its stainless steel exterior gleaming in the morning light, with a small door and a digital display panel above it.
-instruction: Make the microwave larger.
-taskid: 117976

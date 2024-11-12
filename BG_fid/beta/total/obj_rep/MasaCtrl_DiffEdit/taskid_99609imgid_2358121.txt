@@ -1,5 +1,0 @@
-org_img_id: 2358121
-org_cap: a red double-decker bus travels down the street, passing by a construction site with cranes and scaffolding, while a modern glass skyscraper rises in the background.
-trg_cap: "the refrigerator, passing by a construction site with cranes and scaffolding, while a modern glass skyscraper rises in the background."
-instruction: Replace the bus with a refrigerator.
-taskid: 99609

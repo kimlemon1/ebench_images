@@ -1,5 +1,0 @@
-org_img_id: 2608
-org_cap: a small trailer park with a mix of old and newer mobile homes, including a worn-out truck parked in front of a weathered trailer with a patchwork of colors and a rusty truck parked nearby.
-trg_cap: A small trailer park with a mix of old and newer mobile homes, including a worn-out traffic light parked in front of a weathered trailer with a patchwork of colors.
-instruction: Replace the car with a traffic light.
-taskid: 31173

@@ -1,5 +1,0 @@
-org_img_id: 2369068
-org_cap: The kitchen features a white refrigerator.
-trg_cap: An ancient Egyptian-style artwork features a kitchen with a white refrigerator.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 1827

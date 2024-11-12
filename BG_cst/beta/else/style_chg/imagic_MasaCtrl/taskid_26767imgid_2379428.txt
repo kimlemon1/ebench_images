@@ -1,5 +1,0 @@
-org_img_id: 2379428
-org_cap: a white plate with a slice of bread, a fork, and a white cup sit on a table, surrounded by a napkin and a few crumbs.
-trg_cap: The pop art style artwork features a white plate with a slice of bread, a fork, and a white cup on a table, surrounded by a napkin and a few crumbs.
-instruction: Change the style if the image to pop art style.
-taskid: 26767

@@ -1,5 +1,0 @@
-org_img_id: 2328865
-org_cap: A person on a red bicycle, wearing a striped shirt and a green hat, with oversized jeans and red shoes.
-trg_cap: The graffiti art depicts a person on a red bicycle, wearing a striped shirt, a green hat, oversized jeans, and red shoes.
-instruction: Change the style if the image to graffiti art.
-taskid: 72433

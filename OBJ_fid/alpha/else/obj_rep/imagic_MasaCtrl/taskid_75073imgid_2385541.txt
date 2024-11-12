@@ -1,5 +1,0 @@
-org_img_id: 2385541
-org_cap: A black bear stands in a green meadow, its fur shiny and its eyes.
-trg_cap: A black bench stands in a green meadow.
-instruction: Replace the bear with a bench.
-taskid: 75073

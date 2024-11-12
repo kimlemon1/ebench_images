@@ -1,5 +1,0 @@
-org_img_id: 2356277
-org_cap: a standing person in a worn-out bathrobe and slippers in a small, outdated bathroom with worn-out tiles and a single window.
-trg_cap: A standing person in a worn-out bathrobe and slippers in a small, outdated bathroom with worn-out tiles and a single window overlooking a lush tropical jungle.
-instruction: Change the background to tropical jungle.
-taskid: 65638

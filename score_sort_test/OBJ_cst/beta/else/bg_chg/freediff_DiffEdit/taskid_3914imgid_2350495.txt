@@ -1,0 +1,5 @@
+org_img_id: 2350495
+org_cap: person a pitch in the top of the 7th inning.
+trg_cap: Person A pitched in the top of the 7th inning, after enjoying a hearty meal at their favorite restaurant.
+instruction: Change the background to restaurant.
+taskid: 3914

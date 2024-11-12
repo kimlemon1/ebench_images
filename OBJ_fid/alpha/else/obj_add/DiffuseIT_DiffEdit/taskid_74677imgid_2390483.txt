@@ -1,5 +1,0 @@
-org_img_id: 2390483
-org_cap: a fluffy dog with a brown coat and white patches on the grass, a frisbee in its mouth.
-trg_cap: a fluffy dog with a brown coat and white patches on the grass, a frisbee in its mouth, and a bottle in front of it.
-instruction: Add a bottle in front of the dog.
-taskid: 74677

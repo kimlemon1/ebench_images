@@ -1,5 +1,0 @@
-org_img_id: 2321631
-org_cap: a young person holds a slice of pizza in her hand, her fingers stained with tomato sauce and melted mozzarella cheese.
-trg_cap: A young person holds a slice of snowboard in their hand.
-instruction: Replace the pizza with a snowboard.
-taskid: 4174

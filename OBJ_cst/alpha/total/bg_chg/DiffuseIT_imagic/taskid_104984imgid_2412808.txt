@@ -1,5 +1,0 @@
-org_img_id: 2412808
-org_cap: Person on a kitchen counter, wearing a blue vest and a swaddled baby in her arms, with a worn-out kitchen table and chairs in the background.
-trg_cap: Person on a kitchen counter, wearing a blue vest and a swaddled baby in her arms, with a bustling train station in the background.
-instruction: Change the background to train station.
-taskid: 104984

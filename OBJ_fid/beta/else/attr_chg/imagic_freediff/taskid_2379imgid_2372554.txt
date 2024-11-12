@@ -1,5 +1,0 @@
-org_img_id: 2372554
-org_cap: person rides a white surfboard, his blue rash guard glistening with water droplets.
-trg_cap: person rides a light blue surfboard, his blue rash guard glistening with water droplets.
-instruction: Change the color of the surfboard from white to light blue.
-taskid: 2379

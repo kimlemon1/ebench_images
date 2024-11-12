@@ -1,5 +1,0 @@
-org_img_id: 2318890
-org_cap: A brown dog sat in the back of a truck.
-trg_cap: A skateboard sat in the back of the truck.
-instruction: Replace the dog with a skateboard.
-taskid: 57260

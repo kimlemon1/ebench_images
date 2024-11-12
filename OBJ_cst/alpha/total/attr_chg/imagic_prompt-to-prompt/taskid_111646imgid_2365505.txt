@@ -1,5 +1,0 @@
-org_img_id: 2365505
-org_cap: A brown dog stands by a dock, its ears in the wind.
-trg_cap: A gray dog stands by a dock, its ears in the wind.
-instruction: Change the color of the dog from brown to gray.
-taskid: 111646

@@ -1,5 +1,0 @@
-org_img_id: 2414210
-org_cap: Smiling snowboarding person is a person with a jacket and pants, goggles and a helmet.
-trg_cap: Smiling snowboarding person is a person with a jacket and pants, goggles and a helmet, who likely maintains their fitness in a gym.
-instruction: Change the background to gym.
-taskid: 116920

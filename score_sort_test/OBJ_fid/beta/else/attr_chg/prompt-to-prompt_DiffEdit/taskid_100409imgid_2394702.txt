@@ -1,0 +1,5 @@
+org_img_id: 2394702
+org_cap: A striped, staring zebra stands in a grassy clearing, with a few acacia trees and a rocky outcropping in the background.
+trg_cap: A beige, staring zebra stands in a grassy clearing, with a few acacia trees and a rocky outcropping in the background.
+instruction: Change the color of the zebra from striped to beige.
+taskid: 100409

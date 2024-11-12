@@ -1,5 +1,0 @@
-org_img_id: 2409002
-org_cap: A red skateboard lies flat on the ground, its wheels gleaming in the sunlight, with a pair of brown legs standing slightly bent in front of it.
-trg_cap: The pop art style artwork features a red skateboard lying flat on the ground, its wheels gleaming in the sunlight, with a pair of brown legs standing slightly bent in front of it.
-instruction: Change the style if the image to pop art style.
-taskid: 40461

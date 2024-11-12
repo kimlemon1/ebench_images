@@ -1,0 +1,5 @@
+org_img_id: 2409230
+org_cap: sitting person at a table, and a black cell phone in his hand.
+trg_cap: An ancient Egyptian-style artwork depicts a person sitting at a table holding a black cell phone.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 68144

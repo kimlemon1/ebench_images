@@ -1,5 +1,0 @@
-org_img_id: 2327971
-org_cap: A white cow is being ridden by a person wearing a white shirt and pants, sitting on a wooden cart pulled by the cow along a city road.
-trg_cap: A white cow is being ridden by a person wearing a white shirt and pants, sitting on a wooden cart pulled by the cow along a city road, passing by a gym.
-instruction: Change the background to gym.
-taskid: 13906

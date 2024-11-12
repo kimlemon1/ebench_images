@@ -1,5 +1,0 @@
-org_img_id: 2355603
-org_cap: a majestic elephant with a vibrant red and gold tusked headpiece and a sturdy wooden yoke around its neck, its tusks worn and weathered, its ears as a person walks alongside it.
-trg_cap: A majestic elephant with a vibrant red and gold tusked headpiece and a sturdy wooden yoke around its neck, its tusks worn and weathered, its ears as a person walks alongside it, moves gracefully across a lush grass field.
-instruction: Change the background to grass field.
-taskid: 54040

@@ -1,5 +1,0 @@
-org_img_id: 2412992
-org_cap: The clock tower features a weather vane in the shape of a bird on top, with a white face below.
-trg_cap: The clock tower features a weather vane in the shape of a bird on top, with a white face below, and a bench located next to the clock.
-instruction: Add a bench next to the clock.
-taskid: 15319

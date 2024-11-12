@@ -1,5 +1,0 @@
-org_img_id: 2377236
-org_cap: The scene shows a person holding a silver spoon over a roasting turkey in a baking dish, with a tray of foil and a kitchen background.
-trg_cap: The scene shows someone holding a tie over a roasting turkey in a baking dish, with a tray of foil and a kitchen background.
-instruction: Replace the spoon with a tie.
-taskid: 39492

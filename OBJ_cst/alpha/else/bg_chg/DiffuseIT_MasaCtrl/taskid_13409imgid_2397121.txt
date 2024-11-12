@@ -1,5 +1,0 @@
-org_img_id: 2397121
-org_cap: a large grizzly bear, its fur soaked and matted, its eyes fixed intently on something in the distance, its ears perked up and its snout, its massive paws in the bear.
-trg_cap: A large grizzly bear, its fur soaked and matted, its eyes fixed intently on something in the distance, its ears perked up and its snout, its massive paws in the bear, appeared as an unexpected holographic projection in the space station.
-instruction: Change the background to space station.
-taskid: 13409

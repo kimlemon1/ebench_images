@@ -1,5 +1,0 @@
-org_img_id: 2411286
-org_cap: a pink frosted donut with sprinkles sits on a white plate, next to a cup of coffee.
-trg_cap: An ancient Egyptian-style artwork features a pink frosted donut with sprinkles sitting on a white plate next to a cup of coffee.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 61061

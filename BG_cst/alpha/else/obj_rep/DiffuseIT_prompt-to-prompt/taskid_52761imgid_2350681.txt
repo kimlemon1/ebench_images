@@ -1,5 +1,0 @@
-org_img_id: 2350681
-org_cap: A commercial airplane is seen landing on the runway, its wheels screeching as it touches down on the wet tarmac, surrounded by a flock of seagulls flying overhead in the misty morning air.
-trg_cap: A commercial sink is seen, surrounded by a flock of seagulls flying overhead in its misty morning air.
-instruction: Replace the airplane with a sink.
-taskid: 52761

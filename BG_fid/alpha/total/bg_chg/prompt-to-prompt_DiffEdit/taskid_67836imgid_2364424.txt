@@ -1,5 +1,0 @@
-org_img_id: 2364424
-org_cap: a young person wearing a blue hat and a blue shirt, with a blue skateboard, is standing on a paved road along the waterfront, with a shadow cast behind him.
-trg_cap: A young person wearing a blue hat and a blue shirt, with a blue skateboard, is standing on a paved road along the waterfront, with a shadow cast behind him, near a bustling waterfront restaurant.
-instruction: Change the background to restaurant.
-taskid: 67836

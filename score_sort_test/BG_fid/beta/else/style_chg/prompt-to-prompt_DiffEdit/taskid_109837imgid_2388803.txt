@@ -1,0 +1,5 @@
+org_img_id: 2388803
+org_cap: the young person wears a white helmet with a green stripe, a pair of elbow pads, and a shirt with pants.
+trg_cap: An ancient Egyptian-style artwork depicts a young person wearing a white helmet with a green stripe, a pair of elbow pads, and a shirt with pants.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 109837

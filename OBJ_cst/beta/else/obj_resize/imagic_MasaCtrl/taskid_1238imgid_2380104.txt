@@ -1,5 +1,0 @@
-org_img_id: 2380104
-org_cap: a juicy turkey sandwich, piled high with crispy bacon, melted cheddar cheese, and fresh lettuce, served on a toasted sandwich with a side of crispy fries.
-trg_cap: a large, juicy turkey sandwich, piled high with crispy bacon, melted cheddar cheese, and fresh lettuce, served on a toasted sandwich with a side of crispy fries.
-instruction: Make the sandwich larger.
-taskid: 1238

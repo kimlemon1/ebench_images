@@ -1,5 +1,0 @@
-org_img_id: 2335744
-org_cap: A green bus navigates the elevated bridge over a city street, its wheels humming on the asphalt as it approaches the intersection with a traffic light.
-trg_cap: A green bus navigates the elevated bridge over a city street, its wheels humming on the asphalt as it approaches the intersection with a traffic light, with a bicycle securely fastened to the front rack.
-instruction: Add a bicycle on the bus.
-taskid: 57446

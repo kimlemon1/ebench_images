@@ -1,5 +1,0 @@
-org_img_id: 2361858
-org_cap: "Person on a bed, wearing a purple and blue striped shirt and glasses, with an open black laptop in front of him."
-trg_cap: Person on a bed, wearing a purple and blue striped shirt and glasses, with an open small black laptop in front of him.
-instruction: Make the laptop smaller.
-taskid: 122227

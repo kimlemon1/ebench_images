@@ -1,0 +1,5 @@
+org_img_id: 2405678
+org_cap: the vintage bus, with its old-fashioned headlights and rusty exterior, rumbles down the street, its worn tires screeching against the wet pavement.
+trg_cap: the small vintage bus, with its old-fashioned headlights and rusty exterior, rumbles down the street, its worn tires screeching against the wet pavement.
+instruction: Make the bus smaller.
+taskid: 25604

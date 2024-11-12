@@ -1,5 +1,0 @@
-org_img_id: 2400376
-org_cap: The necktie is an orange pattern.
-trg_cap: The necktie, reminiscent of the vibrant energy often found in a gym, is an orange pattern.
-instruction: Change the background to gym.
-taskid: 6273

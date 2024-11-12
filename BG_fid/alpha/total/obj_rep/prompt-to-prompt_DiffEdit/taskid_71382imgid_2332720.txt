@@ -1,5 +1,0 @@
-org_img_id: 2332720
-org_cap: a white dog with a vest and a toy clutched in its jaws is across a stone patio, its legs as it after a black skateboard.
-trg_cap: A white scissors is across a stone patio, their legs as they after a black skateboard.
-instruction: Replace the dog with a scissors.
-taskid: 71382

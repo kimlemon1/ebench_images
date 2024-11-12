@@ -1,5 +1,0 @@
-org_img_id: 2343623
-org_cap: the black shirt with a blue necktie around his neck.
-trg_cap: The black horse.
-instruction: Replace the tie with a horse.
-taskid: 64512

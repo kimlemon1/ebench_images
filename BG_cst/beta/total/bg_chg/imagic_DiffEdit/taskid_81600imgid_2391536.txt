@@ -1,5 +1,0 @@
-org_img_id: 2391536
-org_cap: a person holds a sliced white cake and takes a slice from a cake.
-trg_cap: In a concert hall, a person holds a sliced white cake and takes a slice from a cake.
-instruction: Change the background to concert hall.
-taskid: 81600

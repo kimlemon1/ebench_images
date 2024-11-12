@@ -1,5 +1,0 @@
-org_img_id: 2413254
-org_cap: The clock face is a striking feature of the station, with its intricate details and ornate design, featuring a large circular clock face with roman numerals and a subtle glow emanating from within.
-trg_cap: The clock face is a striking feature of the station, with its intricate details and ornate design, featuring a small circular clock face with roman numerals and a subtle glow emanating from within.
-instruction: Make the clock smaller.
-taskid: 86759

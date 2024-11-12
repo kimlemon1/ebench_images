@@ -1,5 +1,0 @@
-org_img_id: 2403428
-org_cap: the tower stood tall amidst a winter wonderland of twinkling lights, snowflakes gently falling from the ceiling, and a giant snowman wearing a festive hat and scarf, surrounded by fluffy white clouds, a yellow clock, and rustic wooden beams.
-trg_cap: The tower stood tall amidst a winter wonderland of twinkling lights, snowflakes gently falling from the ceiling, and a giant snowman wearing a festive hat and scarf, surrounded by fluffy white clouds, a yellow clock with a cat underneath, and rustic wooden beams.
-instruction: Add a cat under the clock.
-taskid: 41218

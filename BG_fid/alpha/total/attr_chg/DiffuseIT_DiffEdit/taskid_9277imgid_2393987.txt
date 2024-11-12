@@ -1,5 +1,0 @@
-org_img_id: 2393987
-org_cap: blue motorcycle, person, his helmet and gloves a blur.
-trg_cap: pink motorcycle, person, his helmet and gloves a blur.
-instruction: Change the color of the motorcycle from blue to pink.
-taskid: 9277

@@ -1,5 +1,0 @@
-org_img_id: 2189
-org_cap: The narrow kitchen features a white refrigerator and a wooden cabinet above it.
-trg_cap: The narrow kitchen features a chair and a wooden cabinet above the chair.
-instruction: Replace the refrigerator with a chair.
-taskid: 109297

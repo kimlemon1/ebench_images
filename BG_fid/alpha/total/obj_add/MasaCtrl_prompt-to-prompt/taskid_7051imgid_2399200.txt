@@ -1,5 +1,0 @@
-org_img_id: 2399200
-org_cap: a person rode a bicycle with a blue umbrella held above their head, providing shade from the sun.
-trg_cap: A person rode a bicycle with a blue umbrella held above their head, providing shade from the sun, with a bench located next to the umbrella.
-instruction: Add a bench next to the umbrella.
-taskid: 7051

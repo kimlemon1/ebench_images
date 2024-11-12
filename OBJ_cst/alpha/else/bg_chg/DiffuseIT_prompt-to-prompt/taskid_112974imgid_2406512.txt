@@ -1,5 +1,0 @@
-org_img_id: 2406512
-org_cap: silhouette of an airplane flying in the sky at sunset
-trg_cap: silhouette of an airplane flying in the sky at sunset, as seen from the rooftop restaurant.
-instruction: Change the background to restaurant.
-taskid: 112974

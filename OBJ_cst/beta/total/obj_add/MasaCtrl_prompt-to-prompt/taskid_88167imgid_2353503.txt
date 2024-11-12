@@ -1,5 +1,0 @@
-org_img_id: 2353503
-org_cap: a lone person stands on a barren, dusty landscape, wearing a worn-out t-shirt and faded jeans, with a worn-out backpack over their shoulder, at a desolate, crumbling cityscape in the distance.
-trg_cap: A lone person stands on a barren, dusty landscape, wearing a worn-out t-shirt and faded jeans, with a worn-out backpack over their shoulder, a horse standing in front of them, at a desolate, crumbling cityscape in the distance.
-instruction: Add a horse in front of the person.
-taskid: 88167

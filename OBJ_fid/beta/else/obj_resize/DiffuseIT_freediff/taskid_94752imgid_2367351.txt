@@ -1,5 +1,0 @@
-org_img_id: 2367351
-org_cap: a person in a gray cape and boots is a dog on a leash.
-trg_cap: a small person in a gray cape and boots is a dog on a leash.
-instruction: Make the person smaller.
-taskid: 94752

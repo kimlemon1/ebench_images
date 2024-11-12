@@ -1,5 +1,0 @@
-org_img_id: 2329632
-org_cap: A red pizza sits on a plate, its crust and charred, topped with a medley of ingredients including cheese, tomatoes, and basil leaves.
-trg_cap: A yellow pizza sits on a plate, its crust and charyellow, topped with a medley of ingyellowients including cheese, tomatoes, and basil leaves.
-instruction: Change the color of the pizza from red to yellow.
-taskid: 37471

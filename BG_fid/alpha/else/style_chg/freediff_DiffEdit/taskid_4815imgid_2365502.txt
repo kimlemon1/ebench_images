@@ -1,5 +1,0 @@
-org_img_id: 2365502
-org_cap: A standing, young, blond, smiling person in a white tennis outfit holds a tennis racket on a lush green tennis court, playing.
-trg_cap: A pencil sketch depicts a young, blond, smiling person in a white tennis outfit holding a tennis racket on a lush green tennis court.
-instruction: Change the style if the image to pencil sketch.
-taskid: 4815

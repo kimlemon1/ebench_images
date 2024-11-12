@@ -1,0 +1,5 @@
+org_img_id: 2412024
+org_cap: A porcelain white glass bowl sits on a wooden table, filled with a variety of colorful fruits including apples, oranges, and grapes.
+trg_cap: A porcelain white paper bowl sits on a wooden table, filled with a variety of colorful fruits including apples, oranges, and grapes.
+instruction: Change the material of the bowl from glass to paper.
+taskid: 99640

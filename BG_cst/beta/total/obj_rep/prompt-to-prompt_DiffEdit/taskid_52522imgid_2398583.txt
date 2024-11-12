@@ -1,5 +1,0 @@
-org_img_id: 2398583
-org_cap: "a large brown bear emerges from a patch of alpine flowers, bear fur matted and dusty, bear eyes scanning the terrain for signs of food or shelter."
-trg_cap: A large brown sports ball emerges from a patch of alpine flowers, its eyes scanning the terrain for signs of food or shelter.
-instruction: Replace the bear with a sports ball.
-taskid: 52522

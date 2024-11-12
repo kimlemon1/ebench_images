@@ -1,5 +1,0 @@
-org_img_id: 2340806
-org_cap: a large clock face is mounted on a rectangular sign with the logo of key bank, surrounded by a blue and white striped border, situated on a stone wall with a plane flying overhead.
-trg_cap: A large clock face is mounted on a rectangular sign with the logo of Key Bank, surrounded by a blue and white striped border, with a backpack on the left side of the clock, situated on a stone wall with a plane flying overhead.
-instruction: Add a backpack on the left side of the clock.
-taskid: 16046

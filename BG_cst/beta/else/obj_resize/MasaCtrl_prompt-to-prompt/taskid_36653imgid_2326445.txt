@@ -1,5 +1,0 @@
-org_img_id: 2326445
-org_cap: a rider on a brown horse along the beach, the sound of the waves crashing against the shore and the distant hum of industrial activity in the background.
-trg_cap: a rider on a large brown horse along the beach, the sound of the waves crashing against the shore and the distant hum of industrial activity in the background.
-instruction: Make the horse larger.
-taskid: 36653

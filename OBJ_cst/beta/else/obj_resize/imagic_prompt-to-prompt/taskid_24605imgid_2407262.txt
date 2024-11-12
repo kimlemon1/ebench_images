@@ -1,5 +1,0 @@
-org_img_id: 2407262
-org_cap: A yellow fire hydrant stands on the corner of a street, its yellow fire hydrant adorned with a cap and a logo in the center.
-trg_cap: A small yellow fire hydrant stands on the corner of a street, its yellow fire hydrant adorned with a cap and a logo in the center.
-instruction: Make the fire hydrant smaller.
-taskid: 24605

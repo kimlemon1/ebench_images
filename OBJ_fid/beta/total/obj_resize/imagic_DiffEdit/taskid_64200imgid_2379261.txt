@@ -1,5 +1,0 @@
-org_img_id: 2379261
-org_cap: person throws a frisbee, his arm and his wrist as the disc soars through the air.
-trg_cap: A large person throws a frisbee, his arm and his wrist as the disc soars through the air.
-instruction: Make the person larger.
-taskid: 64200

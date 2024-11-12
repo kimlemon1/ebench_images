@@ -1,0 +1,5 @@
+org_img_id: 2376391
+org_cap: a brown dog on the stone pavement, surrounded by empty bottles, crumpled up papers, and a battered top hat.
+trg_cap: The graffiti art depicts a brown dog on the stone pavement, surrounded by empty bottles, crumpled up papers, and a battered top hat.
+instruction: Change the style if the image to graffiti art.
+taskid: 35656

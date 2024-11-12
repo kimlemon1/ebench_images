@@ -1,5 +1,0 @@
-org_img_id: 2350098
-org_cap: person's surfboard crashes into the water, sending spray as he in a burst of blue and yellow.
-trg_cap: The person's surfboard crashes into the water, sending spray as he in a burst of blue and yellow, with the lush green vineyards stretching out in the background.
-instruction: Change the background to vineyard.
-taskid: 62490

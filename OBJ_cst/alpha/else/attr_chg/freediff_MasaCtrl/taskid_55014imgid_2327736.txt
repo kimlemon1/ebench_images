@@ -1,5 +1,0 @@
-org_img_id: 2327736
-org_cap: A white dog lies on a gray couch, its fur blending with the upholstery as it gazes into the camera.
-trg_cap: A colorful dog lies on a gray couch, its fur blending with the upholstery as it gazes into the camera.
-instruction: Change the color of the dog from white to colorful.
-taskid: 55014

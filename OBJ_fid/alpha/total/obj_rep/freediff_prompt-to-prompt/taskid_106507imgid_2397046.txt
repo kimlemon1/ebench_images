@@ -1,5 +1,0 @@
-org_img_id: 2397046
-org_cap: a person holds a colorful, rainbow colored kite, its kite fluttering in the wind.
-trg_cap: The person holds a clock.
-instruction: Replace the kite with a clock.
-taskid: 106507

@@ -1,5 +1,0 @@
-org_img_id: 2376315
-org_cap: The scene is focused on the physical details of the clock tower, specifically the triangular shape of the tower, the wooden slats that cover its surface, and the blue clock at the top.
-trg_cap: The scene is focused on the physical details of the clock tower, specifically the triangular shape of the tower, the wooden slats that cover its surface, and the granite clock at the top.
-instruction: Change the color of the clock from blue to granite.
-taskid: 39263

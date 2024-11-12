@@ -1,5 +1,0 @@
-org_img_id: 2336858
-org_cap: a person wearing a black helmet sits astride the motorcycle, wearing a black leather jacket and jeans, with a pair of black boots on his feet.
-trg_cap: A person wearing a black helmet sits astride the motorcycle, wearing a black leather jacket and jeans, with a pair of black boots on his feet, in the background of a library.
-instruction: Change the background to library.
-taskid: 118679

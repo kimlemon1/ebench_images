@@ -1,5 +1,0 @@
-org_img_id: 2349946
-org_cap: a walking bear across a rocky outcropping, its paws making gentle crunching sounds on the stone.
-trg_cap: A walking bear across a rocky outcropping, its paws making gentle crunching sounds on the stone, as planes roared overhead at the nearby airport.
-instruction: Change the background to airport.
-taskid: 71918

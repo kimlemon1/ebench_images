@@ -1,5 +1,0 @@
-org_img_id: 2361533
-org_cap: A black traffic light stands at the corner of a street, surrounded by a leafy tree and a sign with the number 55.
-trg_cap: A black cat stands at the corner of a street, surrounded by a leafy tree and a sign with the number 55.
-instruction: Replace the traffic light with a cat.
-taskid: 67773

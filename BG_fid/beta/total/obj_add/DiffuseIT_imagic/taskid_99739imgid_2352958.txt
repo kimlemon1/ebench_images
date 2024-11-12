@@ -1,5 +1,0 @@
-org_img_id: 2352958
-org_cap: The sink is a white sink with a chrome faucet and a granite countertop.
-trg_cap: The sink is a white sink with a chrome faucet and a granite countertop, and a person is under the sink.
-instruction: Add a person under the sink.
-taskid: 99739

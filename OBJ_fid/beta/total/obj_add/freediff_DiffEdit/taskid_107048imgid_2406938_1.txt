@@ -1,5 +1,0 @@
-org_img_id: 2406938_1
-org_cap: the kitchen features a sleek, gray-toned finish on the cabinets and countertops, with a microwave situated above the sink.
-trg_cap: The kitchen features a sleek, gray-toned finish on the cabinets and countertops, with a microwave situated above the sink and a book next to the microwave.
-instruction: Add a book next to the microwave.
-taskid: 107048

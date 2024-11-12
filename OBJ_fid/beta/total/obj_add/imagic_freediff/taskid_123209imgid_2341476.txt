@@ -1,5 +1,0 @@
-org_img_id: 2341476
-org_cap: Skiing through the snow, with a determined look on their face and an orange backpack.
-trg_cap: Skiing through the snow, with a determined look on their face and an orange backpack with an umbrella attached to it.
-instruction: Add a umbrella on the backpack.
-taskid: 123209

@@ -1,5 +1,0 @@
-org_img_id: 2376303
-org_cap: A green boat lies half-submerged in the calm waters of the lake, surrounded by tall reeds and a scattering of pebbles on the shore.
-trg_cap: A green boat lies half-submerged in the calm waters of the lake, surrounded by tall reeds and a scattering of pebbles on the shore, as if it were a painting hanging in a serene living room.
-instruction: Change the background to living room.
-taskid: 720

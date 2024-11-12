@@ -1,5 +1,0 @@
-org_img_id: 2318855
-org_cap: The silver knife lay on the board, surrounded by crumbs and scraps of food, with a few loose breadsticks scattered around it.
-trg_cap: The plastic knife lay on the board, surrounded by crumbs and scraps of food, with a few loose breadsticks scattered around it.
-instruction: Change the material of the knife from silver to plastic.
-taskid: 9237

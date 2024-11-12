@@ -1,5 +1,0 @@
-org_img_id: 2366871
-org_cap: The black cell phone has a body with a curvature, featuring a screen and a keypad with buttons.
-trg_cap: The black fork has a body with a curvature.
-instruction: Replace the cell phone with a fork.
-taskid: 32416

@@ -1,5 +1,0 @@
-org_img_id: 1666
-org_cap: A blue cup sits on a cluttered desk, surrounded by papers and books, with a faint ring of coffee on its rim.
-trg_cap: A large blue cup sits on a cluttered desk, surrounded by papers and books, with a faint ring of coffee on its rim.
-instruction: Make the cup larger.
-taskid: 31138

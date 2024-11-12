@@ -1,5 +1,0 @@
-org_img_id: 2343014
-org_cap: The black tv is a tv mounted on a wooden wall panel with a sleek and modern design, surrounded by a minimalist living room with a white couch and a glass coffee table.
-trg_cap: The black tv is a tv mounted on a wooden wall panel with a sleek and modern design, with a refrigerator located underneath it, surrounded by a minimalist living room with a white couch and a glass coffee table.
-instruction: Add a refrigerator under the tv.
-taskid: 25563

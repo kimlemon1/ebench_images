@@ -1,0 +1,5 @@
+org_img_id: 2340164
+org_cap: a person in his mid-30s with a rugged beard and a worn denim shirt throws a frisbee, his eyes as he watches the disc soar through the evening air.
+trg_cap: A sheep throws its frisbee.
+instruction: Replace the person with a sheep.
+taskid: 34335

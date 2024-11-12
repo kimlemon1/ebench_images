@@ -1,5 +1,0 @@
-org_img_id: 2335924
-org_cap: person and his friend stand together on a snowy mountain slope, person holding a blue snowboard and his friend holding skis, both wearing winter clothing and accessories.
-trg_cap: person and his friend stand together on a snowy mountain slope, person holding a silver snowboard and his friend holding skis, both wearing winter clothing and accessories.
-instruction: Change the color of the snowboard from blue to silver.
-taskid: 6784

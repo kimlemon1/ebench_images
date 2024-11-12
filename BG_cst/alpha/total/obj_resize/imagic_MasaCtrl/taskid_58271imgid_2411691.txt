@@ -1,5 +1,0 @@
-org_img_id: 2411691
-org_cap: Person swings her racket, her arm and her wrist, as she prepares to hit a forehand shot on the tennis court.
-trg_cap: A large person swings her racket, her arm and her wrist, as she prepares to hit a forehand shot on the tennis court.
-instruction: Make the person larger.
-taskid: 58271

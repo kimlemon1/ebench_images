@@ -1,5 +1,0 @@
-org_img_id: 2350702
-org_cap: a tennis player swings his racket to hit a green ball with a loud thwack.
-trg_cap: A tennis player swings his racket to hit a green ball with a loud thwack, and a dog is perched on the sports ball.
-instruction: Add a dog on the sports ball.
-taskid: 83113

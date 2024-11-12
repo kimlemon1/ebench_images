@@ -1,5 +1,0 @@
-org_img_id: 2379550
-org_cap: a surfing person rides a person across the waves.
-trg_cap: A surfing person rides a person across the waves, with a bench next to the person.
-instruction: Add a bench next to the person.
-taskid: 15492

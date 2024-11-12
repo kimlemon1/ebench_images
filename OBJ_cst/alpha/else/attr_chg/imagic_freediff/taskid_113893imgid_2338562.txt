@@ -1,5 +1,0 @@
-org_img_id: 2338562
-org_cap: a man in his mid-twenties, wearing a beige sweater and holding a laptop, stands at a small, ornate table with a glass bottle and a bottle on it.
-trg_cap: a man in his mid-twenties, wearing a beige sweater and holding a laptop, stands at a small, ornate table with a metal bottle and a bottle on it.
-instruction: Change the material of the bottle from glass to metal.
-taskid: 113893

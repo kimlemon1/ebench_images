@@ -1,5 +1,0 @@
-org_img_id: 2349400
-org_cap: a tiny bird with bright yellow feathers and a small beak on a thin branch, its tiny legs gripping the wood as it with big, round eyes, surrounded by soft green foliage and blurred background.
-trg_cap: a large, tiny bird with bright yellow feathers and a small beak on a thin branch, its tiny legs gripping the wood as it with big, round eyes, surrounded by soft green foliage and blurred background.
-instruction: Make the bird larger.
-taskid: 37897

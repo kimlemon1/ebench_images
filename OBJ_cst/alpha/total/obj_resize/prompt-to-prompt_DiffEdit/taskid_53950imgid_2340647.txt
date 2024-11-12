@@ -1,5 +1,0 @@
-org_img_id: 2340647
-org_cap: a small person sits on a surfboard on the beach, holding a blue ball.
-trg_cap: a small person sits on a large surfboard on the beach, holding a blue ball.
-instruction: Make the surfboard larger.
-taskid: 53950

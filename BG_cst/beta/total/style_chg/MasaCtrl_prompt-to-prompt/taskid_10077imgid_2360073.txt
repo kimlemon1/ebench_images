@@ -1,5 +1,0 @@
-org_img_id: 2360073
-org_cap: the circular pizza is topped with a ring of pepperoni slices arranged in a spiral pattern, surrounded by a thin layer of melted mozzarella cheese on a lightly browned pizza.
-trg_cap: An oil painting style art features a circular pizza topped with a ring of pepperoni slices arranged in a spiral pattern, surrounded by a thin layer of melted mozzarella cheese on a lightly browned crust.
-instruction: Change the style if the image to oil painting style.
-taskid: 10077

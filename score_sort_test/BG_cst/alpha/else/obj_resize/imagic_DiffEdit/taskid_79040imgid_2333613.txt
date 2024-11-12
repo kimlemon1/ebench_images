@@ -1,0 +1,5 @@
+org_img_id: 2333613
+org_cap: A malnourished horse in a snowy field, its once-luxurious coat now dull and matted, its ribs visible beneath the thin skin, its eyes sunken and lifeless.
+trg_cap: A small, malnourished horse in a snowy field, its once-luxurious coat now dull and matted, its ribs visible beneath the thin skin, its eyes sunken and lifeless.
+instruction: Make the horse smaller.
+taskid: 79040

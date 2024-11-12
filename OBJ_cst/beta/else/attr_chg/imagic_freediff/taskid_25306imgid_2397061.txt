@@ -1,5 +1,0 @@
-org_img_id: 2397061
-org_cap: The scene features a wood bench situated on a cobblestone promenade overlooking the Mediterranean Sea, with waves crashing against the shore and a lighthouse standing sentinel in the distance.
-trg_cap: The scene features a hardwood bench situated on a cobblestone promenade overlooking the Mediterranean Sea, with waves crashing against the shore and a lighthouse standing sentinel in the distance.
-instruction: Change the material of the bench from wood to hardwood.
-taskid: 25306

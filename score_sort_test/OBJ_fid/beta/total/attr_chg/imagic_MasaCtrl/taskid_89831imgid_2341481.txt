@@ -1,0 +1,5 @@
+org_img_id: 2341481
+org_cap: a red train glides smoothly along the tracks, its wheels clicking rhythmically as it approaches the station platform.
+trg_cap: a beige train glides smoothly along the tracks, its wheels clicking rhythmically as it approaches the station platform.
+instruction: Change the color of the train from red to beige.
+taskid: 89831

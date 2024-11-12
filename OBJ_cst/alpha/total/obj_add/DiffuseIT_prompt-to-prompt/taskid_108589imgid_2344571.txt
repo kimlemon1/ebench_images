@@ -1,5 +1,0 @@
-org_img_id: 2344571
-org_cap: person on a bed, surrounded by pink flowers and a large cake with candles, wearing a floral top and a slice of cake.
-trg_cap: person on a bed, surrounded by pink flowers and a large cake with candles and a bear on top, wearing a floral top and a slice of cake.
-instruction: Add a bear on the cake.
-taskid: 108589

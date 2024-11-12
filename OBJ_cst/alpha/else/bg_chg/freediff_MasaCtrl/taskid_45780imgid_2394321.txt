@@ -1,5 +1,0 @@
-org_img_id: 2394321
-org_cap: A person holds a staring bird, with a proud smile on her face and a firm grip on the talons.
-trg_cap: In a grand concert hall, a person holds a staring bird, with a proud smile on her face and a firm grip on the talons.
-instruction: Change the background to concert hall.
-taskid: 45780

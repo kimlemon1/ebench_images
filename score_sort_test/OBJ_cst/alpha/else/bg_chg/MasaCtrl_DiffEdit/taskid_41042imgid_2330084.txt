@@ -1,0 +1,5 @@
+org_img_id: 2330084
+org_cap: a lone surfer wades into the calm, turquoise waters, surrounded by a scattering of surfboards and a distant view of a sleepy coastal town.
+trg_cap: A lone surfer wades into the calm, turquoise waters, surrounded by a scattering of surfboards and a distant view of a sleepy coastal town, with the rolling hills of the countryside farm visible in the background.
+instruction: Change the background to country side farm.
+taskid: 41042

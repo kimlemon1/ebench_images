@@ -1,5 +1,0 @@
-org_img_id: 2415884
-org_cap: person swings a bat, his arm and his elbow, as he prepares to hit a ball in a game of baseball.
-trg_cap: The pop art style artwork depicts a person swinging a bat, focusing on his arm and elbow, as he prepares to hit a ball in a game of baseball.
-instruction: Change the style if the image to pop art style.
-taskid: 96766

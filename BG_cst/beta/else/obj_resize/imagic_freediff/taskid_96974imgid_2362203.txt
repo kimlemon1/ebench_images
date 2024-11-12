@@ -1,5 +1,0 @@
-org_img_id: 2362203
-org_cap: a man with a warm smile and a few wisps of gray hair in his beard is cutting a slice from a vibrant blue and gold cake.
-trg_cap: a man with a warm smile and a few wisps of gray hair in his beard is cutting a slice from a small, vibrant blue and gold cake.
-instruction: Make the cake smaller.
-taskid: 96974

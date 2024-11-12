@@ -1,5 +1,0 @@
-org_img_id: 2322435
-org_cap: a blue and silver train with a rounded nose and a long, curved body, adorned with windows and doors, chugs along the tracks, its wheels clicking rhythmically on the steel rails, as it carries a string of trains filled with people and luggage, with a green light glowing at the front, and a faint mist swirling around its wheels.
-trg_cap: A blue and silver parking meter chugs along the tracks, as it carries a string of cars filled with people and luggage.
-instruction: Replace the train with a parking meter.
-taskid: 93703

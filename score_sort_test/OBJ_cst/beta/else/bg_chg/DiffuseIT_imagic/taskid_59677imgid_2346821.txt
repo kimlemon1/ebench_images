@@ -1,0 +1,5 @@
+org_img_id: 2346821
+org_cap: A green glass bottle stands upright on a stack of books, with a dog sitting nearby, wearing a pink bow.
+trg_cap: In a gym, a green glass bottle stands upright on a stack of books, with a dog sitting nearby, wearing a pink bow.
+instruction: Change the background to gym.
+taskid: 59677

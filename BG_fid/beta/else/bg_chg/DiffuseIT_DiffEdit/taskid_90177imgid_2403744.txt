@@ -1,5 +1,0 @@
-org_img_id: 2403744
-org_cap: a black bear on a rocky outcropping in a dense forest, black bear fur glistening in the sunlight, black bear eyes on something in the distance.
-trg_cap: A black bear on a rocky outcropping in a dense forest, black bear fur glistening in the sunlight, black bear eyes on something in the distance, as if it were a performer on stage in a grand concert hall.
-instruction: Change the background to concert hall.
-taskid: 90177

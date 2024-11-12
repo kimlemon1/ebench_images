@@ -1,5 +1,0 @@
-org_img_id: 2398429
-org_cap: a yellow truck parked on a street with orange cones and a concrete barrier.
-trg_cap: The art, in a watercolor painting style, depicts a yellow truck parked on a street with orange cones and a concrete barrier.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 24228

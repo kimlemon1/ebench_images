@@ -1,5 +1,0 @@
-org_img_id: 2321422
-org_cap: a perfectly cooked pizza sits on a white plate, topped with a layer of melted mozzarella cheese, sliced tomatoes, and a sprinkle of basil, served with a side of crusty bread and a glass of beer.
-trg_cap: A perfectly cooked elephant sits on a white plate, served with a side of crusty bread and a glass of beer.
-instruction: Replace the pizza with a elephant.
-taskid: 38666

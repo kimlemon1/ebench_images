@@ -1,5 +1,0 @@
-org_img_id: 2316522
-org_cap: a surfing, surfing, surfing person on a wave at sunset, with the golden light of the setting sun illuminating the foam and spray around them.
-trg_cap: A graffiti art piece depicts a person surfing on a wave at sunset, with the golden light of the setting sun illuminating the foam and spray around them.
-instruction: Change the style if the image to graffiti art.
-taskid: 79921

@@ -1,5 +1,0 @@
-org_img_id: 2387450
-org_cap: a blue car with a dark blue trailer attached to the back, parked on a paved lot with a gray sky and fall foliage in the background.
-trg_cap: The art, in a watercolor painting style, features a blue car with a dark blue trailer attached to the back, parked on a paved lot with a gray sky and fall foliage in the background.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 11056

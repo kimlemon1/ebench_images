@@ -1,5 +1,0 @@
-org_img_id: 2359679
-org_cap: a young person wearing a green shirt and green and white striped shorts is riding a skateboard down a city street, his feet moving quickly as he navigates the pavement.
-trg_cap: A young person wearing a green shirt and green and white striped shorts is riding a skateboard down a city street, his feet moving quickly as he navigates the pavement, with a dog on the right side of the skateboard.
-instruction: Add a dog on the right side of the skateboard.
-taskid: 84245

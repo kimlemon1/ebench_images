@@ -1,5 +1,0 @@
-org_img_id: 2408099
-org_cap: The white stop sign is a white stop sign.
-trg_cap: The red stop sign is a red stop sign.
-instruction: Change the color of the stop sign from white to red.
-taskid: 118366

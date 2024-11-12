@@ -1,5 +1,0 @@
-org_img_id: 2332888
-org_cap: The kitchen features a white microwave, sink, and refrigerator.
-trg_cap: The kitchen features a white microwave, sink with a banana in front of it, and refrigerator.
-instruction: Add a banana in front of the sink.
-taskid: 101207

@@ -1,5 +1,0 @@
-org_img_id: 2410038
-org_cap: person is a person in his mid-twenties, wearing a white t-shirt and faded jeans, with a messy mop of hair and a determined look on his face.
-trg_cap: The small person is a person in his mid-twenties, wearing a white t-shirt and faded jeans, with a messy mop of hair and a determined look on his face.
-instruction: Make the person smaller.
-taskid: 68861

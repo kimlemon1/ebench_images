@@ -1,5 +1,0 @@
-org_img_id: 2411932
-org_cap: person at a table, wearing a sweater and with a brown cup and a laptop open in front of.
-trg_cap: A Van Gogh style art depicts a person at a table, wearing a sweater, with a brown cup and an open laptop in front of them.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 118708

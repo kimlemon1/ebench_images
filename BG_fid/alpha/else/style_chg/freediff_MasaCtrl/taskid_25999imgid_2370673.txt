@@ -1,5 +1,0 @@
-org_img_id: 2370673
-org_cap: a person, wearing blue shorts and a blue t-shirt, on the sidewalk, his knees and his hands a skateboard.
-trg_cap: An oil painting style art depicts a person on the sidewalk, wearing blue shorts and a blue t-shirt, with a skateboard under his knees and hands.
-instruction: Change the style if the image to oil painting style.
-taskid: 25999

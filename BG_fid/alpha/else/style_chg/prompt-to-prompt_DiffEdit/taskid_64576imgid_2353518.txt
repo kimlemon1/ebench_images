@@ -1,5 +1,0 @@
-org_img_id: 2353518
-org_cap: person in a bright orange jersey and matching gloves on his motorcycle, a cloud of dirt and dust as he the rugged terrain.
-trg_cap: The art, in a watercolor painting style, depicts a person in a bright orange jersey and matching gloves on his motorcycle, surrounded by a cloud of dirt and dust as he navigates the rugged terrain.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 64576

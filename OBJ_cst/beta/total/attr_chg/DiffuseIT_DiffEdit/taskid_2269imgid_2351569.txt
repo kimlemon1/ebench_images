@@ -1,5 +1,0 @@
-org_img_id: 2351569
-org_cap: a brown walking horse across a lush green meadow, its mane and tail with a white painted line stretching across the landscape in the distance.
-trg_cap: a black and white walking horse across a lush green meadow, its mane and tail with a white painted line stretching across the landscape in the distance.
-instruction: Change the color of the horse from brown to black and white.
-taskid: 2269

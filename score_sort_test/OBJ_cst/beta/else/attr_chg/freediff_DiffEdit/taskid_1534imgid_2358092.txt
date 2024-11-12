@@ -1,0 +1,5 @@
+org_img_id: 2358092
+org_cap: "Orange carrot, onion, and bunch of fresh herbs sit on a wooden table, surrounded by paper bags and a few loose items."
+trg_cap: "Orange carrot, onion, and bunch of fresh herbs sit on a wooden table, surrounded by paper bags and a few loose items."
+instruction: Change the color of the carrot from orange to brown.
+taskid: 1534

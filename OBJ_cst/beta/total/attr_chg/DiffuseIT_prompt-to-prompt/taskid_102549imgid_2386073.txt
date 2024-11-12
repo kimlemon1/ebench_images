@@ -1,5 +1,0 @@
-org_img_id: 2386073
-org_cap: A brown bird with a body and wings lies on the wooden floor, its beak open, as a curious cat with a fluffy orange coat and long, slender tail stretches out a paw to investigate the brown bird's presence.
-trg_cap: A pink bird with a body and wings lies on the wooden floor, its beak open, as a curious cat with a fluffy orange coat and long, slender tail stretches out a paw to investigate the pink bird's presence.
-instruction: Change the color of the bird from brown to pink.
-taskid: 102549

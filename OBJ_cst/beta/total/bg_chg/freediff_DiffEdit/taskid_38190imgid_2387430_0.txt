@@ -1,5 +1,0 @@
-org_img_id: 2387430_0
-org_cap: a ruggedly dressed person in his 30s sits astride a sturdy brown horse, with a worn leather saddle and a few stray sheep grazing nearby.
-trg_cap: A ruggedly dressed person in his 30s sits astride a sturdy brown horse, with a worn leather saddle and a few stray sheep grazing nearby, in the corner of a gym where the equipment has been pushed aside.
-instruction: Change the background to gym.
-taskid: 38190

@@ -1,5 +1,0 @@
-org_img_id: 2326815
-org_cap: a middle-aged person on a grassy hill, wearing a worn-out suit and holding a battered umbrella against the grey sky.
-trg_cap: A middle-aged person in a living room, wearing a worn-out suit and holding a battered umbrella against the grey sky.
-instruction: Change the background to living room.
-taskid: 21421

@@ -1,5 +1,0 @@
-org_img_id: 2387311
-org_cap: a bird with a yellow beak on a branch of a deciduous tree, its feathers a mottled brown and gray, with a few leaves and branches visible in the background.
-trg_cap: a bird with a yellow beak on a branch of a deciduous tree, its feathers a mottled brown and gray, with a few pieces of living room furniture visible in the background.
-instruction: Change the background to living room.
-taskid: 80102

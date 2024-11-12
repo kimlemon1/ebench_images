@@ -1,5 +1,0 @@
-org_img_id: 2387859
-org_cap: A white cup sits on a table, filled with a steaming cup and accompanied by a plate with a folded flour tortilla topped with sliced bananas, strawberries, and blueberries.
-trg_cap: A large white cup sits on a table, filled with a steaming cup and accompanied by a plate with a folded flour tortilla topped with sliced bananas, strawberries, and blueberries.
-instruction: Make the cup larger.
-taskid: 12047

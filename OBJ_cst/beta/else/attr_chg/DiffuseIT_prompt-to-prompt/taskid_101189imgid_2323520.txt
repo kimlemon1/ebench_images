@@ -1,5 +1,0 @@
-org_img_id: 2323520
-org_cap: a paper cup with a straw and a hot dog wrapped in a red napkin sit on a table, next to a hot dog with condiments and fries.
-trg_cap: a copper cup with a straw and a hot dog wrapped in a red napkin sit on a table, next to a hot dog with condiments and fries.
-instruction: Change the material of the cup from paper to copper.
-taskid: 101189

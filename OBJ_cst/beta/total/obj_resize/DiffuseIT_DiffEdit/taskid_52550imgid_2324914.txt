@@ -1,5 +1,0 @@
-org_img_id: 2324914
-org_cap: Person on a black bed, wearing a white shirt with a tie and a pair of trousers, his eyes and a faint smile on his face, with a small dog next to him.
-trg_cap: Person on a black bed, wearing a white shirt with a tie and a pair of trousers, his small size, eyes and a faint smile on his face, with a small dog next to him.
-instruction: Make the person smaller.
-taskid: 52550

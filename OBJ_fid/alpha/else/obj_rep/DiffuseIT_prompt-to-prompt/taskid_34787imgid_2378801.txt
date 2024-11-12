@@ -1,5 +1,0 @@
-org_img_id: 2378801
-org_cap: A white dog across a grassy meadow, the sun casting a warm glow over the scene.
-trg_cap: The white elephant, the sun casting a warm glow over the scene.
-instruction: Replace the dog with a elephant.
-taskid: 34787

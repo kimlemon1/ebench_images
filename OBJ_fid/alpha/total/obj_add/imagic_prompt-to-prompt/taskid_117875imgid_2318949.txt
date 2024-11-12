@@ -1,5 +1,0 @@
-org_img_id: 2318949
-org_cap: a person in a wetsuit, with a hood and booties, rides a person down a wave, his arms and legs as he through the water.
-trg_cap: a person in a wetsuit, with a hood and booties, rides a person down a wave, his arms and legs as he through the water, with a fork on the left side of the person.
-instruction: Add a fork on the left side of the person.
-taskid: 117875

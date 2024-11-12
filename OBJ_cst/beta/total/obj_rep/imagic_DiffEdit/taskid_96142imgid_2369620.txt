@@ -1,5 +1,0 @@
-org_img_id: 2369620
-org_cap: A red fire hydrant stands on the sidewalk, its cap slightly ajar, surrounded by worn and weathered cobblestones, with a pair of worn-out shoes and a crumpled up newspaper lying nearby.
-trg_cap: A chair stands on the sidewalk, with a pair of worn-out shoes and a crumpled-up newspaper lying nearby.
-instruction: Replace the fire hydrant with a chair.
-taskid: 96142

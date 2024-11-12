@@ -1,5 +1,0 @@
-org_img_id: 2336003
-org_cap: a man with a puzzled expression sits in a chair, holding a cell phone with a faint scratch on the screen.
-trg_cap: a man with a puzzled expression sits in a chair, holding a large cell phone with a faint scratch on the screen.
-instruction: Make the cell phone larger.
-taskid: 103118

@@ -1,5 +1,0 @@
-org_img_id: 2334531_1
-org_cap: the person stands on the snow-covered slope, wearing red skis.
-trg_cap: the person stands on the snow-covegreen slope, wearing green skis.
-instruction: Change the color of the skis from red to green.
-taskid: 67328

@@ -1,0 +1,5 @@
+org_img_id: 2371196
+org_cap: a cat sits atop a television, its paws around the edge of the screen, as the white clock casts a shadow behind it.
+trg_cap: A cat sits atop a tv, their paws around the edge of the screen.
+instruction: Replace the clock with a tv.
+taskid: 76727

@@ -1,5 +1,0 @@
-org_img_id: 2360206
-org_cap: "a majestic horse with a shiny black coat and a flowing mane, its massive legs and powerful hooves, a beautiful white carriage through the quiet streets of a small town."
-trg_cap: "a majestic small horse with a shiny black coat and a flowing mane, its massive legs and powerful hooves, a beautiful white carriage through the quiet streets of a small town."
-instruction: Make the horse smaller.
-taskid: 8343

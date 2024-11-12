@@ -1,5 +1,0 @@
-org_img_id: 2317160
-org_cap: a worn wooden chair sits in a cozy room, adorned with a blue floral cushion and surrounded by a colorful rug, with a vase holding a bouquet of flowers and a small table nearby.
-trg_cap: A worn wooden chair sits in a cozy room within a museum, adorned with a blue floral cushion and surrounded by a colorful rug, with a vase holding a bouquet of flowers and a small table nearby.
-instruction: Change the background to museum.
-taskid: 53907

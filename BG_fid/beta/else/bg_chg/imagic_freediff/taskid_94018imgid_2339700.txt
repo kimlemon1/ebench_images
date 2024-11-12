@@ -1,5 +1,0 @@
-org_img_id: 2339700
-org_cap: A baby elephant stands on a rocky outcropping, its ears in the wind as it dust and dirt into the air with its trunk.
-trg_cap: A baby elephant stands on a rocky outcropping, its ears in the wind as it dust and dirt into the air with its trunk, reminiscent of the sterile white walls and bustling activity of a hospital.
-instruction: Change the background to hospital.
-taskid: 94018

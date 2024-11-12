@@ -1,5 +1,0 @@
-org_img_id: 2374813
-org_cap: The scene is focused on a modern office desk with a black keyboard at its center, surrounded by a minimalist workspace featuring a white desk, a small, circular speaker, and a few scattered papers.
-trg_cap: The scene is focused on a modern office desk with a red keyboard at its center, surrounded by a minimalist workspace featuring a white desk, a small, circular speaker, and a few scattered papers.
-instruction: Change the color of the keyboard from black to red.
-taskid: 121559

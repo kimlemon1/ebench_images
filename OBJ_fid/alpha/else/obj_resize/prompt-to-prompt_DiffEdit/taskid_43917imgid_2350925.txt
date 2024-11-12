@@ -1,5 +1,0 @@
-org_img_id: 2350925
-org_cap: a grey cat with piercing green eyes and a fluffy grey and brown striped tail sits on a windowsill.
-trg_cap: a large grey cat with piercing green eyes and a fluffy grey and brown striped tail sits on a windowsill.
-instruction: Make the cat larger.
-taskid: 43917

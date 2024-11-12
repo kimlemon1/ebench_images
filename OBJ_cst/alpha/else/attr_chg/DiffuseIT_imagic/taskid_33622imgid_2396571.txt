@@ -1,5 +1,0 @@
-org_img_id: 2396571
-org_cap: A blue train stands on the platform, its wheels and axles gleaming in the sunlight.
-trg_cap: A cream colored train stands on the platform, its wheels and axles gleaming in the sunlight.
-instruction: Change the color of the train from blue to cream colored.
-taskid: 33622

@@ -1,5 +1,0 @@
-org_img_id: 2321017
-org_cap: A black dog runs across a meadow, chasing a flock of sheep as they graze and move away.
-trg_cap: A black and white dog runs across a meadow, chasing a flock of sheep as they graze and move away.
-instruction: Change the color of the dog from black to black and white.
-taskid: 118899

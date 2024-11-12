@@ -1,5 +1,0 @@
-org_img_id: 2412382
-org_cap: a white dog lies on a gray ottoman, with a silver clock in the background.
-trg_cap: An ancient Egyptian-style artwork features a white dog lying on a gray ottoman, with a silver clock in the background.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 112446

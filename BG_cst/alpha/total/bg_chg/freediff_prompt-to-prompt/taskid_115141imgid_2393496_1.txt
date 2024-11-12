@@ -1,5 +1,0 @@
-org_img_id: 2393496_1
-org_cap: a white cow in a green meadow surrounded by trees.
-trg_cap: A white cow in a green meadow surrounded by trees is depicted in a painting hanging in the living room.
-instruction: Change the background to living room.
-taskid: 115141

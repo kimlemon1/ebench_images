@@ -1,5 +1,0 @@
-org_img_id: 2402617
-org_cap: a skateboarder leaps off a ramp, his skateboard flying out from his feet as he spins and flips through the air, surrounded by the palm trees and concrete walls of a skatepark at sunset.
-trg_cap: A skateboarder leaps off a ramp, his skateboard flying out from his feet as he spins and flips through the air, surrounded by the palm trees and concrete walls of a skatepark at sunset, with the aroma of nearby restaurant kitchens wafting through the air.
-instruction: Change the background to restaurant.
-taskid: 65010

@@ -1,5 +1,0 @@
-org_img_id: 2416718
-org_cap: Person rides the surfboard, his arms and legs extended as he carves through the waves, the red fin of his surfboard slicing through the turquoise water.
-trg_cap: Person rides the surfboard, his arms and legs extended as he carves through the waves, the red fin of his surfboard slicing through the turquoise water, reminiscent of a skier gliding across a snow field.
-instruction: Change the background to snow field.
-taskid: 40034

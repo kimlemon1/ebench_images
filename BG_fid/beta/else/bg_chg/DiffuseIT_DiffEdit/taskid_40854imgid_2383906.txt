@@ -1,5 +1,0 @@
-org_img_id: 2383906
-org_cap: a man holds a black bat, wearing a yellow shirt and a hat, with a group of young players gathered around him on a sunny day.
-trg_cap: In an art gallery, a man holds a black bat, wearing a yellow shirt and a hat, with a group of young players gathered around him on a sunny day.
-instruction: Change the background to art gallery.
-taskid: 40854

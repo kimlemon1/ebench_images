@@ -1,5 +1,0 @@
-org_img_id: 2322605
-org_cap: person volleys a shot on the tennis court.
-trg_cap: A grayscale photo shows a person volleying a shot on the tennis court.
-instruction: Change the style if the image to grey scale.
-taskid: 82319

@@ -1,5 +1,0 @@
-org_img_id: 2398319
-org_cap: A skateboarder leaps over a railing, his brown wood skateboard flying out from under his feet as he clears the obstacle with ease.
-trg_cap: A skateboarder leaps over a railing, his white wood skateboard flying out from under his feet as he clears the obstacle with ease.
-instruction: Change the color of the skateboard from brown to white.
-taskid: 46995

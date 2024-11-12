@@ -1,5 +1,0 @@
-org_img_id: 2369780
-org_cap: A blue bird on a branch, its iridescent feathers in the dappled sunlight filtering through the lush green leaves of the tropical forest.
-trg_cap: A colorful bird on a branch, its iridescent feathers in the dappled sunlight filtering through the lush green leaves of the tropical forest.
-instruction: Change the color of the bird from blue to colorful.
-taskid: 41429

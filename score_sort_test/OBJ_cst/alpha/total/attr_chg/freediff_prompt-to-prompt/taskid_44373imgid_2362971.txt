@@ -1,0 +1,5 @@
+org_img_id: 2362971
+org_cap: The room features a comfortable bed with a black off tv mounted above it.
+trg_cap: The room features a comfortable bed with a black on tv mounted above it.
+instruction: Change the state of the tv from off to on.
+taskid: 44373

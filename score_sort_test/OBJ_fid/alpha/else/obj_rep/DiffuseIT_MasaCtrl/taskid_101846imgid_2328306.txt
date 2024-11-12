@@ -1,0 +1,5 @@
+org_img_id: 2328306
+org_cap: a black and white cat on a wooden bench, surrounded by a green wooden fence and a pot of red geraniums.
+trg_cap: "a vase, surrounded by a green wooden fence and a pot of its red geraniums."
+instruction: Replace the cat with a vase.
+taskid: 101846

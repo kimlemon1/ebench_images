@@ -1,5 +1,0 @@
-org_img_id: 2361883
-org_cap: a person lifts a dog onto a surfboard, with a pink bow around the dog's neck.
-trg_cap: a person lifts a large dog onto a surfboard, with a pink bow around the dog's neck.
-instruction: Make the dog larger.
-taskid: 11566

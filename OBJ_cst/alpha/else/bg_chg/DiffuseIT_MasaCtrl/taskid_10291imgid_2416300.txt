@@ -1,5 +1,0 @@
-org_img_id: 2416300
-org_cap: "a lone person in his mid-twenties, wearing a plain white t-shirt and faded jeans, on the edge of a seaside skate park, his skateboard at the ready, the sun dipping into the ocean behind him."
-trg_cap: a lone person in his mid-twenties, wearing a plain white t-shirt and faded jeans, on the edge of a desert skate park, his skateboard at the ready, the sun dipping into the horizon behind him.
-instruction: Change the background to desert.
-taskid: 10291

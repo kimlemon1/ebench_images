@@ -1,5 +1,0 @@
-org_img_id: 2383842
-org_cap: The brown calico cat, its paws the door handle, its body the doorbell.
-trg_cap: The large brown calico cat, its paws the door handle, its body the doorbell.
-instruction: Make the cat larger.
-taskid: 76147

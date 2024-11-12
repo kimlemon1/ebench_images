@@ -1,0 +1,5 @@
+org_img_id: 2332771
+org_cap: a brown flying bird with a silhouette and wings, its feathers and its eyes.
+trg_cap: The mosaic art contains a brown flying bird with a silhouette, wings, feathers, and eyes.
+instruction: Change the style if the image to mosaic art.
+taskid: 80306

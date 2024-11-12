@@ -1,5 +1,0 @@
-org_img_id: 2349176
-org_cap: The juicy sandwich, topped with melted cheese, crispy bacon, and a tangy slaw, sits atop a bed of crispy fries in a rustic wooden basket.
-trg_cap: The banana sits atop a bed of crispy fries in a rustic wooden basket.
-instruction: Replace the sandwich with a banana.
-taskid: 22711

@@ -1,0 +1,5 @@
+org_img_id: 2381439
+org_cap: The kitchen features a black refrigerator and a granite countertop.
+trg_cap: The kitchen features a pink refrigerator and a granite countertop.
+instruction: Change the color of the refrigerator from black to pink.
+taskid: 30802

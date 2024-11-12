@@ -1,5 +1,0 @@
-org_img_id: 2398751
-org_cap: A sitting, sleeping, orange cat lies on the hood of a car, its fur reflecting the surrounding environment and its eyes closed.
-trg_cap: A sitting, sleeping, orange cat lies on the hood of a car parked in front of a library, its fur reflecting the surrounding environment and its eyes closed.
-instruction: Change the background to library.
-taskid: 94601

@@ -1,5 +1,0 @@
-org_img_id: 2335731
-org_cap: person slides down the road on his skateboard, his long legs stretched out in front of him, his arms as he tries to regain balance.
-trg_cap: The person slides down the road on their sandwich, their arms as they try to regain balance.
-instruction: Replace the skateboard with a sandwich.
-taskid: 102701

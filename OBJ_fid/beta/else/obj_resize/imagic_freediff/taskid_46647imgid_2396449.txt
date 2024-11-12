@@ -1,5 +1,0 @@
-org_img_id: 2396449
-org_cap: person sits at a table on a boat, holding a white cup and wearing a gray sweater and glasses.
-trg_cap: person sits at a table on a boat, holding a large white cup and wearing a gray sweater and glasses.
-instruction: Make the cup larger.
-taskid: 46647

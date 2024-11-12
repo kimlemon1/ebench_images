@@ -1,0 +1,5 @@
+org_img_id: 2413227
+org_cap: The old, worn, dirty, blue, wood bench rests on a concrete slab surrounded by lush green grass.
+trg_cap: The old, worn, dirty, blue, plastic bench rests on a concrete slab surrounded by lush green grass.
+instruction: Change the material of the bench from wood to plastic.
+taskid: 99294

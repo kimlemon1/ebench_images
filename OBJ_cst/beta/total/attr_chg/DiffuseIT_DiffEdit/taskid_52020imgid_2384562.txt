@@ -1,5 +1,0 @@
-org_img_id: 2384562
-org_cap: a person lies on a bed, surrounded by an old blue laptop and a pair of legs.
-trg_cap: a person lies on a bed, surrounded by an old gray laptop and a pair of legs.
-instruction: Change the color of the laptop from blue to gray.
-taskid: 52020

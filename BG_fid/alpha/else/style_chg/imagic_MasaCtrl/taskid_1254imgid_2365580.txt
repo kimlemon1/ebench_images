@@ -1,5 +1,0 @@
-org_img_id: 2365580
-org_cap: A skateboarding person on a concrete playground.
-trg_cap: A cartoon-style artwork features a skateboarding person on a concrete playground.
-instruction: Change the style if the image to cartoon style.
-taskid: 1254

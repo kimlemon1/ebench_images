@@ -1,5 +1,0 @@
-org_img_id: 2381259
-org_cap: Person is shown looking down in mid-air on his black skateboard, the wheels spinning rapidly across the concrete floor.
-trg_cap: Person is shown looking down in mid-air on his black skateboard, the wheels spinning rapidly across the concrete floor of the concert hall.
-instruction: Change the background to concert hall.
-taskid: 112851

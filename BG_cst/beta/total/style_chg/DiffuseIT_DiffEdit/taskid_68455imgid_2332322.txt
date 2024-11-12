@@ -1,5 +1,0 @@
-org_img_id: 2332322
-org_cap: "Person, clad in a black wetsuit and sporting a messy, sandy hairdo, his board through the turquoise water."
-trg_cap: A grey scale photo features a person clad in a black wetsuit, sporting a messy, sandy hairdo, and navigating his board through the turquoise water.
-instruction: Change the style if the image to grey scale.
-taskid: 68455

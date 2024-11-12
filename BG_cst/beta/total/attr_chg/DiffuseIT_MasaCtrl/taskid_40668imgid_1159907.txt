@@ -1,5 +1,0 @@
-org_img_id: 1159907
-org_cap: The open laptop sat on a desk, surrounded by empty coffee cups, crumpled up papers, and a few scattered pens, with a steaming cup of coffee and a half-eaten sandwich nearby.
-trg_cap: The closed laptop sat on a desk, surrounded by empty coffee cups, crumpled up papers, and a few scattered pens, with a steaming cup of coffee and a half-eaten sandwich nearby.
-instruction: Change the state of the laptop from open to closed.
-taskid: 40668

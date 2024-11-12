@@ -1,5 +1,0 @@
-org_img_id: 2412135
-org_cap: Blond person off a skateboard, his legs and feet as he the concrete stairs, the worn wheels of his skateboard screeching against the rough surface.
-trg_cap: Blond person off a boat, their legs and feet as they the concrete stairs.
-instruction: Replace the skateboard with a boat.
-taskid: 67560

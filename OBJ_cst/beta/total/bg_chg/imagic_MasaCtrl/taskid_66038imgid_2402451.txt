@@ -1,5 +1,0 @@
-org_img_id: 2402451
-org_cap: a train in a vibrant orange livery speeds along the tracks, its orange train gliding effortlessly across the landscape as it leaves a trail of steam and a reflection in the calm waters of the adjacent orange train.
-trg_cap: A train in a vibrant orange livery speeds along the tracks, its orange train gliding effortlessly across the landscape as it leaves a trail of steam and a reflection in the calm waters of the adjacent concert hall.
-instruction: Change the background to concert hall.
-taskid: 66038

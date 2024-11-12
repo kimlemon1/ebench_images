@@ -1,5 +1,0 @@
-org_img_id: 2393488
-org_cap: A majestic elephant stands tall, its gray skin glistening with dew, its tusks gleaming in the misty morning air, as it carries a group of people on its broad back.
-trg_cap: A majestic elephant stands tall on the sandy beach, its gray skin glistening with dew, its tusks gleaming in the misty morning air, as it carries a group of people on its broad back.
-instruction: Change the background to beach.
-taskid: 47729

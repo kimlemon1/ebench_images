@@ -1,5 +1,0 @@
-org_img_id: 2386485
-org_cap: The white clock face is a disk with roman numerals and a glow, suspended above a pedestal adorned with intricate carvings and a bronze statue of a person.
-trg_cap: A Van Gogh style art piece features a white clock face with Roman numerals and a glow, suspended above a pedestal adorned with intricate carvings and a bronze statue of a person.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 58767

@@ -1,5 +1,0 @@
-org_img_id: 2334255
-org_cap: the clock tower features a bright blue roof and a golden clock with intricate details.
-trg_cap: The clock tower features a bright blue roof and a large golden clock with intricate details.
-instruction: Make the clock larger.
-taskid: 75630

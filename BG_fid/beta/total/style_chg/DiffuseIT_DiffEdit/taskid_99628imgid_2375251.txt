@@ -1,5 +1,0 @@
-org_img_id: 2375251
-org_cap: surfing, surfing, surfing person rides a wave on his white surfboard, hair behind him as he through the water with a grin.
-trg_cap: An oil painting style artwork depicts a surfing person riding a wave on his white surfboard, his hair streaming behind him as he moves through the water with a grin.
-instruction: Change the style if the image to oil painting style.
-taskid: 99628

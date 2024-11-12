@@ -1,5 +1,0 @@
-org_img_id: 2370186
-org_cap: The warm glow of the afternoon sun casts a golden light on the rustic wooden table, where a slice of orange cake sits atop a delicate plate, accompanied by a white metal fork and a sprinkle of crumbs.
-trg_cap: The warm glow of the afternoon sun casts a golden light on the rustic wooden table, where a slice of orange cake sits atop a delicate plate, accompanied by a white metal fork and a sprinkle of crumbs, as the distant sound of trains arriving and departing fills the air of the bustling station.
-instruction: Change the background to train station.
-taskid: 100226

@@ -1,5 +1,0 @@
-org_img_id: 2412293
-org_cap: Playing, person throws a frisbee, arm back and hand releasing the disc, the yellow plastic flying through the air as he watches it soar towards the green grass.
-trg_cap: Playing, person throws a frisbee, arm back and hand releasing the disc, the yellow plastic flying through the air as he watches it soar towards the green grass of the train station park.
-instruction: Change the background to train station.
-taskid: 51927

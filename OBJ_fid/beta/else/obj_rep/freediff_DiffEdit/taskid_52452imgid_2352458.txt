@@ -1,5 +1,0 @@
-org_img_id: 2352458
-org_cap: Person's slender arms, her fingers as she, her bright blue racket in her gloved hand, her ponytail.
-trg_cap: Teddy bear's racket.
-instruction: Replace the person with a teddy bear.
-taskid: 52452

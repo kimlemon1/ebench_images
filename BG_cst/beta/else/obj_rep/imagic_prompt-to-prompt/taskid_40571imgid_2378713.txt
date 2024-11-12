@@ -1,5 +1,0 @@
-org_img_id: 2378713
-org_cap: a blue bicycle and a red motorcycle are parked alongside a neatly manicured garden with variously shaped and sized trees, including a bonsai tree, surrounded by lush greenery and colorful flowers.
-trg_cap: A blue car and a red motorcycle are parked alongside a neatly manicured garden with variously shaped and sized trees, including a bonsai tree, surrounded by lush greenery and colorful flowers.
-instruction: Replace the bicycle with a car.
-taskid: 40571

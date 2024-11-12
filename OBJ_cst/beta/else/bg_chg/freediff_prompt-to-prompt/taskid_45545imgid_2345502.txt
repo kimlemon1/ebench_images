@@ -1,5 +1,0 @@
-org_img_id: 2345502
-org_cap: a train, with its sleek, silver body and bright yellow stripes, stands at the train, its doors open and ready to depart, surrounded by a concrete train and a small, modern train.
-trg_cap: A train, with its sleek, silver body and bright yellow stripes, stands at the train, its doors open and ready to depart, surrounded by a concrete gym and a small, modern train.
-instruction: Change the background to gym.
-taskid: 45545

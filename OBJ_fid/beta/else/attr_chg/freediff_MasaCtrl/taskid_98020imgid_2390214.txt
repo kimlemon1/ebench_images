@@ -1,5 +1,0 @@
-org_img_id: 2390214
-org_cap: a brown dog on a light brown wood chair in a green room.
-trg_cap: a brown dog on a light brown chrome chair in a green room.
-instruction: Change the material of the chair from wood to chrome.
-taskid: 98020

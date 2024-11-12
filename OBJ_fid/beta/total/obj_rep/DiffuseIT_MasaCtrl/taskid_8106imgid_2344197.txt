@@ -1,5 +1,0 @@
-org_img_id: 2344197
-org_cap: A giraffe stands tall, its long neck and legs, its fur a warm brown color with patches of lighter brown and white, its eyes large and gentle.
-trg_cap: A knife stands tall.
-instruction: Replace the giraffe with a knife.
-taskid: 8106

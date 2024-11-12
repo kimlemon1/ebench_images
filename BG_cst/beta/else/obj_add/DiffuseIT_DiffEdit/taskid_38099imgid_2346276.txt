@@ -1,5 +1,0 @@
-org_img_id: 2346276
-org_cap: White surfboard slices through the waves as person executes a flawless aerial, their arms and legs splayed in a pose as they soar above the ocean.
-trg_cap: White surfboard slices through the waves as person executes a flawless aerial, their arms and legs splayed in a pose as they soar above the ocean, with a wine glass on the left side of the person.
-instruction: Add a wine glass on the left side of the person.
-taskid: 38099

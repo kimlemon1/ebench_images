@@ -1,0 +1,5 @@
+org_img_id: 2399748
+org_cap: A standing, striped, black zebra stands at a water's edge, its stripes reflected perfectly in the calm surface, its muzzle drinking as it from the pool.
+trg_cap: A standing, patterned, black zebra stands at a water's edge, its stripes reflected perfectly in the calm surface, its muzzle drinking as it from the pool.
+instruction: Change the color of the zebra from striped to patterned.
+taskid: 38647

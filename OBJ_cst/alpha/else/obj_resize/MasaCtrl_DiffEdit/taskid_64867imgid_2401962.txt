@@ -1,5 +1,0 @@
-org_img_id: 2401962
-org_cap: a middle - aged person wearing a helmet and knee pads rides a black skateboard, his feet as he navigates the road.
-trg_cap: a small, middle-aged person wearing a helmet and knee pads rides a black skateboard, his feet as he navigates the road.
-instruction: Make the person smaller.
-taskid: 64867

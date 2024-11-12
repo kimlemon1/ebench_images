@@ -1,5 +1,0 @@
-org_img_id: 2323668
-org_cap: The baseball bat is a long, slender object with a flat, rectangular head and a handle attached to the end.
-trg_cap: The small baseball bat is a long, slender object with a flat, rectangular head and a handle attached to the end.
-instruction: Make the baseball bat smaller.
-taskid: 46572

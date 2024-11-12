@@ -1,5 +1,0 @@
-org_img_id: 2358791
-org_cap: a young person in a bright blue shirt and shorts across the sandy beach, a colorful kite with a fish-shaped tail, as seagulls fly overhead and sailboats glide across the calm blue waters in the background.
-trg_cap: a small young person in a bright blue shirt and shorts across the sandy beach, a colorful kite with a fish-shaped tail, as seagulls fly overhead and sailboats glide across the calm blue waters in the background.
-instruction: Make the person smaller.
-taskid: 71850

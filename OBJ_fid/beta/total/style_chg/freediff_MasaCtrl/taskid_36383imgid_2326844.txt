@@ -1,5 +1,0 @@
-org_img_id: 2326844
-org_cap: Person, astride a chestnut horse, her blonde ponytail, their bond and movement a blur of energy and freedom.
-trg_cap: A mosaic art depicts a person astride a chestnut horse, her blonde ponytail, their bond and movement a blur of energy and freedom.
-instruction: Change the style if the image to mosaic art.
-taskid: 36383

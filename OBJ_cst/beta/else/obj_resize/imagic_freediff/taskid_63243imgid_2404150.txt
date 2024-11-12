@@ -1,5 +1,0 @@
-org_img_id: 2404150
-org_cap: a person stands on a surfboard, with a determined look on his face.
-trg_cap: a small person stands on a surfboard, with a determined look on his face.
-instruction: Make the person smaller.
-taskid: 63243

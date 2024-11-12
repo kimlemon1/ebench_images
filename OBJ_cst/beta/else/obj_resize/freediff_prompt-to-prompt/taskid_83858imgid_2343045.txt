@@ -1,5 +1,0 @@
-org_img_id: 2343045
-org_cap: A white bus travels down the street, its sleek design and modern features standing out against the historic buildings and bustling streets.
-trg_cap: A small white bus travels down the street, its sleek design and modern features standing out against the historic buildings and bustling streets.
-instruction: Make the bus smaller.
-taskid: 83858

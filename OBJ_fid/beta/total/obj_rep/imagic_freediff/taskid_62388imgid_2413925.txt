@@ -1,5 +1,0 @@
-org_img_id: 2413925
-org_cap: a jumping person, his legs and his arms over a concrete ramp.
-trg_cap: "the jumping bottle over the concrete ramp."
-instruction: Replace the person with a bottle.
-taskid: 62388

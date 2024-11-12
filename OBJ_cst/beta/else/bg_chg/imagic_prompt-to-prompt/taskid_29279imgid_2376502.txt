@@ -1,5 +1,0 @@
-org_img_id: 2376502
-org_cap: A person in his mid-twenties, wearing a grey sweatshirt and jeans, in a kitchen with a worn wooden table and old-fashioned appliances, with a scraper at a window frame.
-trg_cap: A person in his mid-twenties, wearing a grey sweatshirt and jeans, in a kitchen with a worn wooden table and old-fashioned appliances, surrounded by the lush greenery of a tropical jungle, with a scraper at a window frame.
-instruction: Change the background to tropical jungle.
-taskid: 29279

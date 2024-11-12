@@ -1,5 +1,0 @@
-org_img_id: 2352266
-org_cap: The broccoli has a sturdy stem with a cluster of green florets at the top, each with a delicate yellow center and a few small holes from pests.
-trg_cap: The frisbee has a sturdy stem with a cluster of green florets at its top.
-instruction: Replace the broccoli with a frisbee.
-taskid: 32947

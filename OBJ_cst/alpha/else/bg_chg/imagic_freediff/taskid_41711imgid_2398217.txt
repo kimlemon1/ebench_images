@@ -1,5 +1,0 @@
-org_img_id: 2398217
-org_cap: A gray laptop sits atop a table, with a white keyboard and glass surface below, flanked by a flat-screen tv and bookshelves in the background.
-trg_cap: A gray laptop sits atop a table, with a white keyboard and glass surface below, flanked by a flat-screen TV and bookshelves in the background, with a view of the beach visible through a nearby window.
-instruction: Change the background to beach.
-taskid: 41711

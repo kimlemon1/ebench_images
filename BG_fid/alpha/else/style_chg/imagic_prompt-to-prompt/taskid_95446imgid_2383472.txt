@@ -1,5 +1,0 @@
-org_img_id: 2383472
-org_cap: a young person sitting with a sad expression on a bed, a teddy bear and a blue shirt and shorts.
-trg_cap: An oil painting depicts a young person sitting with a sad expression on a bed, accompanied by a teddy bear, wearing a blue shirt and shorts.
-instruction: Change the style if the image to oil painting style.
-taskid: 95446

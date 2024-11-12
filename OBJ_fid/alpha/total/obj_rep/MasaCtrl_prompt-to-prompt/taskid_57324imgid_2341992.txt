@@ -1,5 +1,0 @@
-org_img_id: 2341992
-org_cap: person holds a toothbrush with a green handle and a white head.
-trg_cap: They hold a bench.
-instruction: Replace the toothbrush with a bench.
-taskid: 57324

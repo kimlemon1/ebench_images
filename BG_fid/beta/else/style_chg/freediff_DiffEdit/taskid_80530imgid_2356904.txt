@@ -1,5 +1,0 @@
-org_img_id: 2356904
-org_cap: a majestic dog with a sturdy build, golden fur, and a distinctive brindle pattern.
-trg_cap: The art, in a pop art style, features a majestic dog with a sturdy build, golden fur, and a distinctive brindle pattern.
-instruction: Change the style if the image to pop art style.
-taskid: 80530

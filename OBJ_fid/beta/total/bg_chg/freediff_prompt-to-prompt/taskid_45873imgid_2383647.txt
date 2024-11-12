@@ -1,5 +1,0 @@
-org_img_id: 2383647
-org_cap: The blue clock is adorned with intricate details.
-trg_cap: The blue clock, reminiscent of the vibrant hues found in desert sunsets, is adorned with intricate details.
-instruction: Change the background to desert.
-taskid: 45873

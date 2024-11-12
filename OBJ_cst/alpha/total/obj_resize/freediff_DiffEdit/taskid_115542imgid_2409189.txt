@@ -1,5 +1,0 @@
-org_img_id: 2409189
-org_cap: A young person sits on a stone bench, wearing a blouse and holding a book.
-trg_cap: A small young person sits on a stone bench, wearing a blouse and holding a book.
-instruction: Make the person smaller.
-taskid: 115542

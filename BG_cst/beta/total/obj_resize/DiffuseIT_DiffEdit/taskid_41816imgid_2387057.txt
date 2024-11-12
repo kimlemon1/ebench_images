@@ -1,5 +1,0 @@
-org_img_id: 2387057
-org_cap: A horse stands alone on a street corner, its gray coat speckled with dirt and its ears towards a faded yellow sign reading "parking & rear" above a storefront.
-trg_cap: A small horse stands alone on a street corner, its gray coat speckled with dirt and its ears towards a faded yellow sign reading "parking & rear" above a storefront.
-instruction: Make the horse smaller.
-taskid: 41816

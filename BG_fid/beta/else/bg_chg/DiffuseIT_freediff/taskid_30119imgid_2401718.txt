@@ -1,5 +1,0 @@
-org_img_id: 2401718
-org_cap: Young person is seen riding a surfboard with a bright yellow fin, his long brown hair as he through the waves with a grin on his face.
-trg_cap: Young person is seen riding a surfboard with a bright yellow fin, his long brown hair as he through the waves with a grin on his face, as the sound of a symphony echoes from the nearby concert hall.
-instruction: Change the background to concert hall.
-taskid: 30119

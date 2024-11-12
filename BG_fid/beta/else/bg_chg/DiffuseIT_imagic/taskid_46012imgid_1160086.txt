@@ -1,5 +1,0 @@
-org_img_id: 1160086
-org_cap: a person down the street, by multiple lawn signs supporting various political candidates, including person and person.
-trg_cap: a person down the street, by multiple lawn signs supporting various political candidates, including person and person, in a desert setting.
-instruction: Change the background to desert.
-taskid: 46012

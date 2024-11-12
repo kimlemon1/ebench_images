@@ -1,5 +1,0 @@
-org_img_id: 2373486
-org_cap: a young person at a table, a doughnut and a big bite.
-trg_cap: a adult person at a table, a doughnut and a big bite.
-instruction: Change the state of the person from young to adult.
-taskid: 99994

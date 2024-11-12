@@ -1,5 +1,0 @@
-org_img_id: 2403243
-org_cap: The white, closed toilet is a tub with a black and white striped shower curtain and a decorative trim around the edges.
-trg_cap: The white, closed toilet is a tub with a black and white striped shower curtain and a decorative trim around the edges, reminiscent of the classic black and white tiles often found in historic train stations.
-instruction: Change the background to train station.
-taskid: 75246

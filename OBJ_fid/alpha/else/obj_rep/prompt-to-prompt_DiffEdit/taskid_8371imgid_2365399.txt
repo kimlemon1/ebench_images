@@ -1,5 +1,0 @@
-org_img_id: 2365399
-org_cap: A yellow train rumbles along the tracks, its yellow trains bearing the scars of years of service, the yellow train's wheels screeching against the worn rails as it hauls a cargo of yellow trains.
-trg_cap: A yellow stop sign rumbles along the tracks, its surface bearing the scars of years of service, the stop sign's wheels screeching against the worn rails as it hauls a cargo of stop signs.
-instruction: Replace the train with a stop sign.
-taskid: 8371

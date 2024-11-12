@@ -1,5 +1,0 @@
-org_img_id: 2388165
-org_cap: A green train chugs along the tracks, passing through the city's industrial district.
-trg_cap: A light blue train chugs along the tracks, passing through the city's industrial district.
-instruction: Change the color of the train from green to light blue.
-taskid: 100507

@@ -1,5 +1,0 @@
-org_img_id: 2387731
-org_cap: The blue fire hydrant is a structure, situated near a large stone statue of a mythical creature.
-trg_cap: The large blue fire hydrant is a structure, situated near a large stone statue of a mythical creature.
-instruction: Make the fire hydrant larger.
-taskid: 86335

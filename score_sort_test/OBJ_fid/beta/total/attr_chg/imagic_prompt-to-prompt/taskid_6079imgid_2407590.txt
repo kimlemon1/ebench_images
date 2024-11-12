@@ -1,0 +1,5 @@
+org_img_id: 2407590
+org_cap: The toilet is a white, open, clean toilet, situated in a cramped, rustic bathroom with a worn wooden door and a small, dimly lit window.
+trg_cap: The toilet is a white, open, old toilet, situated in a cramped, rustic bathroom with a worn wooden door and a small, dimly lit window.
+instruction: Change the state of the toilet from clean to old.
+taskid: 6079

@@ -1,5 +1,0 @@
-org_img_id: 2318024
-org_cap: The brown motorcycle has a body with a finish, adorned with a handlebar and a headlight at the front.
-trg_cap: The blue motorcycle has a body with a finish, adorned with a handlebar and a headlight at the front.
-instruction: Change the color of the motorcycle from brown to blue.
-taskid: 38050

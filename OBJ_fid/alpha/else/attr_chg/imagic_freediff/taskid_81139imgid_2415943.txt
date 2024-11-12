@@ -1,5 +1,0 @@
-org_img_id: 2415943
-org_cap: The black clock tower stands tall, while the nearby building stands as a modern contrast.
-trg_cap: The neon clock tower stands tall, while the nearby building stands as a modern contrast.
-instruction: Change the color of the clock from black to neon.
-taskid: 81139

@@ -1,5 +1,0 @@
-org_img_id: 2343118
-org_cap: person wore a blue t-shirt with a graphic on it, had a pair of pajamas on, and a toothbrush in his hand.
-trg_cap: A small person wore a blue t-shirt with a graphic on it, had a pair of pajamas on, and a toothbrush in his hand.
-instruction: Make the person smaller.
-taskid: 79995

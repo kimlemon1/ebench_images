@@ -1,5 +1,0 @@
-org_img_id: 2406859
-org_cap: a red bus parked at a bus stop with a woman walking towards the red bus.
-trg_cap: A red bus parked at a bus stop with a woman walking towards the red bus, set against the backdrop of a large aquarium.
-instruction: Change the background to aquarium.
-taskid: 85632

@@ -1,5 +1,0 @@
-org_img_id: 2406046
-org_cap: surfing, wet, surfing person, as he at the beach.
-trg_cap: surfing, dry, surfing person, as he at the beach.
-instruction: Change the state of the person from wet to dry.
-taskid: 14060

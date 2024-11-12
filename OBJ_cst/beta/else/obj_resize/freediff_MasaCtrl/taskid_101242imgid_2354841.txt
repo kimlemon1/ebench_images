@@ -1,5 +1,0 @@
-org_img_id: 2354841
-org_cap: Person in front of a bathroom mirror, a digital camera and at her own reflection.
-trg_cap: Large person in front of a bathroom mirror, a digital camera and at her own reflection.
-instruction: Make the person larger.
-taskid: 101242

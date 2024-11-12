@@ -1,5 +1,0 @@
-org_img_id: 2407819
-org_cap: A clean, red, metal fire hydrant stands tall on a quiet city street, its cap and body gleaming in the sunlight.
-trg_cap: A clean, red, copper fire hydrant stands tall on a quiet city street, its cap and body gleaming in the sunlight.
-instruction: Change the material of the fire hydrant from metal to copper.
-taskid: 99189

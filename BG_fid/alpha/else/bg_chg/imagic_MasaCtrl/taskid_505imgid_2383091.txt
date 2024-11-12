@@ -1,5 +1,0 @@
-org_img_id: 2383091
-org_cap: a tennis racket swings in a swift arc, the strings humming as person's hand with a blur of motion.
-trg_cap: In the living room, a tennis racket swings in a swift arc, the strings humming as a person's hand moves with a blur of motion.
-instruction: Change the background to living room.
-taskid: 505

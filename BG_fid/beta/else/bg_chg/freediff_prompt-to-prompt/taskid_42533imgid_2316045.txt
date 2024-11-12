@@ -1,5 +1,0 @@
-org_img_id: 2316045
-org_cap: A motorcycle person, person, performs a daring stunt, with his motorcycle, against a bright blue sky.
-trg_cap: A motorcycle person, person, performs a daring stunt, with his motorcycle, against the backdrop of a bustling train station.
-instruction: Change the background to train station.
-taskid: 42533

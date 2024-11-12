@@ -1,5 +1,0 @@
-org_img_id: 2345268
-org_cap: A skateboarding person wearing a helmet and knee pads, with a shirt and shorts, sits on a skateboard with his knees and his feet, with an expression.
-trg_cap: A skateboarding truck sits on its skateboard.
-instruction: Replace the person with a truck.
-taskid: 38949

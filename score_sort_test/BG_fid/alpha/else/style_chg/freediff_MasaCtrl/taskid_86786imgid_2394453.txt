@@ -1,0 +1,5 @@
+org_img_id: 2394453
+org_cap: A black train sits on the platform, its doors open and its interior dimly lit, with a faint glow emanating from the tunnel in the background.
+trg_cap: An oil painting style art depicts a black train sitting on the platform with its doors open and its interior dimly lit, while a faint glow emanates from the tunnel in the background.
+instruction: Change the style if the image to oil painting style.
+taskid: 86786

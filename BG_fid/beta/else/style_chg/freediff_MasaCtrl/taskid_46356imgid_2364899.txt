@@ -1,5 +1,0 @@
-org_img_id: 2364899
-org_cap: a miniature train, with its bright red color and gleaming metal body, chugs along the grassy train, carrying a group of delighted children and adults on its seats.
-trg_cap: The pop art style artwork features a miniature train, with its bright red color and gleaming metal body, chugging along the grassy terrain, carrying a group of delighted children and adults on its seats.
-instruction: Change the style if the image to pop art style.
-taskid: 46356

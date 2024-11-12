@@ -1,5 +1,0 @@
-org_img_id: 2394868
-org_cap: A yellow train stands on the platform, its doors open and passengers disembarking or boarding.
-trg_cap: A red train stands on the platform, its doors open and passengers disembarking or boarding.
-instruction: Change the color of the train from yellow to red.
-taskid: 35904

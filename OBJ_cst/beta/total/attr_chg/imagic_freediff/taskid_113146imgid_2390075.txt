@@ -1,5 +1,0 @@
-org_img_id: 2390075
-org_cap: A young, walking giraffe stands, looking down, eating, its fur blending with the surrounding foliage.
-trg_cap: A old, walking giraffe stands, looking down, eating, its fur blending with the surrounding foliage.
-instruction: Change the state of the giraffe from young to old.
-taskid: 113146

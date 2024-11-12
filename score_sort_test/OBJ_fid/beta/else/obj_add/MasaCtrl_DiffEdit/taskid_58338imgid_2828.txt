@@ -1,0 +1,5 @@
+org_img_id: 2828
+org_cap: The scene features a blue bus and a car driving down a quiet city street, with pedestrians walking along the sidewalk and buildings lining the road.
+trg_cap: The scene features a blue bus with a truck underneath and a car driving down a quiet city street, with pedestrians walking along the sidewalk and buildings lining the road.
+instruction: Add a truck under the bus.
+taskid: 58338

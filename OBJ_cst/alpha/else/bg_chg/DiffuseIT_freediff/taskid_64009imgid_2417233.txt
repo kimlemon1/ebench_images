@@ -1,5 +1,0 @@
-org_img_id: 2417233
-org_cap: a yellow train, with a yellow train at the front and yellow trains behind.
-trg_cap: a yellow train, with a yellow train at the front and yellow trains behind, reminiscent of a vibrant art gallery installation.
-instruction: Change the background to art gallery.
-taskid: 64009

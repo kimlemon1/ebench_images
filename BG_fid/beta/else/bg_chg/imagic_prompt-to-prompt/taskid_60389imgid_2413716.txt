@@ -1,5 +1,0 @@
-org_img_id: 2413716
-org_cap: a person crouched over the surfboard as he surfing the waves.
-trg_cap: A person crouched over the surfboard as he surfing the waves, imagining the rolling hills and open fields of a countryside farm.
-instruction: Change the background to country side farm.
-taskid: 60389

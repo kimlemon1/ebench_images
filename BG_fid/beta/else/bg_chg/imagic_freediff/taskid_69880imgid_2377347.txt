@@ -1,5 +1,0 @@
-org_img_id: 2377347
-org_cap: a person walks down a hill, holding a black umbrella and wearing a raincoat, with rain pouring down from the sky.
-trg_cap: In a painting hanging in the living room, a person walks down a hill, holding a black umbrella and wearing a raincoat, with rain pouring down from the sky.
-instruction: Change the background to living room.
-taskid: 69880

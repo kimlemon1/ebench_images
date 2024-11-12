@@ -1,5 +1,0 @@
-org_img_id: 2372422
-org_cap: A teddy bear sat atop a car roof, wearing a bright orange scarf and a matching hat, its soft fur fluffed up against the chilly evening air.
-trg_cap: A small teddy bear sat atop a car roof, wearing a bright orange scarf and a matching hat, its soft fur fluffed up against the chilly evening air.
-instruction: Make the teddy bear smaller.
-taskid: 76569

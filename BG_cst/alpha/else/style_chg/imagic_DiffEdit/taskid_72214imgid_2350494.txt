@@ -1,5 +1,0 @@
-org_img_id: 2350494
-org_cap: A cat lies on the stone floor, its striped fur matted and dusty, its eyes closed.
-trg_cap: An ancient Egyptian-style artwork depicts a cat lying on the stone floor, its striped fur matted and dusty, with its eyes closed.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 72214

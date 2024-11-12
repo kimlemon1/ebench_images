@@ -1,5 +1,0 @@
-org_img_id: 498212
-org_cap: A ruggedly dressed person in his 50s with a bushy beard and a warm smile alongside a flock of sheep and lambs on a winding country road, with a car driving slowly behind him.
-trg_cap: A ruggedly dressed person in their 50s with a bushy beard and a warm smile alongside a flock of sheep and lambs on a winding country road, with an umbrella.
-instruction: Replace the car with a umbrella.
-taskid: 48308

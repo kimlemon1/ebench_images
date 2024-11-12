@@ -1,0 +1,5 @@
+org_img_id: 2334020
+org_cap: a bright red fire hydrant stands tall on a grassy patch, its fire hydrant adorned with a shiny silver cap and a rusty chain wrapped around its base.
+trg_cap: a large, bright red fire hydrant stands tall on a grassy patch, its fire hydrant adorned with a shiny silver cap and a rusty chain wrapped around its base.
+instruction: Make the fire hydrant larger.
+taskid: 42542

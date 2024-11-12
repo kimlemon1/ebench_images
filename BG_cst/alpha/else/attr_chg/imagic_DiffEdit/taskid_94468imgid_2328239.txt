@@ -1,5 +1,0 @@
-org_img_id: 2328239
-org_cap: A blue train rumbles across the arid landscape, its blue train and blue train a stark contrast to the turquoise waters lapping at the shore.
-trg_cap: A yellow train rumbles across the arid landscape, its yellow train and yellow train a stark contrast to the turquoise waters lapping at the shore.
-instruction: Change the color of the train from blue to yellow.
-taskid: 94468

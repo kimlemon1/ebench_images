@@ -1,5 +1,0 @@
-org_img_id: 2394742
-org_cap: A blue train sits on the platform, its blue train gleaming in the sunlight, with a blue train running along its blue train and a blue train to its blue train.
-trg_cap: A blue microwave sits on the platform, its blue gleaming in the sunlight, with a blue running along its side and a blue to its front.
-instruction: Replace the train with a microwave.
-taskid: 42585

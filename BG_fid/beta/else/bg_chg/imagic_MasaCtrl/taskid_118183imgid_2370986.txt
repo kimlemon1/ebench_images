@@ -1,5 +1,0 @@
-org_img_id: 2370986
-org_cap: a person, person, his skateboard flying out from under him, his arms and legs splayed out in a dynamic pose against the bright blue sky.
-trg_cap: a person, person, his skateboard flying out from under him, his arms and legs splayed out in a dynamic pose against the bright blue sky, with the rolling hills and fields of a countryside farm stretching out below.
-instruction: Change the background to country side farm.
-taskid: 118183

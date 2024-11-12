@@ -1,5 +1,0 @@
-org_img_id: 2315741
-org_cap: a skateboarder leaps over a green railing, his black and white skateboard gliding smoothly as he executes a flawless ollie.
-trg_cap: A skateboarder leaps over a green railing, their surfboard gliding smoothly as they execute a flawless ollie.
-instruction: Replace the skateboard with a surfboard.
-taskid: 71861

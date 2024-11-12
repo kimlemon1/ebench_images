@@ -1,5 +1,0 @@
-org_img_id: 2342790
-org_cap: a white boat, its sails billowing in the gentle breeze as it glides effortlessly along the tranquil river.
-trg_cap: a white boat, its sails billowing in the gentle breeze as it glides effortlessly along the tranquil river, with a bird following behind.
-instruction: Add a bird behind the boat.
-taskid: 39297

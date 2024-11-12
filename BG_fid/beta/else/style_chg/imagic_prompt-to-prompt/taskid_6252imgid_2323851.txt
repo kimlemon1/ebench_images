@@ -1,5 +1,0 @@
-org_img_id: 2323851
-org_cap: A majestic white horse across the sandy beach, its mane in the wind as it freely.
-trg_cap: A grayscale photo captures a majestic white horse across the sandy beach, its mane flowing in the wind as it runs freely.
-instruction: Change the style if the image to grey scale.
-taskid: 6252

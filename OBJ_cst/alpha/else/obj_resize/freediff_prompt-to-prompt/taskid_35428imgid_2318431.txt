@@ -1,5 +1,0 @@
-org_img_id: 2318431
-org_cap: A white train glides along the white train, its wheels clicking against the white train as it approaches the white train, where a person in a bright yellow vest stands waiting.
-trg_cap: A small white train glides along the white train, its wheels clicking against the white train as it approaches the white train, where a person in a bright yellow vest stands waiting.
-instruction: Make the train smaller.
-taskid: 35428

@@ -1,5 +1,0 @@
-org_img_id: 2323017
-org_cap: A laptop sits on a cluttered desk, surrounded by stacks of papers, books, and notes, with a glass of water and a few pens and pencils scattered about.
-trg_cap: A laptop sits on a cluttered desk, surrounded by stacks of papers, books, and notes, with a glass of water and a few pens and pencils scattered about, and a cup behind the laptop.
-instruction: Add a cup behind the laptop.
-taskid: 33985

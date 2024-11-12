@@ -1,0 +1,5 @@
+org_img_id: 2052
+org_cap: The couch is a brown couch with a sturdy frame and plush cushions.
+trg_cap: The couch is a maroon couch with a sturdy frame and plush cushions.
+instruction: Change the color of the couch from brown to maroon.
+taskid: 42848

@@ -1,5 +1,0 @@
-org_img_id: 2319232
-org_cap: A brown chair stands tall, with a small, painted horse perched on its chair, over the campus.
-trg_cap: A striped chair stands tall, with a small, painted horse perched on its chair, over the campus.
-instruction: Change the color of the chair from brown to striped.
-taskid: 53089

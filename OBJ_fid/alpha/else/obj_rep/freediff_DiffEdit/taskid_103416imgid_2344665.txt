@@ -1,5 +1,0 @@
-org_img_id: 2344665
-org_cap: a walking black horse with a rider wearing a black jacket and riding pants across the sandy beach, the wind through its mane as the sun shines down from a clear blue sky.
-trg_cap: "walking black tv across the sandy beach, the sun shines down from a clear blue sky."
-instruction: Replace the horse with a tv.
-taskid: 103416

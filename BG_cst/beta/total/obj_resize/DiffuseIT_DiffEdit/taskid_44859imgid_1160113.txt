@@ -1,5 +1,0 @@
-org_img_id: 1160113
-org_cap: The room features a white couch, a pair of green chairs, and a wooden coffee table.
-trg_cap: The room features a large white couch, a pair of green chairs, and a wooden coffee table.
-instruction: Make the couch larger.
-taskid: 44859

@@ -1,5 +1,0 @@
-org_img_id: 2394581
-org_cap: The black clock face on the brick tower is adorned with intricate stone carvings in a diamond pattern, with roman numerals marking the hours.
-trg_cap: The light brown clock face on the brick tower is adorned with intricate stone carvings in a diamond pattern, with roman numerals marking the hours.
-instruction: Change the color of the clock from black to light brown.
-taskid: 101519

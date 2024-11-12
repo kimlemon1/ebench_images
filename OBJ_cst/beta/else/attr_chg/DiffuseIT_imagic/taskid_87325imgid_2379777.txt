@@ -1,5 +1,0 @@
-org_img_id: 2379777
-org_cap: The room features a black TV mounted off the wall.
-trg_cap: The room features a black TV mounted lit the wall.
-instruction: Change the state of the tv from off to lit.
-taskid: 87325

@@ -1,5 +1,0 @@
-org_img_id: 2325877
-org_cap: a white cat, its fur fluffed against the chill of the morning air.
-trg_cap: a black cat, its fur fluffed against the chill of the morning air.
-instruction: Change the color of the cat from white to black.
-taskid: 52281

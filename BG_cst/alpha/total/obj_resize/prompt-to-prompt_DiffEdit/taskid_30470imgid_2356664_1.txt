@@ -1,5 +1,0 @@
-org_img_id: 2356664_1
-org_cap: a large elephant with a wrinkled gray skin and a long trunk on a dirt path, its tusks visible and its ears in the breeze.
-trg_cap: a small, large elephant with a wrinkled gray skin and a long trunk on a dirt path, its tusks visible and its ears in the breeze.
-instruction: Make the elephant smaller.
-taskid: 30470

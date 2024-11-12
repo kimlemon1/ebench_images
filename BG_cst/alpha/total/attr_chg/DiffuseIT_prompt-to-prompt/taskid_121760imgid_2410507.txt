@@ -1,5 +1,0 @@
-org_img_id: 2410507
-org_cap: A wet bear stands on a rocky outcropping in a pool of crystal clear water, its fur with a few streaks of darker fur on its back, its eyes, and its paws splashing water.
-trg_cap: A dry bear stands on a rocky outcropping in a pool of crystal clear water, its fur with a few streaks of darker fur on its back, its eyes, and its paws splashing water.
-instruction: Change the state of the bear from wet to dry.
-taskid: 121760

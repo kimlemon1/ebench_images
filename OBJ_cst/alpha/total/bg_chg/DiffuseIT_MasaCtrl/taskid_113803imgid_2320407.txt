@@ -1,5 +1,0 @@
-org_img_id: 2320407
-org_cap: Smiling person on the beach, with a surfboard with a floral pattern on the bottom.
-trg_cap: Smiling person on the beach, with a surfboard with a floral pattern on the bottom, with the skyline of an urban city visible in the distance.
-instruction: Change the background to urban city.
-taskid: 113803

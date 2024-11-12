@@ -1,5 +1,0 @@
-org_img_id: 2327013
-org_cap: A black laptop sits on a desk, surrounded by a green bottle and a lamp, with a whiteboard and markers on the wall behind it.
-trg_cap: A large black laptop sits on a desk, surrounded by a green bottle and a lamp, with a whiteboard and markers on the wall behind it.
-instruction: Make the laptop larger.
-taskid: 102227

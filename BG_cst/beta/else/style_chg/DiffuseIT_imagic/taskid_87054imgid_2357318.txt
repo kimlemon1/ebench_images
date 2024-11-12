@@ -1,5 +1,0 @@
-org_img_id: 2357318
-org_cap: Person in the snow, wearing a green jacket and snow pants, with a warm hat and gloves to keep out the chill.
-trg_cap: A pencil sketch art depicts a person in the snow wearing a green jacket, snow pants, a warm hat, and gloves to keep out the chill.
-instruction: Change the style if the image to pencil sketch.
-taskid: 87054

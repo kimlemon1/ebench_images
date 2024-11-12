@@ -1,5 +1,0 @@
-org_img_id: 2345558
-org_cap: a lone surfer in a black wetsuit walks along the beach, carrying a surfboard under his arm, as waves crash against the shore and people playfully splash in the water.
-trg_cap: A lone surfer in a black wetsuit walks along the beach, carrying a surfboard under his arm, as waves crash against the shore and people playfully splash in the water, with a lush vineyard stretching out in the background.
-instruction: Change the background to vineyard.
-taskid: 12882

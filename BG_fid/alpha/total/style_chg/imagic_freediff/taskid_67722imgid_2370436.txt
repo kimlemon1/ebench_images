@@ -1,5 +1,0 @@
-org_img_id: 2370436
-org_cap: a person in a bright yellow wetsuit on a sunny day.
-trg_cap: A cartoon style art features a person in a bright yellow wetsuit on a sunny day.
-instruction: Change the style if the image to cartoon style.
-taskid: 67722

@@ -1,5 +1,0 @@
-org_img_id: 2343436
-org_cap: a young boy with a curious expression approaches a colorful cake with a jungle theme, featuring a fondant monkey and banana slices.
-trg_cap: a young boy with a curious expression approaches a small, colorful cake with a jungle theme, featuring a fondant monkey and banana slices.
-instruction: Make the cake smaller.
-taskid: 34213

@@ -1,5 +1,0 @@
-org_img_id: 2333036_1
-org_cap: a young person, with a lean and athletic build, rides a brown skateboard down a winding road, his long legs stretched out in front of him, his feet gripping it as he turns and jumps over a small hill.
-trg_cap: a young person, with a lean and athletic build, rides a black and white skateboard down a winding road, his long legs stretched out in front of him, his feet gripping it as he turns and jumps over a small hill.
-instruction: Change the color of the skateboard from brown to black and white.
-taskid: 111020

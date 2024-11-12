@@ -1,5 +1,0 @@
-org_img_id: 2322215
-org_cap: a person in a wetsuit rides a surfboard, his arms and legs bent as he carves through the waves, the sun casting a warm glow over the scene.
-trg_cap: The pop art style artwork depicts a person in a wetsuit riding a surfboard, with his arms and legs bent as he carves through the waves, while the sun casts a warm glow over the scene.
-instruction: Change the style if the image to pop art style.
-taskid: 23828

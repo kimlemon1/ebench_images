@@ -1,5 +1,0 @@
-org_img_id: 2387526
-org_cap: The kitchen features a white oven, a white refrigerator, and a large window above the sink that lets in natural light and offers a view of the surrounding yard.
-trg_cap: The kitchen features a brown oven, a brown refrigerator, and a large window above the sink that lets in natural light and offers a view of the surrounding yard.
-instruction: Change the color of the oven from white to brown.
-taskid: 74581

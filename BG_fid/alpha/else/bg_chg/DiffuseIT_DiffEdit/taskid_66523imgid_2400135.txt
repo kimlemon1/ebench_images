@@ -1,5 +1,0 @@
-org_img_id: 2400135
-org_cap: Person brushes the brown dog's fur with a comb, its paws and ears as it tries to shake off the unwanted attention.
-trg_cap: In the shadow of ancient ruins, a person brushes the brown dog's fur with a comb, its paws and ears as it tries to shake off the unwanted attention.
-instruction: Change the background to ancient ruins.
-taskid: 66523

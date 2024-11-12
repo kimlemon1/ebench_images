@@ -1,5 +1,0 @@
-org_img_id: 2415308
-org_cap: the clock tower stands tall, its clock gleaming in the sunlight, surrounded by lush greenery and vibrant flowers, with a subtle hint of red and black accents on the nearby benches and planters.
-trg_cap: The clock tower stands tall, its clock gleaming in the sunlight, with a cat sitting in front of it, surrounded by lush greenery and vibrant flowers, with a subtle hint of red and black accents on the nearby benches and planters.
-instruction: Add a cat in front of the clock.
-taskid: 56479

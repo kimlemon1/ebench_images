@@ -1,5 +1,0 @@
-org_img_id: 2335036
-org_cap: a pink cake adorned with a white frosting border and a handwritten message in the center that reads "welcome to the highlands" in bold letters.
-trg_cap: In the cozy living room, a pink cake adorned with a white frosting border and a handwritten message in the center that reads "welcome to the highlands" in bold letters sits on the coffee table.
-instruction: Change the background to living room.
-taskid: 39435

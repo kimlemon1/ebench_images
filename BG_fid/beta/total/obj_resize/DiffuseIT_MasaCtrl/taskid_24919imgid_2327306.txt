@@ -1,5 +1,0 @@
-org_img_id: 2327306
-org_cap: "Person off a trampoline, his red and blue ski suit glistening in the sunlight as he through the air, his skis and poles out of his hands as he a daring trick on the water."
-trg_cap: A large person off a trampoline, his red and blue ski suit glistening in the sunlight as he through the air, his skis and poles out of his hands as he a daring trick on the water.
-instruction: Make the person larger.
-taskid: 24919

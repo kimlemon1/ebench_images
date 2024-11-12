@@ -1,5 +1,0 @@
-org_img_id: 2339318
-org_cap: A dog is in the snow, a red frisbee in its mouth.
-trg_cap: An ancient Egyptian-style artwork depicts a dog in the snow with a red frisbee in its mouth.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 122796

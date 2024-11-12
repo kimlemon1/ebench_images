@@ -1,5 +1,0 @@
-org_img_id: 2383437
-org_cap: A gray elephant in an enclosure, its body and trunk visible, with wooden posts and a chain-link fence surrounding it.
-trg_cap: A tan elephant in an enclosure, its body and trunk visible, with wooden posts and a chain-link fence surrounding it.
-instruction: Change the color of the elephant from gray to tan.
-taskid: 38129

@@ -1,5 +1,0 @@
-org_img_id: 2318129
-org_cap: the bus is a white, double-decker bus with a blue stripe running along its sides, parked at a bus stop in a snowy landscape.
-trg_cap: A pencil sketch depicts a white, double-decker bus with a blue stripe running along its sides, parked at a bus stop in a snowy landscape.
-instruction: Change the style if the image to pencil sketch.
-taskid: 1874

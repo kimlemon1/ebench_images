@@ -1,0 +1,5 @@
+org_img_id: 2359067
+org_cap: person swings her racket, her eyes fixed on the ball as it bounces back towards her.
+trg_cap: Person swings her racket, her eyes fixed on the ball as it bounces back towards her, surrounded by the lush greenery and vibrant sounds of a tropical jungle.
+instruction: Change the background to tropical jungle.
+taskid: 36633

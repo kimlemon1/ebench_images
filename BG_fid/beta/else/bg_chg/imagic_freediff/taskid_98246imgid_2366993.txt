@@ -1,5 +1,0 @@
-org_img_id: 2366993
-org_cap: a small airplane with a ladder attached to its landing gear is taking off or landing on a runway, with a person standing on the ladder and holding onto the airplane's wing for support.
-trg_cap: In a gym setting, a small airplane with a ladder attached to its landing gear is taking off or landing on a runway, with a person standing on the ladder and holding onto the airplane's wing for support.
-instruction: Change the background to gym.
-taskid: 98246

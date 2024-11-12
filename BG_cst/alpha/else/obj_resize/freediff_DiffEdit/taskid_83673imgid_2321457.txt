@@ -1,5 +1,0 @@
-org_img_id: 2321457
-org_cap: The sink is a white sink with a single faucet in the center.
-trg_cap: The sink is a large white sink with a single faucet in the center.
-instruction: Make the sink larger.
-taskid: 83673

@@ -1,5 +1,0 @@
-org_img_id: 2416637
-org_cap: Person, wearing a black wetsuit, stands on a surfboard, her arms and legs bent, her face tilted upwards in a triumphant grin.
-trg_cap: In the zoo's wave pool, a person, wearing a black wetsuit, stands on a surfboard, her arms and legs bent, her face tilted upwards in a triumphant grin.
-instruction: Change the background to zoo.
-taskid: 74402

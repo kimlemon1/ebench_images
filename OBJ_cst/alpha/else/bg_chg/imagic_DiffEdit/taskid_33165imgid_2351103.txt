@@ -1,5 +1,0 @@
-org_img_id: 2351103
-org_cap: a little girl in a pink coat and leggings holds a black umbrella, as she walks alongside her mother on a rainy day.
-trg_cap: A little girl in a pink coat and leggings holds a black umbrella, as she walks alongside her mother on a rainy day in the desert.
-instruction: Change the background to desert.
-taskid: 33165

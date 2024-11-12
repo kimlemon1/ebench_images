@@ -1,5 +1,0 @@
-org_img_id: 2344947
-org_cap: The small bathroom features a white toilet and a sink with a single faucet and a small cabinet above it.
-trg_cap: The small bathroom features a white toilet and a sink with a single faucet and a small cabinet above it, with a person standing in front of the sink.
-instruction: Add a person in the sink.
-taskid: 73658

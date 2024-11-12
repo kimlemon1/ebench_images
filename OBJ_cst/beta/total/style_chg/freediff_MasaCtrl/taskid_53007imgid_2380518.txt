@@ -1,5 +1,0 @@
-org_img_id: 2380518
-org_cap: a young woman with long, curly brown hair and a freckled face wears a red t-shirt and black pants with knee pads and a helmet as she rides a skateboard down a city street, her long legs stretched out in front of her and her feet gripping the skateboard as she turns and speeds along the pavement.
-trg_cap: The cartoon-style art depicts a young woman with long, curly brown hair and a freckled face, wearing a red t-shirt, black pants with knee pads, and a helmet, as she rides a skateboard down a city street, her long legs stretched out in front of her and her feet gripping the skateboard as she turns and speeds along the pavement.
-instruction: Change the style if the image to cartoon style.
-taskid: 53007

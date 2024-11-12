@@ -1,0 +1,5 @@
+org_img_id: 2401769
+org_cap: sitting person on the bed, with a black laptop in front of him, and a brown lying dog.
+trg_cap: sitting person on the bed, with a black laptop in front of him, a book on the laptop, and a brown lying dog.
+instruction: Add a book on the laptop.
+taskid: 72639

@@ -1,5 +1,0 @@
-org_img_id: 2329664
-org_cap: a white airplane flies across a bright blue sky with a few wispy clouds.
-trg_cap: A white airplane, with a person on board, flies across a bright blue sky with a few wispy clouds.
-instruction: Add a person on the airplane.
-taskid: 94236

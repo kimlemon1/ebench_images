@@ -1,5 +1,0 @@
-org_img_id: 2400009
-org_cap: playing person swings his racket, eyes fixed on the ball as he volleys it across the net.
-trg_cap: In the concert hall, the playing person swings his racket, eyes fixed on the ball as he volleys it across the net.
-instruction: Change the background to concert hall.
-taskid: 8934

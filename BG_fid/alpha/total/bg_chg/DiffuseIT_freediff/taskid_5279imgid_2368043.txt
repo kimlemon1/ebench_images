@@ -1,5 +1,0 @@
-org_img_id: 2368043
-org_cap: a young person in a green shirt and blue pants across a green grassy field, his arms and a big smile on his face, with a kite flying high in the sky behind him.
-trg_cap: a young person in a green shirt and blue pants across a green grassy field, his arms and a big smile on his face, with a kite flying high in the sky behind him, in the background of a gym.
-instruction: Change the background to gym.
-taskid: 5279

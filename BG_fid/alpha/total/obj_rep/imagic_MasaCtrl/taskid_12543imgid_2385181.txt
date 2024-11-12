@@ -1,5 +1,0 @@
-org_img_id: 2385181
-org_cap: a brown walking elephant, its trunk and takes a few steps.
-trg_cap: a brown dining table.
-instruction: Replace the elephant with a dining table.
-taskid: 12543

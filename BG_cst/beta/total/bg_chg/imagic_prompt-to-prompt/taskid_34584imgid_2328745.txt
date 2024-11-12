@@ -1,5 +1,0 @@
-org_img_id: 2328745
-org_cap: A yellow donut sits on a white plate, its surface glistening with a sheen, the edges crumbly and the center hole a tiny imperfection in the otherwise perfect yellow donut.
-trg_cap: A yellow donut sits on a white plate, its surface glistening with a sheen, the edges crumbly and the center hole a tiny imperfection in the otherwise perfect yellow donut, as the gentle breeze from the lakeside rustles nearby leaves.
-instruction: Change the background to lake side.
-taskid: 34584

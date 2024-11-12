@@ -1,5 +1,0 @@
-org_img_id: 2406193
-org_cap: a small person sits in a vintage suitcase, wearing a striped tie.
-trg_cap: A cat sits in a vintage suitcase.
-instruction: Replace the person with a cat.
-taskid: 38355

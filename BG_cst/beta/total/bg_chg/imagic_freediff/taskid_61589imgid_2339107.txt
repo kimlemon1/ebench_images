@@ -1,5 +1,0 @@
-org_img_id: 2339107
-org_cap: A lone person on a bench in a dimly lit metro station, surrounded by the hum of the train and the faint glow of advertisements on the platform walls.
-trg_cap: A lone person on a bench in a dimly lit metro station, surrounded by the hum of the train and the faint glow of advertisements on the platform walls, reminiscent of the soft lighting and ambient sounds of a cozy living room.
-instruction: Change the background to living room.
-taskid: 61589

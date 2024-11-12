@@ -1,5 +1,0 @@
-org_img_id: 2332088
-org_cap: a blue pen lies on a cluttered desk, surrounded by scattered papers and a cup with a saucer.
-trg_cap: a blue pen lies on a cluttered desk, surrounded by scattered papers and a large cup with a saucer.
-instruction: Make the cup larger.
-taskid: 15780

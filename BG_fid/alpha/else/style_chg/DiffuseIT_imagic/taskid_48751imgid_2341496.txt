@@ -1,5 +1,0 @@
-org_img_id: 2341496
-org_cap: a person in his mid-twenties, wearing a red t-shirt and casual pants, with a unique green bicycle leaning against the bench behind him.
-trg_cap: The mosaic art depicts a person in his mid-twenties wearing a red t-shirt and casual pants, with a unique green bicycle leaning against the bench behind him.
-instruction: Change the style if the image to mosaic art.
-taskid: 48751

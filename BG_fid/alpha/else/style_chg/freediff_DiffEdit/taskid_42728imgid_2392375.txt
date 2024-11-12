@@ -1,5 +1,0 @@
-org_img_id: 2392375
-org_cap: a person sits on the back of a gray walking elephant, holding a blue umbrella above their head, with the umbrella flapping gently in the breeze.
-trg_cap: An oil painting style artwork depicts a person sitting on the back of a gray walking elephant, holding a blue umbrella above their head, with the umbrella flapping gently in the breeze.
-instruction: Change the style if the image to oil painting style.
-taskid: 42728

@@ -1,5 +1,0 @@
-org_img_id: 2401522
-org_cap: A wet person, a motorcycle through the rain-soaked streets.
-trg_cap: A mosaic art depicts a wet person and a motorcycle navigating through rain-soaked streets.
-instruction: Change the style if the image to mosaic art.
-taskid: 6070

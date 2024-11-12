@@ -1,5 +1,0 @@
-org_img_id: 2332472
-org_cap: Person through the snow in her bright blue snow pants and matching hat, her snowshoes on the frozen crystals as she across the winter wonderland.
-trg_cap: Chair through the snow, her snowshoes on the frozen crystals as she moves across the winter wonderland.
-instruction: Replace the person with a chair.
-taskid: 114139

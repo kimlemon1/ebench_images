@@ -1,5 +1,0 @@
-org_img_id: 2346263
-org_cap: A white plate holds a slice of yellow cake, accompanied by a brown cup of coffee and a fork lying idly beside it.
-trg_cap: A white plate holds a slice of yellow cake, accompanied by a brown cup of coffee and a fork lying idly beside it, set against the backdrop of a lush pine forest.
-instruction: Change the background to pine forest.
-taskid: 83106

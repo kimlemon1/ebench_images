@@ -1,5 +1,0 @@
-org_img_id: 2329618
-org_cap: a slice of pizza with a crispy crust, topped with a layer of creamy goat cheese, fresh spinach leaves, and smoked salmon, served on a silver tray.
-trg_cap: A slice of pizza with a crispy crust, topped with a layer of creamy goat cheese, fresh spinach leaves, and smoked salmon, served on a silver tray in the cozy ambiance of a living room.
-instruction: Change the background to living room.
-taskid: 10307

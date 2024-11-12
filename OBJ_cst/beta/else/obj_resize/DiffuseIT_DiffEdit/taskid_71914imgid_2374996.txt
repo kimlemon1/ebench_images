@@ -1,5 +1,0 @@
-org_img_id: 2374996
-org_cap: A wood bench sits beneath a rustling tree, surrounded by a carpet of golden autumn leaves.
-trg_cap: A small wood bench sits beneath a rustling tree, surrounded by a carpet of golden autumn leaves.
-instruction: Make the bench smaller.
-taskid: 71914

@@ -1,0 +1,5 @@
+org_img_id: 2368623
+org_cap: a baby elephant, its trunk curled and its ears flapping.
+trg_cap: A grey scale photo features a baby elephant with its trunk curled and its ears flapping.
+instruction: Change the style if the image to grey scale.
+taskid: 6339

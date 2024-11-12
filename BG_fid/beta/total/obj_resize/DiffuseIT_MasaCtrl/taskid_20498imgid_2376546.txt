@@ -1,5 +1,0 @@
-org_img_id: 2376546
-org_cap: skating, skateboarding person on skateboard, through cones and obstacles, eyes on the path ahead.
-trg_cap: skating, skateboarding person on large skateboard, through cones and obstacles, eyes on the path ahead.
-instruction: Make the skateboard larger.
-taskid: 20498

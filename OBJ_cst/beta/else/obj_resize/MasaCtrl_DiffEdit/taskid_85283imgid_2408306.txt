@@ -1,5 +1,0 @@
-org_img_id: 2408306
-org_cap: A red train rumbles along the elevated tracks above a bustling street festival, its headlights illuminating the vibrant colors of vendors and attendees.
-trg_cap: A small red train rumbles along the elevated tracks above a bustling street festival, its headlights illuminating the vibrant colors of vendors and attendees.
-instruction: Make the train smaller.
-taskid: 85283

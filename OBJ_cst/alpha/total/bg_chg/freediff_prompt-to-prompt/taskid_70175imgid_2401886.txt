@@ -1,5 +1,0 @@
-org_img_id: 2401886
-org_cap: A young person is standing on the sidewalk, with a green traffic light in the background.
-trg_cap: A young person is standing on the sidewalk, with a desert in the background.
-instruction: Change the background to desert.
-taskid: 70175

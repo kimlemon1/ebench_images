@@ -1,5 +1,0 @@
-org_img_id: 2344067
-org_cap: A running black zebra, its black and white stripes glistening in the sunlight.
-trg_cap: A large running black zebra, its black and white stripes glistening in the sunlight.
-instruction: Make the zebra larger.
-taskid: 57170

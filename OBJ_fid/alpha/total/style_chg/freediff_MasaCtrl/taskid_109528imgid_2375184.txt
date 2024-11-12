@@ -1,5 +1,0 @@
-org_img_id: 2375184
-org_cap: A brown, striped, sleeping cat sitting on a mat, with a rusty pipe and a ceramic plate with a floral design leaning against the wall nearby.
-trg_cap: A Van Gogh style artwork features a brown, striped, sleeping cat sitting on a mat, with a rusty pipe and a ceramic plate with a floral design leaning against the wall nearby.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 109528

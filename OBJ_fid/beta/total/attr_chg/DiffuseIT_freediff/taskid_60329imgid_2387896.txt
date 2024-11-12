@@ -1,5 +1,0 @@
-org_img_id: 2387896
-org_cap: a young person with a muscular physique and a messy hairstyle, wearing a black tank top and athletic shorts, is shown in mid-air, his arms and legs splayed out in all directions as he attempts to catch a yellow frisbee.
-trg_cap: a young person with a muscular physique and a messy hairstyle, wearing a black tank top and athletic shorts, is shown in mid-air, his arms and legs splayed out in all directions as he attempts to catch a orange frisbee.
-instruction: Change the color of the frisbee from yellow to orange.
-taskid: 60329

@@ -1,5 +1,0 @@
-org_img_id: 2387119_1
-org_cap: The blue skis stand upright, with their tips pointing towards the snow and their bindings held securely by the person's gloved hands.
-trg_cap: The blue suitcase stands upright, and its bindings held securely by their gloved hands.
-instruction: Replace the skis with a suitcase.
-taskid: 63085

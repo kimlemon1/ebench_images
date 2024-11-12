@@ -1,5 +1,0 @@
-org_img_id: 2256
-org_cap: A white truck is parked on the sidewalk, surrounded by pedestrians walking in both directions and cars driving by on the street.
-trg_cap: A dark blue truck is parked on the sidewalk, surrounded by pedestrians walking in both directions and cars driving by on the street.
-instruction: Change the color of the truck from white to dark blue.
-taskid: 55231

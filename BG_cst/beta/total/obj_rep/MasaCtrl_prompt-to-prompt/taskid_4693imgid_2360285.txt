@@ -1,5 +1,0 @@
-org_img_id: 2360285
-org_cap: Person in front of a blackboard, wearing a white shirt and a blue necktie.
-trg_cap: A person in front of a blackboard, wearing a white shirt and scissors.
-instruction: Replace the tie with a scissors.
-taskid: 4693

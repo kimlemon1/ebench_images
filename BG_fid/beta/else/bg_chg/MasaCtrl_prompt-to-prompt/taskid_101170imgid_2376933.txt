@@ -1,5 +1,0 @@
-org_img_id: 2376933
-org_cap: a white, jumping dog, its paws and its tail as it a red frisbee.
-trg_cap: A white, jumping dog, its paws and its tail as it a red frisbee, in front of a grand museum facade.
-instruction: Change the background to museum.
-taskid: 101170

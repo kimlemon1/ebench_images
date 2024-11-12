@@ -1,5 +1,0 @@
-org_img_id: 2352748
-org_cap: a red double-decker bus navigates through a snow-covered street, with a church tower visible in the background, surrounded by snowflakes gently falling from the grey sky.
-trg_cap: A large red double-decker bus navigates through a snow-covered street, with a church tower visible in the background, surrounded by snowflakes gently falling from the grey sky.
-instruction: Make the bus larger.
-taskid: 85209

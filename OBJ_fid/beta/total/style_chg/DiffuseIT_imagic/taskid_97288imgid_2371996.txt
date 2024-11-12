@@ -1,5 +1,0 @@
-org_img_id: 2371996
-org_cap: A person, person, his black skateboard out from under his feet as he executes a flawless kickflip.
-trg_cap: A pencil sketch art depicts a person executing a flawless kickflip, with his black skateboard out from under his feet.
-instruction: Change the style if the image to pencil sketch.
-taskid: 97288

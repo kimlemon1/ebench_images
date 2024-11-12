@@ -1,5 +1,0 @@
-org_img_id: 2414552
-org_cap: A white airplane soars through the sky, its wings and tail gleaming in the sunlight as it leaves a trail of contrails behind it.
-trg_cap: A pencil sketch art depicts a white airplane soaring through the sky, its wings and tail gleaming in the sunlight as it leaves a trail of contrails behind it.
-instruction: Change the style if the image to pencil sketch.
-taskid: 10424

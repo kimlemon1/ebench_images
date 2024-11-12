@@ -1,5 +1,0 @@
-org_img_id: 986
-org_cap: A brown, ripe banana sits alone on a white paper plate, its banana slightly bruised and brown in spots.
-trg_cap: A brown, unripe banana sits alone on a white paper plate, its banana slightly bruised and brown in spots.
-instruction: Change the state of the banana from ripe to unripe.
-taskid: 66929

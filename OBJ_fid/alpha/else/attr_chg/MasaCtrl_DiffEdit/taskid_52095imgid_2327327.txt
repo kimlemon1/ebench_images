@@ -1,5 +1,0 @@
-org_img_id: 2327327
-org_cap: The tabby cat lies on a gray couch, its tail around its body and its eyes into the distance.
-trg_cap: The cream colored cat lies on a gray couch, its tail around its body and its eyes into the distance.
-instruction: Change the color of the cat from tabby to cream colored.
-taskid: 52095

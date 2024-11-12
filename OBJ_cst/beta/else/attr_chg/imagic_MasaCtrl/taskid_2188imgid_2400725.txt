@@ -1,5 +1,0 @@
-org_img_id: 2400725
-org_cap: person rides a wave on a white surfboard, his arms and legs as through the water.
-trg_cap: person rides a wave on a brown surfboard, his arms and legs as through the water.
-instruction: Change the color of the surfboard from white to brown.
-taskid: 2188

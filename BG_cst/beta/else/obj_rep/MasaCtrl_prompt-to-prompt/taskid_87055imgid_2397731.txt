@@ -1,5 +1,0 @@
-org_img_id: 2397731
-org_cap: a wet dog on the grass, wearing a bright red collar and a tiny umbrella in its paw to protect itself from the rain.
-trg_cap: a wet cup on the grass
-instruction: Replace the dog with a cup.
-taskid: 87055

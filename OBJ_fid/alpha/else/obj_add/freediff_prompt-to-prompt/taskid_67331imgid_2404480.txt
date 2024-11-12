@@ -1,5 +1,0 @@
-org_img_id: 2404480
-org_cap: "a surfing person rides a person through the waves, his arms and legs bent as he carves a smooth arc through the turquoise water."
-trg_cap: A surfing person rides a person through the waves, his arms and legs bent as he carves a smooth arc through the turquoise water, with a zebra next to him.
-instruction: Add a zebra next to the person.
-taskid: 67331

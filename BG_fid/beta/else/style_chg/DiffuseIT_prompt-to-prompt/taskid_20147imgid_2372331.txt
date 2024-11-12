@@ -1,5 +1,0 @@
-org_img_id: 2372331
-org_cap: a gray, playing, sitting cat with a tangled mess of green ribbon wrapped around its paws and body on a dark brown couch in front of a round coffee table with a cream-colored rug.
-trg_cap: The pencil sketch art depicts a gray cat playing and sitting with a tangled mess of green ribbon wrapped around its paws and body on a dark brown couch in front of a round coffee table with a cream-colored rug.
-instruction: Change the style if the image to pencil sketch.
-taskid: 20147

@@ -1,5 +1,0 @@
-org_img_id: 2372717
-org_cap: a striped zebra in a fenced enclosure.
-trg_cap: A striped zebra in a fenced enclosure near the train station.
-instruction: Change the background to train station.
-taskid: 22322

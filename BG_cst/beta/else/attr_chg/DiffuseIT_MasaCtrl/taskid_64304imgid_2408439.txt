@@ -1,5 +1,0 @@
-org_img_id: 2408439
-org_cap: a blue train, with its sleek silver body and bright blue stripes, speeds along the blue train, its wheels clicking rhythmically on the blue train.
-trg_cap: a red train, with its sleek silver body and bright red stripes, speeds along the red train, its wheels clicking rhythmically on the red train.
-instruction: Change the color of the train from blue to red.
-taskid: 64304

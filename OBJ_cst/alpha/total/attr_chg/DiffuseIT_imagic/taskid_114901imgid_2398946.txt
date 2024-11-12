@@ -1,5 +1,0 @@
-org_img_id: 2398946
-org_cap: a person floats on the calm waters of a salt lake, holding an open book and wearing a black umbrella, its umbrella reflecting the serene surroundings.
-trg_cap: a person floats on the calm waters of a salt lake, holding an open book and wearing a green umbrella, its umbrella reflecting the serene surroundings.
-instruction: Change the color of the umbrella from black to green.
-taskid: 114901

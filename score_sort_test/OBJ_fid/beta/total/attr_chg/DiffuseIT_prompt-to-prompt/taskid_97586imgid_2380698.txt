@@ -1,0 +1,5 @@
+org_img_id: 2380698
+org_cap: A blue airplane sits on the runway, its propeller spinning slowly as it prepares for takeoff.
+trg_cap: A yellow airplane sits on the runway, its propeller spinning slowly as it prepares for takeoff.
+instruction: Change the color of the airplane from blue to yellow.
+taskid: 97586

@@ -1,5 +1,0 @@
-org_img_id: 3636
-org_cap: a person in a denim jacket holds a plate of birdseed, with a flock of birds on his shoulders and head, their bright green and yellow feathers a vibrant contrast to the urban landscape behind.
-trg_cap: The pop art style artwork depicts a person in a denim jacket holding a plate of birdseed, with a flock of birds on his shoulders and head, their bright green and yellow feathers providing a vibrant contrast to the urban landscape behind.
-instruction: Change the style if the image to pop art style.
-taskid: 119149

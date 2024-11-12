@@ -1,5 +1,0 @@
-org_img_id: 2319849
-org_cap: The tiered white cake features an exterior with a design, adorned with polka dots and a ribbon wrapped around the middle tier, topped with a bouquet of flowers.
-trg_cap: The tiered white carrot features an exterior with its design, topped with a bouquet of flowers.
-instruction: Replace the cake with a carrot.
-taskid: 104552

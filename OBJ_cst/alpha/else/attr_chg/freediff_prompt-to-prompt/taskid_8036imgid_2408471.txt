@@ -1,5 +1,0 @@
-org_img_id: 2408471
-org_cap: a gray cat, its fur fluffed up and its whiskers, surrounded by a pair of worn-out sneakers and a forgotten sock.
-trg_cap: a red cat, its fur fluffed up and its whiskers, surrounded by a pair of worn-out sneakers and a forgotten sock.
-instruction: Change the color of the cat from gray to red.
-taskid: 8036

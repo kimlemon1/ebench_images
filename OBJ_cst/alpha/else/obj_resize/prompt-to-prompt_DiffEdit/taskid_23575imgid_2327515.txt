@@ -1,5 +1,0 @@
-org_img_id: 2327515
-org_cap: Person, wearing a red shirt and gray pants, with his knees bent and his hands flat on the asphalt, his skateboard lying nearby on the road.
-trg_cap: Small person, wearing a red shirt and gray pants, with his knees bent and his hands flat on the asphalt, his skateboard lying nearby on the road.
-instruction: Make the person smaller.
-taskid: 23575

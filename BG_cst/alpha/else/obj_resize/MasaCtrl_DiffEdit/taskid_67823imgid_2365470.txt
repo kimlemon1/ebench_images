@@ -1,5 +1,0 @@
-org_img_id: 2365470
-org_cap: Playing person eyes fixed on the ball as she on the tennis court.
-trg_cap: Playing small person eyes fixed on the ball as she on the tennis court.
-instruction: Make the person smaller.
-taskid: 67823

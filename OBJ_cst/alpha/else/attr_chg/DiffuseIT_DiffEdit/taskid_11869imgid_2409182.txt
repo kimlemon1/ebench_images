@@ -1,5 +1,0 @@
-org_img_id: 2409182
-org_cap: The rustic wooden table is set with a simple white tablecloth, a wood bowl in the center, and a few chairs arranged around it, with a white refrigerator standing against one wall and a few kitchen utensils hanging from the ceiling.
-trg_cap: The rustic disposableen table is set with a simple white tablecloth, a disposable bowl in the center, and a few chairs arranged around it, with a white refrigerator standing against one wall and a few kitchen utensils hanging from the ceiling.
-instruction: Change the material of the bowl from wood to disposable.
-taskid: 11869

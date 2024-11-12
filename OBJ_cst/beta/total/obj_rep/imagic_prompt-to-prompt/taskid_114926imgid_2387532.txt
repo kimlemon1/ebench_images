@@ -1,5 +1,0 @@
-org_img_id: 2387532
-org_cap: Person swings his racket, his eyes fixed on the ball as it soars over the net.
-trg_cap: Handbag swings their racket as it soars over the net.
-instruction: Replace the person with a handbag.
-taskid: 114926

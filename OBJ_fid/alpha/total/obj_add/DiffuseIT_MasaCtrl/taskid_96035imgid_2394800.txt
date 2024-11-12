@@ -1,5 +1,0 @@
-org_img_id: 2394800
-org_cap: a solitary figure sits on a bench, holding a white umbrella against the bright blue sky, with the vast expanse of the ocean stretching out behind.
-trg_cap: A solitary figure sits on a bench, holding a white umbrella against the bright blue sky, with a bird perched next to the umbrella and the vast expanse of the ocean stretching out behind.
-instruction: Add a bird next to the umbrella.
-taskid: 96035

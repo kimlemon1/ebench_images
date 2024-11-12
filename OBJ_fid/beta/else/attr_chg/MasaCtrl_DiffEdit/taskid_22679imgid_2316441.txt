@@ -1,5 +1,0 @@
-org_img_id: 2316441
-org_cap: A white dog sits on a wooden porch, surrounded by mud and dirt, with a few loose hairs on its fur.
-trg_cap: A beige dog sits on a wooden porch, surrounded by mud and dirt, with a few loose hairs on its fur.
-instruction: Change the color of the dog from white to beige.
-taskid: 22679

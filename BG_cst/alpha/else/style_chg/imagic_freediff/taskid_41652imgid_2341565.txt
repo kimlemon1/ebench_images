@@ -1,5 +1,0 @@
-org_img_id: 2341565
-org_cap: a gray teddy bear sits on a floor, wearing white sneakers and surrounded by red headphones, a gray teddy bear, and a few scattered gray teddy bears.
-trg_cap: An oil painting style art features a gray teddy bear sitting on a floor, wearing white sneakers and surrounded by red headphones, along with a few scattered gray teddy bears.
-instruction: Change the style if the image to oil painting style.
-taskid: 41652

@@ -1,5 +1,0 @@
-org_img_id: 2360591
-org_cap: The scene is focused on a young person and a girl chasing after a green ball on a grassy field.
-trg_cap: The scene is focused on a young boy and a girl chasing after a cat.
-instruction: Replace the sports ball with a cat.
-taskid: 107206

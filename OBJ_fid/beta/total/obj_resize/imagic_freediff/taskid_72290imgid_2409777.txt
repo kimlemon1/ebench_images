@@ -1,5 +1,0 @@
-org_img_id: 2409777
-org_cap: A yellow fire hydrant stands alone on a dusty construction site, surrounded by wooden barriers and a backdrop of half-built buildings.
-trg_cap: A small yellow fire hydrant stands alone on a dusty construction site, surrounded by wooden barriers and a backdrop of half-built buildings.
-instruction: Make the fire hydrant smaller.
-taskid: 72290

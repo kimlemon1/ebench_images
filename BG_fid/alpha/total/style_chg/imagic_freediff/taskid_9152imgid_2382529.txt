@@ -1,5 +1,0 @@
-org_img_id: 2382529
-org_cap: A brown, sleeping cat lies on a bathroom sink, its fur and its tail around the edge of the sink, surrounded by decorative tiles and a red wallpaper.
-trg_cap: An ancient Egyptian-style artwork depicts a brown, sleeping cat lying on a bathroom sink, its fur and tail draped around the edge, surrounded by decorative tiles and red wallpaper.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 9152

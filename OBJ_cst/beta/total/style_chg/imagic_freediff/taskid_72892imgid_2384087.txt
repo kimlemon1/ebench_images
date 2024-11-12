@@ -1,5 +1,0 @@
-org_img_id: 2384087
-org_cap: person dribbles the white sports ball on the grassy field, his white shirt and shorts a blur as he weaves past opponents.
-trg_cap: The cartoon-style art depicts a person dribbling a white sports ball on a grassy field, their white shirt and shorts a blur as they weave past opponents.
-instruction: Change the style if the image to cartoon style.
-taskid: 72892

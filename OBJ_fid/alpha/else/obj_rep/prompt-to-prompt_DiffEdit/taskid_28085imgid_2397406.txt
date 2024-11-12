@@ -1,5 +1,0 @@
-org_img_id: 2397406
-org_cap: a red bus glides smoothly along the road, its wheels humming softly as it approaches the iconic monument.
-trg_cap: Hot dog glides smoothly along the road as he approaches the iconic monument.
-instruction: Replace the bus with a hot dog.
-taskid: 28085

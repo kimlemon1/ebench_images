@@ -1,5 +1,0 @@
-org_img_id: 2351912
-org_cap: A gray, dirty, wet, grazing elephant in a clearing surrounded by tall trees and acacia bushes, its gray skin in the sunlight.
-trg_cap: A small, gray, dirty, wet, grazing elephant in a clearing surrounded by tall trees and acacia bushes, its gray skin in the sunlight.
-instruction: Make the elephant smaller.
-taskid: 82404

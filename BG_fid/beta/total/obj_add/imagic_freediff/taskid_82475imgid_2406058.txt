@@ -1,5 +1,0 @@
-org_img_id: 2406058
-org_cap: A red boat floats gently on the calm waters, its boat reflected in the serene lake as the warm golden light of sunset casts a warm glow on the surrounding mountains.
-trg_cap: A red boat floats gently on the calm waters, its boat reflected in the serene lake as the warm golden light of sunset casts a warm glow on the surrounding mountains, with a clock visible behind the boat.
-instruction: Add a clock behind the boat.
-taskid: 82475

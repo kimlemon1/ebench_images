@@ -1,5 +1,0 @@
-org_img_id: 2333006
-org_cap: The white toilet is a fixture with a rounded bowl and a chrome handle.
-trg_cap: A watercolor painting style art features a white toilet with a rounded bowl and a chrome handle.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 122426

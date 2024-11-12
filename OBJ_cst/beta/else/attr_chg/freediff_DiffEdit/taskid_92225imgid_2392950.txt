@@ -1,5 +1,0 @@
-org_img_id: 2392950
-org_cap: The train is a blue train with a rounded front and a flatbed, sporting a distinctive train.
-trg_cap: The train is a translucent train with a rounded front and a flatbed, sporting a distinctive train.
-instruction: Change the color of the train from blue to translucent.
-taskid: 92225

@@ -1,5 +1,0 @@
-org_img_id: 2364274
-org_cap: a train travels along the tracks, its wheels clicking against the steel as it moves slowly through the autumn landscape, with the rust-colored leaves of the trees and the green grass of the fields blending together in a warm, golden light.
-trg_cap: A small train travels along the tracks, its wheels clicking against the steel as it moves slowly through the autumn landscape, with the rust-colored leaves of the trees and the green grass of the fields blending together in a warm, golden light.
-instruction: Make the train smaller.
-taskid: 109312

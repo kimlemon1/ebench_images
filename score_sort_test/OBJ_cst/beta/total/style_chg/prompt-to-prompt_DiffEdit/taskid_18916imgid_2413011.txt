@@ -1,0 +1,5 @@
+org_img_id: 2413011
+org_cap: a yellow kite with colorful streamers soaring in the sky, accompanied by a military airplane flying overhead, both suspended in the blue kite with only a few wispy clouds.
+trg_cap: The cartoon-style art features a yellow kite with colorful streamers soaring in the sky, accompanied by a military airplane flying overhead, both suspended in the blue sky with only a few wispy clouds.
+instruction: Change the style if the image to cartoon style.
+taskid: 18916

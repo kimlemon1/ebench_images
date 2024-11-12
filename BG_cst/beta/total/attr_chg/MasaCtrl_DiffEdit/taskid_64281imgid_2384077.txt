@@ -1,5 +1,0 @@
-org_img_id: 2384077
-org_cap: A red bus travels down the street, passing by parked cars and trees in bloom.
-trg_cap: A pink bus travels down the street, passing by parked cars and trees in bloom.
-instruction: Change the color of the bus from red to pink.
-taskid: 64281

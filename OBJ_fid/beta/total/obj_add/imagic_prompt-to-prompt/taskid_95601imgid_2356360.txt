@@ -1,5 +1,0 @@
-org_img_id: 2356360
-org_cap: The clock tower stands tall with a worn, weathered exterior featuring intricate stone carvings and a white clock face.
-trg_cap: The clock tower stands tall with a worn, weathered exterior featuring intricate stone carvings and a white clock face, with a fire hydrant located behind it.
-instruction: Add a fire hydrant behind the clock.
-taskid: 95601

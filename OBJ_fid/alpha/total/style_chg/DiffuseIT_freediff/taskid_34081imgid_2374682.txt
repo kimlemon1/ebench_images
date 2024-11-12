@@ -1,5 +1,0 @@
-org_img_id: 2374682
-org_cap: A red bus sits at the bus stop under the elevated highway, its wheels and tires visible, and its headlights and mirrors reflecting the grey sky.
-trg_cap: A pencil sketch art depicts a red bus sitting at the bus stop under the elevated highway, with its wheels and tires visible and its headlights and mirrors reflecting the grey sky.
-instruction: Change the style if the image to pencil sketch.
-taskid: 34081

@@ -1,0 +1,5 @@
+org_img_id: 2321730
+org_cap: A person in a wetsuit on a paddleboard in the ocean, with a brown dog alongside him.
+trg_cap: A person in a wetsuit on a paddleboard in the ocean, with a brown dog alongside him and a surfboard in front of the dog.
+instruction: Add a surfboard in front of the dog.
+taskid: 61479

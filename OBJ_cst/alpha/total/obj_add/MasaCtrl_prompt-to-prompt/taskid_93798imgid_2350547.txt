@@ -1,5 +1,0 @@
-org_img_id: 2350547
-org_cap: The room contains a small, rectangular table with a chair, a stack of books and a few toys on the floor, and a brown chair in the corner.
-trg_cap: The room contains a small, rectangular table with a chair, a stack of books and a few toys on the floor, a vase in front of the chair, and a brown chair in the corner.
-instruction: Add a vase in front of the chair.
-taskid: 93798

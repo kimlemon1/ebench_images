@@ -1,5 +1,0 @@
-org_img_id: 2372230
-org_cap: A grazing, shaved sheep lies in the sun, its fleece with dew, its eyes in contentment, its body, surrounded by lush green grass and the rustic charm of a rural landscape.
-trg_cap: A grazing, shaved sheep lies in the sun, its fleece with dew, its eyes in contentment, its body, surrounded by a snow field and the rustic charm of a rural landscape.
-instruction: Change the background to snow field.
-taskid: 113699

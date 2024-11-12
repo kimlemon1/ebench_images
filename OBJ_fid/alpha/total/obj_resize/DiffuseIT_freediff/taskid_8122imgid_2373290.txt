@@ -1,5 +1,0 @@
-org_img_id: 2373290
-org_cap: The chair is a black chair.
-trg_cap: The chair is a large black chair.
-instruction: Make the chair larger.
-taskid: 8122

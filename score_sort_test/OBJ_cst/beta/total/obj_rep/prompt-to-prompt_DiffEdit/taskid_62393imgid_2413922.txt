@@ -1,0 +1,5 @@
+org_img_id: 2413922
+org_cap: The refrigerator is a small, gray, compact unit with a simple label attached to its front, bearing the words "refrigerator" in bold letters.
+trg_cap: The suitcase is a unit.
+instruction: Replace the refrigerator with a suitcase.
+taskid: 62393

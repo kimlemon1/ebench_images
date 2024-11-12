@@ -1,5 +1,0 @@
-org_img_id: 2402732
-org_cap: a herd of wild horses gallops across the vast steppes, their manes and tails flowing in the wind as they chase after a stray cow, their hooves pounding the dry earth in unison.
-trg_cap: A graffiti art depicts a herd of wild horses galloping across the vast steppes, their manes and tails flowing in the wind as they chase after a stray cow, with their hooves pounding the dry earth in unison.
-instruction: Change the style if the image to graffiti art.
-taskid: 99049

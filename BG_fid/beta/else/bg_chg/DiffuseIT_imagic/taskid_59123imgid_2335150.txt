@@ -1,5 +1,0 @@
-org_img_id: 2335150
-org_cap: the clock tower stands tall, its ornate facade featuring intricate carvings and a large clock face at its peak.
-trg_cap: The clock tower stands tall against the backdrop of a dense pine forest, its ornate facade featuring intricate carvings and a large clock face at its peak.
-instruction: Change the background to pine forest.
-taskid: 59123

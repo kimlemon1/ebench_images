@@ -1,5 +1,0 @@
-org_img_id: 2417245
-org_cap: A female person wearing a black and white dress standing between two yellow train designed trams, in an European city.
-trg_cap: A large female person wearing a black and white dress standing between two yellow train designed trams, in an European city.
-instruction: Make the person larger.
-taskid: 110091

@@ -1,5 +1,0 @@
-org_img_id: 2413377
-org_cap: a young person in a bright blue coat and snow pants on a snow-covered bench, her gloved hands the letters "c-a-t" in the snow.
-trg_cap: a young person in a bright blue coat and snow pants on a snow-covered bench in the middle of a vast desert, her gloved hands the letters "c-a-t" in the snow.
-instruction: Change the background to desert.
-taskid: 54335

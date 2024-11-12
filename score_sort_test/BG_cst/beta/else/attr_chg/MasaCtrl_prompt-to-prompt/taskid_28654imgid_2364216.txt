@@ -1,0 +1,5 @@
+org_img_id: 2364216
+org_cap: An old train rumbles along the tracks, its wheels clicking on the rails as it carries passengers in carriages.
+trg_cap: An new train rumbles along the tracks, its wheels clicking on the rails as it carries passengers in carriages.
+instruction: Change the state of the train from old to new.
+taskid: 28654

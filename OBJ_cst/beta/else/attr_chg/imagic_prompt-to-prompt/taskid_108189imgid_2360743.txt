@@ -1,5 +1,0 @@
-org_img_id: 2360743
-org_cap: The scene is a bustling street in the heart of the city, with a mix of tourists, locals, and green buses all walking down the street.
-trg_cap: The scene is a bustling street in the heart of the city, with a mix of tourists, locals, and green buses all walking down the street.
-instruction: Change the color of the backpack from black to white.
-taskid: 108189

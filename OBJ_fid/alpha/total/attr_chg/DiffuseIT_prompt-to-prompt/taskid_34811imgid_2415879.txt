@@ -1,5 +1,0 @@
-org_img_id: 2415879
-org_cap: A red kite soars above the sandy beach, its vibrant color contrasting with the soft, golden hues of the shore, as it dances in the gentle breeze, with the rugged coastline and towering sea stacks providing a dramatic backdrop.
-trg_cap: A pink kite soars above the sandy beach, its vibrant color contrasting with the soft, golden hues of the shore, as it dances in the gentle breeze, with the rugged coastline and towering sea stacks providing a dramatic backdrop.
-instruction: Change the color of the kite from red to pink.
-taskid: 34811

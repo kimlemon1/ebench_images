@@ -1,0 +1,5 @@
+org_img_id: 2389905
+org_cap: A blue metal fire hydrant stands tall on a patch of green grass, its cap and valve gleaming in the sunlight.
+trg_cap: A graffiti art piece features a blue metal fire hydrant standing tall on a patch of green grass, with its cap and valve gleaming in the sunlight.
+instruction: Change the style if the image to graffiti art.
+taskid: 5638

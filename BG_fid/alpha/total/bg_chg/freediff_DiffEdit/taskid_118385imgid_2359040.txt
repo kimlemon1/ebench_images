@@ -1,5 +1,0 @@
-org_img_id: 2359040
-org_cap: The toilet is a small, modern space with a green wall, a white sink, and a white, plastic toilet.
-trg_cap: The toilet is a small, modern space with a green wall reminiscent of a grass field, a white sink, and a white, plastic toilet.
-instruction: Change the background to grass field.
-taskid: 118385

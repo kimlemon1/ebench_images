@@ -1,5 +1,0 @@
-org_img_id: 2406333
-org_cap: person is kneeling on the floor, wearing a gray suit and a striped necktie.
-trg_cap: person is kneeling on the floor, wearing a gray suit and a small striped necktie.
-instruction: Make the tie smaller.
-taskid: 22102

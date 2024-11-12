@@ -1,0 +1,5 @@
+org_img_id: 2366716
+org_cap: Standing person on a blue tarpaulin, with orange snowboard and goggles.
+trg_cap: A Van Gogh style artwork features a standing person on a blue tarpaulin, equipped with an orange snowboard and goggles.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 52132

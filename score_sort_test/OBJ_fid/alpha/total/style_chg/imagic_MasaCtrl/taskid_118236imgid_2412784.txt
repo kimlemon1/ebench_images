@@ -1,0 +1,5 @@
+org_img_id: 2412784
+org_cap: A person wearing a red t-shirt and a black short playing tennis on a blue tennis court
+trg_cap: An oil painting art of a person wearing a red t-shirt and a black short playing tennis on a blue tennis court
+instruction: Change the style if the image to oil painting style.
+taskid: 118236

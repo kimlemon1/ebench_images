@@ -1,0 +1,5 @@
+org_img_id: 2332211
+org_cap: A yellow train stands on the platform, its yellow train gleaming in the sunlight, with a yellow train running along its sides and a yellow train, its wheels and doors gleaming in the bright light.
+trg_cap: A dark brown train stands on the platform, its dark brown train gleaming in the sunlight, with a dark brown train running along its sides and a dark brown train, its wheels and doors gleaming in the bright light.
+instruction: Change the color of the train from yellow to dark brown.
+taskid: 114312

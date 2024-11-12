@@ -1,5 +1,0 @@
-org_img_id: 2390165
-org_cap: a yellow train chugging along the tracks, flanked by a row of tall, rusty fences.
-trg_cap: A yellow train chugging along the tracks, flanked by a row of tall, rusty fences, passed by a gym bustling with activity.
-instruction: Change the background to gym.
-taskid: 85026

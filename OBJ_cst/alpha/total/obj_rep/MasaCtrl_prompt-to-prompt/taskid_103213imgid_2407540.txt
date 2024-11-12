@@ -1,5 +1,0 @@
-org_img_id: 2407540
-org_cap: A young, blond person in a white tennis outfit stands on a tennis court, holding a tennis racket with a focused expression.
-trg_cap: An elephant stands on a tennis court, holding a tennis racket with its focused expression.
-instruction: Replace the person with a elephant.
-taskid: 103213

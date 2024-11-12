@@ -1,5 +1,0 @@
-org_img_id: 2390884
-org_cap: the crispy sandwich is filled with tender pork, crispy bacon, and a tangy slaw, all held together with a generous dollop of creamy aioli.
-trg_cap: The small crispy sandwich is filled with tender pork, crispy bacon, and a tangy slaw, all held together with a generous dollop of creamy aioli.
-instruction: Make the sandwich smaller.
-taskid: 59870

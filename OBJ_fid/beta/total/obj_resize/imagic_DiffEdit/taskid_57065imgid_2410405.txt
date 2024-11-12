@@ -1,5 +1,0 @@
-org_img_id: 2410405
-org_cap: A standing person near a stop sign, wearing a green t-shirt with a baseball team logo.
-trg_cap: A large standing person near a stop sign, wearing a green t-shirt with a baseball team logo.
-instruction: Make the person larger.
-taskid: 57065

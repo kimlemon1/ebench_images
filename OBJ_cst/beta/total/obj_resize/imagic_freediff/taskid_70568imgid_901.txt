@@ -1,5 +1,0 @@
-org_img_id: 901
-org_cap: Person, wearing a yellow shirt with floral patterns and a black hat, on the hood of a bright yellow vintage beetle, his worn leather shoes and scuffed up black dress shoes a testament to his age and hard work.
-trg_cap: A small person, wearing a yellow shirt with floral patterns and a black hat, on the hood of a bright yellow vintage beetle, his worn leather shoes and scuffed up black dress shoes a testament to his age and hard work.
-instruction: Make the person smaller.
-taskid: 70568

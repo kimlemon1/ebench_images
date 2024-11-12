@@ -1,5 +1,0 @@
-org_img_id: 2349750
-org_cap: a colorful array of fruits and vegetables lies on a table, including a blue bowl, a cluster of ripe bananas, a few slices of orange, a handful of plums, and a few sprigs of fresh herbs.
-trg_cap: An ancient Egyptian-style artwork features a colorful array of fruits and vegetables on a table, including a blue bowl, a cluster of ripe bananas, a few slices of orange, a handful of plums, and a few sprigs of fresh herbs.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 14432

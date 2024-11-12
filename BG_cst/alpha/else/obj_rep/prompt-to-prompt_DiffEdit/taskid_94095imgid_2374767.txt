@@ -1,5 +1,0 @@
-org_img_id: 2374767
-org_cap: Person, wearing a yellow rash guard and a pair of board shorts, his muscles rippling beneath his skin.
-trg_cap: Backpack.
-instruction: Replace the person with a backpack.
-taskid: 94095

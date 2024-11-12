@@ -1,0 +1,5 @@
+org_img_id: 2341535
+org_cap: The refrigerator is a stainless steel, silver refrigerator with a flat, rectangular body and a slightly curved front panel.
+trg_cap: The refrigerator is a stainless steel, cream colored refrigerator with a flat, rectangular body and a slightly curved front panel.
+instruction: Change the color of the refrigerator from silver to cream colored.
+taskid: 6160

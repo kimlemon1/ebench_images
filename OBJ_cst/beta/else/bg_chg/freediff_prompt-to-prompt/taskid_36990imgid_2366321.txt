@@ -1,5 +1,0 @@
-org_img_id: 2366321
-org_cap: a amtrak blue train rumbles along the train, its train glinting in the morning sunlight as it carries train to their destinations.
-trg_cap: A Amtrak blue train rumbles along the train, its train glinting in the morning sunlight as it carries train to their destinations, while the scene is viewed from the comfort of a cozy living room.
-instruction: Change the background to living room.
-taskid: 36990

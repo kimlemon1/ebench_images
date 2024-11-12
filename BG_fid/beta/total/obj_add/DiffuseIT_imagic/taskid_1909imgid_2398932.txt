@@ -1,5 +1,0 @@
-org_img_id: 2398932
-org_cap: The sink is an orange sink, adorned with a small mirror above it and a wooden cabinet below, where a person stands.
-trg_cap: The sink is an orange sink, adorned with a small mirror above it and a wooden cabinet below, where a person stands, with an oven located next to the sink.
-instruction: Add a oven next to the sink.
-taskid: 1909

@@ -1,5 +1,0 @@
-org_img_id: 2386674
-org_cap: a person in a kayak through the rapids of a river.
-trg_cap: a person in a kayak through the rapids of a river with a couch behind them.
-instruction: Add a couch behind the person.
-taskid: 30760

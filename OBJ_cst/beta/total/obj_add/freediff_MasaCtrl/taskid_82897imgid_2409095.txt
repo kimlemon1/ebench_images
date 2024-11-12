@@ -1,5 +1,0 @@
-org_img_id: 2409095
-org_cap: a sitting bird with a beak and feathers on an intricately carved golden birdcage, adorned with tiny clock hands and roman numerals on its face.
-trg_cap: a sitting bird with a beak and feathers on an intricately carved golden birdcage, adorned with tiny clock hands and roman numerals on its face, with a sink on the right side of the bird.
-instruction: Add a sink on the right side of the bird.
-taskid: 82897

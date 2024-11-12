@@ -1,5 +1,0 @@
-org_img_id: 2337301
-org_cap: a person wearing a helmet and riding a motorcycle with a sleek design and shiny chrome handlebars navigates through a course of orange cones.
-trg_cap: A graffiti art depicts a person wearing a helmet and riding a motorcycle with a sleek design and shiny chrome handlebars, navigating through a course of orange cones.
-instruction: Change the style if the image to graffiti art.
-taskid: 2980

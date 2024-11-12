@@ -1,5 +1,0 @@
-org_img_id: 2387923
-org_cap: a person holds a slice of chocolate cake with a fork and knife.
-trg_cap: a person holds a slice of ivory cake with a fork and knife.
-instruction: Change the color of the cake from chocolate to ivory.
-taskid: 24221

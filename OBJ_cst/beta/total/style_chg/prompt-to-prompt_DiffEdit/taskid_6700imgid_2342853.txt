@@ -1,5 +1,0 @@
-org_img_id: 2342853
-org_cap: A young person sits astride a brown horse on the beach, wearing a t-shirt and jeans, surrounded by the misty morning fog and the dark gray sand.
-trg_cap: An oil painting style art depicts a young person sitting astride a brown horse on the beach, wearing a t-shirt and jeans, surrounded by the misty morning fog and the dark gray sand.
-instruction: Change the style if the image to oil painting style.
-taskid: 6700

@@ -1,5 +1,0 @@
-org_img_id: 2376672
-org_cap: A brown dog sits on a worn, beige couch as it gazes up at a person sitting in a chair.
-trg_cap: A small brown dog sits on a worn, beige couch as it gazes up at a person sitting in a chair.
-instruction: Make the dog smaller.
-taskid: 104329

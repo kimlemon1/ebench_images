@@ -1,5 +1,0 @@
-org_img_id: 2366105
-org_cap: a middle-aged man with a ruggedly handsome face and a sun-weathered complexion walks along the beach, carrying a yellow surfboard with a distinctive pattern of perforations on its surface.
-trg_cap: A middle-aged man with a ruggedly handsome face and a sun-weathered complexion walks along the edge of a grass field, carrying a yellow surfboard with a distinctive pattern of perforations on its surface.
-instruction: Change the background to grass field.
-taskid: 60792

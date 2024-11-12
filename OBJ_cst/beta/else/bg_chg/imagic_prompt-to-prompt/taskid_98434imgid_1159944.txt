@@ -1,5 +1,0 @@
-org_img_id: 1159944
-org_cap: A sitting person sits on a weathered bench, a cold beer and the tranquil river.
-trg_cap: A sitting person sits on a weathered bench in a dimly lit cave, a cold beer and the tranquil river.
-instruction: Change the background to cave.
-taskid: 98434

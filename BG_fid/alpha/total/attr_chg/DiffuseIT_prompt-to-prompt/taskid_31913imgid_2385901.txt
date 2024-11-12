@@ -1,5 +1,0 @@
-org_img_id: 2385901
-org_cap: a brown, running, playing dog, pink plastic frisbee in mouth, with a pink plastic frisbee flying behind it.
-trg_cap: a gold, running, playing dog, pink plastic frisbee in mouth, with a pink plastic frisbee flying behind it.
-instruction: Change the color of the dog from brown to gold.
-taskid: 31913

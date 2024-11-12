@@ -1,5 +1,0 @@
-org_img_id: 2316080
-org_cap: A gray elephant in front of a colorful building, its skin, with a trunk and tusks from its mouth, and an ear in the wind.
-trg_cap: A gray elephant in front of a colorful building, resembling a gym with vibrant murals, its skin, with a trunk and tusks from its mouth, and an ear in the wind.
-instruction: Change the background to gym.
-taskid: 96237

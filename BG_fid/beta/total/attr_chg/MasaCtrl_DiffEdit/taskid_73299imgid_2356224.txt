@@ -1,5 +1,0 @@
-org_img_id: 2356224
-org_cap: A person walks along the elevated park, carrying a gold umbrella to protect against the rain, with the cityscape visible in the background.
-trg_cap: A person walks along the elevated park, carrying a yellow umbrella to protect against the rain, with the cityscape visible in the background.
-instruction: Change the color of the umbrella from gold to yellow.
-taskid: 73299

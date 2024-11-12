@@ -1,5 +1,0 @@
-org_img_id: 2330802
-org_cap: a person in a wetsuit, with a hood and flippers, rides a surfboard, with spray and foam around them.
-trg_cap: A watercolor painting style art depicts a person in a wetsuit, with a hood and flippers, riding a surfboard amidst spray and foam.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 43757

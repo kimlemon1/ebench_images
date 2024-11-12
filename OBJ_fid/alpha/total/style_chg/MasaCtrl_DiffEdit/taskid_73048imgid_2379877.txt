@@ -1,5 +1,0 @@
-org_img_id: 2379877
-org_cap: A blue truck drives down the street, passing pedestrians and cars at a busy intersection.
-trg_cap: An ancient Egyptian-style artwork depicts a blue truck driving down the street, passing pedestrians and cars at a busy intersection.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 73048

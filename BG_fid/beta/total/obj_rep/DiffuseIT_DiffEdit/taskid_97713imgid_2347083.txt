@@ -1,5 +1,0 @@
-org_img_id: 2347083
-org_cap: a snowboarding person jumping, his board leaving a trail of snow behind him.
-trg_cap: A snowboarding parking meter jumping, its board leaving a trail of snow.
-instruction: Replace the person with a parking meter.
-taskid: 97713

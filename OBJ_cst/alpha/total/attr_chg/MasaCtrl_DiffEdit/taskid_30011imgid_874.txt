@@ -1,5 +1,0 @@
-org_img_id: 874
-org_cap: a gray stone tower with a pointed top and ornate details stands tall, surrounded by autumnal trees with golden leaves and a few pedestrians walking by, with a silver car in the background.
-trg_cap: a gray stone tower with a pointed top and ornate details stands tall, surrounded by autumnal trees with golden leaves and a few pedestrians walking by, with a cream colored car in the background.
-instruction: Change the color of the car from silver to cream colored.
-taskid: 30011

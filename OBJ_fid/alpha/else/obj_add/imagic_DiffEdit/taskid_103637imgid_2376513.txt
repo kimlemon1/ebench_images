@@ -1,5 +1,0 @@
-org_img_id: 2376513
-org_cap: A couple on a picnic, one person holding up a red plastic cup, sitting on a grassy field, eating cake.
-trg_cap: A couple on a picnic, one person holding up a red plastic cup with a banana in front, sitting on a grassy field, eating cake.
-instruction: Add a banana in front of the cup.
-taskid: 103637

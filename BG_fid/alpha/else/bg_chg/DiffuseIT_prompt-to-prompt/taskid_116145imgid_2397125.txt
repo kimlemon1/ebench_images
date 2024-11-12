@@ -1,5 +1,0 @@
-org_img_id: 2397125
-org_cap: a bus, with its bright green and yellow livery, travels down the street, passing under the tall power lines and beside the tall, leafless trees, with a gentle hum of its engine and a soft whoosh of its wheels on the pavement.
-trg_cap: A bus, with its bright green and yellow livery, travels down the street, passing under the tall power lines and beside the tall, leafless trees along the lakeside, with a gentle hum of its engine and a soft whoosh of its wheels on the pavement.
-instruction: Change the background to lake side.
-taskid: 116145

@@ -1,5 +1,0 @@
-org_img_id: 2410598
-org_cap: Brunette person tosses a tennis ball in the air, her ponytail with each swing, as she prepares to serve on the tennis court.
-trg_cap: Small brunette person tosses a tennis ball in the air, her ponytail with each swing, as she prepares to serve on the tennis court.
-instruction: Make the person smaller.
-taskid: 41614

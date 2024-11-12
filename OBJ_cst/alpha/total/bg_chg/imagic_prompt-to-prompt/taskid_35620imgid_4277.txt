@@ -1,5 +1,0 @@
-org_img_id: 4277
-org_cap: the scene is focused on a modern kitchen with a stainless steel oven, surrounded by white cabinets and a granite countertop, with a few bottles of wine stored in a wooden rack.
-trg_cap: The scene is focused on a modern kitchen with a stainless steel oven, surrounded by white cabinets and a granite countertop, with a few bottles of wine stored in a wooden rack, set against the backdrop of a grand concert hall.
-instruction: Change the background to concert hall.
-taskid: 35620

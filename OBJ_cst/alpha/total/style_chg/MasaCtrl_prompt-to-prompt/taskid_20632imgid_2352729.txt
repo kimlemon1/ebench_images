@@ -1,5 +1,0 @@
-org_img_id: 2352729
-org_cap: A young person in a green jacket on a sandy beach, with a colorful kite behind him.
-trg_cap: A pencil sketch depicts a young person in a green jacket on a sandy beach with a colorful kite behind him.
-instruction: Change the style if the image to pencil sketch.
-taskid: 20632

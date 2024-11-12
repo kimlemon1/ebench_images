@@ -1,5 +1,0 @@
-org_img_id: 2377610
-org_cap: A light brown cat on a suitcase in a hotel room, its paws around the handle and its tail.
-trg_cap: A gray cat on a suitcase in a hotel room, its paws around the handle and its tail.
-instruction: Change the color of the cat from light brown to gray.
-taskid: 46260

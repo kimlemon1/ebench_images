@@ -1,5 +1,0 @@
-org_img_id: 2336500
-org_cap: A clock adorns the facade, its clock gleaming in the sunlight.
-trg_cap: A clock adorns the facade, its clock gleaming in the sunlight, with a horse on the left side of the clock.
-instruction: Add a horse on the left side of the clock.
-taskid: 66367

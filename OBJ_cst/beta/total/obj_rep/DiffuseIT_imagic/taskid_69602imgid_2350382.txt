@@ -1,5 +1,0 @@
-org_img_id: 2350382
-org_cap: a middle - aged man with a helmet and a leather jacket rode a vintage motorcycle with a distinctive design on the side panel, approaching a speed bump with caution.
-trg_cap: A middle-aged man with a helmet and a leather jacket rode his knife, approaching a speed bump with caution.
-instruction: Replace the motorcycle with a knife.
-taskid: 69602

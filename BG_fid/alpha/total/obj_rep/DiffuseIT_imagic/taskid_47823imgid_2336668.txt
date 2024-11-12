@@ -1,5 +1,0 @@
-org_img_id: 2336668
-org_cap: a colorful kite with a rainbow of colors and a long tail flies high above the wooden pier, with seagulls and beachgoers visible in the background.
-trg_cap: A car flies high above the wooden pier, with them and beachgoers visible in the background.
-instruction: Replace the kite with a car.
-taskid: 47823

@@ -1,0 +1,5 @@
+org_img_id: 1592970
+org_cap: the sink is a single sink, with a chrome faucet and a rectangular black cabinet below.
+trg_cap: The sink is a large single sink, with a chrome faucet and a rectangular black cabinet below.
+instruction: Make the sink larger.
+taskid: 47675

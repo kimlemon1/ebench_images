@@ -1,5 +1,0 @@
-org_img_id: 2373983
-org_cap: posing person on an orange snowboard as he on the.
-trg_cap: posing a person on an orange refrigerator.
-instruction: Replace the snowboard with a refrigerator.
-taskid: 11100

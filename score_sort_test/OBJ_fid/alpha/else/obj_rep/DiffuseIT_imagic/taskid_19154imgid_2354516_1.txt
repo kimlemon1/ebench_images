@@ -1,0 +1,5 @@
+org_img_id: 2354516_1
+org_cap: A cow with white and brown patches on its body stands on the street, its head bent, while a few crows perch on its back and around its head.
+trg_cap: A giraffe stands on the street, its head bent, while a few crows perch on the giraffe's back and around its head.
+instruction: Replace the cow with a giraffe.
+taskid: 19154

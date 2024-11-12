@@ -1,5 +1,0 @@
-org_img_id: 2378081
-org_cap: a person in a green jacket and snow pants through the deep snow on cross-country skis, a trail of tracks behind them.
-trg_cap: a person in a green jacket and snow pants through the deep sand on cross-country skis, a trail of tracks behind them.
-instruction: Change the background to desert.
-taskid: 4847

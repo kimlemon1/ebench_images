@@ -1,5 +1,0 @@
-org_img_id: 2388522
-org_cap: a man in a striped shirt and tie holds a green glass bottle in his hand, his messy hair sticking up in every direction.
-trg_cap: a man in a striped shirt and tie holds a colorful glass bottle in his hand, his messy hair sticking up in every direction.
-instruction: Change the color of the bottle from green to colorful.
-taskid: 58285

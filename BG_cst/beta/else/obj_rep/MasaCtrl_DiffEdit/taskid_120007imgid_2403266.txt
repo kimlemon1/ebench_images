@@ -1,5 +1,0 @@
-org_img_id: 2403266
-org_cap: a brown sitting bird on the edge of a wooden stall, its bird a crumb dropped by a careless festival-goer, its eyes between the crumbs and the surrounding crowd.
-trg_cap: a brown book, its pages between the crumbs and the surrounding crowd.
-instruction: Replace the bird with a book.
-taskid: 120007

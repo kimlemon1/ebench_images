@@ -1,5 +1,0 @@
-org_img_id: 2391348
-org_cap: Smiling, person sat at a table with a slice of pizza in front of her, surrounded by crumbs and a half-eaten salad.
-trg_cap: Smiling, the large person sat at a table with a slice of pizza in front of her, surrounded by crumbs and a half-eaten salad.
-instruction: Make the person larger.
-taskid: 23133

@@ -1,5 +1,0 @@
-org_img_id: 2334995
-org_cap: a young person with red hair and freckles is sitting in a window seat, holding a black cell phone and scrolling through it with his fingers.
-trg_cap: a young person with red hair and freckles is sitting in a window seat, holding a large black cell phone and scrolling through it with his fingers.
-instruction: Make the cell phone larger.
-taskid: 53238

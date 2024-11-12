@@ -1,5 +1,0 @@
-org_img_id: 2408557
-org_cap: A new, clean, brown, rusty wood bench sits beneath the sprawling branches of a mature tree, its slats and design blending seamlessly into the lush green grass and vibrant spring flowers surrounding it.
-trg_cap: A new, worn, brown, rusty wood bench sits beneath the sprawling branches of a mature tree, its slats and design blending seamlessly into the lush green grass and vibrant spring flowers surrounding it.
-instruction: Change the state of the bench from clean to worn.
-taskid: 29794

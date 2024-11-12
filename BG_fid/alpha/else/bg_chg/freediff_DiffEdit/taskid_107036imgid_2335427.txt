@@ -1,5 +1,0 @@
-org_img_id: 2335427
-org_cap: The scene features a plate with a browned, crispy topping and a side of steamed broccoli with a vibrant green color.
-trg_cap: The scene, set in a zoo café, features a plate with a browned, crispy topping and a side of steamed broccoli with a vibrant green color.
-instruction: Change the background to zoo.
-taskid: 107036

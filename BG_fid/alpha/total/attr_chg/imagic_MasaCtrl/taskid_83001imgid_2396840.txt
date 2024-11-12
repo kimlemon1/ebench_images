@@ -1,5 +1,0 @@
-org_img_id: 2396840
-org_cap: The blue clock face is a plate with intricate carvings and numerals in a color scheme, surrounded by ornate stone carvings and topped with a pointed finial.
-trg_cap: The black and white clock face is a plate with intricate carvings and numerals in a color scheme, surrounded by ornate stone carvings and topped with a pointed finial.
-instruction: Change the color of the clock from blue to black and white.
-taskid: 83001

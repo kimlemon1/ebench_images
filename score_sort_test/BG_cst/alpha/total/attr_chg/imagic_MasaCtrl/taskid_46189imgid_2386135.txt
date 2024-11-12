@@ -1,0 +1,5 @@
+org_img_id: 2386135
+org_cap: a gray train with a gray body and gray stripes, its gray wheels screeching as it pulls into the station, its gray doors opening with a hiss to reveal a dimly lit interior with rows of seats and a luggage rack.
+trg_cap: a light blue train with a light blue body and light blue stripes, its light blue wheels screeching as it pulls into the station, its light blue doors opening with a hiss to reveal a dimly lit interior with rows of seats and a luggage rack.
+instruction: Change the color of the train from gray to light blue.
+taskid: 46189

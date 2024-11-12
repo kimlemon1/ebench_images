@@ -1,0 +1,5 @@
+org_img_id: 2373365
+org_cap: a woman walks alone on a rainy day, carrying an orange umbrella to protect herself from the rain.
+trg_cap: An oil painting style artwork depicts a woman walking alone on a rainy day, carrying an orange umbrella to protect herself from the rain.
+instruction: Change the style if the image to oil painting style.
+taskid: 71134

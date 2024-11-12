@@ -1,5 +1,0 @@
-org_img_id: 2394092
-org_cap: An orange train travels along the tracks, its wheels clicking on the ground as it approaches the riverbank, where the snow-covered reeds and grasses stretch out towards the calm waters.
-trg_cap: An orange train travels along the tracks, its wheels clicking on the ground as it approaches the riverbank, where the snow-covered reeds and grasses stretch out towards the calm waters, with a clock mounted above the door inside the train.
-instruction: Add a clock on the train.
-taskid: 71674

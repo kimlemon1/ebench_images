@@ -1,5 +1,0 @@
-org_img_id: 4087
-org_cap: the bed is a rectangular platform with a dark wood frame, topped with a plush purple bedspread and two matching pillows, situated against a wall with a large black mirror above it.
-trg_cap: The bed is a rectangular platform with a dark wood frame, topped with a plush purple bedspread and two matching pillows, situated against a wall with a large black mirror above it, in a room with walls painted in soft sandy hues and adorned with seashell decorations, evoking a serene beach atmosphere.
-instruction: Change the background to beach.
-taskid: 63005

@@ -1,5 +1,0 @@
-org_img_id: 2377248
-org_cap: "person into the rustic kitchen, the air thick with the scent of fresh bread and the soft glow of candles illuminating the room."
-trg_cap: large person into the rustic kitchen, the air thick with the scent of fresh bread and the soft glow of candles illuminating the room.
-instruction: Make the person larger.
-taskid: 4457

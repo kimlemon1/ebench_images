@@ -1,5 +1,0 @@
-org_img_id: 2415882
-org_cap: Person stands, holding a surfboard with a worn-out fin and a faded logo, wearing a black t-shirt with a cartoon character on it, and flip flops with a worn-out strap.
-trg_cap: The cartoon-style art depicts a person standing with a surfboard that has a worn-out fin and a faded logo, wearing a black t-shirt featuring a cartoon character and flip flops with a worn-out strap.
-instruction: Change the style if the image to cartoon style.
-taskid: 96770

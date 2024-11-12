@@ -1,5 +1,0 @@
-org_img_id: 2417233
-org_cap: a yellow train, with a yellow train at the front and yellow trains behind.
-trg_cap: a light blue train, with a light blue train at the front and light blue trains behind.
-instruction: Change the color of the train from yellow to light blue.
-taskid: 64011

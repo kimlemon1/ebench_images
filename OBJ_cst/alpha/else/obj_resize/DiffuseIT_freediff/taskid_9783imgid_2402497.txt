@@ -1,5 +1,0 @@
-org_img_id: 2402497
-org_cap: The sleek, black console table with a minimalist design sits on the wooden floor, adorned with a vase containing a bouquet of flowers and a tv mounted above it.
-trg_cap: The sleek, black console table with a minimalist design sits on the wooden floor, adorned with a vase containing a bouquet of flowers and a small TV mounted above it.
-instruction: Make the tv smaller.
-taskid: 9783

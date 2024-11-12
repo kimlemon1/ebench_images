@@ -1,5 +1,0 @@
-org_img_id: 2397955
-org_cap: a person, with a splash of color on his rash guard and a determined look on his face, on his surfboard, as he rides the swell.
-trg_cap: An ancient Egyptian-style artwork features a person with a splash of color on his rash guard and a determined look on his face, riding a surfboard on the swell.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 47384

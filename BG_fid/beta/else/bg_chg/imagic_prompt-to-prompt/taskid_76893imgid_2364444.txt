@@ -1,5 +1,0 @@
-org_img_id: 2364444
-org_cap: A black dog to catch a frisbee thrown by a person.
-trg_cap: A black dog to catch a frisbee thrown by a person in a concert hall.
-instruction: Change the background to concert hall.
-taskid: 76893

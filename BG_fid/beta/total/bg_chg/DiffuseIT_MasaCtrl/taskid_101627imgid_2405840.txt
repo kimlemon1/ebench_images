@@ -1,5 +1,0 @@
-org_img_id: 2405840
-org_cap: Skating, skiing person, her pink goggles and black helmet a blur as she navigates the mountain.
-trg_cap: Skating, skiing person, her pink goggles and black helmet a blur as she navigates the living room.
-instruction: Change the background to living room.
-taskid: 101627

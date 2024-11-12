@@ -1,5 +1,0 @@
-org_img_id: 2407809
-org_cap: a silver train with a sleek design and a rounded front, chugging along the train with a gentle puff of smoke and a soft whir of the wheels.
-trg_cap: A silver train with a sleek design and a rounded front, chugging along the tracks through a lush tropical jungle with a gentle puff of smoke and a soft whir of the wheels.
-instruction: Change the background to tropical jungle.
-taskid: 57870

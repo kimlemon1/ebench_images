@@ -1,5 +1,0 @@
-org_img_id: 2399668
-org_cap: a person in a black shirt and pants a baseball bat at a ball flying through the air on a sunny day.
-trg_cap: A cartoon-style artwork features a person in a black shirt and pants with a baseball bat, hitting a ball flying through the air on a sunny day.
-instruction: Change the style if the image to cartoon style.
-taskid: 97871

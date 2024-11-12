@@ -1,5 +1,0 @@
-org_img_id: 2367365
-org_cap: A wet, surfing person rides a surfboard as he carves through the waves.
-trg_cap: A dry, surfing person rides a surfboard as he carves through the waves.
-instruction: Change the state of the person from wet to dry.
-taskid: 82453

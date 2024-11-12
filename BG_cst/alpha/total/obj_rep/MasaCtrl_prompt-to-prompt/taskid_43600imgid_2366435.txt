@@ -1,5 +1,0 @@
-org_img_id: 2366435
-org_cap: A person in a black helmet and a faded denim shirt sits on a motorcycle with a chrome handlebar and a leather saddlebag.
-trg_cap: A person in a black helmet and a faded denim shirt sits on the bicycle.
-instruction: Replace the motorcycle with a bicycle.
-taskid: 43600

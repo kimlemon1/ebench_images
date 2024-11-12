@@ -1,5 +1,0 @@
-org_img_id: 2350898
-org_cap: a young person in a yellow shirt and shorts walks along a wooden bridge, holding a white kite, with the wind blowing it upwards.
-trg_cap: a young person in a yellow shirt and shorts walks along a wooden bridge, holding a maroon kite, with the wind blowing it upwards.
-instruction: Change the color of the kite from white to maroon.
-taskid: 34761

@@ -1,0 +1,5 @@
+org_img_id: 2399609
+org_cap: A wet person emerges from the foamy waters of a beach, holding a surfboard.
+trg_cap: An oil painting style artwork depicts a wet person emerging from the foamy waters of a beach, holding a surfboard.
+instruction: Change the style if the image to oil painting style.
+taskid: 16554

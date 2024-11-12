@@ -1,5 +1,0 @@
-org_img_id: 2343416
-org_cap: The birthday cake was a dark brown chocolate cake.
-trg_cap: The birthday cake was a large dark brown chocolate cake.
-instruction: Make the cake larger.
-taskid: 62864

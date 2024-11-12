@@ -1,5 +1,0 @@
-org_img_id: 2388395
-org_cap: a juicy turkey sandwich with crispy bacon, melted blue cheese, and sweet cranberries on a toasted sandwich.
-trg_cap: In the dimly lit cave, a juicy turkey sandwich with crispy bacon, melted blue cheese, and sweet cranberries on a toasted sandwich provided a surprising touch of modern comfort.
-instruction: Change the background to cave.
-taskid: 109398

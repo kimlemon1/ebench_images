@@ -1,5 +1,0 @@
-org_img_id: 2356893
-org_cap: A person in a black wetsuit along the beach, a white surfboard.
-trg_cap: A person in a black wetsuit along the beach, a small white surfboard.
-instruction: Make the surfboard smaller.
-taskid: 10845

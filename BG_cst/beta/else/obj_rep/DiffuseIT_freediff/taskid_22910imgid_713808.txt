@@ -1,5 +1,0 @@
-org_img_id: 713808
-org_cap: A person with a red backpack and a green umbrella down a rainy city street.
-trg_cap: A person with a red backpack and their horse down a rainy city street.
-instruction: Replace the umbrella with a horse.
-taskid: 22910

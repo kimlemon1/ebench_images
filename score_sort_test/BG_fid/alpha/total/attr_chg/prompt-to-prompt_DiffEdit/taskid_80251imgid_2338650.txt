@@ -1,0 +1,5 @@
+org_img_id: 2338650
+org_cap: A lone person stands on top of a yellow locomotive, gazing out at the open fields and blue sky.
+trg_cap: A lone person stands on top of a orange locomotive, gazing out at the open fields and blue sky.
+instruction: Change the color of the train from yellow to orange.
+taskid: 80251

@@ -1,5 +1,0 @@
-org_img_id: 2396174
-org_cap: a jumping, skateboarding person in a pink shirt and blue shorts on a black skateboard, his legs in a crouching position.
-trg_cap: a jumping, skateboarding person in a pink shirt and blue shorts on a striped skateboard, his legs in a crouching position.
-instruction: Change the color of the skateboard from black to striped.
-taskid: 116018

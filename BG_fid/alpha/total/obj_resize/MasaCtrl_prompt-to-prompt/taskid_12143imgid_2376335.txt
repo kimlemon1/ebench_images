@@ -1,5 +1,0 @@
-org_img_id: 2376335
-org_cap: The stop sign stands tall, its white letters and red border stark against the bright blue sky and the lush green trees that line the winding road.
-trg_cap: The large stop sign stands tall, its white letters and red border stark against the bright blue sky and the lush green trees that line the winding road.
-instruction: Make the stop sign larger.
-taskid: 12143

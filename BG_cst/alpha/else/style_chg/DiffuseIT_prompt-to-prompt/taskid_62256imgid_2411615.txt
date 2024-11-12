@@ -1,5 +1,0 @@
-org_img_id: 2411615
-org_cap: a bright yellow suitcase with brass hardware and a vintage-inspired design sits on a sleek, modern table, surrounded by soft, golden lighting.
-trg_cap: A pencil sketch art features a bright yellow suitcase with brass hardware and a vintage-inspired design sitting on a sleek, modern table, surrounded by soft, golden lighting.
-instruction: Change the style if the image to pencil sketch.
-taskid: 62256

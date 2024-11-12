@@ -1,5 +1,0 @@
-org_img_id: 2370460
-org_cap: person and person sat at a table, fixated on a slice of pizza with a glob of melted mozzarella cheese and a sprinkle of oregano.
-trg_cap: Person and person sat at a table in a bustling train station, fixated on a slice of pizza with a glob of melted mozzarella cheese and a sprinkle of oregano.
-instruction: Change the background to train station.
-taskid: 50879

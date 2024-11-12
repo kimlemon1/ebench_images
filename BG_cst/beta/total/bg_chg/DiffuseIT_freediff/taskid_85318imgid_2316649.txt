@@ -1,5 +1,0 @@
-org_img_id: 2316649
-org_cap: a person in a blue shirt and gray helmet on a skateboard, his knees and his feet shoulder-width apart as he a corner.
-trg_cap: a person in a blue shirt and gray helmet on a skateboard, his knees and his feet shoulder-width apart as he navigates a corner in the living room.
-instruction: Change the background to living room.
-taskid: 85318

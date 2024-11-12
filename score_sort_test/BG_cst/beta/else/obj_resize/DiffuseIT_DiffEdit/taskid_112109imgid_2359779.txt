@@ -1,0 +1,5 @@
+org_img_id: 2359779
+org_cap: a blue plate holds a circular pizza with a crispy crust, topped with melted mozzarella cheese, sliced green peppers, yellow tomatoes, and black olives, surrounded by a ring of golden brown crust.
+trg_cap: a blue plate holds a small circular pizza with a crispy crust, topped with melted mozzarella cheese, sliced green peppers, yellow tomatoes, and black olives, surrounded by a ring of golden brown crust.
+instruction: Make the pizza smaller.
+taskid: 112109

@@ -1,5 +1,0 @@
-org_img_id: 2383564
-org_cap: a yellow tulip bouquet fills a clear glass vase on a wooden table, surrounded by white wicker chairs and a lush green garden.
-trg_cap: A yellow tulip bouquet fills a clear glass vase on a wooden table, surrounded by white wicker chairs and a lush green garden, with a traffic light behind the vase.
-instruction: Add a traffic light behind the vase.
-taskid: 4108

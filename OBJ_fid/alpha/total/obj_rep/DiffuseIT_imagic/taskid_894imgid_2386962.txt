@@ -1,5 +1,0 @@
-org_img_id: 2386962
-org_cap: An unpeeled, yellow banana sits on a plate, surrounded by orange slices and a small container of yogurt.
-trg_cap: A sheep sits on a plate, surrounded by orange slices and a small container of its yogurt.
-instruction: Replace the banana with a sheep.
-taskid: 894

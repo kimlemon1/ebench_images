@@ -1,5 +1,0 @@
-org_img_id: 2381092
-org_cap: The scene is a solitary figure of a person wearing a white shirt with a black necktie and standing in a lush green meadow.
-trg_cap: The scene is a solitary figure of someone wearing a white book and standing in a lush green meadow.
-instruction: Replace the tie with a book.
-taskid: 77976

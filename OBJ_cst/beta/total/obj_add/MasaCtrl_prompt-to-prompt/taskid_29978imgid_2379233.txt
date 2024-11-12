@@ -1,5 +1,0 @@
-org_img_id: 2379233
-org_cap: A person is seen standing, surfing on his person, his eyes fixed intently on the horizon.
-trg_cap: A person is seen standing, surfing on his person, his eyes fixed intently on the horizon, with a bicycle beneath him.
-instruction: Add a bicycle under the person.
-taskid: 29978

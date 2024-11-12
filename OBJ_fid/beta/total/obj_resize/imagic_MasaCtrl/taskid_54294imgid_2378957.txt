@@ -1,5 +1,0 @@
-org_img_id: 2378957
-org_cap: a young woman in her early twenties sits on a stone bench, wearing a black beanie and a faded denim jacket, her legs crossed and her hands clasped together in her lap, as a walking black dog is around her feet.
-trg_cap: a young woman in her early twenties sits on a stone bench, wearing a black beanie and a faded denim jacket, her legs crossed and her hands clasped together in her lap, as a large walking black dog is around her feet.
-instruction: Make the dog larger.
-taskid: 54294

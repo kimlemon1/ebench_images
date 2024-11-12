@@ -1,5 +1,0 @@
-org_img_id: 2408913
-org_cap: Standing person swings his racket, his arm cocked back at an angle as he unleashes a forehand shot on the tennis court.
-trg_cap: Standing person swings their baseball bat as they unleash a forehand shot on the tennis court.
-instruction: Replace the person with a baseball bat.
-taskid: 72592

@@ -1,5 +1,0 @@
-org_img_id: 2368011
-org_cap: A red fire hydrant stands buried in a snowbank, its surface covered in a thick layer of fresh powder.
-trg_cap: A orange fire hydrant stands buried in a snowbank, its surface coveorange in a thick layer of fresh powder.
-instruction: Change the color of the fire hydrant from red to orange.
-taskid: 98263

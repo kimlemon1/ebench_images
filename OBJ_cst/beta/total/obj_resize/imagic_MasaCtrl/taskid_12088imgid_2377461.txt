@@ -1,5 +1,0 @@
-org_img_id: 2377461
-org_cap: A cat with a mottled grey and orange coat on a computer keyboard, surrounded by a soft green sweater and a few scraps of paper.
-trg_cap: A small cat with a mottled grey and orange coat on a computer keyboard, surrounded by a soft green sweater and a few scraps of paper.
-instruction: Make the cat smaller.
-taskid: 12088

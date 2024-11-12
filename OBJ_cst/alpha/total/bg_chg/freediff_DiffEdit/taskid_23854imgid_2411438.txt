@@ -1,5 +1,0 @@
-org_img_id: 2411438
-org_cap: a person in a bright green wetsuit holds a blue surfboard, standing on a rocky shore with a bicycle and other beach gear nearby.
-trg_cap: A person in a bright green wetsuit holds a blue surfboard, standing on a rocky shore with a bicycle and other beach gear nearby, while a bustling seaside restaurant overlooks the scene.
-instruction: Change the background to restaurant.
-taskid: 23854

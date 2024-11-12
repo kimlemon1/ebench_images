@@ -1,5 +1,0 @@
-org_img_id: 2402201
-org_cap: Young person is seen, his skateboard flying off the ramp, his eyes fixed intently on the ground below.
-trg_cap: Small young person is seen, his skateboard flying off the ramp, his eyes fixed intently on the ground below.
-instruction: Make the person smaller.
-taskid: 75472

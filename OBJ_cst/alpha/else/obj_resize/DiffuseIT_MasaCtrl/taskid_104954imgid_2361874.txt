@@ -1,5 +1,0 @@
-org_img_id: 2361874
-org_cap: Person alone on the snow-covered mountain, wearing skis and a black helmet, with a warning sign in the background reading "experts only".
-trg_cap: Small person alone on the snow-covered mountain, wearing skis and a black helmet, with a warning sign in the background reading "experts only".
-instruction: Make the person smaller.
-taskid: 104954

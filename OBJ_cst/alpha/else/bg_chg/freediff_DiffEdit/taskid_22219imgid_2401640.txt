@@ -1,5 +1,0 @@
-org_img_id: 2401640
-org_cap: a person in a red shirt kicks a white frisbee with his right foot.
-trg_cap: In an aquarium, a person in a red shirt kicks a white frisbee with his right foot.
-instruction: Change the background to aquarium.
-taskid: 22219

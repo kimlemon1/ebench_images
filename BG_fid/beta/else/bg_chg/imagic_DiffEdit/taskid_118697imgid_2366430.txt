@@ -1,5 +1,0 @@
-org_img_id: 2366430
-org_cap: The fire hydrant stands tall, its rusty metal body adorned with a chain and padlock, surrounded by a worn concrete base and flanked by a cracked and faded white wall.
-trg_cap: The fire hydrant stands tall, its rusty metal body adorned with a chain and padlock, surrounded by a worn concrete base and flanked by a cracked and faded white wall, all set against the backdrop of a dimly lit cave.
-instruction: Change the background to cave.
-taskid: 118697

@@ -1,5 +1,0 @@
-org_img_id: 1159456
-org_cap: The scene is a modern office workspace with a laptop sitting on a wooden desk, surrounded by a cityscape visible through the large window, with a few electronic devices and papers scattered about.
-trg_cap: The scene is a modern office workspace with a laptop sitting on a wooden desk, surrounded by gym equipment visible through the large window, with a few electronic devices and papers scattered about.
-instruction: Change the background to gym.
-taskid: 10741

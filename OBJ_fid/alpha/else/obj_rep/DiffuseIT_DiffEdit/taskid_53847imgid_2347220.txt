@@ -1,5 +1,0 @@
-org_img_id: 2347220
-org_cap: a young person with long, curly hair and a green t-shirt across the grassy hillside, a colorful ribbon behind them as they.
-trg_cap: An airplane crossed the grassy hillside.
-instruction: Replace the person with a airplane.
-taskid: 53847

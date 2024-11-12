@@ -1,5 +1,0 @@
-org_img_id: 2358942
-org_cap: "a lone person through the snow-covered terrain, their snowshoes on the frozen crystals as they along the winding winter trail."
-trg_cap: a lone person through the snow-covered terrain, their snowshoes on the frozen crystals as they along the winding winter trail, with a parking meter on their right side.
-instruction: Add a parking meter on the right side of the person.
-taskid: 56828

@@ -1,5 +1,0 @@
-org_img_id: 2362551
-org_cap: a laptop sits on a cluttered desk, surrounded by purple bottles, crumpled up papers, and a worn-out keyboard, with a faint image of a fetus on the screen.
-trg_cap: A laptop sits on a cluttered desk, surrounded by purple bottles, crumpled up papers, and a worn-out keyboard, with a faint image of a fetus on the screen, set against the backdrop of a grass field.
-instruction: Change the background to grass field.
-taskid: 74535

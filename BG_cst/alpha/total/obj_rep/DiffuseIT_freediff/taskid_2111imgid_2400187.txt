@@ -1,5 +1,0 @@
-org_img_id: 2400187
-org_cap: a person in her mid-twenties with long blonde hair and a bright yellow sundress out of a small shop with a red roof and a white awning, into a bright blue car parked outside.
-trg_cap: "the carrot out of a small shop with a red roof and a white awning, into a bright blue car parked outside."
-instruction: Replace the person with a carrot.
-taskid: 2111

@@ -1,5 +1,0 @@
-org_img_id: 2319361
-org_cap: a large black bear with a shiny coat and a powerful build across the grassy area, its paws making soft crunching sounds on the dry underbrush.
-trg_cap: a large black bear with a shiny coat and a powerful build across the sandy beach, its paws making soft crunching sounds on the dry underbrush.
-instruction: Change the background to beach.
-taskid: 100957

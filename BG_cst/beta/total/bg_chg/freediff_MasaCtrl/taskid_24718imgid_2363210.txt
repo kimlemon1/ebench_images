@@ -1,5 +1,0 @@
-org_img_id: 2363210
-org_cap: a high-speed train with a sleek, red body and a pointed nose, carrying passengers on its multiple trains, chugs along the trains, leaving a trail of smoke and steam behind it.
-trg_cap: A high-speed train with a sleek, red body and a pointed nose, carrying passengers on its multiple trains, chugs along the lakeside, leaving a trail of smoke and steam behind it.
-instruction: Change the background to lake side.
-taskid: 24718

@@ -1,5 +1,0 @@
-org_img_id: 2380897
-org_cap: A blue bus navigates through the snowy streets, its wheels spinning on the icy pavement as it makes its way to its next stop.
-trg_cap: A yellow bus navigates through the snowy streets, its wheels spinning on the icy pavement as it makes its way to its next stop.
-instruction: Change the color of the bus from blue to yellow.
-taskid: 37065

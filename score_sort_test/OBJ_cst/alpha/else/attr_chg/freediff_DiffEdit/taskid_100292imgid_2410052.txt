@@ -1,0 +1,5 @@
+org_img_id: 2410052
+org_cap: a young boy swings a white metal baseball bat with a determined look on his face, his eyes fixed intently on the ball as he watches it soar through the air.
+trg_cap: a young boy swings a cream colored metal baseball bat with a determined look on his face, his eyes fixed intently on the ball as he watches it soar through the air.
+instruction: Change the color of the baseball bat from white to cream colored.
+taskid: 100292

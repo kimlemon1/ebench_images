@@ -1,5 +1,0 @@
-org_img_id: 2381287
-org_cap: The scene is focused on a minimalist bedroom with a wood bed situated atop a plush area rug with a subtle pattern, surrounded by a calm, beige-colored wall with a large, rectangular mirror hung above the bed.
-trg_cap: The scene is focused on a minimalist bedroom with a plush area rug with a subtle pattern, surrounded by calm, beige-colored walls with a large, rectangular mirror hung above the toothbrush.
-instruction: Replace the bed with a toothbrush.
-taskid: 68756

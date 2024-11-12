@@ -1,5 +1,0 @@
-org_img_id: 4974
-org_cap: a person in a white shirt and jeans down a pedestrian street lined with shops and cafes, with a few persons and cars by.
-trg_cap: A person in a white shirt and jeans down a pedestrian street lined with shops and cafes, with a few persons and cars by, set against the backdrop of a lush tropical jungle.
-instruction: Change the background to tropical jungle.
-taskid: 28417

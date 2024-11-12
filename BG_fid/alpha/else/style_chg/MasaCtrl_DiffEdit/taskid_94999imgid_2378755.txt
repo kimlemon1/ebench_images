@@ -1,5 +1,0 @@
-org_img_id: 2378755
-org_cap: standing person's tennis skirt as she to hit a forehand winner on the sun-kissed court.
-trg_cap: An oil painting depicts a person in a tennis skirt poised to hit a forehand winner on a sun-kissed court.
-instruction: Change the style if the image to oil painting style.
-taskid: 94999

@@ -1,5 +1,0 @@
-org_img_id: 2355603
-org_cap: a majestic elephant with a vibrant red and gold tusked headpiece and a sturdy wooden yoke around its neck, its tusks worn and weathered, its ears as a person walks alongside it.
-trg_cap: A pop art style piece features a majestic elephant with a vibrant red and gold tusked headpiece and a sturdy wooden yoke around its neck, its tusks worn and weathered, as a person walks alongside it.
-instruction: Change the style if the image to pop art style.
-taskid: 54042

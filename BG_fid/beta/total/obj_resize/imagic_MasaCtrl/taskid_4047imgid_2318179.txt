@@ -1,5 +1,0 @@
-org_img_id: 2318179
-org_cap: A black dog with a tail and a collar walks alongside a group of people, including a man carrying a large piece of glass and a woman holding a colorful kite, as they stroll along the sandy beach at sunset.
-trg_cap: A small black dog with a tail and a collar walks alongside a group of people, including a man carrying a large piece of glass and a woman holding a colorful kite, as they stroll along the sandy beach at sunset.
-instruction: Make the dog smaller.
-taskid: 4047

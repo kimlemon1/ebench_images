@@ -1,5 +1,0 @@
-org_img_id: 2415297
-org_cap: a middle-aged person with a worn flannel shirt and a fedora, a rusty bicycle with a basket full of groceries, the busy intersection.
-trg_cap: a remote, a rusty bicycle with its basket full of groceries, the busy intersection.
-instruction: Replace the person with a remote.
-taskid: 96192

@@ -1,5 +1,0 @@
-org_img_id: 2330419
-org_cap: a black car, parked alongside a rustic white picket fence, with a steam train chugging along the adjacent track in the distance.
-trg_cap: a small black car, parked alongside a rustic white picket fence, with a steam train chugging along the adjacent track in the distance.
-instruction: Make the car smaller.
-taskid: 117513

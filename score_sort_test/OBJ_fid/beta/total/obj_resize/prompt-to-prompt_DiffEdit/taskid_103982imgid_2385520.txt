@@ -1,0 +1,5 @@
+org_img_id: 2385520
+org_cap: person rode his bicycle down the busy street with a confident smile on his face.
+trg_cap: A large person rode his bicycle down the busy street with a confident smile on his face.
+instruction: Make the person larger.
+taskid: 103982

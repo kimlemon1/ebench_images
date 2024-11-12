@@ -1,5 +1,0 @@
-org_img_id: 2325094
-org_cap: a person with a white remote control with a silver computer mouse on the desk in front of them.
-trg_cap: A person with a white remote control with a silver computer mouse on the desk in front of them, situated on a mountain top.
-instruction: Change the background to mountain top.
-taskid: 103343

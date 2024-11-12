@@ -1,5 +1,0 @@
-org_img_id: 2343993
-org_cap: a young person with messy brown hair and a bright blue t-shirt leaps off the ground, his black skateboard flying out from under his feet as he performs a smooth ollie, the wheels spinning in a blur of motion against the vibrant graffiti - covered backdrop.
-trg_cap: A young person with messy brown hair and a bright blue t-shirt leaps off the ground, their black car as they perform a smooth ollie, the wheels spinning in a blur of motion against the vibrant graffiti-covered backdrop.
-instruction: Replace the skateboard with a car.
-taskid: 61381

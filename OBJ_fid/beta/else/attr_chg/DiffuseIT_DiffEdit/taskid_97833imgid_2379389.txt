@@ -1,5 +1,0 @@
-org_img_id: 2379389
-org_cap: A colorful yellow kite soars above the turbulent waves, its kite flapping wildly as it rides the gusts of wind.
-trg_cap: A colorful clear kite soars above the turbulent waves, its kite flapping wildly as it rides the gusts of wind.
-instruction: Change the color of the kite from yellow to clear.
-taskid: 97833

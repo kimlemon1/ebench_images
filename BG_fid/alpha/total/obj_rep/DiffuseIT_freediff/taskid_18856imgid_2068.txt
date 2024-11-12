@@ -1,5 +1,0 @@
-org_img_id: 2068
-org_cap: the small, wooden desk in the corner of the room features a single, leather - bound chair with a simple, rectangular design and a warm, brown finish.
-trg_cap: The small, wooden desk in the corner of the room features a single baseball bat.
-instruction: Replace the chair with a baseball bat.
-taskid: 18856

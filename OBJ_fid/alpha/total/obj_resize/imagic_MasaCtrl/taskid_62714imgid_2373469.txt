@@ -1,5 +1,0 @@
-org_img_id: 2373469
-org_cap: person on a wooden bench, wearing a red shirt and with a wooden carving of a bear on the bench beside him.
-trg_cap: small person on a wooden bench, wearing a red shirt and with a wooden carving of a bear on the bench beside him.
-instruction: Make the person smaller.
-taskid: 62714

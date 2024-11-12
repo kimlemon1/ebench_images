@@ -1,5 +1,0 @@
-org_img_id: 2372914
-org_cap: Standing person is in a room with a tan chair, a couch, and a table in the background.
-trg_cap: Standing person is in a room with a tan chair, a couch, and a table in the background, overlooking a grass field.
-instruction: Change the background to grass field.
-taskid: 43788

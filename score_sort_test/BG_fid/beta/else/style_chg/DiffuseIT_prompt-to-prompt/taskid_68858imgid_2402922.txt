@@ -1,0 +1,5 @@
+org_img_id: 2402922
+org_cap: a little person sits in a chair, a black umbrella to protect themselves from the rain.
+trg_cap: An oil painting style artwork depicts a little person sitting in a chair, sheltered by a black umbrella from the rain.
+instruction: Change the style if the image to oil painting style.
+taskid: 68858

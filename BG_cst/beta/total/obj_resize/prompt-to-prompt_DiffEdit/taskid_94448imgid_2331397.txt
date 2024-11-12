@@ -1,5 +1,0 @@
-org_img_id: 2331397
-org_cap: a person in a red onesie and black goggles glides down the snowy mountain on skis, their legs bent and arms outstretched as they navigate the skis.
-trg_cap: a person in a red onesie and black goggles glides down the snowy mountain on small skis, their legs bent and arms outstretched as they navigate the skis.
-instruction: Make the skis smaller.
-taskid: 94448

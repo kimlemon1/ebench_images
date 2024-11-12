@@ -1,5 +1,0 @@
-org_img_id: 2317309
-org_cap: a man in a pink shirt and black trousers with a red tie walks alongside a woman in a black dress and holding a red handbag, with a grey vest and a red necktie.
-trg_cap: a man in a pink shirt and black trousers with a large red tie walks alongside a woman in a black dress and holding a red handbag, with a grey vest and a red necktie.
-instruction: Make the tie larger.
-taskid: 83769

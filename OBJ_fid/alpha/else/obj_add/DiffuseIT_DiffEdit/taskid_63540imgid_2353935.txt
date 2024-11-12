@@ -1,5 +1,0 @@
-org_img_id: 2353935
-org_cap: Person carves through the gates, her skis leaving a trail of powder in her wake as she navigates the challenging course.
-trg_cap: Person carves through the gates, her skis leaving a trail of powder in her wake as she navigates the challenging course, with a skateboard strapped to her back.
-instruction: Add a skateboard on the person.
-taskid: 63540

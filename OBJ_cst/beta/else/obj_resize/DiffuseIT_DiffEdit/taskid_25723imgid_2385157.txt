@@ -1,5 +1,0 @@
-org_img_id: 2385157
-org_cap: A person sits in a blue wood chair, holding an upside down white plastic frisbee.
-trg_cap: A person sits in a small blue wood chair, holding an upside down white plastic frisbee.
-instruction: Make the chair smaller.
-taskid: 25723

@@ -1,5 +1,0 @@
-org_img_id: 2331801
-org_cap: A white sleeping cat sleeps on a patchwork quilt.
-trg_cap: A black and white sleeping cat sleeps on a patchwork quilt.
-instruction: Change the color of the cat from white to black and white.
-taskid: 87550

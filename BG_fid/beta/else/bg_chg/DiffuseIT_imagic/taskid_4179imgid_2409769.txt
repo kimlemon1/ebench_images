@@ -1,5 +1,0 @@
-org_img_id: 2409769
-org_cap: A brown horse stands in the street, its hooves on the cobblestones as it for its rider to load the wooden cart with colorful produce.
-trg_cap: A brown horse stands in the street, its hooves on the cobblestones as it waits for its rider to load the wooden cart with colorful produce, reminiscent of the vibrant energy found in a bustling gym.
-instruction: Change the background to gym.
-taskid: 4179

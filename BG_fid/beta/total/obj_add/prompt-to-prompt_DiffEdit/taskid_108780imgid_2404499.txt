@@ -1,5 +1,0 @@
-org_img_id: 2404499
-org_cap: person swings his racket to hit a forehand shot with precision and power, the green sports ball flying off the strings as he aims to win the point.
-trg_cap: person swings his racket to hit a forehand shot with precision and power, the green sports ball flying off the strings as he aims to win the point, with a bear positioned behind the ball.
-instruction: Add a bear behind the sports ball.
-taskid: 108780

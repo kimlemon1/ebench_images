@@ -1,0 +1,5 @@
+org_img_id: 2319928
+org_cap: a small person in a bright orange shirt and blue jeans, with a helmet strapped to his head.
+trg_cap: A Van Gogh style art features a small person in a bright orange shirt and blue jeans, with a helmet strapped to his head.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 49017

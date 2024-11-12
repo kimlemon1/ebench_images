@@ -1,5 +1,0 @@
-org_img_id: 2352027
-org_cap: "person's wetsuit-clad legs are bent at the knees as he surfs through the whitewater, his arms and his hands the surfboard as he through the waves."
-trg_cap: Frisbee's legs are bent at the knees as he surfs through the whitewater, his arms and his hands guiding the surfboard as he moves through the waves.
-instruction: Replace the person with a frisbee.
-taskid: 90517

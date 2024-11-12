@@ -1,5 +1,0 @@
-org_img_id: 2415284
-org_cap: A smiling person sits on a white surfboard in the water, her legs bent and her hands gripping the white surfboard as she rides a white surfboard.
-trg_cap: A smiling person sits in the water, their legs bent and their hands gripping the baseball bat.
-instruction: Replace the surfboard with a baseball bat.
-taskid: 9891

@@ -1,0 +1,5 @@
+org_img_id: 1160105
+org_cap: The train is a black train.
+trg_cap: The train is a small black train.
+instruction: Make the train smaller.
+taskid: 5819

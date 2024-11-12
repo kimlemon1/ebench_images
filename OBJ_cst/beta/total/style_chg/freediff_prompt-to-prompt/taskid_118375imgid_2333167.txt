@@ -1,5 +1,0 @@
-org_img_id: 2333167
-org_cap: A cup of coffee and a donut sit on a table, accompanied by a small stuffed monkey wearing a t-shirt with the logo of business.
-trg_cap: The graffiti art depicts a cup of coffee and a donut on a table, accompanied by a small stuffed monkey wearing a t-shirt with the business logo.
-instruction: Change the style if the image to graffiti art.
-taskid: 118375

@@ -1,5 +1,0 @@
-org_img_id: 2404420
-org_cap: Person stands on a snowy slope, skiing and posing, wearing a snow jacket with a hat and goggles, her hair under the hat, her eyes as she surveys the mountain landscape.
-trg_cap: A large person stands on a snowy slope, skiing and posing, wearing a snow jacket with a hat and goggles, her hair under the hat, her eyes as she surveys the mountain landscape.
-instruction: Make the person larger.
-taskid: 34507

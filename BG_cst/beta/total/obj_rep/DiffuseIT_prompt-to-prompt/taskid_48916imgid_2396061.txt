@@ -1,5 +1,0 @@
-org_img_id: 2396061
-org_cap: "a white train, carrying passengers on its multiple white trains, chugs along the white trains, its wheels clicking on the white trains as it approaches a white train."
-trg_cap: A white zebra, chugs along, its wheels clicking as it approaches a white train.
-instruction: Replace the train with a zebra.
-taskid: 48916

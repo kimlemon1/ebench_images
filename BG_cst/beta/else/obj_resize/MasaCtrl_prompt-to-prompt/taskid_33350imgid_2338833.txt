@@ -1,5 +1,0 @@
-org_img_id: 2338833
-org_cap: a small, fluffy dog with a brown and white coat on a patchwork quilt in the window of a shop, its paws and its eyes in a peaceful slumber.
-trg_cap: a large, fluffy dog with a brown and white coat on a patchwork quilt in the window of a shop, its paws and its eyes in a peaceful slumber.
-instruction: Make the dog larger.
-taskid: 33350

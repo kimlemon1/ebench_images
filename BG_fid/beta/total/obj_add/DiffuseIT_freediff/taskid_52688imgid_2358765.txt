@@ -1,5 +1,0 @@
-org_img_id: 2358765
-org_cap: A light brown car drives on the road, passing a directional sign pointing to rue de paule.
-trg_cap: A light brown car drives on the road, passing a directional sign pointing to rue de paule, while an airplane flies above the car.
-instruction: Add a airplane above the car.
-taskid: 52688

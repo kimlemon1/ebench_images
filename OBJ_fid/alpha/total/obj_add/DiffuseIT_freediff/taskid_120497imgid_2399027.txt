@@ -1,5 +1,0 @@
-org_img_id: 2399027
-org_cap: A gray cat sits amidst a tangled mess of laundry, its piercing green eyes fixed on something within the heap.
-trg_cap: A gray cat sits amidst a tangled mess of laundry, its piercing green eyes fixed on something within the heap, with a vase next to it.
-instruction: Add a vase next to the cat.
-taskid: 120497

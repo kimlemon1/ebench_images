@@ -1,5 +1,0 @@
-org_img_id: 2408855
-org_cap: the orange cat in its paw.
-trg_cap: the dark brown cat in its paw.
-instruction: Change the color of the cat from orange to dark brown.
-taskid: 14787

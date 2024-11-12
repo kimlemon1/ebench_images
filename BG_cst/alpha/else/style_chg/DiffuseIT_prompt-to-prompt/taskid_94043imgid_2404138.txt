@@ -1,5 +1,0 @@
-org_img_id: 2404138
-org_cap: The white cat sits on the windowsill, its fur glistening in the morning sunlight, its staring eyes fixed on the birds in the backyard.
-trg_cap: A cartoon style art features a white cat sitting on the windowsill, its fur glistening in the morning sunlight as its staring eyes are fixed on the birds in the backyard.
-instruction: Change the style if the image to cartoon style.
-taskid: 94043

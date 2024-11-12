@@ -1,5 +1,0 @@
-org_img_id: 162
-org_cap: A white bowl sits on a table, surrounded by a few pieces of fruit.
-trg_cap: A colorful bowl sits on a table, surrounded by a few pieces of fruit.
-instruction: Change the color of the bowl from white to colorful.
-taskid: 32743

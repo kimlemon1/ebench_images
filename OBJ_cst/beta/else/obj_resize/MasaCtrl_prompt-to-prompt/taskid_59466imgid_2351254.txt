@@ -1,5 +1,0 @@
-org_img_id: 2351254
-org_cap: person, his green and red snowboarding gear a blur as he performs a daring trick on the mountain.
-trg_cap: small person, his green and red snowboarding gear a blur as he performs a daring trick on the mountain.
-instruction: Make the person smaller.
-taskid: 59466

@@ -1,0 +1,5 @@
+org_img_id: 2349263
+org_cap: the train is a blue train, adorned with the logo of the train company, and is hauling a long freight train.
+trg_cap: the train is a striped train, adorned with the logo of the train company, and is hauling a long freight train.
+instruction: Change the color of the train from blue to striped.
+taskid: 115403

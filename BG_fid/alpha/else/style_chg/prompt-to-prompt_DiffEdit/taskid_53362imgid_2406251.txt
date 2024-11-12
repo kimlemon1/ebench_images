@@ -1,5 +1,0 @@
-org_img_id: 2406251
-org_cap: A person stands beside an orange truck, as it collects yard waste on a sunny street.
-trg_cap: The pop art style artwork depicts a person standing beside an orange truck as it collects yard waste on a sunny street.
-instruction: Change the style if the image to pop art style.
-taskid: 53362

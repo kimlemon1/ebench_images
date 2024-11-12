@@ -1,5 +1,0 @@
-org_img_id: 2413070
-org_cap: a standing, blue, colorful bird on a metal cage, its plumage glistening in the sunlight, with a tail and beak, its gaze surveying its surroundings.
-trg_cap: A standing, blue, colorful bird on a metal cage, its plumage glistening in the sunlight, with a tail and beak, its gaze surveying its surroundings in the gym.
-instruction: Change the background to gym.
-taskid: 12739

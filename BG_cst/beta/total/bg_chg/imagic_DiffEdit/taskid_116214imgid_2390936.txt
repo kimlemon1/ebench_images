@@ -1,5 +1,0 @@
-org_img_id: 2390936
-org_cap: a middle-aged person in a worn-out t-shirt and hat is beside a small boat, the hull with a brush and a bucket of water, as the sun sets behind him, casting a warm golden light on the serene and peaceful scene.
-trg_cap: A middle-aged person in a worn-out t-shirt and hat is beside a small boat, the hull with a brush and a bucket of water, as the sun sets behind him, casting a warm golden light on the serene and peaceful scene, with a backdrop of a dense pine forest.
-instruction: Change the background to pine forest.
-taskid: 116214

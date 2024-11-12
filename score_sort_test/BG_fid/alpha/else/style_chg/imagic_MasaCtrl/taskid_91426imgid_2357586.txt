@@ -1,0 +1,5 @@
+org_img_id: 2357586
+org_cap: My hand cradles a white ceramic cup with a rounded body and a handle.
+trg_cap: A grayscale photo shows my hand cradling a white ceramic cup with a rounded body and a handle.
+instruction: Change the style if the image to grey scale.
+taskid: 91426

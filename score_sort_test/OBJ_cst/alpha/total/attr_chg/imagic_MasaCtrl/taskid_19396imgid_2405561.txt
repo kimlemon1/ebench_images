@@ -1,0 +1,5 @@
+org_img_id: 2405561
+org_cap: The white laptop sits on a desk, surrounded by a jumble of computer components, including a monitor, keyboard, and speakers, with a stack of papers and a few cds scattered about.
+trg_cap: The red laptop sits on a desk, surrounded by a jumble of computer components, including a monitor, keyboard, and speakers, with a stack of papers and a few cds scattered about.
+instruction: Change the color of the laptop from white to red.
+taskid: 19396

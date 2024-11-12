@@ -1,5 +1,0 @@
-org_img_id: 2378510
-org_cap: The small bathroom features a single white sink with a single faucet, a white toilet with a low ceiling and a small floor space.
-trg_cap: The small bathroom, reminiscent of those found in airport terminals, features a single white sink with a single faucet, a white toilet with a low ceiling and a small floor space.
-instruction: Change the background to airport.
-taskid: 100109

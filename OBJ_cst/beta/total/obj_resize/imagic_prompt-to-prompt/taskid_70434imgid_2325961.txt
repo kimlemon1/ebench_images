@@ -1,5 +1,0 @@
-org_img_id: 2325961
-org_cap: The bus is a white bus with a flat front, a curved roof, and a rear door with a sign reading "route 12" in bold letters.
-trg_cap: The bus is a small white bus with a flat front, a curved roof, and a rear door with a sign reading "route 12" in bold letters.
-instruction: Make the bus smaller.
-taskid: 70434

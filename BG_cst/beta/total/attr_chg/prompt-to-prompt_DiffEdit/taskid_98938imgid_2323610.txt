@@ -1,5 +1,0 @@
-org_img_id: 2323610
-org_cap: A person throws a white frisbee with a swift motion, his arm cocked back and his hand releasing the white frisbee as it soars towards the ceiling.
-trg_cap: A person throws a green frisbee with a swift motion, his arm cocked back and his hand releasing the green frisbee as it soars towards the ceiling.
-instruction: Change the color of the frisbee from white to green.
-taskid: 98938

@@ -1,5 +1,0 @@
-org_img_id: 2327601
-org_cap: a man in his mid-40s with a worn blue hat and a faded gray jacket holds a bright red umbrella above his head, umbrella fabric flapping wildly in the strong gusts of wind.
-trg_cap: In the quiet library, a man in his mid-40s with a worn blue hat and a faded gray jacket holds a bright red umbrella above his head, umbrella fabric flapping wildly in the strong gusts of wind.
-instruction: Change the background to library.
-taskid: 62307

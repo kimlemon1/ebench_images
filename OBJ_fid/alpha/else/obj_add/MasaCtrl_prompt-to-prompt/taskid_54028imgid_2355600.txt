@@ -1,5 +1,0 @@
-org_img_id: 2355600
-org_cap: A delicate pink vase sits atop a white table, surrounded by a bouquet of bright yellow tulips and a few slices of buttered croissant.
-trg_cap: A delicate pink vase sits atop a white table, surrounded by a bouquet of bright yellow tulips and a few slices of buttered croissant, with a traffic light positioned behind the vase.
-instruction: Add a traffic light behind the vase.
-taskid: 54028

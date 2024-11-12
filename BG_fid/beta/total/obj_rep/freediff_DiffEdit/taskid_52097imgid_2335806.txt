@@ -1,5 +1,0 @@
-org_img_id: 2335806
-org_cap: A person rides a gray elephant.
-trg_cap: A person drives a truck.
-instruction: Replace the elephant with a truck.
-taskid: 52097

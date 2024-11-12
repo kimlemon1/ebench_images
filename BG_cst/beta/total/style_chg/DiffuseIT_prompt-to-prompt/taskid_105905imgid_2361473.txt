@@ -1,5 +1,0 @@
-org_img_id: 2361473
-org_cap: Airplane, a large passenger jet with a distinctive curved wing and tail section, descends onto the runway, its engines roaring as it approaches the terminal building in the background.
-trg_cap: A pencil sketch art depicts a large passenger jet with a distinctive curved wing and tail section descending onto the runway, its engines roaring as it approaches the terminal building in the background.
-instruction: Change the style if the image to pencil sketch.
-taskid: 105905

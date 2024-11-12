@@ -1,5 +1,0 @@
-org_img_id: 2387451
-org_cap: An orange sitting cat sat on the windowsill, its tail as it watched the passersby.
-trg_cap: An orange sitting cat sat on the windowsill, a tie around its neck, its tail as it watched the passersby.
-instruction: Add a tie on the cat.
-taskid: 11063

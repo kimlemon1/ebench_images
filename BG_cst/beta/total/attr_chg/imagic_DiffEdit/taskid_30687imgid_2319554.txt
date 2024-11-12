@@ -1,5 +1,0 @@
-org_img_id: 2319554
-org_cap: Wet person launches himself off a wave, his white surfboard spinning and splashing as he executes a aerial.
-trg_cap: Wet person launches himself off a wave, his brown surfboard spinning and splashing as he executes a aerial.
-instruction: Change the color of the surfboard from white to brown.
-taskid: 30687

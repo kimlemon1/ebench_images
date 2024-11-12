@@ -1,5 +1,0 @@
-org_img_id: 90
-org_cap: The couch is a black couch with a minimalist design.
-trg_cap: The clock is a clock.
-instruction: Replace the couch with a clock.
-taskid: 108603

@@ -1,5 +1,0 @@
-org_img_id: 2360828
-org_cap: a large, circular clock hangs from the ceiling, its face a stark white with black numerals and hands that point towards the platform exit.
-trg_cap: A large, circular clock hangs from the ceiling of the living room, its face a stark white with black numerals and hands that point towards the platform exit.
-instruction: Change the background to living room.
-taskid: 56113

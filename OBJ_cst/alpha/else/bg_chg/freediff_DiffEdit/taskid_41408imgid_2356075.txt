@@ -1,5 +1,0 @@
-org_img_id: 2356075
-org_cap: a high-speed train, with sleek silver body and bright orange stripes, speeds along the tracks, its wheels clicking rhythmically on the rails.
-trg_cap: A high-speed train, with a sleek silver body and bright orange stripes, speeds along the tracks near the hospital, its wheels clicking rhythmically on the rails.
-instruction: Change the background to hospital.
-taskid: 41408

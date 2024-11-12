@@ -1,5 +1,0 @@
-org_img_id: 2409754
-org_cap: The couch is a brown couch with a slightly faded floral pattern and a few scratches on the armrest.
-trg_cap: The couch is a large brown couch with a slightly faded floral pattern and a few scratches on the armrest.
-instruction: Make the couch larger.
-taskid: 66403

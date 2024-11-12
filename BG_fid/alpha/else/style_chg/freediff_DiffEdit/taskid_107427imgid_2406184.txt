@@ -1,5 +1,0 @@
-org_img_id: 2406184
-org_cap: The toilet is a porcelain, white toilet with a chrome handle and a small, wooden cabinet above it.
-trg_cap: An oil painting style art features a porcelain, white toilet with a chrome handle and a small wooden cabinet above it.
-instruction: Change the style if the image to oil painting style.
-taskid: 107427

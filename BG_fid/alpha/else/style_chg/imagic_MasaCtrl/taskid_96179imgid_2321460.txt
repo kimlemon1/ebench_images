@@ -1,5 +1,0 @@
-org_img_id: 2321460
-org_cap: a lone person in a black wetsuit rides a surfboard down a wave, his arms and legs bent as he carves through the churning water.
-trg_cap: An ancient Egyptian-style artwork depicts a lone person in a black wetsuit riding a surfboard down a wave, his arms and legs bent as he carves through the churning water.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 96179

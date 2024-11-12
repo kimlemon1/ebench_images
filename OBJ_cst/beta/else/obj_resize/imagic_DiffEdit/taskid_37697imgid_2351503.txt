@@ -1,5 +1,0 @@
-org_img_id: 2351503
-org_cap: standing person on a beach, with a bright blue sky and fluffy white clouds behind him.
-trg_cap: standing large person on a beach, with a bright blue sky and fluffy white clouds behind him.
-instruction: Make the person larger.
-taskid: 37697

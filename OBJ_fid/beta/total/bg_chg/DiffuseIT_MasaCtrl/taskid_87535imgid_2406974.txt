@@ -1,5 +1,0 @@
-org_img_id: 2406974
-org_cap: a white police car is parked parallel to the curb, with its tires slightly angled towards the gray hydrant.
-trg_cap: A white police car is parked parallel to the curb, with its tires slightly angled towards the gray hydrant, in the background of a large stadium.
-instruction: Change the background to stadium.
-taskid: 87535

@@ -1,5 +1,0 @@
-org_img_id: 2120
-org_cap: the scene is focused on a person in a kitchen with a warm yellow tone, featuring a circular breakfast nook with a wooden table and orange stools, surrounded by cream and brown cabinets with a granite countertop.
-trg_cap: The pencil sketch art depicts a scene focused on a person in a kitchen with a warm yellow tone, featuring a circular breakfast nook with a wooden table and orange stools, surrounded by cream and brown cabinets with a granite countertop.
-instruction: Change the style if the image to pencil sketch.
-taskid: 51369

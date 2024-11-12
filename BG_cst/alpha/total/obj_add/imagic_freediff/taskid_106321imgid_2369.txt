@@ -1,5 +1,0 @@
-org_img_id: 2369
-org_cap: a white dog with a pink collar and a tail crosses the street, its owner a middle-aged person in a bright pink sweater and holding a shopping bag, as pedestrians and cars navigate the busy city street.
-trg_cap: A white dog with a pink collar and a tail crosses the street, its owner a middle-aged person in a bright pink sweater and holding a shopping bag, as pedestrians and cars navigate the busy city street, with a giraffe on the right side of the dog.
-instruction: Add a giraffe on the right side of the dog.
-taskid: 106321

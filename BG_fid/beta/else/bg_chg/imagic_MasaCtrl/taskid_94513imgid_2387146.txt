@@ -1,5 +1,0 @@
-org_img_id: 2387146
-org_cap: a standing, smiling person on a boat, a wooden pole and a serious expression.
-trg_cap: A standing, smiling person on a boat, a wooden pole, and a serious expression, with the bustling atmosphere of an airport in the background.
-instruction: Change the background to airport.
-taskid: 94513

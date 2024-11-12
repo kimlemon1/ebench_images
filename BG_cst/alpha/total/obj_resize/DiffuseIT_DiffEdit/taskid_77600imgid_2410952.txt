@@ -1,5 +1,0 @@
-org_img_id: 2410952
-org_cap: A orange fire hydrant stands tall in the snowy winter landscape, surrounded by bare winter branches and snow-covered grass.
-trg_cap: A small orange fire hydrant stands tall in the snowy winter landscape, surrounded by bare winter branches and snow-covered grass.
-instruction: Make the fire hydrant smaller.
-taskid: 77600

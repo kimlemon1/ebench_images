@@ -1,0 +1,5 @@
+org_img_id: 2329424
+org_cap: a blue train, parked on the platform with its doors open, surrounded by a glass and steel structure.
+trg_cap: a cream colored train, parked on the platform with its doors open, surrounded by a glass and steel structure.
+instruction: Change the color of the train from blue to cream colored.
+taskid: 105572

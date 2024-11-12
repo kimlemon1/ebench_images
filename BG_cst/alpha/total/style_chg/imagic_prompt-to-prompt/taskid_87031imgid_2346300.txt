@@ -1,5 +1,0 @@
-org_img_id: 2346300
-org_cap: A white airplane flies overhead, its wings beating steadily as it soars above the city skyline, with towering skyscrapers and bustling streets below.
-trg_cap: The mosaic art depicts a white airplane flying overhead, its wings beating steadily as it soars above the city skyline, with towering skyscrapers and bustling streets below.
-instruction: Change the style if the image to mosaic art.
-taskid: 87031

@@ -1,5 +1,0 @@
-org_img_id: 986
-org_cap: A brown, ripe banana sits alone on a white paper plate, its banana slightly bruised and brown in spots.
-trg_cap: A pencil sketch art depicts a brown, ripe banana, slightly bruised and brown in spots, sitting alone on a white paper plate.
-instruction: Change the style if the image to pencil sketch.
-taskid: 66930

@@ -1,5 +1,0 @@
-org_img_id: 713922
-org_cap: a mix of seniors and adults sat on benches and lawn chairs, some with canes and walkers, while others held leashes and petted their dogs, including a brown dog and a brown dog, as they enjoyed the warm weather and community event.
-trg_cap: A mix of seniors and adults sat on benches and lawn chairs, some with canes and walkers, while others held toothbrushes, as they enjoyed the warm weather and the community event.
-instruction: Replace the dog with a toothbrush.
-taskid: 118622

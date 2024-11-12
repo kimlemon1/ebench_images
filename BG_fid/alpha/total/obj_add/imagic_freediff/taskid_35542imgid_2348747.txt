@@ -1,5 +1,0 @@
-org_img_id: 2348747
-org_cap: a person with a shaved head and a distinctive mohawk hairstyle, wearing a black suit and glasses, holds a cell phone in his hand.
-trg_cap: a person with a shaved head and a distinctive mohawk hairstyle, wearing a black suit and glasses, holds a cell phone in his hand with a keyboard behind it.
-instruction: Add a keyboard behind the cell phone.
-taskid: 35542

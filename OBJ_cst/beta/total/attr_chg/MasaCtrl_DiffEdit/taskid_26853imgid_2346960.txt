@@ -1,5 +1,0 @@
-org_img_id: 2346960
-org_cap: A yellow car is parked on the side of the road, while a person wearing a hat and a shirt rides a motorcycle with a child sitting behind him.
-trg_cap: A striped car is parked on the side of the road, while a person wearing a hat and a shirt rides a motorcycle with a child sitting behind him.
-instruction: Change the color of the car from yellow to striped.
-taskid: 26853

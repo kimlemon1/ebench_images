@@ -1,5 +1,0 @@
-org_img_id: 2355128
-org_cap: A standing person in the water, holding a white surfboard.
-trg_cap: A grayscale photo features a person standing in the water, holding a white surfboard.
-instruction: Change the style if the image to grey scale.
-taskid: 81465

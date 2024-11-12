@@ -1,5 +1,0 @@
-org_img_id: 2348063
-org_cap: A white cup sat on a desk, surrounded by a tangled mess of wires, broken toys, and half-eaten pizza slices.
-trg_cap: A white cup sat on a desk, with a knife behind it, surrounded by a tangled mess of wires, broken toys, and half-eaten pizza slices.
-instruction: Add a knife behind the cup.
-taskid: 66701

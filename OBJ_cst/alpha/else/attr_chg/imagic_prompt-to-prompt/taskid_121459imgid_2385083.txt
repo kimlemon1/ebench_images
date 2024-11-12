@@ -1,5 +1,0 @@
-org_img_id: 2385083
-org_cap: a black cat in a worn blue suitcase, its paws around the edges as if claiming ownership.
-trg_cap: a calico cat in a worn blue suitcase, its paws around the edges as if claiming ownership.
-instruction: Change the color of the cat from black to calico.
-taskid: 121459

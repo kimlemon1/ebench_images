@@ -1,5 +1,0 @@
-org_img_id: 1160064
-org_cap: a muscular person wearing ripped jeans and a white shirt pedals a yellow skateboard down a city street.
-trg_cap: A muscular person wearing ripped jeans and a white shirt pedals a yellow skateboard down a city street, passing by the grand facade of a historic concert hall.
-instruction: Change the background to concert hall.
-taskid: 55743

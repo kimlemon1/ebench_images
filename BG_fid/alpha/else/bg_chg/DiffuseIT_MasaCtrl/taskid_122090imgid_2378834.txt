@@ -1,5 +1,0 @@
-org_img_id: 2378834
-org_cap: The scene is focused on a bicycle lying on the sandy beach, with a group of people in the background, including children playing with a ball and adults lounging on towels.
-trg_cap: The scene is focused on a bicycle lying on the sandy beach, with a group of people in the background, including children playing with a ball and adults lounging on towels, while a gym stands nearby, its large windows revealing people working out inside.
-instruction: Change the background to gym.
-taskid: 122090

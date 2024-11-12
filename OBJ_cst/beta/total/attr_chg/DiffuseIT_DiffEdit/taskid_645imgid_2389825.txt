@@ -1,5 +1,0 @@
-org_img_id: 2389825
-org_cap: Surfing person on white surfboard.
-trg_cap: Surfing person on brown surfboard.
-instruction: Change the color of the surfboard from white to brown.
-taskid: 645

@@ -1,5 +1,0 @@
-org_img_id: 2410965
-org_cap: a green truck drives down a winding mountain road lined with snow-covered trees and rocky cliffs, its tires screeching on the icy pavement.
-trg_cap: A pencil sketch art depicts a green truck driving down a winding mountain road lined with snow-covered trees and rocky cliffs, its tires screeching on the icy pavement.
-instruction: Change the style if the image to pencil sketch.
-taskid: 67866

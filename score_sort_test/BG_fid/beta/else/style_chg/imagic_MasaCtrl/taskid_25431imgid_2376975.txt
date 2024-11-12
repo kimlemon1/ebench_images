@@ -1,0 +1,5 @@
+org_img_id: 2376975
+org_cap: A white fire hydrant sits on a concrete sidewalk surrounded by fallen leaves.
+trg_cap: A graffiti art piece features a white fire hydrant sitting on a concrete sidewalk surrounded by fallen leaves.
+instruction: Change the style if the image to graffiti art.
+taskid: 25431

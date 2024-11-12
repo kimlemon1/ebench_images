@@ -1,5 +1,0 @@
-org_img_id: 2346776
-org_cap: a lone person stands on a hillside, his red kite above him as the sun sets behind a distant hill.
-trg_cap: A lone person stands on a hillside near the entrance of a cave, his red kite above him as the sun sets behind a distant hill.
-instruction: Change the background to cave.
-taskid: 60934

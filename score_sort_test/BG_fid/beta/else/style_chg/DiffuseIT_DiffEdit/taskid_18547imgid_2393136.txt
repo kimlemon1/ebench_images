@@ -1,0 +1,5 @@
+org_img_id: 2393136
+org_cap: a bear sits on a rock, its fur a thick layer of white and black, its eyes a piercing brown, its claws sharp and curved, its body a powerful mass of muscle and fat, its paws splayed wide.
+trg_cap: The pencil sketch art depicts a bear sitting on a rock, with a thick layer of white and black fur, piercing brown eyes, sharp curved claws, a powerful mass of muscle and fat, and wide-splayed paws.
+instruction: Change the style if the image to pencil sketch.
+taskid: 18547

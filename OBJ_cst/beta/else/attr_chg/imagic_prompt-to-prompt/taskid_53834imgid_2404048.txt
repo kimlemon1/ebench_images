@@ -1,5 +1,0 @@
-org_img_id: 2404048
-org_cap: a person sits at a table, holding a slice of sliced chocolate cake.
-trg_cap: a person sits at a table, holding a slice of sliced pink cake.
-instruction: Change the color of the cake from chocolate to pink.
-taskid: 53834

@@ -1,5 +1,0 @@
-org_img_id: 2384653
-org_cap: A young person sits astride a motorcycle with a flame - painted design on the side, wearing ripped jeans and black leather jacket with a backpack slung over their shoulder.
-trg_cap: A young person sits astride a motorcycle with a flame-painted design on the side, wearing ripped jeans and a black leather jacket with a backpack slung over their shoulder, set against the backdrop of a grass field.
-instruction: Change the background to grass field.
-taskid: 99813

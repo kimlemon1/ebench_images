@@ -1,5 +1,0 @@
-org_img_id: 2322814
-org_cap: a red truck parked outside a brick building with a green awning.
-trg_cap: A mosaic art piece contains a red truck parked outside a brick building with a green awning.
-instruction: Change the style if the image to mosaic art.
-taskid: 55246

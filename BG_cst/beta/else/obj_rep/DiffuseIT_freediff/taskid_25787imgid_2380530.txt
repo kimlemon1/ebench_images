@@ -1,5 +1,0 @@
-org_img_id: 2380530
-org_cap: The scene is focused on a circular wooden desk with a gray keyboard and computer monitor placed in the center, surrounded by various office supplies and a glass of water.
-trg_cap: The scene is focused on a circular wooden desk with a computer monitor placed in the center, surrounded by various office supplies and a parking meter.
-instruction: Replace the keyboard with a parking meter.
-taskid: 25787

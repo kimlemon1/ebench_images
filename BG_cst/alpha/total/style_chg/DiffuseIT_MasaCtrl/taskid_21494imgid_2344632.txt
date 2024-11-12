@@ -1,5 +1,0 @@
-org_img_id: 2344632
-org_cap: The bus is a white bus with a sleek design, featuring a curved front, a flat roof, and a rear exit door.
-trg_cap: A grey scale photo features a white bus with a sleek design, including a curved front, a flat roof, and a rear exit door.
-instruction: Change the style if the image to grey scale.
-taskid: 21494

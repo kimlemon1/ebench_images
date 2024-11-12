@@ -1,5 +1,0 @@
-org_img_id: 2380348
-org_cap: a gray cat on a red suitcase, its paws and its eyes on something in the distance.
-trg_cap: a orange cat on a red suitcase, its paws and its eyes on something in the distance.
-instruction: Change the color of the cat from gray to orange.
-taskid: 41167

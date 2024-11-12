@@ -1,5 +1,0 @@
-org_img_id: 2337429
-org_cap: Person, wearing a black and white striped wetsuit and white booties, his kite above him as he on a sunny day.
-trg_cap: The cartoon-style art depicts a person wearing a black and white striped wetsuit and white booties, with his kite above him on a sunny day.
-instruction: Change the style if the image to cartoon style.
-taskid: 59134

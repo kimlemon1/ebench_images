@@ -1,5 +1,0 @@
-org_img_id: 2337739
-org_cap: a person about to kick a sports ball.
-trg_cap: a person about to kick a sports ball and a car on the left side of the sports ball.
-instruction: Add a car on the left side of the sports ball.
-taskid: 51834

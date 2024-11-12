@@ -1,5 +1,0 @@
-org_img_id: 2389516
-org_cap: a red, white, and blue airplane with a sleek design and a trail of smoke behind it, soaring through the clear blue sky at a high speed.
-trg_cap: A pencil sketch art features a red, white, and blue airplane with a sleek design and a trail of smoke behind it, soaring through the clear blue sky at high speed.
-instruction: Change the style if the image to pencil sketch.
-taskid: 1501

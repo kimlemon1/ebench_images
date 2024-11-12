@@ -1,5 +1,0 @@
-org_img_id: 2341402
-org_cap: a person stands in a kitchen, holding a pizza with tomato sauce and mozzarella cheese spread on it, surrounded by various toppings such as olives, pepperoni, and mushrooms on a wooden table.
-trg_cap: An ancient Egyptian-style artwork depicts a person standing in a kitchen, holding a pizza with tomato sauce and mozzarella cheese, surrounded by various toppings such as olives, pepperoni, and mushrooms on a wooden table.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 11504

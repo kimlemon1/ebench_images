@@ -1,5 +1,0 @@
-org_img_id: 2394611
-org_cap: a cowboy on a horse along the beach, with a small dog running alongside, kicking up sand and dust as they ride towards the ocean.
-trg_cap: a cowboy on a horse along the beach, with a small dog running alongside, kicking up sand and dust as they ride towards the ocean, following a car in front of them.
-instruction: Add a car in front of the horse.
-taskid: 26234

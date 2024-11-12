@@ -1,5 +1,0 @@
-org_img_id: 2363565
-org_cap: the brown cat sitting in the oven, her fur against the warmth.
-trg_cap: A graffiti art piece depicts a brown cat sitting in the oven, her fur against the warmth.
-instruction: Change the style if the image to graffiti art.
-taskid: 65438

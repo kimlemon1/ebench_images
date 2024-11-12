@@ -1,0 +1,5 @@
+org_img_id: 2396350
+org_cap: A white dog looks back at you with curious eyes through the rearview mirror of a car.
+trg_cap: A beige dog looks back at you with curious eyes through the rearview mirror of a car.
+instruction: Change the color of the dog from white to beige.
+taskid: 108157

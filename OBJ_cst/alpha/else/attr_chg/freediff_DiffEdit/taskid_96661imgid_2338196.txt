@@ -1,5 +1,0 @@
-org_img_id: 2338196
-org_cap: a brown, jumping horse, its legs splayed in the rodeo arena.
-trg_cap: a light brown, jumping horse, its legs splayed in the rodeo arena.
-instruction: Change the color of the horse from brown to light brown.
-taskid: 96661

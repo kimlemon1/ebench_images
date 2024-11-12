@@ -1,5 +1,0 @@
-org_img_id: 2371050
-org_cap: an airplane, white, parked on the runway with its engines shut off and its wheels retracted.
-trg_cap: The pop art style artwork features a white airplane parked on the runway with its engines shut off and its wheels retracted.
-instruction: Change the style if the image to pop art style.
-taskid: 4414

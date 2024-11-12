@@ -1,5 +1,0 @@
-org_img_id: 2350397
-org_cap: The person at the counter wore a white apron over a black shirt and jeans, with a chalkboard menu behind them.
-trg_cap: The large person at the counter wore a white apron over a black shirt and jeans, with a chalkboard menu behind them.
-instruction: Make the person larger.
-taskid: 11184

@@ -1,5 +1,0 @@
-org_img_id: 2384137
-org_cap: The scene features a bamboo wood bench, situated on a quiet street lined with tall trees and modestly sized buildings, with a few pedestrians and vehicles passing by.
-trg_cap: The scene features a small bamboo wood bench, situated on a quiet street lined with tall trees and modestly sized buildings, with a few pedestrians and vehicles passing by.
-instruction: Make the bench smaller.
-taskid: 54446

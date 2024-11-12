@@ -1,5 +1,0 @@
-org_img_id: 2351803
-org_cap: person's athletic build is showcased as she swings her racket, her red shorts and white tank top accentuating her toned legs and arms.
-trg_cap: A Van Gogh style art showcases a person's athletic build as she swings her racket, with her red shorts and white tank top accentuating her toned legs and arms.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 46559

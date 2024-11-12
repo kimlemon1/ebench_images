@@ -1,5 +1,0 @@
-org_img_id: 2367335
-org_cap: skateboarder leaps through the air, his white skateboard flying off the ramp as he executes a flawless ollie.
-trg_cap: skateboarder leaps through the air, his large white skateboard flying off the ramp as he executes a flawless ollie.
-instruction: Make the skateboard larger.
-taskid: 70253

@@ -1,5 +1,0 @@
-org_img_id: 2390284
-org_cap: A wood bench stands alone on a quiet street corner, its bench slats weathered to a warm honey color and its metal legs rusted to a soft patina.
-trg_cap: A large wood bench stands alone on a quiet street corner, its bench slats weathered to a warm honey color and its metal legs rusted to a soft patina.
-instruction: Make the bench larger.
-taskid: 45622

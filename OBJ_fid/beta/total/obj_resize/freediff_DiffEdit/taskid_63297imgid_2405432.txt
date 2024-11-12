@@ -1,5 +1,0 @@
-org_img_id: 2405432
-org_cap: A brown, jumping, playing dog runs across a lawn, its paws pounding the grass as it chases a yellow ball.
-trg_cap: A small, brown, jumping, playing dog runs across a lawn, its paws pounding the grass as it chases a yellow ball.
-instruction: Make the dog smaller.
-taskid: 63297

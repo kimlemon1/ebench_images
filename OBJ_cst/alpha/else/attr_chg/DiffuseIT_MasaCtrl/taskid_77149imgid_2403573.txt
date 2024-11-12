@@ -1,5 +1,0 @@
-org_img_id: 2403573
-org_cap: The brown wood analog clock is a frame with a face featuring numbers and hour markers, surrounded by a border.
-trg_cap: The teal wood analog clock is a frame with a face featuring numbers and hour markers, surrounded by a border.
-instruction: Change the color of the clock from brown to teal.
-taskid: 77149

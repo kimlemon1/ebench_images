@@ -1,5 +1,0 @@
-org_img_id: 2368267
-org_cap: a person in a black business suit and holding a black umbrella in the rain.
-trg_cap: a person in a black business suit and holding a black umbrella in the rain, with a book in front of the umbrella.
-instruction: Add a book in front of the umbrella.
-taskid: 36683

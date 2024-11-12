@@ -1,5 +1,0 @@
-org_img_id: 2350636
-org_cap: a black and white cat with a distinctive coat pattern and piercing eyes along a worn stone path, its tail as it its surroundings.
-trg_cap: A black and white cat with a distinctive coat pattern and piercing eyes along a worn stone path in a pine forest, its tail as it its surroundings.
-instruction: Change the background to pine forest.
-taskid: 36838

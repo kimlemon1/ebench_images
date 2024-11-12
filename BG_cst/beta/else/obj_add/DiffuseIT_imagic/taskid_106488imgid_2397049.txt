@@ -1,5 +1,0 @@
-org_img_id: 2397049
-org_cap: a teddy bear sits on the grille of a fire truck.
-trg_cap: A person stands to the left of a teddy bear, which sits on the grille of a fire truck.
-instruction: Add a person on the left side of the teddy bear.
-taskid: 106488

@@ -1,0 +1,5 @@
+org_img_id: 2359972
+org_cap: A giraffe stands in a grassy enclosure, its neck and legs visible, its fur blending with the surroundings, eating.
+trg_cap: An oil painting style art depicts a giraffe standing in a grassy enclosure, its neck and legs visible, its fur blending with the surroundings as it eats.
+instruction: Change the style if the image to oil painting style.
+taskid: 101446

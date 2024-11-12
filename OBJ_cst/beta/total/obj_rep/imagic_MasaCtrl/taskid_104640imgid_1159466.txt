@@ -1,5 +1,0 @@
-org_img_id: 1159466
-org_cap: a barefoot person stands in front of a store shelf, holding a plate and the contents of a box.
-trg_cap: A kite stands in front of a store shelf, holding a plate and the contents of the box.
-instruction: Replace the person with a kite.
-taskid: 104640

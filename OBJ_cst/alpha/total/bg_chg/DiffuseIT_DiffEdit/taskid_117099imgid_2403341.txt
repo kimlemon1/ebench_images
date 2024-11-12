@@ -1,5 +1,0 @@
-org_img_id: 2403341
-org_cap: a walking black dog with a tail and a person in a yellow shirt and jeans on a paved path surrounded by green trees and bushes.
-trg_cap: a walking black dog with a tail and a person in a yellow shirt and jeans on a paved path surrounded by green trees and bushes near the airport.
-instruction: Change the background to airport.
-taskid: 117099

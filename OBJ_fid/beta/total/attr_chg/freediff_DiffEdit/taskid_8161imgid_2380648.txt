@@ -1,5 +1,0 @@
-org_img_id: 2380648
-org_cap: a person in a yellow hat and sunglasses runs across a green grassy field, white frisbee in hand, with a group of people in the background playing a game.
-trg_cap: a person in a yellow hat and sunglasses runs across a green grassy field, green frisbee in hand, with a group of people in the background playing a game.
-instruction: Change the color of the frisbee from white to green.
-taskid: 8161

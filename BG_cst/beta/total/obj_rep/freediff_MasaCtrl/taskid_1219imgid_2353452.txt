@@ -1,5 +1,0 @@
-org_img_id: 2353452
-org_cap: Standing person his hair a stark contrast to the green tennis court.
-trg_cap: Standing skis on the green tennis court.
-instruction: Replace the person with a skis.
-taskid: 1219

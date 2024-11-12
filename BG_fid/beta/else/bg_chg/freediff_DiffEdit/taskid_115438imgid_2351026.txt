@@ -1,5 +1,0 @@
-org_img_id: 2351026
-org_cap: a grey cat with a curious expression is on the edge of a toilet bowl, its paw in water and its whiskers wet.
-trg_cap: A grey cat with a curious expression is on the edge of a toilet bowl, its paw in water and its whiskers wet, as if it had just returned from a playful romp along the beach.
-instruction: Change the background to beach.
-taskid: 115438

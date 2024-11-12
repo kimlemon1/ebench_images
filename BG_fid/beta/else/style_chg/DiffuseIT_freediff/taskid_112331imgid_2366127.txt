@@ -1,5 +1,0 @@
-org_img_id: 2366127
-org_cap: a person's hand grasped a donut with a vibrant pink glaze, the sugary sweetness evident on their smiling face.
-trg_cap: A grayscale photo shows a person's hand grasping a donut with a vibrant pink glaze, the sugary sweetness evident on their smiling face.
-instruction: Change the style if the image to grey scale.
-taskid: 112331

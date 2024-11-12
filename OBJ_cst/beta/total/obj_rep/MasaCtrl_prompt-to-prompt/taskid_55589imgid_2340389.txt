@@ -1,5 +1,0 @@
-org_img_id: 2340389
-org_cap: A blue airplane soaring through the clear blue sky with a trail of smoke and a hint of speed.
-trg_cap: A blue banana.
-instruction: Replace the airplane with a banana.
-taskid: 55589

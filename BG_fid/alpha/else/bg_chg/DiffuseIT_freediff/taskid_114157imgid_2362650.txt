@@ -1,5 +1,0 @@
-org_img_id: 2362650
-org_cap: a young person sits on a surfboard in the wave pool, his arms and legs splayed as he rides the water.
-trg_cap: In an art gallery, a young person sits on a surfboard in the wave pool, his arms and legs splayed as he rides the water.
-instruction: Change the background to art gallery.
-taskid: 114157

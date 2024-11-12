@@ -1,5 +1,0 @@
-org_img_id: 2372657
-org_cap: "person on a wood bench, wearing a black coat and black boots, with a serene expression on her face."
-trg_cap: A graffiti art depicts a person on a wood bench, wearing a black coat and black boots, with a serene expression on her face.
-instruction: Change the style if the image to graffiti art.
-taskid: 109683

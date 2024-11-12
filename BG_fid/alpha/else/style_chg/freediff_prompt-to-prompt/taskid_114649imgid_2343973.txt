@@ -1,5 +1,0 @@
-org_img_id: 2343973
-org_cap: person swings her racket, her arm and her wrist as she hits the ball with a loud thwack.
-trg_cap: The art, in a watercolor painting style, depicts a person swinging her racket, her arm and wrist in motion as she hits the ball with a loud thwack.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 114649

@@ -1,5 +1,0 @@
-org_img_id: 2337695
-org_cap: a scooter with a red and white body, parked against a wall with a basket attached, next to a bicycle with a red and white frame.
-trg_cap: A pop art style artwork features a scooter with a red and white body, parked against a wall with a basket attached, next to a bicycle with a red and white frame.
-instruction: Change the style if the image to pop art style.
-taskid: 109322

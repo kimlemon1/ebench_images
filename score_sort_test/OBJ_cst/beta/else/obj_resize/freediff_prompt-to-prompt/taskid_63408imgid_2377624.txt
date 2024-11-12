@@ -1,0 +1,5 @@
+org_img_id: 2377624
+org_cap: A bottle sits on the table, surrounded by the remnants of a meal, with a plate of food and a bottle of beer in the background.
+trg_cap: A large bottle sits on the table, surrounded by the remnants of a meal, with a plate of food and a bottle of beer in the background.
+instruction: Make the bottle larger.
+taskid: 63408

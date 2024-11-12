@@ -1,5 +1,0 @@
-org_img_id: 713349
-org_cap: the train is a vintage steam train with a black and gold livery, adorned with a large chrome headlight and a bell-shaped whistle, chugging along the tracks with a puff of white smoke and a rhythmic chugging sound.
-trg_cap: The train is a small vintage steam train with a black and gold livery, adorned with a large chrome headlight and a bell-shaped whistle, chugging along the tracks with a puff of white smoke and a rhythmic chugging sound.
-instruction: Make the train smaller.
-taskid: 84364

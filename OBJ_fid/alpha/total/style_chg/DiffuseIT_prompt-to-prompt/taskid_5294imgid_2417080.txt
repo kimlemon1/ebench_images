@@ -1,5 +1,0 @@
-org_img_id: 2417080
-org_cap: a sleek, blue bus with a rounded front and rear, and a long, curved body, glides smoothly along the campus road, its tires humming softly on the pavement.
-trg_cap: A grey scale photo features a sleek, blue bus with a rounded front and rear, and a long, curved body, gliding smoothly along the campus road, its tires humming softly on the pavement.
-instruction: Change the style if the image to grey scale.
-taskid: 5294

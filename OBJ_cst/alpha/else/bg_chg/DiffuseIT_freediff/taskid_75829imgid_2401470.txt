@@ -1,5 +1,0 @@
-org_img_id: 2401470
-org_cap: A brown horse, eating and grazing on the sandy beach, its mane and tail in the breeze, as the lighthouse stands tall and proud in the background.
-trg_cap: A brown horse, eating and grazing on the sandy beach, its mane and tail in the breeze, as the restaurant stands tall and proud in the background.
-instruction: Change the background to restaurant.
-taskid: 75829

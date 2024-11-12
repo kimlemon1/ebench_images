@@ -1,5 +1,0 @@
-org_img_id: 2405324
-org_cap: a snowboarder in a bright pink jacket and yellow pants, with a white snowboard and goggles, jumps off a snowbank, kicking up snow as they soar through the air.
-trg_cap: A dog in a bright pink jacket and yellow pants, with goggles, jumps off a snowbank, kicking up snow as it soars through the air.
-instruction: Replace the snowboard with a dog.
-taskid: 19177

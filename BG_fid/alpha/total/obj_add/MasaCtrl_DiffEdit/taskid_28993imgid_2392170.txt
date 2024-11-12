@@ -1,5 +1,0 @@
-org_img_id: 2392170
-org_cap: a person holds a donut.
-trg_cap: A person holds a donut with a cat behind it.
-instruction: Add a cat behind the donut.
-taskid: 28993

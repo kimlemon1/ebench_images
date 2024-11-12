@@ -1,0 +1,5 @@
+org_img_id: 2370133
+org_cap: a white horse with a wooden cart and a person on it, wearing a hat and a bottle of water, on a sunny day.
+trg_cap: a beige horse with a wooden cart and a person on it, wearing a hat and a bottle of water, on a sunny day.
+instruction: Change the color of the horse from white to beige.
+taskid: 6980

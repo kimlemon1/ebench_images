@@ -1,5 +1,0 @@
-org_img_id: 2316246
-org_cap: a colorful array of fruits and vegetables lies on a sleek, black table, featuring a vibrant banana, a juicy apple, a plump grape, a succulent orange, a crunchy pear, a ripe strawberry, and a sprig of fresh mint.
-trg_cap: A colorful array of fruits and vegetables lies on a sleek, black table, set against the backdrop of a sunlit beach, featuring a vibrant banana, a juicy apple, a plump grape, a succulent orange, a crunchy pear, a ripe strawberry, and a sprig of fresh mint.
-instruction: Change the background to beach.
-taskid: 99467

@@ -1,5 +1,0 @@
-org_img_id: 1593057
-org_cap: Person, wearing a yellow helmet and a blue motorcycle with a distinctive design, with a determined look on his face.
-trg_cap: Person, wearing a yellow helmet and a small blue motorcycle with a distinctive design, with a determined look on his face.
-instruction: Make the motorcycle smaller.
-taskid: 4543

@@ -1,5 +1,0 @@
-org_img_id: 2320758
-org_cap: The clock face is a circular clock plate with large numerals and hour markers, surrounded by a decorative clock frame with intricate details and a subtle curve.
-trg_cap: To the left of the clock, a person stands observing the clock face, which is a circular clock plate with large numerals and hour markers, surrounded by a decorative clock frame with intricate details and a subtle curve.
-instruction: Add a person on the left side of the clock.
-taskid: 53391

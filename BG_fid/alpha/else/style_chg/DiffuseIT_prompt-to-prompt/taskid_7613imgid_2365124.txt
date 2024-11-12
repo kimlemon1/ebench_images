@@ -1,5 +1,0 @@
-org_img_id: 2365124
-org_cap: A giraffe stands tall, its fur a warm brown color with white patches on its face and neck, its eyes large and dark.
-trg_cap: A watercolor painting style art features a tall giraffe with warm brown fur, white patches on its face and neck, and large, dark eyes.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 7613

@@ -1,0 +1,5 @@
+org_img_id: 2319755
+org_cap: a skier in mid-air, his blue skis as he soars over the snow, his eyes fixed intently on the slope below.
+trg_cap: a skier in mid-air, his green skis as he soars over the snow, his eyes fixed intently on the slope below.
+instruction: Change the color of the skis from blue to green.
+taskid: 120220

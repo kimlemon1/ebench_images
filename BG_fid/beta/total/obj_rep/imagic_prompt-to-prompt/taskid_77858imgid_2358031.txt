@@ -1,5 +1,0 @@
-org_img_id: 2358031
-org_cap: A yellow fire hydrant protrudes from the snow-covered ground, its surface covered in a thick layer of white snow.
-trg_cap: A yellow sports ball protrudes from the snow-covered ground.
-instruction: Replace the fire hydrant with a sports ball.
-taskid: 77858

@@ -1,0 +1,5 @@
+org_img_id: 2335476
+org_cap: a brown dog with a skateboard under its paw, its tail as it.
+trg_cap: a brown dog with a skateboard under its paw, its tail as it, and a boat next to it.
+instruction: Add a boat next to the dog.
+taskid: 16732

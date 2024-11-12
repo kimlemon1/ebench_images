@@ -1,5 +1,0 @@
-org_img_id: 2394130
-org_cap: The surfing, wet person's physique glistens with sweat as he navigates the choppy waters on his kiteboard.
-trg_cap: A watercolor painting style art depicts a surfing, wet person's physique glistening with sweat as he navigates the choppy waters on his kiteboard.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 101946

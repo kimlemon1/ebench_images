@@ -1,5 +1,0 @@
-org_img_id: 2319818
-org_cap: Person, wearing a bright red jumpsuit, sits on a rusty oil drum, his hands a worn-out phone, his eyes the ground, his face a picture of exhaustion and frustration.
-trg_cap: A small person, wearing a bright red jumpsuit, sits on a rusty oil drum, his hands a worn-out phone, his eyes the ground, his face a picture of exhaustion and frustration.
-instruction: Make the person smaller.
-taskid: 38432

@@ -1,5 +1,0 @@
-org_img_id: 2334438
-org_cap: The scene is set with a vase containing a single flower, a book lying open on a table, and a person sitting in a chair with a plate of food in front of them.
-trg_cap: The scene is set with an orange, a book lying open on a table, and a person sitting in a chair with a plate of food in front of him.
-instruction: Replace the vase with a orange.
-taskid: 9492

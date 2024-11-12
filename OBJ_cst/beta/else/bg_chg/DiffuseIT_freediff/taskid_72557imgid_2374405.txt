@@ -1,5 +1,0 @@
-org_img_id: 2374405
-org_cap: a person is flying a green kite in the distance, with a woman in the background holding a backpack.
-trg_cap: A person is flying a green kite in the distance, with a woman in the background holding a backpack, inside a concert hall.
-instruction: Change the background to concert hall.
-taskid: 72557

@@ -1,0 +1,5 @@
+org_img_id: 2392552
+org_cap: The refrigerator is a white refrigerator standing against a wall in a small, dimly lit room with a red fire extinguisher nearby.
+trg_cap: The refrigerator is a white refrigerator standing against a wall in a small, dimly lit room with a red fire extinguisher nearby, reminiscent of a beachside cabin where the sound of waves can be faintly heard in the distance.
+instruction: Change the background to beach.
+taskid: 40731

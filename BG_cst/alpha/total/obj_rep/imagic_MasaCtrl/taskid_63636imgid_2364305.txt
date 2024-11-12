@@ -1,5 +1,0 @@
-org_img_id: 2364305
-org_cap: a person wearing a white shirt with a striped necktie that adds a touch of elegance to his outfit.
-trg_cap: a person wearing a white shirt with a striped neckcake.
-instruction: Replace the tie with a cake.
-taskid: 63636

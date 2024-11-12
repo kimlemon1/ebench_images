@@ -1,5 +1,0 @@
-org_img_id: 2321598
-org_cap: The yellow clock on the facade of the building is surrounded by a decorative frame with intricate details.
-trg_cap: The yellow clock on the facade of the building is surrounded by a decorative frame with intricate details, and next to the clock is a vase.
-instruction: Add a vase next to the clock.
-taskid: 35838

@@ -1,5 +1,0 @@
-org_img_id: 2386064
-org_cap: A sleeping person lies on the dock, his jeans and t-shirt a testament to a life spent on the water, his arms and legs splayed, his eyes closed to the warm sun on his face.
-trg_cap: A sleeping person lies on the dock, his jeans and t-shirt a testament to a life spent in the desert, his arms and legs splayed, his eyes closed to the warm sun on his face.
-instruction: Change the background to desert.
-taskid: 95219

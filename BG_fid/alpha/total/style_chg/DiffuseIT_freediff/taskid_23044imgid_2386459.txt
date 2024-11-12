@@ -1,5 +1,0 @@
-org_img_id: 2386459
-org_cap: a light brown dog with a goofy grin and a tongue out of its mouth, looking up to its ears and its paws on a worn couch.
-trg_cap: The mosaic art features a light brown dog with a goofy grin and its tongue out, looking up to its ears with its paws on a worn couch.
-instruction: Change the style if the image to mosaic art.
-taskid: 23044

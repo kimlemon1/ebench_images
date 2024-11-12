@@ -1,0 +1,5 @@
+org_img_id: 1901
+org_cap: the boat, a sturdy boat with a dark blue hull and a white superstructure, glides smoothly across the calm waters of the sea, its propeller churning the water with a gentle hum.
+trg_cap: The bird glides smoothly across the calm waters of the sea, its wings churning the water with a gentle hum.
+instruction: Replace the boat with a bird.
+taskid: 89078

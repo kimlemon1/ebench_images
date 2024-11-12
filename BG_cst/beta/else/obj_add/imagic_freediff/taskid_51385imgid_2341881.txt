@@ -1,5 +1,0 @@
-org_img_id: 2341881
-org_cap: A person crouching rides a white surfboard, surfing against the turquoise ocean.
-trg_cap: A person crouching rides a white surfboard, surfing against the turquoise ocean, with a bear underneath them.
-instruction: Add a bear under the person.
-taskid: 51385

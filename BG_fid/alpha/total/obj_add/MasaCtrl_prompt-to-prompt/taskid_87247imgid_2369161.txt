@@ -1,5 +1,0 @@
-org_img_id: 2369161
-org_cap: The scene is focused on a single white glass vase, sitting on a table with a simple wooden tablecloth and a few fresh flowers.
-trg_cap: The scene is focused on a single white glass vase, sitting on a table with a simple wooden tablecloth and a few fresh flowers, with a cup in front of the vase.
-instruction: Add a cup in front of the vase.
-taskid: 87247

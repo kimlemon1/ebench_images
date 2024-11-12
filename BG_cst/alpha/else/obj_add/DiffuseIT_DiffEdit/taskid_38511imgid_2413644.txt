@@ -1,5 +1,0 @@
-org_img_id: 2413644
-org_cap: A large brown bear, bear fur a mottled mix of brown and black, bear eyes a piercing yellow, bear snout as it for berries or insects.
-trg_cap: A large brown bear, bear fur a mottled mix of brown and black, bear eyes a piercing yellow, bear snout as it for berries or insects, with a couch underneath the bear.
-instruction: Add a couch under the bear.
-taskid: 38511

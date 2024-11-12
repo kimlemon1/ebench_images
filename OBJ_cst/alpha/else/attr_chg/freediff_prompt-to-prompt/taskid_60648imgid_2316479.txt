@@ -1,5 +1,0 @@
-org_img_id: 2316479
-org_cap: a skateboarder in jeans and a white t-shirt leaps off the ground, his brown skateboard spinning as he lands a trick on the concrete court.
-trg_cap: a skateboarder in jeans and a white t-shirt leaps off the ground, his white skateboard spinning as he lands a trick on the concrete court.
-instruction: Change the color of the skateboard from brown to white.
-taskid: 60648

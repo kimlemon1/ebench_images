@@ -1,0 +1,5 @@
+org_img_id: 2385585
+org_cap: The new, clean, orange, metal fire hydrant stands alone on the asphalt, its metallic surface reflecting the surrounding urban landscape.
+trg_cap: The new, clean, orange, steel fire hydrant stands alone on the asphalt, its steellic surface reflecting the surrounding urban landscape.
+instruction: Change the material of the fire hydrant from metal to steel.
+taskid: 18904

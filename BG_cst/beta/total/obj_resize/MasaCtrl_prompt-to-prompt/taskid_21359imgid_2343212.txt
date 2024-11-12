@@ -1,5 +1,0 @@
-org_img_id: 2343212
-org_cap: a person lies on a windowsill, surrounded by a laptop, cup, and blinds, with a dog beside them.
-trg_cap: a person lies on a windowsill, surrounded by a laptop, large cup, and blinds, with a dog beside them.
-instruction: Make the cup larger.
-taskid: 21359

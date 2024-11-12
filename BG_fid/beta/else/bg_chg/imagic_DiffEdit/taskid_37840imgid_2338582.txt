@@ -1,5 +1,0 @@
-org_img_id: 2338582
-org_cap: "Person swings her racket, sending the tennis ball flying across the court in a blur of white and pink."
-trg_cap: In the concert hall, Person swings her racket, sending the tennis ball flying across the court in a blur of white and pink.
-instruction: Change the background to concert hall.
-taskid: 37840

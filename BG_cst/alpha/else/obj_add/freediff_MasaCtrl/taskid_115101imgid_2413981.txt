@@ -1,5 +1,0 @@
-org_img_id: 2413981
-org_cap: person dribbles a blue ball on the grassy field, her opponent trying to steal blue ball away.
-trg_cap: person dribbles a blue ball on the grassy field, her opponent trying to steal blue ball away, with a baseball bat on the right side of the sports ball.
-instruction: Add a baseball bat on the right side of the sports ball.
-taskid: 115101

@@ -1,5 +1,0 @@
-org_img_id: 2388676
-org_cap: The open, off laptop sits on a desk, surrounded by a few scattered items like a small speaker and a cup, with a plain white chair tucked neatly underneath.
-trg_cap: The open, off small laptop sits on a desk, surrounded by a few scattered items like a small speaker and a cup, with a plain white chair tucked neatly underneath.
-instruction: Make the laptop smaller.
-taskid: 13045

@@ -1,0 +1,5 @@
+org_img_id: 1591854
+org_cap: a woman in her mid-30s, wearing a black parka with a bright red pom-pom hat and holding a black umbrella.
+trg_cap: A woman in her mid-30s, wearing a black parka with a bright red pom-pom hat and holding a truck.
+instruction: Replace the umbrella with a truck.
+taskid: 104245

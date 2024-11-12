@@ -1,5 +1,0 @@
-org_img_id: 2401799
-org_cap: a glass vase filled with a bouquet of purple flowers sits on a circular table, surrounded by lush greenery and colorful flowers outside the window.
-trg_cap: a large glass vase filled with a bouquet of purple flowers sits on a circular table, surrounded by lush greenery and colorful flowers outside the window.
-instruction: Make the vase larger.
-taskid: 7591

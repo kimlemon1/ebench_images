@@ -1,5 +1,0 @@
-org_img_id: 2391216
-org_cap: a white horse with a halter and a rope tied to its neck in a dusty enclosure, its coat matted and dirty, its eyes sunken and weary.
-trg_cap: A white cup in its dusty enclosure.
-instruction: Replace the horse with a cup.
-taskid: 101323

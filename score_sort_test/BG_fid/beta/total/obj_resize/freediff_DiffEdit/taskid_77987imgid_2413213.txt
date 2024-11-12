@@ -1,0 +1,5 @@
+org_img_id: 2413213
+org_cap: The baseball bat is a worn, golden-hued baseball bat with a slight curve and a few scratches on the surface.
+trg_cap: The baseball bat is a large, worn, golden-hued baseball bat with a slight curve and a few scratches on the surface.
+instruction: Make the baseball bat larger.
+taskid: 77987

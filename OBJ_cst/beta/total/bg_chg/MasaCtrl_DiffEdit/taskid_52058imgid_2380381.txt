@@ -1,5 +1,0 @@
-org_img_id: 2380381
-org_cap: a surfing person out of the ocean and onto the sandy beach.
-trg_cap: a surfing person out of the ocean and onto the sandy beach, as if transitioning from the vastness of space to the confines of a space station.
-instruction: Change the background to space station.
-taskid: 52058

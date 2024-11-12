@@ -1,5 +1,0 @@
-org_img_id: 2349411_0
-org_cap: the clock is a large, bronze statue of a strong man holding a black clock in his arms.
-trg_cap: A Van Gogh style art piece features a large bronze statue of a strong man holding a black clock in his arms.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 107938

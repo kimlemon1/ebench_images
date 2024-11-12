@@ -1,0 +1,5 @@
+org_img_id: 2380089
+org_cap: A blue, colorful airplane soars through the clear blue sky, its sleek design and curved wings glistening in the sunlight.
+trg_cap: A grey scale photo shows a blue, colorful airplane soaring through the clear blue sky, its sleek design and curved wings glistening in the sunlight.
+instruction: Change the style if the image to grey scale.
+taskid: 86316

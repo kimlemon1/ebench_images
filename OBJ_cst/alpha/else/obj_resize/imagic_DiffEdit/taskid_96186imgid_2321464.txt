@@ -1,5 +1,0 @@
-org_img_id: 2321464
-org_cap: the scene is focused on a sleek, modern skyscraper with a gleaming glass and steel exterior, its peak disappearing into the cloudy sky, with a large digital clock prominently displayed on its facade.
-trg_cap: the scene is focused on a sleek, modern skyscraper with a gleaming glass and steel exterior, its peak disappearing into the cloudy sky, with a small digital clock prominently displayed on its facade.
-instruction: Make the clock smaller.
-taskid: 96186

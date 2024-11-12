@@ -1,5 +1,0 @@
-org_img_id: 2322215
-org_cap: a person in a wetsuit rides a surfboard, his arms and legs bent as he carves through the waves, the sun casting a warm glow over the scene.
-trg_cap: A person in a wetsuit rides a surfboard, his arms and legs bent as he carves through the waves, a frisbee in front of him, the sun casting a warm glow over the scene.
-instruction: Add a frisbee in front of the person.
-taskid: 23818

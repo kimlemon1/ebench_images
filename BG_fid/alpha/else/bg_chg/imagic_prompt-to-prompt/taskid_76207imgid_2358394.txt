@@ -1,5 +1,0 @@
-org_img_id: 2358394
-org_cap: scissors lie on the table next to a half-eaten pizza.
-trg_cap: Scissors lie on the rustic wooden table next to a half-eaten pizza, with the countryside farm's rolling fields visible through the open window.
-instruction: Change the background to country side farm.
-taskid: 76207

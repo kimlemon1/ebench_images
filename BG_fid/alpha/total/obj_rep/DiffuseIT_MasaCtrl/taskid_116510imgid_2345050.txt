@@ -1,5 +1,0 @@
-org_img_id: 2345050
-org_cap: The scene is focused on a young person with a white tennis outfit and a yellow tennis racket.
-trg_cap: The scene is focused on the bottle.
-instruction: Replace the person with a bottle.
-taskid: 116510

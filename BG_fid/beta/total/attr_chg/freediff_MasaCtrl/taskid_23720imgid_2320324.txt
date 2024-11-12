@@ -1,5 +1,0 @@
-org_img_id: 2320324
-org_cap: a person riding a brown horse.
-trg_cap: a person riding a gray horse.
-instruction: Change the color of the horse from brown to gray.
-taskid: 23720

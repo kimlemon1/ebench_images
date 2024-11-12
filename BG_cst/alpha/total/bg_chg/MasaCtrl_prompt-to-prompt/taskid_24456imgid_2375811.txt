@@ -1,5 +1,0 @@
-org_img_id: 2375811
-org_cap: a snowboarding person in a snowboard jacket, on a snowy mountain slope.
-trg_cap: a snowboarding person in a snowboard jacket, on a snowy mountain slope near a cave.
-instruction: Change the background to cave.
-taskid: 24456

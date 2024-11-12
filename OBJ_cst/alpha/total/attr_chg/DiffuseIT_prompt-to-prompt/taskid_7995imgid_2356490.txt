@@ -1,5 +1,0 @@
-org_img_id: 2356490
-org_cap: a white truck parked on a city street at night with a few pedestrians walking by.
-trg_cap: a brown truck parked on a city street at night with a few pedestrians walking by.
-instruction: Change the color of the truck from white to brown.
-taskid: 7995

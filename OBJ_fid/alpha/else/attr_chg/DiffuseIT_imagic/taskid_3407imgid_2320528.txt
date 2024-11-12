@@ -1,5 +1,0 @@
-org_img_id: 2320528
-org_cap: The vase is a white vase sitting on a wooden table.
-trg_cap: The vase is a beige vase sitting on a wooden table.
-instruction: Change the color of the vase from white to beige.
-taskid: 3407

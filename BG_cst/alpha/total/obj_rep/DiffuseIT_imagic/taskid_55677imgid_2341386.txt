@@ -1,5 +1,0 @@
-org_img_id: 2341386
-org_cap: the giant panda's paw cradles a crunchy carrot, its soft fur a stark contrast to the vibrant orange carrot.
-trg_cap: The giant panda's paw cradles a cow, its soft fur a stark contrast to the cow's.
-instruction: Replace the carrot with a cow.
-taskid: 55677

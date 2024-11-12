@@ -1,5 +1,0 @@
-org_img_id: 2332326
-org_cap: A wood bench sits alone on a sandy dune, its slats and bench telling the story of countless beach days and sun-kissed afternoons.
-trg_cap: A small wood bench sits alone on a sandy dune, its slats and bench telling the story of countless beach days and sun-kissed afternoons.
-instruction: Make the bench smaller.
-taskid: 68438

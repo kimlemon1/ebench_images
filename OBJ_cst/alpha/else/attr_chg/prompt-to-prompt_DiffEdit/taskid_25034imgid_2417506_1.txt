@@ -1,5 +1,0 @@
-org_img_id: 2417506_1
-org_cap: a person sits on a wooden table, wearing a brown shirt and holding a black cell phone in his hand, his eyes fixed on the black cell phone.
-trg_cap: a person sits on a wooden table, wearing a brown shirt and holding a silver cell phone in his hand, his eyes fixed on the silver cell phone.
-instruction: Change the color of the cell phone from black to silver.
-taskid: 25034

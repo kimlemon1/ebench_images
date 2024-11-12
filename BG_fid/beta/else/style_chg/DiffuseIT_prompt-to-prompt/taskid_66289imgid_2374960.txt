@@ -1,5 +1,0 @@
-org_img_id: 2374960
-org_cap: Person skis through the air as person leaps off the snow, his body a blur of motion as he flies towards the landing zone.
-trg_cap: A watercolor painting style art depicts a person skiing through the air, leaping off the snow with their body a blur of motion as they fly towards the landing zone.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 66289

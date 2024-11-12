@@ -1,5 +1,0 @@
-org_img_id: 2388501
-org_cap: A lone person walks down a quiet street, carrying an orange umbrella, its fabric flapping wildly as it casts a long shadow on the cobblestone road.
-trg_cap: A lone person walks down a quiet street in the countryside, surrounded by sprawling fields and distant farmhouses, carrying an orange umbrella, its fabric flapping wildly as it casts a long shadow on the cobblestone road.
-instruction: Change the background to country side farm.
-taskid: 86821

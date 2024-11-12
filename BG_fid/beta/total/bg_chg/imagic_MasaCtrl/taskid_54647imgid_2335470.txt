@@ -1,5 +1,0 @@
-org_img_id: 2335470
-org_cap: a person milks a black cow at a rustic farm.
-trg_cap: A person milks a black cow at a rustic farm, depicted in a painting displayed at an art gallery.
-instruction: Change the background to art gallery.
-taskid: 54647

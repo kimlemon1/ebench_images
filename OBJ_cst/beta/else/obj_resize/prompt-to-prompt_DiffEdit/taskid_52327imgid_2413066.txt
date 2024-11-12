@@ -1,5 +1,0 @@
-org_img_id: 2413066
-org_cap: Person stands on the snow-covered mountain slope, wearing a green jacket and holding skis, with a bright blue sky and fluffy white clouds in the background.
-trg_cap: A small person stands on the snow-covered mountain slope, wearing a green jacket and holding skis, with a bright blue sky and fluffy white clouds in the background.
-instruction: Make the person smaller.
-taskid: 52327

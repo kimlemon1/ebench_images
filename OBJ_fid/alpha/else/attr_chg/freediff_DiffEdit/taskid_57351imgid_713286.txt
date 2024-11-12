@@ -1,5 +1,0 @@
-org_img_id: 713286
-org_cap: a brown horse along the sidewalk.
-trg_cap: a yellow horse along the sidewalk.
-instruction: Change the color of the horse from brown to yellow.
-taskid: 57351

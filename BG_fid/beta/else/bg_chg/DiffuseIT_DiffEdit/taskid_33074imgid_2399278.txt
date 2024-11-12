@@ -1,5 +1,0 @@
-org_img_id: 2399278
-org_cap: riding person surfs a white surfboard through a wave, arms and legs bent as through the white surfboard.
-trg_cap: Riding person surfs a white surfboard through a wave, arms and legs bent as through the grass field.
-instruction: Change the background to grass field.
-taskid: 33074

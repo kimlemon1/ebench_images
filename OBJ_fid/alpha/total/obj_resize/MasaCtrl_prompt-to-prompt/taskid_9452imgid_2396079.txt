@@ -1,5 +1,0 @@
-org_img_id: 2396079
-org_cap: a person stands on the street, holding a black umbrella over their head, as they gaze up at the dome of the lutheran church.
-trg_cap: a person stands on the street, holding a large black umbrella over their head, as they gaze up at the dome of the lutheran church.
-instruction: Make the umbrella larger.
-taskid: 9452

@@ -1,5 +1,0 @@
-org_img_id: 2402367
-org_cap: a white kite, attached to a long string, soaring high in the clear blue sky with puffy white clouds scattered across it.
-trg_cap: a large white kite, attached to a long string, soaring high in the clear blue sky with puffy white clouds scattered across it.
-instruction: Make the kite larger.
-taskid: 105726

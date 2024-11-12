@@ -1,5 +1,0 @@
-org_img_id: 1526
-org_cap: The scene features two computer terminals with white keyboards, situated on a wooden table, surrounded by a blue wall.
-trg_cap: The scene features two computer terminals with red keyboards, situated on a wooden table, surrounded by a blue wall.
-instruction: Change the color of the keyboard from white to red.
-taskid: 122622

@@ -1,5 +1,0 @@
-org_img_id: 2353152
-org_cap: a black motorcycle with a chrome handlebar and a tank, parked on a quiet street lined with bare trees and a historic mansion in the background, with a warm sunbeam casting a bright glow on the entire scene.
-trg_cap: A Van Gogh style art piece features a black motorcycle with a chrome handlebar and tank, parked on a quiet street lined with bare trees and a historic mansion in the background, all illuminated by a warm sunbeam casting a bright glow on the entire scene.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 5419

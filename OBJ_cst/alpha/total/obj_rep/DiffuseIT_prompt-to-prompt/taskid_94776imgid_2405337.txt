@@ -1,5 +1,0 @@
-org_img_id: 2405337
-org_cap: the parking meter is a tall, cylindrical structure with a flat top and a rounded bottom, standing upright on a concrete base, its dark gray metal surface weathered and worn from years of exposure to the elements.
-trg_cap: The person is standing upright on their concrete base.
-instruction: Replace the parking meter with a person.
-taskid: 94776

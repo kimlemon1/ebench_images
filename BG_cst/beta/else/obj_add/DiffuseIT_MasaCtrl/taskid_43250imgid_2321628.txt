@@ -1,5 +1,0 @@
-org_img_id: 2321628
-org_cap: the clock on the facade
-trg_cap: the clock on the facade with the TV on top
-instruction: Add a tv on the clock.
-taskid: 43250

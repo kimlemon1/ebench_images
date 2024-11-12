@@ -1,5 +1,0 @@
-org_img_id: 2350955
-org_cap: A red fire hydrant stands against a white wall, with a bright red door and a small metal handle.
-trg_cap: A watercolor painting style art features a red fire hydrant standing against a white wall, accompanied by a bright red door with a small metal handle.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 115504

@@ -1,5 +1,0 @@
-org_img_id: 2384106
-org_cap: A black cat sits atop a suitcase, sitting in the dim light of a quiet room, surrounded by crumpled clothes and scattered belongings.
-trg_cap: A cream colored cat sits atop a suitcase, sitting in the dim light of a quiet room, surrounded by crumpled clothes and scattered belongings.
-instruction: Change the color of the cat from black to cream colored.
-taskid: 117324

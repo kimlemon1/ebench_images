@@ -1,5 +1,0 @@
-org_img_id: 2318049
-org_cap: a golden retriever and a white dog are playing fetch in a field at sunset, with the walking person in the background.
-trg_cap: A golden retriever and a white dog are playing fetch in a field at sunset, with the walking person in the background of a concert hall.
-instruction: Change the background to concert hall.
-taskid: 14507

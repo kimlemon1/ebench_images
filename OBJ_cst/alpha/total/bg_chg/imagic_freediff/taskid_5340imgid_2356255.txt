@@ -1,5 +1,0 @@
-org_img_id: 2356255
-org_cap: The toilet is a white toilet situated on a worn, blue tile floor surrounded by a few scattered buckets and a mesh laundry basket.
-trg_cap: The toilet is a white toilet situated on a worn, blue tile floor surrounded by a few scattered buckets and a mesh laundry basket, located in a backstage area of a concert hall.
-instruction: Change the background to concert hall.
-taskid: 5340

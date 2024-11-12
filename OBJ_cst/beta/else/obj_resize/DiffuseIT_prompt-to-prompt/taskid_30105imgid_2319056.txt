@@ -1,5 +1,0 @@
-org_img_id: 2319056
-org_cap: Wet person rides a white surfboard through turbulent waters, his muscles flexing as he carves through the whitewater.
-trg_cap: Wet person rides a small white surfboard through turbulent waters, his muscles flexing as he carves through the whitewater.
-instruction: Make the surfboard smaller.
-taskid: 30105

@@ -1,5 +1,0 @@
-org_img_id: 2372413
-org_cap: person wears a blue jacket and gray pants, standing on a snowy mountain with black skis in hand.
-trg_cap: person wears a blue jacket and gray pants, standing on a snowy mountain with yellow skis in hand.
-instruction: Change the color of the skis from black to yellow.
-taskid: 64484

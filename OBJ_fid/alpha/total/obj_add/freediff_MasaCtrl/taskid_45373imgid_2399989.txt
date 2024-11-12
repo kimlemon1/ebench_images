@@ -1,5 +1,0 @@
-org_img_id: 2399989
-org_cap: The scene features a woman holding a wine glass and a gray cell phone, wearing a white strapless top with a pair of dangling earrings and a leather cuff on her wrist.
-trg_cap: The scene features a woman holding a wine glass and a gray cell phone with a cat on it, wearing a white strapless top with a pair of dangling earrings and a leather cuff on her wrist.
-instruction: Add a cat on the cell phone.
-taskid: 45373

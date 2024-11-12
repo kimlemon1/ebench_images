@@ -1,5 +1,0 @@
-org_img_id: 2409302
-org_cap: a woman in a beige trench coat and holding an umbrella walks down a rainy street, with a bicycle parked at the curb and pedestrians walking in the background.
-trg_cap: a woman in a beige trench coat and holding an umbrella walks down a rainy street, with a large bicycle parked at the curb and pedestrians walking in the background.
-instruction: Make the bicycle larger.
-taskid: 74920

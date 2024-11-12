@@ -1,5 +1,0 @@
-org_img_id: 2406222
-org_cap: A silver airplane soars into the sky, its wings stretching wide as it leaves a trail of white clouds in its wake, against the backdrop of a misty mountain range with rolling hills and a cityscape in the distance.
-trg_cap: A red airplane soars into the sky, its wings stretching wide as it leaves a trail of white clouds in its wake, against the backdrop of a misty mountain range with rolling hills and a cityscape in the distance.
-instruction: Change the color of the airplane from silver to red.
-taskid: 975

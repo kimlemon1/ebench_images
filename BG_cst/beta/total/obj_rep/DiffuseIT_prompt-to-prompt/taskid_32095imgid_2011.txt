@@ -1,5 +1,0 @@
-org_img_id: 2011
-org_cap: the silver tv is mounted on a wooden cabinet with a sliding door, containing a silver tv.
-trg_cap: The silver clock is mounted on a wooden cabinet with a sliding door, containing it.
-instruction: Replace the tv with a clock.
-taskid: 32095

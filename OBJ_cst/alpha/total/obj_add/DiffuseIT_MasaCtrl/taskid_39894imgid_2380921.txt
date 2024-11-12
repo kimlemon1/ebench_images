@@ -1,5 +1,0 @@
-org_img_id: 2380921
-org_cap: a small white dog with a brown patch on its forehead across the lush green grass of a university campus, its tail as it after a ball.
-trg_cap: a small white dog with a brown patch on its forehead across the lush green grass of a university campus, its tail as it after a ball, chasing a kite that is flying just ahead of it.
-instruction: Add a kite in front of the dog.
-taskid: 39894

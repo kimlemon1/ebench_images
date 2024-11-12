@@ -1,5 +1,0 @@
-org_img_id: 2326979
-org_cap: Person sits on a bench, wearing a white dress with a black belt, her dark hair styled in loose waves.
-trg_cap: The pop art style artwork depicts a person sitting on a bench, wearing a white dress with a black belt, and her dark hair styled in loose waves.
-instruction: Change the style if the image to pop art style.
-taskid: 54843

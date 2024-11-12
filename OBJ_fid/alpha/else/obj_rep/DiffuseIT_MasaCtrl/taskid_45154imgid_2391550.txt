@@ -1,5 +1,0 @@
-org_img_id: 2391550
-org_cap: a dignified man in a sombrero rode a gray horse, its hooves on the pavement as it down the street.
-trg_cap: A dignified man in a sombrero rode his gray teddy bear down the street.
-instruction: Replace the horse with a teddy bear.
-taskid: 45154

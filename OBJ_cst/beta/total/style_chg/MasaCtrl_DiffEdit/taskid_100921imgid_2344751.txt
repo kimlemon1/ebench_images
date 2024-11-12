@@ -1,5 +1,0 @@
-org_img_id: 2344751
-org_cap: Jumping person swings his racket, eyes fixed on the ball as it soars towards the net.
-trg_cap: A Van Gogh style art depicts a jumping person swinging his racket, eyes fixed on the ball as it soars towards the net.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 100921

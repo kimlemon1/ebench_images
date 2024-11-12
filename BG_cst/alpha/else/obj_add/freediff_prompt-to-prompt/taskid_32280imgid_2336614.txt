@@ -1,5 +1,0 @@
-org_img_id: 2336614
-org_cap: person, with a red rash guard and a determined expression, on his surfboard.
-trg_cap: person, with a red rash guard and a determined expression, on his surfboard, with a toaster on the left side of the person.
-instruction: Add a toaster on the left side of the person.
-taskid: 32280

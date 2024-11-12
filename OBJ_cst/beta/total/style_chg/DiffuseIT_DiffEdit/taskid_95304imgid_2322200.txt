@@ -1,5 +1,0 @@
-org_img_id: 2322200
-org_cap: a person rode a motorcycle with a dog in the sidecar, wearing a bright orange collar and a leash.
-trg_cap: An oil painting depicts a person riding a motorcycle with a dog in the sidecar, wearing a bright orange collar and leash.
-instruction: Change the style if the image to oil painting style.
-taskid: 95304

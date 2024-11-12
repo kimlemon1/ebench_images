@@ -1,5 +1,0 @@
-org_img_id: 2330880
-org_cap: a silhouette of a person in a black shirt and pants on a rocky outcropping overlooking a cloudy sky with a few wispy clouds.
-trg_cap: A silhouette of a keyboard on a rocky outcropping overlooking the cloudy sky with a few wispy clouds.
-instruction: Replace the person with a keyboard.
-taskid: 61833

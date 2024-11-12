@@ -1,5 +1,0 @@
-org_img_id: 2390483
-org_cap: a fluffy dog with a brown coat and white patches on the grass, a frisbee in its mouth.
-trg_cap: a fluffy dog with a brown coat and white patches on the grass, a frisbee in its mouth, with a motorcycle underneath.
-instruction: Add a motorcycle under the dog.
-taskid: 74679

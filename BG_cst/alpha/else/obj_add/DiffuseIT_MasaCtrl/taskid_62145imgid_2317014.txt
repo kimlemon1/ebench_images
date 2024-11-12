@@ -1,5 +1,0 @@
-org_img_id: 2317014
-org_cap: A surfing person is seen on his surfboard.
-trg_cap: A surfing person is seen on his surfboard with a toothbrush on the right side of the person.
-instruction: Add a toothbrush on the right side of the person.
-taskid: 62145

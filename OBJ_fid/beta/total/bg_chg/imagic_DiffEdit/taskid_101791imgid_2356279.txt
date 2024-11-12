@@ -1,5 +1,0 @@
-org_img_id: 2356279
-org_cap: a woman holds a colorful kite, standing on a grassy field with a bright blue sky in the background.
-trg_cap: A woman holds a colorful kite, standing on a grassy field with a hospital in the background.
-instruction: Change the background to hospital.
-taskid: 101791

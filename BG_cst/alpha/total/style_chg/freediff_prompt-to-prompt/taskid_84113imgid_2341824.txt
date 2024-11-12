@@ -1,5 +1,0 @@
-org_img_id: 2341824
-org_cap: Person sits on a stack of toilets in a dimly lit warehouse, wearing a worn-out coat and a camera bag.
-trg_cap: A graffiti art piece depicts a person sitting on a stack of toilets in a dimly lit warehouse, wearing a worn-out coat and a camera bag.
-instruction: Change the style if the image to graffiti art.
-taskid: 84113

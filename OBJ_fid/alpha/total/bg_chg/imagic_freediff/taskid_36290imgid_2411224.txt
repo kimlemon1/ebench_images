@@ -1,5 +1,0 @@
-org_img_id: 2411224
-org_cap: A standing white sheep on the lush green grass in the springtime landscape, with the ancient stone church standing tall in the background, its weathered stone walls and tower blending seamlessly into the rustic surroundings.
-trg_cap: A standing white sheep on the lush green grass in the springtime landscape, with the ancient stone church standing tall in the background, its weathered stone walls and tower blending seamlessly into the rustic surroundings, all set against the backdrop of a majestic mountain top.
-instruction: Change the background to mountain top.
-taskid: 36290

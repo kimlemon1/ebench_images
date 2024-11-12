@@ -1,5 +1,0 @@
-org_img_id: 2343399
-org_cap: an yellow airplane flying through the sky with a gray misty background.
-trg_cap: an purple airplane flying through the sky with a gray misty background.
-instruction: Change the color of the airplane from yellow to purple.
-taskid: 121644

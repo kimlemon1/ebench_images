@@ -1,5 +1,0 @@
-org_img_id: 2341564
-org_cap: a young boy with bright blue eyes and a mop of blond hair holds a freshly baked donut in his small hand, the donut slightly bitten into and emitting a faint crumbly scent.
-trg_cap: a young boy with bright blue eyes and a mop of blond hair holds a freshly baked large donut in his small hand, the donut slightly bitten into and emitting a faint crumbly scent.
-instruction: Make the donut larger.
-taskid: 41645

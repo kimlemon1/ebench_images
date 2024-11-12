@@ -1,5 +1,0 @@
-org_img_id: 2335223
-org_cap: a person a small bicycle the flooded streets at night.
-trg_cap: A person on a small bicycle navigated the flooded streets at night, as if riding through the corridors of a space station.
-instruction: Change the background to space station.
-taskid: 94538

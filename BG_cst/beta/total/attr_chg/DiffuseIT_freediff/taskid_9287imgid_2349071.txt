@@ -1,5 +1,0 @@
-org_img_id: 2349071
-org_cap: The black tv is placed on a black console table with a slight elevation, surrounded by a beige wall and a carpeted floor, with a few decorative items and a stand in front.
-trg_cap: The black tv is placed unlit a black cunlitsole table with a slight elevatiunlit, surrounded by a beige wall and a carpeted floor, with a few decorative items and a stand in frunlitt.
-instruction: Change the state of the tv from on to unlit.
-taskid: 9287

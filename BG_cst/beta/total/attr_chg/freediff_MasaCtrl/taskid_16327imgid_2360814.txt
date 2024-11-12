@@ -1,5 +1,0 @@
-org_img_id: 2360814
-org_cap: The metal fork lies on the fork, its tines slightly bent and its handle worn from repeated use.
-trg_cap: The steel fork lies on the fork, its tines slightly bent and its handle worn from repeated use.
-instruction: Change the material of the fork from metal to steel.
-taskid: 16327

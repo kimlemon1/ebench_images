@@ -1,0 +1,5 @@
+org_img_id: 2399034
+org_cap: An elderly person stands alone on a grassy field, gazing up at a colorful kite in the sky.
+trg_cap: An immature person stands alone on a grassy field, gazing up at a colorful kite in the sky.
+instruction: Change the state of the person from elderly to immature.
+taskid: 60635

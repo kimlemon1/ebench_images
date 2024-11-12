@@ -1,5 +1,0 @@
-org_img_id: 2326642
-org_cap: The scene is focused on a round, flatbread pizza with a white sauce and melted cheese, surrounded by a thin crust and topped with various toppings like pepperoni, mushrooms, and olives.
-trg_cap: In the bustling concert hall, the scene is focused on a round, flatbread pizza with a white sauce and melted cheese, surrounded by a thin crust and topped with various toppings like pepperoni, mushrooms, and olives.
-instruction: Change the background to concert hall.
-taskid: 97913

@@ -1,0 +1,5 @@
+org_img_id: 2384169
+org_cap: A striped black zebra grazes on the grassy terrain, its eating stripes glistening in the sunlight.
+trg_cap: A black and white black zebra grazes on the grassy terrain, its eating stripes glistening in the sunlight.
+instruction: Change the color of the zebra from striped to black and white.
+taskid: 115611

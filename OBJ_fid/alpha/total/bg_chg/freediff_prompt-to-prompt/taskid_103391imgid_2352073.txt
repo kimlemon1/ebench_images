@@ -1,5 +1,0 @@
-org_img_id: 2352073
-org_cap: a large brown bear in the clear blue water, bear fur glistening with droplets of water.
-trg_cap: A large brown bear in the clear blue water, bear fur glistening with droplets of water, as if floating in a zero-gravity environment aboard a space station.
-instruction: Change the background to space station.
-taskid: 103391

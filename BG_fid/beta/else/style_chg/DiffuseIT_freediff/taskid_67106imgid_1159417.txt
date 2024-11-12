@@ -1,5 +1,0 @@
-org_img_id: 1159417
-org_cap: a black cat in front of a music stand, its fur mussed and its whiskers with excitement.
-trg_cap: An ancient Egyptian-style artwork features a black cat with mussed fur and excited whiskers in front of a music stand.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 67106

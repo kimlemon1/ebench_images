@@ -1,5 +1,0 @@
-org_img_id: 2352201
-org_cap: a small person in a bright blue jacket and pants towards the open garage door, a soccer ball in the direction of the potholes and cracks in the driveway.
-trg_cap: a small person in a bright blue jacket and pants towards the open garage door, a suitcase under the person, a soccer ball in the direction of the potholes and cracks in the driveway.
-instruction: Add a suitcase under the person.
-taskid: 5518

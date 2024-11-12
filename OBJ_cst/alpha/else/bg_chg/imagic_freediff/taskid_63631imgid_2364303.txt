@@ -1,5 +1,0 @@
-org_img_id: 2364303
-org_cap: person rides a cream-colored surfboard, his black wetsuit glistening with water droplets.
-trg_cap: At a nearby train station, a person rides a cream-colored surfboard, his black wetsuit glistening with water droplets.
-instruction: Change the background to train station.
-taskid: 63631

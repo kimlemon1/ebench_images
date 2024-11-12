@@ -1,5 +1,0 @@
-org_img_id: 2383299
-org_cap: Person sat at the bar, on a black laptop, wearing a fedora and like a hipster.
-trg_cap: A grayscale photo features a person wearing a fedora, sitting at the bar with a black laptop, exuding a hipster vibe.
-instruction: Change the style if the image to grey scale.
-taskid: 40602

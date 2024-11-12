@@ -1,5 +1,0 @@
-org_img_id: 498197
-org_cap: The cluttered desk features a white keyboard and a tangled mess of cords, surrounded by scattered papers, empty coffee cups, and a lone teddy bear perched on the edge.
-trg_cap: The cluttered desk features a beige keyboard and a tangled mess of cords, surrounded by scattered papers, empty coffee cups, and a lone teddy bear perched on the edge.
-instruction: Change the color of the keyboard from white to beige.
-taskid: 117704

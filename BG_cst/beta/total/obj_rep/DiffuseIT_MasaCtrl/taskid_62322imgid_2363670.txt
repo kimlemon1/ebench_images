@@ -1,5 +1,0 @@
-org_img_id: 2363670
-org_cap: a brown horse in a lush green meadow surrounded by tall palm trees and a rustic wooden fence.
-trg_cap: a fire hydrant.
-instruction: Replace the horse with a fire hydrant.
-taskid: 62322

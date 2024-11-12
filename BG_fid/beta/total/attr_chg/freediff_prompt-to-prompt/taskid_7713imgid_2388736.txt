@@ -1,5 +1,0 @@
-org_img_id: 2388736
-org_cap: The bench is a brown wood bench with a appearance, featuring a frame and a surface.
-trg_cap: The bench is a light blue wood bench with a appearance, featuring a frame and a surface.
-instruction: Change the color of the bench from brown to light blue.
-taskid: 7713

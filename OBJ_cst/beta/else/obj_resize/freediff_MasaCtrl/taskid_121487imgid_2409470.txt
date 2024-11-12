@@ -1,5 +1,0 @@
-org_img_id: 2409470
-org_cap: a young person in a bright blue swimsuit and flip flops, a colorful surfboard along the sandy beach as the waves crash against the shore.
-trg_cap: a large young person in a bright blue swimsuit and flip flops, a colorful surfboard along the sandy beach as the waves crash against the shore.
-instruction: Make the person larger.
-taskid: 121487

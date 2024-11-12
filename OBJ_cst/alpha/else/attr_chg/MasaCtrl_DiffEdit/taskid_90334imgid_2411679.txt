@@ -1,5 +1,0 @@
-org_img_id: 2411679
-org_cap: a walking person down a snowy street, a striped, colorful, rainbow colored umbrella.
-trg_cap: a walking person down a snowy street, a striped, colorful, teal umbrella.
-instruction: Change the color of the umbrella from rainbow colored to teal.
-taskid: 90334

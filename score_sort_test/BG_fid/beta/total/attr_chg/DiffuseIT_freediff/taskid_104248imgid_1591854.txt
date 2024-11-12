@@ -1,0 +1,5 @@
+org_img_id: 1591854
+org_cap: a woman in her mid-30s, wearing a black parka with a bright red pom-pom hat and holding a black umbrella.
+trg_cap: a woman in her mid-30s, wearing a gray parka with a bright red pom-pom hat and holding a gray umbrella.
+instruction: Change the color of the umbrella from black to gray.
+taskid: 104248

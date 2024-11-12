@@ -1,5 +1,0 @@
-org_img_id: 2333859
-org_cap: A vibrant orange cat sits on a worn stone staircase, its fur fluffed against the chill of the morning air, its eyes narrowed into a gaze as it surveys its surroundings.
-trg_cap: A vibrant orange cat sits on a worn stone staircase by the lakeside, its fur fluffed against the chill of the morning air, its eyes narrowed into a gaze as it surveys its surroundings.
-instruction: Change the background to lake side.
-taskid: 24383

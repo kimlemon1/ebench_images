@@ -1,5 +1,0 @@
-org_img_id: 2359705
-org_cap: A white horse in an arena, its coat glistening in the sunlight as it leaves a trail of dust and hoof prints in its wake.
-trg_cap: A white horse in an arena, its coat glistening in the sunlight as it leaves a trail of dust and hoof prints in its wake, with a dog underneath it.
-instruction: Add a dog under the horse.
-taskid: 102778

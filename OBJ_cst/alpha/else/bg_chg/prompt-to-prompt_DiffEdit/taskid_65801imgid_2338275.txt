@@ -1,5 +1,0 @@
-org_img_id: 2338275
-org_cap: The gray laptop sits on a table, surrounded by empty cans, tangled cords, and scattered papers.
-trg_cap: The gray laptop sits on a table in a bustling restaurant, surrounded by empty cans, tangled cords, and scattered papers.
-instruction: Change the background to restaurant.
-taskid: 65801

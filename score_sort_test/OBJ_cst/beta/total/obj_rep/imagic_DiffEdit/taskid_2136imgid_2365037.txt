@@ -1,0 +1,5 @@
+org_img_id: 2365037
+org_cap: a plush toy bird in a black top hat and bow tie is held by a person in a black suit, with a cheerful smile on their face.
+trg_cap: A plush toy bottle is held by a person in a black suit, with a cheerful smile on his or her face.
+instruction: Replace the bird with a bottle.
+taskid: 2136

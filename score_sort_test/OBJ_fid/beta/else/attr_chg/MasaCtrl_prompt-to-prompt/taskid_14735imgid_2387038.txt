@@ -1,0 +1,5 @@
+org_img_id: 2387038
+org_cap: a white aluminum stop sign with the words "eating animals" spray-painted across its surface.
+trg_cap: a white metal stop sign with the words "eating animals" spray-painted across its surface.
+instruction: Change the material of the stop sign from aluminum to metal.
+taskid: 14735

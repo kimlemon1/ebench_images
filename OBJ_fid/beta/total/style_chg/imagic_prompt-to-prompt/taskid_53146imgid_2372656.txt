@@ -1,5 +1,0 @@
-org_img_id: 2372656
-org_cap: person off the skateboard, his legs and his arms over the skateboard.
-trg_cap: The mosaic art depicts a person off the skateboard, with his legs and arms positioned over the skateboard.
-instruction: Change the style if the image to mosaic art.
-taskid: 53146

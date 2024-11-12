@@ -1,5 +1,0 @@
-org_img_id: 2417123
-org_cap: person throws a sports ball in the air, catching it with a flick of the wrist.
-trg_cap: On a sunny beach, a person throws a sports ball in the air, catching it with a flick of the wrist.
-instruction: Change the background to beach.
-taskid: 54011

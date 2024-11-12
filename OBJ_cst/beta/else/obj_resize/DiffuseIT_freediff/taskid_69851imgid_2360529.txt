@@ -1,5 +1,0 @@
-org_img_id: 2360529
-org_cap: a person in a yellow uniform on the tarmac, with a surfboard and at the rain-soaked airport runway.
-trg_cap: a large person in a yellow uniform on the tarmac, with a surfboard and at the rain-soaked airport runway.
-instruction: Make the person larger.
-taskid: 69851

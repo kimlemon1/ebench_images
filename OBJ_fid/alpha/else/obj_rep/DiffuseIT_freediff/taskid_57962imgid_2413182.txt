@@ -1,5 +1,0 @@
-org_img_id: 2413182
-org_cap: a hand holds a rectangular plastic container filled with a banana split, featuring a banana sliced lengthwise, topped with scoops of ice cream, chocolate sauce, and colorful sprinkles.
-trg_cap: A hand holds a rectangular plastic container filled with a skateboard split, topped with scoops of ice cream, chocolate sauce, and colorful sprinkles.
-instruction: Replace the banana with a skateboard.
-taskid: 57962

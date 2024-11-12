@@ -1,5 +1,0 @@
-org_img_id: 2385441
-org_cap: The scene features an orange fire hydrant on a quiet street corner, surrounded by a mix of old and new buildings, with a small storefront and a few parked cars in the distance.
-trg_cap: The scene features a tie, surrounded by a mix of old and new buildings, with a small storefront and some parked cars in the distance.
-instruction: Replace the fire hydrant with a tie.
-taskid: 40696

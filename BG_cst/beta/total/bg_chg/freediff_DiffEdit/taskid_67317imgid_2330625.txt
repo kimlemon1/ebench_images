@@ -1,5 +1,0 @@
-org_img_id: 2330625
-org_cap: Person, wearing a fedora and a black t-shirt, is shown in mid-air on his skateboard in the skate park.
-trg_cap: Person, wearing a fedora and a black t-shirt, is shown in mid-air on his skateboard in the concert hall.
-instruction: Change the background to concert hall.
-taskid: 67317

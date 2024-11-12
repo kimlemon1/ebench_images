@@ -1,5 +1,0 @@
-org_img_id: 2349548
-org_cap: a cup precariously balanced on the head of a sleepy golden retriever.
-trg_cap: a large cup precariously balanced on the head of a sleepy golden retriever.
-instruction: Make the cup larger.
-taskid: 15754

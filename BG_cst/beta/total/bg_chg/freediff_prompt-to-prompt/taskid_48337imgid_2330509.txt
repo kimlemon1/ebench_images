@@ -1,5 +1,0 @@
-org_img_id: 2330509
-org_cap: a wooden bear statue stands tall in front of a cozy cabin with a rustic wooden exterior and a blue roof, situated on a quiet street with a sign reading "cool way" and a white truck nearby.
-trg_cap: A wooden bear statue stands tall in front of a cozy cabin with a rustic wooden exterior and a blue roof, situated on a quiet street with a sign reading "cool way" and a white truck nearby, while an aquarium filled with colorful fish adds a touch of aquatic life to the scene.
-instruction: Change the background to aquarium.
-taskid: 48337

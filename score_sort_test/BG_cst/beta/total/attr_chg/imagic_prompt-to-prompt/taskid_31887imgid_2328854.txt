@@ -1,0 +1,5 @@
+org_img_id: 2328854
+org_cap: The white necktie is wrapped around the boy's neck.
+trg_cap: The patterned necktie is wrapped around the boy's neck.
+instruction: Change the color of the tie from white to patterned.
+taskid: 31887

@@ -1,5 +1,0 @@
-org_img_id: 2347707
-org_cap: A baby elephant stands in a enclosure, its skin and ears visible behind a mesh fence, its trunk and its eyes.
-trg_cap: A small baby elephant stands in a enclosure, its skin and ears visible behind a mesh fence, its trunk and its eyes.
-instruction: Make the elephant smaller.
-taskid: 67947

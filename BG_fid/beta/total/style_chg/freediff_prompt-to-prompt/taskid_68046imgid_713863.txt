@@ -1,5 +1,0 @@
-org_img_id: 713863
-org_cap: a skateboarder leaps off a staircase, his skateboard flying off his feet as he lands a trick.
-trg_cap: A graffiti art depicts a skateboarder leaping off a staircase, his skateboard flying off his feet as he lands a trick.
-instruction: Change the style if the image to graffiti art.
-taskid: 68046

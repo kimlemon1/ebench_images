@@ -1,5 +1,0 @@
-org_img_id: 2365084
-org_cap: a white bus parked at an angle on the road, with its doors open and a few passengers getting on or off.
-trg_cap: a purple bus parked at an angle on the road, with its doors open and a few passengers getting on or off.
-instruction: Change the color of the bus from white to purple.
-taskid: 66413

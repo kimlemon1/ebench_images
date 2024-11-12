@@ -1,5 +1,0 @@
-org_img_id: 2382154
-org_cap: Surfing person carves through a turquoise wave, board splashing water, arms and legs pumping in unison and the wave crashes around him.
-trg_cap: Surfing person carves through a turquoise wave, board splashing water, arms and legs pumping in unison and the wave crashes around him, with a baseball bat floating next to him.
-instruction: Add a baseball bat next to the person.
-taskid: 30501

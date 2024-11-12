@@ -1,5 +1,0 @@
-org_img_id: 2350637
-org_cap: Person through a turquoise wave, his surfboard glinting in the sunlight as he the tube.
-trg_cap: Person through a turquoise wave, his surfboard glinting in the sunlight as he the tube, with a book on his right side.
-instruction: Add a book on the right side of the person.
-taskid: 36845

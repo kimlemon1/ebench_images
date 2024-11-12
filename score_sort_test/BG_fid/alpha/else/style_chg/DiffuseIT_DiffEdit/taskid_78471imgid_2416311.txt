@@ -1,0 +1,5 @@
+org_img_id: 2416311
+org_cap: A black cat sits on a white office chair, its fur glistening in the dim light, its eyes fixed on some invisible prey.
+trg_cap: A Van Gogh style art features a black cat sitting on a white office chair, its fur glistening in the dim light and its eyes fixed on some invisible prey.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 78471

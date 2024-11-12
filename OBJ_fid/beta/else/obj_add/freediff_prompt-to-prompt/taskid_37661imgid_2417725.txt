@@ -1,5 +1,0 @@
-org_img_id: 2417725
-org_cap: a pink-clad rider on a brown horse along the sandy beach, the wind blowing through their hair as the waves crash against the shore.
-trg_cap: a pink-clad rider on a brown horse along the sandy beach, the wind blowing through their hair as the waves crash against the shore, with skis on the right side of the horse.
-instruction: Add a skis on the right side of the horse.
-taskid: 37661

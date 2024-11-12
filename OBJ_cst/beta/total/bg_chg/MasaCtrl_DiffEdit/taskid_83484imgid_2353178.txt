@@ -1,5 +1,0 @@
-org_img_id: 2353178
-org_cap: The bowl is a vibrant red, with a decorative rim and a large, shallow interior, filled with a colorful mix of lettuce, cherry tomatoes, and shredded carrots.
-trg_cap: In the bustling stadium, the bowl is a vibrant red, with a decorative rim and a large, shallow interior, filled with a colorful mix of lettuce, cherry tomatoes, and shredded carrots.
-instruction: Change the background to stadium.
-taskid: 83484

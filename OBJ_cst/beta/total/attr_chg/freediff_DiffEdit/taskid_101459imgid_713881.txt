@@ -1,5 +1,0 @@
-org_img_id: 713881
-org_cap: a green train, with its wheels screeching and puffing out white clouds of smoke.
-trg_cap: a black and white train, with its wheels screeching and puffing out white clouds of smoke.
-instruction: Change the color of the train from green to black and white.
-taskid: 101459

@@ -1,0 +1,5 @@
+org_img_id: 2379393
+org_cap: a person kicks a white sports ball in a game played by a group of people wearing uniforms.
+trg_cap: In an aquarium setting, a person kicks a white sports ball in a game played by a group of people wearing uniforms.
+instruction: Change the background to aquarium.
+taskid: 30963

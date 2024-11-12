@@ -1,5 +1,0 @@
-org_img_id: 2417186
-org_cap: a navy blue blazer with a white shirt and a blue necktie.
-trg_cap: A mosaic art contains a navy blue blazer with a white shirt and a blue necktie.
-instruction: Change the style if the image to mosaic art.
-taskid: 115240

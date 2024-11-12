@@ -1,5 +1,0 @@
-org_img_id: 2354820
-org_cap: skating person onto the white skateboard, legs and feet as he himself off the.
-trg_cap: skating person onto the white skateboard with a truck on the left side, legs and feet as he himself off the.
-instruction: Add a truck on the left side of the skateboard.
-taskid: 102567

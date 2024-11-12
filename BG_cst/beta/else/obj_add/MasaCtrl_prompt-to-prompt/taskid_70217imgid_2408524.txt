@@ -1,5 +1,0 @@
-org_img_id: 2408524
-org_cap: The white analog clock face is a circular face with a copper exterior and a large glass dome above it, featuring intricate stone carvings and ornate details.
-trg_cap: The white analog clock face is a circular face with a copper exterior and a large glass dome above it, featuring intricate stone carvings and ornate details, with a traffic light located on the left side of the clock.
-instruction: Add a traffic light on the left side of the clock.
-taskid: 70217

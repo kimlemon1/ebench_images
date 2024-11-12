@@ -1,5 +1,0 @@
-org_img_id: 2413694
-org_cap: a green train, chugging along the green train and a soft whir of wheels on the green train.
-trg_cap: a green train, chugging along the green train and a soft whir of wheels on the green train, with an umbrella under the train.
-instruction: Add a umbrella under the train.
-taskid: 97066

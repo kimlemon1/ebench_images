@@ -1,5 +1,0 @@
-org_img_id: 2364774
-org_cap: a small, fluffy dog with a mischievous glint in its eye is on the seat of a miniature motorcycle, wearing a tiny leather jacket and a bandana, as if it's ready to hit the open road.
-trg_cap: A baseball bat is on the seat of a miniature motorcycle, wearing a tiny leather jacket and a bandana, as if he’s ready to hit the open road.
-instruction: Replace the dog with a baseball bat.
-taskid: 114971

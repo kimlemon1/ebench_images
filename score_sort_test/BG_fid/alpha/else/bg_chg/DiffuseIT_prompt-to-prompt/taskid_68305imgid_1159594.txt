@@ -1,0 +1,5 @@
+org_img_id: 1159594
+org_cap: a worn-out bus with a faded paint job, rusty wheels, and a makeshift roof held together by twine and hope, its doors creaking open to reveal a cramped interior filled with luggage, passengers, and the promise of adventure.
+trg_cap: A worn-out bus with a faded paint job, rusty wheels, and a makeshift roof held together by twine and hope, its doors creaking open to reveal a cramped interior filled with luggage, passengers, and the promise of adventure, sat at the entrance of a dimly lit cave, casting long shadows on the rocky walls.
+instruction: Change the background to cave.
+taskid: 68305

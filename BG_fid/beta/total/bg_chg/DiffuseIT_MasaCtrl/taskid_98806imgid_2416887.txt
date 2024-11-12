@@ -1,5 +1,0 @@
-org_img_id: 2416887
-org_cap: The warm, golden-brown cake is smothered in a thick layer of creamy butter and topped with a generous helping of sweet blueberries.
-trg_cap: After a long workout at the gym, the warm, golden-brown cake is smothered in a thick layer of creamy butter and topped with a generous helping of sweet blueberries.
-instruction: Change the background to gym.
-taskid: 98806

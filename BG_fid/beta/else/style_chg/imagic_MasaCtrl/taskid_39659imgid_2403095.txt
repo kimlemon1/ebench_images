@@ -1,5 +1,0 @@
-org_img_id: 2403095
-org_cap: Person swings his racket, his arm extending, his wrist cocked, his fingers wrapped around the grip.
-trg_cap: The art, in a watercolor painting style, depicts a person swinging his racket with his arm extending, his wrist cocked, and his fingers wrapped around the grip.
-instruction: Change the style if the image to watercolor painting style.
-taskid: 39659

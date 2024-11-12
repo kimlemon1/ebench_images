@@ -1,5 +1,0 @@
-org_img_id: 2383418
-org_cap: A black laptop sits on a wooden desk, its lid open and screen glowing softly, with a small black keyboard and mousepad nestled beside the laptop.
-trg_cap: A small black laptop sits on a wooden desk, its lid open and screen glowing softly, with a small black keyboard and mousepad nestled beside the laptop.
-instruction: Make the laptop smaller.
-taskid: 67279

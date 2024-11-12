@@ -1,5 +1,0 @@
-org_img_id: 2359835
-org_cap: The white pizza on the plate is a white pizza.
-trg_cap: The white pizza on the plate is a small white pizza.
-instruction: Make the pizza smaller.
-taskid: 106866

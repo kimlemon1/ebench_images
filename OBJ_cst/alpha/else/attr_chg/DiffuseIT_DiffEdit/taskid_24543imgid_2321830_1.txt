@@ -1,5 +1,0 @@
-org_img_id: 2321830_1
-org_cap: a person stands on a black snowboard in a kitchen, wearing blue pants and a white shirt, with a defined six-pack and muscular legs.
-trg_cap: a person stands on a dark blue snowboard in a kitchen, wearing blue pants and a white shirt, with a defined six-pack and muscular legs.
-instruction: Change the color of the snowboard from black to dark blue.
-taskid: 24543

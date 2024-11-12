@@ -1,5 +1,0 @@
-org_img_id: 2397977
-org_cap: the person sat at the table, staring intently at the slice of pizza in front of them, the melted mozzarella and tomato sauce glistening in the sunlight.
-trg_cap: A pop art style artwork depicts a person sitting at a table, staring intently at a slice of pizza in front of them, with melted mozzarella and tomato sauce glistening in the sunlight.
-instruction: Change the style if the image to pop art style.
-taskid: 20325

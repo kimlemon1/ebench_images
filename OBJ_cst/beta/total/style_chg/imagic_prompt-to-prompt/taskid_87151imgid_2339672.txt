@@ -1,5 +1,0 @@
-org_img_id: 2339672
-org_cap: A rusty red fire hydrant stands next to a faded sign reading "can shop" with weathered wooden stakes and a worn-out pavement.
-trg_cap: An oil painting style art features a rusty red fire hydrant standing next to a faded sign reading "can shop," with weathered wooden stakes and a worn-out pavement.
-instruction: Change the style if the image to oil painting style.
-taskid: 87151

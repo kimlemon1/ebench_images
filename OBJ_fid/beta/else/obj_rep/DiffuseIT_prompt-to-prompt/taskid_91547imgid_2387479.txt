@@ -1,5 +1,0 @@
-org_img_id: 2387479
-org_cap: A young person sits on a cart with a large metal container attached to the back.
-trg_cap: A dog sits on a cart with a large metal container attached to its back.
-instruction: Replace the person with a dog.
-taskid: 91547

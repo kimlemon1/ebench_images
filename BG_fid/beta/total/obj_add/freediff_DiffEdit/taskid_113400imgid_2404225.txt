@@ -1,5 +1,0 @@
-org_img_id: 2404225
-org_cap: A surfing, jumping, swimming person on the sandy beach, his white swim trunks and blue shirt in the wind as he in the warm sunlight.
-trg_cap: A surfing, jumping, swimming person on the sandy beach, his white swim trunks and blue shirt in the wind as he in the warm sunlight, with a laptop secured in his backpack.
-instruction: Add a laptop on the person.
-taskid: 113400

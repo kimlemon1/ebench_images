@@ -1,5 +1,0 @@
-org_img_id: 2358792
-org_cap: a bowl of fruit, including strawberries, blueberries, and grapes, sits on a table alongside a bowl with a slice of pizza and a few cookies.
-trg_cap: A graffiti art piece features a bowl of fruit, including strawberries, blueberries, and grapes, sitting on a table alongside a bowl with a slice of pizza and a few cookies.
-instruction: Change the style if the image to graffiti art.
-taskid: 71860

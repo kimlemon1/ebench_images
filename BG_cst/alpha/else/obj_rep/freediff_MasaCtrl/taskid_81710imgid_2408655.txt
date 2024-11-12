@@ -1,5 +1,0 @@
-org_img_id: 2408655
-org_cap: the dimly lit living room features a black tv mounted on the wall, surrounded by a sea of plush couches and chairs, with a few scattered pillows and a coffee table in the center.
-trg_cap: The dimly lit living room features a black backpack, surrounded by a sea of plush couches and chairs, with several scattered pillows and a coffee table in the center.
-instruction: Replace the tv with a backpack.
-taskid: 81710

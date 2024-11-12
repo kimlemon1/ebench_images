@@ -1,5 +1,0 @@
-org_img_id: 2372944
-org_cap: a chubby - faced toddler with a mop of curly blonde hair and a bright pink onesie sat in a high chair, enthusiastically devouring a bowl of macaroni and cheese with a fork.
-trg_cap: An oil painting style art depicts a chubby-faced toddler with a mop of curly blonde hair and a bright pink onesie sitting in a high chair, enthusiastically devouring a bowl of macaroni and cheese with a fork.
-instruction: Change the style if the image to oil painting style.
-taskid: 65613

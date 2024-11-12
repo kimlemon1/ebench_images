@@ -1,5 +1,0 @@
-org_img_id: 2393419
-org_cap: a white recreational vehicle with a striped decal and a white bicycle leaning against its side.
-trg_cap: a light blue recreational vehicle with a striped decal and a light blue bicycle leaning against its side.
-instruction: Change the color of the bicycle from white to light blue.
-taskid: 39354

@@ -1,5 +1,0 @@
-org_img_id: 2394042
-org_cap: young person in the box, his eyes fixed on the person, his hand in anticipation.
-trg_cap: The mosaic art depicts a young person in a box, his eyes fixed on another person, with his hand poised in anticipation.
-instruction: Change the style if the image to mosaic art.
-taskid: 99346

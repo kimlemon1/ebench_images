@@ -1,5 +1,0 @@
-org_img_id: 2402289
-org_cap: a standing white cow in a muddy farm field, its legs caked with mud and its coat speckled with dirt.
-trg_cap: An ancient Egyptian-style artwork depicts a standing white cow in a muddy farm field, its legs caked with mud and its coat speckled with dirt.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 84513

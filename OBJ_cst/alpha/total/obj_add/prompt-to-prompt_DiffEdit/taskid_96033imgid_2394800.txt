@@ -1,5 +1,0 @@
-org_img_id: 2394800
-org_cap: a solitary figure sits on a bench, holding a white umbrella against the bright blue sky, with the vast expanse of the ocean stretching out behind.
-trg_cap: A solitary figure sits on a bench, holding a white umbrella against the bright blue sky, with the vast expanse of the ocean stretching out behind, and a toilet is situated on the right side of the umbrella.
-instruction: Add a toilet on the right side of the umbrella.
-taskid: 96033

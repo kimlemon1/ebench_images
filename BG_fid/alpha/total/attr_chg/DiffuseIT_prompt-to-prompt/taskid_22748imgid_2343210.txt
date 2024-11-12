@@ -1,5 +1,0 @@
-org_img_id: 2343210
-org_cap: The clock tower stands tall, its white clock glowing in the evening light, surrounded by the bustling streets of the theme park.
-trg_cap: The clock tower stands tall, its neon clock glowing in the evening light, surrounded by the bustling streets of the theme park.
-instruction: Change the color of the clock from white to neon.
-taskid: 22748

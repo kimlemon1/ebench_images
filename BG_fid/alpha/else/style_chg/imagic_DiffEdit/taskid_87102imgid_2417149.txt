@@ -1,5 +1,0 @@
-org_img_id: 2417149
-org_cap: a person wears a black suit with a striped necktie featuring a subtle gradient effect from dark gray to white.
-trg_cap: An oil painting style art features a person wearing a black suit with a striped necktie that has a subtle gradient effect from dark gray to white.
-instruction: Change the style if the image to oil painting style.
-taskid: 87102

@@ -1,0 +1,5 @@
+org_img_id: 2385732
+org_cap: The toilet is a broken, dirty, white toilet, situated in a small, dimly lit cubicle with peeling green walls and a stained floor.
+trg_cap: The toilet is a broken, dirty, white toilet, situated in a small, dimly lit cubicle with peeling green walls and a stained floor, located deep within a damp, echoing cave.
+instruction: Change the background to cave.
+taskid: 33420

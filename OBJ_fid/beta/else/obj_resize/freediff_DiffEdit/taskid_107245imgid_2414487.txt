@@ -1,5 +1,0 @@
-org_img_id: 2414487
-org_cap: A steaming hot dog, wrapped in a bun and topped with a dollop of sauerkraut and a sprinkle of chopped onions, sits alongside a side of crispy french fries in a cardboard box.
-trg_cap: A steaming large hot dog, wrapped in a bun and topped with a dollop of sauerkraut and a sprinkle of chopped onions, sits alongside a side of crispy french fries in a cardboard box.
-instruction: Make the hot dog larger.
-taskid: 107245

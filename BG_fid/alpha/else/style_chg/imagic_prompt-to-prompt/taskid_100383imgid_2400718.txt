@@ -1,5 +1,0 @@
-org_img_id: 2400718
-org_cap: Surfing, surfing, surfing, surfing, surfing, surfing person rides a green surfboard, his wetsuit glistening with water droplets.
-trg_cap: An ancient Egyptian-style artwork depicts a surfing person riding a green surfboard, their wetsuit glistening with water droplets.
-instruction: Change the style if the image to ancient egypt style.
-taskid: 100383

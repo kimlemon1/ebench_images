@@ -1,0 +1,5 @@
+org_img_id: 2412208
+org_cap: The gray car has a sleek design and a sporty look.
+trg_cap: The green car has a sleek design and a sporty look.
+instruction: Change the color of the car from gray to green.
+taskid: 8661

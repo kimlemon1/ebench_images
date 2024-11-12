@@ -1,5 +1,0 @@
-org_img_id: 2327945
-org_cap: The clock is a black mantel clock.
-trg_cap: The clock is a black mantel clock set against a backdrop of a grass field.
-instruction: Change the background to grass field.
-taskid: 2052

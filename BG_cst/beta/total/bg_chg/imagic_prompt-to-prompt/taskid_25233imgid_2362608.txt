@@ -1,5 +1,0 @@
-org_img_id: 2362608
-org_cap: The teddy bear is wearing a bright red raincoat with yellow buttons and has a matching red hat on its head.
-trg_cap: In the vineyard, the teddy bear is wearing a bright red raincoat with yellow buttons and has a matching red hat on its head.
-instruction: Change the background to vineyard.
-taskid: 25233

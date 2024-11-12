@@ -1,0 +1,5 @@
+org_img_id: 2332186
+org_cap: person's face is scrunched up in concentration as she holds a large slice of orange orange in her mouth, the orange orange visible as she savors the sweet flavor.
+trg_cap: person's face is scrunched up in concentration as she holds a large slice of orange orange in her mouth, the orange orange visible as she savors the sweet flavor, with an apple underneath the orange.
+instruction: Add a apple under the orange.
+taskid: 50182

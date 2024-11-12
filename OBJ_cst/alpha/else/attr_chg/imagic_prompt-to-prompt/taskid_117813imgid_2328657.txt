@@ -1,5 +1,0 @@
-org_img_id: 2328657
-org_cap: The bus is a white bus.
-trg_cap: The bus is a black bus.
-instruction: Change the color of the bus from white to black.
-taskid: 117813

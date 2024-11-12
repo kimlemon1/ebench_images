@@ -1,5 +1,0 @@
-org_img_id: 2382812
-org_cap: a green bench, surrounded by a bed of dry, golden grass and a few scattered green plants.
-trg_cap: a orange bench, surrounded by a bed of dry, golden grass and a few scattered orange plants.
-instruction: Change the color of the bench from green to orange.
-taskid: 24355

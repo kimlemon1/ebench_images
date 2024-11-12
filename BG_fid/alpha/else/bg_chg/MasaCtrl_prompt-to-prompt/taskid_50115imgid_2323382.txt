@@ -1,5 +1,0 @@
-org_img_id: 2323382
-org_cap: a middle - aged person stands alone on the beach, gazing up at a bright yellow kite above the waves.
-trg_cap: A middle-aged person stands alone on the beach, with ancient ruins in the background, gazing up at a bright yellow kite above the waves.
-instruction: Change the background to ancient ruins.
-taskid: 50115

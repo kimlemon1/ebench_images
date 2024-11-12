@@ -1,5 +1,0 @@
-org_img_id: 2374449
-org_cap: a man holds a banana in his hand, wearing a vest and scarf.
-trg_cap: a man holds a large banana in his hand, wearing a vest and scarf.
-instruction: Make the banana larger.
-taskid: 120193

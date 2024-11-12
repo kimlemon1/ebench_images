@@ -1,5 +1,0 @@
-org_img_id: 2347979
-org_cap: Riding, the person stands on his skateboard, his feet shoulder-width apart, and his knees slightly bent, as he skateboard down the sidewalk.
-trg_cap: Riding, the person stands on his skateboard, his feet shoulder-width apart, and his knees slightly bent, as he skateboards down the sidewalk past the bustling restaurant with its inviting aroma and lively chatter.
-instruction: Change the background to restaurant.
-taskid: 52785

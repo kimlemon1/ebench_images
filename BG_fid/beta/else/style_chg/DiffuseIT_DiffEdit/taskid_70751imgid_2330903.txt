@@ -1,5 +1,0 @@
-org_img_id: 2330903
-org_cap: The bathroom features a single white sink and a rectangular mirror above it, surrounded by a plain white cabinet and a striped shower curtain.
-trg_cap: The cartoon-style art depicts a bathroom featuring a single white sink with a rectangular mirror above it, surrounded by a plain white cabinet and a striped shower curtain.
-instruction: Change the style if the image to cartoon style.
-taskid: 70751

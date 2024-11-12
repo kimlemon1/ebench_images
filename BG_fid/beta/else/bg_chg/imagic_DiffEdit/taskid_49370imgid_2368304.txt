@@ -1,5 +1,0 @@
-org_img_id: 2368304
-org_cap: the scene is a remote lying on a carpet, with a television in the background, and a fluffy red dog with big brown eyes and a wagging tail sitting next to it.
-trg_cap: The scene is a remote lying on a carpet, with a vineyard in the background, and a fluffy red dog with big brown eyes and a wagging tail sitting next to it.
-instruction: Change the background to vineyard.
-taskid: 49370

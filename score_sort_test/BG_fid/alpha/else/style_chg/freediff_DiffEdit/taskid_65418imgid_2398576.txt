@@ -1,0 +1,5 @@
+org_img_id: 2398576
+org_cap: A little boy and girl, both with big smiles, are standing under a striped umbrella, laughing and playing together on a rainy day.
+trg_cap: An oil painting depicts a little boy and girl with big smiles, standing under a striped umbrella, laughing and playing together on a rainy day.
+instruction: Change the style if the image to oil painting style.
+taskid: 65418

@@ -1,5 +1,0 @@
-org_img_id: 2413324
-org_cap: Person, wearing a white apron and chef's hat, flips and arranges freshly baked bagels on a wooden counter, surrounded by a mountain of warm, golden-brown bagels and a brick oven in the background.
-trg_cap: Person, wearing a white apron and chef's hat, flips and arranges freshly baked bagels on a wooden counter, with a skateboard in front of them, surrounded by a mountain of warm, golden-brown bagels and a brick oven in the background.
-instruction: Add a skateboard in front of the person.
-taskid: 120999

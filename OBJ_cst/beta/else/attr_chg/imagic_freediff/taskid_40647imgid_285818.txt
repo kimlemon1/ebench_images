@@ -1,5 +1,0 @@
-org_img_id: 285818
-org_cap: the clock face on the tower of the church is a white clock with roman numerals and intricate carvings around the edges.
-trg_cap: the clock face on the tower of the church is a silver clock with roman numerals and intricate carvings around the edges.
-instruction: Change the color of the clock from white to silver.
-taskid: 40647

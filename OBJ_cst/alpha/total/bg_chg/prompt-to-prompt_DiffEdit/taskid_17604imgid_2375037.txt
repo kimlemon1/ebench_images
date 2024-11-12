@@ -1,5 +1,0 @@
-org_img_id: 2375037
-org_cap: Caucasian surfing person rides a white surfboard through the choppy waters of a lake, feet gripping the white surfboard as he through the waves.
-trg_cap: Caucasian surfing person rides a white surfboard through the choppy waters of a lake, feet gripping the white surfboard as he navigates through the waves, with a vineyard visible in the background.
-instruction: Change the background to vineyard.
-taskid: 17604

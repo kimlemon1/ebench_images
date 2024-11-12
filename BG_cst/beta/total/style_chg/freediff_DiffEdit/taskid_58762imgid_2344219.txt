@@ -1,5 +1,0 @@
-org_img_id: 2344219
-org_cap: a circular pizza with a golden brown crust, topped with a layer of melted mozzarella cheese, sprinkled with vibrant green broccoli florets, and dotted with sliced mushrooms and bell peppers, all arranged on a baking sheet.
-trg_cap: A Van Gogh style art features a circular pizza with a golden brown crust, topped with a layer of melted mozzarella cheese, sprinkled with vibrant green broccoli florets, and dotted with sliced mushrooms and bell peppers, all arranged on a baking sheet.
-instruction: Change the style if the image to Van Gogh style.
-taskid: 58762

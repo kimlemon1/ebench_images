@@ -1,5 +1,0 @@
-org_img_id: 2377748
-org_cap: A white bicycle symbol is placed on a yellow background within a circular border, surrounded by a green forest with trees and a dirt path.
-trg_cap: A white bicycle symbol and a boat are placed on a yellow background within a circular border, surrounded by a green forest with trees and a dirt path.
-instruction: Add a boat next to the bicycle.
-taskid: 73919

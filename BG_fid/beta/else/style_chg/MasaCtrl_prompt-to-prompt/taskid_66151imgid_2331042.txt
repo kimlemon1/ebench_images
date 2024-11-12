@@ -1,5 +1,0 @@
-org_img_id: 2331042
-org_cap: a sleek grey cat with white paws and a striped tail on a worn green metal bench, its fur glistening in the warm sunlight.
-trg_cap: The cartoon-style art features a sleek grey cat with white paws and a striped tail on a worn green metal bench, its fur glistening in the warm sunlight.
-instruction: Change the style if the image to cartoon style.
-taskid: 66151

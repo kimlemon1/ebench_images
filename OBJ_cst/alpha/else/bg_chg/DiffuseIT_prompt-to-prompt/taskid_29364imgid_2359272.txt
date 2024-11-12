@@ -1,5 +1,0 @@
-org_img_id: 2359272
-org_cap: A silver airplane soars through the gray sky, its engines roaring as it gains altitude.
-trg_cap: A silver airplane soars through the gray sky above the tranquil lakeside, its engines roaring as it gains altitude.
-instruction: Change the background to lake side.
-taskid: 29364

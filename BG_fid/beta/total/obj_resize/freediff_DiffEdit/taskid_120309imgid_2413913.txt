@@ -1,5 +1,0 @@
-org_img_id: 2413913
-org_cap: Person on the asphalt, his white dress shirt and black jeans a stark contrast to the bright green grass and sun-kissed pavement, his eyes on the skateboard beneath his feet.
-trg_cap: Small person on the asphalt, his white dress shirt and black jeans a stark contrast to the bright green grass and sun-kissed pavement, his eyes on the skateboard beneath his feet.
-instruction: Make the person smaller.
-taskid: 120309

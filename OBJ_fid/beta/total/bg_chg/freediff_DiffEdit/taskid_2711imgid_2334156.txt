@@ -1,5 +1,0 @@
-org_img_id: 2334156
-org_cap: the sink is a white, rectangular sink with a single faucet and a small sink.
-trg_cap: The sink is a white, rectangular sink with a single faucet and a small sink, set against the backdrop of a grass field.
-instruction: Change the background to grass field.
-taskid: 2711

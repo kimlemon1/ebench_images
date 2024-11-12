@@ -1,5 +1,0 @@
-org_img_id: 2350845
-org_cap: A pink bicycle leans against a gray stone wall, its paint faded and chipped in places.
-trg_cap: A pink bicycle leans against a gray stone wall, its paint faded and chipped in places, with a vast snow field stretching out beyond.
-instruction: Change the background to snow field.
-taskid: 15538
