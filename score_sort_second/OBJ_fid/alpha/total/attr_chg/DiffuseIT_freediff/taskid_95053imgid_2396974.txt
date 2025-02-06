@@ -1,0 +1,5 @@
+org_img_id: 2396974
+org_cap: Sitting person on a white metal bench.
+trg_cap: Sitting person on a white stone bench.
+instruction: Change the material of the bench from metal to stone.
+taskid: 95053

@@ -1,0 +1,5 @@
+org_img_id: 2362409
+org_cap: A green fire hydrant stands alone on a lush green grassy area, with a pair of worn-out sneakers and a forgotten sock lying nearby.
+trg_cap: A gold fire hydrant stands alone on a lush gold grassy area, with a pair of worn-out sneakers and a forgotten sock lying nearby.
+instruction: Change the color of the fire hydrant from green to gold.
+taskid: 92092

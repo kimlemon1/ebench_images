@@ -1,0 +1,5 @@
+org_img_id: 2389400
+org_cap: a standing, grazing, black, striped, adult zebra, its mane and tail, its eyes alert and curious, its ears.
+trg_cap: a standing, grazing, black, striped, immature zebra, its mane and tail, its eyes alert and curious, its ears.
+instruction: Change the state of the zebra from adult to immature.
+taskid: 114007

@@ -1,0 +1,5 @@
+org_img_id: 2346610
+org_cap: a small fishing boat with a yellow hull and a white sail, piloted by a person standing at the helm, glides smoothly across the calm waters of the sea.
+trg_cap: A Van Gogh style art piece features a small fishing boat with a yellow hull and a white sail, piloted by a person standing at the helm, gliding smoothly across the calm waters of the sea.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 41334

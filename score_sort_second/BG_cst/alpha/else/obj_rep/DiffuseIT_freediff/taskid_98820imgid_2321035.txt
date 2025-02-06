@@ -1,0 +1,5 @@
+org_img_id: 2321035
+org_cap: The kitchen features a classic 1950s-style oven with a warm, golden glow emanating from its doors.
+trg_cap: The kitchen features a classic design.
+instruction: Replace the oven with a person.
+taskid: 98820

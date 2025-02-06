@@ -1,0 +1,5 @@
+org_img_id: 2401288
+org_cap: The white bowl holds a vibrant orange tomato sauce, adorned with a sprinkle of parsley and a few florets of broccoli.
+trg_cap: The gold bowl holds a vibrant orange tomato sauce, adorned with a sprinkle of parsley and a few florets of broccoli.
+instruction: Change the color of the bowl from white to gold.
+taskid: 56242

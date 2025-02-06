@@ -1,0 +1,5 @@
+org_img_id: 2353616
+org_cap: A yellow fire hydrant stands on a stone pavement, its yellow fire hydrant adorned with a few rusty rivets and a small valve handle.
+trg_cap: A cream colored fire hydrant stands on a stone pavement, its cream colored fire hydrant adorned with a few rusty rivets and a small valve handle.
+instruction: Change the color of the fire hydrant from yellow to cream colored.
+taskid: 95100

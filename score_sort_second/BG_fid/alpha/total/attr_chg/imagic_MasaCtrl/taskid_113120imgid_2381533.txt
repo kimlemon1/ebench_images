@@ -1,0 +1,5 @@
+org_img_id: 2381533
+org_cap: a yellow fire hydrant stands upright on the sidewalk, its yellow fire hydrant slightly weathered and rusty around the edges.
+trg_cap: a orange fire hydrant stands upright on the sidewalk, its orange fire hydrant slightly weathered and rusty around the edges.
+instruction: Change the color of the fire hydrant from yellow to orange.
+taskid: 113120

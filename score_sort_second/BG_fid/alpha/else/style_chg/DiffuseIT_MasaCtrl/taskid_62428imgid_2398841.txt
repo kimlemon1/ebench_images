@@ -1,0 +1,5 @@
+org_img_id: 2398841
+org_cap: A sitting person sits on the floor with his knees bent and his back against the wall, a teddy bear in his arms.
+trg_cap: A grayscale photo depicts a person sitting on the floor with bent knees, leaning against the wall, and holding a teddy bear in their arms.
+instruction: Change the style if the image to grey scale.
+taskid: 62428

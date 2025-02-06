@@ -1,0 +1,5 @@
+org_img_id: 2389183
+org_cap: hand gently touches the rim of the clear glass vase, as it holds a bouquet of colorful flowers.
+trg_cap: hand gently touches the rim of the yellow glass vase, as it holds a bouquet of colorful flowers.
+instruction: Change the color of the vase from clear to yellow.
+taskid: 90664

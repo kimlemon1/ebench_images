@@ -1,0 +1,5 @@
+org_img_id: 2393062
+org_cap: The kitchen features a black microwave, adjacent to a stainless steel sink.
+trg_cap: The kitchen features an oven, adjacent to the stainless steel sink.
+instruction: Replace the microwave with a oven.
+taskid: 96374

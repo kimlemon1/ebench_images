@@ -1,0 +1,5 @@
+org_img_id: 2328239
+org_cap: A blue train rumbles across the arid landscape, its blue train and blue train a stark contrast to the turquoise waters lapping at the shore.
+trg_cap: A small blue train rumbles across the arid landscape, its blue train and blue train a stark contrast to the turquoise waters lapping at the shore.
+instruction: Make the train smaller.
+taskid: 94466

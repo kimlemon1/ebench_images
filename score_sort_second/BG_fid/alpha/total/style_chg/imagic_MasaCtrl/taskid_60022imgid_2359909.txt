@@ -1,0 +1,5 @@
+org_img_id: 2359909
+org_cap: The living room features a flat screen tv mounted on the wall, a vase with red flowers on the coffee table, and a warm fireplace with a stone surround.
+trg_cap: The pop art style artwork depicts a living room featuring a flat screen TV mounted on the wall, a vase with red flowers on the coffee table, and a warm fireplace with a stone surround.
+instruction: Change the style if the image to pop art style.
+taskid: 60022

@@ -1,0 +1,5 @@
+org_img_id: 2365965
+org_cap: A young person rides a white horse across a sandy arena, her ponytail behind her and her eyes on the horizon.
+trg_cap: A young person rides a chocolate horse across a sandy arena, her ponytail behind her and her eyes on the horizon.
+instruction: Change the color of the horse from white to chocolate.
+taskid: 43443

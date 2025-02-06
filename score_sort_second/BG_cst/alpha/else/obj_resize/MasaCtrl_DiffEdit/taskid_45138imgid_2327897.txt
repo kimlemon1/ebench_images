@@ -1,0 +1,5 @@
+org_img_id: 2327897
+org_cap: the cake is a towering masterpiece of creamy white frosting and rich chocolate glaze, adorned with intricate piping and delicate sprinkles.
+trg_cap: The cake is a small, towering masterpiece of creamy white frosting and rich chocolate glaze, adorned with intricate piping and delicate sprinkles.
+instruction: Make the cake smaller.
+taskid: 45138

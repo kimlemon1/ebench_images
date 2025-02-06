@@ -1,0 +1,5 @@
+org_img_id: 2406297
+org_cap: A blue fire hydrant stands tall on a lush green lawn, its blue fire hydrant adorned with a cap and surrounded by a patch of tall grass and a few scattered blades.
+trg_cap: A blue fire hydrant stands tall on a lush green lawn, its blue fire hydrant adorned with a cap and surrounded by a patch of tall grass and a few scattered blades, set against the backdrop of a snow field.
+instruction: Change the background to snow field.
+taskid: 93232

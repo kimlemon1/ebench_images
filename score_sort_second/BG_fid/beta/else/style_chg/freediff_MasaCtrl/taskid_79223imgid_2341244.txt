@@ -1,0 +1,5 @@
+org_img_id: 2341244
+org_cap: Person, wearing a white t-shirt and blue shorts, is on his skateboard, his legs and his arms, with the skateboard's wheels in a blur of motion against the bright blue sky and the green grass of the neighborhood.
+trg_cap: A Van Gogh style art depicts a person wearing a white t-shirt and blue shorts on a skateboard, with their legs and arms, along with the skateboard's wheels, in a blur of motion against the bright blue sky and the green grass of the neighborhood.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 79223

@@ -1,0 +1,5 @@
+org_img_id: 2417577
+org_cap: A white cat sits on a windowsill with bright green eyes.
+trg_cap: A mosaic art features a white cat with bright green eyes sitting on a windowsill.
+instruction: Change the style if the image to mosaic art.
+taskid: 39885

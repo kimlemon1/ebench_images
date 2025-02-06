@@ -1,0 +1,5 @@
+org_img_id: 713320
+org_cap: A small, single-engine airplane with a white and pink body, adorned with colorful stripes and decals, sits on a dusty airstrip, its wheels and landing gear still retracted, with a luggage compartment open and a few bags and suitcases visible inside.
+trg_cap: A large, small, single-engine airplane with a white and pink body, adorned with colorful stripes and decals, sits on a dusty airstrip, its wheels and landing gear still retracted, with a luggage compartment open and a few bags and suitcases visible inside.
+instruction: Make the airplane larger.
+taskid: 678

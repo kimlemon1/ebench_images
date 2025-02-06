@@ -1,0 +1,5 @@
+org_img_id: 2336522
+org_cap: a silhouette of a person stands on the beach at sunset, and a person through the air.
+trg_cap: An ancient Egyptian-style artwork features a silhouette of a person standing on the beach at sunset, with another person soaring through the air.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 101260

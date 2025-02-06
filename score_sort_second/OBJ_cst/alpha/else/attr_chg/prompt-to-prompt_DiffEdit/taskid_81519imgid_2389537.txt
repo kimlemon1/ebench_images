@@ -1,0 +1,5 @@
+org_img_id: 2389537
+org_cap: Through the waves, his looking down as he walking to orange surfboard from the water.
+trg_cap: Through the waves, his looking down as he walking to pink surfboard from the water.
+instruction: Change the color of the surfboard from orange to pink.
+taskid: 81519

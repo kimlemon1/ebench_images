@@ -1,0 +1,5 @@
+org_img_id: 2378520
+org_cap: a small person in a grey dress and orange sandals holds a bright orange umbrella, its fabric flapping in the wind as they down a dusty street.
+trg_cap: The mosaic art depicts a small person in a grey dress and orange sandals holding a bright orange umbrella, its fabric flapping in the wind as they walk down a dusty street.
+instruction: Change the style if the image to mosaic art.
+taskid: 30843

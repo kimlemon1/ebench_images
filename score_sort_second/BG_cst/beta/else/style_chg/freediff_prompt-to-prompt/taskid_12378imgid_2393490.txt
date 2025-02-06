@@ -1,0 +1,5 @@
+org_img_id: 2393490
+org_cap: a silver airplane soars through the sky at sunset, its wings glistening with a warm orange glow as it leaves a trail of white clouds behind.
+trg_cap: An ancient Egyptian-style artwork depicts a silver airplane soaring through the sky at sunset, its wings glistening with a warm orange glow as it leaves a trail of white clouds behind.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 12378

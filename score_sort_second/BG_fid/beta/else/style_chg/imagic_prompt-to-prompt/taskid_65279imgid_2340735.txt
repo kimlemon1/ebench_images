@@ -1,0 +1,5 @@
+org_img_id: 2340735
+org_cap: The vase is a clear glass vase with a rounded shape and a diameter of approximately 8-10 inches, filled with a bouquet of 6-8 red roses with slightly wilted petals and a few sprigs of white baby's breath.
+trg_cap: The oil painting depicts a clear glass vase with a rounded shape and a diameter of approximately 8-10 inches, filled with a bouquet of 6-8 red roses with slightly wilted petals and a few sprigs of white baby's breath.
+instruction: Change the style if the image to oil painting style.
+taskid: 65279

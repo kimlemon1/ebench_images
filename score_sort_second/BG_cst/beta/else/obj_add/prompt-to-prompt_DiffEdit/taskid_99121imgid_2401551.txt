@@ -1,0 +1,5 @@
+org_img_id: 2401551
+org_cap: a skateboarding person, his longboard over the water, his eyes on the horizon.
+trg_cap: A skateboarding person, an apple in front of him, his longboard over the water, his eyes on the horizon.
+instruction: Add a apple in front of the person.
+taskid: 99121

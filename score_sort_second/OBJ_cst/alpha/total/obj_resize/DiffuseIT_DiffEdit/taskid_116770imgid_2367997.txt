@@ -1,0 +1,5 @@
+org_img_id: 2367997
+org_cap: A large military transport airplane, with its wings and tail stretched out, flies overhead at sunrise, its engines roaring as it takes off from the runway, with the hangars and buildings of the airbase visible in the background.
+trg_cap: A large military transport airplane, measuring over 200 feet in length with a wingspan of more than 165 feet, with its wings and tail stretched out, flies overhead at sunrise, its engines roaring as it takes off from the runway, with the hangars and buildings of the airbase visible in the background.
+instruction: Make the airplane larger.
+taskid: 116770

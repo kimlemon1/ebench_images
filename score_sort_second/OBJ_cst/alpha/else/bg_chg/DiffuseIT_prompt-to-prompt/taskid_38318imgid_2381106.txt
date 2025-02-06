@@ -1,0 +1,5 @@
+org_img_id: 2381106
+org_cap: a white airplane with a red tail and landing gear down, taxis along the runway surrounded by cityscape with buildings and roads.
+trg_cap: A white airplane with a red tail and landing gear down, taxis along the runway surrounded by a cityscape with buildings, roads, and a nearby restaurant.
+instruction: Change the background to restaurant.
+taskid: 38318

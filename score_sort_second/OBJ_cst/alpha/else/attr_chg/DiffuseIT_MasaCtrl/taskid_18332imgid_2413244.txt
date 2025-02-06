@@ -1,0 +1,5 @@
+org_img_id: 2413244
+org_cap: a young boy in a red shirt and black helmet swings a brown bat with a focused expression, his eyes fixed on the ball as he prepares to hit it.
+trg_cap: a young boy in a red shirt and black helmet swings a white bat with a focused expression, his eyes fixed on the ball as he prepares to hit it.
+instruction: Change the color of the baseball bat from brown to white.
+taskid: 18332

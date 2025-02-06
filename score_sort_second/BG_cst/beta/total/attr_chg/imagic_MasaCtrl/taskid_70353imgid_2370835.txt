@@ -1,0 +1,5 @@
+org_img_id: 2370835
+org_cap: A baby gray elephant in a clearing, with a large tree trunk behind it and a person standing nearby.
+trg_cap: A adult gray elephant in a clearing, with a large tree trunk behind it and a person standing nearby.
+instruction: Change the state of the elephant from baby to adult.
+taskid: 70353

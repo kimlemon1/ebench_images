@@ -1,0 +1,5 @@
+org_img_id: 2204
+org_cap: The scene is focused on a beige desktop computer with a rectangular monitor and a white keyboard.
+trg_cap: The scene is focused on a beige desktop computer with a rectangular monitor and a small white keyboard.
+instruction: Make the keyboard smaller.
+taskid: 94631

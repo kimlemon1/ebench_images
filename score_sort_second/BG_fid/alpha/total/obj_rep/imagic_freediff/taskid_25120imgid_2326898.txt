@@ -1,0 +1,5 @@
+org_img_id: 2326898
+org_cap: a small, grey and white tabby cat with bright green eyes on the edge of a white sink, its tiny paws on the porcelain with an innocent expression.
+trg_cap: a small vase on the edge of the white sink.
+instruction: Replace the cat with a vase.
+taskid: 25120

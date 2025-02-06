@@ -1,0 +1,5 @@
+org_img_id: 2340657
+org_cap: The scene is focused on a small, cluttered living room with a white tv, a laptop computer sitting on a wooden table, and a keyboard placed on a circular tray.
+trg_cap: The scene is focused on a small, cluttered living room with a white tv, a laptop computer sitting on a wooden table, and a keyboard placed on a circular tray with a book behind it.
+instruction: Add a book behind the keyboard.
+taskid: 11702

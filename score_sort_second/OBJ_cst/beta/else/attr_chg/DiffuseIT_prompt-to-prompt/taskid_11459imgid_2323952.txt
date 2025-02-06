@@ -1,0 +1,5 @@
+org_img_id: 2323952
+org_cap: a skateboarder in his mid-30s, wearing a black hoodie and white pants, crouches low to the ground, his eyes fixed on the road ahead, his long hair blowing back as he pushes off with one foot and starts to glide effortlessly on a black skateboard.
+trg_cap: a skateboarder in his mid-30s, wearing a gold hoodie and white pants, crouches low to the ground, his eyes fixed on the road ahead, his long hair blowing back as he pushes off with one foot and starts to glide effortlessly on a gold skateboard.
+instruction: Change the color of the skateboard from black to gold.
+taskid: 11459

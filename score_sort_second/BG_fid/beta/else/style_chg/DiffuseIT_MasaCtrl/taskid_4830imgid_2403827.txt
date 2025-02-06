@@ -1,0 +1,5 @@
+org_img_id: 2403827
+org_cap: person throws a frisbee, his arm and his wrist as the disc flies through the air.
+trg_cap: A Van Gogh style artwork depicts a person throwing a frisbee, capturing the motion of his arm and wrist as the disc flies through the air.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 4830

@@ -1,0 +1,5 @@
+org_img_id: 2417992
+org_cap: The train is a yellow train with a train and a train, featuring a prominent train and train.
+trg_cap: The train is a translucent train with a train and a train, featuring a prominent train and train.
+instruction: Change the color of the train from yellow to translucent.
+taskid: 29709

@@ -1,0 +1,5 @@
+org_img_id: 61600
+org_cap: a skiing person wearing black skis.
+trg_cap: a skiing person wearing purple skis.
+instruction: Change the color of the skis from black to purple.
+taskid: 63581

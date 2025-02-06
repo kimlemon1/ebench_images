@@ -1,0 +1,5 @@
+org_img_id: 2318122
+org_cap: a grizzled old person with a thick beard and a truckers hat, his worn leather jacket and faded jeans a testament to a life of adventure and hard work.
+trg_cap: An oil painting style art features a grizzled old person with a thick beard and a trucker's hat, his worn leather jacket and faded jeans a testament to a life of adventure and hard work.
+instruction: Change the style if the image to oil painting style.
+taskid: 120016

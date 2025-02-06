@@ -1,0 +1,5 @@
+org_img_id: 2373650
+org_cap: Surfing surfing surfing person on white surfboard.
+trg_cap: Surfing surfing surfing person on cream colored surfboard.
+instruction: Change the color of the surfboard from white to cream colored.
+taskid: 74057

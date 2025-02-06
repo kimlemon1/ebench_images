@@ -1,0 +1,5 @@
+org_img_id: 2328787
+org_cap: a weathered stone bench with a worn, rectangular seat and backrest, flanked by a few loose stones and a scattering of pebbles, sits atop a sandy beach, with a distant view of sailboats and a mountain range in the background.
+trg_cap: A graffiti art piece depicts a weathered stone bench with a worn, rectangular seat and backrest, flanked by a few loose stones and a scattering of pebbles, sitting atop a sandy beach with a distant view of sailboats and a mountain range in the background.
+instruction: Change the style if the image to graffiti art.
+taskid: 96067

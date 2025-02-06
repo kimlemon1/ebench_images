@@ -1,0 +1,5 @@
+org_img_id: 2337483
+org_cap: a diesel train with a train and multiple trains, including a train with a red train, travels along the tracks, passing through a train with a train and trains, with a cityscape visible in the background.
+trg_cap: A diesel train with a train and multiple trains, including a train with a red train, travels along the tracks, passing through a train with a train and trains, with a cityscape visible in the background, and a traffic light next to the train.
+instruction: Add a traffic light next to the train.
+taskid: 91616

@@ -1,0 +1,5 @@
+org_img_id: 2336133
+org_cap: a small bird with iridescent feathers out of the ornate stone window frame, its tiny wings as it into the bright blue sky.
+trg_cap: The mosaic art contains a small bird with iridescent feathers emerging from the ornate stone window frame, its tiny wings extending into the bright blue sky.
+instruction: Change the style if the image to mosaic art.
+taskid: 95834

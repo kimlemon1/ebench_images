@@ -1,0 +1,5 @@
+org_img_id: 2406888
+org_cap: Young person stands on a snow-covered slope, holding yellow skis.
+trg_cap: Young person stands on a snow-covered slope, holding pink skis.
+instruction: Change the color of the skis from yellow to pink.
+taskid: 94395

@@ -1,0 +1,5 @@
+org_img_id: 2402529
+org_cap: a orange kite, flying steadily in the sky, against a backdrop of white puffy clouds and a bright blue sky with a few wispy clouds in the distance.
+trg_cap: a blue kite, flying steadily in the sky, against a backdrop of white puffy clouds and a bright blue sky with a few wispy clouds in the distance.
+instruction: Change the color of the kite from orange to blue.
+taskid: 32634

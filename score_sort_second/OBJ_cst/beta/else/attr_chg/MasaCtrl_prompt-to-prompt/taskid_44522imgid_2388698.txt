@@ -1,0 +1,5 @@
+org_img_id: 2388698
+org_cap: a skateboarder in a black t-shirt and black hat, with a white logo on the front of the hat, rides a black skateboard, wearing brown boots and brown leather gloves.
+trg_cap: a skateboarder in a pink t-shirt and pink hat, with a white logo on the front of the hat, rides a pink skateboard, wearing brown boots and brown leather gloves.
+instruction: Change the color of the skateboard from black to pink.
+taskid: 44522

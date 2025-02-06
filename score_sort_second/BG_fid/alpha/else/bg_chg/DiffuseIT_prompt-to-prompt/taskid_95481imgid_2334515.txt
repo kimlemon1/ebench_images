@@ -1,0 +1,5 @@
+org_img_id: 2334515
+org_cap: A colorful kite with a kite and kite soars through the sky, its edges rippling in the breeze as it glides effortlessly above the town.
+trg_cap: A colorful kite with a kite and kite soars through the sky, its edges rippling in the breeze as it glides effortlessly above the countryside farm.
+instruction: Change the background to country side farm.
+taskid: 95481

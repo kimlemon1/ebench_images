@@ -1,0 +1,5 @@
+org_img_id: 2384376
+org_cap: a person's hands carefully placed a juicy chicken patty onto a soft sandwich, topped with crispy lettuce, sliced tomatoes, and a dollop of creamy mayonnaise, all held together by a crispy sandwich.
+trg_cap: a person's hands carefully placed a juicy chicken patty onto a large soft sandwich, topped with crispy lettuce, sliced tomatoes, and a dollop of creamy mayonnaise, all held together by a crispy sandwich.
+instruction: Make the sandwich larger.
+taskid: 119727

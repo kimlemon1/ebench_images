@@ -1,0 +1,5 @@
+org_img_id: 2369846
+org_cap: a yellow train, standing on the platform with its wheels aligned and its doors closed.
+trg_cap: a small yellow train, standing on the platform with its wheels aligned and its doors closed.
+instruction: Make the train smaller.
+taskid: 16888

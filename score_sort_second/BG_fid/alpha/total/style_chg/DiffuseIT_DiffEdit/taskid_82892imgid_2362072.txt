@@ -1,0 +1,5 @@
+org_img_id: 2362072
+org_cap: a gray - clad couple sits on a wood bench, gazing out at the vast expanse of the sea.
+trg_cap: An oil painting style art depicts a gray-clad couple sitting on a wooden bench, gazing out at the vast expanse of the sea.
+instruction: Change the style if the image to oil painting style.
+taskid: 82892

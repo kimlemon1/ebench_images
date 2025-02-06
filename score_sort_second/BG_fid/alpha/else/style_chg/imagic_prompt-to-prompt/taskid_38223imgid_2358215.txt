@@ -1,0 +1,5 @@
+org_img_id: 2358215
+org_cap: a person sits at a table, with a plate of pizza in front of them, surrounded by crumbs and sauce stains, with a slice missing and a few pieces still on the plate.
+trg_cap: An oil painting style art depicts a person sitting at a table with a plate of pizza in front of them, surrounded by crumbs and sauce stains, with a slice missing and a few pieces still on the plate.
+instruction: Change the style if the image to oil painting style.
+taskid: 38223

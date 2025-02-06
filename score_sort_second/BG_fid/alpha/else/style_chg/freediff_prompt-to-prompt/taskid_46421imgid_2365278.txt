@@ -1,0 +1,5 @@
+org_img_id: 2365278
+org_cap: a gentle horse on the lush green grass beneath the blooming cherry blossoms, its coat in the warm sunlight.
+trg_cap: A Van Gogh style art features a gentle horse on lush green grass beneath blooming cherry blossoms, its coat illuminated in the warm sunlight.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 46421

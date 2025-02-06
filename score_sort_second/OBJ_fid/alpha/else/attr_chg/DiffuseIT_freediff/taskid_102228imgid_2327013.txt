@@ -1,0 +1,5 @@
+org_img_id: 2327013
+org_cap: A black laptop sits on a desk, surrounded by a green bottle and a lamp, with a whiteboard and markers on the wall behind it.
+trg_cap: A pink laptop sits on a desk, surrounded by a green bottle and a lamp, with a whiteboard and markers on the wall behind it.
+instruction: Change the color of the laptop from black to pink.
+taskid: 102228

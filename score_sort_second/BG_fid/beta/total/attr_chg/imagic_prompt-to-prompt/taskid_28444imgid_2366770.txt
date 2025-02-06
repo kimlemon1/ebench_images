@@ -1,0 +1,5 @@
+org_img_id: 2366770
+org_cap: The scene features a white ceramic toilet and a white ceramic sink, both situated on a wooden floor.
+trg_cap: The scene features a white ivory toilet and a white ivory sink, both situated on a wooden floor.
+instruction: Change the material of the sink from ceramic to ivory.
+taskid: 28444

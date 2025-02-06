@@ -1,0 +1,5 @@
+org_img_id: 2377040
+org_cap: A standing black striped zebra stands in a grassy savannah, its ears and its tail.
+trg_cap: A standing black patterned zebra stands in a grassy savannah, its ears and its tail.
+instruction: Change the color of the zebra from striped to patterned.
+taskid: 45073

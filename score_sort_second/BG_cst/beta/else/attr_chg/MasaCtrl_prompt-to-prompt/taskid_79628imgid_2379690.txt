@@ -1,0 +1,5 @@
+org_img_id: 2379690
+org_cap: The green car features a sleek chrome grille, gleaming silver headlights, and a sturdy bumper with a chrome strip.
+trg_cap: The silver car features a sleek chrome grille, gleaming silver headlights, and a sturdy bumper with a chrome strip.
+instruction: Change the color of the car from green to silver.
+taskid: 79628

@@ -1,0 +1,5 @@
+org_img_id: 2338742
+org_cap: Person with precision and control, her skis leaving a trail of fresh snow in her wake as she the mountain.
+trg_cap: Person with precision and control, her surfboard leaving a trail of foamy water in her wake as she the beach.
+instruction: Change the background to beach.
+taskid: 48517

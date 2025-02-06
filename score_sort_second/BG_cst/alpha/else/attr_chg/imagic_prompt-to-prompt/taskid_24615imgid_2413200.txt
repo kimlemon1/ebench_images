@@ -1,0 +1,5 @@
+org_img_id: 2413200
+org_cap: a young gray walking elephant on a dirt road with its trunk and tusks visible.
+trg_cap: a young white walking elephant on a dirt road with its trunk and tusks visible.
+instruction: Change the color of the elephant from gray to white.
+taskid: 24615

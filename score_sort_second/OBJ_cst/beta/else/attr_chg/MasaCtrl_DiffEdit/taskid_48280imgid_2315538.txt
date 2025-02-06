@@ -1,0 +1,5 @@
+org_img_id: 2315538
+org_cap: The green glass bottle stands upright on a wooden table, adorned with a sprig of greenery sprouting from its neck.
+trg_cap: The green ceramic bottle stands upright on a wooden table, adorned with a sprig of greenery sprouting from its neck.
+instruction: Change the material of the bottle from glass to ceramic.
+taskid: 48280

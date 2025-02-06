@@ -1,0 +1,5 @@
+org_img_id: 2386149
+org_cap: The blue bus has a distinctive blue and cream livery, with a rounded front and a curved roof, and is parked outside a historic building with gothic architecture.
+trg_cap: The cream colored bus has a distinctive cream colored and cream livery, with a rounded front and a curved roof, and is parked outside a historic building with gothic architecture.
+instruction: Change the color of the bus from blue to cream colored.
+taskid: 6951

@@ -1,0 +1,5 @@
+org_img_id: 2401862
+org_cap: the cake is a pink cake with a design on top, adorned with sprinkles and a sprinkle of powdered sugar.
+trg_cap: The cake is a small pink cake with a design on top, adorned with sprinkles and a sprinkle of powdered sugar.
+instruction: Make the cake smaller.
+taskid: 41075

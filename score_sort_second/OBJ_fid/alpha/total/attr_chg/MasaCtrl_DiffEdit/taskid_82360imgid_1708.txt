@@ -1,0 +1,5 @@
+org_img_id: 1708
+org_cap: The black chair is a design with a seat and backrest, resting against a wooden desk with drawers and a computer monitor.
+trg_cap: The teal chair is a design with a seat and backrest, resting against a wooden desk with drawers and a computer monitor.
+instruction: Change the color of the chair from black to teal.
+taskid: 82360

@@ -1,0 +1,5 @@
+org_img_id: 2405266
+org_cap: The white, empty sink in the bathroom is a sink with a chrome faucet and a small, rectangular mirror above it.
+trg_cap: The white, filled sink in the bathroom is a sink with a chrome faucet and a small, rectangular mirror above it.
+instruction: Change the state of the sink from empty to filled.
+taskid: 51735

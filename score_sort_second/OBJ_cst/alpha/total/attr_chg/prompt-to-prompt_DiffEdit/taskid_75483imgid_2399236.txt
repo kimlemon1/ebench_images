@@ -1,0 +1,5 @@
+org_img_id: 2399236
+org_cap: a cream-colored, standing dog as it gazes up at a television screen displaying a logo for a fast food restaurant.
+trg_cap: a cream-colored, standing dog as it gazes up at a television screen displaying a logo for a fast food restaurant.
+instruction: Change the color of the dog from cream colored to light brown.
+taskid: 75483

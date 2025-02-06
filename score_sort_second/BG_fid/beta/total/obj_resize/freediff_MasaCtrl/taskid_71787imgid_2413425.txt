@@ -1,0 +1,5 @@
+org_img_id: 2413425
+org_cap: the kitchen features a microwave and a clock mounted on the wall above the sink.
+trg_cap: The kitchen features a small microwave and a clock mounted on the wall above the sink.
+instruction: Make the microwave smaller.
+taskid: 71787

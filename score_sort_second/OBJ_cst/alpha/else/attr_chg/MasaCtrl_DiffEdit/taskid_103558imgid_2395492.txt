@@ -1,0 +1,5 @@
+org_img_id: 2395492
+org_cap: A slice of sliced pizza sits on a white plate, accompanied by a glass of cola and a napkin.
+trg_cap: A slice of uncut pizza sits on a white plate, accompanied by a glass of cola and a napkin.
+instruction: Change the state of the pizza from sliced to uncut.
+taskid: 103558

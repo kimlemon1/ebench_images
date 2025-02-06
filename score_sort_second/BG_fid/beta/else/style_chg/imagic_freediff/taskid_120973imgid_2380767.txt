@@ -1,0 +1,5 @@
+org_img_id: 2380767
+org_cap: yellow frisbee
+trg_cap: A pop art style artwork contains a yellow frisbee.
+instruction: Change the style if the image to pop art style.
+taskid: 120973

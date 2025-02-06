@@ -1,0 +1,5 @@
+org_img_id: 2416716
+org_cap: a person in a bright green dress and leggings, with a messy blonde haircut and chubby little legs, on the floor, her tiny hands for a red rubber ball.
+trg_cap: "the motorcycle on the floor, for a red rubber ball."
+instruction: Replace the person with a motorcycle.
+taskid: 40017

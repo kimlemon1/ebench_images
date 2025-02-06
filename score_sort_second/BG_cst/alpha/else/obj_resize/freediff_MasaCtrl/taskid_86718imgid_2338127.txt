@@ -1,0 +1,5 @@
+org_img_id: 2338127
+org_cap: the sleek, flat screen of the tv dominates the room, its dark gray casing and silver accents gleaming in the soft light.
+trg_cap: The sleek, flat screen of the small tv dominates the room, its dark gray casing and silver accents gleaming in the soft light.
+instruction: Make the tv smaller.
+taskid: 86718

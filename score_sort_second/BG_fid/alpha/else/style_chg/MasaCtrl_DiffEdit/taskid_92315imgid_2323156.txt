@@ -1,0 +1,5 @@
+org_img_id: 2323156
+org_cap: A white metal fire hydrant stands tall on the city street, its surface cracked and faded, with a crumpled baseball cap lying nearby.
+trg_cap: A graffiti art piece depicts a white metal fire hydrant standing tall on the city street, its surface cracked and faded, with a crumpled baseball cap lying nearby.
+instruction: Change the style if the image to graffiti art.
+taskid: 92315

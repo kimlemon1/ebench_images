@@ -1,0 +1,5 @@
+org_img_id: 2351868
+org_cap: "Person swings his racket, his eyes fixed on the ball as he prepares to volley it back across the net."
+trg_cap: Person swings his racket, his eyes fixed on the ball as he prepares to volley it back across the net, the sterile smell of the hospital room contrasting with the intensity of the game.
+instruction: Change the background to hospital.
+taskid: 118788

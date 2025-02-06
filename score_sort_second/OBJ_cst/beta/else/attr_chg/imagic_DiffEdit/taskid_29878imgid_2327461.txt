@@ -1,0 +1,5 @@
+org_img_id: 2327461
+org_cap: The pink cupcake is topped with a yellow star and has a dollop of pink frosting on top, sitting on a black plate with a metal spoon.
+trg_cap: The pink cupcake is topped with a yellow star and has a dollop of pink frosting on top, sitting on a black plate with a plastic spoon.
+instruction: Change the material of the spoon from metal to plastic.
+taskid: 29878

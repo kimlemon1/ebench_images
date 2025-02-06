@@ -1,0 +1,5 @@
+org_img_id: 2334378
+org_cap: a person sits at a table, holding a large, circular pizza with a crispy crust and a medley of colorful toppings, including vegetables and meats, arranged in a pizza around the center.
+trg_cap: The mosaic art depicts a person sitting at a table, holding a large, circular pizza with a crispy crust and a medley of colorful toppings, including vegetables and meats, arranged around the center.
+instruction: Change the style if the image to mosaic art.
+taskid: 4208

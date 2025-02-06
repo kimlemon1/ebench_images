@@ -1,0 +1,5 @@
+org_img_id: 2380629
+org_cap: The dimly lit desk features a white keyboard, surrounded by scattered papers, empty coffee cups, and a faint glow emanating from the computer screen.
+trg_cap: The dimly lit desk features a white keyboard, with a cup behind it, surrounded by scattered papers, empty coffee cups, and a faint glow emanating from the computer screen.
+instruction: Add a cup behind the keyboard.
+taskid: 32045

@@ -1,0 +1,5 @@
+org_img_id: 2385949
+org_cap: The kitchen features a new refrigerator, a black refrigerator, and a wooden floor.
+trg_cap: The kitchen features a new refrigerator, a tan refrigerator, and a wooden floor.
+instruction: Change the color of the refrigerator from black to tan.
+taskid: 88807

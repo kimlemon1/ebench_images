@@ -1,0 +1,5 @@
+org_img_id: 2411844
+org_cap: The zebra stands on a green grassy field, its standing black zebra in the sunlight.
+trg_cap: The small zebra stands on a green grassy field, its standing black zebra in the sunlight.
+instruction: Make the zebra smaller.
+taskid: 40362

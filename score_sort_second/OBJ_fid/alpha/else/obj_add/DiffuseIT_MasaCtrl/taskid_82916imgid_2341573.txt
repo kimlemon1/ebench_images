@@ -1,0 +1,5 @@
+org_img_id: 2341573
+org_cap: A white ceramic cup sits on a wooden table, surrounded by a laptop, glasses, and an orange.
+trg_cap: A white ceramic cup sits on a wooden table, with a cake on top, surrounded by a laptop, glasses, and an orange.
+instruction: Add a cake on the cup.
+taskid: 82916

@@ -1,0 +1,5 @@
+org_img_id: 2320546
+org_cap: the dimly lit room features a black tv mounted on the wall above a small coffee table and a comfortable chair.
+trg_cap: A Van Gogh style art piece features a dimly lit room with a black TV mounted on the wall above a small coffee table and a comfortable chair.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 83640

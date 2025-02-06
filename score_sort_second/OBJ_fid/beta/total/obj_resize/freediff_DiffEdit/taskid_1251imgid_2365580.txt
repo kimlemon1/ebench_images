@@ -1,0 +1,5 @@
+org_img_id: 2365580
+org_cap: A skateboarding person on a concrete playground.
+trg_cap: A small skateboarding person on a concrete playground.
+instruction: Make the person smaller.
+taskid: 1251

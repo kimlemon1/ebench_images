@@ -1,0 +1,5 @@
+org_img_id: 2327436
+org_cap: a person with the sound of raindrops hitting the pavement and the distant hum of traffic in the background.
+trg_cap: a person with the sound of raindrops hitting the pavement and the distant hum of traffic in the background, standing next to a bus by the umbrella.
+instruction: Add a bus next to the umbrella.
+taskid: 63181

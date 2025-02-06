@@ -1,0 +1,5 @@
+org_img_id: 2377999
+org_cap: a barefoot person with a towel around his waist is washing the trunk of a majestic person, its tusks gleaming in the sunlight.
+trg_cap: A barefoot person with a towel around his waist is washing the trunk of a majestic person, its tusks gleaming in the sunlight, as the sounds of a bustling train station echo in the background.
+instruction: Change the background to train station.
+taskid: 5703

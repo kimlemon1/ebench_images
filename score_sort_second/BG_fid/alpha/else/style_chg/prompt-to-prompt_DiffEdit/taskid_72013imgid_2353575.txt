@@ -1,0 +1,5 @@
+org_img_id: 2353575
+org_cap: a small person holds a green plastic baseball bat, standing alone on a grassy lawn with a distant lake visible in the background.
+trg_cap: A Van Gogh style art depicts a small person holding a green plastic baseball bat, standing alone on a grassy lawn with a distant lake visible in the background.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 72013

@@ -1,0 +1,5 @@
+org_img_id: 2359040
+org_cap: The toilet is a small, modern space with a green wall, a white sink, and a white, plastic toilet.
+trg_cap: The toilet is a small, modern space with a green wall, a brown sink, and a brown, plastic toilet.
+instruction: Change the color of the toilet from white to brown.
+taskid: 118387

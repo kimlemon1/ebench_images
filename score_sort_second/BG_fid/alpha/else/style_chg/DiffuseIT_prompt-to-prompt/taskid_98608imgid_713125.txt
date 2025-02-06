@@ -1,0 +1,5 @@
+org_img_id: 713125
+org_cap: a young man sits on a bench, holding a black umbrella to shield himself from the sun, while a woman sits beside him, both lost in thought as they gaze out at the cityscape.
+trg_cap: A Van Gogh style art depicts a young man sitting on a bench, holding a black umbrella to shield himself from the sun, while a woman sits beside him, both lost in thought as they gaze out at the cityscape.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 98608

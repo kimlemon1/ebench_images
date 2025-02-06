@@ -1,0 +1,5 @@
+org_img_id: 2377057
+org_cap: A class 90 locomotive hauls a blue train through the snowy countryside.
+trg_cap: A class 90 locomotive hauls a pink train through the snowy countryside.
+instruction: Change the color of the train from blue to pink.
+taskid: 86474

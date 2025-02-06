@@ -1,0 +1,5 @@
+org_img_id: 2400722
+org_cap: a person holds a blue snowboard in place with one hand while wearing a red jacket and holding a snowball in the other.
+trg_cap: a person holds a large blue snowboard in place with one hand while wearing a red jacket and holding a snowball in the other.
+instruction: Make the snowboard larger.
+taskid: 2209

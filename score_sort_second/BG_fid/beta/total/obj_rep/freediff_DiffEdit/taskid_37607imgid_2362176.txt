@@ -1,0 +1,5 @@
+org_img_id: 2362176
+org_cap: a giraffe stands tall, its long neck and legs across the sun-drenched savannah, its dark brown coat speckled with white patches, and a vibrant rainbow stretching across the sky above.
+trg_cap: A zebra stands tall, and a vibrant rainbow stretches across the sky above.
+instruction: Replace the giraffe with a zebra.
+taskid: 37607

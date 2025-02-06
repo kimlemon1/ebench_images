@@ -1,0 +1,5 @@
+org_img_id: 2333880
+org_cap: The motorcycle has a sleek, yellow body with a matte finish, a black seat, and a pair of exhaust pipes protruding from the rear.
+trg_cap: The small motorcycle has a sleek, yellow body with a matte finish, a black seat, and a pair of exhaust pipes protruding from the rear.
+instruction: Make the motorcycle smaller.
+taskid: 20300

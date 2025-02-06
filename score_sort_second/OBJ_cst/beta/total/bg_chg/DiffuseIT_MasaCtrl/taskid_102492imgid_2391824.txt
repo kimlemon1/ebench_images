@@ -1,0 +1,5 @@
+org_img_id: 2391824
+org_cap: A standing giraffe stands, its neck and legs, its fur blending with the rocky terrain.
+trg_cap: A standing giraffe stands, its neck and legs, its fur blending with the bustling backdrop of the airport.
+instruction: Change the background to airport.
+taskid: 102492

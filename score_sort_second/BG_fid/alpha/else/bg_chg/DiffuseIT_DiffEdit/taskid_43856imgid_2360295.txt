@@ -1,0 +1,5 @@
+org_img_id: 2360295
+org_cap: the clock hangs suspended from a metal beam, its circular face featuring bold black numerals and a red second hand ticking away against a gray concrete ceiling.
+trg_cap: In the living room, the clock hangs suspended from a metal beam, its circular face featuring bold black numerals and a red second hand ticking away against a gray concrete ceiling.
+instruction: Change the background to living room.
+taskid: 43856

@@ -1,0 +1,5 @@
+org_img_id: 2396837
+org_cap: A baby elephant is on the ground, its ears with each step, while a black crow is perched nearby, watching the baby elephant with curious eyes.
+trg_cap: A small baby elephant is on the ground, its ears with each step, while a black crow is perched nearby, watching the baby elephant with curious eyes.
+instruction: Make the elephant smaller.
+taskid: 93472

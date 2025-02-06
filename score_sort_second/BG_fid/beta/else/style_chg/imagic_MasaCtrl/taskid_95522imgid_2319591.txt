@@ -1,0 +1,5 @@
+org_img_id: 2319591
+org_cap: The white keyboard sits on a wooden desk, surrounded by a dimly lit room with a single lamp casting a warm glow on the desktop.
+trg_cap: The mosaic art features a white keyboard sitting on a wooden desk, surrounded by a dimly lit room with a single lamp casting a warm glow on the desktop.
+instruction: Change the style if the image to mosaic art.
+taskid: 95522

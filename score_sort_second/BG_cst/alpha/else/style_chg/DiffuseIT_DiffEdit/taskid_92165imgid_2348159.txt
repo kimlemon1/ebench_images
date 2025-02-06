@@ -1,0 +1,5 @@
+org_img_id: 2348159
+org_cap: Standing, blond person stands in a black dress shirt, his black trousers into his black belt, and a black necktie.
+trg_cap: A grayscale photo features a standing blond person wearing a black dress shirt, black trousers tucked into a black belt, and a black necktie.
+instruction: Change the style if the image to grey scale.
+taskid: 92165

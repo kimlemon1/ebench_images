@@ -1,0 +1,5 @@
+org_img_id: 2346626
+org_cap: The white zebra stands on its four legs, with a long neck and tail.
+trg_cap: The black and white zebra stands on its four legs, with a long neck and tail.
+instruction: Change the color of the zebra from white to black and white.
+taskid: 29924

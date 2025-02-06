@@ -1,0 +1,5 @@
+org_img_id: 2369620
+org_cap: A red fire hydrant stands on the sidewalk, its cap slightly ajar, surrounded by worn and weathered cobblestones, with a pair of worn-out shoes and a crumpled up newspaper lying nearby.
+trg_cap: The mosaic art contains a red fire hydrant standing on the sidewalk with its cap slightly ajar, surrounded by worn and weathered cobblestones, alongside a pair of worn-out shoes and a crumpled-up newspaper lying nearby.
+instruction: Change the style if the image to mosaic art.
+taskid: 96146

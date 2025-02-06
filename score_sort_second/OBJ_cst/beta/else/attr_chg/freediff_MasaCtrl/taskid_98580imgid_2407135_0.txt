@@ -1,0 +1,5 @@
+org_img_id: 2407135_0
+org_cap: Young person surfing on his surfboard, his rash guard and wetsuit glistening with ocean spray.
+trg_cap: Young person surfing on his surfboard, his rash guard and wetsuit glistening with ocean spray.
+instruction: Change the state of the person from young to elderly.
+taskid: 98580

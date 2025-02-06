@@ -1,0 +1,5 @@
+org_img_id: 2400323
+org_cap: The bus is a yellow bus with a livery, featuring a front and a roof, with a stripe running along the sides and rear, and a logo on the front.
+trg_cap: The bus is a small yellow bus with a livery, featuring a front and a roof, with a stripe running along the sides and rear, and a logo on the front.
+instruction: Make the bus smaller.
+taskid: 27009

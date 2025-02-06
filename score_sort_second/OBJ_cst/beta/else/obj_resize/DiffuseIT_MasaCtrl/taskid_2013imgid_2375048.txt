@@ -1,0 +1,5 @@
+org_img_id: 2375048
+org_cap: The white stop sign is mounted on a stop sign pole.
+trg_cap: The small white stop sign is mounted on a stop sign pole.
+instruction: Make the stop sign smaller.
+taskid: 2013

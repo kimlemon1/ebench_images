@@ -1,0 +1,5 @@
+org_img_id: 2349559
+org_cap: The motorcycle, a yellow metal motorcycle, sits proudly on the rocky beach, its exhaust pipe spewing out a plume of smoke as the waves crash against the shore in the background.
+trg_cap: The motorcycle, a yellow wood motorcycle, sits proudly on the rocky beach, its exhaust pipe spewing out a plume of smoke as the waves crash against the shore in the background.
+instruction: Change the material of the motorcycle from metal to wood.
+taskid: 55572

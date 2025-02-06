@@ -1,0 +1,5 @@
+org_img_id: 2373365
+org_cap: a woman walks alone on a rainy day, carrying an orange umbrella to protect herself from the rain.
+trg_cap: a woman walks alone on a rainy day, carrying an vibrant umbrella to protect herself from the rain.
+instruction: Change the color of the umbrella from orange to vibrant.
+taskid: 71133

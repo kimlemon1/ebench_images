@@ -1,0 +1,5 @@
+org_img_id: 2336718
+org_cap: Person wears a white helmet and goggles, with a green and white striped jacket and snow pants, on a snowy mountain slope.
+trg_cap: Person wears a white helmet and goggles, with a green and white striped jacket and snow pants, in an art gallery.
+instruction: Change the background to art gallery.
+taskid: 37277

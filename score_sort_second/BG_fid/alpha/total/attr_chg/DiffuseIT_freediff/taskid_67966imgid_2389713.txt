@@ -1,0 +1,5 @@
+org_img_id: 2389713
+org_cap: The blue bus parked in a shaded area with a concrete wall and a few trees nearby.
+trg_cap: The brown bus parked in a shaded area with a concrete wall and a few trees nearby.
+instruction: Change the color of the bus from blue to brown.
+taskid: 67966

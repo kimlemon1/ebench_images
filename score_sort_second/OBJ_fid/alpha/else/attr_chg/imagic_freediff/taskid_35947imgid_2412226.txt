@@ -1,0 +1,5 @@
+org_img_id: 2412226
+org_cap: A young zebra on the grass, its long neck as it for more food.
+trg_cap: A old zebra on the grass, its long neck as it for more food.
+instruction: Change the state of the zebra from young to old.
+taskid: 35947

@@ -1,0 +1,5 @@
+org_img_id: 2322122
+org_cap: a young boy with a messy mop of blonde hair and a blue t-shirt gazes up at a towering giraffe, the sun shining down on the scene.
+trg_cap: A young boy with a messy mop of blonde hair and a blue t-shirt gazes up at a towering giraffe, the sun shining down on the scene, with rows of grapevines stretching out in the background.
+instruction: Change the background to vineyard.
+taskid: 33161

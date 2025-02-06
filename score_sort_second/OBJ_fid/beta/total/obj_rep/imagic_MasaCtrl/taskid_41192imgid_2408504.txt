@@ -1,0 +1,5 @@
+org_img_id: 2408504
+org_cap: The rusty, yellow fire hydrant is a cylinder, standing tall in the middle of a lush green lawn.
+trg_cap: The sports ball is sitting tall in the middle of a lush green lawn.
+instruction: Replace the fire hydrant with a sports ball.
+taskid: 41192

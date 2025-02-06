@@ -1,0 +1,5 @@
+org_img_id: 2383365
+org_cap: "a person in his mid-thirties with a rugged complexion and unkempt brown hair, his feet bare and dusty, his eyes fixed intently on the wind direction."
+trg_cap: a zebra, its feet bare and dusty, its eyes fixed intently on the wind direction.
+instruction: Replace the person with a zebra.
+taskid: 30609

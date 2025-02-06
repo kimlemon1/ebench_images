@@ -1,0 +1,5 @@
+org_img_id: 4641
+org_cap: the scene is focused on a single television, situated in a cozy living room with wooden flooring, a few pieces of furniture, and a few decorative items.
+trg_cap: The scene is focused on a single television, situated in a cozy living room with wooden flooring, a few pieces of furniture, a bed behind the TV, and a few decorative items.
+instruction: Add a bed behind the tv.
+taskid: 108281

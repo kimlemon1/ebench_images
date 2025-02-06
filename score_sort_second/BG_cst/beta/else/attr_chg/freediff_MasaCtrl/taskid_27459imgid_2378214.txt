@@ -1,0 +1,5 @@
+org_img_id: 2378214
+org_cap: A blue standing bird lands on a blue bowl, its wings, its beak into the blue bowl to gather seeds.
+trg_cap: A pink standing bird lands on a pink bowl, its wings, its beak into the pink bowl to gather seeds.
+instruction: Change the color of the bird from blue to pink.
+taskid: 27459

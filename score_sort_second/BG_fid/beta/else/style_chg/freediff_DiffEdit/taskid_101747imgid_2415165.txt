@@ -1,0 +1,5 @@
+org_img_id: 2415165
+org_cap: a standing person on the beach, with a blue surfboard against her leg.
+trg_cap: An oil painting depicts a person standing on the beach with a blue surfboard against her leg.
+instruction: Change the style if the image to oil painting style.
+taskid: 101747

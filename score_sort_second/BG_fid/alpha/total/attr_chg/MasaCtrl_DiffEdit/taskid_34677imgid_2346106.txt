@@ -1,0 +1,5 @@
+org_img_id: 2346106
+org_cap: Female person's hair clung to her forehead, her bikini top glistening with sea spray.
+trg_cap: Female person's hair clung to her forehead, her bikini top glistening with sea spray.
+instruction: Change the state of the person from female to male.
+taskid: 34677

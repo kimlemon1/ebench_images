@@ -1,0 +1,5 @@
+org_img_id: 2362733
+org_cap: person swings her person, her arm and her wrist as she prepares to hit the person.
+trg_cap: In the aquarium, the person swings her person, her arm and her wrist as she prepares to hit the person.
+instruction: Change the background to aquarium.
+taskid: 99213

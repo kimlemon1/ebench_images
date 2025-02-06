@@ -1,0 +1,5 @@
+org_img_id: 2378318
+org_cap: A baby elephant stands in the waters of a river, its trunk curled around a worn wooden yoke as a person in a bright blue shirt and a worn fedora hat stands beside it, his hand the person's ear.
+trg_cap: A adult elephant stands in the waters of a river, its trunk curled around a worn wooden yoke as a person in a bright blue shirt and a worn fedora hat stands beside it, his hand the person's ear.
+instruction: Change the state of the elephant from baby to adult.
+taskid: 112134

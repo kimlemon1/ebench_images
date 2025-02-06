@@ -1,0 +1,5 @@
+org_img_id: 2334067
+org_cap: a brown dog on a wet pavement.
+trg_cap: a blond dog on a wet pavement.
+instruction: Change the color of the dog from brown to blond.
+taskid: 54218

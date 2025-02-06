@@ -1,0 +1,5 @@
+org_img_id: 2337838
+org_cap: a bald man with a warm smile and a subtle stubble wears a black vest over a white shirt, accompanied by a black necktie with a subtle pattern and a white dress shirt underneath.
+trg_cap: A bald man with a warm smile and a subtle stubble wears a black vest over a white shirt, accompanied by a black neckbear and a white dress shirt underneath.
+instruction: Replace the tie with a bear.
+taskid: 76309

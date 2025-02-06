@@ -1,0 +1,5 @@
+org_img_id: 2398462
+org_cap: The red fire hydrant is a structure with a top and a bottom, standing upright on a concrete base, surrounded by a metal railing.
+trg_cap: The black fire hydrant is a structure with a top and a bottom, standing upright on a concrete base, surrounded by a metal railing.
+instruction: Change the color of the fire hydrant from red to black.
+taskid: 55090

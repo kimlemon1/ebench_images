@@ -1,0 +1,5 @@
+org_img_id: 2379672
+org_cap: A black cat sits on the edge of a white porcelain bathtub, its tail as it gazes down at a small child playing in the water below.
+trg_cap: A mosaic art depicts a black cat sitting on the edge of a white porcelain bathtub, its tail curling as it gazes down at a small child playing in the water below.
+instruction: Change the style if the image to mosaic art.
+taskid: 123943

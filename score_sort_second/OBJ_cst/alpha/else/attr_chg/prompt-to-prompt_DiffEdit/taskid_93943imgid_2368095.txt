@@ -1,0 +1,5 @@
+org_img_id: 2368095
+org_cap: a blond person, riding a yellow surfboard, through the waves with precision and skill.
+trg_cap: a blond person, riding a light brown surfboard, through the waves with precision and skill.
+instruction: Change the color of the surfboard from yellow to light brown.
+taskid: 93943

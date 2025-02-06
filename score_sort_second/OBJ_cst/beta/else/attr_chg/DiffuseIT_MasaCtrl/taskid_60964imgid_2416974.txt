@@ -1,0 +1,5 @@
+org_img_id: 2416974
+org_cap: The bathroom features a white sink, a white sink, and a white sink.
+trg_cap: The bathroom features a patterned sink, a patterned sink, and a patterned sink.
+instruction: Change the color of the sink from white to patterned.
+taskid: 60964

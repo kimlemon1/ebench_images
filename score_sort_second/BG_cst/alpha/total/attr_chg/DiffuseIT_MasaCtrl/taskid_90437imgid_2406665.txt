@@ -1,0 +1,5 @@
+org_img_id: 2406665
+org_cap: The microwave is a black microwave.
+trg_cap: The microwave is a brown microwave.
+instruction: Change the color of the microwave from black to brown.
+taskid: 90437

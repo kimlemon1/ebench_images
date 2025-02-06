@@ -1,0 +1,5 @@
+org_img_id: 2327929
+org_cap: Person stands beside the steam train, wearing a grey suit and holding a hat, his eyes fixed on the locomotive's wheels.
+trg_cap: Person stands beside the steam train, wearing a grey suit and holding a hat, his eyes fixed on the locomotive's wheels, with a giraffe standing next to him.
+instruction: Add a giraffe next to the person.
+taskid: 50901

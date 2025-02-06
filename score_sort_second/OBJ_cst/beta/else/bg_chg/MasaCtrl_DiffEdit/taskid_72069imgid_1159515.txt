@@ -1,0 +1,5 @@
+org_img_id: 1159515
+org_cap: Person in the midst of a charred and ruined living room, surrounded by scattered belongings and debris, with a faint glow emanating from the tv in the background.
+trg_cap: Person in the midst of a charred and ruined living room, surrounded by scattered belongings and debris, with a faint glow emanating from the tv in the background, and a view of a pine forest visible through the broken windows.
+instruction: Change the background to pine forest.
+taskid: 72069

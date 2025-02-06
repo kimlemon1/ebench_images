@@ -1,0 +1,5 @@
+org_img_id: 2392628
+org_cap: a group of people sit on a black couch.
+trg_cap: The art, in a pop art style, depicts a group of people sitting on a black couch.
+instruction: Change the style if the image to pop art style.
+taskid: 84532

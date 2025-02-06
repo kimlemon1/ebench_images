@@ -1,0 +1,5 @@
+org_img_id: 2410609
+org_cap: a standing person on a hill, with a colorful white kite, against a bright blue sky with a few wispy clouds.
+trg_cap: a standing person on a hill, with a colorful purple kite, against a bright blue sky with a few wispy clouds.
+instruction: Change the color of the kite from white to purple.
+taskid: 52405

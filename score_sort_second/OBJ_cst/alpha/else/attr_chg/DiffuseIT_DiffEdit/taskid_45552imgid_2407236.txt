@@ -1,0 +1,5 @@
+org_img_id: 2407236
+org_cap: a young person wearing a green helmet and a black and red jacket, with a black skateboard, is shown in mid-air, with the wheels blurred due to motion blur, as they perform a trick on a winding road surrounded by lush greenery.
+trg_cap: a young person wearing a green helmet and a gray and red jacket, with a gray skateboard, is shown in mid-air, with the wheels blurred due to motion blur, as they perform a trick on a winding road surrounded by lush greenery.
+instruction: Change the color of the skateboard from black to gray.
+taskid: 45552

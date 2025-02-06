@@ -1,0 +1,5 @@
+org_img_id: 2346543
+org_cap: person sits on a white surfboard, leaning against a concrete wall overlooking the ocean.
+trg_cap: person sits on a small white surfboard, leaning against a concrete wall overlooking the ocean.
+instruction: Make the surfboard smaller.
+taskid: 66859

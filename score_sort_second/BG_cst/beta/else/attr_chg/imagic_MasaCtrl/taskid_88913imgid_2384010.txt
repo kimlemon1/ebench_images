@@ -1,0 +1,5 @@
+org_img_id: 2384010
+org_cap: a standing brown horse in a rustic setting.
+trg_cap: a standing speckled horse in a rustic setting.
+instruction: Change the color of the horse from brown to speckled.
+taskid: 88913

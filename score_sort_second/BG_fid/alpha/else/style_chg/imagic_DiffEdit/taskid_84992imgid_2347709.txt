@@ -1,0 +1,5 @@
+org_img_id: 2347709
+org_cap: A brown, standing cow with a brown cowbell around its neck is down a dirt road lined with green trees and yellow flowers, its ears in the gentle breeze.
+trg_cap: A graffiti art piece features a brown, standing cow with a brown cowbell around its neck, positioned down a dirt road lined with green trees and yellow flowers, its ears swaying in the gentle breeze.
+instruction: Change the style if the image to graffiti art.
+taskid: 84992

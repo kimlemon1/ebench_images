@@ -1,0 +1,5 @@
+org_img_id: 2413590
+org_cap: A white bowl floats on the surface of a bath filled with soap bubbles, next to a black laptop.
+trg_cap: The mosaic art contains a white bowl floating on the surface of a bath filled with soap bubbles, next to a black laptop.
+instruction: Change the style if the image to mosaic art.
+taskid: 91200

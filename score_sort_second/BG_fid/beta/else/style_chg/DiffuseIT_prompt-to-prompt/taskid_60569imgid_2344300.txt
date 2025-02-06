@@ -1,0 +1,5 @@
+org_img_id: 2344300
+org_cap: Bending person surfing on his surfboard, wetsuit glistening with sea spray.
+trg_cap: A Van Gogh style artwork features a bending person surfing on a surfboard, their wetsuit glistening with sea spray.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 60569

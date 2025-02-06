@@ -1,0 +1,5 @@
+org_img_id: 2346195
+org_cap: A large cargo airplane, with its wings and tail in place, flies overhead, its engines roaring as it banks and turns in the sky.
+trg_cap: A large cargo airplane, approximately 230 feet long with a wingspan of 211 feet, with its wings and tail in place, flies overhead, its engines roaring as it banks and turns in the sky.
+instruction: Make the airplane larger.
+taskid: 100657

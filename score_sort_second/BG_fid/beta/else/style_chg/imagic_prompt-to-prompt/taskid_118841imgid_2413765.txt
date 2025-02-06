@@ -1,0 +1,5 @@
+org_img_id: 2413765
+org_cap: a young person with a colorful umbrella with a cartoon character on the umbrella.
+trg_cap: An ancient Egyptian-style artwork features a young person holding a colorful umbrella adorned with a cartoon character.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 118841

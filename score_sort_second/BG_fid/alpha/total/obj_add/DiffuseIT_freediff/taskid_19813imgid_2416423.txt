@@ -1,0 +1,5 @@
+org_img_id: 2416423
+org_cap: an elephant, gray, with a rider on its back, past a bus and other vehicles moving in the opposite direction.
+trg_cap: an elephant, gray, with a rider on its back, past a bus and other vehicles moving in the opposite direction, with a truck behind the elephant.
+instruction: Add a truck behind the elephant.
+taskid: 19813

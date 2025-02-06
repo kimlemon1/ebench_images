@@ -1,0 +1,5 @@
+org_img_id: 2373830
+org_cap: A white horse stands in a grassy area, its mane and tail in the wind, with a blue and red saddle pad and a pair of stirrups attached to the saddle.
+trg_cap: A white cow stands in a grassy area, with a blue and red saddle pad and a pair of stirrups attached to its saddle.
+instruction: Replace the horse with a cow.
+taskid: 59884

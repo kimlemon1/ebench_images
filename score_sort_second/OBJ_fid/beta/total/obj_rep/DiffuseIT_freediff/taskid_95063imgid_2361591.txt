@@ -1,0 +1,5 @@
+org_img_id: 2361591
+org_cap: a large adult elephant, with a mottled brown and gray skin, and a long, curved tusk, its trunk curled, as a safari vehicle follows closely behind, with tourists taking photos and marveling at the majestic elephant.
+trg_cap: A large adult boat, as a safari vehicle follows closely behind, with tourists taking photos and marveling at its majestic form.
+instruction: Replace the elephant with a boat.
+taskid: 95063

@@ -1,0 +1,5 @@
+org_img_id: 2360244
+org_cap: The living room features a comfortable couch, a wooden tv stand, and a small table with a person's toy on it, with a person on the couch and a person on the floor.
+trg_cap: The living room features a comfortable couch, a wooden tv stand, a chair behind the tv, and a small table with a person's toy on it, with a person on the couch and a person on the floor.
+instruction: Add a chair behind the tv.
+taskid: 64539

@@ -1,0 +1,5 @@
+org_img_id: 2326953
+org_cap: a young person stands under a bright yellow umbrella, wearing a colorful striped dress and bright pink flip flops, with raindrops on their hair and face.
+trg_cap: A young person stands under a bright yellow umbrella, wearing a colorful striped dress and bright pink flip flops, with raindrops on their hair and face, inside a space station.
+instruction: Change the background to space station.
+taskid: 83606

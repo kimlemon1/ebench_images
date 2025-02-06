@@ -1,0 +1,5 @@
+org_img_id: 2337480
+org_cap: a high-speed train with a sleek, aerodynamic design, its silver and blue livery gleaming in the sunlight as it hurtles along the train, its wheels clicking rhythmically on the train.
+trg_cap: a high-speed train with a sleek, aerodynamic design, its silver and blue livery gleaming in the sunlight as it hurtles along the track, its wheels clicking rhythmically on the rails, while passengers enjoy gourmet meals in the onboard restaurant.
+instruction: Change the background to restaurant.
+taskid: 96472

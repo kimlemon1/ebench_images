@@ -1,0 +1,5 @@
+org_img_id: 2363304
+org_cap: Person carves through the snow in a position, their white skis down the mountain as they navigate the terrain.
+trg_cap: Person carves through the snow in a position, their large white skis down the mountain as they navigate the terrain.
+instruction: Make the skis larger.
+taskid: 66510

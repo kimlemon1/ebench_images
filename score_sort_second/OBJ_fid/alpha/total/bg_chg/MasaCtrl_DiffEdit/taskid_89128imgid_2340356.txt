@@ -1,0 +1,5 @@
+org_img_id: 2340356
+org_cap: a young person in a red shirt and helmet stands on a skateboard, with his knees bent and his arms outstretched for balance.
+trg_cap: A young person in a red shirt and helmet stands on a skateboard, with his knees bent and his arms outstretched for balance, in the quiet setting of a library.
+instruction: Change the background to library.
+taskid: 89128

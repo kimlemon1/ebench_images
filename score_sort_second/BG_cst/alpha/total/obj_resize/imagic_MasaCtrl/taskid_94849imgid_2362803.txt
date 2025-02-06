@@ -1,0 +1,5 @@
+org_img_id: 2362803
+org_cap: person through the snow in their black backpack, their snowshoes on the frozen terrain as they up the mountain.
+trg_cap: person through the snow in their large black backpack, their snowshoes on the frozen terrain as they up the mountain.
+instruction: Make the backpack larger.
+taskid: 94849

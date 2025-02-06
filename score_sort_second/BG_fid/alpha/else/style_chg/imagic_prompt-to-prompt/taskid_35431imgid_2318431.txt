@@ -1,0 +1,5 @@
+org_img_id: 2318431
+org_cap: A white train glides along the white train, its wheels clicking against the white train as it approaches the white train, where a person in a bright yellow vest stands waiting.
+trg_cap: A Van Gogh style art depicts a white train gliding along the tracks, its wheels clicking as it approaches a station where a person in a bright yellow vest stands waiting.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 35431

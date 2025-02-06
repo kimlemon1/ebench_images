@@ -1,0 +1,5 @@
+org_img_id: 2411507
+org_cap: a wooden desk with a worn wooden chair in front of it holds a laptop on, surrounded by stacks of papers, photographs, and other miscellaneous items.
+trg_cap: A wooden desk with a worn wooden chair in front of it holds a laptop on, with a TV behind the laptop, surrounded by stacks of papers, photographs, and other miscellaneous items.
+instruction: Add a tv behind the laptop.
+taskid: 69285

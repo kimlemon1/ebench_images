@@ -1,0 +1,5 @@
+org_img_id: 2335598
+org_cap: a majestic elephant with a worn saddle and colorful blankets covering its back, its gray skin in the sunlight.
+trg_cap: An ancient Egyptian-style artwork features a majestic elephant with a worn saddle and colorful blankets covering its back, its gray skin glistening in the sunlight.
+instruction: Change the style if the image to ancient egypt style.
+taskid: 61201

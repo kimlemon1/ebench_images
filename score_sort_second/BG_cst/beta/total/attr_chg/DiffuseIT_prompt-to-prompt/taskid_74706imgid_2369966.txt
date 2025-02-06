@@ -1,0 +1,5 @@
+org_img_id: 2369966
+org_cap: The sink is a white sink with a single faucet handle and a rectangular shape, situated in a small bathroom with a pale pink wall and a wooden door.
+trg_cap: The sink is a beige sink with a single faucet handle and a rectangular shape, situated in a small bathroom with a pale pink wall and a wooden door.
+instruction: Change the color of the sink from white to beige.
+taskid: 74706

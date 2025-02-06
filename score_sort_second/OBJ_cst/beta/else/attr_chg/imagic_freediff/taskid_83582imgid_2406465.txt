@@ -1,0 +1,5 @@
+org_img_id: 2406465
+org_cap: The scene features a stroller with a red umbrella attached to the handle, providing shade for a seated mother holding a baby and surrounded by a few baby essentials.
+trg_cap: The scene features a stroller with a teal umbrella attached to the handle, providing shade for a seated mother holding a baby and surrounded by a few baby essentials.
+instruction: Change the color of the umbrella from red to teal.
+taskid: 83582

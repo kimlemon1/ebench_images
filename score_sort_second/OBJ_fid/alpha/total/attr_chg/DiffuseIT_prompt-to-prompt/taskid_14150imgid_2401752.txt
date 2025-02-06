@@ -1,0 +1,5 @@
+org_img_id: 2401752
+org_cap: a yellow train with a train driver standing outside the train driver's cab, wearing a yellow jacket and a hat.
+trg_cap: a black and white train with a train driver standing outside the train driver's cab, wearing a black and white jacket and a hat.
+instruction: Change the color of the train from yellow to black and white.
+taskid: 14150

@@ -1,0 +1,5 @@
+org_img_id: 2320175
+org_cap: A gray train chugs along the tracks, its wheels clicking rhythmically as it carries passengers under the vaulted glass roof of the train station.
+trg_cap: A gray train chugs along the tracks beside the shimmering lake, its wheels clicking rhythmically as it carries passengers under the vaulted glass roof of the train station.
+instruction: Change the background to lake side.
+taskid: 64578

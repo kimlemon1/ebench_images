@@ -1,0 +1,5 @@
+org_img_id: 1592293
+org_cap: A person wearing a casual outfit and sunglasses rode a motorcycle with a sleek design past a modern gas station with a bright blue and white awning.
+trg_cap: A person wearing a casual outfit and sunglasses rode a bicycle past a modern gas station with a bright blue and white awning.
+instruction: Replace the motorcycle with a cell phone.
+taskid: 59307

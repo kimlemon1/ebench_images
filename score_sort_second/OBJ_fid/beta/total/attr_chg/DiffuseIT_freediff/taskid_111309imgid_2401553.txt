@@ -1,0 +1,5 @@
+org_img_id: 2401553
+org_cap: a gray, walking baby elephant, its ears as it across the ground.
+trg_cap: a black, walking baby elephant, its ears as it across the ground.
+instruction: Change the color of the elephant from gray to black.
+taskid: 111309

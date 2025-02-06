@@ -1,0 +1,5 @@
+org_img_id: 2347924
+org_cap: a black bus.
+trg_cap: a small black bus.
+instruction: Make the bus smaller.
+taskid: 65603

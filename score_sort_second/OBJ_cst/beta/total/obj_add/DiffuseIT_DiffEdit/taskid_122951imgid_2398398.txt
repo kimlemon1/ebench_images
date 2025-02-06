@@ -1,0 +1,5 @@
+org_img_id: 2398398
+org_cap: a walking person, accompanied by their dog, with a bench standing solitary in the distance.
+trg_cap: a walking person, accompanied by their dog, with a kite flying in front of them, and a bench standing solitary in the distance.
+instruction: Add a kite in front of the person.
+taskid: 122951

@@ -1,0 +1,5 @@
+org_img_id: 2398503
+org_cap: the person holds a brown donut with a bite taken out of the brown donut, the warm light of the morning sun highlighting the glaze and the interior.
+trg_cap: the person holds a light brown donut with a bite taken out of the light brown donut, the warm light of the morning sun highlighting the glaze and the interior.
+instruction: Change the color of the donut from brown to light brown.
+taskid: 121468

@@ -1,0 +1,5 @@
+org_img_id: 2389905
+org_cap: A blue metal fire hydrant stands tall on a patch of green grass, its cap and valve gleaming in the sunlight.
+trg_cap: A blue steel fire hydrant stands tall on a patch of green grass, its cap and valve gleaming in the sunlight.
+instruction: Change the material of the fire hydrant from metal to steel.
+taskid: 5637

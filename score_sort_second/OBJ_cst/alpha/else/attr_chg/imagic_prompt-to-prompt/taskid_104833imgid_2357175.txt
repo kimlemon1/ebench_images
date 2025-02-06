@@ -1,0 +1,5 @@
+org_img_id: 2357175
+org_cap: A white boat glides effortlessly across the calm, turquoise waters of the ocean, its sails billowing in the gentle breeze as it makes its way towards the distant shore.
+trg_cap: A rainbow colored boat glides effortlessly across the calm, turquoise waters of the ocean, its sails billowing in the gentle breeze as it makes its way towards the distant shore.
+instruction: Change the color of the boat from white to rainbow colored.
+taskid: 104833

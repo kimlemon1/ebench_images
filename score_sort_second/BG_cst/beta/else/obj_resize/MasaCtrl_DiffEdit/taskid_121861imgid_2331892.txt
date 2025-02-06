@@ -1,0 +1,5 @@
+org_img_id: 2331892
+org_cap: a white train stands on the platform, its bright yellow headlights and rear lights illuminating the dark evening air as it prepares to depart, its train adorned with the logo and livery of a white train.
+trg_cap: a small white train stands on the platform, its bright yellow headlights and rear lights illuminating the dark evening air as it prepares to depart, its train adorned with the logo and livery of a white train.
+instruction: Make the train smaller.
+taskid: 121861

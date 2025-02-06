@@ -1,0 +1,5 @@
+org_img_id: 2373569
+org_cap: The room is filled with the glow of a white microwave, situated in a small kitchen area with a tile floor and wooden cabinets.
+trg_cap: The room is filled with the glow of a white microwave, situated in a small kitchen area with a tile floor and wooden cabinets, with a clock on the left side of the microwave.
+instruction: Add a clock on the left side of the microwave.
+taskid: 85716

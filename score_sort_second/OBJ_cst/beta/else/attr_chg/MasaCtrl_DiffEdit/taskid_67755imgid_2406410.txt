@@ -1,0 +1,5 @@
+org_img_id: 2406410
+org_cap: The young, blond person playing swings her racket, arm cocked back at a slight angle as she unleashes a forehand shot, ponytail bobbing with each stroke, eyes fixed on the ball as she tracks its trajectory across the court.
+trg_cap: The old, blond person playing swings her racket, arm cocked back at a slight angle as she unleashes a forehand shot, ponytail bobbing with each stroke, eyes fixed on the ball as she tracks its trajectory across the court.
+instruction: Change the state of the person from young to old.
+taskid: 67755

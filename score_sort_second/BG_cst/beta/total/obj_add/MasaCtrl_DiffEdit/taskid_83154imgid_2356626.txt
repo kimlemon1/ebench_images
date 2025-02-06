@@ -1,0 +1,5 @@
+org_img_id: 2356626
+org_cap: Smiling, blond person, across the calm lake surface.
+trg_cap: Smiling, blond person, on a motorcycle under them, across the calm lake surface.
+instruction: Add a motorcycle under the person.
+taskid: 83154

@@ -1,0 +1,5 @@
+org_img_id: 2401078
+org_cap: Wet, surfing person, his face set in a determined expression.
+trg_cap: Wet, surfing person, his face set in a determined expression.
+instruction: Change the state of the person from wet to dry.
+taskid: 8444

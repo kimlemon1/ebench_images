@@ -1,0 +1,5 @@
+org_img_id: 2333118
+org_cap: person stands on the tennis court, his white tennis outfit contrasting with the lush green grass beneath his feet. his racket is held, his eyes fixed on the ball as it soars towards him.
+trg_cap: A small person stands on the tennis court, his white tennis outfit contrasting with the lush green grass beneath his feet. his racket is held, his eyes fixed on the ball as it soars towards him.
+instruction: Make the person smaller.
+taskid: 111757

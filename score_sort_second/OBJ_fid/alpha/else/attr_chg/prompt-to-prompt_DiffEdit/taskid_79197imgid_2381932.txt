@@ -1,0 +1,5 @@
+org_img_id: 2381932
+org_cap: The black traffic light features a circle with a smiling face in the center.
+trg_cap: The white traffic light features a circle with a smiling face in the center.
+instruction: Change the color of the traffic light from black to white.
+taskid: 79197

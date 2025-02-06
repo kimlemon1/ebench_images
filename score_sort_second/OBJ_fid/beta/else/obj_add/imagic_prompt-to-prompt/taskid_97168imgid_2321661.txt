@@ -1,0 +1,5 @@
+org_img_id: 2321661
+org_cap: The scene is a white dog with a person standing opposite him.
+trg_cap: The scene is a white dog with a person standing opposite him, and a bench behind the dog.
+instruction: Add a bench behind the dog.
+taskid: 97168

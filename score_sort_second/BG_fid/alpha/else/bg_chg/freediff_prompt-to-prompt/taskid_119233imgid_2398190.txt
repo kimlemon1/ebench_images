@@ -1,0 +1,5 @@
+org_img_id: 2398190
+org_cap: The dog is a medium-sized animal with a brown and black coat, a tail, and a distinctive shape to its ears.
+trg_cap: The dog is a medium-sized animal with a brown and black coat, a tail, and a distinctive shape to its ears, standing out against the white expanse of the snow field.
+instruction: Change the background to snow field.
+taskid: 119233

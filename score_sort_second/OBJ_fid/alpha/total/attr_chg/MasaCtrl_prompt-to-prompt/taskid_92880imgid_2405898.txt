@@ -1,0 +1,5 @@
+org_img_id: 2405898
+org_cap: A glazed donut with a bite taken out of it sits on a colorful tray next to a cup of coffee with a straw and a few orange birds on the edge of the tray.
+trg_cap: A unglazed donut with a bite taken out of it sits on a colorful tray next to a cup of coffee with a straw and a few orange birds on the edge of the tray.
+instruction: Change the state of the donut from glazed to unglazed.
+taskid: 92880

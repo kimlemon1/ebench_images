@@ -1,0 +1,5 @@
+org_img_id: 2376336
+org_cap: an adult black zebra eating and grazing in a grassy enclosure.
+trg_cap: an immature black zebra eating and grazing in a grassy enclosure.
+instruction: Change the state of the zebra from adult to immature.
+taskid: 12138

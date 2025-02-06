@@ -1,0 +1,5 @@
+org_img_id: 2388562
+org_cap: an white airplane flying steadily and smoothly through the sky with its wings slightly tilted upwards.
+trg_cap: A grayscale photo depicts a white airplane flying steadily and smoothly through the sky with its wings slightly tilted upwards.
+instruction: Change the style if the image to grey scale.
+taskid: 2728

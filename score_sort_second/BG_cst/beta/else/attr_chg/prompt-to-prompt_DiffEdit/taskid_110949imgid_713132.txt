@@ -1,0 +1,5 @@
+org_img_id: 713132
+org_cap: a blue truck, driven by a person.
+trg_cap: a teal truck, driven by a person.
+instruction: Change the color of the truck from blue to teal.
+taskid: 110949

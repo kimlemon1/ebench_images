@@ -1,0 +1,5 @@
+org_img_id: 2342138
+org_cap: Blond surfing person on surfboard as he the turbulent water.
+trg_cap: An oil painting style artwork depicts a blond person surfing on a surfboard amidst turbulent water.
+instruction: Change the style if the image to oil painting style.
+taskid: 63460

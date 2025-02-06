@@ -1,0 +1,5 @@
+org_img_id: 2401783
+org_cap: The open, silver laptop sat on a table by the window, its screen glowing softly in the dim light of the train carriage.
+trg_cap: The open, silver laptop sat on a table by the window, its screen glowing softly in the dim light of the train carriage as it passed through a dense pine forest.
+instruction: Change the background to pine forest.
+taskid: 39780

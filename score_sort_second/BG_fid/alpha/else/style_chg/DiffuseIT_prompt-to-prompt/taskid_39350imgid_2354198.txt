@@ -1,0 +1,5 @@
+org_img_id: 2354198
+org_cap: standing, posing, blond person on a winding path, a tennis racket in her right hand and a skirt with a blouse and flip flops.
+trg_cap: A Van Gogh style art features a blond person standing and posing on a winding path, holding a tennis racket in her right hand, and wearing a skirt with a blouse and flip flops.
+instruction: Change the style if the image to Van Gogh style.
+taskid: 39350

@@ -1,0 +1,5 @@
+org_img_id: 2383204
+org_cap: A green bus travels along the road.
+trg_cap: A teal bus travels along the road.
+instruction: Change the color of the bus from green to teal.
+taskid: 122239

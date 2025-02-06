@@ -1,0 +1,5 @@
+org_img_id: 2372630
+org_cap: the cake is a white cake with a layer of blue frosting and two polar bears made of sugar on top, surrounded by silver sprinkles and a white ribbon.
+trg_cap: the cake is a dark brown cake with a layer of blue frosting and two polar bears made of sugar on top, surrounded by silver sprinkles and a dark brown ribbon.
+instruction: Change the color of the cake from white to dark brown.
+taskid: 49257

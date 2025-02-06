@@ -1,0 +1,5 @@
+org_img_id: 2351700
+org_cap: a cream-colored cow, its horns and ears slightly bent, and its eyes gazing calmly into the distance.
+trg_cap: a cream-colored cow, its horns and ears slightly bent, and its eyes gazing calmly into the distance.
+instruction: Change the color of the cow from cream colored to striped.
+taskid: 90771

@@ -1,0 +1,5 @@
+org_img_id: 2351491
+org_cap: a green double-decker bus with a bright yellow stripe and a distinctive curved front, driven by a person wearing a uniform.
+trg_cap: a small green double-decker bus with a bright yellow stripe and a distinctive curved front, driven by a person wearing a uniform.
+instruction: Make the bus smaller.
+taskid: 93763

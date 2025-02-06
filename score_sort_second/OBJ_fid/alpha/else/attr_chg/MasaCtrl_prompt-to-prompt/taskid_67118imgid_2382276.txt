@@ -1,0 +1,5 @@
+org_img_id: 2382276
+org_cap: A brown, unpeeled banana sits next to a ripe red apple and a banana with a goofy grin.
+trg_cap: A white, unpeeled banana sits next to a ripe red apple and a banana with a goofy grin.
+instruction: Change the color of the banana from brown to white.
+taskid: 67118

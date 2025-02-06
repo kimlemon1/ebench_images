@@ -1,0 +1,5 @@
+org_img_id: 2413083
+org_cap: Skating person wears a sweater and jeans, his hair messy from a skateboarding session.
+trg_cap: A graffiti art piece depicts a skating person wearing a sweater and jeans, with messy hair from a skateboarding session.
+instruction: Change the style if the image to graffiti art.
+taskid: 32206

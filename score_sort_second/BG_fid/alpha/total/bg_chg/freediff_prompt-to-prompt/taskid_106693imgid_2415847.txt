@@ -1,0 +1,5 @@
+org_img_id: 2415847
+org_cap: The blue motorcycle sits proudly against a backdrop of weathered garage doors and worn pavement.
+trg_cap: The blue motorcycle sits proudly against a backdrop of airport hangars and worn pavement.
+instruction: Change the background to airport.
+taskid: 106693

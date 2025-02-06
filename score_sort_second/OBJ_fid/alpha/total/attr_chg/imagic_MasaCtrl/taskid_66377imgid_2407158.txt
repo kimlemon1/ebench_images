@@ -1,0 +1,5 @@
+org_img_id: 2407158
+org_cap: a white wood boat tied to a dock with a rope and buoy, floating gently in the calm waters of a harbor.
+trg_cap: a white plastic boat tied to a dock with a rope and buoy, floating gently in the calm waters of a harbor.
+instruction: Change the material of the boat from wood to plastic.
+taskid: 66377

@@ -1,0 +1,5 @@
+org_img_id: 4635
+org_cap: The couch is a purple color.
+trg_cap: The couch is a maroon color.
+instruction: Change the color of the couch from purple to maroon.
+taskid: 95562

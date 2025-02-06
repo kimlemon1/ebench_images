@@ -1,0 +1,5 @@
+org_img_id: 498053
+org_cap: The blue bus is a bright blue, with a cartoonish design featuring cartoon characters and bright colors, and has a big smile painted on the side.
+trg_cap: The brown bus is a bright brown, with a cartoonish design featuring cartoon characters and bright colors, and has a big smile painted on the side.
+instruction: Change the color of the bus from blue to brown.
+taskid: 87488

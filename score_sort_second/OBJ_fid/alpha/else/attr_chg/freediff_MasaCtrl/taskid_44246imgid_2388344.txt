@@ -1,0 +1,5 @@
+org_img_id: 2388344
+org_cap: A standing, eating, white, grazing zebra on the grassy terrain, its stripes glistening in the sunlight.
+trg_cap: A standing, eating, gray, grazing zebra on the grassy terrain, its stripes glistening in the sunlight.
+instruction: Change the color of the zebra from white to gray.
+taskid: 44246

@@ -1,0 +1,5 @@
+org_img_id: 2364629
+org_cap: The stop sign is a green stop sign with the word "stop" written in white letters.
+trg_cap: A graffiti art piece features a green stop sign with the word "stop" written in white letters.
+instruction: Change the style if the image to graffiti art.
+taskid: 100878

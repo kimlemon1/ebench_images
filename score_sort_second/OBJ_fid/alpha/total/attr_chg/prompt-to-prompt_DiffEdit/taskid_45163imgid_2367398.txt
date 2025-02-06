@@ -1,0 +1,5 @@
+org_img_id: 2367398
+org_cap: a blue, steel train, on a single track surrounded by trees and a small station building in the background.
+trg_cap: a pink, steel train, on a single track surrounded by trees and a small station building in the background.
+instruction: Change the color of the train from blue to pink.
+taskid: 45163

@@ -1,0 +1,5 @@
+org_img_id: 2374642
+org_cap: a lone person, his silhouette stark against the sunlit waves and foamy crests.
+trg_cap: A grey scale photo features a lone person, his silhouette stark against the sunlit waves and foamy crests.
+instruction: Change the style if the image to grey scale.
+taskid: 83315

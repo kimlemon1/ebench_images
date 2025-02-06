@@ -1,0 +1,5 @@
+org_img_id: 2342558
+org_cap: a table with a wooden table top and a few wine glasses sits in a cozy room with a warm glow, surrounded by lush greenery and a few wine bottles, with a group of people, including person, seated around the table, each holding a wine glass and smiling at the camera.
+trg_cap: A table with a wooden table top and a few wine glasses sits in a cozy room with a warm glow, surrounded by desert scenery and a few wine bottles, with a group of people, including person, seated around the table, each holding a wine glass and smiling at the camera.
+instruction: Change the background to desert.
+taskid: 73601

@@ -1,0 +1,5 @@
+org_img_id: 2327441
+org_cap: the clock on the building above the sign features a smiling face with a distinctive mustache and a nodding head, surrounded by a circular frame with a red border.
+trg_cap: The mosaic art features a clock on the building above the sign, with a smiling face, a distinctive mustache, and a nodding head, all surrounded by a circular frame with a red border.
+instruction: Change the style if the image to mosaic art.
+taskid: 2340

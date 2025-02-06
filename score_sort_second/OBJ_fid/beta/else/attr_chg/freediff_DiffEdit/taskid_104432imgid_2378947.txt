@@ -1,0 +1,5 @@
+org_img_id: 2378947
+org_cap: A white motorcycle sits proudly on display.
+trg_cap: A purple motorcycle sits proudly on display.
+instruction: Change the color of the motorcycle from white to purple.
+taskid: 104432

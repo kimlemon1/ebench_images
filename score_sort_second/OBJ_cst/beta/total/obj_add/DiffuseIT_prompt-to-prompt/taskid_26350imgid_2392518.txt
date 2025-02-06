@@ -1,0 +1,5 @@
+org_img_id: 2392518
+org_cap: a road with a mix of cars and buses, including a white bus driving down the street, surrounded by tall buildings and colorful lanterns hanging from the overhead bridge.
+trg_cap: a road with a mix of cars and buses, including a white bus driving down the street with a truck behind it, surrounded by tall buildings and colorful lanterns hanging from the overhead bridge.
+instruction: Add a truck behind the bus.
+taskid: 26350

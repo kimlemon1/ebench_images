@@ -1,0 +1,5 @@
+org_img_id: 2388274
+org_cap: a man wearing a brown wool coat with a fitted waist and a flared hem, a white dress shirt with a slim collar and a subtle sheen, a black striped necktie, and a pair of black glasses with thick frames, holding a can of beer and a bag of potato chips.
+trg_cap: A man wearing a brown wool coat with a fitted waist and a flared hem, a white dress shirt with a slim collar and a subtle sheen, a black striped necktie, and a pair of black glasses with thick frames, holding a can of beer and a bag of potato chips, stands atop a mountain.
+instruction: Change the background to mountain top.
+taskid: 33782

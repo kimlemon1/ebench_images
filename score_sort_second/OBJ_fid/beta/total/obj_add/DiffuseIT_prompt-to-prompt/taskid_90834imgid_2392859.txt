@@ -1,0 +1,5 @@
+org_img_id: 2392859
+org_cap: The room features a gray TV, situated on a low table in the center of the room, surrounded by a circular coffee table and two armchairs.
+trg_cap: The room features a gray TV, situated on a low table in the center of the room with a book on top, surrounded by a circular coffee table and two armchairs.
+instruction: Add a book on the tv.
+taskid: 90834

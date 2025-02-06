@@ -1,0 +1,5 @@
+org_img_id: 2404335
+org_cap: a colorful blue airplane soaring through the clear blue sky with a trail of smoke behind it.
+trg_cap: a large, colorful blue airplane soaring through the clear blue sky with a trail of smoke behind it.
+instruction: Make the airplane larger.
+taskid: 123268

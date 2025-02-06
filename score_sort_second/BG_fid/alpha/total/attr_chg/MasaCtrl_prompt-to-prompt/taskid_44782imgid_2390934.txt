@@ -1,0 +1,5 @@
+org_img_id: 2390934
+org_cap: a gray train, gliding smoothly along the tracks on a sunny day.
+trg_cap: a purple train, gliding smoothly along the tracks on a sunny day.
+instruction: Change the color of the train from gray to purple.
+taskid: 44782

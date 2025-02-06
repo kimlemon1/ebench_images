@@ -1,0 +1,5 @@
+org_img_id: 2361000
+org_cap: a young person with a rugged physique and a shaved head at the edge of a waterfall, his eyes on the torrent of water cascading down the rocky face behind him, his chest and arms with water droplets as the rain around him.
+trg_cap: a young person with a rugged physique and a shaved head at the edge of a waterfall, his eyes on the torrent of water cascading down the rocky face behind him, his chest and arms with water droplets as the rain around him, surrounded by the lush greenery of a countryside farm.
+instruction: Change the background to country side farm.
+taskid: 41470

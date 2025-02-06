@@ -1,0 +1,5 @@
+org_img_id: 2381176
+org_cap: a colorful, rainbow colored kite with a long, curved tail and a colorful, rainbow colored kite, soaring high in the kite against a backdrop of fluffy white clouds and a colorful, rainbow colored kite with a few wispy clouds.
+trg_cap: a black, rainbow colored kite with a long, curved tail and a black, rainbow colored kite, soaring high in the kite against a backdrop of fluffy white clouds and a black, rainbow colored kite with a few wispy clouds.
+instruction: Change the color of the kite from colorful to black.
+taskid: 104471

@@ -1,0 +1,5 @@
+org_img_id: 2414754
+org_cap: the train is a bright red color with a distinctive rounded front and a long, sleek body, featuring large windows and a door with a distinctive rounded shape.
+trg_cap: The train, set against the backdrop of a vast desert landscape, is a bright red color with a distinctive rounded front and a long, sleek body, featuring large windows and a door with a distinctive rounded shape.
+instruction: Change the background to desert.
+taskid: 89270

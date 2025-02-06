@@ -1,0 +1,5 @@
+org_img_id: 713599
+org_cap: The scene features a bustling city street with a elevated train track above, a silver train traveling along the street, and various silver trains and pedestrians moving through the scene.
+trg_cap: The scene features a bustling city street with an elevated train track above, a small silver train traveling along the street, and various silver trains and pedestrians moving through the scene.
+instruction: Make the train smaller.
+taskid: 15957

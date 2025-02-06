@@ -1,0 +1,5 @@
+org_img_id: 61601
+org_cap: a sleek, silver airplane with a pointed nose and long, thin wings glides smoothly through the clear blue sky, its engines humming softly as it soars towards its destination.
+trg_cap: The graffiti art depicts a sleek, silver airplane with a pointed nose and long, thin wings gliding smoothly through the clear blue sky, its engines humming softly as it soars towards its destination.
+instruction: Change the style if the image to graffiti art.
+taskid: 92332

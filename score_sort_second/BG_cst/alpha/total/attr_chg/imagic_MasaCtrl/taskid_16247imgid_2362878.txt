@@ -1,0 +1,5 @@
+org_img_id: 2362878
+org_cap: A black laptop sits open on a desk, surrounded by papers and notes.
+trg_cap: A gray laptop sits open on a desk, surrounded by papers and notes.
+instruction: Change the color of the laptop from black to gray.
+taskid: 16247

@@ -1,0 +1,5 @@
+org_img_id: 2323464
+org_cap: a person walks along the beach, holding a colorful kite with a blue and yellow tail, and a little person runs alongside, laughing and chasing after the kite as it soars into the sky.
+trg_cap: a person walks along the beach, holding a large colorful kite with a blue and yellow tail, and a little person runs alongside, laughing and chasing after the kite as it soars into the sky.
+instruction: Make the kite larger.
+taskid: 31107

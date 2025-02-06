@@ -1,0 +1,5 @@
+org_img_id: 2324802
+org_cap: a young person in a blue and orange jumpsuit, wearing a helmet and goggles, is on the water, his board leaving a trail of spray and foam behind him.
+trg_cap: A young person in a blue and orange jumpsuit, wearing a helmet and goggles, is on the water, his surfboard under him, leaving a trail of spray and foam behind him.
+instruction: Add a surfboard under the person.
+taskid: 18472

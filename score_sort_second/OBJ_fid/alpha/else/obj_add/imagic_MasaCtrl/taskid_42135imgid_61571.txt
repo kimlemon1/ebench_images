@@ -1,0 +1,5 @@
+org_img_id: 61571
+org_cap: a brown dog, paws on the edge of a worn green couch, at a warm beige blanket that's been tossed over the back of the couch.
+trg_cap: a brown dog, paws on the edge of a worn green couch, at a warm beige blanket that's been tossed over the back of the couch, with a person standing behind the dog.
+instruction: Add a person behind the dog.
+taskid: 42135
